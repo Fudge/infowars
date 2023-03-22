@@ -1,0 +1,2106 @@
+whisper_model_load: loading model from 'whisper.cpp/models/ggml-large.bin'
+whisper_model_load: n_vocab       = 51865
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 80
+whisper_model_load: f16           = 1
+whisper_model_load: type          = 5
+whisper_model_load: adding 1608 extra tokens
+whisper_model_load: mem_required  = 4712.00 MB
+whisper_model_load: ggml ctx size = 2950.97 MB
+whisper_model_load: memory size   =  304.38 MB
+whisper_model_load: model size    = 2950.66 MB
+
+system_info: n_threads = 6 / 16 | AVX = 1 | AVX2 = 1 | AVX512 = 0 | NEON = 0 | F16C = 1 | FP16_VA = 0 | WASM_SIMD = 0 | BLAS = 0 | 
+
+main: processing './wav/20081012_Sun_Alex.wav' (115110139 samples, 7194.4 sec), 6 threads, 1 processors, lang = en, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:05.600]   Thank you for listening to GCA.
+[00:00:05.600 --> 00:00:06.600]   It's four o'clock.
+[00:00:06.600 --> 00:00:17.660]   I am Pete LeValley with global markets closed for the weekend.
+[00:00:17.660 --> 00:00:22.160]   It gives international leaders time to talk before taking more action on the worldwide
+[00:00:22.160 --> 00:00:23.500]   financial crisis.
+[00:00:23.500 --> 00:00:29.000]   As for any Americans considering protecting just our own, Treasury Secretary Henry Paulson
+[00:00:29.000 --> 00:00:33.600]   says isolationism and protectionism are not the way to contain the damage.
+[00:00:33.600 --> 00:00:38.040]   Correspondent Tim McGuire is covering the World Bank meeting in Washington.
+[00:00:38.040 --> 00:00:42.700]   Politicians and economists want to avoid at all costs the go-it-alone protectionist approach
+[00:00:42.700 --> 00:00:46.240]   that made things so much worse during the Great Depression.
+[00:00:46.240 --> 00:00:49.760]   The World Bank's policy board is meeting today in Washington.
+[00:00:49.760 --> 00:00:54.160]   The group has already issued a warning that the global economic crisis is a greater threat
+[00:00:54.160 --> 00:00:56.040]   to the poorest nations.
+[00:00:56.040 --> 00:01:00.440]   That's because they're already wracked by growing food and fuel costs, and bigger countries
+[00:01:00.440 --> 00:01:03.280]   may not be able to help them survive.
+[00:01:03.280 --> 00:01:04.880]   Tim McGuire, Washington.
+[00:01:04.880 --> 00:01:08.800]   This is IRN, USA Radio News.
+[00:01:08.800 --> 00:01:15.480]   As a parent, are you worried about what kind of society your children will live in?
+[00:01:15.480 --> 00:01:20.840]   No matter how you structure your future, all is at risk.
+[00:01:20.840 --> 00:01:22.520]   Money won't protect you.
+[00:01:22.520 --> 00:01:24.800]   Position won't save you.
+[00:01:24.800 --> 00:01:28.080]   Your children's future is nil.
+[00:01:28.080 --> 00:01:31.120]   Our nation must change its direction.
+[00:01:31.120 --> 00:01:34.080]   But what is stopping it?
+[00:01:34.080 --> 00:01:35.080]   You are.
+[00:01:35.080 --> 00:01:37.360]   It all depends on you.
+[00:01:37.360 --> 00:01:42.480]   If you wonder how that can be, you won't after reading "Look What Happened While You Were
+[00:01:42.480 --> 00:01:50.160]   Sleeping," a couldn't-put-it-down book, thrilling, motivating, edge-of-the-seat reading that
+[00:01:50.160 --> 00:01:54.320]   will change the way you live and change this nation.
+[00:01:54.320 --> 00:01:56.480]   Look What Happened While You Were Sleeping.
+[00:01:56.480 --> 00:02:09.120]   Order on Amazon.com, Barnes & Noble, or call 205-672-2000.
+[00:02:09.120 --> 00:02:13.040]   One home and three motorhomes have gone up in flames from a wildfire on Angeles National
+[00:02:13.040 --> 00:02:18.240]   Forest, one that's forced the evacuation of some 1,200 people 20 miles north of downtown
+[00:02:18.240 --> 00:02:19.240]   LA.
+[00:02:19.240 --> 00:02:20.840]   In addition to the people, there were large animal evacuations.
+[00:02:20.840 --> 00:02:26.440]   So we had fire trucks going in, hot shot crews going in, aircraft overhead, and horse trailers
+[00:02:26.440 --> 00:02:28.280]   that were bringing those animals out.
+[00:02:28.280 --> 00:02:32.360]   The U.S. Forest Service says firefighters are now gaining ground on a fire.
+[00:02:32.360 --> 00:02:37.760]   In northern California, authorities say a rock struck by a car ignited a wildfire in
+[00:02:37.760 --> 00:02:43.740]   California's Napa Valley that destroyed a home and a barn and threatened several wineries.
+[00:02:43.740 --> 00:02:48.520]   The car's owner tried to extinguish the fire when it broke out Friday afternoon, but strong
+[00:02:48.520 --> 00:02:52.960]   winds in the hills near the town of St. Helena caused the fire to spread quickly.
+[00:02:52.960 --> 00:02:55.080]   Full containment expected today.
+[00:02:55.080 --> 00:02:59.280]   And pirates off Somalia have apparently fought off an attempt by Somali forces to retake
+[00:02:59.280 --> 00:03:02.000]   a ship seized for ransom last Thursday.
+[00:03:02.000 --> 00:03:08.520]   For news and analysis online, log on to IRNnews.com.
+[00:03:08.520 --> 00:03:10.520]   Do you suffer from cold sores?
+[00:03:10.520 --> 00:03:16.120]   Relieve One Day Cold Sore Symptom Treatment is out to prove how fast it really works.
+[00:03:16.120 --> 00:03:21.440]   If you suffer from those nasty sores, try Relieve and find out for yourself if Relieve
+[00:03:21.440 --> 00:03:23.880]   works really fast for you.
+[00:03:23.880 --> 00:03:26.840]   Relieve is spelled R-E-L-E-E-V.
+[00:03:26.840 --> 00:03:30.080]   It's easy to find and is in all major drugstores.
+[00:03:30.080 --> 00:03:35.360]   So if you get cold sores, remember to get Relieve now and keep it ready to use the moment
+[00:03:35.360 --> 00:03:38.960]   a cold sore attacks.
+[00:03:38.960 --> 00:03:44.080]   In Damascus, Palestinian President Mahmoud Abbas says he wants an end to the rift with
+[00:03:44.080 --> 00:03:45.080]   Hamas.
+[00:03:45.080 --> 00:03:47.560]   It is a rift that dates back to over a year.
+[00:03:47.560 --> 00:03:51.040]   Abbas says no one is happy to see the current divisions continuing.
+[00:03:51.040 --> 00:03:53.760]   He added no one would ever respect us if we go on.
+[00:03:53.760 --> 00:03:57.040]   A reconciliation already appears in the works.
+[00:03:57.040 --> 00:04:00.560]   Zimbabwe appears to be headed back into political crisis.
+[00:04:00.560 --> 00:04:04.880]   The leader of the opposition is threatening to pull out of a national unity government
+[00:04:04.880 --> 00:04:09.480]   if President Robert Mugabe refuses to cede control of key ministries.
+[00:04:09.480 --> 00:04:12.000]   He accuses Mugabe of power grabbing.
+[00:04:12.000 --> 00:04:15.640]   At least a dozen people have died after a strong earthquake struck Chechnya and other
+[00:04:15.640 --> 00:04:18.080]   parts of Russia's northern Caucasus region today.
+[00:04:18.080 --> 00:04:20.920]   The quake registered a magnitude of 5.3.
+[00:04:20.920 --> 00:04:23.240]   The death toll expected to rise.
+[00:04:23.240 --> 00:04:27.240]   A new accord has been reached on nuclear proliferation.
+[00:04:27.240 --> 00:04:29.240]   Correspondent Connie Long reports.
+[00:04:29.240 --> 00:04:35.000]   The United States has agreed to take North Korea off the list of nations sponsoring terrorism.
+[00:04:35.000 --> 00:04:40.220]   In exchange, North Korea has once again agreed to cease processing of nuclear material which
+[00:04:40.220 --> 00:04:41.960]   can be used for weapons.
+[00:04:41.960 --> 00:04:47.440]   It is also supposed to stop exporting weapons material to dangerous regimes and terrorist
+[00:04:47.440 --> 00:04:48.440]   organizations.
+[00:04:48.440 --> 00:04:54.560]   The US, UN and other countries are supposed to have access to North Korea to continue
+[00:04:54.560 --> 00:04:56.440]   inspections at will.
+[00:04:56.440 --> 00:05:01.000]   The arrangement will be cancelled if North Korea violates the agreement.
+[00:05:01.000 --> 00:05:04.400]   Connie Long, IRN USA Radio News, Washington.
+[00:05:04.400 --> 00:05:07.880]   I'm Pete LeVallée, IRN USA Radio News.
+[00:05:07.880 --> 00:05:12.240]   Would you like to know how you can use water as fuel and laugh at the rising price of gas?
+[00:05:12.240 --> 00:05:14.880]   Then keep listening for a very special offer.
+[00:05:14.880 --> 00:05:19.560]   Gasfreedom.info has the information you need to learn about the newest hydrogen technology
+[00:05:19.560 --> 00:05:20.560]   available.
+[00:05:20.560 --> 00:05:24.120]   Gas Freedom is an affordable, practical, free energy device.
+[00:05:24.120 --> 00:05:29.280]   It uses electricity from your car's battery to separate water into a gas called HHO.
+[00:05:29.280 --> 00:05:34.640]   HHO, also called Brown's gas, burns efficiently and provides the energy your car needs.
+[00:05:34.640 --> 00:05:38.000]   In just 10 minutes you'll discover exactly how this is possible.
+[00:05:38.000 --> 00:05:40.640]   This is the secret the oil companies don't want you to know.
+[00:05:40.640 --> 00:05:45.040]   Learn how easy it is to extract energy from water to run your car and experience the most
+[00:05:45.040 --> 00:05:47.280]   powerful hydrogen cells available.
+[00:05:47.280 --> 00:05:53.760]   Visit GasFreedom.info and receive $59.95 off of your order by using coupon code GCN.
+[00:05:53.760 --> 00:05:56.800]   Turn any car into a hybrid and laugh all the way to the bank.
+[00:05:56.800 --> 00:06:02.040]   Visit GasFreedom.info or call 239-628-3708.
+[00:06:02.040 --> 00:06:05.240]   That's 239-628-3708.
+[00:06:05.240 --> 00:06:06.240]   Call today.
+[00:06:06.240 --> 00:06:15.240]   Prepare yourself for a talk radio experience like no other.
+[00:06:15.240 --> 00:06:21.160]   He stands for truth.
+[00:06:21.160 --> 00:06:24.360]   He stands for justice.
+[00:06:24.360 --> 00:06:26.360]   He stands for what's right.
+[00:06:26.360 --> 00:06:30.240]   This is the Alex Jones Show.
+[00:06:30.240 --> 00:06:38.480]   Call Alex now, toll free at 877-590-5525.
+[00:06:38.480 --> 00:06:44.480]   Now live from Austin, Texas, here's Alex Jones.
+[00:06:44.480 --> 00:06:45.480]   Welcome.
+[00:06:45.480 --> 00:06:47.840]   Thank you for joining us.
+[00:06:47.840 --> 00:06:49.560]   It is October 12, 2008.
+[00:06:49.560 --> 00:06:53.200]   We're going to be live here for the next two hours.
+[00:06:53.200 --> 00:06:58.880]   Coming up in the next hour, attorney Phil Berg, prominent lawyer.
+[00:06:58.880 --> 00:07:01.440]   He is going to be joining us.
+[00:07:01.440 --> 00:07:06.200]   He has been trying to force the federal government, which they would normally do for any other
+[00:07:06.200 --> 00:07:12.360]   candidate, to release the birth certificate of Barack Obama and other accompanying documents,
+[00:07:12.360 --> 00:07:18.960]   passport information to prove that he was actually eligible to be a presidential candidate
+[00:07:18.960 --> 00:07:20.720]   and president.
+[00:07:20.720 --> 00:07:24.040]   For those that don't know, there's questions with both men.
+[00:07:24.040 --> 00:07:30.440]   John McCain, of course, was born in the Panama Canal zone, but when he was born there, that
+[00:07:30.440 --> 00:07:32.080]   area was controlled by the United States.
+[00:07:32.080 --> 00:07:36.200]   It was controlled by the United States until 2000, but he had to be on a U.S. military
+[00:07:36.200 --> 00:07:40.840]   base and he lied and said that he was born on a base that was not open or built until
+[00:07:40.840 --> 00:07:42.840]   about a year after he was born.
+[00:07:42.840 --> 00:07:51.120]   So it's clear that John McCain is not eligible, but as bad as that is, Barack Obama is even
+[00:07:51.120 --> 00:07:53.720]   less eligible.
+[00:07:53.720 --> 00:07:57.360]   It's even more clear, and the campaign could have easily released this information.
+[00:07:57.360 --> 00:07:59.000]   Now we don't have a dog in this fight.
+[00:07:59.000 --> 00:08:02.360]   Both candidates were bought and paid for by the New World Order, by the global corporate
+[00:08:02.360 --> 00:08:06.240]   system that we're going to be talking about today that's engineering the economic collapse.
+[00:08:06.240 --> 00:08:10.520]   The point is that this is going to be a very serious issue, and if Barack Obama wins, which
+[00:08:10.520 --> 00:08:15.440]   is looking like he's going to win, he's seven to ten points ahead in almost every poll,
+[00:08:15.440 --> 00:08:19.520]   then this is a way to discredit him later by other governments or people in our own
+[00:08:19.520 --> 00:08:23.880]   country and certainly a way to blackmail him and control him.
+[00:08:23.880 --> 00:08:25.880]   So he's very, very, very compromised.
+[00:08:25.880 --> 00:08:30.120]   And if he isn't compromised there enough, it's all the connections to the PLO, the People's
+[00:08:30.120 --> 00:08:36.320]   Liberation Organization, Palestinian Liberation Organization, connected to the Weathermen,
+[00:08:36.320 --> 00:08:39.080]   of course, and many, many others.
+[00:08:39.080 --> 00:08:45.040]   So quite a sordid pass there with Barack H. Obama, talking with Phil Berg coming up in
+[00:08:45.040 --> 00:08:48.000]   about 55 minutes from now.
+[00:08:48.000 --> 00:08:51.280]   What I wanted to get into in the first hour and in the latter part of the next hour as
+[00:08:51.280 --> 00:08:55.920]   well, I'm not going to spend all day on this Obama thing, is the economy.
+[00:08:55.920 --> 00:09:03.120]   Now if you go to PrisonPlanet.com, one of my flagship websites, Infowars.com and PrisonPlanet.com
+[00:09:03.120 --> 00:09:07.480]   are my two major sites, I have several others, you can go over on the right-hand side in
+[00:09:07.480 --> 00:09:15.040]   the News in Focus area and you can read a story that Paul Joseph Watson, one of my writers
+[00:09:15.040 --> 00:09:22.280]   put together earlier this week, titled "You Saw It Here First, Economic Crash, Bankers
+[00:09:22.280 --> 00:09:25.400]   Stick Up Predicted Long Ago."
+[00:09:25.400 --> 00:09:28.680]   And you can read articles that we wrote four years ago, three years ago, two years ago,
+[00:09:28.680 --> 00:09:35.920]   a year ago, six months ago, detailing not just the current economic implosion, but predicting
+[00:09:35.920 --> 00:09:42.000]   it would be in 2008, early 2009, predicting it would start with derivatives, and that's
+[00:09:42.000 --> 00:09:47.720]   the securities where they take credit card debt, bundle it together, sell it as an asset,
+[00:09:47.720 --> 00:09:54.960]   AAA rated solid gold when it's total garbage, when they take home loans, mortgages and bundle
+[00:09:54.960 --> 00:09:57.840]   them, when they take credit card debt, bundle it and sell it.
+[00:09:57.840 --> 00:10:02.560]   But that's only one small area of derivatives, there are hundreds of different types, and
+[00:10:02.560 --> 00:10:07.200]   then there are derivatives on derivatives, and different indexes and things that make
+[00:10:07.200 --> 00:10:15.840]   Las Vegas look as pure as a driven snow compared to this level of gambling and corruption.
+[00:10:15.840 --> 00:10:20.440]   But I want you to go there and watch the video clips, the radio clips, the scores of articles
+[00:10:20.440 --> 00:10:25.800]   we wrote, the congressman we had on, the Nobel Prize winners, we had two on for economics,
+[00:10:25.800 --> 00:10:30.640]   Stiklitz and one other, all the other top experts saying years ago this was in the works
+[00:10:30.640 --> 00:10:35.120]   and the IMF and World Bank were fully aware of it and actually orchestrating it and allowing
+[00:10:35.120 --> 00:10:39.960]   it to take place, to cause a worldwide implosion where they then hold the country's ransom
+[00:10:39.960 --> 00:10:45.760]   to pay unlimited amounts, trillions of dollars into the coffers of the very banks that put
+[00:10:45.760 --> 00:10:47.920]   out these derivatives.
+[00:10:47.920 --> 00:10:52.280]   So go there, you saw it here first, economic crash, banker stick-up predicted long ago,
+[00:10:52.280 --> 00:10:56.600]   I mean there's lots of people that talk out there, but we don't just talk, we give you
+[00:10:56.600 --> 00:10:58.200]   the evidence, the facts.
+[00:10:58.200 --> 00:11:02.360]   I told you almost three years ago we covered Bilderberg Group, we were able to get moles
+[00:11:02.360 --> 00:11:09.600]   inside to get us documentation, I was actually even arrested trying to cover it and detained
+[00:11:09.600 --> 00:11:15.200]   and we came out on air and I came out on this show and many other radio shows, other people's
+[00:11:15.200 --> 00:11:21.320]   radio shows and said the bankers have decided to implode the derivatives market starting
+[00:11:21.320 --> 00:11:25.960]   with the subprime mortgages in 2008 and it's all come true.
+[00:11:25.960 --> 00:11:30.720]   So the point is if you're not paying attention to this radio show, if you haven't paid attention
+[00:11:30.720 --> 00:11:36.000]   to the things we claim and the things we say, we put our money where our mouth is and as
+[00:11:36.000 --> 00:11:38.560]   John Wayne said, it's no bragging, it's just fact.
+[00:11:38.560 --> 00:11:42.800]   In fact I'm very, very upset that I am right.
+[00:11:42.800 --> 00:11:47.520]   It's very upsetting to know that this is unfolding and leading towards a worldwide depression
+[00:11:47.520 --> 00:11:49.120]   within two years.
+[00:11:49.120 --> 00:11:54.520]   We said the start would be in 2008 and it would deepen into 2010, our experts said that
+[00:11:54.520 --> 00:11:56.920]   and of course all the real experts know what's going on.
+[00:11:56.920 --> 00:12:03.560]   The talking heads they put on national TV, those are the liars that keep you in the false
+[00:12:03.560 --> 00:12:06.180]   political paradigm.
+[00:12:06.180 --> 00:12:09.880]   So you saw it here first, economic crash, banker stick-up predicted long ago.
+[00:12:09.880 --> 00:12:14.120]   There's a lot of different facets to this but here's the bottom line.
+[00:12:14.120 --> 00:12:19.720]   The very inner sanctum of the New World Order, a select group of families, less than 20,
+[00:12:19.720 --> 00:12:23.000]   that own the central banks of the world, the Federal Reserve, the Bank of England, the
+[00:12:23.000 --> 00:12:28.840]   Bundesbank, they are all private and they put into their international holding company,
+[00:12:28.840 --> 00:12:34.440]   IMF and World Bank, funds to go loan third world nations, funds they created out of nowhere.
+[00:12:34.440 --> 00:12:41.640]   But they tie those fiat funds, those confetti funds like Monopoly money, to real assets
+[00:12:41.640 --> 00:12:52.280]   like your 401K, the stock market, pension funds and they have leveraged your savings,
+[00:12:52.280 --> 00:12:57.320]   the money that you have in the stock market and other investments into all of this and
+[00:12:57.320 --> 00:13:05.080]   so now all the thousands of trillions of real investments have now been tied into the thousands
+[00:13:05.080 --> 00:13:08.160]   of trillions of Ponzi scheme investments.
+[00:13:08.160 --> 00:13:14.000]   Now five years ago we really started ringing the alarm bell here when institutional investors,
+[00:13:14.000 --> 00:13:20.360]   billionaires, people in control of trillions, leveraged into trillions, started moving quietly
+[00:13:20.360 --> 00:13:26.440]   out of derivatives, started moving into safer assets, into commodities, into infrastructure,
+[00:13:26.440 --> 00:13:37.480]   into media, into research, into mines and shipyards and ship companies and grain, food.
+[00:13:37.480 --> 00:13:41.440]   And we saw that they were openly discussing in policy reports the fact that derivatives
+[00:13:41.440 --> 00:13:47.240]   were going to blow up and they were going to allow them to blow up by cutting off the
+[00:13:47.240 --> 00:13:53.040]   banking funds to further derivative type investments.
+[00:13:53.040 --> 00:13:57.800]   And about two years ago they fully turned the spigot off and now two years later you're
+[00:13:57.800 --> 00:13:59.080]   seeing the effects of that.
+[00:13:59.080 --> 00:14:04.720]   Now, they are still turning the spigot off to Main Street, to Sally Socker Mom and Joe
+[00:14:04.720 --> 00:14:10.300]   Six Pack, to companies, to the real economy, to GM and Ford.
+[00:14:10.300 --> 00:14:15.640]   They are turning the spigot off to that while terrorizing the public saying if you don't
+[00:14:15.640 --> 00:14:20.400]   guarantee government backed liquidity of over five trillion dollars, that's what Bloomberg
+[00:14:20.400 --> 00:14:24.240]   and AP and others reported accurately, is really in the banker bailout bill.
+[00:14:24.240 --> 00:14:26.400]   We're now every day hearing about the new powers that are in there that we told you
+[00:14:26.400 --> 00:14:27.400]   about weeks ago.
+[00:14:27.400 --> 00:14:32.200]   Now the media is announcing them to you piecemeal saying, "Oh, they have unlimited power.
+[00:14:32.200 --> 00:14:37.500]   They have dictatorial power to now take your money, which they're telling you is to get
+[00:14:37.500 --> 00:14:43.240]   Main Street going, and to inject it directly into their coffers."
+[00:14:43.240 --> 00:14:47.240]   And it's not bad enough to have the conflict of interest, the insider trading, the man
+[00:14:47.240 --> 00:14:51.800]   who helped change the rules, lobby to have the rules changed to allow this to happen,
+[00:14:51.800 --> 00:14:55.560]   the current head of the treasury, Paulson, to have him be the former head of Goldman
+[00:14:55.560 --> 00:14:57.680]   Sachs just a year and a half ago.
+[00:14:57.680 --> 00:15:03.480]   Then he goes to Mr. Kashkari, his gopher, his assistant, his minion, one of many vice
+[00:15:03.480 --> 00:15:08.280]   presidents there who's always at his side, this is his assistant, his minion, to hand
+[00:15:08.280 --> 00:15:10.800]   out the five trillion dollars.
+[00:15:10.800 --> 00:15:15.440]   Yeah, forget 700 billion, 851 billion, forget one trillion, now the news is admitting two
+[00:15:15.440 --> 00:15:16.440]   trillion.
+[00:15:16.440 --> 00:15:18.840]   It's five trillion conservatively.
+[00:15:18.840 --> 00:15:21.920]   Some market analysts are saying that they could really get ten trillion out of this.
+[00:15:21.920 --> 00:15:25.840]   To give you an idea, the defense budget, the biggest ever, was a trillion this year.
+[00:15:25.840 --> 00:15:27.200]   The defense budget they just passed for next year.
+[00:15:27.200 --> 00:15:32.640]   To give you an idea, the entire GDP is around three trillion of this country.
+[00:15:32.640 --> 00:15:33.640]   Ten trillion.
+[00:15:33.640 --> 00:15:34.960]   But let's just say it's five trillion.
+[00:15:34.960 --> 00:15:40.320]   They now take that money, put it into their coffers, then they implode the economy and
+[00:15:40.320 --> 00:15:46.080]   use the money they've transferred from us to come in and buy up homes, farms, ranches,
+[00:15:46.080 --> 00:15:52.160]   companies to make GM hand itself over to Chrysler, which is owned by European Central Banks.
+[00:15:52.160 --> 00:15:54.480]   So this is a military operation.
+[00:15:54.480 --> 00:15:56.360]   It's why the bankers are in control.
+[00:15:56.360 --> 00:16:01.240]   The bankers, quote, make their money when they destroy assets and call in the loan.
+[00:16:01.240 --> 00:16:02.920]   They're calling in the loan on the U.S.
+[00:16:02.920 --> 00:16:04.160]   It's an inside job set up.
+[00:16:04.160 --> 00:16:05.560]   We'll tell you about it when we get back.
+[00:16:05.560 --> 00:16:06.560]   Stay with us.
+[00:16:06.560 --> 00:16:11.320]   Collectors, outdoor enthusiasts, survivalists, the Army, Navy store from your memory as a
+[00:16:11.320 --> 00:16:13.360]   child is just that, a memory.
+[00:16:13.360 --> 00:16:18.040]   But there is still one place to find everything from gas masks to ammo cans and find it cheap.
+[00:16:18.040 --> 00:16:19.520]   Mainmilitary.com.
+[00:16:19.520 --> 00:16:24.320]   Get hard to find objects like real wool blankets for under 20 bucks, canteens for just $2,
+[00:16:24.320 --> 00:16:27.960]   or trioxane fuel for just a dollar a box.
+[00:16:27.960 --> 00:16:33.240]   MAINMILITARY.COM with free shipping and items over $150, not including heavy items.
+[00:16:33.240 --> 00:16:38.200]   Get surplus items for cheap now, like 30 caliber cleaning kit for just $2.99 a piece or a dozen
+[00:16:38.200 --> 00:16:39.200]   for $30.
+[00:16:39.200 --> 00:16:41.320]   Flare pistols are only $25.
+[00:16:41.320 --> 00:16:44.000]   Want to add a brand new Israeli gas mask to your collection?
+[00:16:44.000 --> 00:16:46.080]   Kids and adult sizes are just $20.
+[00:16:46.080 --> 00:16:50.260]   Get G3 mags for just $2 or a military fuel can for only $16.
+[00:16:50.260 --> 00:16:52.700]   Add this hyphen hose for another $7.99.
+[00:16:52.700 --> 00:16:55.180]   Find it all online at MAINMILITARY.COM.
+[00:16:55.180 --> 00:17:02.360]   With shipping throughout the world, check out MAINMILITARY.COM or call 877-608-0179.
+[00:17:02.360 --> 00:17:07.120]   Call today.
+[00:17:07.120 --> 00:17:11.080]   When making important financial decisions, you should always know the facts.
+[00:17:11.080 --> 00:17:14.760]   That's why Midas Resources is willing to pay you to read the facts.
+[00:17:14.760 --> 00:17:19.840]   Midas Resources, a team of handpicked financial specialists with decades of financial experience
+[00:17:19.840 --> 00:17:23.920]   who are ready to provide you with state of the art, up to date financial services.
+[00:17:23.920 --> 00:17:27.800]   Midas Resources offers a host of services and stands behind their products.
+[00:17:27.800 --> 00:17:33.080]   In fact, if you call and order their free Midas Report, Midas Resources will pay you.
+[00:17:33.080 --> 00:17:37.320]   This detailed report will provide you with financial history on the safest and most profitable
+[00:17:37.320 --> 00:17:38.320]   areas to invest in.
+[00:17:38.320 --> 00:17:43.480]   If you read the report, Midas Resources will send you a free Walking Liberty Silver half
+[00:17:43.480 --> 00:17:44.480]   dollar.
+[00:17:44.480 --> 00:17:45.640]   So what are you waiting for?
+[00:17:45.640 --> 00:17:51.840]   Get the facts and call Midas Resources toll free at 888-292-2709.
+[00:17:51.840 --> 00:17:54.660]   That's 888-292-2709.
+[00:17:54.660 --> 00:17:59.280]   And remember, if you read the Midas Report, you'll receive a free Walking Liberty Silver
+[00:17:59.280 --> 00:18:07.880]   half dollar.
+[00:18:07.880 --> 00:18:11.720]   It is now time to reign in evil and bring them to justice.
+[00:18:11.720 --> 00:18:16.680]   Through the authority that has been delegated to us, it is time to destroy the destroyers.
+[00:18:16.680 --> 00:18:21.440]   The number of the mounted troops was 200 million, the vast majority of the population of the
+[00:18:21.440 --> 00:18:25.600]   U.S. Though the people of the U.S., where their numbers and influence are strongest,
+[00:18:25.600 --> 00:18:30.040]   have primary responsibility for reigning them in and bringing them to justice, all nations
+[00:18:30.040 --> 00:18:33.200]   will participate since they reside the world over.
+[00:18:33.200 --> 00:18:37.600]   They are called Illuminati, elite, proponents of the New World Order.
+[00:18:37.600 --> 00:18:40.360]   They oppose everything that is God and truth.
+[00:18:40.360 --> 00:18:44.240]   They are of the line that was disinherited 2,000 years ago.
+[00:18:44.240 --> 00:18:47.840]   Everything they have built over the centuries, the wealth they have accumulated, the power
+[00:18:47.840 --> 00:18:52.920]   they have established, the poisoning of the masses, the destruction of the earth and mankind,
+[00:18:52.920 --> 00:18:56.840]   we will undo through the authority that has now been delegated to us.
+[00:18:56.840 --> 00:19:00.800]   Visit our website at unveilingthem.com.
+[00:19:00.800 --> 00:19:04.920]   That's U-N-V-E-I-L-I-N-G them.com.
+[00:19:04.920 --> 00:19:07.200]   The message of his kingdom.
+[00:19:07.200 --> 00:19:09.320]   High gasoline prices got you down.
+[00:19:09.320 --> 00:19:12.360]   Is your vehicle not getting the mileage it used to?
+[00:19:12.360 --> 00:19:16.260]   Poor quality gasoline and the addition of ethanol plugs your fuel injectors and slowly
+[00:19:16.260 --> 00:19:17.840]   robs fuel economy.
+[00:19:17.840 --> 00:19:21.520]   Mechanics charge up to $300 to clean your fuel system.
+[00:19:21.520 --> 00:19:22.840]   Save your money.
+[00:19:22.840 --> 00:19:26.760]   Add just one bottle of Protect-A-Complete fuel system treatment to clean your fuel system
+[00:19:26.760 --> 00:19:32.360]   to a like new condition in only one tankful and improve your mileage for up to six months.
+[00:19:32.360 --> 00:19:36.680]   Safe for all cars, Protect-A-Complete fuel system cleaner reduces emissions by up to
+[00:19:36.680 --> 00:19:40.280]   19% and that's something we can all live with.
+[00:19:40.280 --> 00:19:45.800]   Order Protect-A-Complete fuel system cleaner today for only $9.95 and receive Protect-A-Synthetic
+[00:19:45.800 --> 00:19:47.560]   engine treatment free.
+[00:19:47.560 --> 00:19:49.680]   That's a $13.95 value.
+[00:19:49.680 --> 00:19:54.240]   Protect-A-Engine treatment also comes with a 200,000 mile limited warranty on your engine.
+[00:19:54.240 --> 00:19:57.100]   Order now at oilcompanysecret.com.
+[00:19:57.100 --> 00:20:02.880]   That's oilcompanysecret.com or call 888-873-7371.
+[00:20:02.880 --> 00:20:03.880]   That's 888-873-7371.
+[00:20:03.880 --> 00:20:13.880]   You're listening to GCN, the Genesis Communications Radio Network.
+[00:20:13.880 --> 00:20:28.640]   Raging for the truth, exposing corruption, dismantling the false left-right paradigm.
+[00:20:28.640 --> 00:20:32.480]   He's Alex Jones.
+[00:20:32.480 --> 00:20:37.360]   On Friday and Saturday, the world witnessed the lame duck President Bush with less than
+[00:20:37.360 --> 00:20:43.360]   100 days left in office, 99 to be exact, and financial leaders from nations rich and poor
+[00:20:43.360 --> 00:20:48.680]   pledged Saturday to intensify their efforts to unlock a frozen financial system before
+[00:20:48.680 --> 00:20:52.200]   it does more damage to an increasingly shaky global economy.
+[00:20:52.200 --> 00:20:54.080]   You've got to love it.
+[00:20:54.080 --> 00:20:57.240]   The people that have engineered all this posing as the saviors.
+[00:20:57.240 --> 00:21:01.000]   You see the same people that own the Federal Reserve on the Bank of England, the same people
+[00:21:01.000 --> 00:21:06.320]   that own the private German banks, not all the banks, not the low-level banks that you
+[00:21:06.320 --> 00:21:10.960]   think of as a bank that gives you a loan, the private central banks, the private families
+[00:21:10.960 --> 00:21:15.560]   that control the issuance of currency and credit.
+[00:21:15.560 --> 00:21:16.840]   The Federal Reserve is private.
+[00:21:16.840 --> 00:21:18.520]   The Bank of England is private.
+[00:21:18.520 --> 00:21:20.080]   They're privately owned.
+[00:21:20.080 --> 00:21:25.720]   And so you have these world financial leaders via the governments meeting and pledging to
+[00:21:25.720 --> 00:21:33.840]   give unlimited power to the private inner coterie of the central banks.
+[00:21:33.840 --> 00:21:39.680]   Now, we told you what was in there, and the same legislation has been passed in England.
+[00:21:39.680 --> 00:21:40.680]   Carbon taxes.
+[00:21:40.680 --> 00:21:44.360]   You will be paying carbon taxes on what you breathe and what you eat and what you do,
+[00:21:44.360 --> 00:21:48.160]   a feudalist tax, a surf tax, to the private banks.
+[00:21:48.160 --> 00:21:49.160]   They have that set up.
+[00:21:49.160 --> 00:21:51.800]   You'll pay directly to them.
+[00:21:51.800 --> 00:21:56.800]   They will be able to have new regulations that they put on low-level and mid-level economic
+[00:21:56.800 --> 00:21:59.880]   organizations, banks, insurance companies, brokerage firms.
+[00:21:59.880 --> 00:22:01.360]   And so they can break all the rules.
+[00:22:01.360 --> 00:22:02.480]   They can do whatever they want.
+[00:22:02.480 --> 00:22:05.240]   They get all of our money, our currency.
+[00:22:05.240 --> 00:22:07.860]   They get to use it now while it still has value.
+[00:22:07.860 --> 00:22:11.560]   Over the next two years, it will fully devalue our currency.
+[00:22:11.560 --> 00:22:15.200]   Things will then even implode more, and the central banks of the world will have even
+[00:22:15.200 --> 00:22:21.220]   more power and real assets to be able to buy up everything else for pennies on the dollar
+[00:22:21.220 --> 00:22:27.580]   or pennies on the pound or pennies on the euro or pennies on the yen or yon or pennies
+[00:22:27.580 --> 00:22:32.800]   on the ruble or the shekel or the denarii.
+[00:22:32.800 --> 00:22:33.800]   That's what banks do.
+[00:22:33.800 --> 00:22:36.240]   It's a massive economic monopoly game.
+[00:22:36.240 --> 00:22:42.400]   They change the laws in Europe and the United States simultaneously in the mid-90s, simultaneously
+[00:22:42.400 --> 00:22:47.720]   in '95 and then in '99, simultaneously, just like they acted simultaneously to cut interest
+[00:22:47.720 --> 00:22:53.060]   rates that will devalue the dollar even more, because it's the world reserve currency and
+[00:22:53.060 --> 00:22:56.080]   because people now won't buy those securities.
+[00:22:56.080 --> 00:22:58.760]   Look, it's all very complex.
+[00:22:58.760 --> 00:23:02.200]   Bottom line, it is stated in IMF and World Bank documents.
+[00:23:02.200 --> 00:23:03.800]   It is stated in Club of Rome documents.
+[00:23:03.800 --> 00:23:05.520]   It is stated in Trilateral Commission documents.
+[00:23:05.520 --> 00:23:06.820]   We've written articles about it.
+[00:23:06.820 --> 00:23:07.820]   We have the quotes.
+[00:23:07.820 --> 00:23:08.820]   This is public.
+[00:23:08.820 --> 00:23:13.440]   They are orchestrating this, and I've come on the air day after day, week after week,
+[00:23:13.440 --> 00:23:20.200]   month after month, year after year, telling you this was coming in 2008.
+[00:23:20.200 --> 00:23:22.480]   It would only deepen until 2010.
+[00:23:22.480 --> 00:23:26.960]   Now, I also told you, on record, they would propose, and they now have in the Wall Street
+[00:23:26.960 --> 00:23:31.720]   Journal and the Sunday Times of London and everywhere else, every major publication,
+[00:23:31.720 --> 00:23:34.240]   a new world order.
+[00:23:34.240 --> 00:23:35.520]   That's the headline.
+[00:23:35.520 --> 00:23:38.320]   Just Google "new world order" in Google News.
+[00:23:38.320 --> 00:23:40.120]   Don't pull up news sources.
+[00:23:40.120 --> 00:23:44.760]   Hundreds of articles, all mainstream, going, "Oh my God, the banking crisis caused by a
+[00:23:44.760 --> 00:23:47.520]   few greedy Americans that lied on their applications.
+[00:23:47.520 --> 00:23:51.680]   Oh, we'll have to have a world government run by the bankers and never let this happen
+[00:23:51.680 --> 00:23:53.800]   again."
+[00:23:53.800 --> 00:23:59.560]   The banks did the same thing for 30 years, up until 1913, and then advertised the private
+[00:23:59.560 --> 00:24:04.520]   Federal Reserve to fix it all, and then they gave us an even bigger depression.
+[00:24:04.520 --> 00:24:08.060]   I'm somewhat of a historian, only because it's so interesting, and I've studied quite
+[00:24:08.060 --> 00:24:11.240]   a bit about the Great Depression.
+[00:24:11.240 --> 00:24:18.160]   They would call in whole loans on houses, cars, on farms, and people might have paid
+[00:24:18.160 --> 00:24:20.640]   $100,000 over 20 years for a farm.
+[00:24:20.640 --> 00:24:22.960]   They may only own $1,000, $2,000.
+[00:24:22.960 --> 00:24:26.400]   They said, they were calling it in.
+[00:24:26.400 --> 00:24:30.480]   The banks had cut off the money supply as they implemented the depression.
+[00:24:30.480 --> 00:24:37.560]   They would send out Pinkerton Security, the National Guard, the Army, and there were hundreds
+[00:24:37.560 --> 00:24:43.040]   of cases in Kentucky, and hundreds in Colorado, and hundreds in the Dakotas, and New York,
+[00:24:43.040 --> 00:24:47.160]   and New Jersey, and Michigan, and Texas, where they would come up with troops, and they would
+[00:24:47.160 --> 00:24:49.280]   just mow whole farms down.
+[00:24:49.280 --> 00:24:54.040]   They would, hundreds, there were pitched battles between hundreds of farmers trying to keep
+[00:24:54.040 --> 00:24:56.840]   their farms in the military.
+[00:24:56.840 --> 00:25:01.760]   The U.S. military, you would have World War I bonus strikers, who 20-something years later
+[00:25:01.760 --> 00:25:05.560]   had never gotten their bonus they were promised.
+[00:25:05.560 --> 00:25:10.520]   And they would peacefully go to the Capitol and camp out, and they sent in tanks, and
+[00:25:10.520 --> 00:25:15.160]   men on horseback with machine guns, and killed hundreds.
+[00:25:15.160 --> 00:25:19.080]   And now you see the same thing, the news saying, yeah, the Army's got brigades ready for this
+[00:25:19.080 --> 00:25:20.480]   if there's any financial riots.
+[00:25:20.480 --> 00:25:25.480]   Yeah, they've been training police or the military for financial riots for years, that's
+[00:25:25.480 --> 00:25:26.480]   right.
+[00:25:26.480 --> 00:25:28.840]   For years, I've been telling you about it, gearing up for it.
+[00:25:28.840 --> 00:25:34.200]   And then we have a story out of the Boston Globe last night, postponing the election.
+[00:25:34.200 --> 00:25:35.720]   Is it a joke, or is it?
+[00:25:35.720 --> 00:25:40.840]   And the article never really gives any facts or proof, it just says that basically we're
+[00:25:40.840 --> 00:25:42.440]   liars.
+[00:25:42.440 --> 00:25:45.960]   But then at the end of the story says, well, actually it's true, we are actually already
+[00:25:45.960 --> 00:25:51.120]   under martial law with Presidential Decision Directive 51.
+[00:25:51.120 --> 00:25:58.640]   And they go on to say, you know, the Democrats think George Bush is going to declare martial
+[00:25:58.640 --> 00:26:02.400]   law to keep Barack Obama out of office.
+[00:26:02.400 --> 00:26:07.560]   And they link to sites that post my news, they don't link to Infowars.com, Prisbill.com,
+[00:26:07.560 --> 00:26:12.680]   they link to sites that have my story posted, so they're linked to my stories.
+[00:26:12.680 --> 00:26:15.600]   The stories that Paul Watson and Kurt Nemo put out in the last couple weeks on this about
+[00:26:15.600 --> 00:26:19.800]   martial law, and with the interviews with Congressmen and the rest of them, they don't
+[00:26:19.800 --> 00:26:22.560]   put that in the article, they just link to it.
+[00:26:22.560 --> 00:26:26.400]   Where Congress was told, you pass this or you will be thrown out and martial law will
+[00:26:26.400 --> 00:26:27.400]   be declared.
+[00:26:27.400 --> 00:26:30.040]   The executive can't tell the legislative that, they're not above them.
+[00:26:30.040 --> 00:26:33.680]   In fact, the government says things are co-equal, that's not really true.
+[00:26:33.680 --> 00:26:38.000]   The legislative is really above the judicial and the executive, if you really read the
+[00:26:38.000 --> 00:26:41.360]   balance, the majority of the arguments by the founders.
+[00:26:41.360 --> 00:26:44.680]   I just so happen to have read all that and had constitutional scholars on, because it's
+[00:26:44.680 --> 00:26:46.000]   so interesting.
+[00:26:46.000 --> 00:26:49.040]   Because if you know history, you know the future.
+[00:26:49.040 --> 00:26:52.120]   Okay, so the Congress is above the President.
+[00:26:52.120 --> 00:26:56.720]   They pass the laws, they have the separation of powers, the founders put the most power
+[00:26:56.720 --> 00:27:01.480]   in the body that had the most diversity and the biggest number of people, knowing it'd
+[00:27:01.480 --> 00:27:05.720]   be hard for a dictatorship to take over that with hundreds of members.
+[00:27:05.720 --> 00:27:09.460]   Five hundred and something today.
+[00:27:09.460 --> 00:27:17.300]   But the executive tells them, you will pass this or we will dissolve the Congress.
+[00:27:17.300 --> 00:27:21.920]   And then the media calls it a rumor.
+[00:27:21.920 --> 00:27:28.540]   But the point here is, I'm not saying George Bush is going to declare martial law.
+[00:27:28.540 --> 00:27:33.660]   We're already under martial law when Congress has threatened, do this or you'll be dissolved.
+[00:27:33.660 --> 00:27:35.580]   That is martial law.
+[00:27:35.580 --> 00:27:38.100]   And I told you, George Bush is a nobody puppet.
+[00:27:38.100 --> 00:27:42.740]   I told you all these powers would be given to a John McCain or Barack Obama.
+[00:27:42.740 --> 00:27:46.340]   Probably a Barack Obama.
+[00:27:46.340 --> 00:27:51.180]   And Barack Obama has gotten three times the contributions from Wall Street, the private
+[00:27:51.180 --> 00:27:57.220]   bankers that own this country through fraud, and four times from Goldman Sachs, which is
+[00:27:57.220 --> 00:28:01.460]   running the receivership operation for the private families.
+[00:28:01.460 --> 00:28:05.020]   They're just the hired thug to do it.
+[00:28:05.020 --> 00:28:09.620]   And so we lay out exactly what's going to happen, and the Boston Globe kind of tongue
+[00:28:09.620 --> 00:28:14.620]   and cheek makes jokes about it, but then links to a lot of proof that it is happening.
+[00:28:14.620 --> 00:28:23.340]   But makes it a conspiracy where if we don't see martial law in the next 23 days, 24 days,
+[00:28:23.340 --> 00:28:24.380]   that it was all made up.
+[00:28:24.380 --> 00:28:28.540]   Because you've got Naomi Wolf, and you've got Amy Goodman, the liberals, out saying,
+[00:28:28.540 --> 00:28:30.940]   they're seeing all this freaking out, thinking, oh my God, it's George Bush, because they
+[00:28:30.940 --> 00:28:32.700]   can't see the evil in the Democratic Party.
+[00:28:32.700 --> 00:28:35.540]   The Democrats are owned by the very same people.
+[00:28:35.540 --> 00:28:43.420]   Barack Obama comes in, he's the new FDR, we go into the police state receivership.
+[00:28:43.420 --> 00:28:47.900]   We're under martial law with these checkpoints and face scanning cameras and everything tracking
+[00:28:47.900 --> 00:28:52.960]   us and the banks, the private banks owning and running the government and threatening
+[00:28:52.960 --> 00:28:58.780]   martial law to the Congress if they don't submit.
+[00:28:58.780 --> 00:29:01.700]   So we'll come back and break down what's really happening and take your calls.
+[00:29:01.700 --> 00:29:02.700]   Stay with us.
+[00:29:02.700 --> 00:29:03.700]   I'm Alex Jones.
+[00:29:03.700 --> 00:29:07.180]   These are the times that drive men's souls.
+[00:29:07.180 --> 00:29:12.380]   HempUSA.org is now offering free shipping worldwide to better serve our customers.
+[00:29:12.380 --> 00:29:15.900]   Our goal is to get these fine hemp products to you in the least amount of time so you
+[00:29:15.900 --> 00:29:19.380]   can enjoy what the powder seeds and oil can do for you.
+[00:29:19.380 --> 00:29:23.500]   HempUSA.org has a warning that the U.S. food supplies are dangerously low, and we urge
+[00:29:23.500 --> 00:29:26.580]   you to protect your family with hemp storable foods today.
+[00:29:26.580 --> 00:29:28.100]   Tomorrow may be too late.
+[00:29:28.100 --> 00:29:32.580]   Call 908-691-2608 or visit HempUSA.org.
+[00:29:32.580 --> 00:29:36.660]   This incredible food source is loaded with enzymes so your body can digest the food you
+[00:29:36.660 --> 00:29:41.140]   eat, and it creates an alkaline environment where cancer can't grow and parasites cannot
+[00:29:41.140 --> 00:29:45.340]   live and brings funguses, viruses and bacterial levels down and to a halt.
+[00:29:45.340 --> 00:29:47.300]   Try our powder seeds and oil today.
+[00:29:47.300 --> 00:29:51.560]   Call 908-691-2608 or visit HempUSA.org.
+[00:29:51.560 --> 00:29:54.420]   If the body has the proper nutrition, it will heal itself.
+[00:29:54.420 --> 00:29:58.680]   Ask yourself, why does our government not allow this crop to grow in the U.S.?
+[00:29:58.680 --> 00:30:01.220]   This product is also great for pets and animals.
+[00:30:01.220 --> 00:30:07.740]   Call 908-691-2608 or go to HempUSA.org today.
+[00:30:07.740 --> 00:30:09.580]   Heart disease is on the rise.
+[00:30:09.580 --> 00:30:14.180]   Clogged arteries, high blood pressure and high cholesterol levels may not be fully detected
+[00:30:14.180 --> 00:30:16.500]   by you, but the symptoms are there.
+[00:30:16.500 --> 00:30:21.500]   Loss of energy, blood sugar spikes and drops, poor circulation and irregular heartbeat are
+[00:30:21.500 --> 00:30:24.820]   just a few of these that can alert you that something is wrong.
+[00:30:24.820 --> 00:30:29.620]   Hear how heart and body extract is making a difference in thousands of people's lives
+[00:30:29.620 --> 00:30:30.620]   across America.
+[00:30:30.620 --> 00:30:32.620]   My blood pressure has normalized.
+[00:30:32.620 --> 00:30:35.180]   My diabetes has totally improved.
+[00:30:35.180 --> 00:30:38.620]   Everyone is telling me now how much healthier I look and I'm telling everyone how much healthier
+[00:30:38.620 --> 00:30:39.620]   I feel.
+[00:30:39.620 --> 00:30:41.580]   I recommend heart and body extract to everyone.
+[00:30:41.580 --> 00:30:47.180]   Anybody over 40 in the North American continent should be using this product as a preventative
+[00:30:47.180 --> 00:30:49.500]   to keep their cardiovascular system healthy.
+[00:30:49.500 --> 00:30:51.420]   Order your two-month supply today.
+[00:30:51.420 --> 00:30:52.420]   By calling 866-295-5305.
+[00:30:52.420 --> 00:30:53.420]   That's 866-295-5305.
+[00:30:53.420 --> 00:30:54.420]   Or order online at HBextract.com.
+[00:30:54.420 --> 00:31:07.180]   Heart and body extract, 866-295-5305 or HBextract.com.
+[00:31:07.180 --> 00:31:10.780]   Drinking a chlorophyll-rich beverage has been found to benefit your entire body.
+[00:31:10.780 --> 00:31:15.900]   AlkaVision GreenShield Green Drink is a specifically formulated nutritional supplement which provides
+[00:31:15.900 --> 00:31:19.860]   many nutritional elements that are missing from our modern diet.
+[00:31:19.860 --> 00:31:23.620]   GreenShield helps neutralize acid in your body and maintains a healthy pH balance.
+[00:31:23.620 --> 00:31:28.100]   And having the proper pH balance has been known to balance blood sugar levels, something
+[00:31:28.100 --> 00:31:30.100]   we can all benefit from.
+[00:31:30.100 --> 00:31:33.980]   GreenShield combines the perfect blend of powerful whole food vegetables, immune-boosting
+[00:31:33.980 --> 00:31:35.820]   herbs and grasses.
+[00:31:35.820 --> 00:31:39.740]   GreenShield does not contain algae, mushrooms or fungi, has no preservatives, artificial
+[00:31:39.740 --> 00:31:41.020]   colors or flavors.
+[00:31:41.020 --> 00:31:44.100]   The powder mixes easily with water and tastes great.
+[00:31:44.100 --> 00:31:47.860]   Drinking GreenShield strengthens the immune system and boosts energy, relieves fatigue
+[00:31:47.860 --> 00:31:49.940]   and stress without the use of stimulants.
+[00:31:49.940 --> 00:31:54.500]   Order your AlkaVision GreenShield Green Drink now by going directly to AlkaVision.com.
+[00:31:54.500 --> 00:31:57.980]   That's AlkaVision.com today.
+[00:31:57.980 --> 00:32:02.100]   Or call 269-344-3420.
+[00:32:02.100 --> 00:32:06.740]   That's 269-344-3420 today.
+[00:32:06.740 --> 00:32:11.380]   Are you fed up with all the side effects of chemicals in your shampoos and detergents?
+[00:32:11.380 --> 00:32:16.180]   Even fragrances can signal some 4,000 separate ingredients, most of which are synthetic.
+[00:32:16.180 --> 00:32:17.860]   Hi folks, Alex Jones here.
+[00:32:17.860 --> 00:32:21.500]   Why not go back to basics and be safe with Calbin Pure Soaps?
+[00:32:21.500 --> 00:32:25.820]   They're all natural and you'll save some 85% the money you're spending for your cleaning
+[00:32:25.820 --> 00:32:26.820]   products now.
+[00:32:26.820 --> 00:32:32.980]   Marty Schachter founded Calbin Soap Company in 1947 and provided products for health institutions.
+[00:32:32.980 --> 00:32:35.460]   Now Calbin Soaps are available to you and me.
+[00:32:35.460 --> 00:32:39.580]   Triple concentrated for all your cleaning needs, from bathing and laundry to dishes,
+[00:32:39.580 --> 00:32:40.580]   hair and more.
+[00:32:40.580 --> 00:32:42.620]   No harsh chemicals, no animal testing.
+[00:32:42.620 --> 00:32:47.540]   I use them and love them, knowing they're all natural and safe, and I say it big time.
+[00:32:47.540 --> 00:32:51.740]   Call Calbin Pure Soap at 1-800-340-7091.
+[00:32:51.740 --> 00:32:54.860]   That's 1-800-340-7091.
+[00:32:54.860 --> 00:32:58.820]   Or log on to 5starsoap.com now for a free catalog.
+[00:32:58.820 --> 00:33:08.700]   Again that number, 1-800-340-7091, 5starsoap.com, for all your cleaning needs.
+[00:33:08.700 --> 00:33:10.700]   Thank you for listening to GCA.
+[00:33:10.700 --> 00:33:28.260]   Visit GCNlive.com today.
+[00:33:28.260 --> 00:33:32.380]   Twelve months ago, the British Ministry of Defense released their ten year prospectus,
+[00:33:32.380 --> 00:33:34.700]   what they believe would happen in the next ten years.
+[00:33:34.700 --> 00:33:38.500]   They said the derivatives market would implode in the near future, worldwide martial law
+[00:33:38.500 --> 00:33:39.500]   would be instated.
+[00:33:39.500 --> 00:33:45.340]   We wrote big articles about it, linked to it, had experts from Britain on about it.
+[00:33:45.340 --> 00:33:50.580]   I told you of course, about nine years ago, we read federal documents on air, how they
+[00:33:50.580 --> 00:33:55.540]   plan to put license plate reading cameras in nationwide, and about four years ago, you
+[00:33:55.540 --> 00:33:59.460]   saw the headline, "Florida Town Reads the Plates and Runs the Background of Everybody
+[00:33:59.460 --> 00:34:00.940]   that Drives Through It."
+[00:34:00.940 --> 00:34:08.140]   Well, here is the news today, Portland Tribune, got a link to it up on Infowars.com.
+[00:34:08.140 --> 00:34:13.380]   We could all be tracked, cops test license plate cameras that store trace all data.
+[00:34:13.380 --> 00:34:17.740]   Everyone is recorded, everyone is tracked, they're just letting local police dial into
+[00:34:17.740 --> 00:34:18.740]   it.
+[00:34:18.740 --> 00:34:22.040]   Those traffic cameras, they told you were for traffic five, six years ago?
+[00:34:22.040 --> 00:34:27.980]   It was in the Pentagon documents that that is a military control grid for NORTHCOM.
+[00:34:27.980 --> 00:34:31.720]   That's your government now, not Congress, but the military.
+[00:34:31.720 --> 00:34:38.500]   Said Thomas Barnett, one of the top war specialists and futurists at the Navy, have to say on
+[00:34:38.500 --> 00:34:42.820]   C-SPAN, he said, "We work for the banks, we work for Wall Street."
+[00:34:42.820 --> 00:34:45.020]   Wall Street is foreign.
+[00:34:45.020 --> 00:34:49.060]   Austin is one of the wealthiest, richest towns in the United States.
+[00:34:49.060 --> 00:34:53.940]   I know a lot of prominent people, people who are part of the New World Order, but "don't
+[00:34:53.940 --> 00:34:57.540]   like it," and they have been leaving the country for five years.
+[00:34:57.540 --> 00:34:58.980]   What have I been telling you?
+[00:34:58.980 --> 00:35:03.020]   Saying, quote, "Financially, the United States won't exist."
+[00:35:03.020 --> 00:35:11.140]   The United States is going to be the epicenter of an economic hydrogen bomb going off worldwide.
+[00:35:11.140 --> 00:35:17.300]   By design, there isn't time to suck your thumbs anymore and deny what I'm saying.
+[00:35:17.300 --> 00:35:23.660]   There's only time to go research what I'm saying and find out it's true, because politically,
+[00:35:23.660 --> 00:35:26.860]   the American people have already gotten their head out of the sand.
+[00:35:26.860 --> 00:35:33.660]   Two weeks ago, they told Congress, "We do not want this banker bailout plan."
+[00:35:33.660 --> 00:35:35.340]   These are mainly foreign-owned banks.
+[00:35:35.340 --> 00:35:39.420]   That's why you now hear they're bailing out foreign banks, because our banks are foreign,
+[00:35:39.420 --> 00:35:40.420]   basically, out of Europe.
+[00:35:40.420 --> 00:35:44.780]   They figured this scam out hundreds of years ago, the Ponzi schemes.
+[00:35:44.780 --> 00:35:46.780]   And we don't want you to do that.
+[00:35:46.780 --> 00:35:54.180]   And so, the President had his group on financial markets not prop up the stock market that
+[00:35:54.180 --> 00:35:59.220]   Monday, that still didn't terrorize the public into submission.
+[00:35:59.220 --> 00:36:02.340]   The public did not go along with the threat.
+[00:36:02.340 --> 00:36:05.980]   And so, the President's working group on financial markets did not bail the stock market out
+[00:36:05.980 --> 00:36:07.180]   that Monday evening.
+[00:36:07.180 --> 00:36:10.540]   It dropped around a trillion, two hundred billion, to be technical, one trillion, two
+[00:36:10.540 --> 00:36:12.300]   hundred billion point three.
+[00:36:12.300 --> 00:36:18.660]   Then, it dropped another three trillion in value since then, from its high of last year,
+[00:36:18.660 --> 00:36:23.460]   this week, its high last year on Thursday, of fourteen thousand, down to right around
+[00:36:23.460 --> 00:36:25.900]   eight thousand.
+[00:36:25.900 --> 00:36:27.780]   And it's only going to go down more.
+[00:36:27.780 --> 00:36:32.860]   Now, we told you on this show, we said, "You watch, they pass that banker takeover bill,"
+[00:36:32.860 --> 00:36:35.420]   that's what it said, "a small group of private banks."
+[00:36:35.420 --> 00:36:38.700]   Not your bank on Main Street, but the private families that own the Federal Reserve.
+[00:36:38.700 --> 00:36:42.940]   "If you do that, they are going to hammer the stock market down to nothing, because
+[00:36:42.940 --> 00:36:45.220]   they want to buy it up cheap."
+[00:36:45.220 --> 00:36:48.340]   And then we gave all the documents and linked to them on the website.
+[00:36:48.340 --> 00:36:50.500]   I mean, we have them engineering it.
+[00:36:50.500 --> 00:36:52.060]   We have them doing it.
+[00:36:52.060 --> 00:36:57.380]   And look, if you can't figure that out intellectually or economically, if you can't figure out what
+[00:36:57.380 --> 00:37:01.660]   I'm saying, I know most of you can, but some probably can't, those that tune into mainstream
+[00:37:01.660 --> 00:37:05.300]   media and are basically brain damaged from birth from the fluoride you drink, if you
+[00:37:05.300 --> 00:37:09.780]   can't figure out what I'm saying there, you never saw a President or a Prime Minister
+[00:37:09.780 --> 00:37:14.900]   or a Democratic leader of the House or Senate or Republican leader, the Speaker of the House,
+[00:37:14.900 --> 00:37:19.300]   whatever, come out and say, "Depression, depression, depression, we're going to have a depression."
+[00:37:19.300 --> 00:37:24.300]   But they came out for two weeks terrorizing the public, trying to get the public behind
+[00:37:24.300 --> 00:37:25.980]   this banker takeover bill.
+[00:37:25.980 --> 00:37:26.980]   That's what it is.
+[00:37:26.980 --> 00:37:30.920]   Immunity, unlimited power, the power for these select group to take over other banks and
+[00:37:30.920 --> 00:37:33.520]   other brokerage firms and insurance companies.
+[00:37:33.520 --> 00:37:38.440]   And private companies separate from the financial system.
+[00:37:38.440 --> 00:37:40.200]   And what did they do?
+[00:37:40.200 --> 00:37:43.420]   What did they do?
+[00:37:43.420 --> 00:37:48.820]   They dropped the market, thousands and thousands and thousands of points, from 11,000 down
+[00:37:48.820 --> 00:37:54.020]   to 8,000, and then they have a world summit and say we need a world banking elite now
+[00:37:54.020 --> 00:37:56.140]   to be in complete power.
+[00:37:56.140 --> 00:37:57.140]   And what happened?
+[00:37:57.140 --> 00:38:00.100]   I told you when they passed that the stock market would plunge, and what happened?
+[00:38:00.100 --> 00:38:01.660]   It plunged.
+[00:38:01.660 --> 00:38:04.780]   Because the enemy is out in the open with what they're doing.
+[00:38:04.780 --> 00:38:09.860]   Now the Boston Globe can make jokes all day, postpone the election, is it a joke or is
+[00:38:09.860 --> 00:38:10.860]   it?
+[00:38:10.860 --> 00:38:15.260]   And I'm surprised even this much truth could come out in a major paper, but you ought to
+[00:38:15.260 --> 00:38:17.180]   go read it.
+[00:38:17.180 --> 00:38:20.460]   But they don't ever mention what the congressman had to say.
+[00:38:20.460 --> 00:38:24.820]   The fact that multiple congressmen, Democrats and Republicans, were threatened with martial
+[00:38:24.820 --> 00:38:27.660]   law if they didn't go along with it.
+[00:38:27.660 --> 00:38:31.580]   Now last week when I heard this on C-SPAN, I didn't just stop there, I called and had
+[00:38:31.580 --> 00:38:33.700]   the congressman on.
+[00:38:33.700 --> 00:38:34.700]   Here it is.
+[00:38:34.700 --> 00:38:43.900]   The only way they can pass this bill is by creating and sustaining a panic atmosphere.
+[00:38:43.900 --> 00:38:47.220]   That atmosphere is not justified.
+[00:38:47.220 --> 00:38:54.060]   Many of us were told in private conversations that if we voted against this bill on Monday,
+[00:38:54.060 --> 00:38:59.020]   that the sky would fall, the market would drop 2 or 3,000 points the first day, another
+[00:38:59.020 --> 00:39:03.980]   couple thousand the second day, and a few members were even told that there would be
+[00:39:03.980 --> 00:39:08.340]   martial law in America if we voted no.
+[00:39:08.340 --> 00:39:09.340]   That's what I call fear-mongering.
+[00:39:09.340 --> 00:39:10.340]   Unjustified.
+[00:39:10.340 --> 00:39:11.340]   Proven wrong.
+[00:39:11.340 --> 00:39:17.020]   We've got a week, we've got two weeks to write a good bill.
+[00:39:17.020 --> 00:39:21.780]   The only way to write, to pass a bad bill, keep the panic pressure on.
+[00:39:21.780 --> 00:39:23.660]   Now what does the Senate say to this bill?
+[00:39:23.660 --> 00:39:24.660]   Now that's from C-SPAN.
+[00:39:24.660 --> 00:39:29.260]   Now they knew that bad-mouthing the market for weeks, saying depression, would make the
+[00:39:29.260 --> 00:39:34.380]   general public and institutional investors, cities, counties, states, that's the biggest
+[00:39:34.380 --> 00:39:36.940]   amount of investment, pull out.
+[00:39:36.940 --> 00:39:38.980]   And they did.
+[00:39:38.980 --> 00:39:42.500]   And so while they sit up there saying, "Oh, things are bad, depression, boy, give us more
+[00:39:42.500 --> 00:39:47.300]   power," they are the ones orchestrating it all, while the money is given to the select
+[00:39:47.300 --> 00:39:53.540]   inside group of banks to go and forcibly with regulators, take over those banks, take over
+[00:39:53.540 --> 00:39:56.340]   those institutions.
+[00:39:56.340 --> 00:40:02.340]   Meanwhile, Chrysler, GM, have merger talks, sources report.
+[00:40:02.340 --> 00:40:07.340]   Chrysler is in talks with General Motors Corporation about a deal to combine the number one, number
+[00:40:07.340 --> 00:40:12.780]   three automakers at a time when both are struggling to cut costs and shore up cash, according
+[00:40:12.780 --> 00:40:15.020]   to three people familiar with the matter.
+[00:40:15.020 --> 00:40:16.020]   That's from Reuters.
+[00:40:16.020 --> 00:40:18.620]   So again, every U.S. asset being bought up.
+[00:40:18.620 --> 00:40:22.340]   And that'll be done with taxpayer money and handed over to Chrysler.
+[00:40:22.340 --> 00:40:25.940]   Scramble to save banks as IMF warns of meltdown from Reuters.
+[00:40:25.940 --> 00:40:29.460]   Again, more fear-mongering from the central banks.
+[00:40:29.460 --> 00:40:36.460]   Give us unlimited power or it's going to be financial Armageddon, financial terrorism.
+[00:40:36.460 --> 00:40:37.820]   Here's another one from Reuters.
+[00:40:37.820 --> 00:40:40.860]   Markets to fall another 20 percent.
+[00:40:40.860 --> 00:40:41.860]   More at most.
+[00:40:41.860 --> 00:40:42.860]   IMF economist.
+[00:40:42.860 --> 00:40:47.400]   In a worst-case scenario, markets could fall more than 20 percent, but there is practically
+[00:40:47.400 --> 00:40:48.400]   zero chance.
+[00:40:48.400 --> 00:40:52.640]   Another Great Depression, International Monetary Fund chief economist Oliver Blanchard was
+[00:40:52.640 --> 00:40:58.660]   quoted as saying on Sunday, "Really, we don't have an economy left here in the United States.
+[00:40:58.660 --> 00:41:05.420]   All we have is debt and rolling debt over into our houses and getting a new mortgage
+[00:41:05.420 --> 00:41:06.860]   on another house we flip.
+[00:41:06.860 --> 00:41:08.620]   I mean, this is a total setup."
+[00:41:08.620 --> 00:41:13.320]   Meanwhile, the sheriff in Chicago halts foreclosure evictions, Reuters reports.
+[00:41:13.320 --> 00:41:14.900]   That's actually something sensible to do.
+[00:41:14.900 --> 00:41:19.980]   I mean, if you're going to be bailing out international bankers, why should they be
+[00:41:19.980 --> 00:41:20.980]   forcing people out of their homes?
+[00:41:20.980 --> 00:41:24.620]   I mean, I'm not a socialist, but we shouldn't just have socialism only for the banking elite
+[00:41:24.620 --> 00:41:26.820]   and not the people who are going to have it.
+[00:41:26.820 --> 00:41:30.260]   Gold runs out in German rush.
+[00:41:30.260 --> 00:41:32.500]   Gold runs out in German rush.
+[00:41:32.500 --> 00:41:36.360]   London Evening Standard, risk-averse Germans are turning to gold in troublesome times,
+[00:41:36.360 --> 00:41:37.360]   but there's none left.
+[00:41:37.360 --> 00:41:42.220]   German gold dealers say demand has skyrocketed in the past week to ten times normal as more
+[00:41:42.220 --> 00:41:46.300]   orders can be taken for the foreseeable future.
+[00:41:46.300 --> 00:41:47.660]   No more orders can be taken.
+[00:41:47.660 --> 00:41:53.980]   The demand exceeds our capabilities by a great deal, said Helko Ganas, head of precious metals
+[00:41:53.980 --> 00:41:55.900]   company Proernem.
+[00:41:55.900 --> 00:41:57.700]   The request cannot be satisfied right now.
+[00:41:57.700 --> 00:42:02.380]   A dealer from the Dusseldorf WGZ Bank confirmed.
+[00:42:02.380 --> 00:42:04.860]   And it goes on to say the country has run out of gold.
+[00:42:04.860 --> 00:42:07.420]   The U.S. Mint has suspended gold sales.
+[00:42:07.420 --> 00:42:09.780]   The Canadian Mint doesn't have any maple leaves left.
+[00:42:09.780 --> 00:42:10.780]   Other mints are running out.
+[00:42:10.780 --> 00:42:12.260]   The Russian Mint doesn't have it.
+[00:42:12.260 --> 00:42:14.300]   And why don't they have it?
+[00:42:14.300 --> 00:42:19.340]   Because the private banks have derivatives and have leveraged and played all sorts of
+[00:42:19.340 --> 00:42:23.920]   games -- this has been admitted -- on suppressing the price of paper.
+[00:42:23.920 --> 00:42:24.920]   Paper gold.
+[00:42:24.920 --> 00:42:26.900]   Or people that hold paper in the price of gold.
+[00:42:26.900 --> 00:42:38.980]   And so banks and mints can't buy gold at its real price of around $1,500.
+[00:42:38.980 --> 00:42:41.100]   They can't do that.
+[00:42:41.100 --> 00:42:43.720]   Because that's the real price of gold.
+[00:42:43.720 --> 00:42:53.540]   And so, but because the financial dictatorship says gold only costs $850 an ounce, you see,
+[00:42:53.540 --> 00:42:55.460]   no one can get it.
+[00:42:55.460 --> 00:42:57.820]   And so they can't issue the coin anymore.
+[00:42:57.820 --> 00:43:00.260]   This is the utter mind control that we're under.
+[00:43:00.260 --> 00:43:04.900]   Your phone calls on the controlled economic collapse straight ahead and what a depression
+[00:43:04.900 --> 00:43:06.740]   will look like, not just in the U.S.
+[00:43:06.740 --> 00:43:12.420]   Drink and Mate proudly presents another mind-boggling episode of America's Toughest Quiz Show.
+[00:43:12.420 --> 00:43:13.420]   It's too complicated.
+[00:43:13.420 --> 00:43:17.740]   Let's see if we can figure out which contestant got the intellectual edge after an evening
+[00:43:17.740 --> 00:43:20.140]   of partying by using Drink and Mate.
+[00:43:20.140 --> 00:43:25.160]   For 20 points and the win, Nilt, Glur5 and blank kinate receptor subunits and hippocampal
+[00:43:25.160 --> 00:43:27.660]   neurons co-assemble to form functional receptors.
+[00:43:27.660 --> 00:43:29.660]   Uh, uh, Pony?
+[00:43:29.660 --> 00:43:31.660]   Oh, too bad.
+[00:43:31.660 --> 00:43:33.220]   Yes, Chip?
+[00:43:33.220 --> 00:43:36.220]   The logical companion of Glur5, Glur6.
+[00:43:36.220 --> 00:43:38.220]   You've won the game.
+[00:43:38.220 --> 00:43:39.500]   Hey, life is like a game.
+[00:43:39.500 --> 00:43:43.220]   And if you want to win, you've got to give it your best every day, which doesn't always
+[00:43:43.220 --> 00:43:46.260]   happen after an evening of celebrating with friends and family.
+[00:43:46.260 --> 00:43:51.020]   That's why there's Drink and Mate, a patented formula of guava leaf extract proven to reduce
+[00:43:51.020 --> 00:43:52.500]   the effects of hangover.
+[00:43:52.500 --> 00:43:56.900]   It restores balance to your body, keeping headaches and nausea at bay, and it really
+[00:43:56.900 --> 00:43:57.900]   works.
+[00:43:57.900 --> 00:43:58.900]   Tell 'em, Don.
+[00:43:58.900 --> 00:43:59.900]   Drink and Mate.
+[00:43:59.900 --> 00:44:01.300]   I wouldn't be able to read this without it.
+[00:44:01.300 --> 00:44:04.100]   Available at quality retailers nationwide.
+[00:44:04.100 --> 00:44:06.300]   Drink and Mate urges you to please drink responsibly.
+[00:44:06.300 --> 00:44:08.300]   Honey, have you seen the remote?
+[00:44:08.300 --> 00:44:10.500]   Sweetie, have you seen my car keys?
+[00:44:10.500 --> 00:44:12.500]   I can't find my wallet.
+[00:44:12.500 --> 00:44:13.500]   Sound familiar?
+[00:44:13.500 --> 00:44:16.900]   Why not save time looking for lost things and lose the stress instead?
+[00:44:16.900 --> 00:44:22.300]   Introducing our patented Find One, Find All Key Finders, or FOFA XD for short.
+[00:44:22.300 --> 00:44:26.420]   Once a FOFA key finder is attached to each of those easy to lose things, it can find
+[00:44:26.420 --> 00:44:28.460]   and be found by all the rest.
+[00:44:28.460 --> 00:44:32.720]   Use your wallet to find your keys, your keys to find the remote control, or any of them
+[00:44:32.720 --> 00:44:34.860]   to find an uncharged or muted cell phone.
+[00:44:34.860 --> 00:44:36.580]   The possibilities are endless.
+[00:44:36.580 --> 00:44:40.900]   FOFA goes through walls, cushions, and laundry baskets up to 30 feet and projects a clear
+[00:44:40.900 --> 00:44:42.380]   90 plus decibel beep.
+[00:44:42.380 --> 00:44:43.940]   Got the remote!
+[00:44:43.940 --> 00:44:46.540]   Oh, my keys.
+[00:44:46.540 --> 00:44:47.540]   There's my wallet.
+[00:44:47.540 --> 00:44:52.700]   Order your FOFA today with batteries included along with a 30 day money back guarantee by
+[00:44:52.700 --> 00:44:57.780]   calling Find One, Find All at 866-245-8670.
+[00:44:57.780 --> 00:45:00.660]   That's 866-245-8670.
+[00:45:00.660 --> 00:45:04.060]   Or buy online at findonefindall.com.
+[00:45:04.060 --> 00:45:06.180]   That's findonefindall.com.
+[00:45:07.180 --> 00:45:09.900]   Gee, honey, those new shoes look great on you.
+[00:45:09.900 --> 00:45:12.620]   And look, they show off my new toenails, too.
+[00:45:12.620 --> 00:45:13.980]   New toenails?
+[00:45:13.980 --> 00:45:15.460]   What happened to the old ones?
+[00:45:15.460 --> 00:45:18.900]   Well, they're not really new, just clear and healthy looking.
+[00:45:18.900 --> 00:45:20.920]   Remember how embarrassed I was?
+[00:45:20.920 --> 00:45:23.500]   They were so discolored, really awful looking.
+[00:45:23.500 --> 00:45:25.340]   Well, they sure look clear now.
+[00:45:25.340 --> 00:45:27.380]   I wish I could wear sandals again.
+[00:45:27.380 --> 00:45:29.380]   My toenails are a disaster.
+[00:45:29.380 --> 00:45:32.700]   Look, this one looks white and that one's thick and yellow.
+[00:45:32.700 --> 00:45:33.700]   Here's my secret.
+[00:45:33.700 --> 00:45:35.300]   Non-X nail gel.
+[00:45:35.300 --> 00:45:39.720]   It clears out yellowing keratin debris, the cause of nail discoloration.
+[00:45:39.720 --> 00:45:40.720]   So that's it.
+[00:45:40.720 --> 00:45:44.060]   I've got ugly keratin debris build up under my nails.
+[00:45:44.060 --> 00:45:46.340]   And Non-X nail gel gets rid of it.
+[00:45:46.340 --> 00:45:49.960]   You'll need to use it daily, but clear nails are worth it.
+[00:45:49.960 --> 00:45:50.960]   You bet.
+[00:45:50.960 --> 00:45:55.420]   When we go to the beach next summer, my toenails are going to look just as good as yours do.
+[00:45:55.420 --> 00:45:57.260]   Thanks to Non-X nail gel.
+[00:45:57.260 --> 00:45:59.860]   Non-X nail gel for clear, healthy looking nails.
+[00:45:59.860 --> 00:46:04.780]   Now at Walgreens, Rite Aid, CVS, Long's, Meijer, Target, and other fine pharmacies and mass
+[00:46:04.780 --> 00:46:06.500]   retailers in the foot care section.
+[00:46:06.500 --> 00:46:11.020]   You know, as a father and a husband, one of the enjoyable things in my life has been walking
+[00:46:11.020 --> 00:46:15.180]   in at night and checking on my children, checking up on my wife, making sure she has the things
+[00:46:15.180 --> 00:46:19.860]   she needs, but mostly providing for my family and knowing that they're secure, that they
+[00:46:19.860 --> 00:46:22.100]   feel comfortable every day in their little skins.
+[00:46:22.100 --> 00:46:26.300]   They don't have to worry about the oddities of the world taking over and wrecking their
+[00:46:26.300 --> 00:46:27.300]   lives.
+[00:46:27.300 --> 00:46:28.900]   I've always wanted to be a good provider.
+[00:46:28.900 --> 00:46:32.820]   And I'm not going to change that now just because the economy's in upheaval and because
+[00:46:32.820 --> 00:46:37.580]   there's a lot of political and social uncertainty and I hear about global famines and I see
+[00:46:37.580 --> 00:46:40.420]   the escalating prices in gas and food and oil.
+[00:46:40.420 --> 00:46:42.420]   Electricity's going to go way up, I'm told, this winter.
+[00:46:42.420 --> 00:46:43.540]   Hey, I'm not going to sweat it.
+[00:46:43.540 --> 00:46:44.620]   I've done the right thing.
+[00:46:44.620 --> 00:46:47.020]   I got rid of a bunch of junk and toys out in the garage.
+[00:46:47.020 --> 00:46:48.920]   I converted that money into food.
+[00:46:48.920 --> 00:46:49.920]   That food's out there.
+[00:46:49.920 --> 00:46:51.500]   I've got a two or three year supply of food in the garage.
+[00:46:51.500 --> 00:46:52.660]   My family's secure.
+[00:46:52.660 --> 00:46:53.940]   I don't got to worry, okay?
+[00:46:53.940 --> 00:46:56.860]   I do hope that you'll join me in this new sense of American security.
+[00:46:56.860 --> 00:46:58.460]   Call efoodsdirect.com.
+[00:46:58.460 --> 00:47:02.700]   That's efoodsdirect.com or 1-800-409-5633.
+[00:47:02.700 --> 00:47:09.980]   Call them today, you'll be glad you did.
+[00:47:09.980 --> 00:47:21.020]   You're listening to GCN, the Genesis Communication Radio Network.
+[00:47:21.020 --> 00:47:26.260]   The global elites derive their power from the private banking system that controls the
+[00:47:26.260 --> 00:47:29.900]   issuance of currency and credit, liquidity.
+[00:47:29.900 --> 00:47:32.640]   We've always told you that's your enemy.
+[00:47:32.640 --> 00:47:35.500]   We told you they were planning an economic implosion.
+[00:47:35.500 --> 00:47:37.780]   They've done it hundreds of times in third world nations.
+[00:47:37.780 --> 00:47:38.780]   That's been public.
+[00:47:38.780 --> 00:47:39.780]   Argentina, Brazil, Guatemala, Nigeria.
+[00:47:39.780 --> 00:47:47.020]   They did it back in the mid-90s in Japan.
+[00:47:47.020 --> 00:47:49.740]   And we know what we're talking about here.
+[00:47:49.740 --> 00:47:53.380]   A depression will be devastating, but the banks need to do that.
+[00:47:53.380 --> 00:47:55.420]   They need to have a long controlled economic collapse.
+[00:47:55.420 --> 00:48:01.220]   They want to have an incremental one, not an overnight one, so they can further expand
+[00:48:01.220 --> 00:48:03.700]   their control of the world economy.
+[00:48:03.700 --> 00:48:07.820]   And they want to, out of the crisis they've created, blame it on the public and claim
+[00:48:07.820 --> 00:48:09.380]   that subprime mortgages did it.
+[00:48:09.380 --> 00:48:10.420]   That's one small part.
+[00:48:10.420 --> 00:48:16.180]   They packaged those bad loans and sold them repeatedly.
+[00:48:16.180 --> 00:48:18.580]   So the people are not to blame.
+[00:48:18.580 --> 00:48:23.620]   In that respect, the people are to blame for being slovenly, being ignorant, not being
+[00:48:23.620 --> 00:48:26.500]   involved in their government, letting the private banks take over.
+[00:48:26.500 --> 00:48:31.140]   If you study U.S. history in its first hundred years, everything was about the private banks.
+[00:48:31.140 --> 00:48:33.700]   Everything was about stopping them taking over.
+[00:48:33.700 --> 00:48:36.300]   People understood that.
+[00:48:36.300 --> 00:48:39.140]   Thomas Jefferson.
+[00:48:39.140 --> 00:48:45.300]   Of course, you have the famous case of Burr in a shootout, Duel, killing Alexander Hamilton
+[00:48:45.300 --> 00:48:47.060]   who wanted to have private banks take over.
+[00:48:47.060 --> 00:48:49.140]   And have a king, wanted George Washington to be a king.
+[00:48:49.140 --> 00:48:54.140]   We have Andrew Jackson fighting the British banks taking over.
+[00:48:54.140 --> 00:48:55.700]   On his deathbed, they said, "What are you most proud of?"
+[00:48:55.700 --> 00:49:01.260]   And he said, "I killed the bank on his deathbed at the Hermitage there in Tennessee."
+[00:49:01.260 --> 00:49:06.220]   So politically, if we can expose that these guys need to go to jail, as Congressman Ron
+[00:49:06.220 --> 00:49:08.340]   Paul said a few weeks ago on this radio show.
+[00:49:08.340 --> 00:49:09.660]   He said, "Yeah, they're guilty."
+[00:49:09.660 --> 00:49:11.060]   He listed the crimes.
+[00:49:11.060 --> 00:49:15.500]   Bernanke, Paulson, Alan Greenspan, they have engineered this.
+[00:49:15.500 --> 00:49:20.020]   And we need to start having discussions and talks about that.
+[00:49:20.020 --> 00:49:24.460]   And talks about real ways to help Main Street and rebuild our industry.
+[00:49:24.460 --> 00:49:28.860]   Instead of, "Oh, let's have a bailout of the same New World Order foreign banks that engineered
+[00:49:28.860 --> 00:49:29.860]   this."
+[00:49:29.860 --> 00:49:33.380]   You see, they're creating a world depression and then they're stocking up with our currency
+[00:49:33.380 --> 00:49:37.820]   and our money to be able to buy everything up they don't have while they do that.
+[00:49:37.820 --> 00:49:41.580]   Let's go to Justin in LA and then many, many others that are patiently holding.
+[00:49:41.580 --> 00:49:43.300]   Justin, you're on the air worldwide.
+[00:49:43.300 --> 00:49:44.860]   Oh, great.
+[00:49:44.860 --> 00:49:46.780]   Thank you, Alex.
+[00:49:46.780 --> 00:49:51.220]   I mean, Albert Louis Potham.
+[00:49:51.220 --> 00:49:54.340]   I'm really excited to be on your show and I've written down what I wanted to say on
+[00:49:54.340 --> 00:49:58.260]   air because I'm afraid I'd be too nervous and just get distracted.
+[00:49:58.260 --> 00:49:59.260]   Go ahead and shoot.
+[00:49:59.260 --> 00:50:01.460]   Okay, I want to tell you a story.
+[00:50:01.460 --> 00:50:04.380]   I'm hopping mad right now with all the things that I thought I'd call about.
+[00:50:04.380 --> 00:50:08.460]   Like I'd been researching depleted uranium chemtrails which I have almost two thousand
+[00:50:08.460 --> 00:50:09.460]   photographs of.
+[00:50:09.460 --> 00:50:14.220]   I'm talking about my martial law experience in Los Angeles.
+[00:50:14.220 --> 00:50:19.860]   Last month, September, I'm sorry, September 14th at 11 p.m., I was walking down to the
+[00:50:19.860 --> 00:50:24.220]   end of my street to go to Settle M and get a gallon of water because the tap water here
+[00:50:24.220 --> 00:50:25.220]   is...
+[00:50:25.220 --> 00:50:26.220]   You're engaging in Al-Qaeda activity.
+[00:50:26.220 --> 00:50:27.220]   All right.
+[00:50:27.220 --> 00:50:28.220]   You're outside.
+[00:50:28.220 --> 00:50:29.220]   You're not supposed to be slaved.
+[00:50:29.220 --> 00:50:33.180]   I only get one house down from my apartment complex and this Lawndale sheriff's deputy,
+[00:50:33.180 --> 00:50:37.260]   Tony Torres, shines a spotlight on me from about 15 feet away.
+[00:50:37.260 --> 00:50:38.580]   I turn and look.
+[00:50:38.580 --> 00:50:42.020]   He screams at me to come over there and put my hands on the hood of the car.
+[00:50:42.020 --> 00:50:43.020]   I hesitate.
+[00:50:43.020 --> 00:50:46.020]   I ask why because I know he has no probable cause.
+[00:50:46.020 --> 00:50:49.460]   And after a moment of him screaming at me to come over there and spread my legs, I go
+[00:50:49.460 --> 00:50:50.460]   to the car.
+[00:50:50.460 --> 00:50:54.540]   He runs up behind me, pulls my hands behind my back and starts taking everything out of
+[00:50:54.540 --> 00:50:57.580]   my pocket and patting me down without consent or...
+[00:50:57.580 --> 00:50:58.580]   Okay.
+[00:50:58.580 --> 00:51:00.020]   Now, long story short, why?
+[00:51:00.020 --> 00:51:03.900]   Well, he told me that there...
+[00:51:03.900 --> 00:51:06.340]   I said, "This is not the Germany or communist Russia."
+[00:51:06.340 --> 00:51:08.580]   He said, "I have to do this.
+[00:51:08.580 --> 00:51:09.580]   This is...
+[00:51:09.580 --> 00:51:11.420]   You know, this is a high crime area.
+[00:51:11.420 --> 00:51:13.500]   I have to do this."
+[00:51:13.500 --> 00:51:14.500]   And...
+[00:51:14.500 --> 00:51:15.500]   Yeah, that happens.
+[00:51:15.500 --> 00:51:18.220]   I'll leave my office at like midnight a lot and just anybody walking to the convenience
+[00:51:18.220 --> 00:51:22.060]   store that's next door, the cops just wait in the dark and turn their lights on and frisk
+[00:51:22.060 --> 00:51:25.860]   him and shake him down, which sounds good, but they're doing nothing about stopping all
+[00:51:25.860 --> 00:51:29.500]   the real cry on the open borders, you know, the rest of it.
+[00:51:29.500 --> 00:51:32.580]   That's what I told this guy because I talked to him for about a half an hour after he did
+[00:51:32.580 --> 00:51:40.300]   this and he told me it's California law that I must have ID, photo ID on me.
+[00:51:40.300 --> 00:51:45.540]   Yeah, that failure to ID thing's been thrown out a million times, but they still force
+[00:51:45.540 --> 00:51:46.540]   it.
+[00:51:46.540 --> 00:51:47.540]   Failure to ID has been thrown out.
+[00:51:47.540 --> 00:51:49.500]   There's a Supreme Court case from Austin, Texas.
+[00:51:49.500 --> 00:51:54.900]   There's quite a few on it, but one from Austin, Texas in the mid-80s, 1984, and it's totally
+[00:51:54.900 --> 00:51:55.900]   unlawful.
+[00:51:55.900 --> 00:51:57.860]   It's totally criminal, but they've all been trained.
+[00:51:57.860 --> 00:52:00.140]   They're doing this, treating us all like prisoners.
+[00:52:00.140 --> 00:52:02.540]   The kids are prisoners in school for our safety.
+[00:52:02.540 --> 00:52:04.900]   No, it's for the bankers' takeover power.
+[00:52:04.900 --> 00:52:07.340]   I appreciate your call, sir.
+[00:52:07.340 --> 00:52:10.460]   Let's go ahead now and talk to J.N. Mass.
+[00:52:10.460 --> 00:52:11.460]   You're on the air.
+[00:52:11.460 --> 00:52:12.460]   Go ahead.
+[00:52:12.460 --> 00:52:13.460]   Hey, Mickey Dittles, Alex.
+[00:52:13.460 --> 00:52:14.460]   Hey, buddy.
+[00:52:14.460 --> 00:52:15.460]   What's up?
+[00:52:15.460 --> 00:52:16.460]   Nothing much.
+[00:52:16.460 --> 00:52:18.820]   I'm just wondering about what you think about 10/13 tomorrow.
+[00:52:18.820 --> 00:52:22.900]   Apparently, it's supposed to be some anniversary for the death of the Templars or something
+[00:52:22.900 --> 00:52:27.020]   like that, so I think it'd be a good idea to watch out and see what goes on tomorrow.
+[00:52:27.020 --> 00:52:33.820]   Well, a lot of people put a lot of dates on things, and we don't generally do that.
+[00:52:33.820 --> 00:52:39.620]   We just cover the facts that we're able to, but Friday the 13th is known as bad luck.
+[00:52:39.620 --> 00:52:44.980]   I mentioned that, by the way, last week, strangely enough, because that's when the Pope in France
+[00:52:44.980 --> 00:52:49.060]   and Spain rounded up the Knights Templars and took their money and killed a bunch of
+[00:52:49.060 --> 00:52:52.020]   them, and the rest of them fled to Scotland.
+[00:52:52.020 --> 00:52:56.220]   Let's go ahead and talk to Bill in Pennsylvania.
+[00:52:56.220 --> 00:52:57.740]   Bill, you're on the air.
+[00:52:57.740 --> 00:52:58.740]   Hello?
+[00:52:58.740 --> 00:52:59.740]   Yes, sir.
+[00:52:59.740 --> 00:53:02.780]   Yeah, no, I was listening to your show last week.
+[00:53:02.780 --> 00:53:05.220]   You were talking about zeitgeist addendum, right?
+[00:53:05.220 --> 00:53:10.500]   Yeah, I said film online, and I was talking about claims that we're not going to have
+[00:53:10.500 --> 00:53:13.900]   any classes in this wonderful utopia ran by machines.
+[00:53:13.900 --> 00:53:17.460]   And I said, "Funny, the New World Order says they're going to have a utopia run by machines,
+[00:53:17.460 --> 00:53:19.220]   but the majority of us will be exterminated."
+[00:53:19.220 --> 00:53:23.220]   Okay, anyway, I just wanted to mention that I went to their...
+[00:53:23.220 --> 00:53:27.260]   They have the Zeitgeist Movement website now.
+[00:53:27.260 --> 00:53:28.260]   They just started it.
+[00:53:28.260 --> 00:53:29.260]   I launched it on...
+[00:53:29.260 --> 00:53:30.260]   The movement.
+[00:53:30.260 --> 00:53:31.260]   It's called the ZeitgeistMovement.com.
+[00:53:31.260 --> 00:53:39.460]   Anyway, I went there, and I left an email, and I said that you were talking about it,
+[00:53:39.460 --> 00:53:46.100]   and I said, "I'm a Zeitgeist fan, and I think you should do this interview with Alex Jones."
+[00:53:46.100 --> 00:53:48.340]   So I hope they do.
+[00:53:48.340 --> 00:53:49.340]   And I think...
+[00:53:49.340 --> 00:53:51.780]   You see, it's really strange.
+[00:53:51.780 --> 00:53:55.660]   When you're talking to people about things that you've done research on, they look at
+[00:53:55.660 --> 00:54:00.660]   you like you have an eye in the middle of your forehead, you know?
+[00:54:00.660 --> 00:54:05.620]   But there's a lot of different kind of movements going on, right?
+[00:54:05.620 --> 00:54:13.540]   And each of them separately don't draw enough people, I think.
+[00:54:13.540 --> 00:54:18.300]   But all these separate movements, if put together, there's a lot more people, you know what I
+[00:54:18.300 --> 00:54:19.300]   mean?
+[00:54:19.300 --> 00:54:20.300]   No, I know.
+[00:54:20.300 --> 00:54:22.940]   The problem with that is you can't combine all the different alternative media groups
+[00:54:22.940 --> 00:54:31.400]   and different movements of different ideas in together and have them agree, because other
+[00:54:31.400 --> 00:54:32.700]   groups aren't going to agree with each other.
+[00:54:32.700 --> 00:54:33.700]   That's not how this is going to work.
+[00:54:33.700 --> 00:54:38.220]   We need a grassroots movement of people waking up, getting involved, and having a public
+[00:54:38.220 --> 00:54:39.620]   debate.
+[00:54:39.620 --> 00:54:44.300]   And I wasn't attacking Zeitgeist on my radio show when I played a few clips of it.
+[00:54:44.300 --> 00:54:46.340]   I was telling the story of Zeitgeist.
+[00:54:46.340 --> 00:54:49.980]   You know, I've gotten a lot of attacks and a lot of hate because people don't agree with
+[00:54:49.980 --> 00:54:52.420]   the movie Zeitgeist, quite a few people.
+[00:54:52.420 --> 00:54:56.060]   And then the guy used a bunch of clips from my films in it.
+[00:54:56.060 --> 00:55:00.220]   And so then I got the blame as if I was premeditatedly involved in all that when I wasn't.
+[00:55:00.220 --> 00:55:03.540]   Now later he called up and got authorization to use some clips, because you can't really
+[00:55:03.540 --> 00:55:05.420]   say no when they're already doing it.
+[00:55:05.420 --> 00:55:09.780]   The point is, is that they cover the 9/11 as an inside job, there's a new world order,
+[00:55:09.780 --> 00:55:13.260]   there's a private banking system running things, the monetary system's a fraud.
+[00:55:13.260 --> 00:55:14.820]   I overall think it's a good film.
+[00:55:14.820 --> 00:55:17.620]   I agree with about 95% of it.
+[00:55:17.620 --> 00:55:23.220]   But then they put out an addendum that is, you know, I mean, I know history.
+[00:55:23.220 --> 00:55:27.260]   I know that the new world order puts out this view that there'll be no more classes, no
+[00:55:27.260 --> 00:55:30.100]   more money, no more system.
+[00:55:30.100 --> 00:55:32.540]   And then they say we're going to eradicate classes.
+[00:55:32.540 --> 00:55:33.540]   That takes force.
+[00:55:33.540 --> 00:55:36.940]   There's going to be people that are going to want to quote, claim they're in a class.
+[00:55:36.940 --> 00:55:39.660]   There's going to be people that want to own their own private property.
+[00:55:39.660 --> 00:55:43.680]   You start talking about getting rid of all that, that's a very serious issue.
+[00:55:43.680 --> 00:55:49.180]   And I just did the parallels between the fact that H.G. Wells, another futurist, 80, 90,
+[00:55:49.180 --> 00:55:53.980]   100 years ago, and Karl Marx and others talked about the age of the machines and not having
+[00:55:53.980 --> 00:55:57.780]   to work as the machines will produce for everybody and make everything wonderful in a land of
+[00:55:57.780 --> 00:55:59.420]   milk and honey.
+[00:55:59.420 --> 00:56:02.460]   And I said where they've tried all that, that hasn't happened.
+[00:56:02.460 --> 00:56:07.900]   Now certainly because of technology, humanity really could go to another level.
+[00:56:07.900 --> 00:56:14.180]   The point is, is that to just say that it's not dangerous and to not mention the dangers
+[00:56:14.180 --> 00:56:18.220]   of that type of centralization, it's a centralization.
+[00:56:18.220 --> 00:56:22.020]   And then they're claiming that it's a decentralization.
+[00:56:22.020 --> 00:56:25.460]   So because this has made so much interest, I'm going to try to put a mini-documentary
+[00:56:25.460 --> 00:56:31.060]   together, you know, a ten-minute blurblet or something to break down the facts here.
+[00:56:31.060 --> 00:56:35.180]   But people need to just see Terror Storm in-game.
+[00:56:35.180 --> 00:56:40.420]   They need to see films like Truth Rising, which specifically cover an issue and prove
+[00:56:40.420 --> 00:56:41.420]   an issue.
+[00:56:41.420 --> 00:56:44.340]   You know, the criminal elements of the government staged the 9/11 attacks.
+[00:56:44.340 --> 00:56:45.340]   Here's the proof.
+[00:56:45.340 --> 00:56:48.300]   Now don't trust them anymore because they may stage more terror attacks.
+[00:56:48.300 --> 00:56:51.540]   Or here are these private banks, they're going to orchestrate an implosion.
+[00:56:51.540 --> 00:56:57.380]   You know, we're there before it happens telling you what's going to go on, not after the fact.
+[00:56:57.380 --> 00:57:02.740]   But it's not some arch crime for me to have my free speech and say that when you talk
+[00:57:02.740 --> 00:57:08.020]   about eradicating money and classes, that every time that's done, you've got a Mao Zedong
+[00:57:08.020 --> 00:57:09.020]   or a Stalin.
+[00:57:09.020 --> 00:57:11.820]   I've got time to take one more call here?
+[00:57:11.820 --> 00:57:12.820]   I don't.
+[00:57:12.820 --> 00:57:19.060]   We better go ahead and go to break, and then we will come back with our guest, Phil Berg.
+[00:57:19.060 --> 00:57:20.780]   He's a prominent lawyer.
+[00:57:20.780 --> 00:57:23.900]   He's also the head of a state agency, previously to that.
+[00:57:23.900 --> 00:57:30.340]   Talking about Barack Obama, is he really a congressman?
+[00:57:30.340 --> 00:57:35.340]   I mean, Barack Obama, can he really run for president?
+[00:57:35.340 --> 00:57:40.620]   I was thinking about Congressman Ron Paul and a couple of my plans later.
+[00:57:40.620 --> 00:57:45.100]   The bottom line is with anything that says it's too simple, here's a magic bullet, there's
+[00:57:45.100 --> 00:57:49.660]   going to be a utopia, we're going to run it all, no more classes, look out, the blood's
+[00:57:49.660 --> 00:57:50.660]   going to flow in the streets.
+[00:57:50.660 --> 00:57:52.780]   And that's happened historically, so I pointed it out.
+[00:57:52.780 --> 00:57:55.060]   All right, here comes the news, and we'll be right back after that.
+[00:57:55.060 --> 00:57:56.060]   Stay with me.
+[00:57:56.060 --> 00:57:58.380]   Hi, this is Ted Anderson.
+[00:57:58.380 --> 00:58:00.380]   Did you miss your favorite shows on GCN today?
+[00:58:00.380 --> 00:58:04.020]   Thanks to the continued support of our listeners, subscribers, and sponsors, we are proud to
+[00:58:04.020 --> 00:58:08.460]   bring the GCN audience a new and exciting way to listen called On Demand.
+[00:58:08.460 --> 00:58:13.260]   Available on GCNlive.com, On Demand plays each show continuously until the next time
+[00:58:13.260 --> 00:58:14.580]   the show goes live.
+[00:58:14.580 --> 00:58:15.780]   It's simple to use.
+[00:58:15.780 --> 00:58:20.500]   Just go to GCNlive.com, click on the On Demand button, and find your favorite shows.
+[00:58:20.500 --> 00:58:21.500]   Don't get discouraged.
+[00:58:21.500 --> 00:58:22.500]   Get On Demand.
+[00:58:22.500 --> 00:58:23.500]   It's free.
+[00:58:23.500 --> 00:58:27.940]   Thanks again to the listeners at GCNlive.com.
+[00:58:27.940 --> 00:58:30.980]   Are your Federal Reserve notes looking for a safe haven?
+[00:58:30.980 --> 00:58:33.540]   Mine found it in precious metals.
+[00:58:33.540 --> 00:58:37.300]   Not paper promises, but actual gold in my possession.
+[00:58:37.300 --> 00:58:42.740]   It is liquid, it is private, it owes no one, it cannot go bankrupt, and it maintains its
+[00:58:42.740 --> 00:58:44.700]   purchasing power.
+[00:58:44.700 --> 00:58:47.180]   Find your answer at Midas Resources.
+[00:58:47.180 --> 00:58:50.940]   That's 1-800-686-2237.
+[00:58:50.940 --> 00:58:57.580]   The answer is at 1-800-686-2237.
+[00:58:57.580 --> 00:59:01.260]   As a parent, your biggest fear is getting a phone call that your child has been attacked
+[00:59:01.260 --> 00:59:02.520]   or worse.
+[00:59:02.520 --> 00:59:06.060]   With your child going to college or moving out on their own, it's important to keep these
+[00:59:06.060 --> 00:59:07.900]   safety tips in mind.
+[00:59:07.900 --> 00:59:10.180]   Teach them to be aware of their surroundings.
+[00:59:10.180 --> 00:59:13.140]   Walk on well-lit paths with friends or students.
+[00:59:13.140 --> 00:59:15.940]   Secure the windows and doors of their dorm room or apartment.
+[00:59:15.940 --> 00:59:17.860]   Know how to reach campus security.
+[00:59:17.860 --> 00:59:21.500]   Always tell someone where they're going and when to expect their return.
+[00:59:21.500 --> 00:59:24.260]   And always carry a self-defense device.
+[00:59:24.260 --> 00:59:28.260]   This important message is brought to you by Pepperspray.com.
+[00:59:28.260 --> 00:59:32.140]   Pepperspray.com features a full line of products for college students like Pepperspray and
+[00:59:32.140 --> 00:59:37.660]   Mace, as well as window locks for dorm rooms or apartments, personal alarms, stun guns,
+[00:59:37.660 --> 00:59:39.500]   and nighttime safety items.
+[00:59:39.500 --> 00:59:43.700]   Enter "SCHOOL" in the coupon code box and receive 10% off your order.
+[00:59:43.700 --> 00:59:45.740]   Go to Pepperspray.com.
+[00:59:45.740 --> 00:59:51.420]   That's Pepperspray.com or call 800-908-9988.
+[00:59:51.420 --> 00:59:52.420]   That's 800-908-9988.
+[00:59:52.420 --> 01:00:02.180]   A dozen times is the GCN radio network.
+[01:00:02.180 --> 01:00:03.380]   Check your watch.
+[01:00:03.380 --> 01:00:04.380]   It's 5 o'clock.
+[01:00:04.380 --> 01:00:05.380]   I'm Pete LaValle.
+[01:00:05.380 --> 01:00:06.380]   The weekend has seen an international effort to address the global pandemic.
+[01:00:06.380 --> 01:00:20.980]   World financial leaders have been meeting this weekend in Washington, D.C. and Paris
+[01:00:20.980 --> 01:00:24.260]   to talk about resolving the global financial meltdown.
+[01:00:24.260 --> 01:00:28.300]   Hoping to speed the process along, President Bush made a surprise visit yesterday to a
+[01:00:28.300 --> 01:00:33.180]   meeting of the group of 20 finance ministers saying world leaders are committed to making
+[01:00:33.180 --> 01:00:36.180]   the right moves to strengthen the global economy.
+[01:00:36.180 --> 01:00:41.020]   Here at home, former Treasury Secretary Larry Summers tells ABC's "This Week" the current
+[01:00:41.020 --> 01:00:46.540]   crisis is much more serious than the one that triggered the stock market crash in 1987.
+[01:00:46.540 --> 01:00:50.260]   You didn't have the breakdown in all the trading between the banks.
+[01:00:50.260 --> 01:00:54.380]   You didn't have the largest banks in the country unwilling to lend to each other.
+[01:00:54.380 --> 01:00:59.100]   And that's why we're going to need much more substantial measures today than the ones we
+[01:00:59.100 --> 01:01:00.660]   needed in 1987.
+[01:01:00.660 --> 01:01:05.180]   This is IRN USA Radio News.
+[01:01:05.180 --> 01:01:07.660]   Do you have a million dollar idea and don't know what to do next?
+[01:01:07.660 --> 01:01:12.540]   Hi, I'm Jerry Oaks, CEO of Synergy Consultants, and we have the professional expertise to
+[01:01:12.540 --> 01:01:13.660]   help you.
+[01:01:13.660 --> 01:01:16.180]   Remember mood rings and iron-on decals?
+[01:01:16.180 --> 01:01:19.780]   These are just a few of the million dollar ideas we have helped launch.
+[01:01:19.780 --> 01:01:23.020]   Our clients include universities and Fortune 500 companies.
+[01:01:23.020 --> 01:01:27.980]   Our services include patent searches, design engineering, marketing research, business
+[01:01:27.980 --> 01:01:30.700]   plans and venture capital sourcing.
+[01:01:30.700 --> 01:01:35.540]   If your idea meets our criteria, we can help you find a manufacturer and sell your product.
+[01:01:35.540 --> 01:01:45.020]   For a free consultation and/or evaluation and absolute confidence, call me at 800-557-5555.
+[01:01:45.020 --> 01:01:49.820]   We want to team up with you in launching your million dollar idea before someone else does.
+[01:01:49.820 --> 01:01:52.780]   So call Synergy today at 800-557-5555.
+[01:01:52.780 --> 01:02:05.580]   Or you can go to our website at 557-5555.info and click on the free evaluation link.
+[01:02:05.580 --> 01:02:08.820]   Seven people are reported dead from a car bombing in Baghdad.
+[01:02:08.820 --> 01:02:13.620]   A Taliban attack on a key southern town in Afghanistan has reportedly been thwarted with
+[01:02:13.620 --> 01:02:15.620]   the help of American air strikes.
+[01:02:15.620 --> 01:02:18.300]   Some 60 militants reportedly killed.
+[01:02:18.300 --> 01:02:22.740]   Just hours after the United States removed North Korea from a terrorism blacklist, the
+[01:02:22.740 --> 01:02:27.460]   North announced it will resume dismantling its main nuclear facilities.
+[01:02:27.460 --> 01:02:33.460]   Pyongyang halted its nuclear disablement in mid-August in anger over what it called U.S.
+[01:02:33.460 --> 01:02:34.460]   delays.
+[01:02:34.460 --> 01:02:38.260]   A Russian spacecraft is on its way to the International Space Station, this time with
+[01:02:38.260 --> 01:02:39.900]   another tourist.
+[01:02:39.900 --> 01:02:44.340]   American computer game millionaire Richard Garriott reportedly paid 30 million bucks
+[01:02:44.340 --> 01:02:45.700]   for the 10-day trip.
+[01:02:45.700 --> 01:02:47.220]   Two other people are also aboard.
+[01:02:47.220 --> 01:02:52.900]   Lifted off from Kazakhstan today, it is scheduled to dock at the space station on Tuesday.
+[01:02:52.900 --> 01:02:55.900]   In the Pacific, Norfolk is now a tropical storm.
+[01:02:55.900 --> 01:02:59.220]   Forecasters say it will continue to weaken rapidly after making landfall.
+[01:02:59.220 --> 01:03:01.540]   As a category one hurricane earlier this morning.
+[01:03:01.540 --> 01:03:04.820]   For news online, log on to IRNnews.com.
+[01:03:04.820 --> 01:03:07.340]   Do you suffer from cold sores?
+[01:03:07.340 --> 01:03:12.420]   Relieve One Day Cold Sore Symptom Treatment is out to prove how fast it really works.
+[01:03:12.420 --> 01:03:17.740]   If you suffer from those nasty sores, try Relieve and find out for yourself if Relieve
+[01:03:17.740 --> 01:03:20.180]   works really fast for you.
+[01:03:20.180 --> 01:03:23.180]   Relieve is spelled R-E-L-E-E-V.
+[01:03:23.180 --> 01:03:26.420]   It's easy to find and is in all major drugstores.
+[01:03:26.420 --> 01:03:31.700]   So if you get cold sores, remember to get Relieve now and keep it ready to use the moment
+[01:03:31.700 --> 01:03:35.540]   a cold sore attacks.
+[01:03:35.540 --> 01:03:40.540]   Fire crews continue to battle a blaze that's burning in the Angeles National Forest near
+[01:03:40.540 --> 01:03:42.540]   Lakeview Terrace.
+[01:03:42.540 --> 01:03:48.660]   Fire Inspector Paul Hartwell says 750 acres were blackened since the blaze first erupted
+[01:03:48.660 --> 01:03:49.860]   early this morning.
+[01:03:49.860 --> 01:03:52.740]   He adds afternoon winds may hinder firefighters' efforts.
+[01:03:52.740 --> 01:03:57.120]   The winds are supposed to pick up this afternoon into this evening and we're making an aggressive
+[01:03:57.120 --> 01:03:58.120]   attack with our aircraft.
+[01:03:58.120 --> 01:04:01.860]   Trying to take the punch out ahead of this fire and it's actually looking pretty good
+[01:04:01.860 --> 01:04:02.860]   right now.
+[01:04:02.860 --> 01:04:06.740]   Over 200 Los Angeles City and County Fire Department crews and the United States Forest
+[01:04:06.740 --> 01:04:10.420]   Service firefighters are on the front lines right now.
+[01:04:10.420 --> 01:04:14.620]   About 30 homes have been evacuated and there's 5 percent containment.
+[01:04:14.620 --> 01:04:18.740]   At least a dozen people have died after a strong earthquake struck Chechnya and other
+[01:04:18.740 --> 01:04:21.940]   parts of Russia's Northern Caucasus region early today.
+[01:04:21.940 --> 01:04:25.780]   Emergency officials say the quake had a magnitude of 5.3.
+[01:04:25.780 --> 01:04:28.100]   The death toll is expected to rise.
+[01:04:28.100 --> 01:04:33.120]   On the American political stage, neither John McCain or Barack Obama has any scheduled public
+[01:04:33.120 --> 01:04:34.120]   events today.
+[01:04:34.120 --> 01:04:35.620]   But their running mates do.
+[01:04:35.620 --> 01:04:38.340]   Sarah Palin holding a rally in Ohio.
+[01:04:38.340 --> 01:04:44.220]   Joe Biden joins villain Hillary Clinton in a rally in his hometown of Scranton, Pennsylvania.
+[01:04:44.220 --> 01:04:48.900]   The attorney for Marine Corporal Cesar Lorian says his client is fighting extradition to
+[01:04:48.900 --> 01:04:50.860]   the United States from Mexico.
+[01:04:50.860 --> 01:04:54.780]   Lorian was arrested there in April for the murder of pregnant 20-year-old Lance Corporal
+[01:04:54.780 --> 01:04:56.020]   Maria Lauterbach.
+[01:04:56.020 --> 01:04:59.900]   Her remains were found in his backyard near North Carolina's Camp Lejeune last year.
+[01:04:59.900 --> 01:05:04.460]   I'm Pete LaValle, IRN USA Radio News.
+[01:05:04.460 --> 01:05:06.580]   High gasoline prices got you down?
+[01:05:06.580 --> 01:05:09.460]   Is your vehicle not getting the mileage it used to?
+[01:05:09.460 --> 01:05:13.540]   Poor quality gasoline and the addition of ethanol plugs your fuel injectors and slowly
+[01:05:13.540 --> 01:05:15.060]   robs fuel economy.
+[01:05:15.060 --> 01:05:18.940]   Mechanics charge up to $300 to clean your fuel system.
+[01:05:18.940 --> 01:05:19.940]   Save your money.
+[01:05:19.940 --> 01:05:24.020]   Add just one bottle of Protect-A-Complete fuel system treatment to clean your fuel system
+[01:05:24.020 --> 01:05:29.660]   to a like-new condition in only one tankful and improve your mileage for up to six months.
+[01:05:29.660 --> 01:05:31.260]   Safe for all cars.
+[01:05:31.260 --> 01:05:35.460]   Protect-A-Complete fuel system cleaner reduces emissions by up to 19%.
+[01:05:35.460 --> 01:05:37.580]   And that's something we can all live with.
+[01:05:37.580 --> 01:05:43.100]   Order Protect-A-Complete fuel system cleaner today for only $9.95 and receive Protect-A-Synthetic
+[01:05:43.100 --> 01:05:44.860]   engine treatment free.
+[01:05:44.860 --> 01:05:46.980]   That's a $13.95 value.
+[01:05:46.980 --> 01:05:51.540]   Protect-A-Engine treatment also comes with a 200,000 mile limited warranty on your engine.
+[01:05:51.540 --> 01:05:54.420]   Order now at oilcompanysecret.com.
+[01:05:54.420 --> 01:05:56.700]   That's oilcompanysecret.com.
+[01:05:56.700 --> 01:06:00.140]   Or call 888-873-7371.
+[01:06:00.140 --> 01:06:03.220]   That's 888-873-7371.
+[01:06:03.220 --> 01:06:14.620]   For a talk radio experience like no other.
+[01:06:14.620 --> 01:06:17.420]   He stands for truth.
+[01:06:17.420 --> 01:06:20.620]   He stands for justice.
+[01:06:20.620 --> 01:06:22.620]   He stands for what's right.
+[01:06:22.620 --> 01:06:26.500]   This is the Alex Jones Show.
+[01:06:26.500 --> 01:06:34.740]   Call Alex now, toll free at 877-590-5525.
+[01:06:34.740 --> 01:06:41.020]   Now live from Austin, Texas, here's Alex Jones.
+[01:06:41.020 --> 01:06:44.900]   Your calls and a ton of important news on the economy and the unfolding police state
+[01:06:44.900 --> 01:06:46.540]   coming up in 30 minutes.
+[01:06:46.540 --> 01:06:50.780]   Prominent lawyer and former Deputy Attorney General of Pennsylvania, Phil Berg is our
+[01:06:50.780 --> 01:06:53.500]   guest for the next 30 minutes.
+[01:06:53.500 --> 01:07:00.780]   And I wanted to get him on because his website, obamacrimes.com, has received about 25 million
+[01:07:00.780 --> 01:07:02.500]   visits in the last month or so.
+[01:07:02.500 --> 01:07:04.060]   Got international attention.
+[01:07:04.060 --> 01:07:08.940]   He, of course, has investigated 9/11, been involved in the 9/11 truth movement.
+[01:07:08.940 --> 01:07:14.220]   He's not what you'd call a right winger who has an axe to grind against Barack Obama.
+[01:07:14.220 --> 01:07:19.340]   He had the question a few months ago raised to him about Obama not being a full U.S. citizen,
+[01:07:19.340 --> 01:07:21.980]   the type that could run for president.
+[01:07:21.980 --> 01:07:26.140]   The fact of where was he really born, was he born in Kenya.
+[01:07:26.140 --> 01:07:30.780]   Jerome Corzine tried to go out there last week and was detained for a day trying to
+[01:07:30.780 --> 01:07:32.100]   investigate that.
+[01:07:32.100 --> 01:07:36.580]   Barack Obama has been challenged to release his birth certificate and other documents
+[01:07:36.580 --> 01:07:41.340]   and as well as passport data that would prove it one way or the other, and hasn't.
+[01:07:41.340 --> 01:07:46.660]   Now other presidential candidates in the past have released this type of material, so that's
+[01:07:46.660 --> 01:07:47.660]   what's so suspicious.
+[01:07:47.660 --> 01:07:51.420]   And he's got a lawsuit in and a court looking at that right now.
+[01:07:51.420 --> 01:07:56.420]   And so to break down why this is so serious, we are joined by Phil Berg.
+[01:07:56.420 --> 01:07:57.660]   Mr. Berg, thanks for coming on.
+[01:07:57.660 --> 01:07:58.660]   My pleasure, Alex.
+[01:07:58.660 --> 01:07:59.660]   Haven't seen you in a while.
+[01:07:59.660 --> 01:08:00.660]   Good speaking with you.
+[01:08:00.660 --> 01:08:01.660]   Good to have you.
+[01:08:01.660 --> 01:08:05.780]   Last time I physically saw you was up in Chicago for a big event we were having up there for
+[01:08:05.780 --> 01:08:11.260]   9/11 truth and the 9/11 victim, family member Mrs. Mariani.
+[01:08:11.260 --> 01:08:16.460]   Okay, for the audience that isn't aware of this, give them the basic facts we know and
+[01:08:16.460 --> 01:08:20.860]   then the big issue that Obama will not disprove this.
+[01:08:20.860 --> 01:08:23.860]   And that's why something really is rotten in the state of Denmark.
+[01:08:23.860 --> 01:08:26.740]   We know he went to foreign schools, we know he went to Muslim schools.
+[01:08:26.740 --> 01:08:28.940]   Not saying that's a bad thing, the point is he's lied about it.
+[01:08:28.940 --> 01:08:32.720]   We know his dad was basically a Muslim, we know he was raised in other parts of the world.
+[01:08:32.720 --> 01:08:35.180]   His mother was a Marxist-Leninist.
+[01:08:35.180 --> 01:08:37.880]   He's connected to all these terrorist groups, there's no doubting it.
+[01:08:37.880 --> 01:08:39.220]   He's been caught lying about that.
+[01:08:39.220 --> 01:08:41.260]   And there's a question of him even being a citizen.
+[01:08:41.260 --> 01:08:45.700]   And why that's important for me is that he's totally compromised then.
+[01:08:45.700 --> 01:08:49.420]   Different groups and elements can use that to influence the president and it looks like
+[01:08:49.420 --> 01:08:54.820]   right now with him at about 9, 10 points ahead, 7 to 10 points depending on the poll ahead,
+[01:08:54.820 --> 01:08:58.220]   he's a little bit less ahead than the Electoral College but still ahead there as well.
+[01:08:58.220 --> 01:09:04.260]   And that lead widening, this is more important than ever with the election 25 days away.
+[01:09:04.260 --> 01:09:11.860]   Absolutely, and it's a total disgrace that the national media continues to protect Obama,
+[01:09:11.860 --> 01:09:12.860]   not vet him.
+[01:09:12.860 --> 01:09:16.580]   Now for 20 months, no questions are raised of him.
+[01:09:16.580 --> 01:09:21.100]   And I'm doing this because the most important document in our country is the US Constitution.
+[01:09:21.100 --> 01:09:25.260]   I'm a lifelong Democrat but I'm pursuing this for the US Constitution.
+[01:09:25.260 --> 01:09:29.340]   And just a side note, look what they're doing to Governor Powell, which I could care less,
+[01:09:29.340 --> 01:09:30.660]   but look what they're doing to her.
+[01:09:30.660 --> 01:09:34.300]   They're ripping her apart, they're going in her closet, under her bed, asking all kinds
+[01:09:34.300 --> 01:09:35.300]   of questions.
+[01:09:35.300 --> 01:09:38.380]   And if they want to do that, why haven't they done it to Obama?
+[01:09:38.380 --> 01:09:43.300]   I mean, I don't get this special mystique around him that they're not doing anything
+[01:09:43.300 --> 01:09:45.700]   about it and I think it's a total disgrace.
+[01:09:45.700 --> 01:09:50.620]   But what's important here, not only my lawsuit, he has refused to release anything.
+[01:09:50.620 --> 01:09:53.140]   He's refused to release his medical records.
+[01:09:53.140 --> 01:09:57.580]   He's refused to release his records from Occidental College, from Columbia University, and from
+[01:09:57.580 --> 01:09:58.580]   Harvard.
+[01:09:58.580 --> 01:10:03.020]   So he's hiding something probably on those applications that might say where he's really
+[01:10:03.020 --> 01:10:04.580]   a citizen from.
+[01:10:04.580 --> 01:10:10.260]   But my case is that under the US Constitution, there's three qualifications.
+[01:10:10.260 --> 01:10:13.580]   Number one, 35 years of age, Obama is.
+[01:10:13.580 --> 01:10:17.980]   Number two, you live in the United States for 14 continuous years.
+[01:10:17.980 --> 01:10:19.460]   Yes, Obama has.
+[01:10:19.460 --> 01:10:22.420]   Number three, you be a natural-born citizen.
+[01:10:22.420 --> 01:10:25.180]   We do not believe, well, I don't think he is at all.
+[01:10:25.180 --> 01:10:28.380]   I'm 99.99% sure that he's not.
+[01:10:28.380 --> 01:10:33.020]   Now, first off, many of your listeners go to vacation, say, in Jamaica or Mexico or
+[01:10:33.020 --> 01:10:35.140]   Canada or even to Kenya.
+[01:10:35.140 --> 01:10:40.620]   If the mother and father of the child are both citizens of the United States and the
+[01:10:40.620 --> 01:10:44.620]   child is born out of the country, the child is considered natural-born when the child
+[01:10:44.620 --> 01:10:50.700]   comes back via a United States passport, which they secure at the embassy wherever they are.
+[01:10:50.700 --> 01:10:57.060]   However, in this case, we know that his mother is from Kansas, but his father is from Kenya.
+[01:10:57.060 --> 01:11:01.260]   So when only one parent is a United States citizen, you look at the law in effect at
+[01:11:01.260 --> 01:11:02.260]   that time.
+[01:11:02.260 --> 01:11:06.380]   The law in effect at that time states that the mother, or, well, not the mother, whoever
+[01:11:06.380 --> 01:11:11.980]   is a United States citizen, must have lived continuously in the United States for 10 years.
+[01:11:11.980 --> 01:11:13.380]   His mother did.
+[01:11:13.380 --> 01:11:16.700]   But five of those years had to be after the age of 14.
+[01:11:16.700 --> 01:11:19.420]   14 and 5 is 19.
+[01:11:19.420 --> 01:11:22.060]   She was 18 years of age when she delivered Obama.
+[01:11:22.060 --> 01:11:26.860]   So if she delivered Obama where we think in Kenya, the ballgame's over.
+[01:11:26.860 --> 01:11:28.660]   You know, he's not a natural-born citizen.
+[01:11:28.660 --> 01:11:33.300]   Now, some of your listeners might say, "Oh, that's a little technicality, 18 years, 19
+[01:11:33.300 --> 01:11:34.300]   years.
+[01:11:34.300 --> 01:11:35.300]   I didn't create the law.
+[01:11:35.300 --> 01:11:36.300]   I didn't create the books, Jones.
+[01:11:36.300 --> 01:11:37.300]   You didn't create the law.
+[01:11:37.300 --> 01:11:38.700]   The law is on the books then.
+[01:11:38.700 --> 01:11:40.300]   The law is on the books now.
+[01:11:40.300 --> 01:11:44.340]   You have to look at the book, look at the laws, and apply them."
+[01:11:44.340 --> 01:11:49.100]   And what's a disgrace here is, like, for instance, Governor Arnold Schwarzenegger from California,
+[01:11:49.100 --> 01:11:53.340]   people talked to him about running for president, and he says, "Fine.
+[01:11:53.340 --> 01:11:55.580]   Go amend the Constitution."
+[01:11:55.580 --> 01:11:59.500]   What happens, Obama, he says, "I don't care about the Constitution," apparently, and yet
+[01:11:59.500 --> 01:12:01.420]   he taught constitutional law.
+[01:12:01.420 --> 01:12:02.820]   It just doesn't make sense.
+[01:12:02.820 --> 01:12:04.660]   Well, what about the constitutional crisis?
+[01:12:04.660 --> 01:12:08.420]   If he does get in, this is bound to come out later.
+[01:12:08.420 --> 01:12:10.140]   Oh, absolutely.
+[01:12:10.140 --> 01:12:13.780]   If he ends up getting elected, and this isn't resolved until later, we're going to have
+[01:12:13.780 --> 01:12:16.220]   a constitutional crisis for this reason.
+[01:12:16.220 --> 01:12:21.260]   He'll be sitting in the office of president, not being qualified, and world leaders at
+[01:12:21.260 --> 01:12:25.380]   this point, because I've talked to people over in England, over in Europe, they're aware
+[01:12:25.380 --> 01:12:26.380]   of the situation.
+[01:12:26.380 --> 01:12:28.900]   They say 100 percent he was born in Kenya.
+[01:12:28.900 --> 01:12:32.460]   Therefore, they're not going to want to deal with him as president.
+[01:12:32.460 --> 01:12:35.780]   The only way to get him out of office at that time, you could keep suing him, but we know
+[01:12:35.780 --> 01:12:41.220]   that it's very difficult to sue an incumbent president, so the situation would be impeachment.
+[01:12:41.220 --> 01:12:45.980]   Well, impeachment is very, very difficult, and especially at that point, they'd have
+[01:12:45.980 --> 01:12:48.980]   a Democratic Congress, so there wouldn't be impeachment.
+[01:12:48.980 --> 01:12:50.020]   People wouldn't want to deal with him.
+[01:12:50.020 --> 01:12:53.660]   Any law, actually, that he signed into effect would really be illegal.
+[01:12:53.660 --> 01:12:55.780]   We'd have a real mess on our hands.
+[01:12:55.780 --> 01:13:00.860]   And Obama owes an obligation to all the citizens of this country to come clean.
+[01:13:00.860 --> 01:13:01.860]   You are or you're not.
+[01:13:01.860 --> 01:13:02.860]   And that's the big issue.
+[01:13:02.860 --> 01:13:03.860]   Yeah.
+[01:13:03.860 --> 01:13:07.140]   I mean, this has become a huge issue in the last few months, thanks to you and others,
+[01:13:07.140 --> 01:13:08.140]   and they are stonewalling.
+[01:13:08.140 --> 01:13:09.940]   Here's the thing.
+[01:13:09.940 --> 01:13:13.660]   I've been saying it on the radio, on show after show, and I'll say it again here.
+[01:13:13.660 --> 01:13:21.540]   I challenge to Obama, okay, if I am wrong, prove certified copies of the following documents
+[01:13:21.540 --> 01:13:25.260]   to the court, not to me, because I'll explain on his website.
+[01:13:25.260 --> 01:13:30.420]   Send us your certified copies of your birth certificate, of any changed birth certificates
+[01:13:30.420 --> 01:13:35.060]   thereafter from adoption, an oath of allegiance, which you might have taken, or certificate
+[01:13:35.060 --> 01:13:37.700]   of citizenship, and I'll explain that in a minute.
+[01:13:37.700 --> 01:13:41.340]   If you show those documents and approve your natural born, I'll close down the case.
+[01:13:41.340 --> 01:13:42.840]   I'll walk away.
+[01:13:42.840 --> 01:13:43.840]   But he hasn't done it.
+[01:13:43.840 --> 01:13:45.980]   And I heard you mention that website.
+[01:13:45.980 --> 01:13:51.740]   It's obamacrimes.com, O-B-A-M-A-C-R-I-M-E-S.com.
+[01:13:51.740 --> 01:13:53.660]   We opened it up five weeks ago.
+[01:13:53.660 --> 01:13:56.660]   As of this morning, we're over 30 million hits.
+[01:13:56.660 --> 01:14:01.940]   This is such a hot topic, and I just sent you over a video they did the other day, and
+[01:14:01.940 --> 01:14:08.220]   it's on our website at Independence Hall the other day, and already it's up near 150,000
+[01:14:08.220 --> 01:14:10.020]   views on it since yesterday.
+[01:14:10.020 --> 01:14:14.300]   This is just Obama is putting us into a constitutional crisis.
+[01:14:14.300 --> 01:14:16.700]   Now, if you are, show it to us.
+[01:14:16.700 --> 01:14:17.980]   If not, what are you hiding?
+[01:14:17.980 --> 01:14:24.180]   Now, the thing is, the reason I said the certificate of citizenship, assume for a minute he was
+[01:14:24.180 --> 01:14:26.500]   born in Hawaii, which I really doubt.
+[01:14:26.500 --> 01:14:31.260]   If he was born in Hawaii, he would have lost his citizenship when he went to Indonesia.
+[01:14:31.260 --> 01:14:33.060]   People say, "How could that happen?"
+[01:14:33.060 --> 01:14:38.780]   In his book, he states, "My stepfather, after his parents divorced, his mother remarried,
+[01:14:38.780 --> 01:14:42.140]   and she married a Lolo Sotoro from Indonesia."
+[01:14:42.140 --> 01:14:46.980]   In his book, he says, "My stepfather returned to Indonesia before my mother and I did.
+[01:14:46.980 --> 01:14:48.940]   When we returned, I immediately went to school."
+[01:14:48.940 --> 01:14:54.300]   Well, in the 1960s, Indonesia was at war, and the only people that had school there
+[01:14:54.300 --> 01:14:56.420]   were citizens of Indonesia.
+[01:14:56.420 --> 01:14:57.780]   So one of two things happened.
+[01:14:57.780 --> 01:15:02.700]   Either his stepfather, Lolo Sotoro, adopted him or acknowledged him.
+[01:15:02.700 --> 01:15:03.700]   There's two provisions in the law.
+[01:15:03.700 --> 01:15:06.980]   And by the way, it was basically a Muslim dictatorship then, wasn't it?
+[01:15:06.980 --> 01:15:07.980]   Yes, it was.
+[01:15:07.980 --> 01:15:15.660]   I mean, we got a guy going to a Muslim dictatorship, going to a Muslim school, and Obama will jump
+[01:15:15.660 --> 01:15:18.540]   over anything that isn't right, but he will not respond to this.
+[01:15:18.540 --> 01:15:21.820]   And I'm not saying if he's a Muslim, that's an evil thing.
+[01:15:21.820 --> 01:15:25.460]   The point is, they act like you're a five-headed kook from Planet 12.
+[01:15:25.460 --> 01:15:30.020]   If you mention this, this guy, there's evidence all over the place.
+[01:15:30.020 --> 01:15:33.260]   Whatever you say to him, he just says, "Oh, it's like no big deal.
+[01:15:33.260 --> 01:15:34.660]   Like, air is no big deal, Reverend.
+[01:15:34.660 --> 01:15:35.660]   Right?
+[01:15:35.660 --> 01:15:36.660]   It's no big deal.
+[01:15:36.660 --> 01:15:37.660]   Nothing's a big deal."
+[01:15:37.660 --> 01:15:38.660]   Now the PLO's no big deal.
+[01:15:38.660 --> 01:15:39.660]   But, you know, interesting.
+[01:15:39.660 --> 01:15:42.620]   Let's think back a few years, and I'm sure some of you are listening.
+[01:15:42.620 --> 01:15:45.460]   When McGovern was running for president, are we taking a break?
+[01:15:45.460 --> 01:15:46.460]   Let's take a break.
+[01:15:46.460 --> 01:15:47.460]   Yeah, we're going to take a break.
+[01:15:47.460 --> 01:15:48.460]   Okay, I'll be with you.
+[01:15:48.460 --> 01:15:49.460]   I'll stay with you.
+[01:15:49.460 --> 01:15:50.460]   Absolutely.
+[01:15:50.460 --> 01:15:51.460]   Phil Burt, we appreciate you.
+[01:15:51.460 --> 01:15:52.460]   ObamaCrimes.com.
+[01:15:52.460 --> 01:15:57.180]   Links up on Infowars.com and PrisonPlanet.com about this.
+[01:15:57.180 --> 01:16:02.140]   Look, he could easily put all this to bed by releasing the real birth certificate, but
+[01:16:02.140 --> 01:16:03.140]   he won't do it.
+[01:16:03.140 --> 01:16:04.140]   We'll be right back.
+[01:16:04.140 --> 01:16:05.140]   Hello, Ted Anderson.
+[01:16:05.140 --> 01:16:08.220]   Listeners of the network are familiar with the Federal Reserve Note and understand the
+[01:16:08.220 --> 01:16:09.940]   risks of deficit spending.
+[01:16:09.940 --> 01:16:14.140]   Therefore, with catastrophic events, it comes as no surprise that some banks have currently
+[01:16:14.140 --> 01:16:17.780]   placed limits on the amount of cash depositors can remove from their accounts.
+[01:16:17.780 --> 01:16:22.140]   A fractional reserve system means only a small portion of your deposit is held in reserve
+[01:16:22.140 --> 01:16:23.820]   for immediate withdrawal.
+[01:16:23.820 --> 01:16:27.780]   Deficit spending will skyrocket through FDIC if the government is forced to insure deposits
+[01:16:27.780 --> 01:16:30.620]   during a bank run followed by a depressed economy.
+[01:16:30.620 --> 01:16:35.140]   A current effort is underway by the Fed along with other central banks to increase liquidity
+[01:16:35.140 --> 01:16:36.140]   for depositors.
+[01:16:36.140 --> 01:16:40.580]   However, an increase in money supply without equal expansion and productivity can cause
+[01:16:40.580 --> 01:16:41.580]   inflation.
+[01:16:41.580 --> 01:16:45.700]   In order to achieve strength and stability, I recommend a conservative portion of all
+[01:16:45.700 --> 01:16:49.420]   investments to be calmly repositioned into gold and silver.
+[01:16:49.420 --> 01:16:54.140]   While paper investments currently have been driven by debt, gold on its own has held value
+[01:16:54.140 --> 01:16:55.940]   for over 6,000 years.
+[01:16:55.940 --> 01:16:59.860]   For more information, call 1-800-686-2237.
+[01:16:59.860 --> 01:17:00.860]   That's 1-800-686-2237.
+[01:17:00.860 --> 01:17:01.860]   Honey, have you seen the remote?
+[01:17:01.860 --> 01:17:02.860]   Sweetie, have you seen my car keys?
+[01:17:02.860 --> 01:17:03.860]   I can't find my wallet.
+[01:17:03.860 --> 01:17:04.860]   Sound familiar?
+[01:17:04.860 --> 01:17:05.860]   Why not save time looking for lost things and lose the stress instead?
+[01:17:05.860 --> 01:17:06.860]   Introducing our patented Find One, Find All Key Finders, or FOFA XD for short.
+[01:17:06.860 --> 01:17:07.860]   Once a FOFA key finder is installed, it's a matter of finding the right key.
+[01:17:07.860 --> 01:17:08.860]   It's a matter of finding the right key.
+[01:17:08.860 --> 01:17:09.860]   It's a matter of finding the right key.
+[01:17:09.860 --> 01:17:10.860]   It's a matter of finding the right key.
+[01:17:10.860 --> 01:17:11.860]   It's a matter of finding the right key.
+[01:17:11.860 --> 01:17:12.860]   It's a matter of finding the right key.
+[01:17:12.860 --> 01:17:19.860]   It's a matter of finding the right key.
+[01:17:19.860 --> 01:17:28.860]   It's a matter of finding the right key.
+[01:17:28.860 --> 01:17:34.860]   It's a matter of finding the right key.
+[01:17:34.860 --> 01:17:40.860]   It's a matter of finding the right key.
+[01:17:40.860 --> 01:17:46.860]   It's a matter of finding the right key.
+[01:17:46.860 --> 01:17:52.860]   It's a matter of finding the right key.
+[01:17:52.860 --> 01:17:58.860]   It's a matter of finding the right key.
+[01:17:58.860 --> 01:18:04.860]   It's a matter of finding the right key.
+[01:18:04.860 --> 01:18:08.140]   Do you want to pay for the government bailout of Fannie Mae and Freddie Mac?
+[01:18:08.140 --> 01:18:09.900]   You may have no choice.
+[01:18:09.900 --> 01:18:13.340]   Obviously, taxpayers are on the hook for over $6 trillion.
+[01:18:13.340 --> 01:18:17.820]   That's right, trillion dollars in mortgages held by these two corporations.
+[01:18:17.820 --> 01:18:21.860]   The part that most people don't realize is that this bailout can have significant adverse
+[01:18:21.860 --> 01:18:25.380]   effects on their 401(k)s and IRAs.
+[01:18:25.380 --> 01:18:29.180]   Unless you're planning to help pay for this bailout with your personal retirement funds,
+[01:18:29.180 --> 01:18:30.180]   you need to act now.
+[01:18:30.180 --> 01:18:34.460]   The solution is to fund a self-directed IRA with gold and silver.
+[01:18:34.460 --> 01:18:38.260]   Put your retirement money beyond the reach of government financiers today by calling
+[01:18:38.260 --> 01:18:42.540]   1-866-323-5665.
+[01:18:42.540 --> 01:18:45.540]   Safe-Grow IRAs are just a phone call away.
+[01:18:45.540 --> 01:18:49.180]   That's 1-866-323-5665.
+[01:18:49.180 --> 01:18:53.180]   Microgym at Midas Resources can help you protect your retirement nest egg.
+[01:18:53.180 --> 01:18:58.260]   Get informed and ask for our free report on the unseen fallout of the Fannie Freddie rescue.
+[01:18:58.260 --> 01:19:04.340]   Call 1-866-323-5665.
+[01:19:04.340 --> 01:19:06.180]   Heart disease is on the rise.
+[01:19:06.180 --> 01:19:10.780]   Clogged arteries, high blood pressure, and high cholesterol levels may not be fully detected
+[01:19:10.780 --> 01:19:13.100]   by you, but the symptoms are there.
+[01:19:13.100 --> 01:19:17.980]   Loss of energy, blood sugar spikes and drops, poor circulation, and irregular heartbeat
+[01:19:17.980 --> 01:19:21.660]   are just a few of these that can alert you that something is wrong.
+[01:19:21.660 --> 01:19:26.180]   Hear how heart and body extract is making a difference in thousands of people's lives
+[01:19:26.180 --> 01:19:27.180]   across America.
+[01:19:27.180 --> 01:19:29.260]   My blood pressure has normalized.
+[01:19:29.260 --> 01:19:31.740]   My diabetes has totally improved.
+[01:19:31.740 --> 01:19:34.820]   Everyone is telling me now how much healthier I look, and I'm telling everyone how much
+[01:19:34.820 --> 01:19:35.820]   healthier I feel.
+[01:19:35.820 --> 01:19:38.180]   I recommend heart and body extract to everyone.
+[01:19:38.180 --> 01:19:43.700]   Anybody over 40 in the North American continent should be using this product as a preventative
+[01:19:43.700 --> 01:19:46.220]   to keep their cardiovascular system healthy.
+[01:19:46.220 --> 01:19:51.340]   Order your two-month supply today by calling 1-866-295-5305.
+[01:19:51.340 --> 01:19:54.180]   That's 1-866-295-5305.
+[01:19:54.180 --> 01:19:57.380]   Or order online at HBextract.com.
+[01:19:57.380 --> 01:20:01.820]   Heart and body extract, 1-866-295-5305.
+[01:20:01.820 --> 01:20:06.300]   Or HBextract.com.
+[01:20:06.300 --> 01:20:22.500]   This is the GCN Radio Network, home to hard-hitting talk radio.
+[01:20:22.500 --> 01:20:24.500]   This is a real issue, ladies and gentlemen.
+[01:20:24.500 --> 01:20:25.980]   He lived in a Muslim dictatorship.
+[01:20:25.980 --> 01:20:29.780]   When basically only Muslims were allowed to go to government schools, it was a Muslim
+[01:20:29.780 --> 01:20:33.260]   madrasa.
+[01:20:33.260 --> 01:20:34.820]   And I'm sorry.
+[01:20:34.820 --> 01:20:38.780]   Why is the first black guy that gets in the position of power to really run for president
+[01:20:38.780 --> 01:20:41.100]   in a serious fashion, Barack Obama?
+[01:20:41.100 --> 01:20:42.660]   I could care less.
+[01:20:42.660 --> 01:20:44.460]   Again, I have no guilt.
+[01:20:44.460 --> 01:20:45.460]   I'm a young guy.
+[01:20:45.460 --> 01:20:46.460]   I don't care what color you are.
+[01:20:46.460 --> 01:20:47.860]   I'm not going to play into that.
+[01:20:47.860 --> 01:20:49.740]   I hear all these little abominoid cultists.
+[01:20:49.740 --> 01:20:51.900]   I'm not for McCain.
+[01:20:51.900 --> 01:20:58.980]   The point is that you're called a conspiracy theorist if you talk about what is admitted
+[01:20:58.980 --> 01:20:59.980]   here.
+[01:20:59.980 --> 01:21:02.540]   This guy is covering a lot of stuff up.
+[01:21:02.540 --> 01:21:05.220]   And the evidence is he was really born in Kenya.
+[01:21:05.220 --> 01:21:08.540]   And then Jerome Corze, he tries to fly over there with a best-selling book about it, Investigative
+[01:21:08.540 --> 01:21:09.860]   Reporter.
+[01:21:09.860 --> 01:21:12.780]   And he gets grabbed, gets nabbed.
+[01:21:12.780 --> 01:21:16.380]   And then the Annenberg Foundation is blocking the release of the things he did there.
+[01:21:16.380 --> 01:21:17.580]   It just goes on and on and on.
+[01:21:17.580 --> 01:21:21.860]   And I think that's why Wall Street likes Obama, is because they'll have this guy fully compromised.
+[01:21:21.860 --> 01:21:27.060]   He can also sell the left on a lot of the police state agendas that are coming.
+[01:21:27.060 --> 01:21:31.060]   Going back to Attorney Phil Berg, former Deputy Attorney General in Pennsylvania, who I've
+[01:21:31.060 --> 01:21:35.780]   known for about five years, great guy investigating this, a Democrat himself.
+[01:21:35.780 --> 01:21:36.780]   Phil, continue.
+[01:21:36.780 --> 01:21:42.100]   Yeah, I just was mentioning Dan Quayle for a second, because when he misspelled the word
+[01:21:42.100 --> 01:21:44.740]   potato, no one ever let it down.
+[01:21:44.740 --> 01:21:47.740]   And Obama, it seems whatever he does, everyone just says it's fine.
+[01:21:47.740 --> 01:21:51.500]   I loved about two months ago when he went to the state of Oregon, he said, "I'm now
+[01:21:51.500 --> 01:21:56.180]   at my 57th state, and they wouldn't let me go to Alaska or Hawaii."
+[01:21:56.180 --> 01:21:58.180]   I didn't know we had 59 states in this country.
+[01:21:58.180 --> 01:22:03.700]   Yeah, I mean, I thought the 50th state was Alaska or is it Hawaii?
+[01:22:03.700 --> 01:22:04.700]   I know there's only 50.
+[01:22:04.700 --> 01:22:05.700]   I know that.
+[01:22:05.700 --> 01:22:06.700]   Well, he's at 59.
+[01:22:06.700 --> 01:22:10.940]   The reason I say that is if any other candidate said it, it would have been all over the news.
+[01:22:10.940 --> 01:22:12.580]   But whatever he says, it's like he gets a fan.
+[01:22:12.580 --> 01:22:16.380]   Well, I've watched him on C-SPAN when he's actually giving a speech or a talk.
+[01:22:16.380 --> 01:22:18.940]   If it isn't a teleprompter, he's bumbling around.
+[01:22:18.940 --> 01:22:19.940]   Absolutely, absolutely.
+[01:22:19.940 --> 01:22:21.580]   But you know what?
+[01:22:21.580 --> 01:22:23.220]   And I'm not going after him for that reason.
+[01:22:23.220 --> 01:22:25.300]   I'm going after him for one reason.
+[01:22:25.300 --> 01:22:27.860]   There's nothing more important than our U.S. Constitution.
+[01:22:27.860 --> 01:22:31.940]   That's why they just made the film the other day in front of Independence Hall where it
+[01:22:31.940 --> 01:22:32.940]   was founded.
+[01:22:32.940 --> 01:22:35.180]   And he has to respect the Constitution.
+[01:22:35.180 --> 01:22:39.140]   And if he won't respect the Constitution, he's not going to respect anything else.
+[01:22:39.140 --> 01:22:42.100]   And we have real trouble, because world leaders know he's not qualified.
+[01:22:42.100 --> 01:22:43.340]   Now you have a court case.
+[01:22:43.340 --> 01:22:48.500]   Tell folks the minutiae of this, what you're demanding, what he's supposed to produce,
+[01:22:48.500 --> 01:22:49.860]   and what the court is doing.
+[01:22:49.860 --> 01:22:50.860]   Sure.
+[01:22:50.860 --> 01:22:51.860]   Excuse me.
+[01:22:51.860 --> 01:22:55.220]   I filed suit in the United States District Court for the Eastern District of Pennsylvania
+[01:22:55.220 --> 01:22:56.220]   in Philadelphia.
+[01:22:56.220 --> 01:22:59.460]   The suit was filed back on August 21st.
+[01:22:59.460 --> 01:23:04.980]   Obama and the Democratic National Committee were served officially on September 4th, but
+[01:23:04.980 --> 01:23:09.620]   on August 22nd, they received fax copies of the complaint.
+[01:23:09.620 --> 01:23:10.900]   So they're well aware of it.
+[01:23:10.900 --> 01:23:16.300]   Also, I must say this, that it's really outrageous that the Democratic National Committee is
+[01:23:16.300 --> 01:23:19.500]   joining in with Obama on the next few steps to block everything.
+[01:23:19.500 --> 01:23:23.940]   I'll tell you in a minute, because the Democratic National Committee has, in my opinion, a different
+[01:23:23.940 --> 01:23:25.460]   role than Obama.
+[01:23:25.460 --> 01:23:31.260]   The Democratic National Committee has a responsibility to all Democrats, to all Democrats, to come
+[01:23:31.260 --> 01:23:35.060]   forth and make sure that a qualified candidate is presented.
+[01:23:35.060 --> 01:23:39.100]   And if they didn't know anything about this before my lawsuit, they sure knew about it
+[01:23:39.100 --> 01:23:43.660]   before the lawsuit, and they had an obligation to go to Obama and say, "What's going on here?"
+[01:23:43.660 --> 01:23:48.820]   Because if you don't belong as a candidate here, then at this point, we've got a substitute
+[01:23:48.820 --> 01:23:49.820]   we have to do something else.
+[01:23:49.820 --> 01:23:51.540]   And by the way, these questions have been around for about a year.
+[01:23:51.540 --> 01:23:54.260]   I mean, it's not like they just popped up yesterday.
+[01:23:54.260 --> 01:23:56.620]   Well, great point, because you said that.
+[01:23:56.620 --> 01:24:01.340]   And the reason I think that's a great point, Alec, is this, that it's been around for about
+[01:24:01.340 --> 01:24:06.700]   a year, so what happens in June of 2008, very significant, listen carefully, you listeners,
+[01:24:06.700 --> 01:24:12.420]   in June 2008, the Obama campaign, to offset these rumors and say everything straight,
+[01:24:12.420 --> 01:24:16.820]   they put on their own website, I didn't put it there, Alec didn't put it on there, Obama
+[01:24:16.820 --> 01:24:22.980]   put it on his own campaign website, a certification of live birth from Hawaii, indicating he was
+[01:24:22.980 --> 01:24:24.180]   born in Hawaii.
+[01:24:24.180 --> 01:24:28.860]   The problem with that document is, and we had our experts look at it, and it's on our
+[01:24:28.860 --> 01:24:32.420]   site, obamacrimes.com, is that it's a forgery.
+[01:24:32.420 --> 01:24:34.660]   It's a document that has been altered.
+[01:24:34.660 --> 01:24:41.820]   So if he really had a birth certificate from Hawaii, why didn't you put up a birth certificate,
+[01:24:41.820 --> 01:24:44.060]   not a forged document?
+[01:24:44.060 --> 01:24:45.560]   That's why I've asked for--
+[01:24:45.560 --> 01:24:46.560]   Let's be clear, though.
+[01:24:46.560 --> 01:24:50.420]   It's a certificate of live birth that appears to be altered.
+[01:24:50.420 --> 01:24:52.420]   Why not produce the birth certificate?
+[01:24:52.420 --> 01:24:53.420]   Correct.
+[01:24:53.420 --> 01:24:57.340]   And I think the reason they can't produce a birth certificate is because they don't have
+[01:24:57.340 --> 01:24:58.340]   a birth certificate.
+[01:24:58.340 --> 01:24:59.580]   You know, this is very simple.
+[01:24:59.580 --> 01:25:03.660]   You know, all of you listeners, when you go for a passport, when you go for a driver's
+[01:25:03.660 --> 01:25:06.700]   license, you must produce your birth certificate.
+[01:25:06.700 --> 01:25:09.260]   It's not like we're asking for something special.
+[01:25:09.260 --> 01:25:11.060]   We're not asking for a social security number.
+[01:25:11.060 --> 01:25:12.500]   You know, we're asking for his birth--
+[01:25:12.500 --> 01:25:17.300]   No, I went to renew my passport last year, and I had to have the original birth certificate.
+[01:25:17.300 --> 01:25:18.300]   Right.
+[01:25:18.300 --> 01:25:21.780]   Someone called me about an hour ago and said, "I just want to tell you, I went to get my
+[01:25:21.780 --> 01:25:26.140]   passport, and I've been carrying a certification of live birth around for 40 years.
+[01:25:26.140 --> 01:25:28.980]   I went to use it for my passport, and they said, 'Sorry, no good.
+[01:25:28.980 --> 01:25:29.980]   You need your birth certificate.'"
+[01:25:29.980 --> 01:25:31.700]   And by the way, that's another issue.
+[01:25:31.700 --> 01:25:35.540]   You have tried, and others have tried, to get his passport records to show when he was
+[01:25:35.540 --> 01:25:39.260]   in Kenya right around that time as he'd be traveling on his mother's passport.
+[01:25:39.260 --> 01:25:40.260]   They're blocking that.
+[01:25:40.260 --> 01:25:42.940]   I mean, again, why not just release it?
+[01:25:42.940 --> 01:25:45.860]   Well, they're not releasing it because they don't have--
+[01:25:45.860 --> 01:25:48.420]   So in the court case that was filed, we filed the case.
+[01:25:48.420 --> 01:25:52.420]   They had until September 24th to file an answer or some other motion.
+[01:25:52.420 --> 01:25:57.620]   Well, on the last day to file, they filed a joint motion, Obama and the DNC, a motion
+[01:25:57.620 --> 01:25:58.700]   to dismiss.
+[01:25:58.700 --> 01:26:02.580]   They waited until the last day, saying, "I don't have standing, and there's no proper
+[01:26:02.580 --> 01:26:04.480]   relief that I'm requesting."
+[01:26:04.480 --> 01:26:06.900]   We normally would have 14 days to respond to that.
+[01:26:06.900 --> 01:26:11.000]   The judge's secretary called and said, "Mr. Berg, could you respond in five days?"
+[01:26:11.000 --> 01:26:12.000]   We did.
+[01:26:12.000 --> 01:26:15.340]   We responded in five days on September 29th, and that's what's frustrating now because
+[01:26:15.340 --> 01:26:16.980]   it's two weeks ago.
+[01:26:16.980 --> 01:26:21.140]   We submitted to the judge our opposition to their motion to dismiss.
+[01:26:21.140 --> 01:26:22.140]   So now we're--
+[01:26:22.140 --> 01:26:23.140]   So they're trying to run the clock down.
+[01:26:23.140 --> 01:26:28.060]   Now, I know people in other states are saying they're filing their own investigations.
+[01:26:28.060 --> 01:26:29.060]   Any word on that?
+[01:26:29.060 --> 01:26:30.060]   No.
+[01:26:30.060 --> 01:26:35.060]   A number of people have asked us, and the lawsuits which people are thinking about and
+[01:26:35.060 --> 01:26:39.460]   we're even thinking about is to file against the secretary of state of their state.
+[01:26:39.460 --> 01:26:40.460]   I happen to be in Pennsylvania.
+[01:26:40.460 --> 01:26:45.620]   I just sent a letter to the secretary of state asking for documentation, and I was told it's
+[01:26:45.620 --> 01:26:46.620]   a privilege.
+[01:26:46.620 --> 01:26:47.620]   They can't give it to me.
+[01:26:47.620 --> 01:26:51.580]   But it's because if we sue the secretary of state saying you don't have a qualified candidate
+[01:26:51.580 --> 01:26:56.000]   and only you need suits maybe in six, seven states, if the judge doesn't rule properly
+[01:26:56.000 --> 01:27:00.340]   in my case, and he's taken off the ballot in any of like six major states, it's all
+[01:27:00.340 --> 01:27:01.340]   over for--
+[01:27:01.340 --> 01:27:04.820]   Well, I mean, what if the clock gets run down and then a week after the election we find
+[01:27:04.820 --> 01:27:07.340]   out he's really a foreigner?
+[01:27:07.340 --> 01:27:13.020]   Well, then we can go-- on November 4th, you're not really elected president.
+[01:27:13.020 --> 01:27:14.020]   It goes--
+[01:27:14.020 --> 01:27:15.020]   You get sworn in in January 20th?
+[01:27:15.020 --> 01:27:16.020]   No, no, no, no, no, no.
+[01:27:16.020 --> 01:27:18.020]   There's something in between called the Electoral College.
+[01:27:18.020 --> 01:27:19.020]   Yes.
+[01:27:19.020 --> 01:27:20.520]   So we could bring a challenge to the Electoral College.
+[01:27:20.520 --> 01:27:22.340]   We will continue to pursue this case.
+[01:27:22.340 --> 01:27:26.280]   That's why on our website we're asking for contributions and if people can help us out.
+[01:27:26.280 --> 01:27:28.120]   My God, but you know what's going to happen either way?
+[01:27:28.120 --> 01:27:30.560]   There's going to be rioting if it comes out he's a foreigner.
+[01:27:30.560 --> 01:27:32.200]   Yeah, but see, here's the thing.
+[01:27:32.200 --> 01:27:34.720]   If there's a riot, you know, people are saying, "Oh, you know what's going to happen?
+[01:27:34.720 --> 01:27:35.840]   There's going to be a riot."
+[01:27:35.840 --> 01:27:39.480]   If there's any riots out there, there shouldn't be any riots, and hopefully all the leaders
+[01:27:39.480 --> 01:27:43.960]   in this country, black and white and Hispanic, whoever, get together and say, "You know what?
+[01:27:43.960 --> 01:27:44.960]   Stop.
+[01:27:44.960 --> 01:27:47.400]   No rioting, because the only one at fault here is Obama himself."
+[01:27:47.400 --> 01:27:49.720]   Well, justice be done, may the heavens fall.
+[01:27:49.720 --> 01:27:54.400]   Well, Obama should be held responsible for this, and we're going to do everything to
+[01:27:54.400 --> 01:28:00.920]   make sure that the responsibility is to the right person, because there's no reason.
+[01:28:00.920 --> 01:28:02.920]   People have called me, "How come you're doing this?
+[01:28:02.920 --> 01:28:03.920]   You're a Republican."
+[01:28:03.920 --> 01:28:05.480]   I say, "Sorry, I'm a Democrat all my life."
+[01:28:05.480 --> 01:28:09.200]   Then they've accused me now of being a racist, and I say, "Well, I have..."
+[01:28:09.200 --> 01:28:10.200]   That's a joke.
+[01:28:10.200 --> 01:28:12.400]   Well, my response to that is very simple.
+[01:28:12.400 --> 01:28:16.880]   I happen to be Jewish, but also all my life I happen to be a paid-up-life member of the
+[01:28:16.880 --> 01:28:19.440]   NAACP, so what's your next question?
+[01:28:19.440 --> 01:28:22.320]   You know, the only one at fault here is who?
+[01:28:22.320 --> 01:28:24.000]   Is Barack Obama and his staff?
+[01:28:24.000 --> 01:28:27.040]   Look, he's acting very sneaky, very suspicious.
+[01:28:27.040 --> 01:28:31.840]   It should be produced right now, and there should be major media doing investigative
+[01:28:31.840 --> 01:28:32.840]   reports, obamacrimes.com.
+[01:28:32.840 --> 01:28:38.440]   Phil, let us check in with you once a week in the next three weeks as this develops and
+[01:28:38.440 --> 01:28:39.640]   unfolds, okay?
+[01:28:39.640 --> 01:28:40.640]   That's wonderful.
+[01:28:40.640 --> 01:28:42.600]   Phil Berg, thank you so much for the time.
+[01:28:42.600 --> 01:28:43.600]   My pleasure.
+[01:28:43.600 --> 01:28:44.600]   There he goes.
+[01:28:44.600 --> 01:28:46.360]   All right, folks, there goes Phil Berg.
+[01:28:46.360 --> 01:28:48.800]   We'll take your calls, get into the economy.
+[01:28:48.800 --> 01:28:52.840]   Also all the incredible police state news on the other side.
+[01:28:52.840 --> 01:29:03.840]   I'm Alex Jones, and this is the GCN Radio Network, an association with Emma's Communications.
+[01:29:03.840 --> 01:29:05.720]   Alex Jones here with a question.
+[01:29:05.720 --> 01:29:07.520]   What does humidity mean to you?
+[01:29:07.520 --> 01:29:11.920]   Most people think of hot and sticky summer days, but many people are beginning to realize
+[01:29:11.920 --> 01:29:15.280]   that humidity can be a valuable source of pure drinking water.
+[01:29:15.280 --> 01:29:18.920]   That's why I'd like you to visit acolablue.com.
+[01:29:18.920 --> 01:29:23.480]   Acolablue is a state-of-the-art atmospheric water generator producing purified drinking
+[01:29:23.480 --> 01:29:30.080]   water from the humidity in the air using reverse osmosis and a five-stage carbon and UV light
+[01:29:30.080 --> 01:29:34.680]   filtration system, which produces great-tasting water at an unbeatable price.
+[01:29:34.680 --> 01:29:37.000]   Finally, drinking water that you control.
+[01:29:37.000 --> 01:29:38.560]   I use one every day.
+[01:29:38.560 --> 01:29:43.520]   Say goodbye to expensive water delivery services and storing five-gallon bottles of water in
+[01:29:43.520 --> 01:29:44.520]   your home.
+[01:29:44.520 --> 01:29:49.240]   Acolablue 28 is shipped right to your home, ready to make close to seven gallons a day
+[01:29:49.240 --> 01:29:50.600]   right out of the box.
+[01:29:50.600 --> 01:29:52.840]   They have a 30-day money-back guarantee.
+[01:29:52.840 --> 01:29:56.600]   Call Acolablue right now at 866-585-4044.
+[01:29:56.600 --> 01:29:59.120]   That's 866-585-4044.
+[01:29:59.120 --> 01:30:04.160]   Or visit Acolablue at ecoloble.com today.
+[01:30:04.160 --> 01:30:09.020]   Lead from solder in copper pipes, mercury from fish, dental fillings, vaccines, arsenic
+[01:30:09.020 --> 01:30:10.020]   in the water.
+[01:30:10.020 --> 01:30:13.880]   These heavy metal toxins are difficult or even impossible to avoid.
+[01:30:13.880 --> 01:30:17.840]   Even trace amounts of these heavy metals over time can impact your health.
+[01:30:17.840 --> 01:30:21.520]   Many health problems have been suggested as being related to this heavy metal exposure,
+[01:30:21.520 --> 01:30:26.000]   including memory loss, high blood pressure, depression, mood swings, speech disorders,
+[01:30:26.000 --> 01:30:29.480]   neuropathy, autoimmune diseases, chronic fatigue, and more.
+[01:30:29.480 --> 01:30:33.600]   Unfortunately, traditional detoxifying isn't able to clear the body of these harmful and
+[01:30:33.600 --> 01:30:35.600]   potentially deadly toxins.
+[01:30:35.600 --> 01:30:38.560]   That's why there's PuraClear from Ripple Creek.
+[01:30:38.560 --> 01:30:42.340]   PuraClear contains a proprietary blend of ingredients, including a cilantro extract
+[01:30:42.340 --> 01:30:48.160]   and alpha-lipoic acid, among other ingredients formulated specifically to promote body cleansing.
+[01:30:48.160 --> 01:30:52.600]   PuraClear also has ingredients selected to promote improved circulation to enhance activity
+[01:30:52.600 --> 01:30:56.360]   so that heavy metals may be more effectively captured and removed from the body.
+[01:30:56.360 --> 01:31:04.440]   Order PuraClear now by calling Ripple Creek at 203-331-0363 or go to ripplecreek.com.
+[01:31:04.440 --> 01:31:08.440]   ProSpy.com is your choice for everything spy related.
+[01:31:08.440 --> 01:31:12.040]   Stealth cameras cleverly disguised as items commonly found around the home.
+[01:31:12.040 --> 01:31:16.880]   Covert phone and voice recorders, powerful binoculars, security systems, hidden safes,
+[01:31:16.880 --> 01:31:17.880]   and much more.
+[01:31:17.880 --> 01:31:21.960]   Find hidden cameras wherever you go with the small handheld spy finder and locate hidden
+[01:31:21.960 --> 01:31:24.680]   transmitters with one of our bug detectors.
+[01:31:24.680 --> 01:31:27.600]   Protect yourself from ID theft with our RFID blocker.
+[01:31:27.600 --> 01:31:32.040]   The RFID tags in ID cards have been proven to be not secure.
+[01:31:32.040 --> 01:31:36.320]   Thieves are able to read information stored on these tags to steal your identity.
+[01:31:36.320 --> 01:31:41.240]   RFID blocker is available as a wallet or passport case.
+[01:31:41.240 --> 01:31:45.080]   ProSpy.com also carries a wide variety of night vision cameras and scopes to see in
+[01:31:45.080 --> 01:31:46.840]   the darkest conditions.
+[01:31:46.840 --> 01:31:51.520]   Protect your home and business with our complete line of security cameras made to face any
+[01:31:51.520 --> 01:31:52.520]   situation.
+[01:31:52.520 --> 01:31:57.000]   Don't forget to order your personal security devices and shop for so much more.
+[01:31:57.000 --> 01:31:58.960]   Go to ProSpy.com.
+[01:31:58.960 --> 01:32:03.880]   ProSpy.com where your personal security and well-being is our goal.
+[01:32:03.880 --> 01:32:07.960]   Attention, this is an extremely urgent self-reliant news bulletin.
+[01:32:07.960 --> 01:32:12.060]   If you have ever wanted to produce your own cheaper than dirt survival food, this is going
+[01:32:12.060 --> 01:32:15.120]   to be the most important message you will ever hear.
+[01:32:15.120 --> 01:32:16.580]   Here is why.
+[01:32:16.580 --> 01:32:20.520]   This network has just learned of a new video course that reveals the secrets of how to
+[01:32:20.520 --> 01:32:25.040]   safely prepare and store all types of survival foods in an event of social unrest and food
+[01:32:25.040 --> 01:32:27.120]   shortages here in the US.
+[01:32:27.120 --> 01:32:29.760]   Grain shortages and hunger are spreading across the globe.
+[01:32:29.760 --> 01:32:32.960]   Will troops guard the food supplies in the US this fall?
+[01:32:32.960 --> 01:32:33.960]   Don't wait.
+[01:32:33.960 --> 01:32:37.600]   Learn the food shortage skills that can keep you and your family alive in a crisis.
+[01:32:37.600 --> 01:32:41.080]   Get the details at FoodShortageUSA.com.
+[01:32:41.080 --> 01:32:43.680]   That's FoodShortageUSA.com.
+[01:32:43.680 --> 01:32:48.520]   Or you can call toll free 877-327-0365.
+[01:32:48.520 --> 01:32:50.200]   Don't wait for empty shelves.
+[01:32:50.200 --> 01:32:54.840]   Go to FoodShortageUSA.com while you still have time.
+[01:32:54.840 --> 01:32:57.240]   www.FoodShortageUSA.com.
+[01:32:57.240 --> 01:33:01.840]   Or toll free at 877-327-0365.
+[01:33:01.840 --> 01:33:02.600]   Act now.
+[01:33:03.880 --> 01:33:07.480]   You are listening to GCN.
+[01:33:07.480 --> 01:33:11.480]   Visit GCNlive.com today.
+[01:33:11.480 --> 01:33:27.480]   Yeah, my issue isn't even whether Barack Obama is a Muslim or not.
+[01:33:27.480 --> 01:33:28.480]   We know that wouldn't matter.
+[01:33:28.480 --> 01:33:30.480]   He's bought and paid for by the New World Order.
+[01:33:30.480 --> 01:33:33.480]   Three times the contribution from Wall Street and McCain.
+[01:33:33.480 --> 01:33:39.480]   Media clearly has been bending towards Obama, giving him unfair coverage.
+[01:33:39.480 --> 01:33:41.480]   I mean, I just report it like I see it here.
+[01:33:41.480 --> 01:33:45.480]   You know, I'm not for George Bush or Bill Clinton or any of these people.
+[01:33:45.480 --> 01:33:48.480]   There's something about Barack Obama and all the police state actions,
+[01:33:48.480 --> 01:33:52.480]   threatening to arrest people that criticize him, and that's actually been on the news.
+[01:33:52.480 --> 01:33:59.480]   And the fact that he won't release these documents and that he did spend a lot of his life out of the country
+[01:33:59.480 --> 01:34:04.480]   when he was a little kid and his daddy was a Muslim and a Muslim dictatorship and he did go to Madrasa.
+[01:34:04.480 --> 01:34:06.480]   I mean, this is amazing.
+[01:34:06.480 --> 01:34:08.480]   This is amazing.
+[01:34:08.480 --> 01:34:13.480]   And the media makes no issue and says if you question that he might be a Muslim, you're an idiot.
+[01:34:13.480 --> 01:34:15.480]   I mean, I think that's a fair question.
+[01:34:15.480 --> 01:34:19.480]   Now, I mean, if he was a Muslim that was pro-Second Amendment, wanted to have national sovereignty
+[01:34:19.480 --> 01:34:21.480]   and a new world order, that'd be fine with me.
+[01:34:21.480 --> 01:34:25.480]   The point here is that presidents are puppets of the military industrial complex
+[01:34:25.480 --> 01:34:30.480]   and the president we've got, George Bush, just told the Congress a week ago he'd declare martial law
+[01:34:30.480 --> 01:34:35.480]   if they didn't pass the spending package, the banker takeover bill.
+[01:34:35.480 --> 01:34:39.480]   But during the break, Trey Kincaid, my producer, also board ops on the Sunday show,
+[01:34:39.480 --> 01:34:42.480]   he raised a point that I thought was excellent.
+[01:34:42.480 --> 01:34:43.480]   Make that point, Trey.
+[01:34:43.480 --> 01:34:46.480]   I was just saying, you notice they're always trying to do reverse legislation
+[01:34:46.480 --> 01:34:51.480]   and he'll probably end up being president and then they'll have to pass a bunch of laws to make it legal
+[01:34:51.480 --> 01:34:56.480]   so they can backtrack all their crimes and then next thing you know, Arnold Schwarzenegger's going to be the president.
+[01:34:56.480 --> 01:35:01.480]   Well, that's right. People are saying, Alex, you just don't like him because his daddy was a black man.
+[01:35:01.480 --> 01:35:03.480]   Again, I could care less how much melanin's in his skin.
+[01:35:03.480 --> 01:35:05.480]   Could care less. Don't care.
+[01:35:05.480 --> 01:35:08.480]   You know, I'm a 21st century guy. I'm not into all that.
+[01:35:08.480 --> 01:35:10.480]   It's not what the show's about.
+[01:35:10.480 --> 01:35:14.480]   Arnold Schwarzenegger's daddy was an SS captain, the equivalent of a colonel.
+[01:35:14.480 --> 01:35:17.480]   He ran an entire sector of Austria, took people to their deaths.
+[01:35:17.480 --> 01:35:21.480]   When his daddy died, his mother married the head of the SS in Austria.
+[01:35:21.480 --> 01:35:25.480]   The head of the SS is Arnold's daddy.
+[01:35:25.480 --> 01:35:32.480]   He's sat on the knee of Kurt Voltheim, top SS officer, former head of the UN.
+[01:35:32.480 --> 01:35:39.480]   And I made a film, 911, rise of the police state, martial law, 911, rise of the police state, long title.
+[01:35:39.480 --> 01:35:42.480]   The last hour, three hours long, is about Schwarzenegger.
+[01:35:42.480 --> 01:35:46.480]   Now he shouldn't be able to be president because he was not born here.
+[01:35:46.480 --> 01:35:49.480]   Now look, it isn't that I don't want a black guy in there.
+[01:35:49.480 --> 01:35:51.480]   I don't want a white Nazi in there.
+[01:35:51.480 --> 01:35:55.480]   And I sure don't want a liar in there who's covering up he was born in Kenya,
+[01:35:55.480 --> 01:35:57.480]   or that he went to Muslim schools.
+[01:35:57.480 --> 01:36:01.480]   And it's a fact he did it, and the fact is that he's covering up.
+[01:36:01.480 --> 01:36:04.480]   That's the fact here.
+[01:36:04.480 --> 01:36:10.480]   And there's all this Obama brainwashing going on, and I've had enough of it.
+[01:36:10.480 --> 01:36:17.480]   877-590-5525, 877-590-5525.
+[01:36:17.480 --> 01:36:18.480]   Unbelievable.
+[01:36:18.480 --> 01:36:24.480]   You know, I'm a communist when I'm against George Bush destroying the Bill of Rights.
+[01:36:24.480 --> 01:36:28.480]   And then now I'm going to be a right-winger disliking Obama as president.
+[01:36:28.480 --> 01:36:30.480]   Folks, I'm a constitutionalist.
+[01:36:30.480 --> 01:36:32.480]   I look at the facts and I report.
+[01:36:32.480 --> 01:36:33.480]   I've got an easy job.
+[01:36:33.480 --> 01:36:37.480]   Don't look at this show through the lens of left or right.
+[01:36:37.480 --> 01:36:39.480]   I'm telling you, 9/11 is an inside job.
+[01:36:39.480 --> 01:36:40.480]   Go look at it.
+[01:36:40.480 --> 01:36:44.480]   And I'm telling you, Barack Obama's covering up who he really is.
+[01:36:44.480 --> 01:36:48.480]   We just call it like it is here.
+[01:36:48.480 --> 01:36:51.480]   If you want to comment on the Obama thing, 877-590-5525.
+[01:36:51.480 --> 01:36:54.480]   All right, getting into the economy, a bunch of police state news in the final segment right now.
+[01:36:54.480 --> 01:36:57.480]   Let's go to Noah in Denton, Texas.
+[01:36:57.480 --> 01:36:59.480]   You're on the air, sir.
+[01:36:59.480 --> 01:37:00.480]   Hello, Alex.
+[01:37:00.480 --> 01:37:01.480]   I'm a big fan of the show.
+[01:37:01.480 --> 01:37:02.480]   Welcome.
+[01:37:02.480 --> 01:37:05.480]   I was astonished the other day when I heard Mike Burgess on your show.
+[01:37:05.480 --> 01:37:07.480]   That's my representative here in Denton.
+[01:37:07.480 --> 01:37:10.480]   Well, they were threatened with martial law, so we had him on.
+[01:37:10.480 --> 01:37:13.480]   We had another congressman on, however, martial law, so we just thought we'd have him on.
+[01:37:13.480 --> 01:37:16.480]   Do you think he's a listener of your show?
+[01:37:16.480 --> 01:37:19.480]   No, but basically we're always amazed.
+[01:37:19.480 --> 01:37:22.480]   Pretty much anybody we call, whether it's Chuck Norris or Jesse Ventura or you name it,
+[01:37:22.480 --> 01:37:26.480]   that come on the show, they already know who we are and are generally listeners.
+[01:37:26.480 --> 01:37:28.480]   But, you know, I didn't ask Burgess that.
+[01:37:28.480 --> 01:37:31.480]   Did Burgess' office -- Trey, get your mic back over there, buddy.
+[01:37:31.480 --> 01:37:36.480]   Did -- he swings it away from him like it's a Cobra when he's not on it.
+[01:37:36.480 --> 01:37:38.480]   Did Burgess' office know who we were?
+[01:37:38.480 --> 01:37:43.480]   I can't remember off the top of my head, but when I dropped the name and everything, he was just,
+[01:37:43.480 --> 01:37:46.480]   "Oh, yeah, oh, yeah," because, you know, they're up in Fort Worth.
+[01:37:46.480 --> 01:37:48.480]   Yeah, well, regardless, sir, so it sounds like he is.
+[01:37:48.480 --> 01:37:49.480]   What's your question?
+[01:37:49.480 --> 01:37:53.480]   Okay, because I've sent him several e-mails about Architects and Engineers for 9/11 Truth
+[01:37:53.480 --> 01:37:55.480]   and also InfoWars news articles and things like that,
+[01:37:55.480 --> 01:37:58.480]   and I was hoping if you can get him back on the show sometime,
+[01:37:58.480 --> 01:38:01.480]   maybe you can ask him what his views are on 9/11.
+[01:38:01.480 --> 01:38:04.480]   I've read his website, and he seems to believe the official story, and he won't --
+[01:38:04.480 --> 01:38:09.480]   Well, look, we just had a Republican and Democratic congressman on about how they were threatened with martial law,
+[01:38:09.480 --> 01:38:11.480]   and so that's why we had them on.
+[01:38:11.480 --> 01:38:14.480]   It was on that subject and, you know, that subject alone.
+[01:38:14.480 --> 01:38:16.480]   Okay, I understand that.
+[01:38:16.480 --> 01:38:20.480]   I found a website just recently called TexasSuccession.com.
+[01:38:20.480 --> 01:38:22.480]   It's about the Republic of Texas.
+[01:38:22.480 --> 01:38:26.480]   Texas can legally succeed, but we don't need five Nerdy Wells in a trailer to do it
+[01:38:26.480 --> 01:38:29.480]   and declare themselves president first, and we want to secede.
+[01:38:29.480 --> 01:38:32.480]   It needs to be done in an orderly fashion with the legislature.
+[01:38:32.480 --> 01:38:33.480]   I agree.
+[01:38:33.480 --> 01:38:35.480]   Maybe we should start pressuring some of these congressmen about that.
+[01:38:35.480 --> 01:38:37.480]   Hell, I'm looking for a free country to move to.
+[01:38:37.480 --> 01:38:39.480]   People always say get out.
+[01:38:39.480 --> 01:38:41.480]   Patriots are supposed to stay and try to make it better,
+[01:38:41.480 --> 01:38:45.480]   but if they're going to federalize everything and take everything I got, I might as well just get out of here.
+[01:38:45.480 --> 01:38:46.480]   No, I'm not leaving, folks.
+[01:38:46.480 --> 01:38:47.480]   Don't start any rumors.
+[01:38:47.480 --> 01:38:50.480]   Bobby and Kelly, you're on the air, Bobby.
+[01:38:50.480 --> 01:38:51.480]   Go ahead.
+[01:38:51.480 --> 01:38:52.480]   Hi.
+[01:38:52.480 --> 01:38:58.480]   First I want to tell everybody that flu shots have mercury, aluminum, and formaldehyde.
+[01:38:58.480 --> 01:38:59.480]   Absolutely.
+[01:38:59.480 --> 01:39:00.480]   That is a fact.
+[01:39:00.480 --> 01:39:03.480]   From 1 in 25,000 with autism to 1 in 86 now.
+[01:39:03.480 --> 01:39:08.480]   From 1 in 33 getting cancer to now 1 in 2.
+[01:39:08.480 --> 01:39:11.480]   It was 1 in 3, now 1 in 2.
+[01:39:11.480 --> 01:39:18.480]   And I want to tell everyone to go to Google Video, type in "Argentina economic collapse" and look at it.
+[01:39:18.480 --> 01:39:20.480]   And that was engineered by the IMF and World Bank.
+[01:39:20.480 --> 01:39:21.480]   We got their documents on that.
+[01:39:21.480 --> 01:39:25.480]   A first world nation within a month was a third world nation.
+[01:39:25.480 --> 01:39:28.480]   I've heard you talking about that for years and years.
+[01:39:28.480 --> 01:39:30.480]   It's the exact same thing as Argentina.
+[01:39:30.480 --> 01:39:31.480]   Absolutely.
+[01:39:31.480 --> 01:39:34.480]   It's the last chapter in my book, "Descent into Tyranny," which is, by the way, almost out of print.
+[01:39:34.480 --> 01:39:35.480]   15,000 copies.
+[01:39:35.480 --> 01:39:36.480]   I'm not printing more.
+[01:39:36.480 --> 01:39:41.480]   There's a couple hundred copies left you want "Descent into Tyranny" up on Infowars.com,
+[01:39:41.480 --> 01:39:43.480]   online video and bookstore right there.
+[01:39:43.480 --> 01:39:45.480]   Steve in Colorado, you're on the air, Steve.
+[01:39:45.480 --> 01:39:46.480]   Hi, Alex.
+[01:39:46.480 --> 01:39:48.480]   Thanks for waking me and so many others up.
+[01:39:48.480 --> 01:39:50.480]   I just wanted to ask two things.
+[01:39:50.480 --> 01:39:58.480]   No doubt that there's a lot of military buildup I've seen on the highways here in Colorado and that we're close to martial law.
+[01:39:58.480 --> 01:40:07.480]   I'm a PrisonPlanet.tv member and was wondering if you think that your audience/members who are signed up through your website
+[01:40:07.480 --> 01:40:14.480]   are going to get rounded up, get that 4 a.m. red, blue, green thing that they talk about on YouTube.
+[01:40:14.480 --> 01:40:17.480]   No, no, sir, that's not how it's going to work.
+[01:40:17.480 --> 01:40:20.480]   Look, the government, the criminals that run our country, they call themselves the government,
+[01:40:20.480 --> 01:40:24.480]   have announced that they're going to arrest everybody and have announced the NSA is listening to you
+[01:40:24.480 --> 01:40:28.480]   and have announced they're going to do all this because they want to have a chilling effect
+[01:40:28.480 --> 01:40:32.480]   and scare you into not speaking up when it's key that everybody who loves liberty,
+[01:40:32.480 --> 01:40:38.480]   black, white, old, young, it doesn't matter, Hispanic, purple, green polka dot, speak up now for liberty.
+[01:40:38.480 --> 01:40:39.480]   Okay?
+[01:40:39.480 --> 01:40:41.480]   So, yes, a lot of stuff is tracked on the web.
+[01:40:41.480 --> 01:40:43.480]   A lot of stuff is tracked on the Internet, period.
+[01:40:43.480 --> 01:40:50.480]   There are tens of millions of people a month that visit Infowars.com and PrisonPlanet.com.
+[01:40:50.480 --> 01:40:55.480]   If you go to Alexa.com and look at the ratings, 84%, 85% of those are in the U.S.
+[01:40:55.480 --> 01:40:57.480]   How are they going to arrest 10 million people?
+[01:40:57.480 --> 01:40:59.480]   They're not going to.
+[01:40:59.480 --> 01:41:00.480]   We're the majority.
+[01:41:00.480 --> 01:41:02.480]   I talk to police chiefs.
+[01:41:02.480 --> 01:41:03.480]   I talk to sheriffs.
+[01:41:03.480 --> 01:41:04.480]   I talk to congresspeople.
+[01:41:04.480 --> 01:41:06.480]   They're against what's happening.
+[01:41:06.480 --> 01:41:08.480]   It's a private group of banks doing this.
+[01:41:08.480 --> 01:41:13.480]   So instead of living in fear and thinking it's going to be some hot martial law that comes overnight
+[01:41:13.480 --> 01:41:16.480]   and they arrest us all in one day, they don't have the personnel for that,
+[01:41:16.480 --> 01:41:19.480]   like the Boston Globe tries to put out, we're saying it's going to happen.
+[01:41:19.480 --> 01:41:20.480]   It's incremental.
+[01:41:20.480 --> 01:41:21.480]   We're due process.
+[01:41:21.480 --> 01:41:23.480]   The rule of law are overturned.
+[01:41:23.480 --> 01:41:26.480]   Where they taser 400-and-something people to death.
+[01:41:26.480 --> 01:41:28.480]   Where they threaten Congress.
+[01:41:28.480 --> 01:41:30.480]   See, martial law is against certain groups.
+[01:41:30.480 --> 01:41:32.480]   See, the White House threatens Congress.
+[01:41:32.480 --> 01:41:35.480]   Well, Congress should have just stood up to that bluff.
+[01:41:35.480 --> 01:41:38.480]   I mean, imagine if they said we're going to arrest Congress or kick Congress out.
+[01:41:38.480 --> 01:41:39.480]   It would have been ridiculous.
+[01:41:39.480 --> 01:41:42.480]   But Lincoln did do that, so he was actually able to do it.
+[01:41:42.480 --> 01:41:45.480]   First thing Lincoln grabbed, though, was Congress and key things.
+[01:41:45.480 --> 01:41:46.480]   Here's the deal.
+[01:41:46.480 --> 01:41:50.480]   The first person you'll see get grabbed down this line won't even be Alex Jones.
+[01:41:50.480 --> 01:41:54.480]   It'll be business owners and corporate chiefs that weren't on the inside of the New World Order
+[01:41:54.480 --> 01:41:55.480]   or thought they were but weren't.
+[01:41:55.480 --> 01:41:57.480]   Then it'll be people like Alex Jones.
+[01:41:57.480 --> 01:42:00.480]   Or more often, they'll just shut down the web and kick me off the radio.
+[01:42:00.480 --> 01:42:02.480]   Then it doesn't matter.
+[01:42:02.480 --> 01:42:04.480]   So I'm a canary in the coal mine.
+[01:42:04.480 --> 01:42:06.480]   If you see me go down, then something else might happen.
+[01:42:06.480 --> 01:42:08.480]   All right, let's jam in one more here.
+[01:42:08.480 --> 01:42:11.480]   Let's go ahead and go to Rob in Vermont.
+[01:42:11.480 --> 01:42:13.480]   Rob, you are on the air.
+[01:42:13.480 --> 01:42:15.480]   Hey, thanks, Alex.
+[01:42:15.480 --> 01:42:17.480]   One thing, keep up the good work.
+[01:42:17.480 --> 01:42:25.480]   Second thing is everybody out there needs to get into a position of elected office at the very local level.
+[01:42:25.480 --> 01:42:30.480]   A bunch of us are up in Vermont are getting our--
+[01:42:30.480 --> 01:42:31.480]   And here's the point.
+[01:42:31.480 --> 01:42:34.480]   The New World Order runs its candidates claiming they're patriots.
+[01:42:34.480 --> 01:42:38.480]   Why not run our candidates claiming we're New World Order?
+[01:42:38.480 --> 01:42:39.480]   I'm talking about real local.
+[01:42:39.480 --> 01:42:40.480]   I'm talking about--
+[01:42:40.480 --> 01:42:41.480]   No, no, local, local, yeah.
+[01:42:41.480 --> 01:42:47.480]   I'm talking local towns, local justice of the peace because in Vermont law,
+[01:42:47.480 --> 01:42:55.480]   and it's probably all over the country, we then have a lawful duty to check and make sure the ballots and the votes are all--
+[01:42:55.480 --> 01:42:58.480]   That's right, and you have a right to secede and a right to revolt as well.
+[01:42:58.480 --> 01:42:59.480]   Anything else?
+[01:42:59.480 --> 01:43:00.480]   Yeah.
+[01:43:00.480 --> 01:43:01.480]   I'll put you on hold.
+[01:43:01.480 --> 01:43:02.480]   We'll come back to you after break.
+[01:43:02.480 --> 01:43:04.480]   Stay with us.
+[01:43:04.480 --> 01:43:08.480]   Would you walk around with your credit card number displayed on your back for anyone to read?
+[01:43:08.480 --> 01:43:13.480]   Of course not, but if you have one of the 50 million new contactless credit and debit cards in circulation in your wallet,
+[01:43:13.480 --> 01:43:15.480]   that's exactly what you're doing.
+[01:43:15.480 --> 01:43:21.480]   I'm Walt Augustinowitz, founder of Identity Stronghold, and we think this is information you need to know.
+[01:43:21.480 --> 01:43:26.480]   You may not even realize you already have one of these cards because they look physically just like the old card.
+[01:43:26.480 --> 01:43:31.480]   The difference is an RFID chip hidden inside the card that makes radio communication with the card possible
+[01:43:31.480 --> 01:43:36.480]   right through your wallet, purse, or pants pocket without you ever removing the card.
+[01:43:36.480 --> 01:43:39.480]   Pickpockets no longer even have to touch you to get your information.
+[01:43:39.480 --> 01:43:45.480]   Our company realizes the privacy danger this represents, and that's why we manufacture the SecureSleeve.
+[01:43:45.480 --> 01:43:49.480]   The SecureSleeve is a patent-pending card sleeve that contains a radio frequency barrier,
+[01:43:49.480 --> 01:43:52.480]   preventing radio signals from reaching your card.
+[01:43:52.480 --> 01:43:56.480]   Get more information and purchase a SecureSleeve online at idstronghold.com.
+[01:43:56.480 --> 01:44:03.480]   That's idstronghold.com, or call us at 800-610-2770.
+[01:44:03.480 --> 01:44:09.480]   You invest, you buy insurance, you wear your seatbelt, you do things to ensure your family's future and protection.
+[01:44:09.480 --> 01:44:11.480]   But why? Just in case?
+[01:44:11.480 --> 01:44:14.480]   With the current state of affairs, ask yourself, "Am I ready?"
+[01:44:14.480 --> 01:44:17.480]   Preparation starts at survivalgearsource.com.
+[01:44:17.480 --> 01:44:23.480]   Survivalgearsource.com has a huge selection of vital products, emergency survival kits, gas masks, MREs,
+[01:44:23.480 --> 01:44:27.480]   communication devices, products for pet care, your car, home, office, and school.
+[01:44:27.480 --> 01:44:32.480]   Protect against all natural disasters and terror attacks that can happen at any time.
+[01:44:32.480 --> 01:44:36.480]   If you are not prepared, the last place you want to be is standing in FEMA lines.
+[01:44:36.480 --> 01:44:38.480]   Invest in your future now.
+[01:44:38.480 --> 01:44:43.480]   Visit survivalgearsource.com or call 877-231-1925.
+[01:44:43.480 --> 01:44:47.480]   That's 877-231-1925.
+[01:44:47.480 --> 01:44:49.480]   survivalgearsource.com.
+[01:44:49.480 --> 01:44:51.480]   That's survivalgearsource.com.
+[01:44:51.480 --> 01:44:55.480]   Or call 877-231-1925.
+[01:44:55.480 --> 01:44:58.480]   877-231-1925.
+[01:44:58.480 --> 01:45:00.480]   survivalgearsource.com.
+[01:45:00.480 --> 01:45:02.480]   Prepare for tomorrow now.
+[01:45:02.480 --> 01:45:08.480]   Prospy.com is your choice for everything spy-related.
+[01:45:08.480 --> 01:45:12.480]   Stealth cameras cleverly disguised as items commonly found around the home.
+[01:45:12.480 --> 01:45:18.480]   Inventory-savvy, you'll find your favorite phone and voice recorders, powerful binoculars, security systems,
+[01:45:18.480 --> 01:45:20.480]   hidden safes, and much more.
+[01:45:20.480 --> 01:45:23.480]   Find hidden cameras wherever you go with the small handheld spy finder.
+[01:45:23.480 --> 01:45:26.480]   And locate hidden transmitters with one of our bug detectors.
+[01:45:26.480 --> 01:45:29.480]   Protect yourself from ID theft with our RFID blocker.
+[01:45:29.480 --> 01:45:34.480]   The RFID tags in ID cards have been proven to be not secure.
+[01:45:34.480 --> 01:45:38.480]   Thieves are able to read information stored on these tags to steal your identity.
+[01:45:38.480 --> 01:45:40.480]   And your identity as a wallet or passport case.
+[01:45:40.480 --> 01:45:46.480]   Prospy.com also carries a wide variety of night vision cameras and scopes to see in the darkest conditions.
+[01:45:46.480 --> 01:45:52.480]   Protect your home and business with our complete line of security cameras made to face any situation.
+[01:45:52.480 --> 01:45:57.480]   Don't forget to order your personal security devices and shop for so much more.
+[01:45:57.480 --> 01:45:59.480]   Go to prospy.com.
+[01:45:59.480 --> 01:46:03.480]   Prospy.com, where your personal security and well-being is our goal.
+[01:46:03.480 --> 01:46:07.480]   Are you sick and tired of spending your hard-earned money to fill your gas tank?
+[01:46:07.480 --> 01:46:09.480]   Then do something about it.
+[01:46:09.480 --> 01:46:13.480]   Fuel Saver's fuel conditioner lets you drive further on each gallon of fuel.
+[01:46:13.480 --> 01:46:15.480]   Completely safe for all engines.
+[01:46:15.480 --> 01:46:21.480]   Just add a small squeeze of product to your tank each time you fill up to improve your fuel economy 10 to 20% or more.
+[01:46:21.480 --> 01:46:24.480]   Saving you 35 to 80 cents on every gallon.
+[01:46:24.480 --> 01:46:32.480]   Each little 2-ounce squeeze bottle is highly concentrated and costs only $8 to treat 100 gallons of gas or 50 gallons of diesel.
+[01:46:32.480 --> 01:46:36.480]   Buy a case and the price drops to a mere $6 per bottle with free shipping.
+[01:46:36.480 --> 01:46:40.480]   Save the first 10 orders and get an additional 10% off your case purchase.
+[01:46:40.480 --> 01:46:43.480]   That's $5.40 to treat 100 gallons of gas.
+[01:46:43.480 --> 01:46:52.480]   Call toll free 866-768-7811 or get more information at fuelsaverinc.com.
+[01:46:52.480 --> 01:46:55.480]   First 10 orders, save 10% on a case purchase.
+[01:46:55.480 --> 01:46:57.480]   Act now to save on fuel.
+[01:46:57.480 --> 01:47:01.480]   866-768-7811.
+[01:47:01.480 --> 01:47:03.480]   Call now.
+[01:47:03.480 --> 01:47:07.480]   [Music]
+[01:47:07.480 --> 01:47:12.480]   You're listening to GCN, the Genesis Communications Radio Network.
+[01:47:12.480 --> 01:47:20.480]   [Music]
+[01:47:20.480 --> 01:47:27.480]   My country is being flushed down the toilet by the International Banking Crime Syndicate.
+[01:47:27.480 --> 01:47:30.480]   They've been calling it the New World Order, a New World Order banking system.
+[01:47:30.480 --> 01:47:34.480]   They orchestrate the crime, they get all of our money and leave us nothing.
+[01:47:34.480 --> 01:47:41.480]   They terrorize the public into believing that they were unsuccessful, that if we gave them unlimited power, they would save the stock market.
+[01:47:41.480 --> 01:47:44.480]   And so it dropped by $3 trillion in the days after.
+[01:47:44.480 --> 01:47:50.480]   All right, here's the deal. I want to cover a bunch of final news, but I've got about 20 stories I wanted to get to.
+[01:47:50.480 --> 01:47:53.480]   It looks like I probably won't have time to get to them all. I'll mention them at least.
+[01:47:53.480 --> 01:47:55.480]   But let's just rampage through your calls.
+[01:47:55.480 --> 01:47:58.480]   Who was it I was still talking to here?
+[01:47:58.480 --> 01:48:01.480]   I was going to let somebody finish up.
+[01:48:01.480 --> 01:48:04.480]   And I put them back on hold. Was it Rob in Vermont?
+[01:48:04.480 --> 01:48:08.480]   Rob, real fast, because I've got a lot of calls to get to in a short time to get there. Go ahead.
+[01:48:08.480 --> 01:48:11.480]   Okay, second thing, Alex.
+[01:48:11.480 --> 01:48:18.480]   Getting involved in your local government is really key right now, because look, with all the food shortages, the energy shortages.
+[01:48:18.480 --> 01:48:21.480]   Oh, yeah, food shortages worldwide, and it's going to start in the U.S.
+[01:48:21.480 --> 01:48:23.480]   Not just inflation.
+[01:48:23.480 --> 01:48:29.480]   Yep, and we've got to form the networks that are going to be able to protect people, protect our rights, and protect our liberties.
+[01:48:29.480 --> 01:48:34.480]   That doesn't mean joining a military group or any kind of thing.
+[01:48:34.480 --> 01:48:39.480]   I agree. Get involved. Run for office. Speak at the city council. Get the information out.
+[01:48:39.480 --> 01:48:49.480]   Trooper in Austin, Texas, who a few weeks ago called and said that he wanted to come arrest our guest that was criticizing Lord Obama.
+[01:48:49.480 --> 01:48:50.480]   Trooper?
+[01:48:50.480 --> 01:49:04.480]   Yeah, Kerry. Now, this latest covert McCain supporter, he's upset because, like I said in the last program, we're not going to take it lying down the way we did with Kerry.
+[01:49:04.480 --> 01:49:10.480]   Hey, wait a minute. The same people that funded Bush are funding Barack Obama. Can't you understand that?
+[01:49:10.480 --> 01:49:14.480]   Can't you understand it's not about the two parties, that both parties are owned?
+[01:49:14.480 --> 01:49:23.480]   You're right to a very large extent, but also the same people that funded Hillary Clinton funded McCain.
+[01:49:23.480 --> 01:49:29.480]   Well, here's the deal. We're going to find out, Trooper. We're probably going to end up getting Barack Obama.
+[01:49:29.480 --> 01:49:30.480]   Yeah.
+[01:49:30.480 --> 01:49:35.480]   And so we're going to find out. And I've got a sneaking suspicion. I've got a sneaking suspicion.
+[01:49:35.480 --> 01:49:37.480]   Stuff is going to get worse.
+[01:49:37.480 --> 01:49:46.480]   Bush, Cheney, those people, the reason they don't want Obama to win, they're subject to arrest. You know McCain's not going to go after them.
+[01:49:46.480 --> 01:49:51.480]   Oh, you think Barack Obama is going to call for criminal charges. Well, let me tell you something.
+[01:49:51.480 --> 01:49:54.480]   The first thing Bill Clinton did was block Congressman Dan Burton's committee.
+[01:49:54.480 --> 01:50:00.480]   When George Bush came into office, they blocked that committee from investigating Bill Clinton pardoning cocaine dealers.
+[01:50:00.480 --> 01:50:05.480]   Look, they own both parties. Figure that out. Goodness gracious.
+[01:50:05.480 --> 01:50:10.480]   Let's talk to Fred in Austin, Tejas. You're on the air, Fred.
+[01:50:10.480 --> 01:50:14.480]   Wow. Well, anyway, the birth certificate thing.
+[01:50:14.480 --> 01:50:15.480]   Yes.
+[01:50:15.480 --> 01:50:24.480]   Obama responded in advance of this guy floating his lawsuit because they knew the lawsuit was coming, and put up his birth certificate.
+[01:50:24.480 --> 01:50:28.480]   And what they get for an answer is, "Oh, that's not a real birth certificate. It's a fraud."
+[01:50:28.480 --> 01:50:32.480]   It's a certificate of it. It's not the original. We need to see the original.
+[01:50:32.480 --> 01:50:34.480]   Right. Well, it's --
+[01:50:34.480 --> 01:50:36.480]   Let me ask you a question.
+[01:50:36.480 --> 01:50:41.480]   The media tells us evil Muslims, and I don't believe that, are hiding, that Muslims are evil or whatever.
+[01:50:41.480 --> 01:50:48.480]   But the point is that vicious al Qaeda is hiding under every toadstool and under every bed at night to try to sneak out and hurt us in the morning.
+[01:50:48.480 --> 01:50:50.480]   They're like monsters in the closet.
+[01:50:50.480 --> 01:50:55.480]   It is true he went to Indonesia for years when it was a Muslim dictatorship, and went to a Muslim school.
+[01:50:55.480 --> 01:50:56.480]   I mean, this is pretty weird.
+[01:50:56.480 --> 01:50:58.480]   It is. Yep, it is.
+[01:50:58.480 --> 01:51:04.480]   But since that time, he's gone to Harvard and served in the state senate, and served in the senate of the United States.
+[01:51:04.480 --> 01:51:06.480]   So you like Barack Obama?
+[01:51:06.480 --> 01:51:11.480]   No, I don't like or dislike Barack Obama. I'd really like to have a none of the above.
+[01:51:11.480 --> 01:51:12.480]   I hear you.
+[01:51:12.480 --> 01:51:19.480]   But the point is that this guy is an American citizen as anybody else, and the problem is you can sue anybody for anything.
+[01:51:19.480 --> 01:51:23.480]   Why'd they detain Jerome Corsi when he went to Kenya to find out if he was born there?
+[01:51:23.480 --> 01:51:26.480]   Well, I have no idea. I don't even know if it's true.
+[01:51:26.480 --> 01:51:27.480]   Oh, it's true.
+[01:51:27.480 --> 01:51:31.480]   The point is, Alex, you have a great show in general. I listen to your stuff and it's fabulous.
+[01:51:31.480 --> 01:51:34.480]   And today, I think you're getting worked over by a crackpot.
+[01:51:34.480 --> 01:51:36.480]   And that's the best description I can give you.
+[01:51:36.480 --> 01:51:37.480]   All right, well, here's the deal.
+[01:51:37.480 --> 01:51:43.480]   It's a major issue, and I don't agree 100% with everybody we have on the show.
+[01:51:43.480 --> 01:51:46.480]   I mean, I have other people on I disagree with, like Lord Rothschild.
+[01:51:46.480 --> 01:51:48.480]   People say, "You're in with Lord Rothschild."
+[01:51:48.480 --> 01:51:51.480]   No, I'm having them on to debate them.
+[01:51:51.480 --> 01:51:56.480]   But no, I mean, the Barack Obama stuff, two weeks ago when they were announcing they were going to arrest people
+[01:51:56.480 --> 01:52:01.480]   that "lied about him," people said that story wasn't true, and the Barack Obama campaign said, "No, it is."
+[01:52:01.480 --> 01:52:04.480]   So, I mean, look, I'm going to talk about it.
+[01:52:04.480 --> 01:52:11.480]   I've had guests on about John McCain, who really wasn't held as a prisoner of war that long,
+[01:52:11.480 --> 01:52:14.480]   whose dad was the head of the Navy, head of the Pacific Fleet,
+[01:52:14.480 --> 01:52:17.480]   and so he went and spilt his guts, you know, in Songbird.
+[01:52:17.480 --> 01:52:22.480]   And I've had people on about his mafia connections, and about, you know, "I'm going to cover it all."
+[01:52:22.480 --> 01:52:25.480]   You get it all here. Not some left or right agenda.
+[01:52:25.480 --> 01:52:27.480]   I want everybody to understand that.
+[01:52:27.480 --> 01:52:29.480]   Okay?
+[01:52:29.480 --> 01:52:32.480]   All right, let's go to Mark in Indiana. Mark, you're on the air. Welcome.
+[01:52:32.480 --> 01:52:35.480]   Hey, Alex, thanks for taking my call.
+[01:52:35.480 --> 01:52:43.480]   I've been listening for a while now, and I just want to thank you for exposing the false left-right paradigm,
+[01:52:43.480 --> 01:52:50.480]   because it's pretty depressing watching the TV, and all day long all you see is this campaign about Republicans and Democrats.
+[01:52:50.480 --> 01:52:52.480]   I just want you to know you're the man I turned to.
+[01:52:52.480 --> 01:52:57.480]   Well, thank you. What about Joe Biden? He was involved with Pakistani intelligence and the hijackers.
+[01:52:57.480 --> 01:52:59.480]   We've gone and interviewed him.
+[01:52:59.480 --> 01:53:01.480]   These guys are knee-deep in the--
+[01:53:01.480 --> 01:53:02.480]   We are ang--
+[01:53:02.480 --> 01:53:03.480]   Do what?
+[01:53:03.480 --> 01:53:07.480]   We are ang-- expose the-- yeah, so, I mean, Joe Biden, Barack Obama, they're all the same.
+[01:53:07.480 --> 01:53:13.480]   They're all New World Order, and I'm just saying you're the man to go to that you can get the truth from,
+[01:53:13.480 --> 01:53:16.480]   and Infowars.com. I spread it all over the Internet.
+[01:53:16.480 --> 01:53:20.480]   I try to wake people up all the time, and I really appreciate what you're doing.
+[01:53:20.480 --> 01:53:22.480]   Well, we appreciate you, my friend. Thank you so much.
+[01:53:22.480 --> 01:53:26.480]   We just try to find the truth, try to tell the truth, do the best job we can.
+[01:53:26.480 --> 01:53:29.480]   Are we perfect? No. None of us are.
+[01:53:29.480 --> 01:53:31.480]   We're just here covering the information.
+[01:53:31.480 --> 01:53:34.480]   Let's talk to Chris in Kentucky. Chris, you're on the air.
+[01:53:34.480 --> 01:53:37.480]   Yeah, thanks, Alex. I just wanted to say what you're talking about.
+[01:53:37.480 --> 01:53:41.480]   The left-right paradigm is all controlled. It's all by corporations.
+[01:53:41.480 --> 01:53:45.480]   Because a month ago we had a massive power outage from Hurricane Ike here in Louisville,
+[01:53:45.480 --> 01:53:48.480]   and how the police and the military blended together.
+[01:53:48.480 --> 01:53:50.480]   You know, they all looked at--
+[01:53:50.480 --> 01:53:52.480]   No, that's it. It's slow martial law.
+[01:53:52.480 --> 01:53:56.480]   Military and police working together secretly. Now it's public. Now main brigades.
+[01:53:56.480 --> 01:54:02.480]   It isn't about George Bush or Barack Obama. It's about Northcom owned by the private corporations.
+[01:54:02.480 --> 01:54:06.480]   They are getting everybody ready. Troops at the Super Bowl. Troops at the Kentucky Derby.
+[01:54:06.480 --> 01:54:09.480]   Exactly, and that's exactly what they did when we had that power outage.
+[01:54:09.480 --> 01:54:14.480]   And the news media said, "Oh, they did so good with the police and the military.
+[01:54:14.480 --> 01:54:19.480]   Next event, we could go to the next level." And that's gun confiscation, my friends.
+[01:54:19.480 --> 01:54:24.480]   Which Obama supports banning all .223 rifles, all .308.
+[01:54:24.480 --> 01:54:28.480]   That's banning almost half the rifles out there, and he really did vote for that.
+[01:54:28.480 --> 01:54:31.480]   And you know what? People say it's a lie. I've got the voting record.
+[01:54:31.480 --> 01:54:36.480]   McCain's a gun grabber, too. And I'm tired of the denial.
+[01:54:36.480 --> 01:54:40.480]   We're losing our rights. You get 90 plus percent of the American people want to close the borders.
+[01:54:40.480 --> 01:54:44.480]   Doesn't happen. 80 plus percent don't want a war. It continues.
+[01:54:44.480 --> 01:54:48.480]   99 percent plus don't want the bailout. Thousand to one calls. They do it.
+[01:54:48.480 --> 01:54:53.480]   The banker--I mean, it's bull. Get past these diversions.
+[01:54:53.480 --> 01:54:57.480]   By the way, McCain wasn't even born in the U.S. He was born in the Panama Casal zone
+[01:54:57.480 --> 01:55:00.480]   and lied about being born in a U.S. base that didn't exist then.
+[01:55:00.480 --> 01:55:04.480]   We had a guest on about that and got attacked as Obama operatives.
+[01:55:04.480 --> 01:55:06.480]   Johnny in Vancouver, Canada. You're on the air.
+[01:55:06.480 --> 01:55:11.480]   Well, I was showing them. I'm a very big fan. I travel to Mexico a lot
+[01:55:11.480 --> 01:55:16.480]   because I'm afraid to come into your country because I'll probably be thrown in Guantanamo for the way I think.
+[01:55:16.480 --> 01:55:22.480]   And the bottom line is I had a couple out from Texas, Fort Worth, come stay with us for the weekend.
+[01:55:22.480 --> 01:55:24.480]   I tried to spill the beans, tell them everything.
+[01:55:24.480 --> 01:55:29.480]   They don't listen sometimes, and it's getting so frustrating because it's also happened down here.
+[01:55:29.480 --> 01:55:32.480]   Prime Minister Stephen Harper's in with the CFR.
+[01:55:32.480 --> 01:55:36.480]   Yeah, he just said they're going to merge Canada with the European Union.
+[01:55:36.480 --> 01:55:39.480]   That's all in the official documents. The U.S. is already merging.
+[01:55:39.480 --> 01:55:42.480]   And you tell the public you're not aware. Look, I know we've got loaded phone lines.
+[01:55:42.480 --> 01:55:47.480]   I'm out of time. I can't take any more of your calls because I've got to cover the news here at the end.
+[01:55:47.480 --> 01:55:49.480]   Folks, call me back tomorrow on the weekday show. I'll get to all of you.
+[01:55:49.480 --> 01:55:53.480]   Just tell the folks answering the phone that you got cut off. You've got to head the line.
+[01:55:53.480 --> 01:55:57.480]   Okay, they're announcing that the police are tracking all your license plates in real time,
+[01:55:57.480 --> 01:56:00.480]   recording everyone guilty until proven innocent.
+[01:56:00.480 --> 01:56:04.480]   EU steps up pressure on Ireland to hold second Lisbon Treaty referendum.
+[01:56:04.480 --> 01:56:08.480]   Ireland said no four months ago to being absorbed by the European Union and losing their liberties.
+[01:56:08.480 --> 01:56:10.480]   They're still going to try to pass it again.
+[01:56:10.480 --> 01:56:12.480]   Traditional light bulbs banned by EU.
+[01:56:12.480 --> 01:56:17.480]   Doesn't matter that they're deadly poison and that the new ones are filled with mercury.
+[01:56:17.480 --> 01:56:19.480]   Brown lawn means jail time.
+[01:56:19.480 --> 01:56:26.480]   You've got this Korean War vet, no criminal record, grandpa, done nothing wrong, got a brown yard as a sprinkler broke.
+[01:56:26.480 --> 01:56:30.480]   They said sought it, they arrested him, they said indefinitely he may spend years in prison.
+[01:56:30.480 --> 01:56:34.480]   No judge, no jury, no indictment, just total tyranny.
+[01:56:34.480 --> 01:56:39.480]   Orwellian UK angers people with tree cameras snooping kids.
+[01:56:39.480 --> 01:56:40.480]   Bloomberg.
+[01:56:40.480 --> 01:56:45.480]   And I've got a New York Times article where kids in the US are being trained at public school and private school
+[01:56:45.480 --> 01:56:48.480]   to tattle on their parents for environmental crimes and boss their parents around.
+[01:56:48.480 --> 01:56:51.480]   That's how tyranny starts. It has nothing to do with saving the earth.
+[01:56:51.480 --> 01:56:54.480]   They want carbon taxes paid to the private banks.
+[01:56:54.480 --> 01:56:56.480]   New killer drones can be piloted by teenagers.
+[01:56:56.480 --> 01:56:57.480]   Told you this years ago.
+[01:56:57.480 --> 01:57:03.480]   Wired Magazine, they're saying that buck-toothed, basically kids eating Hot Pockets and drinking Sunny D
+[01:57:03.480 --> 01:57:05.480]   are going to be running the killer drones.
+[01:57:05.480 --> 01:57:08.480]   Army orders pain ray trucks.
+[01:57:08.480 --> 01:57:10.480]   New report shows potential for death.
+[01:57:10.480 --> 01:57:13.480]   The Air Force admits that it will actually kill people.
+[01:57:13.480 --> 01:57:18.480]   Local police departments in the Pentagon, they get high-powered microwave guns to control rioting crowds.
+[01:57:18.480 --> 01:57:22.480]   When they repossess and take everything, they've been gearing up for decades for martial law.
+[01:57:22.480 --> 01:57:24.480]   They're implementing it right now.
+[01:57:24.480 --> 01:57:27.480]   NATO to attack Afghan opium labs.
+[01:57:27.480 --> 01:57:31.480]   That means tribes they don't control where they're not getting the opium.
+[01:57:31.480 --> 01:57:34.480]   It just goes on and on and on.
+[01:57:34.480 --> 01:57:35.480]   We are out of time.
+[01:57:35.480 --> 01:57:36.480]   Global warming.
+[01:57:36.480 --> 01:57:38.480]   Boise gets its earliest snow on record.
+[01:57:38.480 --> 01:57:40.480]   Earth is cooling as sun cools down.
+[01:57:40.480 --> 01:57:42.480]   Sun was hotter than ever.
+[01:57:42.480 --> 01:57:44.480]   It has now cooled off.
+[01:57:44.480 --> 01:57:46.480]   Ladies and gentlemen, we are out of time.
+[01:57:46.480 --> 01:57:49.480]   Infowars.com and prisonplanet.com are the websites.
+[01:57:49.480 --> 01:57:51.480]   Get out there and stand up against tyranny.
+[01:57:51.480 --> 01:57:53.480]   Defend liberty!
+[01:57:53.480 --> 01:57:55.480]   Looking for profit?
+[01:57:55.480 --> 01:57:57.480]   Looking for safety and security?
+[01:57:57.480 --> 01:58:00.480]   The $10 Olympic commemorative gold coin offers both.
+[01:58:00.480 --> 01:58:08.480]   This low-mintage collector coin with a total series mintage under $600,000 has sold at four times its current price.
+[01:58:08.480 --> 01:58:12.480]   Falling dollar values and inflation make this likely to happen again.
+[01:58:12.480 --> 01:58:14.480]   Secure your position today.
+[01:58:14.480 --> 01:58:18.480]   Call Midas Resources at 1-800-686-2237.
+[01:58:18.480 --> 01:58:22.480]   That's 1-800-686-2237.
+[01:58:22.480 --> 01:58:24.480]   Hi, this is Ted Anderson.
+[01:58:24.480 --> 01:58:29.480]   Over the years, Genesis Communications Network has grown by leaps and bounds, reaching millions of listeners.
+[01:58:29.480 --> 01:58:32.480]   The impact on political and social issues have been enormous.
+[01:58:32.480 --> 01:58:36.480]   Businesses associated with the network have grown to become valuable enterprises.
+[01:58:36.480 --> 01:58:43.480]   If you are accredited and have an entrepreneurial spirit, national radio may be the opportunity you're looking for.
+[01:58:43.480 --> 01:58:48.480]   Call me today at 877-996-4327, extension 101.
+[01:58:48.480 --> 01:58:53.480]   For more information, that's 877-996-4327, extension 101.
+[01:58:53.480 --> 01:58:59.480]   Lead from solder in copper pipes, mercury from fish, dental fillings, vaccines, arsenic in the water.
+[01:58:59.480 --> 01:59:03.480]   These heavy metal toxins are difficult or even impossible to avoid.
+[01:59:03.480 --> 01:59:07.480]   Even trace amounts of these heavy metals over time can impact your health.
+[01:59:07.480 --> 01:59:18.480]   Many health problems have been suggested as being related to this heavy metal exposure, including memory loss, high blood pressure, depression, mood swings, speech disorders, neuropathy, autoimmune diseases, chronic fatigue, and more.
+[01:59:18.480 --> 01:59:24.480]   Unfortunately, traditional detoxifying isn't able to clear the body of these harmful and potentially deadly toxins.
+[01:59:24.480 --> 01:59:27.480]   That's why there's PuraClear from Ripple Creek.
+[01:59:27.480 --> 01:59:33.480]   PuraClear contains a proprietary blend of ingredients, including a cilantro extract and alpha lipoic acid,
+[01:59:33.480 --> 01:59:37.480]   among other ingredients formulated specifically to promote body cleansing.
+[01:59:37.480 --> 01:59:42.480]   PuraClear also has ingredients selected to promote improved circulation to enhance activity,
+[01:59:42.480 --> 01:59:46.480]   so that heavy metals may be more effectively captured and removed from the body.
+[01:59:46.480 --> 01:59:53.480]   Order PuraClear now by calling Ripple Creek at 203-331-0363 or go to RippleCreek.com.
+
+
+whisper_print_timings:     load time = 12184.18 ms
+whisper_print_timings:      mel time = 32964.75 ms
+whisper_print_timings:   sample time = 12902.12 ms
+whisper_print_timings:   encode time = 13436514.00 ms / 419891.06 ms per layer
+whisper_print_timings:   decode time = 6245336.50 ms / 195166.77 ms per layer
+whisper_print_timings:    total time = 19740236.00 ms

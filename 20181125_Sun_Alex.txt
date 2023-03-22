@@ -1,0 +1,2023 @@
+whisper_model_load: loading model from 'whisper.cpp/models/ggml-large.bin'
+whisper_model_load: n_vocab       = 51865
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 80
+whisper_model_load: f16           = 1
+whisper_model_load: type          = 5
+whisper_model_load: adding 1608 extra tokens
+whisper_model_load: mem_required  = 4712.00 MB
+whisper_model_load: ggml ctx size = 2950.97 MB
+whisper_model_load: memory size   =  304.38 MB
+whisper_model_load: model size    = 2950.66 MB
+
+system_info: n_threads = 6 / 16 | AVX = 1 | AVX2 = 1 | AVX512 = 0 | NEON = 0 | F16C = 1 | FP16_VA = 0 | WASM_SIMD = 0 | BLAS = 0 | 
+
+main: processing './wav/20181125_Sun_Alex.wav' (115135635 samples, 7196.0 sec), 6 threads, 1 processors, lang = en, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:10.000]   [MUSIC]
+[00:00:10.000 --> 00:00:16.240]   >> Resistance to tyrants is obedience to God.
+[00:00:16.240 --> 00:00:19.380]   It's Alex Jones.
+[00:00:19.380 --> 00:00:22.780]   >> Red alert, red alert, red alert, red alert, ladies and
+[00:00:22.780 --> 00:00:23.620]   gentlemen.
+[00:00:23.620 --> 00:00:27.540]   It's November 25th, 2018, we are live broadcasting from
+[00:00:27.540 --> 00:00:30.360]   the Central Texas News Center in Austin.
+[00:00:30.360 --> 00:00:32.000]   I am your host Alex Jones.
+[00:00:32.000 --> 00:00:36.440]   We have live continual coverage at Infowars.com and
+[00:00:36.440 --> 00:00:37.760]   Newswars.com.
+[00:00:37.760 --> 00:00:41.040]   Our reporters were just there last week, seeing the thousands
+[00:00:41.040 --> 00:00:44.880]   and thousands of illegal aliens organized by the UN being masked.
+[00:00:44.880 --> 00:00:47.600]   We've got all the local newscasts coming in.
+[00:00:47.600 --> 00:00:51.040]   We've got sat feeds, we're going to have the most up to date.
+[00:00:51.040 --> 00:00:52.640]   We've got live sat feeds.
+[00:00:52.640 --> 00:00:54.520]   We'll put some of this on screen.
+[00:00:54.520 --> 00:00:59.080]   Of individuals overrunning the border in Tijuana by the thousands
+[00:00:59.080 --> 00:01:02.840]   pouring over the fence, having tear gas fired at them.
+[00:01:02.840 --> 00:01:07.880]   And once they get here, once they are inside the United States,
+[00:01:07.880 --> 00:01:13.040]   then they go to the leftist judges who give them up to four years to
+[00:01:13.040 --> 00:01:18.800]   even show up for their hearing on supposedly being a refugee.
+[00:01:21.080 --> 00:01:27.600]   Now again, this footage is all posted to Infowars.com right now.
+[00:01:27.600 --> 00:01:32.040]   And we're going to be going over some of that for you here.
+[00:01:32.040 --> 00:01:37.000]   Again, I was just watching it back there right before we went live.
+[00:01:37.000 --> 00:01:41.720]   We have the footage, DrugsReport.com also has a lot of the footage.
+[00:01:47.840 --> 00:01:54.680]   Now, CBP suspends all traffic at the port of entry after migrants,
+[00:01:54.680 --> 00:01:57.640]   that's illegal alien invaders, rush to the border.
+[00:01:57.640 --> 00:02:03.720]   The latest US agents shoot tear gas at the migrants,
+[00:02:03.720 --> 00:02:05.440]   that's the Washington Post whitewashing.
+[00:02:05.440 --> 00:02:10.840]   Trump closes US border checkpoint at Tijuana as migrant caravan breaks
+[00:02:10.840 --> 00:02:16.640]   through the fence, the migrant caravan that did not exist.
+[00:02:16.640 --> 00:02:20.160]   Migrants enveloped in tear gas after heading towards the US,
+[00:02:20.160 --> 00:02:23.720]   you mean violently throwing rocks at people and climbing over the fences.
+[00:02:23.720 --> 00:02:27.400]   And once they get here, they have to be processed back into Mexico and
+[00:02:27.400 --> 00:02:30.760]   the judges don't allow it in almost every area of the country,
+[00:02:30.760 --> 00:02:33.520]   particularly California, where the Ninth Circuit and
+[00:02:33.520 --> 00:02:36.560]   those other federal courts actively work against America.
+[00:02:36.560 --> 00:02:40.040]   And that's why the UN and others are funding this.
+[00:02:44.440 --> 00:02:50.760]   Now, this is such incredible treason, and we knew it was coming.
+[00:02:50.760 --> 00:02:56.040]   And to watch the UN get US taxpayer money and set this up and
+[00:02:56.040 --> 00:03:01.360]   fund this just like they did in Europe, over and over and over again,
+[00:03:01.360 --> 00:03:02.480]   it makes my head spin.
+[00:03:02.480 --> 00:03:07.400]   And then to have the media, the collaborator controlled corporate media,
+[00:03:07.400 --> 00:03:11.640]   act like the United States is bad and Trump is bad, and
+[00:03:11.640 --> 00:03:17.560]   our nation existing is bad, as they try to open up Central and
+[00:03:17.560 --> 00:03:22.440]   South America to literally flood us by the tens of millions a year,
+[00:03:22.440 --> 00:03:25.560]   just like Europe's being hit by the Islamists outside of North Africa and
+[00:03:25.560 --> 00:03:29.800]   the Middle East, who then come in and literally go on welfare and
+[00:03:29.800 --> 00:03:33.680]   are politically controlled by the globalists.
+[00:03:33.680 --> 00:03:36.360]   And just the footage is so dramatic.
+[00:03:36.360 --> 00:03:39.040]   If you're a radio listener, you've got to go to infowars.com.
+[00:03:39.040 --> 00:03:43.480]   Jamie White has put up an article that's a big boil down of all of this.
+[00:03:43.480 --> 00:03:48.440]   We have also sent out a live feed that's on the front page of
+[00:03:48.440 --> 00:03:54.880]   infowars.com that is so incredibly critical that everyone get this live feed and
+[00:03:54.880 --> 00:03:56.040]   share it with everyone you know.
+[00:03:56.040 --> 00:03:59.600]   Red alert, UN funded migrant horde of violent criminals
+[00:03:59.600 --> 00:04:04.880]   just broke through the US border.
+[00:04:06.640 --> 00:04:09.960]   This is just unspeakable that this is going on.
+[00:04:09.960 --> 00:04:13.200]   And it built up and it built up and it built up.
+[00:04:13.200 --> 00:04:15.480]   And first they said, you've got a lot of men.
+[00:04:15.480 --> 00:04:16.680]   They're nothing but children.
+[00:04:16.680 --> 00:04:18.800]   No, they're almost all military age men, as you can see.
+[00:04:18.800 --> 00:04:20.920]   They're watching on TV.
+[00:04:20.920 --> 00:04:23.400]   And then they said, it doesn't exist.
+[00:04:23.400 --> 00:04:24.240]   Trump's crazy.
+[00:04:24.240 --> 00:04:25.760]   Alex Jones is crazy.
+[00:04:25.760 --> 00:04:26.920]   Matt Drudge is crazy.
+[00:04:26.920 --> 00:04:30.920]   This is truly next level.
+[00:04:30.920 --> 00:04:35.680]   At this point, I am almost speechless because Trump's done everything he can,
+[00:04:35.680 --> 00:04:39.640]   but under law, once these people get in here,
+[00:04:39.640 --> 00:04:42.560]   they're then handed over to these traitor judges who let them stay.
+[00:04:42.560 --> 00:04:45.720]   And that's why they know you get over that fence, you're in.
+[00:04:45.720 --> 00:04:47.040]   Everything's free.
+[00:04:47.040 --> 00:04:51.640]   Everything's taken care of until the country collapses like Venezuela.
+[00:04:51.640 --> 00:04:54.760]   And they are breaking open all the borders of the planet and
+[00:04:54.760 --> 00:04:57.560]   flooding the first world with the third world, but then they weaponize.
+[00:04:57.560 --> 00:04:58.720]   America is under attack.
+[00:04:58.720 --> 00:05:02.880]   >> Fueling your body is hard work.
+[00:05:02.880 --> 00:05:07.400]   That's why we've introduced the InfoWars Life Daily Digestive Pack to help you
+[00:05:07.400 --> 00:05:08.640]   fuel it right.
+[00:05:08.640 --> 00:05:13.600]   Combine FloraLife Everyday Maintenance and Carnivore to help you fuel your gut and
+[00:05:13.600 --> 00:05:17.080]   body and take advantage of the powerful nutrients you receive.
+[00:05:17.080 --> 00:05:19.880]   There's no better way to power your body.
+[00:05:19.880 --> 00:05:24.360]   FloraLife is a powerful probiotic supplement with 20 of the most potent
+[00:05:24.360 --> 00:05:26.760]   clinically studied probiotic strains.
+[00:05:26.760 --> 00:05:28.160]   When paired with Carnivore,
+[00:05:28.160 --> 00:05:31.880]   our incredible enzyme formula that helps you break down nutrients,
+[00:05:31.880 --> 00:05:36.000]   these formulas fuel your gut and your body to help you fight toxins and
+[00:05:36.000 --> 00:05:37.880]   stay fueled all day.
+[00:05:37.880 --> 00:05:42.080]   These incredible formulas can help keep your body in tip top shape in the fight
+[00:05:42.080 --> 00:05:45.320]   against stress, age, and outside toxins.
+[00:05:45.320 --> 00:05:48.040]   There's no better time to try FloraLife and
+[00:05:48.040 --> 00:05:51.480]   Carnivore to see how well they can support your body.
+[00:05:51.480 --> 00:05:55.280]   Don't miss out on the chance to fuel your body and support recovery.
+[00:05:55.280 --> 00:05:58.640]   Try the InfoWars Life Daily Digestive Pack today.
+[00:05:58.640 --> 00:06:05.640]   Waging war on corruption.
+[00:06:05.640 --> 00:06:10.640]   It's Alex Jones coming to you live from the front lines of the InfoWars.
+[00:06:11.640 --> 00:06:21.640]   [MUSIC]
+[00:06:21.640 --> 00:06:39.040]   Ladies and gentlemen, we are live broadcasting worldwide.
+[00:06:39.040 --> 00:06:44.480]   And this country is under military attack, economic attack,
+[00:06:44.480 --> 00:06:46.400]   cultural attack, globalist attack.
+[00:06:46.400 --> 00:06:49.560]   Our birthright of free speech is being annihilated.
+[00:06:49.560 --> 00:06:56.080]   And as we speak, we have the live footage posted to InfoWars.com and
+[00:06:56.080 --> 00:07:00.120]   NewsWars.com from the local TV affiliates.
+[00:07:00.120 --> 00:07:03.960]   National News is saying, the Border Patrol's being mean and
+[00:07:03.960 --> 00:07:08.000]   shooting at innocent migrants with tear gas.
+[00:07:08.000 --> 00:07:11.960]   Even though they play the footage of people throwing rocks at the police,
+[00:07:11.960 --> 00:07:14.960]   at the riot police, at the Border Patrol, at ICE.
+[00:07:14.960 --> 00:07:22.400]   And their dramatic footage of the imaginary caravan that MSNBC and
+[00:07:22.400 --> 00:07:26.840]   the Democratic Party and CNN said did not exist.
+[00:07:26.840 --> 00:07:29.200]   They said Trump made it up.
+[00:07:29.200 --> 00:07:33.760]   There is no migrant caravan that slammed into Mexico three and
+[00:07:33.760 --> 00:07:35.480]   a half weeks ago.
+[00:07:35.480 --> 00:07:37.320]   And that attacked police and even killed people.
+[00:07:37.320 --> 00:07:41.960]   All that footage of those giant masses pouring through didn't happen.
+[00:07:41.960 --> 00:07:45.280]   Let's roll for TV viewers some of the footage, and I'll describe it for
+[00:07:45.280 --> 00:07:48.200]   radio listeners, of just 30 minutes ago.
+[00:07:48.200 --> 00:07:51.000]   And it's ongoing, we've got live satellite feeds of this,
+[00:07:51.000 --> 00:07:53.640]   of the people from the Mexico side, Tijuana.
+[00:07:53.640 --> 00:08:01.320]   Running down the sand embankment and up and scaling the fence.
+[00:08:01.320 --> 00:08:04.320]   And they're in to the United States.
+[00:08:05.720 --> 00:08:10.760]   And this is ongoing, just like the footage you saw almost a month ago,
+[00:08:10.760 --> 00:08:13.200]   in northern Guatemala and Honduras.
+[00:08:13.200 --> 00:08:19.320]   As 50 plus thousand people in five different waves poured across.
+[00:08:19.320 --> 00:08:22.000]   And let's slow that footage down if we can.
+[00:08:22.000 --> 00:08:22.960]   What are they waving?
+[00:08:22.960 --> 00:08:30.440]   Honduran flags, Venezuelan flags.
+[00:08:31.640 --> 00:08:37.680]   Thousands of people pouring across and then scaling.
+[00:08:37.680 --> 00:08:41.880]   I was watching CNN right before we went live and they said Trump's being mean to
+[00:08:41.880 --> 00:08:44.560]   poor migrants, and they'd show some canned footage of a child.
+[00:08:44.560 --> 00:08:49.080]   And then they would show people running up the embankments,
+[00:08:49.080 --> 00:08:50.920]   climbing over and attacking police.
+[00:08:50.920 --> 00:08:54.600]   But they would talk bad about the police saying that they had attacked them.
+[00:08:54.600 --> 00:08:59.280]   This is the total spin, the total deception.
+[00:08:59.280 --> 00:09:03.560]   It looks like something out of World War II with people storming beaches.
+[00:09:03.560 --> 00:09:07.000]   And the same thing was started six years ago in Europe with the UN funding
+[00:09:07.000 --> 00:09:09.520]   refugee centers in North Africa and the Middle East.
+[00:09:09.520 --> 00:09:14.640]   Opening up migration routes through Syria into Turkey and
+[00:09:14.640 --> 00:09:16.840]   then into Eastern Europe.
+[00:09:16.840 --> 00:09:19.120]   Using Zodiac boats by the hundreds a day,
+[00:09:19.120 --> 00:09:23.840]   bringing thousands of people in North Africa, paid for by US aid.
+[00:09:23.840 --> 00:09:28.600]   Laundered through Soros' operations and shipped directly into Europe.
+[00:09:28.600 --> 00:09:31.160]   And then they're used as political weapons.
+[00:09:31.160 --> 00:09:36.120]   How incredible is it to see national news say,
+[00:09:36.120 --> 00:09:40.440]   we've got to let the caravan in, they're all children.
+[00:09:40.440 --> 00:09:44.800]   When they're 90 plus percent in Europe, it's 80% military age men coming in.
+[00:09:44.800 --> 00:09:46.960]   And criminals, people waving foreign flags,
+[00:09:46.960 --> 00:09:49.320]   they've been caught smuggling kidnapped children.
+[00:09:49.320 --> 00:09:51.400]   And there's caravans showing up all the time.
+[00:09:51.400 --> 00:09:57.600]   But these are huge caravans of tens of thousands, not hundreds.
+[00:09:57.600 --> 00:10:02.480]   And they are publicly letting the world know that the border is open and
+[00:10:02.480 --> 00:10:06.400]   that the UN can stage these staging grounds and bring these people up.
+[00:10:06.400 --> 00:10:08.520]   And now, what do they always do?
+[00:10:08.520 --> 00:10:10.520]   They hopscotch.
+[00:10:10.520 --> 00:10:14.800]   Once they start off in one Middle Eastern country,
+[00:10:14.800 --> 00:10:19.000]   they then send in a bunch of refugees there.
+[00:10:19.000 --> 00:10:20.720]   That country can't handle it.
+[00:10:20.720 --> 00:10:24.200]   The refugees mass on the border of the next country.
+[00:10:24.200 --> 00:10:27.680]   The UN comes in, is brought into the nation that's already been invaded by
+[00:10:27.680 --> 00:10:31.280]   the UN to handle the refugees, cuz that's their treaty.
+[00:10:31.280 --> 00:10:32.880]   That's their supposed job.
+[00:10:32.880 --> 00:10:36.120]   And then they exploit the people, train them,
+[00:10:36.120 --> 00:10:39.240]   give them $1,000 debit cards for free.
+[00:10:39.240 --> 00:10:43.160]   George Soros pays for it with US taxpayers' money, that's Reuters.
+[00:10:43.160 --> 00:10:45.480]   And then they invade the next country.
+[00:10:45.480 --> 00:10:48.000]   And then they mass in that country and rob and steal and
+[00:10:48.000 --> 00:10:50.320]   crap in the street and sleep in the road.
+[00:10:50.320 --> 00:10:53.560]   And so the UN then organizes the next refugee camp.
+[00:10:53.560 --> 00:10:58.320]   And then you've gone all the way from Venezuela to San Diego in just one year.
+[00:10:58.320 --> 00:11:05.520]   They started out a year ago at refugee camps in Venezuela, many of them.
+[00:11:05.520 --> 00:11:06.840]   Then that collapsed.
+[00:11:06.840 --> 00:11:12.160]   Then they move in to the next country, the next country.
+[00:11:12.160 --> 00:11:16.160]   And now they're all the way up and they have breached.
+[00:11:16.160 --> 00:11:22.640]   If you just tuned in, illegal alien horde has climbed the fences and
+[00:11:22.640 --> 00:11:26.680]   has breached the United States and has made it over to the other side.
+[00:11:26.680 --> 00:11:31.920]   They are making it into the United States,
+[00:11:31.920 --> 00:11:34.640]   where they will then be loaded onto buses.
+[00:11:34.640 --> 00:11:38.880]   And they will be taken to immigration and naturalization.
+[00:11:38.880 --> 00:11:40.280]   They will overwhelm the system.
+[00:11:40.280 --> 00:11:46.520]   The left will use taxpayer money with paid for lawyers to represent them.
+[00:11:46.520 --> 00:11:48.760]   They will go into the first liberal judge,
+[00:11:48.760 --> 00:11:50.720]   that's why they're invading California.
+[00:11:51.720 --> 00:11:55.640]   And they will be released and on average, the wait for
+[00:11:55.640 --> 00:12:01.000]   a deportation hearing is two plus years, some are as much as almost four.
+[00:12:01.000 --> 00:12:06.640]   >> [LAUGH] >> So let's explain this right now.
+[00:12:06.640 --> 00:12:09.880]   The UN and multinational corporations get US taxpayer money.
+[00:12:09.880 --> 00:12:15.200]   They then implode nations like Venezuela and others.
+[00:12:15.200 --> 00:12:18.640]   They then organize the worst of the worst, criminals, communists,
+[00:12:18.640 --> 00:12:21.360]   socialists, bandits, human smugglers, you name it.
+[00:12:21.360 --> 00:12:26.880]   And they begin setting up refugee centers as they move towards your nation.
+[00:12:26.880 --> 00:12:32.840]   Then the vanguard hits, blows through your border defenses, breaks them down.
+[00:12:32.840 --> 00:12:35.320]   That's broadcast worldwide.
+[00:12:35.320 --> 00:12:40.400]   And then others show up at the refugee centers, set up thousands of miles south
+[00:12:40.400 --> 00:12:45.520]   and begin to get their credit cards and their free food, and they are recruited.
+[00:12:45.520 --> 00:12:47.600]   They are given debit cards.
+[00:12:47.600 --> 00:12:48.480]   You can pull up Reuters.
+[00:12:48.480 --> 00:12:51.080]   We sent this a couple months ago and the news said we were making it up.
+[00:12:51.080 --> 00:12:54.000]   And we just pulled up from a year ago, Reuters,
+[00:12:54.000 --> 00:12:58.280]   with George Soros bragging he gets US taxpayer money, billions.
+[00:12:58.280 --> 00:13:01.160]   Through the State Department, they give it to Soros.
+[00:13:01.160 --> 00:13:11.760]   He then pays per leg $1,000 with no name on the debit card, the cash card.
+[00:13:11.760 --> 00:13:17.880]   $1,000 of US taxpayer money mainly.
+[00:13:17.880 --> 00:13:19.720]   Others ship in as well.
+[00:13:19.720 --> 00:13:21.520]   The Germans pay for it, all of them.
+[00:13:21.520 --> 00:13:23.520]   That goes into the UN.
+[00:13:23.520 --> 00:13:26.400]   It's given to these non-governmental organizations,
+[00:13:26.400 --> 00:13:28.720]   these criminal military organizations.
+[00:13:28.720 --> 00:13:32.040]   They then weaponize, brainwash the people, prepare them.
+[00:13:32.040 --> 00:13:32.720]   They're smart.
+[00:13:32.720 --> 00:13:35.040]   They don't give them $5,000, $10,000 to make the four or
+[00:13:35.040 --> 00:13:37.680]   5,000 mile trek through seven, eight, nine countries.
+[00:13:37.680 --> 00:13:42.600]   They say every leg you make it, you get a bag of food.
+[00:13:42.600 --> 00:13:43.760]   You get any clothes you need.
+[00:13:43.760 --> 00:13:45.960]   You can stay here a week, a month in the refugee center,
+[00:13:47.000 --> 00:13:54.000]   the brainwashing center, and then you're given a $1,000 debit card.
+[00:13:54.000 --> 00:13:57.360]   And that's why when they slammed into Tijuana three plus weeks ago,
+[00:13:57.360 --> 00:14:02.080]   the mayor and others said we have jobs, we have a lot of factories here.
+[00:14:02.080 --> 00:14:03.120]   They said we don't want those.
+[00:14:03.120 --> 00:14:05.080]   We're here to conquer the US.
+[00:14:05.080 --> 00:14:06.600]   Trump is Hitler.
+[00:14:06.600 --> 00:14:09.400]   America sucks, but we're getting all the free crap.
+[00:14:09.400 --> 00:14:12.200]   They are trained to hate the country and invade it.
+[00:14:12.200 --> 00:14:15.360]   This is unbelievable.
+[00:14:15.360 --> 00:14:18.600]   And we had our crew there weeks ago showing it, and
+[00:14:18.600 --> 00:14:22.040]   the national news said it did not exist.
+[00:14:22.040 --> 00:14:24.680]   That's how much they hate you.
+[00:14:24.680 --> 00:14:26.960]   That's how stupid they think you are.
+[00:14:26.960 --> 00:14:34.960]   So again, US border defenses have been breached as of November 25th,
+[00:14:34.960 --> 00:14:41.880]   2018, as of about 1.30 Pacific time.
+[00:14:41.880 --> 00:14:46.200]   330 Central, 230 Mountain, hundreds and hundreds and
+[00:14:46.200 --> 00:14:50.600]   hundreds and hundreds of the tens of thousands now massing.
+[00:14:50.600 --> 00:14:55.880]   Of all the different caravans converging on all militarily prepared,
+[00:14:55.880 --> 00:15:00.120]   all coordinated, all given UN money from US taxpayers,
+[00:15:00.120 --> 00:15:05.000]   all showing up with US aid bags to target one point on the border and
+[00:15:05.000 --> 00:15:10.440]   overwhelm it, and they're gonna have little kids at the front of the PR,
+[00:15:10.440 --> 00:15:14.840]   with the collaborator media taking photos, shooting video,
+[00:15:14.840 --> 00:15:18.480]   saying it's all children here just wanting food.
+[00:15:18.480 --> 00:15:19.880]   They're starving, and evil US forces have attacked them.
+[00:15:19.880 --> 00:15:21.240]   The truth is they're throwing rocks.
+[00:15:21.240 --> 00:15:22.680]   They're trying to stab people.
+[00:15:22.680 --> 00:15:24.040]   They're physically attacking.
+[00:15:24.040 --> 00:15:28.920]   They've now overrun US border defenses have been breached.
+[00:15:28.920 --> 00:15:32.120]   And the collaborator media told you either they're all a bunch of innocent
+[00:15:32.120 --> 00:15:35.560]   children, there's no men, or it doesn't exist.
+[00:15:35.560 --> 00:15:37.680]   Exactly what an enemy military would do.
+[00:15:37.680 --> 00:15:39.000]   This is not an assault.
+[00:15:39.000 --> 00:15:39.960]   You're not under attack.
+[00:15:39.960 --> 00:15:40.480]   Don't run.
+[00:15:40.480 --> 00:15:41.480]   We are your friends.
+[00:15:41.480 --> 00:15:42.840]   Lay down your arms.
+[00:15:42.840 --> 00:15:44.200]   Resistance is futile.
+[00:15:44.200 --> 00:15:47.320]   And this is just the beginning as Trump desperately tries to defend
+[00:15:47.320 --> 00:15:49.800]   the sovereignty of our nation before we totally collapse.
+[00:15:49.800 --> 00:15:53.120]   We've already got 35 million illegal aliens inside the country.
+[00:15:53.120 --> 00:15:56.120]   And the globalist plan is the total collapse of the United States.
+[00:15:56.120 --> 00:15:57.920]   Choose which side you're on, ladies and gentlemen.
+[00:15:57.920 --> 00:16:02.920]   Please, whatever you do realize that we're all getting punched drunk to
+[00:16:02.920 --> 00:16:03.680]   the censorship.
+[00:16:03.680 --> 00:16:07.280]   And you saw 18 Twitter accounts, they say affiliated with InfoWars.
+[00:16:07.280 --> 00:16:09.040]   Yeah, some of them are like little side accounts.
+[00:16:09.040 --> 00:16:12.360]   They know we had like InfoWars store that just showed our products.
+[00:16:12.360 --> 00:16:16.880]   They just banned them all yesterday in punishment that I be at a Trump rally and
+[00:16:16.880 --> 00:16:19.080]   be mobbed by all these folks that loved us.
+[00:16:19.080 --> 00:16:22.040]   Your excitement about America, your excitement about this broadcast is what
+[00:16:22.040 --> 00:16:24.480]   brought the country and the world back from the brick.
+[00:16:24.480 --> 00:16:28.400]   But the globalists now want to target where the resistance came from so
+[00:16:28.400 --> 00:16:30.520]   that we're not pesky in the future.
+[00:16:30.520 --> 00:16:33.560]   I want to be troublesome and pesky.
+[00:16:33.560 --> 00:16:34.440]   I want to keep going.
+[00:16:34.440 --> 00:16:38.480]   I want to make them do the ultimate, not just destroy us financially.
+[00:16:38.480 --> 00:16:40.520]   I want to push all the way.
+[00:16:40.520 --> 00:16:41.800]   I've committed to do that.
+[00:16:41.800 --> 00:16:42.880]   I've prayed for that.
+[00:16:42.880 --> 00:16:44.520]   And I've been told that's going to happen.
+[00:16:44.520 --> 00:16:47.400]   But you've got to back us and I promise you this.
+[00:16:47.400 --> 00:16:48.760]   I will never falter.
+[00:16:48.760 --> 00:16:51.080]   I will never waver at the spiritual level.
+[00:16:51.080 --> 00:16:52.040]   I physically will.
+[00:16:52.040 --> 00:16:54.960]   But I give you my commitment if you financially support us,
+[00:16:54.960 --> 00:16:59.240]   infowarsstore.com to give you my absolute total commitment.
+[00:16:59.240 --> 00:17:01.800]   Monday through next Sunday,
+[00:17:01.800 --> 00:17:06.760]   we are bringing back the biggest sales in our history.
+[00:17:06.760 --> 00:17:11.040]   Black Friday Infowars store sale, free shipping and double Patriot points.
+[00:17:11.040 --> 00:17:16.520]   Up to 50% off on storable food, super high quality, that is huge.
+[00:17:16.520 --> 00:17:20.440]   All Infowars life supplements, 50% off.
+[00:17:20.440 --> 00:17:25.320]   127 or 49% off Alexa Pure Pro,
+[00:17:25.320 --> 00:17:29.280]   gravity fed filters, Alexa Pure Breeze, air filtration.
+[00:17:29.280 --> 00:17:31.880]   Now at 40% off, that's right at loss leader.
+[00:17:31.880 --> 00:17:33.040]   Again, to get rid of inventory.
+[00:17:33.040 --> 00:17:35.280]   So take advantage of that, it's an amazing system.
+[00:17:35.280 --> 00:17:37.720]   They're trying to shut down Infowars, they're trying to defund us.
+[00:17:37.720 --> 00:17:40.400]   So I said, everything must go by the end of the year,
+[00:17:40.400 --> 00:17:44.680]   so that we're at least have the cash to continue operating for a while.
+[00:17:44.680 --> 00:17:49.800]   Infowarsstore.com, Infowarslife.com or 888-253-3139.
+[00:17:49.800 --> 00:17:53.640]   Support the Infowar, get great products, get your Christmas shopping done early
+[00:17:53.640 --> 00:17:56.160]   and battle the globalists, a total 360 win.
+[00:17:56.160 --> 00:17:58.680]   Infowarsstore.com, I want to thank you all for your support.
+[00:18:02.480 --> 00:18:06.840]   One of the most incredible cups of coffee can be found in the high mountains
+[00:18:06.840 --> 00:18:10.200]   of southern Mexico, where the Chiapas farmers have spent years
+[00:18:10.200 --> 00:18:12.000]   perfecting their techniques.
+[00:18:12.000 --> 00:18:17.120]   Based on hundreds of years of traditional techniques and perfect conditions,
+[00:18:17.120 --> 00:18:20.640]   we've sourced only the best to provide you with our immune support
+[00:18:20.640 --> 00:18:23.400]   and wake up America, Patriot Blend coffee.
+[00:18:23.400 --> 00:18:27.000]   Ancient Mayan knowledge is paired with the natural fertility of the land
+[00:18:27.000 --> 00:18:29.360]   to generate the world's finest coffee beans.
+[00:18:29.360 --> 00:18:33.480]   Carefully harvested and free of toxic chemicals used in big agricultural
+[00:18:33.480 --> 00:18:38.840]   productions, Patriot Blend coffees have a smooth, bold flavor with great depth
+[00:18:38.840 --> 00:18:40.920]   to give you just what you need in the morning.
+[00:18:40.920 --> 00:18:44.520]   You can even choose to start your morning healthier with the immune support
+[00:18:44.520 --> 00:18:49.040]   blend infused with a powerful blend to support your immune response and stamina.
+[00:18:49.040 --> 00:18:51.560]   It's time to take care of your morning routine.
+[00:18:51.560 --> 00:18:54.920]   Get a bag of Patriot Blend coffee to support the show while enhancing
+[00:18:54.920 --> 00:18:57.560]   your morning routine at Infowarsstore.com.
+[00:18:59.560 --> 00:19:02.360]   Infowars Life is launching its newest product.
+[00:19:02.360 --> 00:19:04.360]   We're really, really proud of it.
+[00:19:04.360 --> 00:19:08.240]   It's a best source prebiotic fiber.
+[00:19:08.240 --> 00:19:13.640]   And it's got the very best concentrated fibers from berries and fruits
+[00:19:13.640 --> 00:19:17.800]   and other compounds that have been known to be the very best for your body
+[00:19:17.800 --> 00:19:19.840]   and for regularity and so much more.
+[00:19:19.840 --> 00:19:24.040]   And it synergistically works with our 50 billion live active culture
+[00:19:24.040 --> 00:19:28.040]   flora life as well as mycoZX that targets the yeast, the mold,
+[00:19:28.040 --> 00:19:29.520]   and the funguses in the gut.
+[00:19:29.520 --> 00:19:33.240]   So this is the time to take advantage of getting this new incredible fiber
+[00:19:33.240 --> 00:19:35.320]   product and these other products.
+[00:19:35.320 --> 00:19:38.520]   You get them separately or together and make really, really big savings
+[00:19:38.520 --> 00:19:40.720]   and get high quality products at the same time.
+[00:19:40.720 --> 00:19:42.960]   And I'm doing this to introduce these products to you.
+[00:19:42.960 --> 00:19:46.200]   Bodies sold out in a month.
+[00:19:46.200 --> 00:19:49.240]   Strongest concentrated turmeric formula we could come up with.
+[00:19:49.240 --> 00:19:51.280]   It sold out for another month and a half.
+[00:19:51.280 --> 00:19:54.520]   We sold it at 50% off till it sold out.
+[00:19:54.520 --> 00:19:57.120]   And I think it's going to be the same way with this fiber.
+[00:19:57.120 --> 00:20:00.120]   Get yours today in fullwarslife.com.
+[00:20:00.120 --> 00:20:06.120]   You're listening to the Alex Jones Show.
+[00:20:06.120 --> 00:20:09.120]   [MUSIC PLAYING]
+[00:20:09.120 --> 00:20:26.600]   Live from the Infowars.com studios, it's Alex Jones.
+[00:20:26.600 --> 00:20:35.600]   Ladies and gentlemen, I come to you with extremely grave news.
+[00:20:35.600 --> 00:20:39.600]   The United States border has been completely overrun
+[00:20:39.600 --> 00:20:46.400]   by paramilitary trained forces by the UN who are funded by US taxpayers.
+[00:20:46.400 --> 00:20:50.600]   And the fate that Europe has seen, 15 million illegal aliens brought in
+[00:20:50.600 --> 00:20:54.720]   by the UN in the last six years, is about to be duplicated here.
+[00:20:54.720 --> 00:20:59.120]   The UN report itself says if they're successful breaking down
+[00:20:59.120 --> 00:21:05.160]   the border with Central and South America, with the United States,
+[00:21:05.160 --> 00:21:12.520]   that they plan to bring in 600 million people by 2050.
+[00:21:12.520 --> 00:21:14.360]   I know that doesn't sound possible, does it,
+[00:21:14.360 --> 00:21:20.480]   until you realize that by 2050, we're going to add 4 billion more people.
+[00:21:20.480 --> 00:21:23.600]   Six plus billion are third world currently.
+[00:21:23.600 --> 00:21:29.080]   600 million handpicked, brainwashed by leftist ideology,
+[00:21:29.080 --> 00:21:32.600]   set up at UN camps in their collapsed third world countries,
+[00:21:32.600 --> 00:21:35.040]   their communist countries like Venezuela,
+[00:21:35.040 --> 00:21:41.640]   and then funded and marched up to the border to overrun border defenses
+[00:21:41.640 --> 00:21:44.360]   to be handed to Democrat party judges--
+[00:21:44.360 --> 00:21:46.360]   they're invading California for a reason--
+[00:21:46.360 --> 00:21:48.520]   who will then release them.
+[00:21:48.520 --> 00:21:51.480]   The average time is over two years until they're even
+[00:21:51.480 --> 00:21:58.160]   supposed to show up for their deportation court date when they claim asylum.
+[00:21:58.160 --> 00:22:00.280]   These people use fake names.
+[00:22:00.280 --> 00:22:01.960]   These people never show back up.
+[00:22:01.960 --> 00:22:03.560]   These people are criminals.
+[00:22:03.560 --> 00:22:06.120]   These people are money launderers, drug dealers.
+[00:22:06.120 --> 00:22:07.240]   They're child abductors.
+[00:22:07.240 --> 00:22:09.320]   Even the Washington Post admitted under Obama,
+[00:22:09.320 --> 00:22:12.320]   when he kept saying in the news, there's children coming across the border,
+[00:22:12.320 --> 00:22:15.440]   even though only 17% were under the age of 18.
+[00:22:15.440 --> 00:22:18.440]   We sent reporters down there and said, they show up, no ID.
+[00:22:18.440 --> 00:22:21.360]   They load people on buses that the Democrats fund,
+[00:22:21.360 --> 00:22:24.960]   and they ship them off to sanctuary cities
+[00:22:24.960 --> 00:22:30.880]   to then be given fake IDs, to be given welfare, to be set up to vote.
+[00:22:30.880 --> 00:22:32.240]   And now it's all admitted.
+[00:22:32.240 --> 00:22:34.400]   And now the imaginary caravan--
+[00:22:34.400 --> 00:22:36.160]   remember when the public woke up and said,
+[00:22:36.160 --> 00:22:40.400]   this looks terrible, them breaking down the defenses of Southern Mexico
+[00:22:40.400 --> 00:22:43.400]   three and a half weeks ago?
+[00:22:43.400 --> 00:22:46.600]   Even the average Democrat said, this is crazy.
+[00:22:46.600 --> 00:22:49.720]   The barber shop I go to, it's mainly Hispanic barbers in South Austin.
+[00:22:49.720 --> 00:22:51.160]   They've been telling me about it.
+[00:22:51.160 --> 00:22:52.040]   They're freaked out.
+[00:22:52.040 --> 00:22:53.560]   Why are they waving foreign flags?
+[00:22:53.560 --> 00:22:55.560]   Why are they burning American flags, Alex?
+[00:22:55.560 --> 00:22:59.960]   Well, why is Trump being called bad for saying do something?
+[00:22:59.960 --> 00:23:02.080]   This is crazy.
+[00:23:02.080 --> 00:23:06.920]   So my Hispanic barber thinks it's dangerous and bad.
+[00:23:06.920 --> 00:23:08.840]   So what did they do?
+[00:23:08.840 --> 00:23:15.240]   Well, they just said, oh, it doesn't exist, ladies and gentlemen.
+[00:23:15.240 --> 00:23:20.600]   It doesn't-- I mean, how insulting is that?
+[00:23:20.600 --> 00:23:23.360]   But see, they always change the subject to have an argument where you just
+[00:23:23.360 --> 00:23:26.560]   debate whether it exists or not, whether the sky is blue,
+[00:23:26.560 --> 00:23:33.800]   or bluebirds are blue, or the Houston NFL football team is the Texans.
+[00:23:33.800 --> 00:23:35.360]   We all know that.
+[00:23:35.360 --> 00:23:40.680]   If someone tells us it's not true, they're a liar or they're mentally ill.
+[00:23:40.680 --> 00:23:44.560]   And we're on over 200-plus radio stations, hundreds of TV stations.
+[00:23:44.560 --> 00:23:46.180]   We're on satellite all over the country.
+[00:23:46.180 --> 00:23:47.640]   People are watching this right now.
+[00:23:47.640 --> 00:23:50.040]   This just happened an hour ago.
+[00:23:50.040 --> 00:23:53.920]   We have live sat feeds of tear gas going off in there.
+[00:23:53.920 --> 00:23:59.400]   We have live sat feeds of the riot police being overrun and
+[00:23:59.400 --> 00:24:01.160]   being hit in the head with rocks.
+[00:24:01.160 --> 00:24:04.800]   I've got a stack of news right here.
+[00:24:04.800 --> 00:24:09.080]   But CNN's talking about how they're poor babies.
+[00:24:09.080 --> 00:24:17.320]   CPB suspends all traffic at the port of entry between Tijuana and San Diego
+[00:24:17.320 --> 00:24:19.200]   after migrants rushed to the border.
+[00:24:21.920 --> 00:24:25.760]   The latest, US agents shoot tear gas at migrants who were hitting them with rocks
+[00:24:25.760 --> 00:24:27.480]   and just climbed over the fence illegally.
+[00:24:27.480 --> 00:24:30.320]   But the Washington Post doesn't tell you that.
+[00:24:30.320 --> 00:24:33.920]   Trump closes US border checkpoint at Tijuana as migrant caravan breaks
+[00:24:33.920 --> 00:24:35.560]   through the fence.
+[00:24:35.560 --> 00:24:37.240]   At least the British news got it right.
+[00:24:37.240 --> 00:24:40.000]   Breaks through, overrunning the US.
+[00:24:40.000 --> 00:24:44.240]   And you're like, well, we'll just throw them back over the fence.
+[00:24:44.240 --> 00:24:45.680]   No, you won't.
+[00:24:45.680 --> 00:24:46.400]   You know why?
+[00:24:46.400 --> 00:24:49.960]   Because the Democrats controlled and got the laws passed.
+[00:24:49.960 --> 00:24:53.120]   The President just has control over the border under law, but
+[00:24:53.120 --> 00:24:57.240]   not what happens once they get to those traitor judges.
+[00:24:57.240 --> 00:25:00.920]   And they know, they get over, they're in.
+[00:25:00.920 --> 00:25:03.680]   And now they're gonna mass up against that fence.
+[00:25:03.680 --> 00:25:06.880]   The media's gonna show kids and go, the kids are out in the heat, no food.
+[00:25:06.880 --> 00:25:08.040]   It's Trump's fault.
+[00:25:08.040 --> 00:25:08.960]   It's America's fault.
+[00:25:08.960 --> 00:25:12.560]   No, it's the criminal parents who brought a small number of children,
+[00:25:12.560 --> 00:25:14.240]   a lot of them smuggled.
+[00:25:14.240 --> 00:25:17.240]   A lot of them not even with their parents, as human shields.
+[00:25:17.240 --> 00:25:21.160]   When some radical Islamist trains their five year old to blow themselves up with
+[00:25:21.160 --> 00:25:25.120]   TNT, they're the scumbag.
+[00:25:25.120 --> 00:25:27.880]   And when somebody brings their kid across the desert, and
+[00:25:27.880 --> 00:25:30.240]   then shows up in the Arizona desert in the middle of the night, and
+[00:25:30.240 --> 00:25:31.760]   no one even knows that this is their mother.
+[00:25:31.760 --> 00:25:36.440]   The media lies and says Trump took her away from her mother.
+[00:25:36.440 --> 00:25:37.280]   They didn't.
+[00:25:37.280 --> 00:25:39.160]   It's all lies.
+[00:25:39.160 --> 00:25:42.600]   And now our border has been breached.
+[00:25:42.600 --> 00:25:47.200]   Migrants enveloped in tear gas after heading towards US, NBC News.
+[00:25:47.200 --> 00:25:51.080]   Heading towards, Ben, imagine if you knocked down your neighbor's door,
+[00:25:51.080 --> 00:25:54.720]   hit him in the head with a rock, and took their house over.
+[00:25:54.720 --> 00:25:58.920]   NBC News would say, well, somebody was headed towards their neighbor's door and
+[00:25:58.920 --> 00:25:59.840]   got assaulted.
+[00:25:59.840 --> 00:26:02.120]   No, they assaulted us.
+[00:26:02.120 --> 00:26:03.560]   Look at these headlines.
+[00:26:03.560 --> 00:26:07.400]   Shock video, caravan migrants storm US border in Tijuana.
+[00:26:07.400 --> 00:26:09.560]   That's the Jamie White article on Infowars.com.
+[00:26:09.560 --> 00:26:13.280]   But however you're listening to local radio or
+[00:26:13.280 --> 00:26:14.760]   watching local television right now,
+[00:26:15.880 --> 00:26:18.600]   tell everybody about the local radio station you're listening to,
+[00:26:18.600 --> 00:26:19.960]   the local TV station you're watching.
+[00:26:19.960 --> 00:26:25.360]   Or go to Infowars.com and send out the link to the most censored,
+[00:26:25.360 --> 00:26:27.520]   most demonized, most lied about show in the world.
+[00:26:27.520 --> 00:26:30.640]   Because we tell the truth, and we're faithful good Americans.
+[00:26:30.640 --> 00:26:34.440]   I had eight Democrats try to gang up on me in a taco place yesterday when I was
+[00:26:34.440 --> 00:26:35.520]   picking up food for the crew.
+[00:26:35.520 --> 00:26:40.640]   They were calling me a traitor and a Russian and all this other crap.
+[00:26:40.640 --> 00:26:43.400]   And these people are enemies of the nation.
+[00:26:43.400 --> 00:26:47.080]   They have been brainwashed to believe the nation existing is bad.
+[00:26:47.080 --> 00:26:50.120]   And they side with Soros and the UN that's funding all this.
+[00:26:50.120 --> 00:26:54.160]   So here's the red alert page that has the live video feed of this show that needs to
+[00:26:54.160 --> 00:26:55.080]   be sent out.
+[00:26:55.080 --> 00:26:57.360]   Like you're Paul Revere, folks, you're just as important as I am.
+[00:26:57.360 --> 00:27:03.120]   And I desperately need you to go to Infowars.com and
+[00:27:03.120 --> 00:27:06.760]   Newswars.com and get the live feed page.
+[00:27:06.760 --> 00:27:10.640]   Newswars.com doesn't get censored as much when you try to tweet it out or
+[00:27:10.640 --> 00:27:11.560]   Facebook it out.
+[00:27:11.560 --> 00:27:13.520]   So go get that version.
+[00:27:13.520 --> 00:27:17.240]   Red alert, UN funded migrant horde of violent criminals just
+[00:27:17.240 --> 00:27:21.560]   tore through US border defenses, tear gas fired.
+[00:27:21.560 --> 00:27:25.000]   I wrote that headline right before it went live.
+[00:27:25.000 --> 00:27:27.360]   Should I say just tore or just smashed through?
+[00:27:27.360 --> 00:27:30.120]   I'd say smashed through.
+[00:27:30.120 --> 00:27:34.800]   Let's change that to smashed through US border defenses, tear gas fired.
+[00:27:34.800 --> 00:27:36.920]   Watch live feed of the invasion here.
+[00:27:36.920 --> 00:27:40.120]   America is in a state of emergency.
+[00:27:42.120 --> 00:27:47.960]   But what happens in every major war where Napoleon invades or
+[00:27:47.960 --> 00:27:54.000]   Hitler invades or any other invading army builds up on your border and
+[00:27:54.000 --> 00:27:58.160]   masses and you know they're about to invade.
+[00:27:58.160 --> 00:28:03.320]   When Hitler invaded Poland, Czechoslovakia, Danzig, Austria,
+[00:28:03.320 --> 00:28:07.200]   every time he said I'm not invading, I'm not invading.
+[00:28:07.200 --> 00:28:10.200]   And even when his troops would smash through,
+[00:28:10.200 --> 00:28:17.240]   they would report for a full week just to confuse the other side and
+[00:28:17.240 --> 00:28:20.720]   broadcast on all their channels in Polish or in Russian,
+[00:28:20.720 --> 00:28:24.200]   later when they invaded Russia, that Germany has not invaded.
+[00:28:24.200 --> 00:28:27.840]   There is no invasion and enough people would actually not wanna believe they'd
+[00:28:27.840 --> 00:28:33.120]   been invaded and would stand down when there'd been an invasion.
+[00:28:33.120 --> 00:28:36.720]   [MUSIC]
+[00:28:36.720 --> 00:28:40.160]   You know Mars Attacks, it's a comedy, it's a sci-fi movie.
+[00:28:40.160 --> 00:28:43.600]   But the joke is the Martians land, while they kill you, while they shoot you,
+[00:28:43.600 --> 00:28:45.720]   they go, don't run, we are your friends.
+[00:28:45.720 --> 00:28:48.160]   And then the people don't run, they get killed, and the Martians go.
+[00:28:48.160 --> 00:28:52.720]   [LAUGH] It's unbelievable,
+[00:28:52.720 --> 00:28:56.560]   our country is under globalist invasion.
+[00:28:56.560 --> 00:28:58.680]   We are under coordinated criminal attack.
+[00:28:58.680 --> 00:29:00.840]   [MUSIC]
+[00:29:00.840 --> 00:29:04.840]   >> We need to go back and revisit the foundations of our freedom.
+[00:29:04.840 --> 00:29:06.440]   [MUSIC]
+[00:29:06.440 --> 00:29:09.640]   Our freedoms don't consist of the things that are enumerated on a piece of paper.
+[00:29:09.640 --> 00:29:12.320]   It consists of the things that we're willing to fight for.
+[00:29:12.320 --> 00:29:15.280]   The First Amendment, the Bill of Rights, the rest of the Bill of Rights are
+[00:29:15.280 --> 00:29:16.600]   prohibitions.
+[00:29:16.600 --> 00:29:20.160]   They're prohibitions against powerful organizations and
+[00:29:20.160 --> 00:29:24.120]   individuals taking those God-given rights from us as individuals.
+[00:29:24.120 --> 00:29:26.640]   You better understand that because they're taking them right now.
+[00:29:26.640 --> 00:29:29.960]   [MUSIC]
+[00:29:29.960 --> 00:29:31.800]   We have seen what they want to do.
+[00:29:31.800 --> 00:29:33.440]   They called it UN Agenda 21.
+[00:29:33.440 --> 00:29:35.600]   Now they call it the UN 2030 Agenda.
+[00:29:35.600 --> 00:29:38.440]   They want everybody off of the rural lands.
+[00:29:38.440 --> 00:29:40.240]   They want people out of the suburbs.
+[00:29:40.240 --> 00:29:42.720]   They want to pack everybody into the cities,
+[00:29:42.720 --> 00:29:47.040]   because that's where it is easiest for them to control everyone.
+[00:29:47.040 --> 00:29:49.400]   It's the David Knight Show.
+[00:29:49.400 --> 00:29:52.440]   >> Never miss your show, any day.
+[00:29:52.440 --> 00:29:53.640]   I mean, what?
+[00:29:53.640 --> 00:29:55.440]   I mean, never.
+[00:29:55.440 --> 00:30:00.120]   >> At infowars.com/show.
+[00:30:00.120 --> 00:30:04.000]   >> Do you realize that when you spread the links from infowars.com,
+[00:30:04.000 --> 00:30:07.840]   when you spread the videos, you are changing the world?
+[00:30:07.840 --> 00:30:11.640]   It's you that has defeated Hillary and the globalists.
+[00:30:11.640 --> 00:30:16.000]   It is you, the info warriors across the planet, that stood against the bullying,
+[00:30:16.000 --> 00:30:17.400]   that stood against the peer pressure,
+[00:30:17.400 --> 00:30:20.400]   that stood against the threats that have now changed the world.
+[00:30:20.400 --> 00:30:24.040]   And that's why you've been on the team, supporting us, praying for us, and
+[00:30:24.040 --> 00:30:24.960]   spreading the word.
+[00:30:24.960 --> 00:30:26.440]   You are the info war.
+[00:30:26.440 --> 00:30:28.680]   And now because of their intensifying censorship,
+[00:30:28.680 --> 00:30:34.040]   it's more important than ever that everyone go to infowars.com/newsletter and
+[00:30:34.040 --> 00:30:35.440]   sign up via email.
+[00:30:35.440 --> 00:30:39.040]   So there's no way the censors can get between us with critical videos,
+[00:30:39.040 --> 00:30:42.000]   articles, breaking news, intel, you name it.
+[00:30:42.000 --> 00:30:46.160]   And so now I ask you more than ever to share the infowars.com articles,
+[00:30:46.160 --> 00:30:49.960]   to share the videos, to tell people about the local stations you're listening to.
+[00:30:49.960 --> 00:30:51.920]   The bare minimum you can do is sign up for
+[00:30:51.920 --> 00:30:57.040]   the free newsletter at infowars.com/newsletter.
+[00:30:57.040 --> 00:30:59.800]   We are the renaissance, and we are winning.
+[00:30:59.800 --> 00:31:05.440]   Alex Jones here with an extremely exciting announcement that will be a gift
+[00:31:05.440 --> 00:31:08.600]   to yourself and a gift to the Info War to fight the globalists and
+[00:31:08.600 --> 00:31:09.800]   live in a free society.
+[00:31:09.800 --> 00:31:14.200]   Several years ago, I set out with top formulators in the US to create
+[00:31:14.200 --> 00:31:18.440]   the strongest, most concentrated, over the top stamina,
+[00:31:18.440 --> 00:31:22.800]   libido, workout, brain formula that is safe.
+[00:31:22.800 --> 00:31:26.640]   I know from using this myself the last few months, and from seeing my friends and
+[00:31:26.640 --> 00:31:30.320]   family use it, that this new product is gonna end up being the number one
+[00:31:30.320 --> 00:31:33.880]   best selling product at infowarslife.com cuz it works so well.
+[00:31:33.880 --> 00:31:36.760]   This is a gift you wanna give yourself, and then rest assured,
+[00:31:36.760 --> 00:31:42.120]   you're fighting the Info War, so it's a total, absolute, sure win, no lose equation.
+[00:31:42.120 --> 00:31:46.920]   Try Alpha Power, exclusively available at infowarslife.com for yourself.
+[00:31:46.920 --> 00:31:48.800]   Ladies and gentlemen, it's non-GMO.
+[00:31:48.800 --> 00:31:52.640]   It's for your brain, it's for sports, it's for activities, and it's made in the USA.
+[00:31:52.640 --> 00:31:55.880]   Get your Alpha Power today at infowarslife.com.
+[00:31:55.880 --> 00:31:59.760]   Everybody needs to try Alpha Power today.
+[00:31:59.760 --> 00:32:03.360]   >> Infowarslife is bringing you a breakthrough in modern medicine.
+[00:32:03.360 --> 00:32:05.160]   Introducing Pollen Block.
+[00:32:05.160 --> 00:32:09.720]   We have found an extraordinary new, natural way to alleviate seasonal distress
+[00:32:09.720 --> 00:32:14.200]   symptoms, including promoting clear nasal and sinus passageways,
+[00:32:14.200 --> 00:32:17.200]   eye comfort, and respiratory function.
+[00:32:17.200 --> 00:32:22.000]   In the 1960s, researchers in France noticed that people who ate certain quail
+[00:32:22.000 --> 00:32:26.400]   eggs experienced less seasonal immune and inflammatory responses.
+[00:32:26.400 --> 00:32:30.360]   They began studying this effect in published trials, and decades later,
+[00:32:30.360 --> 00:32:33.560]   we now have the fruit of this research, a fast acting,
+[00:32:33.560 --> 00:32:37.440]   chewable tablet that helps alleviate seasonal distress symptoms.
+[00:32:37.440 --> 00:32:40.040]   Pollen Block is natural and effective.
+[00:32:40.040 --> 00:32:41.760]   It is not an antihistamine.
+[00:32:41.760 --> 00:32:45.960]   In fact, current research has found that it actually acts by blocking the activity
+[00:32:45.960 --> 00:32:49.320]   of tryptase, which is an enzyme that amplifies immune and
+[00:32:49.320 --> 00:32:51.760]   inflammatory responses in the body.
+[00:32:51.760 --> 00:32:54.440]   Go outside and enjoy the air you breathe.
+[00:32:54.440 --> 00:32:59.240]   Head to infowarslife.com and grab a pack of our Pollen Block chewable tablets.
+[00:32:59.240 --> 00:33:06.160]   >> You're listening to the Alex Jones Show.
+[00:33:06.160 --> 00:33:10.280]   [BLANK_AUDIO]
+[00:33:10.280 --> 00:33:14.360]   >> A lot of his supporters believe that we are the enemy of the American people,
+[00:33:14.360 --> 00:33:17.400]   and that is really, really an awful situation.
+[00:33:17.400 --> 00:33:19.680]   We are not the enemy of the American people.
+[00:33:19.680 --> 00:33:21.120]   We love the American people.
+[00:33:21.120 --> 00:33:31.120]   [BLANK_AUDIO]
+[00:33:31.120 --> 00:33:34.440]   We are not the enemy of the American people.
+[00:33:34.440 --> 00:33:35.920]   We love the American people.
+[00:33:35.920 --> 00:33:37.360]   We love the American people.
+[00:33:37.360 --> 00:33:39.360]   [BLANK_AUDIO]
+[00:33:39.360 --> 00:33:40.800]   We love the American people.
+[00:33:40.800 --> 00:33:41.720]   [BLANK_AUDIO]
+[00:33:41.720 --> 00:33:43.040]   >> They came in peace.
+[00:33:43.040 --> 00:33:47.040]   [BLANK_AUDIO]
+[00:33:47.040 --> 00:33:57.920]   >> We are not the enemy of the American people.
+[00:33:57.920 --> 00:33:59.400]   We love the American people.
+[00:33:59.400 --> 00:34:07.000]   [BLANK_AUDIO]
+[00:34:07.000 --> 00:34:08.600]   >> This is CNN.
+[00:34:08.600 --> 00:34:12.400]   [BLANK_AUDIO]
+[00:34:12.400 --> 00:34:16.800]   >> If you are receiving this transmission, you are the resistance.
+[00:34:16.800 --> 00:34:18.240]   [BLANK_AUDIO]
+[00:34:18.240 --> 00:34:21.840]   >> Crashing through the lies and disinformation.
+[00:34:21.840 --> 00:34:26.120]   It's Alex Jones on the GCN Radio Network.
+[00:34:26.120 --> 00:34:30.360]   >> Yes, we're crashing through the lies and globalist disinformation.
+[00:34:30.360 --> 00:34:35.360]   And we're loyal Americans to our great way of life, our great history,
+[00:34:35.360 --> 00:34:39.920]   our true exceptionalism that's been lost to the new world order.
+[00:34:39.920 --> 00:34:45.800]   And we have charted the modern course for the new Renaissance.
+[00:34:45.800 --> 00:34:51.640]   And for the rebirth of nationalism when I call 1776 worldwide.
+[00:34:51.640 --> 00:34:56.720]   And Trump, an outsider from the normal power broker group,
+[00:34:56.720 --> 00:35:02.640]   a lone horseman, a night rider, in every positive sense, a dark horse,
+[00:35:02.640 --> 00:35:08.200]   came in to block them at their moment of pure victory, ending our borders,
+[00:35:08.200 --> 00:35:11.880]   flooding us like Europe, imploding our economy and bringing us down.
+[00:35:11.880 --> 00:35:15.240]   And he believed that if he turned the prosperity back on,
+[00:35:15.240 --> 00:35:18.120]   if the globalists were blocking, that America would unite.
+[00:35:18.120 --> 00:35:22.160]   And to a great extent, America has united.
+[00:35:22.160 --> 00:35:27.560]   All the evidence is overwhelming that the Democrats threw everything they had at
+[00:35:27.560 --> 00:35:31.400]   this last midterm and stole massive races everywhere.
+[00:35:31.400 --> 00:35:36.280]   And the referendum actually showed that America supports what's happening.
+[00:35:36.280 --> 00:35:38.480]   They supported the 5 trillion in the stock market.
+[00:35:38.480 --> 00:35:41.480]   They supported 2,000 major companies coming back,
+[00:35:41.480 --> 00:35:43.400]   more than 10,000 smaller ones coming back.
+[00:35:43.400 --> 00:35:46.480]   They supported the highest wage increases ever recorded.
+[00:35:46.480 --> 00:35:48.800]   They supported gas prices going down.
+[00:35:48.800 --> 00:35:51.040]   They supported Trump pulling us out of the unelected,
+[00:35:51.040 --> 00:35:54.160]   unaccountable TPP that would bring us into a global union.
+[00:35:54.160 --> 00:36:00.520]   They supported everything else he did, if they were informed.
+[00:36:00.520 --> 00:36:05.680]   And then the President said, there's this plan to totally open the borders, and
+[00:36:05.680 --> 00:36:07.760]   Obama just lets people in totally unvetted.
+[00:36:07.760 --> 00:36:11.160]   He'd been doing that for five years before he left office.
+[00:36:11.160 --> 00:36:12.840]   We first broke.
+[00:36:12.840 --> 00:36:15.000]   They said there's nothing but children coming across, and
+[00:36:15.000 --> 00:36:16.160]   Obama lets children come in.
+[00:36:16.160 --> 00:36:21.400]   We went down there, less than 10% that we saw were children,
+[00:36:21.400 --> 00:36:25.600]   but the feds said that 17% were under the age of 18.
+[00:36:25.600 --> 00:36:32.000]   And it was just a bunch of military age men and women walking across, and
+[00:36:32.000 --> 00:36:36.000]   the Border Patrol was ordered to just no ID, don't check for diseases,
+[00:36:36.000 --> 00:36:37.320]   don't check their backpacks.
+[00:36:37.320 --> 00:36:42.480]   Heads of the Border Patrol Union went public and said, this is criminal.
+[00:36:42.480 --> 00:36:47.080]   Some of them came on this show, despite major reprimands.
+[00:36:47.080 --> 00:36:49.400]   Some of them got fired for going on Sean Hannity,
+[00:36:49.400 --> 00:36:53.920]   put their careers on the line, because they were good people.
+[00:36:53.920 --> 00:36:55.120]   By the way, most of them are Hispanic.
+[00:36:55.120 --> 00:36:58.360]   They claim all this racism.
+[00:36:58.360 --> 00:37:00.400]   No, you've got collapsing Latin America.
+[00:37:00.400 --> 00:37:06.440]   You've got the UN building up base camps that they fund,
+[00:37:06.440 --> 00:37:09.480]   that they politically choose the worst the worst.
+[00:37:09.480 --> 00:37:14.920]   And then they give them debit cards with free money, $1,000 per leg.
+[00:37:14.920 --> 00:37:18.960]   I remember a month and a half ago, the big caravan was marching up
+[00:37:18.960 --> 00:37:22.040]   out of South America into Central America towards Mexico.
+[00:37:22.040 --> 00:37:27.760]   And Ted Cruz and Congressman Matt Gaetz would tweet out video of
+[00:37:27.760 --> 00:37:33.320]   them handing out cash to them, pesos to them, in Honduras and
+[00:37:33.320 --> 00:37:37.080]   Guatemala, and giving them USAID bags.
+[00:37:37.080 --> 00:37:41.320]   And then the media would say, apologize, Ted Cruz, apologize, Matt Gaetz.
+[00:37:41.320 --> 00:37:44.960]   Why the UN and George Soros aren't involved, no one's paying them.
+[00:37:44.960 --> 00:37:49.560]   You could type in Open Society Foundation or the other groups, and
+[00:37:49.560 --> 00:37:55.120]   it was George Soros at press conferences two years ago, and a year ago in Reuters.
+[00:37:55.120 --> 00:38:00.960]   An AP saying George Soros is partnering with the UN and
+[00:38:00.960 --> 00:38:06.560]   MasterCard to give $1,000 per leg to people from Africa and
+[00:38:06.560 --> 00:38:10.520]   the Middle East to come to Latin America and then come in illegally.
+[00:38:10.520 --> 00:38:16.720]   Or they're paying to get visas on travel and then coming here illegally.
+[00:38:16.720 --> 00:38:22.680]   There it is, George Soros MasterCard to partner to aid migrant refugees.
+[00:38:22.680 --> 00:38:25.560]   That's January 2017.
+[00:38:25.560 --> 00:38:31.520]   Again, imagine what it's like to know how all of this works.
+[00:38:31.520 --> 00:38:35.200]   They already did it in Europe, brought in 15 million military aged men the last six
+[00:38:35.200 --> 00:38:38.400]   years, who are literally burning Europe down as we speak.
+[00:38:38.400 --> 00:38:40.760]   Yeah, show them the footage out of North Africa and
+[00:38:40.760 --> 00:38:45.240]   the Middle East of what just happened to Europe, and then show the slums.
+[00:38:45.240 --> 00:38:49.480]   If you're a radio listener, we're showing everything I say.
+[00:38:49.480 --> 00:38:53.040]   When I say Soros is funding it, I show you Reuters, but it gets worse.
+[00:38:53.040 --> 00:39:01.400]   They now are in the Washington Post and everywhere else saying Trump is a racist,
+[00:39:01.400 --> 00:39:04.960]   Soros isn't involved, and it's worse.
+[00:39:06.560 --> 00:39:09.920]   We showed you the WikiLeaks documents, they admit are real,
+[00:39:09.920 --> 00:39:14.560]   where Soros four years ago, that came out two years ago, or
+[00:39:14.560 --> 00:39:18.880]   26 months ago technically, said we're gonna take over the Internet,
+[00:39:18.880 --> 00:39:22.160]   have it given to the UN, we're gonna censor all nationalists, all conservatives,
+[00:39:22.160 --> 00:39:25.400]   and then Christians, we're gonna open everything up to Islam.
+[00:39:25.400 --> 00:39:30.680]   We're gonna flood everybody, we're gonna teach transgenderism to five year olds,
+[00:39:30.680 --> 00:39:31.680]   this is all his plan.
+[00:39:31.680 --> 00:39:35.680]   And he said anyone trying to block us will be totally banned with a global
+[00:39:35.680 --> 00:39:36.360]   social score.
+[00:39:36.360 --> 00:39:39.300]   Now it's here.
+[00:39:39.300 --> 00:39:46.080]   And then Mark Zuckerberg, who's Jewish, and his head of the company,
+[00:39:46.080 --> 00:39:52.720]   who's Jewish, eight months ago, Soros begins giving speech saying,
+[00:39:52.720 --> 00:39:55.240]   Facebook's going down, Facebook's evil.
+[00:39:55.240 --> 00:39:58.960]   Well, that's because Facebook refused, unlike Google and
+[00:39:58.960 --> 00:40:05.280]   unlike Twitter, to hire Soros trained, this is mainstream news,
+[00:40:05.280 --> 00:40:10.360]   I'll show you in a moment, people to moderate and run the sites.
+[00:40:10.360 --> 00:40:12.640]   He censored, he blocked, he did it all.
+[00:40:12.640 --> 00:40:17.720]   They hired a PR firm to point out that Soros was funding it, which is true.
+[00:40:17.720 --> 00:40:21.440]   Even New York Times admits Soros funded it to take it over,
+[00:40:21.440 --> 00:40:28.320]   to fund Facebook employees to come out and claim they were doing bad things.
+[00:40:28.320 --> 00:40:32.360]   Soros is funding people to do that here, and fake lawsuits.
+[00:40:32.360 --> 00:40:33.320]   I mean, I've been through this.
+[00:40:33.320 --> 00:40:37.000]   And now the New York Times comes out this week and
+[00:40:37.000 --> 00:40:44.680]   says Mark Zuckerberg is an anti-Semite because George Soros is Jewish.
+[00:40:44.680 --> 00:40:49.960]   So what they're saying is, if someone happens to be Jewish,
+[00:40:49.960 --> 00:40:52.720]   which he renounced his Judaism and said he's an atheist and
+[00:40:52.720 --> 00:40:55.560]   helped round up Jews for the death camps, he's told 60 minutes.
+[00:40:57.000 --> 00:40:59.720]   If someone doesn't let you take over their company,
+[00:40:59.720 --> 00:41:05.960]   which Soros tried to buy control of, Soros began shorting the stock.
+[00:41:05.960 --> 00:41:10.000]   And what did the PR company, they hired a very reputable company,
+[00:41:10.000 --> 00:41:12.440]   it's all in the news, say?
+[00:41:12.440 --> 00:41:15.400]   They put out in articles that the New York Times calls fake news,
+[00:41:15.400 --> 00:41:20.360]   that George Soros had nothing to do with any of this.
+[00:41:20.360 --> 00:41:23.440]   But what did the PR firm say?
+[00:41:23.440 --> 00:41:27.760]   They said, George Soros is obviously preparing to short Facebook.
+[00:41:27.760 --> 00:41:29.280]   We didn't let him take control.
+[00:41:29.280 --> 00:41:34.560]   And so now he's gonna short us and try to get regulators to take us over.
+[00:41:34.560 --> 00:41:36.680]   This is all a plan by George Soros to take over the Internet.
+[00:41:36.680 --> 00:41:41.600]   Now, everything they said was completely true.
+[00:41:41.600 --> 00:41:46.320]   Just like we said a migrant caravan funded by the UN just slammed over
+[00:41:46.320 --> 00:41:49.320]   the border three weeks ago.
+[00:41:49.320 --> 00:41:51.280]   Now it just slammed over our border today.
+[00:41:51.280 --> 00:41:55.920]   And what did they say?
+[00:41:55.920 --> 00:41:58.960]   They said that's anti-Semitic.
+[00:41:58.960 --> 00:42:02.840]   Think about that.
+[00:42:02.840 --> 00:42:06.600]   I'm sorry, what did George Soros just do?
+[00:42:06.600 --> 00:42:10.440]   He just shorted Facebook before it went down in the last two weeks.
+[00:42:10.440 --> 00:42:13.520]   And depending on which subsidiary you look at, Fox News said he made
+[00:42:13.520 --> 00:42:17.040]   17 million, that's one of his companies, the guy has thousands.
+[00:42:17.040 --> 00:42:20.360]   Reportedly, he's made hundreds of millions of dollars off shorting him.
+[00:42:20.360 --> 00:42:22.640]   Now that's the big crime right there.
+[00:42:22.640 --> 00:42:25.480]   But see, what did the PR firm say eight months ago?
+[00:42:25.480 --> 00:42:29.600]   They said Soros is clearly preparing to short Facebook because we wouldn't let
+[00:42:29.600 --> 00:42:30.240]   him take it over.
+[00:42:30.240 --> 00:42:35.840]   He's got a group funding all this, and it's wrong what he's doing.
+[00:42:35.840 --> 00:42:39.280]   So for defending themselves and the stockholders,
+[00:42:39.280 --> 00:42:43.640]   the New York Times now says that Facebook is anti-Semitic.
+[00:42:43.640 --> 00:42:48.080]   When the person who helped round up and kill Jews is George Soros.
+[00:42:49.200 --> 00:42:53.240]   Think about the magnitude of that.
+[00:42:53.240 --> 00:42:55.200]   You see, once they censor the conservatives,
+[00:42:55.200 --> 00:42:59.280]   now the infighting is gonna start in the left over who controls what.
+[00:42:59.280 --> 00:43:02.640]   The globalists know that if they suppress the good halogen and
+[00:43:02.640 --> 00:43:05.600]   pump the environment full of the bad halogens, fluoride, chlorine,
+[00:43:05.600 --> 00:43:08.520]   bromine, you name it, that it lowers IQ.
+[00:43:08.520 --> 00:43:11.440]   It literally dumbs the population down.
+[00:43:11.440 --> 00:43:13.400]   And on our quest to bring our listeners and
+[00:43:13.400 --> 00:43:18.120]   viewers the best iodine in the world, we've gone through two permutations.
+[00:43:18.120 --> 00:43:22.080]   First, seaweed-based iodine that was pretty good but hard to source, and
+[00:43:22.080 --> 00:43:24.360]   the globalists tried to block us getting a supply of it.
+[00:43:24.360 --> 00:43:28.160]   So we discovered deep earth crystals of pure nascent iodine and
+[00:43:28.160 --> 00:43:30.680]   brought you X2 that's been incredible.
+[00:43:30.680 --> 00:43:34.320]   Now, due to the establishment trying to block that, we did more research and
+[00:43:34.320 --> 00:43:37.720]   secured more of the deep earth crystals of nascent iodine.
+[00:43:37.720 --> 00:43:39.880]   But chemists, scientists, and
+[00:43:39.880 --> 00:43:43.880]   others showed us the research that by combining it with three other compounds,
+[00:43:43.880 --> 00:43:48.320]   two forms of iodine and vitamin C, it supercharges it and
+[00:43:48.320 --> 00:43:51.800]   makes it even more bioavailable.
+[00:43:51.800 --> 00:43:54.480]   Ladies and gentlemen, you wanna research it, you wanna see it.
+[00:43:54.480 --> 00:43:59.560]   It's an incredible discovery, X3, now available at mfullworthslife.com.
+[00:43:59.560 --> 00:44:02.640]   Our grandparents, the great-grandparents knew that they canned food.
+[00:44:02.640 --> 00:44:04.240]   During the fall, so they'd have it during the winter.
+[00:44:04.240 --> 00:44:08.560]   And that's what I'm talking about at mfullworthstore.com.
+[00:44:08.560 --> 00:44:12.600]   With Mfullworth Select, it's the full spectrum of my patron's supply.
+[00:44:12.600 --> 00:44:15.520]   I'm one of the top most respected companies out there.
+[00:44:15.520 --> 00:44:20.800]   But because I private label it, I'm able to go below cost on contracts
+[00:44:20.800 --> 00:44:23.280]   that all their other distributors aren't able to do.
+[00:44:23.280 --> 00:44:27.200]   But I want to be a market leader, and I want you to have storable food, so
+[00:44:27.200 --> 00:44:28.640]   it's a total win-win.
+[00:44:28.640 --> 00:44:32.240]   We have those incredible sale prices back, mfullworthstore.com,
+[00:44:32.240 --> 00:44:34.400]   on Mfullworth Select storable foods.
+[00:44:34.400 --> 00:44:37.320]   They've got special diet foods, they've got three-month supplies,
+[00:44:37.320 --> 00:44:39.920]   year's supplies, week emergency supplies.
+[00:44:39.920 --> 00:44:42.120]   They've got so many great products there.
+[00:44:42.120 --> 00:44:43.640]   Maybe you've got a three-year supply.
+[00:44:43.640 --> 00:44:45.600]   If stuff happens, you can feed your whole block.
+[00:44:45.600 --> 00:44:48.200]   It's up to us to be self-sufficient.
+[00:44:48.200 --> 00:44:50.600]   You're buying War Bonds, bringing you great products, and
+[00:44:50.600 --> 00:44:53.160]   together, with God's help, we are unstoppable.
+[00:44:53.160 --> 00:44:55.680]   Mfullworthstore.com and Mfullworth Select,
+[00:44:55.680 --> 00:44:58.600]   high-quality, storable foods powered by my patron's supply.
+[00:44:58.600 --> 00:45:02.560]   [MUSIC]
+[00:45:02.560 --> 00:45:06.960]   >> One of the most incredible cups of coffee can be found in the high mountains
+[00:45:06.960 --> 00:45:10.880]   of southern Mexico, where the Chiapas farmers have spent years perfecting
+[00:45:10.880 --> 00:45:12.120]   their techniques.
+[00:45:12.120 --> 00:45:17.240]   Based on hundreds of years of traditional techniques and perfect conditions,
+[00:45:17.240 --> 00:45:21.080]   we've sourced only the best to provide you with our immune support and
+[00:45:21.080 --> 00:45:23.520]   wake up America, Patriot Blend coffee.
+[00:45:23.520 --> 00:45:27.120]   Ancient Mayan knowledge is paired with the natural fertility of the land
+[00:45:27.120 --> 00:45:29.480]   to generate the world's finest coffee bean.
+[00:45:29.480 --> 00:45:33.560]   Carefully harvested and free of toxic chemicals used in big agricultural
+[00:45:33.560 --> 00:45:38.920]   productions, Patriot Blend coffees have a smooth, bold flavor with great depth
+[00:45:38.920 --> 00:45:40.960]   to give you just what you need in the morning.
+[00:45:40.960 --> 00:45:45.160]   You can even choose to start your morning healthier with the immune support blend,
+[00:45:45.160 --> 00:45:49.120]   infused with a powerful blend to support your immune response and stamina.
+[00:45:49.120 --> 00:45:51.640]   It's time to take care of your morning routine.
+[00:45:51.640 --> 00:45:55.080]   Get a bag of Patriot Blend coffee to support the show while enhancing your
+[00:45:55.080 --> 00:45:58.000]   morning routine at Mfullworthstore.com.
+[00:45:58.000 --> 00:46:00.440]   [MUSIC]
+[00:46:00.440 --> 00:46:02.960]   >> Monday through next Sunday,
+[00:46:02.960 --> 00:46:07.880]   we are bringing back the biggest sales in our history.
+[00:46:07.880 --> 00:46:12.200]   Black Friday InfoWars store sale, free shipping and double Patriot points.
+[00:46:12.200 --> 00:46:17.680]   Up to 50% off on storable food, super high quality, that is huge.
+[00:46:17.680 --> 00:46:21.640]   All InfoWars life supplements, 50% off.
+[00:46:21.640 --> 00:46:26.480]   127 or 49% off Alexa Pure Pro,
+[00:46:26.480 --> 00:46:30.440]   gravity fed filters, Alexa Pure Breeze, air filtration.
+[00:46:30.440 --> 00:46:34.200]   Now at 40% off, that's right at Lost Leader, getting to get rid of inventory.
+[00:46:34.200 --> 00:46:36.440]   So take advantage of that, it's an amazing system.
+[00:46:36.440 --> 00:46:38.880]   They're trying to shut down InfoWars, they're trying to defund us.
+[00:46:38.880 --> 00:46:41.920]   So I said, everything must go by the end of the year, so
+[00:46:41.920 --> 00:46:45.880]   that we're at least have the cash to continue operating for a while.
+[00:46:45.880 --> 00:46:50.960]   InfoWarsstore.com, InfoWarslife.com, or 888-253-3139.
+[00:46:50.960 --> 00:46:54.840]   Support the InfoWars, get great products, get your Christmas shopping done early,
+[00:46:54.840 --> 00:46:57.320]   and battle the globalists, a total 360 win.
+[00:46:57.320 --> 00:46:59.520]   InfoWarsstore.com, I wanna thank you all for your support.
+[00:46:59.520 --> 00:47:05.560]   >> You're listening to The Alex Jones Show.
+[00:47:05.560 --> 00:47:15.560]   [MUSIC]
+[00:47:15.560 --> 00:47:26.200]   >> I have been tracking every step of this.
+[00:47:26.200 --> 00:47:30.600]   And sorrows can be stopped, the UN, the globalists can be stopped so
+[00:47:30.600 --> 00:47:34.600]   easily if people just listen and research what I'm saying.
+[00:47:34.600 --> 00:47:37.360]   Why we're so demonized, that's why we're so banned.
+[00:47:37.360 --> 00:47:43.280]   America just got overrun by the illegal alien horde funded by US taxpayers
+[00:47:43.280 --> 00:47:47.320]   through the State Department and then through George Soros.
+[00:47:47.320 --> 00:47:49.120]   But it gets worse than that.
+[00:47:49.120 --> 00:47:55.120]   I was told by pretty high level executives at Facebook,
+[00:47:55.120 --> 00:47:58.800]   two plus years ago, information that I've not repeated on air.
+[00:47:58.800 --> 00:48:01.920]   And I thought they were trying to manipulate me.
+[00:48:01.920 --> 00:48:06.560]   Then I was told by other people, some folks that was just there quite
+[00:48:06.560 --> 00:48:09.880]   successful, that Facebook was not all bad.
+[00:48:09.880 --> 00:48:15.600]   And that Soros was trying to take it over about three years ago.
+[00:48:15.600 --> 00:48:21.640]   And then it all came out in the WikiLeaks right before the election that it was
+[00:48:21.640 --> 00:48:22.360]   basically true.
+[00:48:22.360 --> 00:48:27.440]   And that Facebook had resisted where Google and Twitter and
+[00:48:27.440 --> 00:48:28.800]   others had completely rolled over.
+[00:48:30.240 --> 00:48:35.920]   So now when you saw the news this week that, did you hear?
+[00:48:35.920 --> 00:48:41.400]   Zuckerberg funded a fake news group to say anti-Semitic things about George Soros.
+[00:48:41.400 --> 00:48:44.480]   What did he say anti-Semitic?
+[00:48:44.480 --> 00:48:48.400]   They don't quote it because that's the fake news on CNN,
+[00:48:48.400 --> 00:48:49.680]   the New York Times, everywhere.
+[00:48:49.680 --> 00:48:55.000]   What they did was start seeing Soros give speeches,
+[00:48:55.000 --> 00:48:59.280]   saying how Facebook was gonna go under and how evil it was in the last eight months.
+[00:48:59.280 --> 00:49:03.600]   So they did research and found out he was funding groups to literally have
+[00:49:03.600 --> 00:49:08.960]   infiltrators pay off people inside Facebook to then basically make up lies
+[00:49:08.960 --> 00:49:11.520]   about Facebook.
+[00:49:11.520 --> 00:49:15.240]   So that George Soros, wait for it,
+[00:49:15.240 --> 00:49:22.320]   could have a hostile takeover of Facebook,
+[00:49:23.560 --> 00:49:25.960]   which is incredibly powerful and incredibly valuable.
+[00:49:25.960 --> 00:49:31.880]   It was set up to be a pump and dump, but that's not what the establishment wants
+[00:49:31.880 --> 00:49:35.920]   to do, they wanna use it as their electioneering machine worldwide.
+[00:49:35.920 --> 00:49:39.800]   And Soros is in the WikiLeaks.
+[00:49:39.800 --> 00:49:44.200]   August 29th, 2016, leaked Soros document calls for
+[00:49:44.200 --> 00:49:49.600]   regulating Internet to favor open society supporters,
+[00:49:49.600 --> 00:49:51.840]   block nationalist and conservative news.
+[00:49:52.880 --> 00:49:53.760]   You now see that happening?
+[00:49:53.760 --> 00:49:58.240]   Promote open society affiliated groups.
+[00:49:58.240 --> 00:50:03.200]   Well, Facebook didn't take, like Google, Twitter, and
+[00:50:03.200 --> 00:50:09.520]   others, the thousands of people that Soros was, quote, willing to give you for free.
+[00:50:09.520 --> 00:50:11.240]   Just let them into your company.
+[00:50:11.240 --> 00:50:14.080]   This guy overthrows countries.
+[00:50:14.080 --> 00:50:16.520]   This guy's a famous currency speculator.
+[00:50:16.520 --> 00:50:19.920]   This guy was known as an organized criminal till the 90s, and
+[00:50:19.920 --> 00:50:21.960]   then he spent billions buying off our media.
+[00:50:23.840 --> 00:50:28.640]   So how much more sensational can this get that it's in the WikiLeaks that they
+[00:50:28.640 --> 00:50:33.280]   were gonna take over the Internet and shut down nationalistic conservatives?
+[00:50:33.280 --> 00:50:36.160]   And then, isn't it logical?
+[00:50:36.160 --> 00:50:40.560]   All other media organizations that don't go under his control.
+[00:50:40.560 --> 00:50:41.520]   Now, who does he represent?
+[00:50:41.520 --> 00:50:43.760]   The Deep State, a consortium of leftists.
+[00:50:43.760 --> 00:50:47.480]   Rothschilds, the Rockefeller Foundation.
+[00:50:47.480 --> 00:50:48.480]   He is the figurehead.
+[00:50:49.680 --> 00:50:54.800]   But regardless, his foundations fund every single group for open borders, for
+[00:50:54.800 --> 00:50:57.160]   the illegal caravans, for Internet censorship.
+[00:50:57.160 --> 00:51:00.960]   He gets your taxpayer money, takes a piece of it to the State Department, and
+[00:51:00.960 --> 00:51:04.840]   then pays for the debit cards for the illegal aliens to come here.
+[00:51:04.840 --> 00:51:06.160]   He pays for the plane tickets.
+[00:51:06.160 --> 00:51:08.280]   He pays for the bus tickets with your money.
+[00:51:08.280 --> 00:51:10.680]   And why not?
+[00:51:10.680 --> 00:51:14.560]   Cuz we all act like a bunch of chumps, like a bunch of schmucks, and
+[00:51:14.560 --> 00:51:15.840]   let this monster feed on us.
+[00:51:17.360 --> 00:51:20.240]   He's been dumping billions in a year to overthrow the US and Europe, but
+[00:51:20.240 --> 00:51:22.920]   now he just dumped $33 billion in.
+[00:51:22.920 --> 00:51:23.840]   Where's he got all this money?
+[00:51:23.840 --> 00:51:27.120]   All his money is tax exempt, he's a globalist.
+[00:51:27.120 --> 00:51:29.400]   That's just a small portion.
+[00:51:29.400 --> 00:51:32.360]   But you wonder what's happening?
+[00:51:32.360 --> 00:51:37.000]   That's 33 billion in Europe and America on the street to shut down Infowars,
+[00:51:37.000 --> 00:51:39.200]   to shut down Trump, to kill this country.
+[00:51:39.200 --> 00:51:41.440]   Now there it is.
+[00:51:41.440 --> 00:51:43.560]   Leaked documents, Soros, calls for
+[00:51:43.560 --> 00:51:47.600]   regulating Internet to favor open society supporters.
+[00:51:47.600 --> 00:51:48.400]   What's the source?
+[00:51:48.400 --> 00:51:53.760]   WikiLeaks, his own documents.
+[00:51:53.760 --> 00:51:55.240]   Here's another one.
+[00:51:55.240 --> 00:51:58.960]   Breitbart, Google partners with Soros funded fact-checking service
+[00:51:58.960 --> 00:52:00.240]   to fight fake news.
+[00:52:00.240 --> 00:52:06.040]   Soros spends over 48 million funding media organizations, ABC News,
+[00:52:06.040 --> 00:52:08.680]   the London Guardian, CNN, that's just in one year.
+[00:52:08.680 --> 00:52:11.800]   That's MRC reporting that.
+[00:52:11.800 --> 00:52:13.800]   Soros, now this is this week,
+[00:52:13.800 --> 00:52:17.600]   dumps Facebook, Netflix stocks just before they dipped.
+[00:52:17.600 --> 00:52:23.880]   Insider trading, 17.7 million just on one of his companies,
+[00:52:23.880 --> 00:52:26.040]   it's in the hundreds of millions.
+[00:52:26.040 --> 00:52:31.800]   What did Facebook say eight months ago when they started noticing Soros was
+[00:52:31.800 --> 00:52:32.400]   badmouthing him?
+[00:52:32.400 --> 00:52:34.800]   They said, we believe through their PR firm,
+[00:52:34.800 --> 00:52:37.040]   he's getting ready to do a pump on us and a dump.
+[00:52:37.040 --> 00:52:38.640]   He is getting ready to short our stock.
+[00:52:39.760 --> 00:52:43.120]   And he's putting us down because we wouldn't let him take us over.
+[00:52:43.120 --> 00:52:44.240]   He's a gangster, man.
+[00:52:44.240 --> 00:52:49.160]   He showed up, you said, hey, you let me take over and censor everybody and
+[00:52:49.160 --> 00:52:51.960]   let my people on the door, which would have done what they already did.
+[00:52:51.960 --> 00:52:55.640]   Dug up, made up dirt, twisted stuff around to take them down anyways.
+[00:52:55.640 --> 00:52:57.760]   because he wants to drive it down to nothing.
+[00:52:57.760 --> 00:53:01.680]   And then that's why he's going to then, he's already got a piece of it.
+[00:53:01.680 --> 00:53:03.880]   He's going to get it for nothing.
+[00:53:03.880 --> 00:53:06.320]   But first, he's going to drive it down.
+[00:53:06.320 --> 00:53:11.320]   [BLANK_AUDIO]
+[00:53:11.320 --> 00:53:13.040]   Where's the congressional hearings on that?
+[00:53:13.040 --> 00:53:14.640]   No, instead, they know this is all coming out.
+[00:53:14.640 --> 00:53:18.800]   So Soros and the Democrats all call for hearings on Facebook and
+[00:53:18.800 --> 00:53:23.960]   Zuckerberg spying on people when compared to the NSA or Google.
+[00:53:23.960 --> 00:53:26.760]   He's done nothing and I'm not defending Mark Zuckerberg.
+[00:53:26.760 --> 00:53:30.920]   The point is, is that I was let in on all this stuff like three years ago, and
+[00:53:30.920 --> 00:53:32.440]   I thought it was a con.
+[00:53:32.440 --> 00:53:35.480]   I told people I got contacted by a label Facebook.
+[00:53:35.480 --> 00:53:37.880]   Five years ago, and then again, two and a half years ago, and
+[00:53:37.880 --> 00:53:39.080]   I thought it was a joke.
+[00:53:39.080 --> 00:53:43.920]   [BLANK_AUDIO]
+[00:53:43.920 --> 00:53:48.320]   God Almighty, how things might have been different if I'd just known what's going
+[00:53:48.320 --> 00:53:52.200]   on, see, I just think of the globalists as so monolithic, and they are, but
+[00:53:52.200 --> 00:53:53.760]   not totally.
+[00:53:53.760 --> 00:53:57.440]   And Zuckerberg's like, you know what, dude, you're not going to muscle in on me.
+[00:53:57.440 --> 00:53:58.840]   And he's finding out right now.
+[00:53:58.840 --> 00:54:02.040]   [BLANK_AUDIO]
+[00:54:02.040 --> 00:54:07.760]   Because that guy works for Juncker and the EU, and the really old money.
+[00:54:07.760 --> 00:54:11.480]   So ladies and gentlemen, you think about this,
+[00:54:11.480 --> 00:54:17.720]   this is so unbelievable that Soros tries to muscle in and take over the company.
+[00:54:17.720 --> 00:54:21.560]   All the other tech people get scared, let him in, let him take over,
+[00:54:21.560 --> 00:54:24.520]   literally running them, running the censorship.
+[00:54:24.520 --> 00:54:27.920]   And then the Jewish founder and the Jewish CEO,
+[00:54:27.920 --> 00:54:32.560]   both of them are called anti-Semites because they pointed out that
+[00:54:32.560 --> 00:54:36.760]   George Soros is trying to drive down our stock and short it and
+[00:54:36.760 --> 00:54:41.480]   take us over in a hostile corporate takeover, which is happening.
+[00:54:41.480 --> 00:54:44.160]   And the news even admits, well, he does fund the group, and
+[00:54:44.160 --> 00:54:46.720]   he did say Facebook is horrible and going down.
+[00:54:46.720 --> 00:54:50.960]   And for criticizing it and saying he wants to take it over, he's against Jews.
+[00:54:50.960 --> 00:54:53.880]   Did Mark Zuckerberg ever help round up Jews and give them to Hitler?
+[00:54:53.880 --> 00:54:54.380]   No.
+[00:54:54.380 --> 00:54:56.920]   Did the other lady there do that?
+[00:54:56.920 --> 00:54:57.920]   No.
+[00:54:57.920 --> 00:55:00.680]   Am I sitting there kissing her butt?
+[00:55:00.680 --> 00:55:01.180]   No.
+[00:55:01.180 --> 00:55:05.800]   But I tell you, you learn more and more every day, and this is incredible.
+[00:55:05.800 --> 00:55:13.000]   Secret Facebook email show Mark Zuckerberg over data sharing scandal are seized
+[00:55:13.000 --> 00:55:16.200]   by the parliament in England as they prefer to go criminally after him.
+[00:55:16.200 --> 00:55:18.600]   Parliament seizes cash of Facebook internal papers.
+[00:55:18.600 --> 00:55:21.680]   And it goes on from there.
+[00:55:21.680 --> 00:55:26.080]   On Thanksgiving Eve, Facebook acknowledges details of Times investigation.
+[00:55:26.080 --> 00:55:29.240]   The New York Times owned by Mexican kingpins,
+[00:55:29.240 --> 00:55:31.600]   connected to narcotics trafficking and all the rest of it.
+[00:55:31.600 --> 00:55:37.720]   They come in and Sheryl Sandberg, she's anti-Semitic because she dared talk
+[00:55:37.720 --> 00:55:40.440]   about Soros, who said, I'm going to bring your company down.
+[00:55:40.440 --> 00:55:43.280]   And they're like, he's a famous speculator that shorts people, and
+[00:55:43.280 --> 00:55:44.680]   he clearly is trying to take us over.
+[00:55:44.680 --> 00:55:47.400]   We refuse to let him run Facebook, so that's why he's doing this.
+[00:55:47.400 --> 00:55:48.680]   My God, you're anti-Semitic.
+[00:55:48.680 --> 00:55:52.560]   Think about that.
+[00:55:52.560 --> 00:55:54.800]   Think about how hardcore.
+[00:55:54.800 --> 00:55:57.480]   And let me tell you, it's Soros fighting the lawsuits against me.
+[00:55:57.480 --> 00:55:59.480]   It's Soros trying to get our banks taken away.
+[00:55:59.480 --> 00:56:01.560]   This guy is a monster, man.
+[00:56:01.560 --> 00:56:06.080]   And most Republicans are scared of him.
+[00:56:06.080 --> 00:56:09.760]   Most people, I know people that are guests on this show that I call to come on,
+[00:56:09.760 --> 00:56:11.400]   they go, no, I'm not coming on your show.
+[00:56:11.400 --> 00:56:15.280]   They call back and they go, actually, I want to come on.
+[00:56:15.280 --> 00:56:17.560]   And then they start singing the praises of Soros on air.
+[00:56:17.560 --> 00:56:23.040]   And other people that have big podcasts, read the script.
+[00:56:23.040 --> 00:56:24.560]   George Soros wasn't a Nazi.
+[00:56:24.560 --> 00:56:25.760]   He didn't help Nazis.
+[00:56:25.760 --> 00:56:27.280]   He was a survivor.
+[00:56:27.280 --> 00:56:30.400]   He fought the Nazis, total lie.
+[00:56:30.400 --> 00:56:33.200]   And I just watched people I've known for 15, 20 years,
+[00:56:33.200 --> 00:56:35.800]   literally just shell out like that.
+[00:56:35.800 --> 00:56:40.440]   That's how your country collapses, ladies and gentlemen.
+[00:56:40.440 --> 00:56:44.720]   Because this devil, this Satan goes about like a lion,
+[00:56:44.720 --> 00:56:47.520]   roaring, seeing who he can devour.
+[00:56:50.120 --> 00:56:54.280]   And we all just bow down and roll over as he funds the collapse of our border,
+[00:56:54.280 --> 00:56:58.280]   as he funds transgenderism in the military to sabotage our readiness,
+[00:56:58.280 --> 00:57:02.080]   as he funds every damn thing you could ever imagine that's evil.
+[00:57:02.080 --> 00:57:06.320]   And Trump dare stand up against him, so Trump's a bad guy.
+[00:57:06.320 --> 00:57:08.880]   Unbelievable.
+[00:57:08.880 --> 00:57:14.640]   George Soros is involved in a hostile takeover of Facebook right now.
+[00:57:14.640 --> 00:57:18.720]   And the entire corporate sellout media is all frothing, joining in.
+[00:57:20.720 --> 00:57:23.360]   Remember just a year ago, the mainstream media would beg Facebook to promote him.
+[00:57:23.360 --> 00:57:24.600]   It's so sick.
+[00:57:24.600 --> 00:57:26.320]   It's like when Drudge promotes in the New York Times,
+[00:57:26.320 --> 00:57:27.720]   and he links their articles, and they bitch.
+[00:57:27.720 --> 00:57:28.960]   No, bring down Drudge.
+[00:57:28.960 --> 00:57:30.800]   These people are sick.
+[00:57:30.800 --> 00:57:33.160]   They're sick.
+[00:57:33.160 --> 00:57:36.120]   And boy, I wish I'd have gone to New York when Facebook invited me up there.
+[00:57:36.120 --> 00:57:37.720]   I just couldn't believe it.
+[00:57:37.720 --> 00:57:39.600]   [LAUGH]
+[00:57:39.600 --> 00:57:45.600]   They told me we're actually fighting Soros, and I was too dumb to believe it.
+[00:57:45.600 --> 00:57:46.760]   We'll be right back.
+[00:57:46.760 --> 00:57:48.680]   I can't even talk at this point.
+[00:57:49.280 --> 00:57:51.960]   Words cannot describe how big the stakes are for
+[00:57:51.960 --> 00:57:53.200]   the future of humanity right now.
+[00:57:53.200 --> 00:57:57.680]   InfoWars is being openly targeted by the Democratic Party,
+[00:57:57.680 --> 00:58:00.840]   leftist CIA operatives, the corrupt Justice Department, and
+[00:58:00.840 --> 00:58:03.240]   the entire Soros crime syndicate.
+[00:58:03.240 --> 00:58:05.240]   People say, why would you start a fight with them?
+[00:58:05.240 --> 00:58:08.680]   Because they were already dominating and running America into the ground.
+[00:58:08.680 --> 00:58:11.280]   And I knew we had no future if we didn't do this.
+[00:58:11.280 --> 00:58:13.600]   So we've already had incredible success.
+[00:58:13.600 --> 00:58:17.000]   But if you will simply realize how epic this is, and
+[00:58:17.000 --> 00:58:21.080]   understand how real this fight is, and why we've been made the main target.
+[00:58:21.080 --> 00:58:24.880]   And if you financially support us, and if you spread the word about our articles and
+[00:58:24.880 --> 00:58:29.720]   videos, InfoWars.com, we won't just continue to stand up against these
+[00:58:29.720 --> 00:58:32.040]   brutal scumbags, we'll win.
+[00:58:32.040 --> 00:58:34.920]   We have huge sales at InfoWars4.com right now.
+[00:58:34.920 --> 00:58:37.920]   And we're still able to operate the shopping cart, get stuff shipped out to
+[00:58:37.920 --> 00:58:40.360]   you, despite the fact we're trying to block our commerce, and
+[00:58:40.360 --> 00:58:42.080]   your right to the market.
+[00:58:42.080 --> 00:58:45.800]   But if you don't stand up and support us financially, Soros the globalist may win.
+[00:58:45.800 --> 00:58:48.760]   This is InfoWars, Darkness Howard, we need your support, I'm counting on you.
+[00:58:48.760 --> 00:58:50.240]   [MUSIC]
+[00:58:50.240 --> 00:58:51.800]   >> Please, whatever you do realize,
+[00:58:51.800 --> 00:58:54.400]   that we're all getting punched drunk to the censorship.
+[00:58:54.400 --> 00:58:58.000]   And you saw 18 Twitter accounts, they say affiliated with InfoWars.
+[00:58:58.000 --> 00:58:59.800]   Yeah, some of them are like little side accounts,
+[00:58:59.800 --> 00:59:03.040]   they know we had like InfoWars store that just showed our products.
+[00:59:03.040 --> 00:59:07.640]   But they just banned them all yesterday in punishment that I be in a Trump rally and
+[00:59:07.640 --> 00:59:09.800]   be mobbed by all these folks that loved us.
+[00:59:09.800 --> 00:59:12.800]   Your excitement about America, your excitement about this broadcast is what
+[00:59:12.800 --> 00:59:15.240]   brought the country and the world back from the brick.
+[00:59:15.240 --> 00:59:19.160]   But the globalists now want to target where the resistance came from, so
+[00:59:19.160 --> 00:59:21.280]   that we're not pesky in the future.
+[00:59:21.280 --> 00:59:24.320]   I want to be troublesome and pesky.
+[00:59:24.320 --> 00:59:25.200]   I want to keep going.
+[00:59:25.200 --> 00:59:29.240]   I want to make them do the ultimate, not just destroy us financially.
+[00:59:29.240 --> 00:59:31.280]   I want to push all the way.
+[00:59:31.280 --> 00:59:32.560]   I've committed to do that.
+[00:59:32.560 --> 00:59:33.640]   I've prayed for that.
+[00:59:33.640 --> 00:59:35.280]   And I've been told that's going to happen.
+[00:59:35.280 --> 00:59:38.160]   But you've got to back us and I promise you this.
+[00:59:38.160 --> 00:59:39.520]   I will never falter.
+[00:59:39.520 --> 00:59:41.880]   I will never waver at the spiritual level.
+[00:59:41.880 --> 00:59:42.840]   I physically will.
+[00:59:42.840 --> 00:59:45.840]   But I give you my commitment if you financially support us,
+[00:59:45.840 --> 00:59:49.600]   infowarsstore.com to give you my absolute total commitment.
+[00:59:49.600 --> 00:59:53.680]   [BLANK_AUDIO]
+[00:59:53.680 --> 00:59:56.720]   >> You're listening to The Alex Jones Show.
+[00:59:56.720 --> 01:00:06.720]   [MUSIC]
+[01:00:08.080 --> 01:00:19.280]   >> You want to stop tyranny?
+[01:00:19.280 --> 01:00:20.880]   Well, so does he.
+[01:00:20.880 --> 01:00:25.920]   Live from the infowars.com studios, it's Alex Jones.
+[01:00:25.920 --> 01:00:35.920]   [MUSIC]
+[01:00:37.920 --> 01:00:39.320]   >> Ladies and gentlemen.
+[01:00:39.320 --> 01:00:45.600]   [MUSIC]
+[01:00:45.600 --> 01:00:47.920]   I do a lot of research.
+[01:00:47.920 --> 01:00:52.640]   But there are those moments where everything comes into focus.
+[01:00:52.640 --> 01:00:59.280]   And all the knowledge you had is taken to a completely new level.
+[01:00:59.280 --> 01:01:03.960]   And it just happened again in a huge way.
+[01:01:03.960 --> 01:01:07.720]   I had a lot of inside baseball information over the years.
+[01:01:07.720 --> 01:01:13.480]   But I wasn't sure if it was all accurate from high level sources.
+[01:01:13.480 --> 01:01:17.920]   I was told three years ago that George Soros was trying
+[01:01:17.920 --> 01:01:22.960]   a hostile corporate takeover or corporate raid of Facebook.
+[01:01:22.960 --> 01:01:27.600]   And then WikiLeaks came out about eight months after that confirming that.
+[01:01:27.600 --> 01:01:28.440]   And if you just joined us,
+[01:01:28.440 --> 01:01:30.360]   I just showed news articles where that was admitted.
+[01:01:30.360 --> 01:01:33.480]   [BLANK_AUDIO]
+[01:01:33.480 --> 01:01:37.320]   All the other tech giants like Google, you name it,
+[01:01:37.320 --> 01:01:40.400]   let him take over in the last two years.
+[01:01:40.400 --> 01:01:42.440]   But Facebook didn't.
+[01:01:42.440 --> 01:01:44.640]   [BLANK_AUDIO]
+[01:01:44.640 --> 01:01:48.000]   And so he got a bunch of people to infiltrate Facebook.
+[01:01:48.000 --> 01:01:49.560]   He paid off employees.
+[01:01:49.560 --> 01:01:53.400]   He got a bunch of their documents to then basically spin it and
+[01:01:53.400 --> 01:01:57.040]   to have their own executives come out against Facebook.
+[01:01:57.040 --> 01:01:58.760]   [BLANK_AUDIO]
+[01:01:58.760 --> 01:02:02.920]   Not so that abuses can be stopped, but so that he and the globalists and
+[01:02:02.920 --> 01:02:06.440]   the Democrats can fully take it over.
+[01:02:06.440 --> 01:02:09.040]   And now it's all admitted.
+[01:02:09.040 --> 01:02:12.880]   So when you see all this news about Facebook and
+[01:02:12.880 --> 01:02:17.640]   hearings coming up about it and all this, that's what this is,
+[01:02:17.640 --> 01:02:21.760]   is George Soros, who already just started badmouthing it eight months ago.
+[01:02:21.760 --> 01:02:25.800]   They hired a PR firm to say, hey, he bankrupts companies,
+[01:02:25.800 --> 01:02:28.440]   he bankrupts currencies, he's putting this out against us,
+[01:02:28.440 --> 01:02:31.160]   he's gonna do a shorting operation.
+[01:02:31.160 --> 01:02:31.920]   It's what he does.
+[01:02:31.920 --> 01:02:33.840]   He's the supervillain of this.
+[01:02:33.840 --> 01:02:36.800]   [BLANK_AUDIO]
+[01:02:36.800 --> 01:02:43.320]   And in response, the New York Times said that Sheryl Sandberg, Jewish,
+[01:02:43.320 --> 01:02:49.520]   Mark Zuckerberg, Jewish, huge supporters of people's basic freedoms
+[01:02:49.520 --> 01:02:54.440]   when it comes to religion, at least on the surface.
+[01:02:54.440 --> 01:02:57.640]   [BLANK_AUDIO]
+[01:02:57.640 --> 01:02:59.760]   And they have the nerve to say that they're anti-Semitic.
+[01:03:00.960 --> 01:03:05.160]   When George Soros wants to overthrow the state of Israel publicly,
+[01:03:05.160 --> 01:03:09.040]   also in the WikiLeaks, Benjamin Netanyahu says George Soros is not a Jew.
+[01:03:09.040 --> 01:03:12.120]   [BLANK_AUDIO]
+[01:03:12.120 --> 01:03:14.440]   Benjamin Netanyahu has to come out and
+[01:03:14.440 --> 01:03:17.400]   say that George Soros is not a friend of Israel.
+[01:03:17.400 --> 01:03:23.280]   And people attacking him are doing a good thing.
+[01:03:23.280 --> 01:03:25.920]   [BLANK_AUDIO]
+[01:03:25.920 --> 01:03:30.160]   Now whether you love Benjamin Netanyahu or hate him, I have to respect him.
+[01:03:30.160 --> 01:03:33.680]   He stands up for his country, just like Trump stands up for his country or
+[01:03:33.680 --> 01:03:34.760]   Putin does.
+[01:03:34.760 --> 01:03:37.440]   I'm sick of these people that sell their country out.
+[01:03:37.440 --> 01:03:39.080]   Benjamin Netanyahu's not doing that.
+[01:03:39.080 --> 01:03:42.840]   This guy hates America, hates Israel.
+[01:03:42.840 --> 01:03:47.600]   And then you've got all these anti-Semites that attack me because I
+[01:03:47.600 --> 01:03:52.600]   attack Soros and say that I am on the Jewish payroll.
+[01:03:52.600 --> 01:03:54.960]   There's not a Jewish payroll.
+[01:03:54.960 --> 01:03:58.640]   You've got this evil Nazi collaborator that helped round up his fellow Jews,
+[01:03:58.640 --> 01:04:02.960]   who is an atheist and has rejected his Jewish roots, publicly,
+[01:04:02.960 --> 01:04:06.960]   in 60 Minutes interviews, and says he's not ashamed for helping round up Jews.
+[01:04:06.960 --> 01:04:10.120]   [BLANK_AUDIO]
+[01:04:10.120 --> 01:04:14.080]   And you've got him in a hostile corporate takeover of Facebook, and
+[01:04:14.080 --> 01:04:17.240]   you've got the whole mainstream media piling on.
+[01:04:17.240 --> 01:04:19.680]   You talk about getting ridiculous now.
+[01:04:19.680 --> 01:04:24.120]   Zuckerberg's an anti-Semite because he funded a PR firm to put out press releases
+[01:04:24.120 --> 01:04:27.480]   that Soros was getting ready to short the stock of Facebook and
+[01:04:27.480 --> 01:04:29.880]   try to take it over, which he's now doing.
+[01:04:29.880 --> 01:04:34.320]   It's like being discredited because you say a migrant caravan's coming and
+[01:04:34.320 --> 01:04:35.520]   the UN's funding it.
+[01:04:35.520 --> 01:04:40.520]   And it's come, it just smashed over the border in California,
+[01:04:40.520 --> 01:04:45.280]   and it's funded by US taxpayers with Soros taking his damn cut.
+[01:04:45.280 --> 01:04:47.760]   [MUSIC]
+[01:04:47.760 --> 01:04:49.880]   So it's just incredible how Soros and
+[01:04:49.880 --> 01:04:53.280]   the whole mafia he represents is now taking over the left.
+[01:04:53.280 --> 01:04:56.280]   This stuff's like cancer, man, you gotta cut it out.
+[01:04:56.280 --> 01:04:58.120]   [BLANK_AUDIO]
+[01:04:58.120 --> 01:05:01.440]   >> Whether you're looking to boost the benefits of our fish oil formula or
+[01:05:01.440 --> 01:05:05.680]   just want an alternative, InfoWars Life has the formula for you.
+[01:05:05.680 --> 01:05:09.760]   Ultimate Krill Oil is a powerhouse formula that takes advantages of the EPA,
+[01:05:09.760 --> 01:05:14.960]   DHA, and Omega-3s found in our high quality, ultra pure Krill oil concentrate.
+[01:05:14.960 --> 01:05:18.960]   Containing powerful antioxidants such as acid xanthan and Omega-3s,
+[01:05:18.960 --> 01:05:22.320]   Ultimate Krill Oil can help you experience the benefits of fish oil with less
+[01:05:22.320 --> 01:05:24.960]   required DHA and EPA.
+[01:05:24.960 --> 01:05:27.880]   This incredible formula can help your body in many ways,
+[01:05:27.880 --> 01:05:31.360]   including supporting heart health, joint health, and cognitive health,
+[01:05:31.360 --> 01:05:35.280]   aiding and regulating fat metabolism, helping to maintain cognitive function,
+[01:05:35.280 --> 01:05:36.400]   and more.
+[01:05:36.400 --> 01:05:40.120]   And while other Krill Oil formulas may chemically modify their formulas,
+[01:05:40.120 --> 01:05:43.680]   we're giving you the benefits of a simple formula that contains unmodified,
+[01:05:43.680 --> 01:05:45.960]   high quality Krill Oil concentrate.
+[01:05:45.960 --> 01:05:48.680]   Paired with our Ultimate Fish Oil or used separately,
+[01:05:48.680 --> 01:05:52.360]   it's time to see what Krill Oil can do for you with Ultimate Krill Oil.
+[01:05:52.360 --> 01:05:55.360]   Now available at InfoWarsStore.com.
+[01:05:55.360 --> 01:06:01.360]   [MUSIC]
+[01:06:01.360 --> 01:06:07.360]   Live from Austin, Texas, broadcasting worldwide, it's Alex Jones.
+[01:06:07.360 --> 01:06:17.360]   [MUSIC]
+[01:06:18.360 --> 01:06:26.360]   [MUSIC]
+[01:06:26.360 --> 01:06:30.360]   [MUSIC]
+[01:06:30.360 --> 01:06:35.360]   You know, we've got news here that is so over the top, incredible.
+[01:06:35.360 --> 01:06:39.360]   I don't even know how to respond to this at this point.
+[01:06:39.360 --> 01:06:47.360]   We know that about two hours ago, more than 10,000 UN-trained,
+[01:06:47.360 --> 01:06:53.360]   US taxpayer-funded George Soros Open Societies commanded,
+[01:06:53.360 --> 01:06:59.360]   military-age men began throwing rocks at the Border Patrol,
+[01:06:59.360 --> 01:07:05.360]   stormed over, went over the walls, rampaging across, many of them got through.
+[01:07:05.360 --> 01:07:08.360]   They got arrested on the US side.
+[01:07:08.360 --> 01:07:14.360]   But when they get arrested, then they go before a liberal judge in California,
+[01:07:14.360 --> 01:07:17.360]   federal judge, the Ninth Circuit controls the courts.
+[01:07:17.360 --> 01:07:20.360]   They've said that an American flag is hateful, cannot be displayed.
+[01:07:20.360 --> 01:07:24.360]   They said that the nation existing is evil and racist.
+[01:07:24.360 --> 01:07:26.360]   That's the mainstream news.
+[01:07:26.360 --> 01:07:28.360]   America was never great, will never be that great.
+[01:07:28.360 --> 01:07:29.360]   Governor Cuomo, New York.
+[01:07:29.360 --> 01:07:35.360]   And the US has shut down major San Diego port of entry as migrants rush the border.
+[01:07:35.360 --> 01:07:36.360]   That's CNN.
+[01:07:36.360 --> 01:07:43.360]   They have rampaged across it, waving Honduran flags and Venezuelan flags,
+[01:07:43.360 --> 01:07:47.360]   screaming down with America.
+[01:07:47.360 --> 01:07:49.360]   And Trump is the anti-Christ.
+[01:07:49.360 --> 01:07:51.360]   And we are not criminals.
+[01:07:51.360 --> 01:07:55.360]   We are international workers of the world.
+[01:07:55.360 --> 01:08:01.360]   The average person hears that, oh, we're international workers of the world.
+[01:08:01.360 --> 01:08:08.360]   And the slogan written by V.I. Lennon in the 1890s was unite.
+[01:08:08.360 --> 01:08:12.360]   International workers of the world, unite.
+[01:08:12.360 --> 01:08:21.360]   That is the Bolshevik Revolution slogan.
+[01:08:21.360 --> 01:08:23.360]   1917.
+[01:08:23.360 --> 01:08:26.360]   So CNN has the quotes here, and I've got Washington Post.
+[01:08:26.360 --> 01:08:32.360]   Oh, they said we're international workers.
+[01:08:32.360 --> 01:08:34.360]   There it is.
+[01:08:34.360 --> 01:08:39.360]   I was saying, Lennon, I know he quoted it when he started getting popular, but I guess it's 1848.
+[01:08:39.360 --> 01:08:41.360]   They check everything I say.
+[01:08:41.360 --> 01:08:45.360]   The local slogan, workers of the world, unite, is one of the most famous rallying cries
+[01:08:45.360 --> 01:08:50.360]   from the Communist Manifesto 1848 by Karl Marx and Frederick Engels.
+[01:08:50.360 --> 01:08:53.360]   Literally, proletariats of all countries, unite.
+[01:08:53.360 --> 01:09:00.360]   But soon popularized in English as workers of the world, unite, you have nothing to lose but your chains.
+[01:09:00.360 --> 01:09:07.360]   A variation of the phrase workers of all lands, unite, and then Russia, America, is also inscribed in Marx's tombstone.
+[01:09:07.360 --> 01:09:14.360]   The essence of the slogan is that members of the working classes throughout the world should cooperate to achieve victory in class conflict.
+[01:09:14.360 --> 01:09:16.360]   Let's boil that down.
+[01:09:16.360 --> 01:09:17.360]   You're dumb.
+[01:09:17.360 --> 01:09:18.360]   You're a criminal.
+[01:09:18.360 --> 01:09:19.360]   You've been thrown out of Venezuela.
+[01:09:19.360 --> 01:09:21.360]   You've been thrown out of other countries.
+[01:09:21.360 --> 01:09:26.360]   The government will give you $1,000 per leg because you're a criminal.
+[01:09:26.360 --> 01:09:28.360]   Come up and attack the U.S.
+[01:09:28.360 --> 01:09:34.360]   The Democrats will put you on welfare, and you're going to be happy as pie.
+[01:09:34.360 --> 01:09:40.360]   And then if I dare talk about it or our crew talk about it, the news goes, Alex Jones is insane.
+[01:09:40.360 --> 01:09:42.360]   Donald Trump is now Alex Jones.
+[01:09:42.360 --> 01:09:45.360]   That was all over MSNBC, CNN two weeks ago.
+[01:09:45.360 --> 01:09:48.360]   Trump is insane.
+[01:09:48.360 --> 01:09:54.360]   I even saw like CNN, the newscast we played here on air, there was a couple of them like, tonight, grave information.
+[01:09:54.360 --> 01:10:01.360]   The president is now saying that an imaginary caravan is coming towards the U.S. as part of a U.N.-funded plan to bring down our sovereignty.
+[01:10:01.360 --> 01:10:04.360]   This first originated with Alex Jones.
+[01:10:04.360 --> 01:10:08.360]   Alex Jones, the same man that says there's Martian slave colonies.
+[01:10:08.360 --> 01:10:09.360]   Never said it, see.
+[01:10:09.360 --> 01:10:17.360]   But when you hit this level of evil, what do you do at that point?
+[01:10:17.360 --> 01:10:23.360]   Workers of the world unite.
+[01:10:23.360 --> 01:10:28.360]   And the V.I. Lennon, larger international workers of the world.
+[01:10:28.360 --> 01:10:30.360]   I'm telling you, I know my stuff, guys.
+[01:10:30.360 --> 01:10:35.360]   Look up Lennon International Workers Party.
+[01:10:35.360 --> 01:10:43.360]   If memory serves, he's the founder of that in 1895.
+[01:10:43.360 --> 01:10:49.360]   The point is, I'm going from memory, but I was rereading some documents just a few weeks ago and came back across that.
+[01:10:49.360 --> 01:10:58.360]   So these people are literally spouting V.I. Lennon as they charge over the U.S. border.
+[01:10:58.360 --> 01:11:03.360]   Do you know how frustrating that is?
+[01:11:03.360 --> 01:11:05.360]   You see that?
+[01:11:05.360 --> 01:11:07.360]   That was a Venezuelan flag.
+[01:11:07.360 --> 01:11:10.360]   And if you look closely, one of those is a Syrian flag.
+[01:11:10.360 --> 01:11:14.360]   And there's a Mexican flag there.
+[01:11:14.360 --> 01:11:16.360]   You got a Mexican flag.
+[01:11:16.360 --> 01:11:18.360]   You got a Venezuelan flag.
+[01:11:18.360 --> 01:11:21.360]   You got a Honduran flag.
+[01:11:21.360 --> 01:11:23.360]   You got a lot of flags.
+[01:11:23.360 --> 01:11:25.360]   But let's just say this.
+[01:11:25.360 --> 01:11:29.360]   These folks are hopped up and hyped up, and they're ready.
+[01:11:29.360 --> 01:11:31.360]   Where are the children in these shots?
+[01:11:31.360 --> 01:11:33.360]   I see one woman right there.
+[01:11:33.360 --> 01:11:35.360]   She's pregnant.
+[01:11:35.360 --> 01:11:38.360]   She's going to get that anchor baby in quick.
+[01:11:38.360 --> 01:11:45.360]   Soros lives in Connecticut and lives in Switzerland and lives in Luxembourg.
+[01:11:45.360 --> 01:11:50.360]   He's not going to be here while we go under the Communist International.
+[01:11:50.360 --> 01:12:00.360]   And remember, it's a thing because the Austrian-Hungarian Empire and the Russians and everybody else had just freed the serfs.
+[01:12:00.360 --> 01:12:02.360]   White people were indentured slaves.
+[01:12:02.360 --> 01:12:06.360]   About 80 percent of white people were slaves on average.
+[01:12:06.360 --> 01:12:12.360]   And England and others were the first to get rid of it.
+[01:12:12.360 --> 01:12:15.360]   England got rid of it like 600 years ago.
+[01:12:15.360 --> 01:12:26.360]   But, see, Germany didn't get rid of it until the 1860s, and Russia didn't get rid of it until -- when did Russia get rid of the serfs?
+[01:12:26.360 --> 01:12:28.360]   Public, was it 1880s?
+[01:12:28.360 --> 01:12:29.360]   I'm going from memory.
+[01:12:29.360 --> 01:12:34.360]   Let's look up when the Russian czars abolished the serfs, serfed them.
+[01:12:34.360 --> 01:12:40.360]   But the point is, the globalists said, "How do we con all these people from the farm back in?
+[01:12:40.360 --> 01:12:42.360]   They're used to being on communes.
+[01:12:42.360 --> 01:12:45.360]   We'll tell them they're going to come and work in a slave factory.
+[01:12:45.360 --> 01:12:46.360]   They'll get part of the pay.
+[01:12:46.360 --> 01:12:48.360]   They'll never know."
+[01:12:48.360 --> 01:12:49.360]   There it is.
+[01:12:49.360 --> 01:12:53.360]   I said, "Emancipation of the serfs, 1861."
+[01:12:53.360 --> 01:12:56.360]   I remember it was the 1870s and '80s, but I think it was another act too.
+[01:12:56.360 --> 01:13:01.360]   But the point is, it's the same thing in Germany, which was the Austrian-Hungarian Empire at the time.
+[01:13:01.360 --> 01:13:05.360]   You have your TV viewer, you're seeing me go from memory here, and the crew pulls it up, you can see it for yourself.
+[01:13:05.360 --> 01:13:09.360]   So this is what's really going on.
+[01:13:09.360 --> 01:13:18.360]   And you've got them, the big banks, the big globalists, sucking Latin America dry, putting communists in, brainwashing the public, collapsing that country,
+[01:13:18.360 --> 01:13:29.360]   and then using those dumbed-down politicized populations that are weaponized to attack the next country in a domino effect.
+[01:13:29.360 --> 01:13:39.360]   You know that Google and Facebook and Twitter and all these big operations have it set up where they pay almost no tax.
+[01:13:39.360 --> 01:13:40.360]   Apple's the worst.
+[01:13:40.360 --> 01:13:42.360]   They have the worst slave factories.
+[01:13:42.360 --> 01:13:47.360]   They use Chinese government to suppress anybody that tries to unionize and have them killed.
+[01:13:47.360 --> 01:13:50.360]   But then Tim Cook goes around going, "Eh, eh, eh, seriously."
+[01:13:50.360 --> 01:13:53.360]   He goes around going, "I'm gay. I'm gay. Uh, uh, uh."
+[01:13:53.360 --> 01:13:55.360]   So it's okay then because he's liberal.
+[01:13:55.360 --> 01:13:59.360]   He's gay, so they own slave factories and kill people that try to, you know, unionize.
+[01:13:59.360 --> 01:14:01.360]   It's okay because he's gay.
+[01:14:01.360 --> 01:14:04.360]   As long as he's gay, it's cool.
+[01:14:04.360 --> 01:14:10.360]   And so that's what's going on here.
+[01:14:10.360 --> 01:14:12.360]   So think about that.
+[01:14:12.360 --> 01:14:18.360]   Think about that long and hard that Apple doesn't pay any taxes corporately.
+[01:14:18.360 --> 01:14:25.360]   They're now officially in China. They're state-run. They're tax-exempt.
+[01:14:25.360 --> 01:14:29.360]   You give Tim Cook a problem, bye-bye birdie.
+[01:14:29.360 --> 01:14:32.360]   It's curating, though. It's pulling weeds, you know.
+[01:14:32.360 --> 01:14:35.360]   Breaking Edge. He's the super class. You're a slave.
+[01:14:35.360 --> 01:14:40.360]   But it's the sickening liberal candy coating about how good it is.
+[01:14:40.360 --> 01:14:49.360]   And then although America's bad, the average American paying like 60% in taxes one way or another.
+[01:14:49.360 --> 01:14:51.360]   You're bad.
+[01:14:51.360 --> 01:14:58.360]   Oh, yeah, fines, fees, income taxes, state taxes, sales taxes, property taxes.
+[01:14:58.360 --> 01:15:03.360]   Yeah, the average person, well, depending on demographic, but let's just say it's close to 60%.
+[01:15:03.360 --> 01:15:06.360]   This guy has the rules written where he pays almost no taxes.
+[01:15:06.360 --> 01:15:10.360]   His corporation pays no taxes.
+[01:15:10.360 --> 01:15:14.360]   Just like Jeff Bezos is subsidized by taxpayers. In fact, he gets money from taxpayers.
+[01:15:14.360 --> 01:15:16.360]   It's even worse.
+[01:15:16.360 --> 01:15:21.360]   But he's going to lecture you through the media how America sucks and how we've got to open our borders
+[01:15:21.360 --> 01:15:25.360]   and bring in third world populations who they then brainwash and weaponize.
+[01:15:25.360 --> 01:15:32.360]   How much of this crap do we have to put up with by these monsters?
+[01:15:32.360 --> 01:15:35.360]   Oh, but don't worry. Alan Dershowitz just went on.
+[01:15:35.360 --> 01:15:38.360]   He's been acting pro Trump till they make their move. Now the knife's coming out.
+[01:15:38.360 --> 01:15:43.360]   Alan Dershowitz says that Mueller report will be devastating for the president.
+[01:15:43.360 --> 01:15:48.360]   Yeah, unless the president goes after Mueller for uranium one, unless he gets on the offense.
+[01:15:48.360 --> 01:15:53.360]   But the president's surrounded by a bunch of thumb sucking cowards.
+[01:15:53.360 --> 01:15:56.360]   He already told him to indict Hillary, and they said no.
+[01:15:56.360 --> 01:15:59.360]   Stress is a natural part of life.
+[01:15:59.360 --> 01:16:05.360]   Family, friends and everyday accidents can put a lot of strain on the body and your mood.
+[01:16:05.360 --> 01:16:07.360]   Don't let life weigh you down.
+[01:16:07.360 --> 01:16:14.360]   Happies is a powerful mood and stress support formula that has your back against life's daily inconveniences.
+[01:16:14.360 --> 01:16:17.360]   Made with ancient ingredients used for thousands of years.
+[01:16:17.360 --> 01:16:22.360]   Happies can help you take back the day with our powerhouse formula.
+[01:16:22.360 --> 01:16:26.360]   Happies can be an important part of your daily supplement routine.
+[01:16:26.360 --> 01:16:30.360]   With poor diet and the constant on and off of your work life,
+[01:16:30.360 --> 01:16:35.360]   it's more important than ever to support your body in the fight against stress.
+[01:16:35.360 --> 01:16:39.360]   With powerful ingredients combined to help support the mind and body,
+[01:16:39.360 --> 01:16:46.360]   Happies helps support during stress, promotes overall well-being, and helps support your mood.
+[01:16:46.360 --> 01:16:48.360]   Don't let your life bogged down.
+[01:16:48.360 --> 01:16:55.360]   Help your body overcome the effects of daily stress and pressure today with Happies from Infowarsstore.com.
+[01:16:57.360 --> 01:17:04.360]   Monday through next Sunday, we are bringing back the biggest sales in our history.
+[01:17:04.360 --> 01:17:08.360]   Black Friday Infowarsstore sale, free shipping and double patriot points.
+[01:17:08.360 --> 01:17:14.360]   Up to 50% off on storable food, super high quality, that is huge.
+[01:17:14.360 --> 01:17:18.360]   All Infowarslife supplements, 50% off.
+[01:17:18.360 --> 01:17:27.360]   127 or 49% off Alexa Pure Pro, gravity fed filters, Alexa Pure Breeze, air filtration.
+[01:17:27.360 --> 01:17:29.360]   Now at 40% off, that's right at loss leader.
+[01:17:29.360 --> 01:17:33.360]   Again, to get rid of inventory, so take advantage of that, it's an amazing system.
+[01:17:33.360 --> 01:17:35.360]   They're trying to shut down Infowars, they're trying to defund us,
+[01:17:35.360 --> 01:17:38.360]   so I said everything must go by the end of the year,
+[01:17:38.360 --> 01:17:42.360]   so that we at least have the cash to continue operating for a while.
+[01:17:42.360 --> 01:17:47.360]   Infowarsstore.com, Infowarslife.com, or 888-253-3139.
+[01:17:47.360 --> 01:17:51.360]   Support the Infowar, get great products, get your Christmas shopping done early,
+[01:17:51.360 --> 01:17:53.360]   and battle the globalists, a total 360 win.
+[01:17:53.360 --> 01:17:56.360]   Infowarsstore.com, I want to thank you all for your support.
+[01:17:56.360 --> 01:18:01.360]   Infowarslife is bringing you a breakthrough in modern medicine.
+[01:18:01.360 --> 01:18:03.360]   Introducing Pollen Block.
+[01:18:03.360 --> 01:18:08.360]   We have found an extraordinary new, natural way to alleviate seasonal distress symptoms,
+[01:18:08.360 --> 01:18:15.360]   including promoting clear nasal and sinus passageways, eye comfort, and respiratory function.
+[01:18:15.360 --> 01:18:20.360]   In the 1960s, researchers in France noticed that people who ate certain quail eggs
+[01:18:20.360 --> 01:18:24.360]   experienced less seasonal immune and inflammatory responses.
+[01:18:24.360 --> 01:18:27.360]   They began studying this effect in published trials,
+[01:18:27.360 --> 01:18:30.360]   and decades later, we now have the fruit of this research,
+[01:18:30.360 --> 01:18:35.360]   a fast-acting, chewable tablet that helps alleviate seasonal distress symptoms.
+[01:18:35.360 --> 01:18:38.360]   Pollen Block is natural and effective.
+[01:18:38.360 --> 01:18:40.360]   It is not an antihistamine.
+[01:18:40.360 --> 01:18:44.360]   In fact, current research has found that it actually acts by blocking the activity of tryptase,
+[01:18:44.360 --> 01:18:49.360]   which is an enzyme that amplifies immune and inflammatory responses in the body.
+[01:18:49.360 --> 01:18:52.360]   Go outside and enjoy the air you breathe.
+[01:18:52.360 --> 01:18:57.360]   Head to Infowarslife.com and grab a pack of our Pollen Block chewable tablets.
+[01:18:57.360 --> 01:19:03.360]   I have an opportunity for viewers and listeners that is the best in my 23 years on air.
+[01:19:03.360 --> 01:19:05.360]   Obviously, water filtration is a great thing, it's a good thing,
+[01:19:05.360 --> 01:19:09.360]   and I've had water filtration sponsors since the day I got on air,
+[01:19:09.360 --> 01:19:11.360]   and over the years, I learned a lot about water filtration.
+[01:19:11.360 --> 01:19:13.360]   I learned what the best was.
+[01:19:13.360 --> 01:19:18.360]   Now, the Alexa Pure Pro is their biggest, nicest stainless steel unit that does the most gallons an hour.
+[01:19:18.360 --> 01:19:19.360]   It's amazing.
+[01:19:19.360 --> 01:19:21.360]   Cuts out all the bad stuff, leaves the good stuff in the good minerals.
+[01:19:21.360 --> 01:19:26.360]   Matt Redhawk and the Patriots over at MyPatriotsSupply that have developed these filters,
+[01:19:26.360 --> 01:19:28.360]   ordered a huge amount of them this year.
+[01:19:28.360 --> 01:19:30.360]   He has a glut of them.
+[01:19:30.360 --> 01:19:33.360]   He's offering a filter that's a good deal at $249.
+[01:19:33.360 --> 01:19:35.360]   When it's discounted, it's usually $200.
+[01:19:35.360 --> 01:19:38.360]   It's $127.
+[01:19:38.360 --> 01:19:42.360]   He's selling them to us at cost, and we're making 20-something bucks on them.
+[01:19:42.360 --> 01:19:44.360]   So they're going to sell out very, very quickly.
+[01:19:44.360 --> 01:19:47.360]   This is the gift of life, the gift of health.
+[01:19:47.360 --> 01:19:48.360]   It's amazing.
+[01:19:48.360 --> 01:19:56.360]   Alexa Pure Pro at Infowarslife.com or Infowarsstore.com or call 888-253-3139.
+[01:19:56.360 --> 01:20:04.360]   You're listening to The Alex Jones Show.
+[01:20:06.360 --> 01:20:20.360]   [music]
+[01:20:20.360 --> 01:20:25.360]   Every time I do this, we get the most incredible phone calls.
+[01:20:25.360 --> 01:20:29.360]   So you won't have to hold long, and I'll go right to you.
+[01:20:29.360 --> 01:20:35.360]   But I want specifically Border Patrol, ICE, law enforcement in Southern California,
+[01:20:35.360 --> 01:20:41.360]   or people in Tijuana, Mexicans in Tijuana, who I know are big listeners in Mexico.
+[01:20:41.360 --> 01:20:43.360]   We have a huge listenership in Mexico.
+[01:20:43.360 --> 01:20:44.360]   Alexa shows that.
+[01:20:44.360 --> 01:20:47.360]   We're almost more popular in Mexico than we are in the United States.
+[01:20:47.360 --> 01:20:53.360]   People like straight shooting, and Mexicans, too, that show, they know that we know what we're talking about.
+[01:20:53.360 --> 01:20:54.360]   We've done our research.
+[01:20:54.360 --> 01:20:57.360]   A lot of Mexicans actually want to have a prosperous nation.
+[01:20:57.360 --> 01:21:02.360]   So if you're a Mexican in Tijuana, or you're a Mexican in an area that's seen the migrants come through,
+[01:21:02.360 --> 01:21:05.360]   or you're a citizen of another country, you know, visiting or living down there,
+[01:21:05.360 --> 01:21:10.360]   or you're military currently deployed down there, or you're a Border Patrol part of ICE,
+[01:21:10.360 --> 01:21:16.360]   if you just joined us, listeners, it's indescribable.
+[01:21:16.360 --> 01:21:17.360]   Red alert.
+[01:21:17.360 --> 01:21:23.360]   UN-funded migrant horde of violent criminals just smashed through the U.S. border defenses,
+[01:21:23.360 --> 01:21:24.360]   tear gas fired.
+[01:21:26.360 --> 01:21:28.360]   And we've got live set feeds of this.
+[01:21:28.360 --> 01:21:34.360]   They hit about three hours ago, attacked for about an hour and a half, threw rocks at police,
+[01:21:34.360 --> 01:21:40.360]   climbed over the border fences, hundreds of them, and we don't know what happened.
+[01:21:40.360 --> 01:21:41.360]   The others then withdrew.
+[01:21:41.360 --> 01:21:44.360]   And this is the same thing happened in Macedonia.
+[01:21:44.360 --> 01:21:46.360]   Same thing happened in Italy.
+[01:21:46.360 --> 01:21:49.360]   Same thing happened in Serbia.
+[01:21:49.360 --> 01:21:55.360]   Same thing has happened all over the world, in Guatemala, in Honduras, in Mexico, just a month ago.
+[01:21:57.360 --> 01:22:00.360]   First 1,000 show up, then 5,000, then 20,000.
+[01:22:00.360 --> 01:22:09.360]   And when they hit about 20,000, they smash down your fences and overrun the police, holding babies up.
+[01:22:09.360 --> 01:22:15.360]   There might even be, when I say 10% women and children, we're all watching this footage.
+[01:22:15.360 --> 01:22:17.360]   I mean, there's hardly any women or children.
+[01:22:17.360 --> 01:22:21.360]   The Pentagon estimates 90% military-aged men.
+[01:22:23.360 --> 01:22:31.360]   They smash over, and then the compliant corporate media only shows a few close shots of women and children.
+[01:22:31.360 --> 01:22:37.360]   And they have a Photoshop thing of Trump standing over a little girl saying he hurt her or whatever.
+[01:22:37.360 --> 01:22:42.360]   And then even the Washington Post admits large numbers of smuggled children who aren't with their parents
+[01:22:42.360 --> 01:22:46.360]   disappear into sex dens as young as age five.
+[01:22:46.360 --> 01:22:48.360]   That's the Washington Post.
+[01:22:50.360 --> 01:22:53.360]   And Michael Moore got one thing right about a month ago. He goes, "You know, there's lots of caravans.
+[01:22:53.360 --> 01:22:55.360]   They're always here. Big deal."
+[01:22:55.360 --> 01:23:00.360]   Then a few days later, that didn't work, so he started lying again and said, "There is no caravan."
+[01:23:00.360 --> 01:23:01.360]   Remember that?
+[01:23:01.360 --> 01:23:03.360]   There is no caravan.
+[01:23:03.360 --> 01:23:08.360]   Well, I guess currently, or I guess, yeah, there is no caravan.
+[01:23:08.360 --> 01:23:10.360]   There's a whole bunch of them at any one time.
+[01:23:10.360 --> 01:23:15.360]   U.S. taxpayer-funded through the State Department to Soros.
+[01:23:15.360 --> 01:23:16.360]   It's all on record.
+[01:23:16.360 --> 01:23:17.360]   So what do we do?
+[01:23:18.360 --> 01:23:20.360]   Why do they want to get Lou Dobbs fired a few weeks ago?
+[01:23:20.360 --> 01:23:30.360]   Because he had Judicial Watch on with the documents saying George Soros is quarterbacking with his Open Society Foundation,
+[01:23:30.360 --> 01:23:38.360]   quarterbacking, giving him $1,000 debit cards and matching them in Central and South America, $1,000 per leg.
+[01:23:38.360 --> 01:23:41.360]   Because you don't just want to give them all the money up front. They might run off.
+[01:23:41.360 --> 01:23:47.360]   You give them each leg of the trip $1,000 per country you traverse.
+[01:23:49.360 --> 01:23:51.360]   You can do that in style, baby.
+[01:23:51.360 --> 01:23:55.360]   $1,000, all the food you can eat.
+[01:23:55.360 --> 01:23:57.360]   They build refugee centers at the border of each new country.
+[01:23:57.360 --> 01:24:00.360]   So you get into one country, get $1,000.
+[01:24:00.360 --> 01:24:02.360]   Get to the edge of the new one, there's another refugee center.
+[01:24:02.360 --> 01:24:04.360]   Rest a week or whatever, get food, get more money.
+[01:24:04.360 --> 01:24:06.360]   Boom, next level.
+[01:24:06.360 --> 01:24:08.360]   And you get to El Norte, free everything.
+[01:24:08.360 --> 01:24:12.360]   This is 21st century warfare.
+[01:24:12.360 --> 01:24:17.360]   Once they're there, they're enrolled in the names of dead people to vote.
+[01:24:17.360 --> 01:24:18.360]   They're put on welfare.
+[01:24:18.360 --> 01:24:21.360]   The Democrats take a skim of that, about half the welfare money.
+[01:24:21.360 --> 01:24:22.360]   It's total mafia.
+[01:24:22.360 --> 01:24:24.360]   Project Veritas caught that undercover video.
+[01:24:24.360 --> 01:24:27.360]   They're put in meatpacking plants.
+[01:24:27.360 --> 01:24:28.360]   They're put in factories.
+[01:24:28.360 --> 01:24:29.360]   They work illegally.
+[01:24:29.360 --> 01:24:32.360]   And then a skim of that is taken.
+[01:24:32.360 --> 01:24:38.360]   If they want to get their kids in, now they've got to pay the Democrat lawyers, is who all handles it.
+[01:24:38.360 --> 01:24:39.360]   Here in Austin, it's huge.
+[01:24:40.360 --> 01:24:47.360]   You drive by, you go by some of these Democrat top law firms, and there'll be a line of Guatemalans, Venezuelans out the door in there.
+[01:24:47.360 --> 01:24:51.360]   And they're in there getting all signed up to be represented by that law firm.
+[01:24:51.360 --> 01:24:58.360]   And then that law firm puts them in touch with the Mexican mafia and others who they pay their cut to.
+[01:24:58.360 --> 01:25:02.360]   And then that money is given to them in political contributions and other deals.
+[01:25:02.360 --> 01:25:04.360]   And it's big money.
+[01:25:04.360 --> 01:25:08.360]   Now, I actually know the specifics and names, quite frankly.
+[01:25:08.360 --> 01:25:14.360]   I was approached by prosecutors and others years ago right here in Travis County, and I was shown all this.
+[01:25:14.360 --> 01:25:15.360]   I already knew all this.
+[01:25:15.360 --> 01:25:21.360]   They didn't expect me to take action because they knew what am I supposed to do?
+[01:25:21.360 --> 01:25:23.360]   They just wanted me to know.
+[01:25:23.360 --> 01:25:25.360]   And the governor knows this.
+[01:25:25.360 --> 01:25:26.360]   Others know this.
+[01:25:26.360 --> 01:25:28.360]   This is the type of total lawlessness.
+[01:25:28.360 --> 01:25:32.360]   Can you imagine the sex exploitation, the skimming off the top?
+[01:25:32.360 --> 01:25:36.360]   This is a permanent underclass they control, that they feed off of.
+[01:25:37.360 --> 01:25:47.360]   And every time the Republicans try to have a legitimate way to bring law-abiding good people in and make it easier to get here and easier to get naturalized, the Democrats don't want it.
+[01:25:47.360 --> 01:25:49.360]   They want either total amnesty or nothing.
+[01:25:49.360 --> 01:25:51.360]   No, we can't do total amnesty for anybody.
+[01:25:51.360 --> 01:25:53.360]   That's totally lawless.
+[01:25:53.360 --> 01:25:57.360]   And so they get to keep the illegal operation going while claiming they want to reform it.
+[01:25:57.360 --> 01:25:59.360]   That's the plan in total.
+[01:25:59.360 --> 01:26:02.360]   So the next two segments, let me give the number out.
+[01:26:04.360 --> 01:26:09.360]   The network of cities funding immigration lawyers expanding because they skim off the money.
+[01:26:09.360 --> 01:26:17.360]   877-789-ALEX, 877-789-2539.
+[01:26:17.360 --> 01:26:24.360]   We'll probably have time for six, seven calls, and I'll just go to you and get you off because I know you're busy.
+[01:26:24.360 --> 01:26:28.360]   But I want to hear from law enforcement that's on the border, Border Patrol, ICE.
+[01:26:28.360 --> 01:26:33.360]   I want to hear from people in Mexico that have witnessed all this, people in San Diego are witnessing it.
+[01:26:33.360 --> 01:26:38.360]   877-789-ALEX, 877-789-2539.
+[01:26:38.360 --> 01:26:40.360]   And we will get your calls.
+[01:26:40.360 --> 01:26:52.360]   But in case you just tuned in, the U.S. just got hit by the imaginary migrant illegal alien caravan funded by the U.N. with taxpayer money that just climbed over the border and slammed into police and military.
+[01:26:52.360 --> 01:26:54.360]   And Trump isn't going to put this out.
+[01:26:54.360 --> 01:26:56.360]   He's smart not to, but I can do it at a limited level so you know.
+[01:26:56.360 --> 01:27:00.360]   From the law reports we got, it looks like hundreds got in.
+[01:27:01.360 --> 01:27:05.360]   They'll then be sent to immigration judges that let them out for on average two plus years.
+[01:27:05.360 --> 01:27:07.360]   They just say, "We'll see you in a couple years."
+[01:27:07.360 --> 01:27:11.360]   They never show, I think, what's the number I've seen, like 90 plus percent never show back up to the hearings.
+[01:27:11.360 --> 01:27:15.360]   Well, they've already been given a new identity.
+[01:27:15.360 --> 01:27:16.360]   They're already working with the Democrats.
+[01:27:16.360 --> 01:27:20.360]   They're already getting a large part of their livelihood skimmed off the top.
+[01:27:20.360 --> 01:27:24.360]   We're going to go to break and come back and take some of your calls.
+[01:27:25.360 --> 01:27:33.360]   Again, that's only calls from people with direct knowledge of this, Border Patrol, ICE, military on the border, people in Mexico that have witnessed the caravan.
+[01:27:33.360 --> 01:27:36.360]   Please, other callers, let them get a chance to get through.
+[01:27:36.360 --> 01:27:39.360]   877-789-2539.
+[01:27:39.360 --> 01:27:41.360]   All right.
+[01:27:41.360 --> 01:27:45.360]   I've done an hour and a half of broadcast, haven't plugged yet, and we won't be here if I don't plug.
+[01:27:45.360 --> 01:27:52.360]   We had Black Friday week, and it is the biggest sale we've ever had because we've just escalated everything.
+[01:27:52.360 --> 01:27:55.360]   50% off all InfoWars Live supplements.
+[01:27:55.360 --> 01:27:57.360]   That's Brain Force, X3, all of it.
+[01:27:57.360 --> 01:28:07.360]   50% off all InfoWars Live products, 50% off, and store-wide free shipping, and this is the biggest part, double Patriot points on your next order.
+[01:28:07.360 --> 01:28:12.360]   When you check out in our high-tech shopping cart, you can magically get Patriot points, 5% on each dollar.
+[01:28:12.360 --> 01:28:15.360]   It's 10% on each dollar.
+[01:28:15.360 --> 01:28:17.360]   That makes a lot of these lost leaders now.
+[01:28:17.360 --> 01:28:21.360]   So I am, at end of year, getting rid of all of our great inventory.
+[01:28:21.360 --> 01:28:23.360]   High-quality, storable food, 50% off.
+[01:28:23.360 --> 01:28:28.360]   Alexa Pure, very best gravity-fed stainless steel filter, leading competitors, 400 bucks.
+[01:28:28.360 --> 01:28:30.360]   This is normally 240.
+[01:28:30.360 --> 01:28:31.360]   It's at 127.
+[01:28:31.360 --> 01:28:36.360]   That's a clearance price from the factory at year-end, so they don't have to pay inventory tax to get it all out.
+[01:28:36.360 --> 01:28:43.360]   This is the best deal I've ever seen on stainless steel gravity filtration systems, Alexa Pure Pro 127.
+[01:28:43.360 --> 01:28:45.360]   All of it at InfoWarsStore.com.
+[01:28:45.360 --> 01:28:50.360]   Free shipping, store-wide, 50% off to 75% off, and double Patriot points.
+[01:28:50.360 --> 01:28:53.360]   And you support the InfoWars, a total 360 wins.
+[01:28:53.360 --> 01:28:55.360]   So take action today at InfoWarsStore.com.
+[01:28:55.360 --> 01:29:06.360]   Years ago, InfoWars Life created the powerful MycoZx formula to help you combat internal yeast.
+[01:29:06.360 --> 01:29:10.360]   As the years went on, and more toxins were pumped into the environment,
+[01:29:10.360 --> 01:29:14.360]   our team knew we had to create a bigger and better formula to help support your gut health.
+[01:29:14.360 --> 01:29:17.360]   MycoZx Plus is the result of the search for that formula.
+[01:29:17.360 --> 01:29:23.360]   A unique natural formula designed to support the body's natural cleansing of yeast and fungal organisms.
+[01:29:23.360 --> 01:29:25.360]   There's no better product to help your body fight back.
+[01:29:25.360 --> 01:29:29.360]   MycoZx Plus helps support a healthy microbial balance in the body,
+[01:29:29.360 --> 01:29:35.360]   supports your digestive tract, and addresses the intestinal yeast that can cause you problems if it goes unchecked.
+[01:29:35.360 --> 01:29:38.360]   Powered by an impressive list of ingredients, including grapefruit seed extract,
+[01:29:38.360 --> 01:29:41.360]   Paldarco bark, and grape seed extract,
+[01:29:41.360 --> 01:29:46.360]   our formula is fueled by ingredients that stood the test of time as powerful micro-balancing properties.
+[01:29:46.360 --> 01:29:51.360]   Pick up a bottle of the new and improved MycoZx Plus today at InfoWarsLife.com.
+[01:29:51.360 --> 01:29:53.360]   That's InfoWarsLife.com.
+[01:29:53.360 --> 01:30:00.360]   We all know the importance of fish oils.
+[01:30:00.360 --> 01:30:02.360]   While we are sure to provide them for ourselves,
+[01:30:02.360 --> 01:30:06.360]   it's just as important to make sure your kids get their EPA and DHA too.
+[01:30:06.360 --> 01:30:11.360]   Honor Roll is a powerful DHA fish oil formula for your child.
+[01:30:11.360 --> 01:30:14.360]   Built from the ground up to support your child's development,
+[01:30:14.360 --> 01:30:17.360]   this formula uses wild anchovy fish oil,
+[01:30:17.360 --> 01:30:19.360]   ultra-purified krill oil,
+[01:30:19.360 --> 01:30:24.360]   and wild salmon fish oil with vitamins to boost your child's mind and body.
+[01:30:24.360 --> 01:30:28.360]   With this fish oil formula, you can support your child's optimal heart,
+[01:30:28.360 --> 01:30:32.360]   joint, cognitive, and brain health while providing DHA,
+[01:30:32.360 --> 01:30:36.360]   which has been shown to be essential for your child's brain growth spurts.
+[01:30:36.360 --> 01:30:41.360]   Built on powerful ingredients with 580 mg of high DHA omega-3s,
+[01:30:41.360 --> 01:30:46.360]   this formula is highly refined to eliminate nearly all heavy metals.
+[01:30:46.360 --> 01:30:50.360]   If you're looking for a formula to help your child grow, look no further.
+[01:30:50.360 --> 01:30:55.360]   Try Honor Roll from InfoWarsLife at InfoWarsStore.com.
+[01:30:55.360 --> 01:31:00.360]   We've taken thousands of years of known research
+[01:31:00.360 --> 01:31:04.360]   and put it together with our own four years of seeking and testing
+[01:31:04.360 --> 01:31:08.360]   to find the very best systems that God gave us through Mother Nature to detoxify the body.
+[01:31:08.360 --> 01:31:13.360]   That's why I'm introducing Z-Shield, Toxic Metal and Chemical Defense Support.
+[01:31:13.360 --> 01:31:14.360]   It's made in the USA.
+[01:31:14.360 --> 01:31:17.360]   It's filled with known compounds from nature
+[01:31:17.360 --> 01:31:20.360]   that are absolutely associated with detoxifying the body,
+[01:31:20.360 --> 01:31:21.360]   and it supports the InfoWars.
+[01:31:21.360 --> 01:31:23.360]   It is a classical 360 win.
+[01:31:23.360 --> 01:31:27.360]   This is the formula that I personally have been taking for over a year,
+[01:31:27.360 --> 01:31:30.360]   and now we believe we have come as close to perfection
+[01:31:30.360 --> 01:31:33.360]   when it comes to a detoxifier as you can possibly get.
+[01:31:33.360 --> 01:31:35.360]   You owe it to yourself, you owe it to your family,
+[01:31:35.360 --> 01:31:38.360]   and you owe it to the future of this country and the world
+[01:31:38.360 --> 01:31:42.360]   that patriots stay as healthy and as clean and as focused as you can be,
+[01:31:42.360 --> 01:31:45.360]   because we need you, the remnant of America,
+[01:31:45.360 --> 01:31:48.360]   to reignite those brush fires to the next level
+[01:31:48.360 --> 01:31:50.360]   and to be healthy and as focused as you can be.
+[01:31:50.360 --> 01:31:53.360]   Thanks to your support and your prayers, together, we're changing the world.
+[01:31:53.360 --> 01:31:57.360]   Now it's time to change our bodies with Z-Shield at InfoWarsLife.com.
+[01:31:57.360 --> 01:32:02.360]   One of the most incredible cups of coffee
+[01:32:02.360 --> 01:32:05.360]   can be found in the high mountains of southern Mexico,
+[01:32:05.360 --> 01:32:09.360]   where the Chiapas farmers have spent years perfecting their techniques.
+[01:32:09.360 --> 01:32:14.360]   Based on hundreds of years of traditional techniques and perfect conditions,
+[01:32:14.360 --> 01:32:18.360]   we've sourced only the best to provide you with our immune support
+[01:32:18.360 --> 01:32:20.360]   and Wake Up America Patriot Blend coffee.
+[01:32:20.360 --> 01:32:24.360]   Ancient Mayan knowledge is paired with the natural fertility of the land
+[01:32:24.360 --> 01:32:26.360]   to generate the world's finest coffee beans.
+[01:32:26.360 --> 01:32:29.360]   Carefully harvested and free of toxic chemicals
+[01:32:29.360 --> 01:32:31.360]   used in big agricultural productions,
+[01:32:31.360 --> 01:32:36.360]   Patriot Blend coffees have a smooth, bold flavor with great depth
+[01:32:36.360 --> 01:32:38.360]   to give you just what you need in the morning.
+[01:32:38.360 --> 01:32:40.360]   You can even choose to start your morning healthier
+[01:32:40.360 --> 01:32:42.360]   with the Immune Support Blend,
+[01:32:42.360 --> 01:32:46.360]   infused with a powerful blend to support your immune response and stamina.
+[01:32:46.360 --> 01:32:48.360]   It's time to take care of your morning routine.
+[01:32:48.360 --> 01:32:51.360]   Get a bag of Patriot Blend coffee to support the show
+[01:32:51.360 --> 01:32:55.360]   while enhancing your morning routine at InfoWarsStore.com.
+[01:32:57.360 --> 01:33:00.360]   [music]
+[01:33:00.360 --> 01:33:04.360]   You're listening to The Alex Jones Show.
+[01:33:04.360 --> 01:33:14.360]   [music]
+[01:33:14.360 --> 01:33:16.360]   Big Brother
+[01:33:16.360 --> 01:33:19.360]   Mainstream Media
+[01:33:19.360 --> 01:33:22.360]   Government Cover-Ups
+[01:33:22.360 --> 01:33:24.360]   You want answers?
+[01:33:24.360 --> 01:33:26.360]   Well, so does he.
+[01:33:26.360 --> 01:33:30.360]   Live from Austin, Texas, broadcasting worldwide,
+[01:33:30.360 --> 01:33:33.360]   it's Alex Jones.
+[01:33:33.360 --> 01:33:37.360]   The UN has public battle plans.
+[01:33:37.360 --> 01:33:40.360]   They're allied with the Chai Koms and the Fortune 100.
+[01:33:40.360 --> 01:33:44.360]   Collapse Latin America, collapse Africa, collapse the Middle East,
+[01:33:44.360 --> 01:33:49.360]   and then flood Western Europe, Russia, the United States
+[01:33:49.360 --> 01:33:53.360]   with brainwashed political operatives who've been in UN camps.
+[01:33:53.360 --> 01:33:57.360]   The very dumbest, the very poorest,
+[01:33:57.360 --> 01:34:01.360]   the most hungry to then be pushed into our nations.
+[01:34:01.360 --> 01:34:07.360]   And so the plan to kill America starts with the collapse of Latin America.
+[01:34:07.360 --> 01:34:11.360]   That's future war, ladies and gentlemen, and we're witnessing it.
+[01:34:11.360 --> 01:34:15.360]   And in a war, when you're being invaded,
+[01:34:15.360 --> 01:34:21.360]   there are a lot of doctrinal systems, especially when a war starts,
+[01:34:21.360 --> 01:34:25.360]   you tell them, "No one hit your border. No one is attacking."
+[01:34:25.360 --> 01:34:27.360]   Again, the Germans at the beginning of World War II,
+[01:34:27.360 --> 01:34:29.360]   when they would invade Czechoslovakia and Poland,
+[01:34:29.360 --> 01:34:32.360]   for up to a week, they would say, "We have not invaded.
+[01:34:32.360 --> 01:34:34.360]   We have not invaded. We have not invaded."
+[01:34:34.360 --> 01:34:38.360]   Now, Hitler would be on the radio and on newsreels to Germans saying,
+[01:34:38.360 --> 01:34:45.360]   "We have stood up and we are fighting back after the Poles attacked our base at Gleiwitz."
+[01:34:45.360 --> 01:34:49.360]   The truth is, he'd had German troops attack their own base
+[01:34:49.360 --> 01:34:55.360]   and then shoot film of it in Operation Hemler, which is declassified, to blame the Poles.
+[01:34:55.360 --> 01:35:00.360]   So he was telling Germans, "We have smashed into them because they attacked us.
+[01:35:00.360 --> 01:35:02.360]   Poland has attacked us."
+[01:35:02.360 --> 01:35:05.360]   But they were broadcasting into Poland, "You are not under assault.
+[01:35:05.360 --> 01:35:07.360]   No one is attacking you."
+[01:35:07.360 --> 01:35:11.360]   Same thing, "There is no caravan. There is no world government.
+[01:35:11.360 --> 01:35:14.360]   Islam is peaceful. Lay down your firearms.
+[01:35:14.360 --> 01:35:16.360]   No one wants your guns, but we're going to ban them."
+[01:35:16.360 --> 01:35:19.360]   This is a tactic.
+[01:35:19.360 --> 01:35:21.360]   That doesn't make sense.
+[01:35:21.360 --> 01:35:25.360]   It would discredit those that are telling the lie, that they say there is no caravan,
+[01:35:25.360 --> 01:35:28.360]   but it smashes through Mexico, smashes through here.
+[01:35:28.360 --> 01:35:30.360]   It's child smuggling on record.
+[01:35:30.360 --> 01:35:32.360]   That's because you're informed.
+[01:35:32.360 --> 01:35:34.360]   They're targeting people that don't pay attention.
+[01:35:34.360 --> 01:35:37.360]   I was reading some of the writings of Joseph Goebbels,
+[01:35:37.360 --> 01:35:40.360]   the Nazi propaganda minister to understand evil.
+[01:35:40.360 --> 01:35:43.360]   He was telling German propagandists, he said,
+[01:35:43.360 --> 01:35:47.360]   "Stop giving them big complex reasons.
+[01:35:47.360 --> 01:35:50.360]   People just want to be lazy.
+[01:35:50.360 --> 01:35:53.360]   Give them an excuse not to believe.
+[01:35:53.360 --> 01:35:56.360]   It doesn't matter if it can be disproven.
+[01:35:56.360 --> 01:35:59.360]   Appeal to authority. Just have it everywhere."
+[01:35:59.360 --> 01:36:02.360]   So when bombs were dropping all over Germany,
+[01:36:02.360 --> 01:36:04.360]   and they were starting to lose the war,
+[01:36:04.360 --> 01:36:08.360]   they would go on air, and if, say, 10,000 homes got burned up in a night,
+[01:36:08.360 --> 01:36:11.360]   they'd say two bombs fell and burned five houses.
+[01:36:11.360 --> 01:36:15.360]   And you go, "That doesn't make sense.
+[01:36:15.360 --> 01:36:18.360]   If you're in a town and a third of the city just burned down overnight
+[01:36:18.360 --> 01:36:26.360]   because 1,000 Lancaster British bombers and US B-17s
+[01:36:26.360 --> 01:36:31.360]   just dropped 100,000, 200,000 firebombs on your ass,
+[01:36:31.360 --> 01:36:36.360]   why would the Nazis go on radio and they had newsreels every day?
+[01:36:36.360 --> 01:36:38.360]   It was free. You'd go into theaters everywhere.
+[01:36:38.360 --> 01:36:40.360]   They didn't have TV, and they'd have a newsreel.
+[01:36:40.360 --> 01:36:43.360]   You'd just step in and watch it.
+[01:36:43.360 --> 01:36:46.360]   They didn't have TV yet, but they had that.
+[01:36:46.360 --> 01:36:50.360]   Limited homes had TV, but I'm digressing off into history.
+[01:36:50.360 --> 01:36:51.360]   It doesn't make sense.
+[01:36:51.360 --> 01:36:53.360]   Whole cities are getting burned down.
+[01:36:53.360 --> 01:36:56.360]   Why would you say it didn't happen?
+[01:36:56.360 --> 01:37:00.360]   Because then it would make the debate about people arguing that the city was burned down
+[01:37:00.360 --> 01:37:03.360]   instead of the city was burned down.
+[01:37:03.360 --> 01:37:04.360]   You see?
+[01:37:04.360 --> 01:37:09.360]   It would make the debate about, okay, Acosta chops her hand,
+[01:37:09.360 --> 01:37:11.360]   grabs the mic, pulls it back.
+[01:37:11.360 --> 01:37:12.360]   We just zoom in on the video.
+[01:37:12.360 --> 01:37:14.360]   Everybody sees the video.
+[01:37:14.360 --> 01:37:16.360]   Everybody sees it's not edited.
+[01:37:16.360 --> 01:37:18.360]   But say we edited it.
+[01:37:18.360 --> 01:37:22.360]   Say we sped it up, which we didn't, even though the video is the same length,
+[01:37:22.360 --> 01:37:27.360]   and make the debate about did we edit it.
+[01:37:27.360 --> 01:37:30.360]   See, now you're not talking about Acosta asking three, four questions,
+[01:37:30.360 --> 01:37:32.360]   not shutting up after the third,
+[01:37:32.360 --> 01:37:35.360]   pushing her hand down, grabbing the mic back, saying he didn't touch her.
+[01:37:35.360 --> 01:37:39.360]   What do you do when he's done that?
+[01:37:39.360 --> 01:37:45.360]   You simply say Alex Jones and Donald Trump are liars.
+[01:37:45.360 --> 01:37:47.360]   Acosta didn't touch her.
+[01:37:47.360 --> 01:37:49.360]   That's a fake video.
+[01:37:49.360 --> 01:37:56.360]   And everybody has a national debate for five days about whether it happened or not.
+[01:37:56.360 --> 01:37:58.360]   And you're like, that doesn't make sense.
+[01:37:58.360 --> 01:37:59.360]   Yes, it does.
+[01:37:59.360 --> 01:38:07.360]   If you're trying to deceive people, think about how smart that is.
+[01:38:07.360 --> 01:38:09.360]   Think about how smart that is.
+[01:38:09.360 --> 01:38:13.360]   Instead of having a debate about Acosta not shutting up, always heckling,
+[01:38:13.360 --> 01:38:15.360]   always asking three, four more questions,
+[01:38:15.360 --> 01:38:17.360]   you just change it and say it didn't happen,
+[01:38:17.360 --> 01:38:20.360]   and the debate happens about whether it happened or not.
+[01:38:20.360 --> 01:38:23.360]   By the way, I love our audience.
+[01:38:23.360 --> 01:38:27.360]   But we've got 20-something phone lines,
+[01:38:27.360 --> 01:38:29.360]   and we've got one person that's answering the phones.
+[01:38:29.360 --> 01:38:35.360]   And I said, "Military or ICE, to give us your take on the border,"
+[01:38:35.360 --> 01:38:38.360]   and the phone's all loaded up, and it's all regular listeners.
+[01:38:38.360 --> 01:38:39.360]   We won't give their opinion.
+[01:38:39.360 --> 01:38:41.360]   So we're not going to have any calls, and that's okay.
+[01:38:41.360 --> 01:38:44.360]   But I wanted to hear from ICE.
+[01:38:44.360 --> 01:38:45.360]   I wanted to hear from the military.
+[01:38:45.360 --> 01:38:49.360]   I wanted to hear specifically on people what you think of the invasion
+[01:38:49.360 --> 01:38:51.360]   and the fact that they said this caravan wasn't coming,
+[01:38:51.360 --> 01:38:53.360]   and now it just slammed over the U.S. border.
+[01:38:53.360 --> 01:38:56.360]   I don't know why they're not talking about the fact that a couple hundred got over
+[01:38:56.360 --> 01:38:59.360]   because they don't want to encourage people to know they're going to now get asylum,
+[01:38:59.360 --> 01:39:00.360]   basically, because of the liberal judges.
+[01:39:00.360 --> 01:39:03.360]   But they've already run over the Mexican police.
+[01:39:03.360 --> 01:39:08.360]   They've run over everybody else, and more are coming, and this is a national crisis.
+[01:39:08.360 --> 01:39:14.360]   So let me just, in general, give the number out only for police or military
+[01:39:14.360 --> 01:39:17.360]   to give your take on this and how serious this is
+[01:39:17.360 --> 01:39:19.360]   and how existential it is to the nation's future.
+[01:39:19.360 --> 01:39:21.360]   Or am I wrong?
+[01:39:21.360 --> 01:39:23.360]   Maybe the footage we're showing is fake if you're a TV viewer.
+[01:39:23.360 --> 01:39:28.360]   Maybe it's not over local news that this all just happened, people waving foreign flags.
+[01:39:28.360 --> 01:39:34.360]   No, it did happen, and I can't believe that we still have CNN saying nothing happened.
+[01:39:34.360 --> 01:39:38.360]   How insulting is this?
+[01:39:38.360 --> 01:39:44.360]   So the number again is 877-789-ALEX, 877-789-2539.
+[01:39:44.360 --> 01:39:47.360]   We'll take a few calls on the other side if they're able to get through.
+[01:39:47.360 --> 01:39:54.360]   But 877-789-ALEX, I specifically want to get military view on this,
+[01:39:54.360 --> 01:39:59.360]   or even if you're not on the border, that's a very limited group working right now, ICE, or former ICE.
+[01:39:59.360 --> 01:40:02.360]   Just your take on--you saw Europe overrun by the globalists.
+[01:40:02.360 --> 01:40:06.360]   You saw them six years ago break down the borders.
+[01:40:06.360 --> 01:40:08.360]   In fact, roll for TV viewers.
+[01:40:08.360 --> 01:40:13.360]   You know, some of the B-roll the last six years of just fences being climbed over and rammed down,
+[01:40:13.360 --> 01:40:15.360]   the same stuff we just saw.
+[01:40:15.360 --> 01:40:22.360]   And then once that happens, then they build the U.N. center in your country, and then it's all over.
+[01:40:22.360 --> 01:40:24.360]   This is footage three weeks ago in Mexico.
+[01:40:24.360 --> 01:40:25.360]   We told you they were coming.
+[01:40:25.360 --> 01:40:27.360]   The media said it didn't exist.
+[01:40:27.360 --> 01:40:28.360]   How crazy is that?
+[01:40:28.360 --> 01:40:33.360]   Now it's here, and now 50-plus thousand more are massing.
+[01:40:33.360 --> 01:40:36.360]   And now you know kids are going to get hurt in this, and they're going to blame America.
+[01:40:36.360 --> 01:40:37.360]   They're going to blame Trump.
+[01:40:37.360 --> 01:40:39.360]   And there they are waving foreign flags.
+[01:40:39.360 --> 01:40:44.360]   There they are burning American flags.
+[01:40:44.360 --> 01:40:48.360]   The same playbook for Europe is now being played against us right now.
+[01:40:48.360 --> 01:40:51.360]   877-789-2539.
+[01:40:51.360 --> 01:40:55.360]   And tomorrow I'll be on from 11 a.m. to 3 p.m. covering this.
+[01:40:55.360 --> 01:40:59.360]   You better believe David Knight with the David Knight Show, 8 a.m. tomorrow with his syndicated radio TV show,
+[01:40:59.360 --> 01:41:01.360]   is going to be knocking out of the park.
+[01:41:01.360 --> 01:41:03.360]   And why are they trying to censor us?
+[01:41:03.360 --> 01:41:06.360]   Why are they trying to block us?
+[01:41:06.360 --> 01:41:09.360]   Because we're loyal Americans.
+[01:41:09.360 --> 01:41:11.360]   Because we know the program.
+[01:41:11.360 --> 01:41:14.360]   We know the operation.
+[01:41:14.360 --> 01:41:22.360]   And it's insulting to us to see Soros, Ed Devo, saying, "I'm funding Zodiac boats out of North Africa, 100-plus a day.
+[01:41:22.360 --> 01:41:24.360]   I'm funding the collapse of the world.
+[01:41:24.360 --> 01:41:25.360]   I'm bringing in the third world.
+[01:41:25.360 --> 01:41:26.360]   We're going to control these people.
+[01:41:26.360 --> 01:41:27.360]   They won't be able to get jobs.
+[01:41:27.360 --> 01:41:29.360]   We'll run them."
+[01:41:29.360 --> 01:41:32.360]   America or Europe gets out of line, they'll burn down every city.
+[01:41:32.360 --> 01:41:36.360]   And now he's in a hostile takeover of Facebook that could bring down the whole damn stock market.
+[01:41:36.360 --> 01:41:42.360]   George Soros is now shorting the U.S. stock market to try to destroy it like Bill Maher said.
+[01:41:42.360 --> 01:41:44.360]   Let's crash the stock market to kick Trump out.
+[01:41:44.360 --> 01:41:46.360]   And then he's the bad guy.
+[01:41:46.360 --> 01:41:48.360]   Trump's the bad guy.
+[01:41:48.360 --> 01:41:54.360]   For being a good person that actually is being pragmatic and standing up for everybody.
+[01:41:54.360 --> 01:41:56.360]   This is so sick.
+[01:41:56.360 --> 01:41:58.360]   I'm going to go to Brett and come back with your calls.
+[01:41:58.360 --> 01:42:02.360]   Please don't forget that we've had the biggest sale in our history.
+[01:42:02.360 --> 01:42:04.360]   You notice we've just escalated the sales towards the end of the year.
+[01:42:04.360 --> 01:42:06.360]   Because they're trying to take our payment process, they're trying to shut us down.
+[01:42:06.360 --> 01:42:09.360]   We need to fund ourselves into the new year regardless of what happens.
+[01:42:09.360 --> 01:42:12.360]   So we're selling many products at cost.
+[01:42:12.360 --> 01:42:16.360]   We're also helping out other partners like Alexa Pure Breeze, Alexa Pure Pro,
+[01:42:16.360 --> 01:42:19.360]   the very best air and water filtration systems out there.
+[01:42:19.360 --> 01:42:21.360]   Gravity Fed, Stainless Steel, amazing.
+[01:42:21.360 --> 01:42:24.360]   The water filtration, $127.
+[01:42:24.360 --> 01:42:27.360]   They're selling it to us at cost for like 90-something bucks.
+[01:42:27.360 --> 01:42:29.360]   We make like 30-something bucks.
+[01:42:29.360 --> 01:42:30.360]   No one's ever had a deal like this.
+[01:42:30.360 --> 01:42:31.360]   It's so amazing.
+[01:42:31.360 --> 01:42:32.360]   Get it today.
+[01:42:32.360 --> 01:42:36.360]   We've got to end this sale in the next few days because they only had a few thousand at that price.
+[01:42:36.360 --> 01:42:41.360]   And whether it's high quality, non-GMO, organic coffee, Wake Up America coffee,
+[01:42:41.360 --> 01:42:45.360]   whether it's apparel, whether it's books, videos, double Patriot points,
+[01:42:45.360 --> 01:42:48.360]   10% on each order towards your next order, free shipping storewide,
+[01:42:48.360 --> 01:42:51.360]   and 50% to 75% off at infowarsstore.com.
+[01:42:51.360 --> 01:42:52.360]   Our biggest sale ever.
+[01:42:52.360 --> 01:42:53.360]   Please support us.
+[01:42:53.360 --> 01:42:54.360]   We need your support.
+[01:42:54.360 --> 01:42:59.360]   The globalists know that if they suppress the good halogen
+[01:42:59.360 --> 01:43:02.360]   and pump the environment full of the bad halogens,
+[01:43:02.360 --> 01:43:04.360]   fluoride, chlorine, bromine, you name it,
+[01:43:04.360 --> 01:43:06.360]   that it lowers IQ.
+[01:43:06.360 --> 01:43:08.360]   It literally dumbs the population down.
+[01:43:08.360 --> 01:43:12.360]   And on our quest to bring our listeners and viewers the best iodine in the world,
+[01:43:12.360 --> 01:43:15.360]   we've gone through two permutations.
+[01:43:15.360 --> 01:43:19.360]   First, seaweed-based iodine that was pretty good but hard to source,
+[01:43:19.360 --> 01:43:21.360]   and the globalists tried to block us getting a supply of it.
+[01:43:21.360 --> 01:43:25.360]   So we discovered deep earth crystals of pure nascent iodine
+[01:43:25.360 --> 01:43:27.360]   and brought you X2 that's been incredible.
+[01:43:27.360 --> 01:43:30.360]   Now, due to the establishment trying to block that,
+[01:43:30.360 --> 01:43:35.360]   we did more research and secured more of the deep earth crystals of nascent iodine.
+[01:43:35.360 --> 01:43:38.360]   But chemists, scientists, and others showed us the research
+[01:43:38.360 --> 01:43:41.360]   that by combining it with three other compounds,
+[01:43:41.360 --> 01:43:43.360]   two forms of iodine and vitamin C,
+[01:43:43.360 --> 01:43:49.360]   it supercharges it and makes it even more bioavailable.
+[01:43:49.360 --> 01:43:51.360]   Ladies and gentlemen, you want to research it, you want to see it,
+[01:43:51.360 --> 01:43:53.360]   it's an incredible discovery.
+[01:43:53.360 --> 01:43:56.360]   X3, now available at infowarslife.com.
+[01:43:56.360 --> 01:44:00.360]   We all know that the outside toxins in the water is a serious health issue.
+[01:44:00.360 --> 01:44:03.360]   Infowars is proud to sell incredible filters,
+[01:44:03.360 --> 01:44:07.360]   but it's almost impossible to keep up with every faucet, shower, and sink in your home.
+[01:44:07.360 --> 01:44:12.360]   That's why we're bringing you something to provide clean water for your whole house with one system.
+[01:44:12.360 --> 01:44:16.360]   The ProPure Whole House Water Filtration System is an advanced,
+[01:44:16.360 --> 01:44:22.360]   four-stage, compact filtration system that will provide water filtration for your entire home,
+[01:44:22.360 --> 01:44:25.360]   removing 220-plus contaminants from your water.
+[01:44:25.360 --> 01:44:29.360]   It's compact in size, easy to install and maintain,
+[01:44:29.360 --> 01:44:33.360]   and keeps fluoride and other dangerous toxins out of your water supply
+[01:44:33.360 --> 01:44:35.360]   and away from you and your family.
+[01:44:35.360 --> 01:44:38.360]   With its broad-spectrum contaminant reduction,
+[01:44:38.360 --> 01:44:43.360]   you'll only need this one filter for clean and refreshing water all over your home.
+[01:44:43.360 --> 01:44:45.360]   Head to infowarsstore.com,
+[01:44:45.360 --> 01:44:48.360]   and whether it's your first water filtration purchase
+[01:44:48.360 --> 01:44:50.360]   or you're looking to replace your current rundown systems,
+[01:44:50.360 --> 01:44:56.360]   it's time to go big and go home with the ProPure Whole House Filtration System today.
+[01:44:56.360 --> 01:45:01.360]   Infowars Life is bringing you a breakthrough in modern medicine.
+[01:45:01.360 --> 01:45:03.360]   Introducing Pollen Block.
+[01:45:03.360 --> 01:45:08.360]   We have found an extraordinary new, natural way to alleviate seasonal distress symptoms,
+[01:45:08.360 --> 01:45:15.360]   including promoting clear nasal and sinus passageways, eye comfort, and respiratory function.
+[01:45:15.360 --> 01:45:20.360]   In the 1960s, researchers in France noticed that people who ate certain quail eggs
+[01:45:20.360 --> 01:45:24.360]   experienced less seasonal immune and inflammatory responses.
+[01:45:24.360 --> 01:45:27.360]   They began studying this effect in published trials,
+[01:45:27.360 --> 01:45:30.360]   and decades later, we now have the fruit of this research,
+[01:45:30.360 --> 01:45:35.360]   a fast-acting, chewable tablet that helps alleviate seasonal distress symptoms.
+[01:45:35.360 --> 01:45:38.360]   Pollen Block is natural and effective.
+[01:45:38.360 --> 01:45:40.360]   It is not an antihistamine.
+[01:45:40.360 --> 01:45:44.360]   In fact, current research has found that it actually acts by blocking the activity of tryptase,
+[01:45:44.360 --> 01:45:49.360]   which is an enzyme that amplifies immune and inflammatory responses in the body.
+[01:45:49.360 --> 01:45:52.360]   Go outside and enjoy the air you breathe.
+[01:45:52.360 --> 01:45:57.360]   Head to infowarslife.com and grab a pack of our Pollen Block chewable tablets.
+[01:45:57.360 --> 01:46:05.360]   Monday through next Sunday, we are bringing back the biggest sales in our history.
+[01:46:05.360 --> 01:46:09.360]   Black Friday Infowars store sale, free shipping and double Patriot points.
+[01:46:09.360 --> 01:46:13.360]   Up to 50% off on storable food, super high quality.
+[01:46:13.360 --> 01:46:15.360]   That is huge.
+[01:46:15.360 --> 01:46:19.360]   All Infowars Life supplements, 50% off.
+[01:46:19.360 --> 01:46:27.360]   127 or 49% off Alexa Pure Pro gravity-fed filters, Alexa Pure Breeze, air filtration.
+[01:46:27.360 --> 01:46:30.360]   Now at 40% off. That's right at Lost Leader.
+[01:46:30.360 --> 01:46:33.360]   Again, to get rid of inventory. So take advantage of that. It's an amazing system.
+[01:46:33.360 --> 01:46:36.360]   They're trying to shut down Infowars. They're trying to defund us.
+[01:46:36.360 --> 01:46:39.360]   So I said, "Everything must go by the end of the year
+[01:46:39.360 --> 01:46:43.360]   so that we at least have the cash to continue operating for a while."
+[01:46:43.360 --> 01:46:48.360]   Infowarsstore.com, infowarslife.com or 888-253-3139.
+[01:46:48.360 --> 01:46:50.360]   Support the InfoWars. Get great products.
+[01:46:50.360 --> 01:46:53.360]   Get your Christmas shopping done early and battle the globalists.
+[01:46:53.360 --> 01:46:56.360]   A total 360 win at infowarsstore.com.
+[01:46:56.360 --> 01:46:58.360]   I want to thank you all for your support.
+[01:46:58.360 --> 01:47:04.360]   You're listening to The Alex Jones Show.
+[01:47:05.360 --> 01:47:08.360]   [music]
+[01:47:09.360 --> 01:47:12.360]   [music]
+[01:47:36.360 --> 01:47:38.360]   You are receiving this transmission.
+[01:47:38.360 --> 01:47:40.360]   You are the resistance.
+[01:47:40.360 --> 01:47:47.360]   Live from Austin, Texas, broadcasting worldwide, it's Alex Jones.
+[01:47:47.360 --> 01:47:50.360]   You know, I'm mad at myself right now
+[01:47:50.360 --> 01:47:54.360]   because I don't have words to describe
+[01:47:54.360 --> 01:47:58.360]   how insane it is
+[01:47:58.360 --> 01:48:02.360]   that they are massing tens of thousands of illegal aliens funded by the UN
+[01:48:02.360 --> 01:48:06.360]   and George Soros and our media is there lying about saying it didn't exist.
+[01:48:06.360 --> 01:48:09.360]   And now they just slammed in with rocks and clubs, attacking the Border Patrol,
+[01:48:09.360 --> 01:48:14.360]   overrunning Mexican military in the no-man's zone, and now some got over.
+[01:48:14.360 --> 01:48:19.360]   And there's almost no coverage of this anywhere.
+[01:48:19.360 --> 01:48:25.360]   And it comes out Soros is involved in a hostile takeover of Facebook.
+[01:48:25.360 --> 01:48:30.360]   But it's okay because he's a Nazi collaborator and he's saying Zuckerberg's a Nazi.
+[01:48:31.360 --> 01:48:36.360]   This is like Monty Python humor, if it wasn't so crazy.
+[01:48:36.360 --> 01:48:42.360]   Now, a lot of times I open the number of the phones for military or police,
+[01:48:42.360 --> 01:48:45.360]   specifically on a mission, and we even get a lot of calls on it.
+[01:48:45.360 --> 01:48:48.360]   And we've had a lot of callers call in who have opinions, obviously,
+[01:48:48.360 --> 01:48:51.360]   which we care about and want to hear from, but I want to hear from military,
+[01:48:51.360 --> 01:48:53.360]   being deployed or about to be deployed to the border,
+[01:48:53.360 --> 01:48:57.360]   and not any secret stuff, but basically what they think of this as citizens
+[01:48:57.360 --> 01:49:02.360]   watching this, knowing it's UN-funded, knowing the media said,
+[01:49:02.360 --> 01:49:06.360]   first we must accept it, no borders, no walls, no USA at all.
+[01:49:06.360 --> 01:49:09.360]   It's a Democrat slogan. America was never great, it'll never be great.
+[01:49:09.360 --> 01:49:11.360]   That's the governor of New York.
+[01:49:11.360 --> 01:49:15.360]   I mean, when I say Democrats aren't Americans, folks, they're globalists.
+[01:49:15.360 --> 01:49:20.360]   They've signed on with the Chi-Coms and the EU and Apple and Tim Cook, man.
+[01:49:20.360 --> 01:49:25.360]   Willen is in the military. We're not going to say from where.
+[01:49:25.360 --> 01:49:27.360]   He told us where, but I'm not going to even say where.
+[01:49:27.360 --> 01:49:31.360]   He's being deployed tomorrow to the California border,
+[01:49:31.360 --> 01:49:32.360]   and he's going to give us his take on this.
+[01:49:32.360 --> 01:49:35.360]   Willen, calling in from a great state, I'll just leave it at that.
+[01:49:35.360 --> 01:49:38.360]   What is your view on this?
+[01:49:38.360 --> 01:49:41.360]   And then the propaganda of saying it doesn't exist.
+[01:49:41.360 --> 01:49:45.360]   Well, Alex, for one thing, nobody's getting the whole story
+[01:49:45.360 --> 01:49:46.360]   of what's really going on.
+[01:49:46.360 --> 01:49:50.360]   Our intel is that there's millions coming. That's our intel.
+[01:49:51.360 --> 01:49:56.360]   And one of the things that I've always feared is our border getting rushed like it is.
+[01:49:56.360 --> 01:50:00.360]   And they're not just massing from down there in Honduras.
+[01:50:00.360 --> 01:50:04.360]   They're coming from Chile, they're coming from Brazil,
+[01:50:04.360 --> 01:50:06.360]   they're coming from all over in South America.
+[01:50:06.360 --> 01:50:10.360]   And our intel is that there's people down there on the ground
+[01:50:10.360 --> 01:50:13.360]   telling them to get here because they're going to get a free ride.
+[01:50:13.360 --> 01:50:20.360]   And I don't know why the president is not doing something bigger.
+[01:50:20.360 --> 01:50:24.360]   He's sending us down there to put a patch on things.
+[01:50:24.360 --> 01:50:27.360]   What's getting ready to come to this country is going to be unbelievable.
+[01:50:27.360 --> 01:50:31.360]   If it gets together, if it gets very organized,
+[01:50:31.360 --> 01:50:34.360]   right now you're just seeing the beginning of things.
+[01:50:34.360 --> 01:50:38.360]   Just wait. If this thing gets very organized,
+[01:50:38.360 --> 01:50:41.360]   we're going to have a lot bigger trouble than what we've got going on right now.
+[01:50:41.360 --> 01:50:43.360]   But Willen, let me say something.
+[01:50:43.360 --> 01:50:47.360]   Your intel that you're being given by your people is 100% on target.
+[01:50:48.360 --> 01:50:51.360]   The UN is on record funding it with taxpayer money.
+[01:50:51.360 --> 01:50:53.360]   Trump is trying to move to cut the money off.
+[01:50:53.360 --> 01:50:55.360]   But it's in the news today.
+[01:50:55.360 --> 01:50:58.360]   He has all these traders in the State Department ignoring his orders.
+[01:50:58.360 --> 01:51:01.360]   Basically a stay-behind network is what I call it.
+[01:51:01.360 --> 01:51:07.360]   The headline is Trump advisors report embedded enemies trying to undermine president.
+[01:51:07.360 --> 01:51:12.360]   So I'll start using the president's term of embedded deep staters, Democrats.
+[01:51:12.360 --> 01:51:15.360]   But the CIA term is stay-behind network.
+[01:51:16.360 --> 01:51:18.360]   So I'm using the technical term that the enemy is using,
+[01:51:18.360 --> 01:51:22.360]   but I'll use the president's term from this point forward, embedded enemies.
+[01:51:22.360 --> 01:51:26.360]   I mean, the president, I'm just going to leave it at that.
+[01:51:26.360 --> 01:51:31.360]   So the point is that this is millions.
+[01:51:31.360 --> 01:51:33.360]   They did this six years ago in Europe.
+[01:51:33.360 --> 01:51:35.360]   It became 15 million at least military age men.
+[01:51:35.360 --> 01:51:38.360]   And you're right. Millions are being masked.
+[01:51:38.360 --> 01:51:41.360]   This is just the vanguard test for PR.
+[01:51:41.360 --> 01:51:45.360]   Because when the real group of hundreds of thousands of males at a time hit,
+[01:51:45.360 --> 01:51:46.360]   it's going to be very violent.
+[01:51:46.360 --> 01:51:51.360]   So these are more the PR groups with a few women and kids in so they can script it.
+[01:51:51.360 --> 01:51:52.360]   So this is just the test.
+[01:51:52.360 --> 01:51:55.360]   So this is a probe, completely a probe.
+[01:51:55.360 --> 01:52:04.360]   And again, this was an old plan of the weatherman that the Republicans learned about in the 80s.
+[01:52:04.360 --> 01:52:08.360]   To actually, if they could make Latin America go communist,
+[01:52:08.360 --> 01:52:12.360]   they were going to then build refugee camps after they collapsed the countries under communism,
+[01:52:12.360 --> 01:52:13.360]   which they've now done like Venezuela.
+[01:52:13.360 --> 01:52:18.360]   And then rush the U.S. border and use the humanitarian crisis,
+[01:52:18.360 --> 01:52:21.360]   claiming the U.S. military was abusing the invaders.
+[01:52:21.360 --> 01:52:24.360]   A lot of them are military men who are meant to stir up trouble.
+[01:52:24.360 --> 01:52:25.360]   That's already been confirmed.
+[01:52:25.360 --> 01:52:29.360]   And then they think that will cause an uprising and a civil rights revolution in America.
+[01:52:29.360 --> 01:52:32.360]   Well, you now see all that pre-programming ready.
+[01:52:32.360 --> 01:52:34.360]   So whatever you're being told is dead on.
+[01:52:34.360 --> 01:52:39.360]   Without getting into any classified briefings, I mean, what else are you guys being told?
+[01:52:40.360 --> 01:52:43.360]   Well, Alex, a lot of things you got good intel too.
+[01:52:43.360 --> 01:52:46.360]   Just about everything you've been saying is what we've been hearing.
+[01:52:46.360 --> 01:52:53.360]   Except for we, there's more deeper stuff that we can't get, I can't get into on the air because I blow my cover.
+[01:52:53.360 --> 01:52:56.360]   But one thing I will say to the American people,
+[01:52:56.360 --> 01:53:01.360]   if these people finally get together where they need to go,
+[01:53:01.360 --> 01:53:04.360]   and they get lined up, and they get shipped up here,
+[01:53:04.360 --> 01:53:06.360]   it's going to be chaos.
+[01:53:06.360 --> 01:53:09.360]   And you can't just fire on these people because they're unarmed.
+[01:53:09.360 --> 01:53:14.360]   And you know how the media is, even if they start throwing rocks at us and propelling us,
+[01:53:14.360 --> 01:53:16.360]   they'll show somebody that isn't.
+[01:53:16.360 --> 01:53:19.360]   And they'll say, "Look, they're killing unarmed people."
+[01:53:19.360 --> 01:53:25.360]   What the president needs to do, he needs to hold a national press conference and blow all this out of the water, and it will stop.
+[01:53:25.360 --> 01:53:29.360]   Because now, all the people that are on the fence,
+[01:53:29.360 --> 01:53:33.360]   and even moderate Democrats, if they would see what's going on,
+[01:53:33.360 --> 01:53:37.360]   and the president has a lawyer next to him, even with the molar probe,
+[01:53:37.360 --> 01:53:43.360]   if he has a guy going, the lawyer next to him, prime time, explaining everything that's going on,
+[01:53:43.360 --> 01:53:44.360]   the American people will wake up.
+[01:53:44.360 --> 01:53:49.360]   If he's trying to band-aid the stock market, it's going to collapse either tomorrow or next week.
+[01:53:49.360 --> 01:53:52.360]   As soon as these people arrest our country, our country's going to be gone.
+[01:53:52.360 --> 01:53:55.360]   Because then the stock market's going to be like, "Oh God, it's going to tank."
+[01:53:55.360 --> 01:53:59.360]   And by the way, you're getting some good intel there.
+[01:53:59.360 --> 01:54:02.360]   I don't think you just came up with that yourself, because that's something I mean,
+[01:54:02.360 --> 01:54:05.360]   Soros is shorting the whole stock market, not just Facebook right now.
+[01:54:06.360 --> 01:54:10.360]   And I'm getting chills. This is literally our country on its deathbed.
+[01:54:10.360 --> 01:54:13.360]   Trump was put in by patriots to try to stop this.
+[01:54:13.360 --> 01:54:16.360]   They're still going ahead with the plan to collapse our borders like Europe,
+[01:54:16.360 --> 01:54:21.360]   to tank the stock market so the globalists can buy it up for pennies on the dollar.
+[01:54:21.360 --> 01:54:25.360]   And I know what they're doing. They've got MS-13, they've got drugs, they're child smuggling.
+[01:54:25.360 --> 01:54:30.360]   This is criminals being organized as a secret army in Latin America.
+[01:54:30.360 --> 01:54:32.360]   Hell, it came out in congressional hearings in the '80s.
+[01:54:32.360 --> 01:54:34.360]   This was always the globalist plan.
+[01:54:34.360 --> 01:54:39.360]   And now they're actually going to try to play it, because they know, like you said,
+[01:54:39.360 --> 01:54:43.360]   they even had guns when they broke the Mexican border in Guatemala.
+[01:54:43.360 --> 01:54:44.360]   They were shooting police.
+[01:54:44.360 --> 01:54:47.360]   And they've arrested hundreds and hundreds of them for committing crimes.
+[01:54:47.360 --> 01:54:54.360]   They're going to have groups that will kill their own people once they crest.
+[01:54:54.360 --> 01:54:58.360]   I think in a couple weeks, there'll be 20,000, 30,000 or more in a couple weeks.
+[01:54:58.360 --> 01:55:01.360]   There's only 5,000 right now is the public number. You may know more.
+[01:55:01.360 --> 01:55:04.360]   They're hiding out waiting for orders. They admit they're coordinated.
+[01:55:04.360 --> 01:55:09.360]   And so once they're given the order to come in, then they have a few of their own people,
+[01:55:09.360 --> 01:55:14.360]   shoot a few people, and blame the U.S. military, and then the Democrats all punch the button
+[01:55:14.360 --> 01:55:17.360]   for nationwide riots, which they admit they're planning.
+[01:55:17.360 --> 01:55:19.360]   That's exactly right.
+[01:55:19.360 --> 01:55:24.360]   So I don't get to speak with the president because I'm low-level,
+[01:55:24.360 --> 01:55:27.360]   but I have friends in high places like you do, Alex.
+[01:55:27.360 --> 01:55:32.360]   And I tell you what, if the president--somebody needs to get a hold of the president
+[01:55:32.360 --> 01:55:40.360]   and tell him what's really going on, I think the people in his cabinet are like milk toasting what they're telling him.
+[01:55:40.360 --> 01:55:42.360]   That's confirmed.
+[01:55:42.360 --> 01:55:44.360]   Because I don't know what they're doing.
+[01:55:44.360 --> 01:55:48.360]   Once these people--we call it roaches. There's roaches all over the place.
+[01:55:48.360 --> 01:55:52.360]   Once they set the motel where it needs to be, they're going to flood that thing,
+[01:55:52.360 --> 01:55:54.360]   and that is our southern border.
+[01:55:54.360 --> 01:55:59.360]   And once they hit our southern border, we're talking millions and millions and millions of people.
+[01:55:59.360 --> 01:56:02.360]   And let's be clear, it's the U.N. playbook. We just saw it happen.
+[01:56:02.360 --> 01:56:08.360]   Trump advisers claim embedded enemies trying to undermine the president.
+[01:56:08.360 --> 01:56:11.360]   That's the hill. Infowars.com has it posted.
+[01:56:11.360 --> 01:56:14.360]   Trump wanted to order the Justice Department to prosecute Comey and Clinton.
+[01:56:14.360 --> 01:56:16.360]   They wouldn't even follow his orders.
+[01:56:16.360 --> 01:56:19.360]   This is their plan. They're making their move. It is insane.
+[01:56:19.360 --> 01:56:22.360]   And I wish we had more reporters. I've had reporters down there for a week.
+[01:56:22.360 --> 01:56:26.360]   We have very limited crew because of the financing, but we're going to try to send more people now.
+[01:56:26.360 --> 01:56:28.360]   Hell, I might just go to the border right now myself.
+[01:56:28.360 --> 01:56:31.360]   Because we've got to get down there.
+[01:56:31.360 --> 01:56:35.360]   We've got to document this, because this is the globalist move.
+[01:56:35.360 --> 01:56:40.360]   This is it. They want to PR condition us to accept people being let in.
+[01:56:40.360 --> 01:56:42.360]   And once we do that, it's over.
+[01:56:42.360 --> 01:56:46.360]   God bless you, Will, and be safe getting down there to California.
+[01:56:46.360 --> 01:56:48.360]   Okay, folks, I'm out of time.
+[01:56:48.360 --> 01:56:50.360]   David Knight's at 8 a.m. tomorrow. He'll be covering this.
+[01:56:50.360 --> 01:56:53.360]   I'll be back at 11 a.m. Owen Schroer at 3 p.m.
+[01:56:53.360 --> 01:56:59.360]   And they wanted to silence us off Facebook, YouTube, Twitter, everywhere, ahead of this attack.
+[01:56:59.360 --> 01:57:02.360]   This is it. Patriots knew it was coming.
+[01:57:02.360 --> 01:57:05.360]   We got Trump in to try to block it, but he's just one of us.
+[01:57:05.360 --> 01:57:07.360]   You can't expect him to do everything.
+[01:57:07.360 --> 01:57:09.360]   He is surrounded by cowards.
+[01:57:09.360 --> 01:57:14.360]   He's surrounded by yes-men that are covering their ass because they think America's weak.
+[01:57:14.360 --> 01:57:18.360]   They think we're going to fall, and they're all thinking about their Mercedes payment.
+[01:57:18.360 --> 01:57:20.360]   Trump isn't. He's all in. Pray for him.
+[01:57:20.360 --> 01:57:22.360]   I'm all in. Please pray for us.
+[01:57:22.360 --> 01:57:25.360]   And please support us and support our local stations.
+[01:57:25.360 --> 01:57:29.360]   And please spread the links and articles everywhere, because when you do that, you're unstoppable.
+[01:57:29.360 --> 01:57:32.360]   But we only got a beachhead when Trump got elected.
+[01:57:32.360 --> 01:57:34.360]   The real war is now.
+[01:57:34.360 --> 01:57:37.360]   America is under U.N. globalist attack.
+[01:57:37.360 --> 01:57:41.360]   We must cut the funding to the U.N. for USAID.
+[01:57:41.360 --> 01:57:46.360]   This is all run by taxpayer money, by Obama stay-behind groups in the State Department.
+[01:57:47.360 --> 01:57:52.360]   You deserve a deep, restful sleep with Knockout by InfoWars Life.
+[01:57:52.360 --> 01:57:56.360]   Our organic formula is made from high-quality, natural ingredients,
+[01:57:56.360 --> 01:58:03.360]   such as valerian root extract, L-tryptophan, lemon balm leaf extract, and melatonin.
+[01:58:03.360 --> 01:58:08.360]   Knockout packs a powerful punch to get you through the night and achieve proper sleep.
+[01:58:08.360 --> 01:58:12.360]   Millions of people around the world experience daytime drowsiness,
+[01:58:12.360 --> 01:58:16.360]   but with the rapid speed of life, we need to be able to keep up the pace.
+[01:58:16.360 --> 01:58:20.360]   Our natural mixture harnesses the power of 10 known ingredients
+[01:58:20.360 --> 01:58:24.360]   to let your body relax and get the sleep you need.
+[01:58:24.360 --> 01:58:26.360]   Wake up refreshed and take on the day.
+[01:58:26.360 --> 01:58:30.360]   InfoWars Life wants to bring you a sleep support formula
+[01:58:30.360 --> 01:58:34.360]   that goes above and beyond other leading brands at an affordable price.
+[01:58:34.360 --> 01:58:38.360]   Get the sleep you deserve and experience the power of Knockout.
+[01:58:38.360 --> 01:58:42.360]   Head on over to InfoWarsLife.com and say goodbye to fatigue.
+[01:58:42.360 --> 01:58:45.360]   That's InfoWarsLife.com.
+[01:58:47.360 --> 01:58:50.360]   Our grandparents, our great-grandparents knew that they canned food.
+[01:58:50.360 --> 01:58:53.360]   During the fall, so they'd have it during the winter.
+[01:58:53.360 --> 01:58:56.360]   And that's what I'm talking about at InfoWarsTour.com.
+[01:58:56.360 --> 01:59:01.360]   With InfoWars Select, it's the full spectrum of my patron's supply,
+[01:59:01.360 --> 01:59:04.360]   one of the top, most respected companies out there.
+[01:59:04.360 --> 01:59:09.360]   But because I private label it, I'm able to go below cost on contracts
+[01:59:09.360 --> 01:59:11.360]   that all their other distributors aren't able to do.
+[01:59:11.360 --> 01:59:15.360]   But I want to be a market leader, and I want you to have storable food,
+[01:59:15.360 --> 01:59:17.360]   so it's a total win-win.
+[01:59:17.360 --> 01:59:19.360]   We have those incredible sell prices back.
+[01:59:19.360 --> 01:59:22.360]   InfoWarsTour.com on InfoWars Select storable foods.
+[01:59:22.360 --> 01:59:24.360]   They've got special diet foods.
+[01:59:24.360 --> 01:59:28.360]   They've got three-month supplies, year supplies, week emergency supplies.
+[01:59:28.360 --> 01:59:30.360]   They've got so many great products there.
+[01:59:30.360 --> 01:59:32.360]   Maybe you've got a three-year supply.
+[01:59:32.360 --> 01:59:34.360]   If stuff happens, you can feed your whole block.
+[01:59:34.360 --> 01:59:36.360]   It's up to us to be self-sufficient.
+[01:59:36.360 --> 01:59:39.360]   You're buying War Bonds, bringing you great products,
+[01:59:39.360 --> 01:59:41.360]   and together, with God's help, we are unstoppable.
+[01:59:41.360 --> 01:59:44.360]   InfoWarsTour.com and InfoWars Select,
+[01:59:44.360 --> 01:59:47.360]   high-quality, storable foods powered by my patron's supply.
+[01:59:49.360 --> 01:59:53.360]   You're listening to The Alex Jones Show.
+[01:59:53.360 --> 01:59:55.360]   [music]
+
+
+whisper_print_timings:     load time =  2194.91 ms
+whisper_print_timings:      mel time = 32913.97 ms
+whisper_print_timings:   sample time = 11574.27 ms
+whisper_print_timings:   encode time = 13225415.00 ms / 413294.22 ms per layer
+whisper_print_timings:   decode time = 5628985.00 ms / 175905.78 ms per layer
+whisper_print_timings:    total time = 18901830.00 ms

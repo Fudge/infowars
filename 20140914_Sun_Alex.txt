@@ -1,0 +1,1547 @@
+whisper_model_load: loading model from 'whisper.cpp/models/ggml-large.bin'
+whisper_model_load: n_vocab       = 51865
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 80
+whisper_model_load: f16           = 1
+whisper_model_load: type          = 5
+whisper_model_load: adding 1608 extra tokens
+whisper_model_load: mem_required  = 4712.00 MB
+whisper_model_load: ggml ctx size = 2950.97 MB
+whisper_model_load: memory size   =  304.38 MB
+whisper_model_load: model size    = 2950.66 MB
+
+system_info: n_threads = 6 / 16 | AVX = 1 | AVX2 = 1 | AVX512 = 0 | NEON = 0 | F16C = 1 | FP16_VA = 0 | WASM_SIMD = 0 | BLAS = 0 |
+
+main: processing 'wav/20140914_Sun_Alex.wav' (115184536 samples, 7199.0 sec), 6 threads, 1 processors, lang = en, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:08.440]   I have sworn upon the altar of God eternal hostility against every form of
+[00:00:08.440 --> 00:00:15.800]   tyranny over the mind of man. Thomas Jefferson. It's Alex Jones on the GCN
+[00:00:15.800 --> 00:00:19.000]   radio network.
+[00:00:19.000 --> 00:00:29.520]   Welcome, welcome, welcome everyone out there listening to my voice. This is the
+[00:00:29.520 --> 00:00:33.320]   Alex Jones show. We're gonna be here live for the next two hours till 4 p.m.
+[00:00:33.320 --> 00:00:38.640]   Central. You can catch us every day during the week 11 a.m. to 2 p.m. Central
+[00:00:38.640 --> 00:00:43.400]   and it's the Alex Jones show. I'm your host Rob Doo and we've got quite a show
+[00:00:43.400 --> 00:00:48.240]   for you. Next segment we're gonna have Paul Watson coming in through Skype, the
+[00:00:48.240 --> 00:00:50.920]   magic of Skype from across the river. We're gonna be talking about Ebola. I
+[00:00:50.920 --> 00:00:55.640]   have a whole plethora of information on Ebola that we're gonna be covering from
+[00:00:55.640 --> 00:00:58.760]   the government's preparation that they're not telling you about to the
+[00:00:58.760 --> 00:01:02.800]   fact that they've known this thing can be airborne and for at least 25 years
+[00:01:02.800 --> 00:01:06.680]   they've known this and we're gonna go over all that coming up. We've got quite
+[00:01:06.680 --> 00:01:10.200]   a show for you. We're gonna be covering the latest ISIS news. If you don't know
+[00:01:10.200 --> 00:01:16.480]   that ISIS has released a third professional quality beheading video.
+[00:01:16.480 --> 00:01:22.040]   This guy's a Brit. We're gonna be covering that and what it means. They've
+[00:01:22.040 --> 00:01:26.920]   released tons of videos before of them capturing Syrians and Iraqis and cutting
+[00:01:26.920 --> 00:01:31.040]   their heads off and decapitating them but these videos that really don't show
+[00:01:31.040 --> 00:01:35.840]   any of the the brutal carnage of it seem to really hit home with the American
+[00:01:35.840 --> 00:01:39.760]   public and the government. There's the article today on Infowars.com. There's
+[00:01:39.760 --> 00:01:43.960]   yesterday video ISIS reportedly behead the British aid worker and then they
+[00:01:43.960 --> 00:01:49.180]   bring up another one saying they're gonna do him next. And Ebola news we have
+[00:01:49.180 --> 00:01:54.760]   four doctors now in the United States who are to have recovered. One's in
+[00:01:54.760 --> 00:01:59.400]   Atlanta. One's up in Nebraska. So they're importing this stuff everywhere just as
+[00:01:59.400 --> 00:02:03.560]   Alex Jones predicted. They're gonna be importing Ebola all into the United
+[00:02:03.560 --> 00:02:07.240]   States and they're literally flushing the waste down the toilet into the
+[00:02:07.240 --> 00:02:11.360]   public sewer system. We're gonna be going over that. In addition to ISIS we've got
+[00:02:11.360 --> 00:02:19.600]   a little bit of NFL news I might cover. We've got both sides of the aisle coming
+[00:02:19.600 --> 00:02:24.160]   back with ISIS saying we got to attack. We got to attack. So this is both sides
+[00:02:24.160 --> 00:02:29.360]   ramping up for war. You've got it in Britain. People who were normally for
+[00:02:29.360 --> 00:02:33.760]   individual sovereignty and freedom. People like Nigel Farage are now saying
+[00:02:33.760 --> 00:02:38.480]   we have to give up our liberty for security and that's gonna be the call as
+[00:02:38.480 --> 00:02:43.040]   we march towards this global new world order. Like I said I'm Rob Dues. This is my
+[00:02:43.040 --> 00:02:47.160]   first time to be hosting the show like this. I'm very honored to be doing it.
+[00:02:47.160 --> 00:02:52.240]   Just a quick quick bio about myself. I've always been a person that's like to look
+[00:02:52.240 --> 00:02:57.280]   behind the curtain. And back when I was in college I picked up these two books
+[00:02:57.280 --> 00:03:02.960]   here. One's None Dare Call a Conspiracy by Gary Allen and the other one is Who
+[00:03:02.960 --> 00:03:08.480]   Runs Congress and that was from the Ralph Nader Congress project. Both books
+[00:03:08.480 --> 00:03:13.160]   were instrumental in my waking up to what's really going on. Not the left
+[00:03:13.160 --> 00:03:17.120]   right paradigm that most people are caught in but to the global crime
+[00:03:17.120 --> 00:03:21.320]   syndicate and how it operates here in America and how it operates worldwide.
+[00:03:21.320 --> 00:03:25.800]   It's not just here that it's operating it's going all over the place. We're
+[00:03:25.800 --> 00:03:28.480]   gonna have quite a show for you today. Like I said Paul Watson is gonna be
+[00:03:28.480 --> 00:03:33.440]   coming up in the next hour and if anybody knows about Ebola and where it's
+[00:03:33.440 --> 00:03:38.360]   going it's Paul Watson. He's been on this since the beginning. We've been writing
+[00:03:38.360 --> 00:03:44.120]   articles about Ebola for a long time here at InfoWars.com trying to show the
+[00:03:44.120 --> 00:03:48.200]   progression of this. And one thing I want to I want to go to here in a second is
+[00:03:48.200 --> 00:03:53.600]   this video model that has been coming out that came out on the 10th of
+[00:03:53.600 --> 00:03:58.040]   September. There's a video model showing how it would spread and now they're
+[00:03:58.040 --> 00:04:01.760]   saying it's gonna kill about 5 million people. Well in this model and you guys
+[00:04:01.760 --> 00:04:05.920]   can bring it up anytime if you're watching on Prison Planet TV TV you can
+[00:04:05.920 --> 00:04:12.280]   see it it starts in Africa. When it comes over to the to our hemisphere it starts
+[00:04:12.280 --> 00:04:15.840]   in Cuba and it's interesting that Cuba has just sent a bunch of doctors to go
+[00:04:15.840 --> 00:04:20.640]   help and then it moves into Florida and then into the United States through
+[00:04:20.640 --> 00:04:25.280]   Miami. So that's very interesting how this model took into account all this
+[00:04:25.280 --> 00:04:30.360]   stuff and and it's really looking at it's pretty scary how this stuff is all
+[00:04:30.360 --> 00:04:35.200]   gonna spread. And we're gonna be right back one minute break I'm your host Rob
+[00:04:35.200 --> 00:04:38.800]   Doo we're gonna be back with Paul Joseph Watson talking about Ebola and a whole
+[00:04:38.800 --> 00:04:42.520]   host of issues that you should be concerned about. So call your friends get
+[00:04:42.520 --> 00:04:48.120]   ready strap yourselves in it's gonna be two more hours we'll be right back.
+[00:04:48.120 --> 00:05:03.320]   From the water table to our soils to the atmosphere itself our world is becoming
+[00:05:03.320 --> 00:05:07.240]   more and more toxic each and every day. But it's not just the air outside that's
+[00:05:07.240 --> 00:05:11.400]   toxic. Indoor air has been shown to have two to five times higher concentrations
+[00:05:11.400 --> 00:05:15.440]   of pollutants than even outdoor air. And most Americans spend 90% of their time
+[00:05:15.440 --> 00:05:19.520]   inside using toxic chemicals within their homes. There are more than 42
+[00:05:19.520 --> 00:05:23.600]   million smokers in the United States. Well over a thousand types of mold and
+[00:05:23.600 --> 00:05:27.600]   mildew linked to numerous conditions. And don't forget the fact that 6 million
+[00:05:27.600 --> 00:05:30.760]   Americans live with pets they're allergic to as well. When I began to
+[00:05:30.760 --> 00:05:34.840]   research these statistics it was clear to me it was time to start cleansing my
+[00:05:34.840 --> 00:05:39.000]   lungs in order to combat the toxic environment that we cannot escape but
+[00:05:39.000 --> 00:05:43.040]   we can fight back against. Made with organic and wild cultivated herbs and
+[00:05:43.040 --> 00:05:47.440]   manufactured in the USA. The new InfoWars Life Lung Cleanse is here in a
+[00:05:47.440 --> 00:05:50.640]   convenient spray bottle that can be brought with you throughout any toxic
+[00:05:50.640 --> 00:05:54.880]   environment. Now available exclusively at InfoWarsLife.com or by calling toll
+[00:05:54.880 --> 00:05:59.440]   free 888-253-3139.
+[00:06:03.040 --> 00:06:11.440]   Live from Austin Texas broadcasting worldwide it's Alex Jones.
+[00:06:27.760 --> 00:06:33.560]   We're back live on the Alex Jones show. We're gonna be here till 4 p.m. Central. You can
+[00:06:33.560 --> 00:06:37.680]   find us at InfoWars.com, PrisonPlanet.tv, InfoWars.com/show
+[00:06:37.680 --> 00:06:41.120]   if you want to watch our free live video feed. We're gonna have some video
+[00:06:41.120 --> 00:06:45.360]   clips here that you are gonna want to see if you are near a computer. Call your
+[00:06:45.360 --> 00:06:51.120]   friends let them know to tune in. And we have on the line via Skype over across
+[00:06:51.120 --> 00:06:55.920]   in England it's Paul Joseph Watson writer of PrisonPlanet.com, InfoWars.com
+[00:06:55.920 --> 00:07:01.920]   and somewhat of a video star now. He's making his own videos putting them out
+[00:07:01.920 --> 00:07:07.840]   there putting the information out there and let me tell you if the future is if
+[00:07:07.840 --> 00:07:12.480]   I can gain anything from watching my children they love to watch little
+[00:07:12.480 --> 00:07:16.680]   videos on YouTube. That is the way we're going to wake up a lot of people and my
+[00:07:16.680 --> 00:07:19.760]   kids bring me stuff all the time and show it to me because once you've been
+[00:07:19.760 --> 00:07:24.960]   planted the seeds of freedom and liberty there's no stopping it. That's all we
+[00:07:24.960 --> 00:07:28.480]   have to do is plant a seed that's our job here and that's what we do here. Paul
+[00:07:28.480 --> 00:07:33.000]   how you doing today? Good Rob good to be on the air with you today. All right well
+[00:07:33.000 --> 00:07:38.000]   let's get right into Ebola. We've got four doctors now killed in Sierra Leone
+[00:07:38.000 --> 00:07:43.200]   we've got four doctors that we brought here into the United States. Where's all
+[00:07:43.200 --> 00:07:49.040]   this going? Well it's it's going towards hopefully answering the question which
+[00:07:49.040 --> 00:07:53.280]   I've had since the very beginning when this started and when I started writing
+[00:07:53.280 --> 00:07:56.960]   articles and making videos about it which is why are all these health
+[00:07:56.960 --> 00:08:01.920]   workers being infected with Ebola? Of course we're told that this strain which
+[00:08:01.920 --> 00:08:08.240]   is a new strain of the virus can only be contracted by exchanging bodily fluids
+[00:08:08.240 --> 00:08:12.880]   so the health work is actually touching the bodily fluids of the Ebola victims.
+[00:08:12.880 --> 00:08:16.960]   Now you've seen the hazmat suits that they wear the precautions that they take
+[00:08:16.960 --> 00:08:21.480]   obviously they go to extreme measures to prevent that from happening not just the
+[00:08:21.480 --> 00:08:25.000]   doctors in Africa but the American doctors who have taken the same
+[00:08:25.000 --> 00:08:30.920]   precautions and still caught the virus. So now the WHO for example reports today
+[00:08:30.920 --> 00:08:35.560]   or a couple of days ago unprecedented number of medical staff infected with
+[00:08:35.560 --> 00:08:40.200]   Ebola. The outbreak of Ebola virus disease in West Africa is unprecedented
+[00:08:40.200 --> 00:08:43.400]   in many ways including the high proportion of doctors, nurses and other
+[00:08:43.400 --> 00:08:48.320]   health workers who have been infected. So 240 health workers in these West
+[00:08:48.320 --> 00:08:53.320]   African countries Guinea, Liberia, Nigeria, Sierra Leone have been infected with
+[00:08:53.320 --> 00:08:58.080]   Ebola more than 120 have died. So again this raises the question if they're
+[00:08:58.080 --> 00:09:02.320]   taking all these precautions to prevent the exchange of bodily fluids to catch
+[00:09:02.320 --> 00:09:07.880]   the virus then why are they contracting Ebola unless this new strain of Ebola
+[00:09:07.880 --> 00:09:13.120]   may at least to a limited extent have gone airborne because we know
+[00:09:13.120 --> 00:09:19.400]   the 2012 study which we cited many times from Canada they took pigs who were
+[00:09:19.400 --> 00:09:25.480]   infected with Ebola put them in a pen with monkeys that was separated by a
+[00:09:25.480 --> 00:09:30.520]   wire fence so no direct contact between the two species and basically what
+[00:09:30.520 --> 00:09:34.720]   happened most of the monkeys contracted Ebola via the respiratory system and
+[00:09:34.720 --> 00:09:40.800]   died from it and that was back in 2012 so they proved back then that Ebola had
+[00:09:40.800 --> 00:09:47.240]   gone airborne between these two species at least to a limited degree. So now as
+[00:09:47.240 --> 00:09:51.160]   far back as six weeks ago we were asking the same question we were called
+[00:09:51.160 --> 00:09:56.880]   conspiracy theorists for doing so. I appeared on CBS radio with Dick Morris
+[00:09:56.880 --> 00:10:03.960]   on August 6 last month and then a couple of days after that CBS local news came
+[00:10:03.960 --> 00:10:08.200]   out with a story saying conspiracy theorists claims Ebola may be airborne
+[00:10:08.200 --> 00:10:13.800]   which is interesting because as of two days ago Michael Osterholm who is
+[00:10:13.800 --> 00:10:17.280]   director of the Center for Infectious Disease Research and Policy at the
+[00:10:17.280 --> 00:10:21.880]   University of Minnesota wrote this big op-ed in the New York Times in which he
+[00:10:21.880 --> 00:10:27.120]   said that basically health workers and experts are loath to consider they fear
+[00:10:27.120 --> 00:10:31.360]   even considering the fact that quote Ebola virus could mutate to become
+[00:10:31.360 --> 00:10:36.200]   transmissible through the air so now six weeks after we first talked about it
+[00:10:36.200 --> 00:10:40.280]   we're getting top experts saying the same thing we were called conspiracy
+[00:10:40.280 --> 00:10:44.800]   theorists at the time for saying this now top experts doctors medical
+[00:10:44.800 --> 00:10:48.440]   professionals are starting to ask the same question which is has this new
+[00:10:48.440 --> 00:10:53.240]   strain of Ebola gone airborne because it's unprecedented in the amount of
+[00:10:53.240 --> 00:10:58.840]   people that it has infected in fact Michael Osterholm said that quote the
+[00:10:58.840 --> 00:11:02.840]   current Ebola virus is hyper evolution is unprecedented there has been more
+[00:11:02.840 --> 00:11:06.680]   human to human transmission in the past four months than likely occurred in the
+[00:11:06.680 --> 00:11:11.720]   last 500 to 1,000 years each new infection represents trillions of
+[00:11:11.720 --> 00:11:16.280]   throws of the genetic dice so this is completely unprecedented which is why
+[00:11:16.280 --> 00:11:20.480]   we're asking the question has it gone airborne at least to a limited extent
+[00:11:20.480 --> 00:11:25.320]   well Paul before you go any farther we've got a video clip that I found over
+[00:11:25.320 --> 00:11:29.680]   the weekend one of our excellent tipsters and we got so many tipsters out
+[00:11:29.680 --> 00:11:33.440]   there that just send us tip after tip after tip this one is from a Nova
+[00:11:33.440 --> 00:11:38.440]   program that aired in the mid 90s but it talks about an incident that happened in
+[00:11:38.440 --> 00:11:45.440]   1989 here in Virginia and it's between air air transmission of Ebola between
+[00:11:45.440 --> 00:11:52.080]   monkeys and you guys got that clip let's roll it in 1989 Ebola made its way to
+[00:11:52.080 --> 00:11:57.680]   the US residents of this Washington DC suburb had no idea that one of the
+[00:11:57.680 --> 00:12:02.880]   world's deadliest viruses had emerged in their midst
+[00:12:02.880 --> 00:12:12.760]   in a primate quarantine unit in Reston Virginia monkeys and one of the holding
+[00:12:12.760 --> 00:12:19.560]   rooms suddenly began to die secretly a military team entered the quarantine
+[00:12:19.560 --> 00:12:25.080]   unit and killed all 60 monkeys in the infected room
+[00:12:25.600 --> 00:12:28.680]   [Music]
+[00:12:28.680 --> 00:12:39.400]   the crisis heightened as monkeys began to die in a different room it appeared
+[00:12:39.400 --> 00:12:44.880]   that the virus was moving through the ventilating system in response the
+[00:12:44.880 --> 00:12:52.000]   military killed all 400 monkeys ending the outbreak this new strain of Ebola
+[00:12:52.000 --> 00:12:56.320]   had shown the potential to spread through the air had it been lethal in
+[00:12:56.320 --> 00:13:02.440]   humans it could have been catastrophic there you go Paul so they've been this
+[00:13:02.440 --> 00:13:07.280]   has been on the radar since 1989 at least with the military secretly because
+[00:13:07.280 --> 00:13:12.280]   no one else knew about it and what do you have to say about that well that's
+[00:13:12.280 --> 00:13:16.000]   amazing of course because I mean we had the Canadian study but that was only
+[00:13:16.000 --> 00:13:21.160]   from two years ago so to hear that it's you know at least one strain between two
+[00:13:21.160 --> 00:13:26.600]   species of monkeys has been airborne since 1989 is again is shocking and this
+[00:13:26.600 --> 00:13:30.000]   is what I've said over and over again you know I can talk about this until I'm
+[00:13:30.000 --> 00:13:33.280]   blue in the face I'm just the journalist I'm just writing about it I'm not an
+[00:13:33.280 --> 00:13:37.880]   expert on it we need actual experts and infectious disease specialists to be
+[00:13:37.880 --> 00:13:42.120]   looking into this possibility because it seems like it it could be a good
+[00:13:42.120 --> 00:13:45.880]   explanation for the for the aggressiveness of how this virus has
+[00:13:45.880 --> 00:13:50.720]   spread but as Osterholm said in the New York Times the other day they're kind of
+[00:13:50.720 --> 00:13:55.160]   scared of yelling fire in a crowded theater because they think that it's
+[00:13:55.160 --> 00:13:59.640]   gonna it's gonna cause hysteria and mass panic which is interesting because you
+[00:13:59.640 --> 00:14:04.080]   know the pharmaceutical industry normally loves hysteria and mass panic
+[00:14:04.080 --> 00:14:08.400]   because it sells drugs and it sells vaccines which is what we saw in 2009
+[00:14:08.400 --> 00:14:13.120]   with the swine flu outbreak which was very different of course because they
+[00:14:13.120 --> 00:14:18.400]   already had the vaccine lined up and they created a huge huge scare I mean at
+[00:14:18.400 --> 00:14:22.600]   the time that there was talk of troops on the streets and martial law and this
+[00:14:22.600 --> 00:14:27.200]   was in the newspapers every day and they had the vaccine lined up probably
+[00:14:27.200 --> 00:14:31.600]   millions of people globally took the vaccine which was completely unnecessary
+[00:14:31.600 --> 00:14:36.680]   swine flu was only really a danger to sick people young people and the elderly
+[00:14:36.680 --> 00:14:41.000]   so that the majority of the global population was under no risk whatsoever
+[00:14:41.000 --> 00:14:46.520]   but they sold this drug in huge quantities and it was engendered off the
+[00:14:46.520 --> 00:14:50.600]   back of hysteria created by governments and the pharmaceutical industry which
+[00:14:50.600 --> 00:14:55.880]   we're not seeing in this case because they've been very slow to develop a
+[00:14:55.880 --> 00:15:01.040]   vaccine or a drug to treat Ebola which many people have suggested is because
+[00:15:01.040 --> 00:15:06.280]   you know basically people don't give a damn about black people in Africa dying
+[00:15:06.280 --> 00:15:11.040]   from this and it's kind of there's no profit in it in fact we've seen top
+[00:15:11.040 --> 00:15:16.200]   experts come out and admit dr. Ben Newman said I think it was to Bloomberg
+[00:15:16.200 --> 00:15:20.360]   quote there isn't enough panic to justify a cure so there's not enough
+[00:15:20.360 --> 00:15:25.480]   money in it to justify intense research into vaccines and drugs so basically
+[00:15:25.480 --> 00:15:29.360]   they're just gonna let it proliferate and now we've got other experts as I
+[00:15:29.360 --> 00:15:33.640]   reported on Friday and this was quite a bizarre story because they changed the
+[00:15:33.640 --> 00:15:38.720]   story after we reported it this was Yona Schmidt Channes it of the Bernard
+[00:15:38.720 --> 00:15:43.760]   Knocht Institute for tropical medicine in Hamburg he told he told Deutsch well
+[00:15:43.760 --> 00:15:46.840]   that it would kill five million people and we can get into that after the break
+[00:15:46.840 --> 00:15:50.120]   that's right we'll get right back to that and we do have somebody developing
+[00:15:50.120 --> 00:15:52.880]   a vaccine with the help of the Gates Foundation don't worry they're gonna
+[00:15:52.880 --> 00:15:56.040]   come save us now we're gonna have all that right after the break it's info
+[00:15:56.040 --> 00:16:00.680]   words calm the Alex Jones show we'll be right back the government's Department
+[00:16:00.680 --> 00:16:04.360]   of Homeland Security is buying up loads of ammo at the same time they're
+[00:16:04.360 --> 00:16:08.560]   restricting civilians rights to own and purchase firearms can you put two and
+[00:16:08.560 --> 00:16:13.200]   two together infidel body armor can stop every round including hollow points in
+[00:16:13.200 --> 00:16:18.560]   308 sniper rounds is reasonably priced and fully legal but for how long go to
+[00:16:18.560 --> 00:16:26.200]   infidel body armor comm spelled I n F ID EL body armor comm infidel body armor
+[00:16:26.200 --> 00:16:31.880]   just won't quit tell folks how you got introduced to super male and then when
+[00:16:31.880 --> 00:16:35.640]   super female came out tell us what happened after I saw such a huge
+[00:16:35.640 --> 00:16:39.600]   positive change in my husband I had to try it for myself talk about the effects
+[00:16:39.600 --> 00:16:43.320]   I feel great when I wake up in the morning I have drive to go to the gym I
+[00:16:43.320 --> 00:16:48.320]   feel like I look better I feel better I feel sexier I love it even if you don't
+[00:16:48.320 --> 00:16:51.720]   believe in supplements take the challenge get a bottle of super male a
+[00:16:51.720 --> 00:16:55.720]   bottle of super female check it out for yourself consult your physician visit
+[00:16:55.720 --> 00:17:00.240]   info wars at life at calm today this is life-changing another major health
+[00:17:00.240 --> 00:17:03.960]   threat this one in Toledo Ohio where everybody in the entire city has been
+[00:17:03.960 --> 00:17:08.080]   told not to drink the waters Ohio's governor declaring a state of emergency
+[00:17:08.080 --> 00:17:13.080]   did you know that the average person uses about 80 to 100 gallons of water at
+[00:17:13.080 --> 00:17:18.560]   home every single day if there's a water emergency will you be prepared panicked
+[00:17:18.560 --> 00:17:22.720]   residents forming long lines throughout the day we're here at a supermarket in
+[00:17:22.720 --> 00:17:27.040]   Toledo you can see the shelves empty where water once was to stay safe and
+[00:17:27.040 --> 00:17:32.400]   healthy during a crisis you must have access to safe clean water water which
+[00:17:32.400 --> 00:17:36.600]   will not be available at your local grocery store there's a mad dash on
+[00:17:36.600 --> 00:17:41.280]   right now to stock up on supplies the pro pure pro 1g 2.0 water filtration
+[00:17:41.280 --> 00:17:46.200]   system is a must-have for every modern independently minded household protect
+[00:17:46.200 --> 00:17:51.160]   your family's safety during an emergency go to info war store comm today to
+[00:17:51.160 --> 00:17:58.320]   purchase your pro pure pro 1g 2.0 water filtration system or call 1-882-533-139
+[00:17:58.320 --> 00:18:02.360]   you've heard about the essential qualities of iodine when it comes to
+[00:18:02.360 --> 00:18:05.960]   your well-being and you've read the opinions of top experts regarding this
+[00:18:05.960 --> 00:18:10.600]   good member of the halogen family still reports indicate that iodine is absent
+[00:18:10.600 --> 00:18:14.480]   in sufficient amounts from the daily lives of countless people worldwide now
+[00:18:14.480 --> 00:18:19.640]   our extra strength new nascent iodine formula is here survival shield x2
+[00:18:19.640 --> 00:18:23.880]   leading the way into the next generation of super high quality nascent iodine
+[00:18:23.880 --> 00:18:28.680]   info wars life survival shield x2 is derived from 200 plus million year old
+[00:18:28.680 --> 00:18:33.320]   salt solutions found more than 7,000 feet below the earth's surface the result
+[00:18:33.320 --> 00:18:37.360]   is a unique nascent iodine that is both concentrated and free of unwanted
+[00:18:37.360 --> 00:18:41.280]   additives genetically modified ingredients and completely vegan we even
+[00:18:41.280 --> 00:18:46.240]   pre screen our survival shield x2 iodine for radiation pure clean and sourced
+[00:18:46.240 --> 00:18:50.760]   from deep within the earth x2 nascent iodine is available exclusively at info
+[00:18:50.760 --> 00:19:00.760]   wars life comm info war store comm or call 1-888-253-3139 in the near future
+[00:19:00.760 --> 00:19:06.920]   when you realize how fake it all is the football the basketball security alert
+[00:19:06.920 --> 00:19:12.200]   this is homeland security analysis info wars building independent media
+[00:19:12.200 --> 00:19:16.320]   operation but the worst people get controlled and tell us that we are the
+[00:19:16.320 --> 00:19:21.520]   ones responsible prime directive discredit Alex Jones Jones is the wildly
+[00:19:21.520 --> 00:19:25.960]   popular conspiracy theory a popular conspiracy theory talk show called info
+[00:19:25.960 --> 00:19:30.840]   wars Alex Jones is now in an Austin jail these people are assaulting targeting of
+[00:19:30.840 --> 00:19:36.400]   patriots engaged they are never going to stop they're never going to deviate from
+[00:19:36.400 --> 00:19:42.880]   their program until we stop them block free iPhone app at info wars.com block
+[00:19:42.880 --> 00:19:48.640]   free podcast and video feed imperative
+[00:19:48.640 --> 00:19:53.400]   you gotta set your eye on the enemy not worry about what propaganda they put out
+[00:19:53.400 --> 00:19:57.840]   intellectually it's begun and you can feel it
+[00:19:57.840 --> 00:20:05.800]   coast to coast direct from Austin you're listening to the Alex Jones
+[00:20:05.800 --> 00:20:09.160]   broadcasting network
+[00:20:09.600 --> 00:20:14.600]   [music]
+[00:20:14.600 --> 00:20:20.200]   he aligns himself with the truth and it's time for you to choose a side
+[00:20:20.200 --> 00:20:24.400]   you're listening to Alex Jones
+[00:20:24.400 --> 00:20:29.400]   [music]
+[00:20:29.400 --> 00:20:34.680]   a leading German virologist claims it's too late Ebola's gonna kill 5 million people
+[00:20:34.680 --> 00:20:42.160]   at least West African health centers cannot keep up with the Ebola outbreak
+[00:20:42.160 --> 00:20:50.000]   Ebola out places global response World Health Organization says but don't worry
+[00:20:50.000 --> 00:20:54.240]   we've got Bill Gates coming to the rescue he's gonna give 50 million
+[00:20:54.240 --> 00:21:00.680]   dollars to fight Ebola then we have Glaxo Smith Klein who has a vaccine
+[00:21:00.680 --> 00:21:06.800]   that's been fast-tracked for clinical trials Glaxo Smith Klein these are the
+[00:21:06.800 --> 00:21:16.800]   same people that in 2012 were fined only 400,000 pesos for killing 14 babies in
+[00:21:16.800 --> 00:21:22.280]   Argentina for tests they did on an ammonia vaccine so I guess we can all be
+[00:21:22.280 --> 00:21:26.920]   assured that since it's Glaxo Smith Klein they're gonna do good at making
+[00:21:26.920 --> 00:21:35.000]   this Ebola vaccine and one more thing Paul do you did you see this over the
+[00:21:35.000 --> 00:21:39.520]   weekend this is published on September 12th Lakeland Industries announces
+[00:21:39.520 --> 00:21:45.640]   global availability of hazmat suits for Ebola and the president and chief CEO
+[00:21:45.640 --> 00:21:49.000]   the CEO of Lakeland Industries came out and said that the State Department had
+[00:21:49.000 --> 00:21:53.280]   put in a bid for a hundred and sixty thousand suits the State Department is
+[00:21:53.280 --> 00:21:57.800]   getting a hundred sixty thousand hazmat suits to protect from something that now
+[00:21:57.800 --> 00:22:03.560]   might even be going airborne Paul what do you make of all this madness well
+[00:22:03.560 --> 00:22:07.440]   it's interesting isn't it I mean a hundred and sixty thousand suits and
+[00:22:07.440 --> 00:22:10.960]   it's the State Department that's making the purchase you would think that it
+[00:22:10.960 --> 00:22:15.800]   would be the CDC but that suggests it's some kind of national security issue or
+[00:22:15.800 --> 00:22:19.600]   a health aid organization that's gonna send people to Africa no it's this is
+[00:22:19.600 --> 00:22:23.920]   the State Department exactly I mean that's that's concerning and it ties
+[00:22:23.920 --> 00:22:28.080]   into what we've reported before which of course probably about six weeks ago
+[00:22:28.080 --> 00:22:32.080]   Obama signed this amendment to an executive order which was originally
+[00:22:32.080 --> 00:22:37.760]   signed by Bush to deal with SARS to detain forcibly detain Americans who
+[00:22:37.760 --> 00:22:42.320]   show signs of respiratory illness merely signs of respiratory illness and then we
+[00:22:42.320 --> 00:22:46.680]   already had the CDC measures which were in place before that which allowed for
+[00:22:46.680 --> 00:22:51.960]   the quarantine of quote well persons who quote do not show symptoms of the disease
+[00:22:51.960 --> 00:22:57.320]   so again it's this medical martial law scenario you've also got the model state
+[00:22:57.320 --> 00:23:01.640]   emergency health powers act which the Association of American Physicians and
+[00:23:01.640 --> 00:23:06.720]   Surgeons one could turn governors into dictators that's another quote so you've
+[00:23:06.720 --> 00:23:10.640]   got this system that's already in in built and ingrained ready to be turned
+[00:23:10.640 --> 00:23:16.760]   on in the case of a pandemic of this nature and yeah that's of concern at the
+[00:23:16.760 --> 00:23:20.960]   State Department buying a hundred and sixty thousand hazmat suits with this
+[00:23:20.960 --> 00:23:26.120]   Ebola virus raging with speculation that it may have gone airborne so it's it's
+[00:23:26.120 --> 00:23:30.640]   of extreme concern and then you mentioned Bill Gates which reminded me
+[00:23:30.640 --> 00:23:35.640]   of the whole eugenics angle dr. Charles onsen head of the biodesign Institute
+[00:23:35.640 --> 00:23:40.560]   for infectious diseases and vaccinology and he was one of the guys who worked on
+[00:23:40.560 --> 00:23:44.520]   the experimental Ebola treatment which the two Americans who flew into Atlanta
+[00:23:44.520 --> 00:23:49.920]   received he jokes at a conference I believe it was a couple of years ago the
+[00:23:49.920 --> 00:23:55.120]   the the key to solving overpopulation was to create a genetically engineered
+[00:23:55.120 --> 00:23:59.760]   virus that could kill two billion people and these are the people that are
+[00:23:59.760 --> 00:24:04.280]   creating the very vaccines which are going to be doled out to people if this
+[00:24:04.280 --> 00:24:08.520]   hysteria gets any bigger and he's joking about oh we need a genetically engineered
+[00:24:08.520 --> 00:24:13.640]   virus to kill two billion people to solve overpopulation which we know is a
+[00:24:13.640 --> 00:24:18.080]   complete statistical lie if you actually delve down into the figures right go
+[00:24:18.080 --> 00:24:22.680]   population is going to keep going Bill Gates has gone on television with Ted TV
+[00:24:22.680 --> 00:24:26.200]   putting his little equation up there this is one of these things has to go to
+[00:24:26.200 --> 00:24:30.960]   zero and it's people that are gonna go to zero that's what he wants to see I
+[00:24:30.960 --> 00:24:36.280]   mean it's that's it I mean Bill Gates is a eugenicist his dad was part of
+[00:24:36.280 --> 00:24:41.000]   Planned Parenthood and the apple doesn't fall far from the tree it would seem but
+[00:24:41.000 --> 00:24:44.080]   here's another interesting fact that these patients were bringing in to the
+[00:24:44.080 --> 00:24:48.680]   United States these doctors they're just flushing the waste down the toilet
+[00:24:48.680 --> 00:24:52.240]   Atlanta's news agencies have revealed that Ebola's patient waste including
+[00:24:52.240 --> 00:24:56.160]   feces and urine are going into the city's public sewer system they say
+[00:24:56.160 --> 00:24:58.560]   there's no risk of infection of the general public because their waste
+[00:24:58.560 --> 00:25:03.640]   management practices will kill any viruses flushed into the system does
+[00:25:03.640 --> 00:25:07.800]   that make you feel does that make you feel any safer what about my curse I
+[00:25:07.800 --> 00:25:12.880]   can't imagine that they've had that much experience in flushing Ebola out of the
+[00:25:12.880 --> 00:25:17.280]   waste system up it sounds like it would be unprecedented so I wouldn't have
+[00:25:17.280 --> 00:25:22.320]   complete confidence in that but even just the fact of bringing these infected
+[00:25:22.320 --> 00:25:26.280]   doctors into America I mean dr. Bob Arnaud who is an infectious disease
+[00:25:26.280 --> 00:25:30.120]   specialist said quote there is no medical reason to bring them here
+[00:25:30.120 --> 00:25:33.720]   especially when you see how well dr. Bradley was because they had the same
+[00:25:33.720 --> 00:25:38.640]   drug the exact same drug over in Africa so why was there even a need to put
+[00:25:38.640 --> 00:25:43.960]   anybody at risk by bringing them into Atlanta some of the speculation was
+[00:25:43.960 --> 00:25:50.240]   centered around the fact that the CDC had a patent on a strain of Ebola and a
+[00:25:50.240 --> 00:25:53.760]   vaccine already ready for it so that was why they were bringing them into the
+[00:25:53.760 --> 00:25:58.080]   country I'm not sure about that but even the top infectious disease specialists
+[00:25:58.080 --> 00:26:01.520]   have questioned why they need to bring them into America in the first place
+[00:26:01.520 --> 00:26:06.840]   when you can treat them with the exact same drug in Africa remember SARS
+[00:26:06.840 --> 00:26:11.520]   patients were brought into Canada from Asia in 2003 and they ended up
+[00:26:11.520 --> 00:26:17.000]   infecting 400 people and killing 44 people as a result because they brought
+[00:26:17.000 --> 00:26:20.960]   them into the country when it wasn't necessary so it really doesn't make a
+[00:26:20.960 --> 00:26:27.600]   lot of sense and if you don't if you don't believe Paul that the CDC has an
+[00:26:27.600 --> 00:26:32.600]   actual patent on Ebola there's a global research article from August 6 that I'm
+[00:26:32.600 --> 00:26:36.840]   bringing up on my computer over here you guys can pull up a weapon of mass
+[00:26:36.840 --> 00:26:42.900]   destruction and that might not even be the article this article is why it's a
+[00:26:42.900 --> 00:26:46.920]   different article actually from August 3rd and why do the US Centers for
+[00:26:46.920 --> 00:26:51.320]   Disease Control only patent on Ebola and it's called Ebola bun and I'm gonna give
+[00:26:51.320 --> 00:26:58.800]   you the patent number you don't believe me it's CA 2741523A1 there's the patent
+[00:26:58.800 --> 00:27:05.920]   number right there and it was awarded in 2010 there you go very interesting so
+[00:27:05.920 --> 00:27:08.880]   they they own the CDC owns the patent on it maybe they want to see if this was
+[00:27:08.880 --> 00:27:14.200]   their strain of Ebola that's out there and another thing people aren't aren't
+[00:27:14.200 --> 00:27:18.480]   don't seem to be too concerned about it if they decide to crack down and and
+[00:27:18.480 --> 00:27:27.560]   round people up and do this with you know grabbing it's like this when I was
+[00:27:27.560 --> 00:27:33.000]   in Chicago we were accompanying the National Guard who were doing hazmat
+[00:27:33.000 --> 00:27:39.200]   recovery rescue operations for a biological pandemic that had happened
+[00:27:39.200 --> 00:27:43.200]   they were also going after gun owners that which they were calling terrorists
+[00:27:43.200 --> 00:27:47.640]   but they were going after these people and one of the exercises they had was
+[00:27:47.640 --> 00:27:51.240]   taking place at a sports stadium and there are sports stadiums all over the
+[00:27:51.240 --> 00:27:54.840]   country you got high school you got college you got professional you plenty
+[00:27:54.840 --> 00:27:58.880]   of sports stadiums in this country and they were going to use these stations as
+[00:27:58.880 --> 00:28:02.920]   staging grounds a and also places to round people up which we saw in Katrina
+[00:28:02.920 --> 00:28:06.840]   with New Orleans so this is not unprecedented these are all over the
+[00:28:06.840 --> 00:28:11.320]   place and anytime they want to pull the trigger and say hey come here if you
+[00:28:11.320 --> 00:28:14.760]   want to get your vaccine bring it on in come on in we got a place for you to
+[00:28:14.760 --> 00:28:17.880]   stay but then you're never gonna get out they didn't let those people out of the
+[00:28:17.880 --> 00:28:24.640]   Superdome for almost a week and that's where this stuff could go if it does get
+[00:28:24.640 --> 00:28:27.640]   loose in the United States which begs the question why are we bringing these
+[00:28:27.640 --> 00:28:31.560]   people in why not keep them offshore why not build a medical boat if you want to
+[00:28:31.560 --> 00:28:35.240]   treat these people why not do that a lot of questions going on with this we're
+[00:28:35.240 --> 00:28:38.440]   gonna finish up with this in the next segment we're also gonna start taking
+[00:28:38.440 --> 00:28:43.200]   your calls towards the end of this hour and I'll give out that phone number in
+[00:28:43.200 --> 00:28:48.200]   just a second and we're gonna be with you here till 6 p.m. Central I made a
+[00:28:48.200 --> 00:28:51.640]   mistake earlier sorry about that 6 p.m. Central it's the Alex Jones show I'm
+[00:28:51.640 --> 00:28:55.480]   your host Rob do writing shotgun with me is Paul Joseph Watson the websites are
+[00:28:55.480 --> 00:29:01.800]   info wars calm prison planet calm and prison planet TV open your eyes it's
+[00:29:01.800 --> 00:29:06.400]   time to give your eyes a powerful nutritional boost sight is the primary
+[00:29:06.400 --> 00:29:10.940]   input to the brain arguably making eyesight the most important sense we
+[00:29:10.940 --> 00:29:15.600]   have and just like the other important organs in our bodies our eyes function
+[00:29:15.600 --> 00:29:19.640]   at peak levels when they are fed the proper amounts of essential nutrition
+[00:29:19.640 --> 00:29:26.080]   open your eyes combining key ingredients like vitamin a zinc lutein proprietary
+[00:29:26.080 --> 00:29:30.920]   saffron bulb extracts and more occupy our by in for wars life is the new
+[00:29:30.920 --> 00:29:34.920]   formulation specifically designed to nutritionally assist the natural
+[00:29:34.920 --> 00:29:39.640]   function of healthy eyes optimize the natural power of your eyes with the
+[00:29:39.640 --> 00:29:43.320]   latest addition to the super high quality in fours life formulations
+[00:29:43.320 --> 00:29:50.200]   occupy go to him for wars life comm or info wars store comm to order occupy or
+[00:29:50.200 --> 00:29:58.360]   call 1-888-253-3139 occupy open your eyes
+[00:29:58.360 --> 00:30:04.040]   using unparalleled research in the development of a synergistic formulation
+[00:30:04.040 --> 00:30:08.680]   based around the key concepts of super oxygenation the next level in cleansing
+[00:30:08.680 --> 00:30:13.120]   is here with key ingredients backed by real clinical studies the new oxy powder
+[00:30:13.120 --> 00:30:17.480]   available through info wars life was invented during dr. groups research on
+[00:30:17.480 --> 00:30:21.800]   the toxification of our bodies many herbal colon cleansers are harsh on the
+[00:30:21.800 --> 00:30:26.420]   body and contain cheap and potentially dangerous ingredients oftentimes full of
+[00:30:26.420 --> 00:30:31.000]   synthetic fillers GMOs additives or worse gently start cleaning your body
+[00:30:31.000 --> 00:30:35.240]   with easy capsules that start working while you sleep oxy powder does not
+[00:30:35.240 --> 00:30:39.600]   require time off work and there's no need for bad tasting concoctions instead
+[00:30:39.600 --> 00:30:44.320]   oxy powder slowly releases monoatomic oxygen into the intestinal tract and
+[00:30:44.320 --> 00:30:48.680]   body experience the astonishing cleansing power of superoxide and
+[00:30:48.680 --> 00:30:54.240]   ozonide technology go to info wars life comm or info wars store comm to get
+[00:30:54.240 --> 00:31:00.600]   started with oxy powder or call 1-888-253-3139 this is scottish john for
+[00:31:00.600 --> 00:31:04.120]   info wars calm I know that most of you here in this commercial already know
+[00:31:04.120 --> 00:31:07.840]   about the new world order eugenics and all the other issues covered here at
+[00:31:07.840 --> 00:31:12.240]   info wars the question is do your friends and family know if not then I
+[00:31:12.240 --> 00:31:15.720]   want to know why oh I know it's tough to talk about this with some people they
+[00:31:15.720 --> 00:31:20.000]   might call you names or they just want to talk about sports or soap operas I
+[00:31:20.000 --> 00:31:24.320]   say so what there's a bottle going on out there right now the ammunition is
+[00:31:24.320 --> 00:31:28.720]   information and the soldiers are you it's time to transform your game from
+[00:31:28.720 --> 00:31:32.920]   passive listener to active participant we from Scotland about our skin in this
+[00:31:32.920 --> 00:31:36.960]   game for the greater part of the last thousand years and I'm still fighting if
+[00:31:36.960 --> 00:31:41.040]   we don't all stand up right now we're gonna lose everything the info war is
+[00:31:41.040 --> 00:31:44.980]   worldwide tell your friends about info wars and let them know the info wars
+[00:31:44.980 --> 00:31:49.800]   doesn't print boo it's real journalism and news backed up by documented fact
+[00:31:49.800 --> 00:31:54.880]   step up and take your friends and family to info wars calm prison planet dot TV
+[00:31:54.880 --> 00:32:00.520]   and planet info wars dot-com the truth will set them free when you're out on
+[00:32:00.520 --> 00:32:07.560]   the road the last place you want to be is on the road but if the unfortunate
+[00:32:07.560 --> 00:32:12.680]   happens you'll be glad you were wearing diamond gussets there's a place down in
+[00:32:12.680 --> 00:32:19.440]   Tennessee where they make blue diamond gusset jeans
+[00:32:19.440 --> 00:32:27.840]   they so pride in every stitch guarantee you love the way they fit
+[00:32:27.840 --> 00:32:35.280]   they put a diamond gusset in the crotch where you need most blue diamond gussets
+[00:32:35.280 --> 00:32:42.840]   got it other stone we turn jeans inside out diamond gusset jeans made in the
+[00:32:42.840 --> 00:32:47.160]   USA with unparalleled quality our defender motorcycle jeans combined
+[00:32:47.160 --> 00:32:51.520]   gusset comfort with Kevlar protection so you can ride all day with confidence
+[00:32:51.520 --> 00:32:59.640]   order yours at gusset calm diamond gusset jeans got it others don't
+[00:32:59.640 --> 00:33:05.840]   coast to coast direct from Austin you're listening to the Alex Jones
+[00:33:05.840 --> 00:33:09.240]   broadcasting network
+[00:33:17.120 --> 00:33:23.240]   leading a frontal assault on the lies of the New World Order it's Alex Jones
+[00:33:23.240 --> 00:33:27.960]   on the GCN radio network
+[00:33:27.960 --> 00:33:37.000]   welcome back my friends it is the Alex Jones show this is Sunday September 14
+[00:33:37.000 --> 00:33:43.880]   2014 we are live about another hour and a half I'm your host Rob do I'm joined
+[00:33:43.880 --> 00:33:51.160]   with Paul Watson writer of prison planet.com InfoWars.com if you don't
+[00:33:51.160 --> 00:33:55.640]   know me I'm the news director over here mainly for the InfoWars nightly news I
+[00:33:55.640 --> 00:34:01.200]   run that crew the reporters keep them busy and send them out on on missions
+[00:34:01.200 --> 00:34:07.520]   one of which they just got back from New York during the 13th anniversary of 9/11
+[00:34:07.520 --> 00:34:11.360]   you guys can punch this up here I want to show you two videos here on the Alex
+[00:34:11.360 --> 00:34:16.240]   Jones channel this is something that I spend a lot of my time on youtube.com
+[00:34:16.240 --> 00:34:19.520]   forward slash the Alex Jones channel we got two videos right now that are going
+[00:34:19.520 --> 00:34:24.200]   viral one is from the nightly news on Friday and this is Darren McBreen's
+[00:34:24.200 --> 00:34:28.080]   piece shocking demonic photos of Obama and it shows him literally with devil
+[00:34:28.080 --> 00:34:33.640]   horns really scary and if you think that this is oh well he just happened to be
+[00:34:33.640 --> 00:34:38.280]   set up that way they pay people hundreds of thousands of dollars to make sure
+[00:34:38.280 --> 00:34:42.440]   stuff like this doesn't occur and they pay people hundreds of thousands of
+[00:34:42.440 --> 00:34:44.800]   dollars to make sure stuff like this does occur so let me tell you that's a
+[00:34:44.800 --> 00:34:49.600]   message right there there's your demonic president and the other one is 9/11
+[00:34:49.600 --> 00:34:55.000]   fire firefighter blows WTC7 cover-up wide open that's an interview that Leon
+[00:34:55.000 --> 00:34:59.680]   McAdoo did with firefighter Rudy Dent who was off that day of 9/11 but after
+[00:34:59.680 --> 00:35:05.960]   the towers collapsed he raced over to his fire station him and his boys
+[00:35:05.960 --> 00:35:09.760]   commandeered a mail truck and went in there to help rescue people and he
+[00:35:09.760 --> 00:35:15.800]   actually saw explosions happening at WTC7 he saw molten metal things that he
+[00:35:15.800 --> 00:35:20.720]   cannot explain as a firefighter and one of which is how the building collapsed
+[00:35:20.720 --> 00:35:25.480]   this this doesn't happen regularly in fact the only time it's happened because
+[00:35:25.480 --> 00:35:32.880]   of a fire is in during 9/11 so you don't have to don't beat me up about it go look
+[00:35:32.880 --> 00:35:36.960]   at building structural integrity go look at office building fires that have
+[00:35:36.960 --> 00:35:40.160]   happened there was a fire in Shanghai China a few years ago that burned for
+[00:35:40.160 --> 00:35:43.680]   over 24 hours and did not collapse into its own footprint so that stuff just
+[00:35:43.680 --> 00:35:48.560]   doesn't magically happen it has to be planned so that that's an amazing
+[00:35:48.560 --> 00:35:52.800]   interview with with Rudy Dent you can see that 9/11 firefighter blows WTC7
+[00:35:52.800 --> 00:35:57.440]   cover-up wide open and we've got a few few things on there a few of our little
+[00:35:57.440 --> 00:36:03.520]   playlist you see Joe Biggs crossing the Rio Grande in El Paso our adventures in
+[00:36:03.520 --> 00:36:10.200]   Ferguson lots of stuff up there on the Alex Jones channel on YouTube but one
+[00:36:10.200 --> 00:36:15.120]   way you can support us is by becoming a member of prison planet TV which we have
+[00:36:15.120 --> 00:36:19.680]   all the same stuff that you see on the Alex Jones channel but you can download
+[00:36:19.680 --> 00:36:25.640]   it you can spread it around we've got the day show the nightly news our
+[00:36:25.640 --> 00:36:31.960]   special reports we have some movies up there so we Alex has made Oh dozens of
+[00:36:31.960 --> 00:36:35.200]   documentaries I helped make a couple of them one of which is police day for the
+[00:36:35.200 --> 00:36:40.760]   rise of FEMA which I was a co-director on back in we released that in 2010 and
+[00:36:40.760 --> 00:36:45.720]   just an amazing wealth of information that you can access for just pennies a
+[00:36:45.720 --> 00:36:50.860]   day and you can use your username and password and share it with up to 11
+[00:36:50.860 --> 00:36:55.560]   people you have 11 of you on right now watching the show watching the videos as
+[00:36:55.560 --> 00:36:58.800]   we pull them up did you see the video that we showed from the Nova
+[00:36:58.800 --> 00:37:04.200]   presentation where they're talking about how this Ebola went airborne from
+[00:37:04.200 --> 00:37:10.400]   through the ventilation shaft okay this stuff is happening right now no one can
+[00:37:10.400 --> 00:37:14.520]   explain how it's spreading no one can explain how these doctors are getting
+[00:37:14.520 --> 00:37:17.080]   sick when these doctors go in there they're wearing hazmat suits they're
+[00:37:17.080 --> 00:37:21.680]   spraying themselves down with Lysol and chlorine there's no reason for this
+[00:37:21.680 --> 00:37:26.440]   many doctors we get sick we just had our fourth doctor die in Sierra Leone and
+[00:37:26.440 --> 00:37:30.120]   we've got four doctors here to which have seemed to have recovered and two
+[00:37:30.120 --> 00:37:34.760]   which are still sick one in Atlanta and the other in Nebraska so we've just
+[00:37:34.760 --> 00:37:38.800]   brought it to the middle of the country why not and they're flushing it all down
+[00:37:38.800 --> 00:37:44.040]   the toilet all the waste is going down the toilet so I guess they think they've
+[00:37:44.040 --> 00:37:48.560]   got it under control Paul Watson let's finish up on Ebola and I want to play
+[00:37:48.560 --> 00:37:51.440]   that clip again from the Nova presentation in case people missed it
+[00:37:51.440 --> 00:37:54.440]   because we did play it earlier in the show and I think people need to hear
+[00:37:54.440 --> 00:37:59.760]   this that they've known since 1989 that this thing can go airborne so how would
+[00:37:59.760 --> 00:38:04.520]   you like to finish this up yeah I just want to mention I wrote a story on
+[00:38:04.520 --> 00:38:08.260]   Friday about this German expert from the Institute of Tropical Medicine in
+[00:38:08.260 --> 00:38:11.880]   Hamburg he basically gave some statements to Deutsch Well which is a
+[00:38:11.880 --> 00:38:16.320]   major German publication he said that the Ebola virus in Sierra Leone and
+[00:38:16.320 --> 00:38:21.360]   Liberia would only burn itself out when it's infected the entire population of
+[00:38:21.360 --> 00:38:25.360]   those two countries and killed five million people and he basically said
+[00:38:25.360 --> 00:38:29.720]   that all hope is lost for those two countries and that it's too late what's
+[00:38:29.720 --> 00:38:34.760]   weird about it is literally within an hour of me publishing that report on
+[00:38:34.760 --> 00:38:39.680]   InfoWars and giving it a headline worthy of the quotes that were actually in the
+[00:38:39.680 --> 00:38:44.120]   article about five million people dying they changed not only the headline of
+[00:38:44.120 --> 00:38:48.880]   the article but they removed the quotes from the article from this expert saying
+[00:38:48.880 --> 00:38:53.920]   that five million people would die in Africa as a result of Ebola so it and
+[00:38:53.920 --> 00:38:58.440]   there was no formal retraction that's the thing if you change a news article
+[00:38:58.440 --> 00:39:02.600]   after the fact in such a major way you know this wasn't a spelling error or
+[00:39:02.600 --> 00:39:07.080]   something it was a major retraction it was a change of the headline removing
+[00:39:07.080 --> 00:39:10.020]   quotes that's right you don't only have to announce it you put a note saying hey
+[00:39:10.020 --> 00:39:13.060]   we made a mistake he didn't actually say five million he said two hundred
+[00:39:13.060 --> 00:39:17.280]   thousand which they didn't know that as a retraction they just left it they just
+[00:39:17.280 --> 00:39:23.280]   removed it it was a I guess a piece of 1984 jargon and and what's interesting
+[00:39:23.280 --> 00:39:29.000]   is that they say this thing's gonna double in about two weeks so they say
+[00:39:29.000 --> 00:39:34.360]   20,000 people could be affected here by Friday but then that's gonna double and
+[00:39:34.360 --> 00:39:39.460]   this thing just keeps going on and on and on and they have no way to really
+[00:39:39.460 --> 00:39:45.600]   stop it there's no supposed vaccine if there will ever be a real vaccine if it
+[00:39:45.600 --> 00:39:49.440]   doesn't help spread it I find it interesting too that as soon and I was
+[00:39:49.440 --> 00:39:53.280]   watching this months ago when it first started happening the the villagers that
+[00:39:53.280 --> 00:39:57.480]   they were treating were attacking these medical centers they were saying the
+[00:39:57.480 --> 00:40:00.720]   doctors were helping spread this they were accusing them of it now I don't
+[00:40:00.720 --> 00:40:05.080]   know if they were or if it was just this this case of them being superstitious
+[00:40:05.080 --> 00:40:08.680]   but I find that very interesting that the villagers were freaking out that
+[00:40:08.680 --> 00:40:11.560]   these health workers were here and that the virus just kept getting worse and
+[00:40:11.560 --> 00:40:16.440]   worse now it could be a coincidence it could be but I don't know what do you
+[00:40:16.440 --> 00:40:21.560]   think about that Paul I don't know Rob it's bizarre there's also a story about
+[00:40:21.560 --> 00:40:26.840]   a black market treatment for Ebola which is now circulating in Africa which the
+[00:40:26.840 --> 00:40:31.280]   WHO and the other health authorities are trying to clamp down on and eliminate so
+[00:40:31.280 --> 00:40:35.560]   there's obviously a lot of concern from people in Africa that if there is a
+[00:40:35.560 --> 00:40:38.920]   treatment for this which we know they've been working on it that they're not
+[00:40:38.920 --> 00:40:43.000]   getting proper access to it so now they're having to go to the black market
+[00:40:43.000 --> 00:40:46.960]   to try and get something which I don't know it may or may not work but the WHO
+[00:40:46.960 --> 00:40:51.160]   is keen to clamp down on it so there's a lot of bizarre things going on behind
+[00:40:51.160 --> 00:40:55.560]   the scenes and again with the media aspect there's a lot of massaging of the
+[00:40:55.560 --> 00:40:59.760]   message I mean we know the CDC has been very reluctant to release any information
+[00:40:59.760 --> 00:41:04.240]   on suspected Ebola sufferers in the United States and obviously that's the
+[00:41:04.240 --> 00:41:08.520]   same in Germany and across the board also I wanted to mention the the
+[00:41:08.520 --> 00:41:13.920]   advisory that the CDC put out to the airline staff to provide surgical masks
+[00:41:13.920 --> 00:41:17.880]   to potential Ebola victims in order to quote reduce the number of droplets
+[00:41:17.880 --> 00:41:23.320]   expelled into the air by talking sneezing or coughing not use compressed
+[00:41:23.320 --> 00:41:27.520]   air which might spread infectious material through the air so at least to
+[00:41:27.520 --> 00:41:31.200]   some extent they're also concerned about it spreading through the air and this
+[00:41:31.200 --> 00:41:35.600]   was an advisory that was put out months ago and is still in effect so again it
+[00:41:35.600 --> 00:41:39.200]   goes back to the speculation of whether it's gone airborne and that it's not
+[00:41:39.200 --> 00:41:44.320]   just contractible via exchange of bodily fluids and we've got the video clip from
+[00:41:44.320 --> 00:41:49.760]   the Nova program in the 90s talking about an 89 secret errat monkey
+[00:41:49.760 --> 00:41:52.240]   eradication program that the United States government underwent let's go to
+[00:41:52.240 --> 00:41:58.800]   that clip real quick in 1989 Ebola made its way to the US residents of this
+[00:41:58.800 --> 00:42:03.800]   Washington DC suburb had no idea that one of the world's deadliest viruses had
+[00:42:03.800 --> 00:42:07.080]   emerged in their midst
+[00:42:07.080 --> 00:42:17.000]   in a primate quarantine unit in Reston Virginia monkeys and one of the holding
+[00:42:17.000 --> 00:42:23.800]   rooms suddenly began to die secretly a military team entered the quarantine
+[00:42:23.800 --> 00:42:29.360]   unit and killed all 60 monkeys in the infected room
+[00:42:29.360 --> 00:42:43.720]   the crisis heightened as monkeys began to die in a different room it appeared
+[00:42:43.720 --> 00:42:49.200]   that the virus was moving through the ventilating system in response the
+[00:42:49.200 --> 00:42:56.360]   military killed all 400 monkeys there you go the military was involved in
+[00:42:56.360 --> 00:43:00.040]   covering up a airborne transmission of Ebola we'll be right back you heard
+[00:43:00.040 --> 00:43:03.720]   about the essential qualities of iodine when it comes to your well-being and
+[00:43:03.720 --> 00:43:07.280]   you've read the opinions of top experts regarding this good member of the
+[00:43:07.280 --> 00:43:11.680]   halogen family still reports indicate that iodine is absent in sufficient
+[00:43:11.680 --> 00:43:15.400]   amounts from the daily lives of countless people worldwide now our
+[00:43:15.400 --> 00:43:20.120]   extra-strength new nascent iodine formula is here survival shield x2
+[00:43:20.120 --> 00:43:24.360]   leading the way into the next generation of super high quality nascent iodine
+[00:43:24.360 --> 00:43:29.200]   InfoWars life survival shield x2 is derived from 200 plus million year old
+[00:43:29.200 --> 00:43:33.840]   salt solutions found more than 7,000 feet below the earth's surface the result
+[00:43:33.840 --> 00:43:37.880]   is a unique nascent iodine that is both concentrated and free of unwanted
+[00:43:37.880 --> 00:43:41.800]   additives genetically modified ingredients and completely vegan we even
+[00:43:41.800 --> 00:43:46.760]   pre-screen our survival shield x2 iodine for radiation pure clean and sourced
+[00:43:46.760 --> 00:43:50.920]   from deep within the earth x2 nascent iodine is available exclusively at
+[00:43:50.920 --> 00:43:58.920]   InfoWarsLife.com InfoWarsStore.com or call 1-888-253-3139
+[00:43:58.920 --> 00:44:03.520]   what do you think about the FBI saying that there's a terror alert on Monday
+[00:44:03.520 --> 00:44:07.840]   about a potential fortune situation the police are shoving people shoving Alex
+[00:44:07.840 --> 00:44:13.660]   shoving the crowd whether it's the radio show the news websites documentary
+[00:44:13.660 --> 00:44:17.080]   films or the nightly news InfoWars is the tip of the spear
+[00:44:17.080 --> 00:44:20.160]   is this another false flight stage attack to take our civil liberties and
+[00:44:20.160 --> 00:44:23.520]   put more homeless security are sticking their hands down on the streets it's up
+[00:44:23.520 --> 00:44:27.640]   to us to set brush fires in the minds of men and women everywhere and that's what
+[00:44:27.640 --> 00:44:32.840]   prison planet dot TV is designed to do you watch the Assad regime is going to
+[00:44:32.840 --> 00:44:38.240]   be blamed or accused of using chemical weapons against the so-called rebels
+[00:44:38.240 --> 00:44:42.480]   what we see now is a war against reality it's a war against the truth it's more
+[00:44:42.480 --> 00:44:46.760]   vital than ever that supporters of freedom become members of prison planet
+[00:44:46.760 --> 00:44:51.320]   dot TV and share their membership with up to 11 friends and family visit
+[00:44:51.320 --> 00:44:56.400]   InfoWarsNews.com today become a member share your membership and help take the
+[00:44:56.400 --> 00:45:01.600]   info war to the next level tell folks how you got introduced to super male and
+[00:45:01.600 --> 00:45:05.600]   then when super female came out tell us what happened after I saw such a huge
+[00:45:05.600 --> 00:45:09.600]   positive change in my husband I had to try it for myself talk about the effects
+[00:45:09.600 --> 00:45:13.320]   I feel great when I wake up in the morning I have drive to go to the gym I
+[00:45:13.320 --> 00:45:18.320]   feel like I look better I feel better I feel sexier I love it even if you don't
+[00:45:18.320 --> 00:45:21.720]   believe in supplements take the challenge get a bottle of super male a
+[00:45:21.720 --> 00:45:25.720]   bottle of super female check it out for yourself consult your physician visit
+[00:45:25.720 --> 00:45:29.840]   InfoWarsLife.com today this is life-changing the government's
+[00:45:29.840 --> 00:45:33.720]   Department of Homeland Security is buying up loads of ammo at the same time
+[00:45:33.720 --> 00:45:38.040]   the restricting civilians rights to own and purchase firearms can you put two
+[00:45:38.040 --> 00:45:42.680]   and two together infidel body armor can stop every round including hollow points
+[00:45:42.680 --> 00:45:47.640]   and 308 sniper rounds is reasonably priced and fully legal but for how long
+[00:45:47.640 --> 00:45:55.400]   go to infidel body armor comm spelled I n F ID EL body armor comm infidel body
+[00:45:55.400 --> 00:46:01.640]   armor just won't quit from the water table to our soils to the atmosphere
+[00:46:01.640 --> 00:46:06.200]   itself our world is becoming more and more toxic each and every day but it's
+[00:46:06.200 --> 00:46:10.200]   not just the air outside that's toxic indoor air has been shown to have two to
+[00:46:10.200 --> 00:46:13.600]   five times higher concentrations of pollutants than even outdoor air and
+[00:46:13.600 --> 00:46:18.160]   most Americans spend 90% of their time inside using toxic chemicals within
+[00:46:18.160 --> 00:46:21.760]   their homes there are more than 42 million smokers in the United States
+[00:46:21.760 --> 00:46:26.160]   well over a thousand types of mold and mildew linked to numerous conditions and
+[00:46:26.160 --> 00:46:29.360]   don't forget the fact that six million Americans live with pets they're
+[00:46:29.360 --> 00:46:32.880]   allergic to as well when I began to research these statistics it was clear
+[00:46:32.880 --> 00:46:37.560]   to me it was time to start cleansing my lungs in order to combat the toxic
+[00:46:37.560 --> 00:46:41.140]   environment that we cannot escape but that we can fight back against made with
+[00:46:41.140 --> 00:46:45.960]   organic and wild cultivated herbs and manufactured in the USA the new InfoWars
+[00:46:45.960 --> 00:46:49.360]   Life lung cleanse is here in a convenient spray bottle that can be
+[00:46:49.360 --> 00:46:53.080]   brought with you throughout any toxic environment now available exclusively at
+[00:46:53.080 --> 00:46:59.840]   InfoWarsLife.com or by calling toll-free 888-253-3139
+[00:46:59.840 --> 00:47:05.960]   coast to coast direct from Austin you're listening to the Alex Jones
+[00:47:05.960 --> 00:47:09.320]   broadcasting network
+[00:47:10.240 --> 00:47:21.800]   we are on the march the Empire is on the run Alex Jones and the GCN radio network
+[00:47:21.800 --> 00:47:32.600]   when the bell begins to chime
+[00:47:33.280 --> 00:47:43.280]   reflecting on my past life and it doesn't have much time
+[00:47:43.280 --> 00:47:47.960]   that's right we don't have much time here on this earth so we need to spend
+[00:47:47.960 --> 00:47:54.000]   it wisely we need to look at ourselves in the mirror and man up and when there
+[00:47:54.000 --> 00:47:59.400]   problems out there we need to confront them that's how you got to live your
+[00:47:59.400 --> 00:48:06.040]   life this is the Alex Jones show I'm your host Rob do riding with you for I
+[00:48:06.040 --> 00:48:09.080]   guess for the next hour and ten minutes is gonna be Paul Joseph Watson as well
+[00:48:09.080 --> 00:48:13.640]   riding shotgun we're gonna take your calls coming up at the end of this
+[00:48:13.640 --> 00:48:17.560]   segment we're gonna start taking your calls eight seven seven seven eight nine
+[00:48:17.560 --> 00:48:22.120]   Alex eight seven seven seven eight nine two five three nine and call us in with
+[00:48:22.120 --> 00:48:25.920]   your questions on Ebola we're gonna start talking about ISIS here in a
+[00:48:25.920 --> 00:48:31.240]   second even a little NFL on NFL worship day we're gonna talk a little bit about
+[00:48:31.240 --> 00:48:35.800]   the NFL's FBI contingent they have a whole department dedicated to covering
+[00:48:35.800 --> 00:48:39.320]   up scandals does it surprise you that these people also work with the federal
+[00:48:39.320 --> 00:48:44.960]   government to get you on Obamacare and take away your guns doesn't surprise me
+[00:48:44.960 --> 00:48:49.880]   now we might even get into some chemtrail news there was an interesting
+[00:48:49.880 --> 00:48:55.800]   article that came out in CBS it was on Drudge Report about a mysterious streak
+[00:48:55.800 --> 00:48:59.840]   of light in the Bay Area that morning people were talking about it and it
+[00:48:59.840 --> 00:49:04.440]   reminded me of an article we posted on Friday and we'll get all we'll get to
+[00:49:04.440 --> 00:49:11.080]   that all coming up in the next hour Paul we've got some interesting stuff going
+[00:49:11.080 --> 00:49:18.720]   on with ISIS a few days ago the entire ISIS opposition was blown up in an
+[00:49:18.720 --> 00:49:26.000]   explosion how convenient they were all sent to Mustafar and Anakin Skywalker
+[00:49:26.000 --> 00:49:29.560]   came in with a lightsaber and just started slicing and dicing and then I
+[00:49:29.560 --> 00:49:32.400]   guess blew up the station I mean at least that's how it happened in Star
+[00:49:32.400 --> 00:49:37.240]   Wars episode 3 what do you make of that the entire leadership is just decimated
+[00:49:37.240 --> 00:49:41.080]   with a bomb we got the footage running right now if you're watching on prison
+[00:49:41.080 --> 00:49:45.520]   planet TV of Anakin about to take care of the guys who were supposed to be on
+[00:49:45.520 --> 00:49:49.840]   his side yeah there he is taking care of him
+[00:49:49.840 --> 00:49:55.920]   what do you make of all this I mean that was a really bizarre story I know these
+[00:49:55.920 --> 00:49:59.640]   rebel groups like to blow each other up on a regular basis now there's a lot of
+[00:49:59.640 --> 00:50:04.120]   infighting but it was quite bizarre that this mystery explosion just wiped out
+[00:50:04.120 --> 00:50:09.440]   all of them there's also a really interesting article on ISIS called path
+[00:50:09.440 --> 00:50:13.680]   to war then and now haunt Obama which is a New York Times article the top of
+[00:50:13.680 --> 00:50:17.400]   drudge at the moment and there are several interesting quotes including
+[00:50:17.400 --> 00:50:21.000]   about these beheading videos which we can move on to a little bit later but in
+[00:50:21.000 --> 00:50:25.420]   terms of ISIS in the strike and on Syria which we saw introduced last week in
+[00:50:25.420 --> 00:50:30.360]   Obama's speech or earlier this week it's now come to light that before he gave
+[00:50:30.360 --> 00:50:36.760]   that speech on Wednesday night Obama met with basically the CFR and the big new
+[00:50:36.760 --> 00:50:41.600]   Brzezinski now remember Hillary Clinton admitted that the CFR was located just
+[00:50:41.600 --> 00:50:44.760]   down the street from the State Department because it gives the State
+[00:50:44.760 --> 00:50:49.800]   Department its orders it runs US foreign policy so hours before Obama gave this
+[00:50:49.800 --> 00:50:54.640]   big speech on ISIS and how he's planning to conduct airstrikes in Syria which of
+[00:50:54.640 --> 00:50:59.040]   course he failed to do last year he's meeting with the CFR and he's also
+[00:50:59.040 --> 00:51:05.640]   meeting with groups of columnists and magazine writers for a quote discussion
+[00:51:05.640 --> 00:51:10.560]   hours before he gives this major speech he's meeting with all these editorial
+[00:51:10.560 --> 00:51:14.600]   writers media heads from the New York Times Washington Post and it's
+[00:51:14.600 --> 00:51:19.800]   obviously to massage the message on ISIS we saw this with Bush numerous times
+[00:51:19.800 --> 00:51:24.160]   before he gave major foreign policy speeches he would meet with the New York
+[00:51:24.160 --> 00:51:28.280]   Times and the Washington Post hours beforehand to basically instruct them
+[00:51:28.280 --> 00:51:32.760]   on how to craft the narrative craft what he's trying to push the propaganda he's
+[00:51:32.760 --> 00:51:38.320]   trying to manifest and project onto the American people and that's state media I
+[00:51:38.320 --> 00:51:43.160]   mean it's a glaring example of how they basically get their marching orders to
+[00:51:43.160 --> 00:51:46.800]   create the narrative that the White House wants and then they put it out
+[00:51:46.800 --> 00:51:50.280]   immediately after Obama's speech and Paul we did not get invited to this
+[00:51:50.280 --> 00:51:55.200]   press conference that's how I can say it's state-run media because the meat
+[00:51:55.200 --> 00:51:58.040]   not all the media were asked to come to this I could tell you that right now
+[00:51:58.040 --> 00:52:03.520]   InfoWars was not asked to come and give and sit and take notes and be given fact
+[00:52:03.520 --> 00:52:07.960]   sheets of the talking points I'm gonna go back to some back in right before
+[00:52:07.960 --> 00:52:11.320]   September 11th remember they killed the commander of the Northern Alliance with
+[00:52:11.320 --> 00:52:14.440]   the bomb they had some guys that were gonna come interview him and they killed
+[00:52:14.440 --> 00:52:19.080]   him right before 9/11 happened and all this invasion so maybe that is this is a
+[00:52:19.080 --> 00:52:24.880]   precursor to another invasion of Syria maybe that's what this means so you know
+[00:52:24.880 --> 00:52:28.280]   they go in and kill these supposed opposition leaders to bring in a whole
+[00:52:28.280 --> 00:52:31.440]   new crop of people that we don't know anything about I don't know much about
+[00:52:31.440 --> 00:52:34.920]   these Syrian opposition guys anyway but now we have a whole new crowd of people
+[00:52:34.920 --> 00:52:38.840]   we know nothing about who could be involved in that and who could pull
+[00:52:38.840 --> 00:52:43.000]   something off like that what kind of an operation makes you wonder well I mean
+[00:52:43.000 --> 00:52:47.960]   they're arming the Syrian opposition who are openly defecting and giving weapons
+[00:52:47.960 --> 00:52:52.600]   to Isis I mean I documented that last week in an article so the announcement
+[00:52:52.600 --> 00:52:56.840]   for Obama to send all this aid and weapons to these Syrian rebels are
+[00:52:56.840 --> 00:53:02.120]   basically fighting Isis by arming Isis because now as I documented in that
+[00:53:02.120 --> 00:53:06.800]   article they're defecting to Isis giving them weapons in fact that beheaded
+[00:53:06.800 --> 00:53:12.280]   journalist Stephen Sokloff was sold to Isis by the so-called moderate rebels so
+[00:53:12.280 --> 00:53:17.280]   now we're backing the allies of Isis as the US's allies in the region Saudi
+[00:53:17.280 --> 00:53:21.960]   Arabia Qatar Turkey and Jordan funded bankroll trained Isis militants in the
+[00:53:21.960 --> 00:53:27.000]   first place but going back to this New York Times article a quote Obama
+[00:53:27.000 --> 00:53:31.080]   contemplated the possibility that mr. Assad might order his forces to fire at
+[00:53:31.080 --> 00:53:36.000]   American planes entering Syrian airspace if he dared to do that you know if he
+[00:53:36.000 --> 00:53:40.360]   dared to defend his own country quote mr. Obama said he would order American
+[00:53:40.360 --> 00:53:44.520]   forces to wipe out Syria's air defense system which he noted would be easier
+[00:53:44.520 --> 00:53:48.960]   than striking Isis because its locations are better known he went on to say that
+[00:53:48.960 --> 00:53:54.040]   such an action by mr. Assad would lead to his overthrow so Obama is now saying
+[00:53:54.040 --> 00:53:58.440]   in private and this has been leaked since that if Syria dares to defend its
+[00:53:58.440 --> 00:54:04.320]   own sovereign airspace against American bombardment under the justification of
+[00:54:04.320 --> 00:54:10.280]   targeting Isis that basically Obama will launch a full-scale war on Syria so it
+[00:54:10.280 --> 00:54:14.680]   reminds us of the the plot back during just before the Iraq invasion where they
+[00:54:14.680 --> 00:54:21.040]   plan to fly a u-2 spy plane over Iraq painted in UN colors and try to provoke
+[00:54:21.040 --> 00:54:25.600]   Saddam Hussein into into ordering it being shot down to create the pretext
+[00:54:25.600 --> 00:54:29.080]   for a justified attack so now we're seeing exactly the same script being
+[00:54:29.080 --> 00:54:33.600]   repeated in Syria yeah I think Dick Cheney came up with that plan with the
+[00:54:33.600 --> 00:54:37.520]   you with the u-2 spy plane I mean these people will not stop they have to have
+[00:54:37.520 --> 00:54:41.680]   their clone droid armies fighting against each other and we have to pay
+[00:54:41.680 --> 00:54:46.160]   for it and this is just it's it's the same story over and over again ten years
+[00:54:46.160 --> 00:54:49.440]   later we're still at the same spot we're about to go to war with an enemy that we
+[00:54:49.440 --> 00:54:53.600]   cannot beat that has no base of operations that can strike us at any
+[00:54:53.600 --> 00:54:58.320]   time and there might even be reports of these guys coming over the border we
+[00:54:58.320 --> 00:55:05.120]   don't know we we just don't know what is gonna happen and they've got it they're
+[00:55:05.120 --> 00:55:10.040]   arming these guys they've got it so well orchestrated and now we have senators
+[00:55:10.040 --> 00:55:16.920]   like Patrick Leahy coming out and saying if we go against NSA well if we curb the
+[00:55:16.920 --> 00:55:22.480]   NSA it could help Isis that's from the hill that just came out I mean they
+[00:55:22.480 --> 00:55:26.240]   won't stop it's it's we have to just keep ramping up and taking away your
+[00:55:26.240 --> 00:55:30.960]   rights which last week a guy we've had on this show and I agree with a lot of
+[00:55:30.960 --> 00:55:35.120]   what he says Nigel Farage one of your fellow countrymen came out and said we
+[00:55:35.120 --> 00:55:40.480]   have to give up liberty for security and we have that video clip and you guys
+[00:55:40.480 --> 00:55:45.360]   roll that or if you don't have it
+[00:55:45.360 --> 00:55:50.400]   I genuinely believe that if citizens of our countries have been to Syria or Iraq
+[00:55:50.400 --> 00:55:56.920]   to fight for Isis or any similar organization we would be mad literally
+[00:55:56.920 --> 00:56:02.560]   mad to allow them back into our country so I can't turn the clock back you know
+[00:56:02.560 --> 00:56:07.920]   I tried ten years ago to stop this from happening and I was shouted down but
+[00:56:07.920 --> 00:56:13.120]   what we can do is to make sure that it doesn't get worse and I'm afraid within
+[00:56:13.120 --> 00:56:18.240]   our own states we're gonna have to be very very vigilant indeed and that
+[00:56:18.240 --> 00:56:23.040]   probably means and I'm sad to say this but it probably means giving up some of
+[00:56:23.040 --> 00:56:26.920]   the liberties that previously we've enjoyed well my previous comment to you
+[00:56:26.920 --> 00:56:31.760]   there was that I thought we would have to surrender some of the previous
+[00:56:31.760 --> 00:56:37.000]   liberties and freedoms that we enjoyed in order to deal with something that is
+[00:56:37.000 --> 00:56:43.200]   a crisis that does actually and let's be serious this faces the very existence of
+[00:56:43.200 --> 00:56:47.480]   our civilization you know there are people out there no sorry there are
+[00:56:47.480 --> 00:56:52.800]   people within here that want to destroy us and their main means of
+[00:56:52.800 --> 00:56:59.880]   communication is social media and I'm afraid that the state and the services
+[00:56:59.880 --> 00:57:04.680]   and the authorities that are paid and empowered to protect us are going to
+[00:57:04.680 --> 00:57:08.880]   have to have more powers to deal with to deal with these people and they will do
+[00:57:08.880 --> 00:57:14.560]   it via social media and I hate to say this because seems to me that you know
+[00:57:14.560 --> 00:57:18.360]   if I ring you on a Sunday night and so talk about the football game or whatever
+[00:57:18.360 --> 00:57:23.400]   it may be or we email each other to talk about mutual friends I would rather live
+[00:57:23.400 --> 00:57:28.040]   in a world where that was free and private and we had our liberty I'm afraid
+[00:57:28.040 --> 00:57:37.880]   but but but I'm afraid that we're now in territory that is so so serious and I
+[00:57:37.880 --> 00:57:43.640]   say this not willing for this to happen but let's just remember that Isis have
+[00:57:43.640 --> 00:57:48.000]   said they will launch terrorist
+[00:57:48.000 --> 00:57:53.280]   after consulting top doctors nutritionist pharmacist and others we
+[00:57:53.280 --> 00:57:58.720]   have developed what I believe is the ultimate non-gmo organic super male
+[00:57:58.720 --> 00:58:04.280]   vitality formula super male vitality by info wars life is so powerful that I
+[00:58:04.280 --> 00:58:08.080]   only take half the recommended dose I jump out of bed ready to fight these
+[00:58:08.080 --> 00:58:11.520]   criminals every day I look forward to waking up and taking my super male
+[00:58:11.520 --> 00:58:16.760]   vitality is an info wars life.com today to secure your super male vitality and
+[00:58:16.760 --> 00:58:20.600]   other powerful products from info wars life the government's Department of
+[00:58:20.600 --> 00:58:24.760]   Homeland Security is buying up loads of ammo at the same time the restricting
+[00:58:24.760 --> 00:58:28.680]   civilians rights to own and purchase firearms can you put two and two together
+[00:58:28.680 --> 00:58:33.840]   infidel body armor can stop every round including hollow points in 308 sniper
+[00:58:33.840 --> 00:58:39.000]   rounds is reasonably priced and fully legal but for how long go to infidel
+[00:58:39.000 --> 00:58:47.040]   body armor.com spelled I n F I D E L body armor.com infidel body armor just
+[00:58:47.040 --> 00:58:52.840]   won't quit using unparalleled research in the development of a synergistic
+[00:58:52.840 --> 00:58:57.560]   formulation based around the key concepts of super oxygenation the next
+[00:58:57.560 --> 00:59:01.440]   level in cleansing is here with key ingredients backed by real clinical
+[00:59:01.440 --> 00:59:05.720]   studies the new oxy powder available through info wars life was invented
+[00:59:05.720 --> 00:59:09.640]   during dr. groups research on the toxification of our bodies many herbal
+[00:59:09.640 --> 00:59:13.700]   colon cleansers are harsh on the body and contain cheap and potentially
+[00:59:13.700 --> 00:59:18.800]   dangerous ingredients oftentimes full of synthetic fillers GMOs additives or
+[00:59:18.800 --> 00:59:22.880]   worse gently start cleaning your body with easy capsules that start working
+[00:59:22.880 --> 00:59:26.920]   while you sleep oxy powder does not require time off work and there's no
+[00:59:26.920 --> 00:59:32.160]   need for bad tasting concoctions instead oxy powder slowly releases monoatomic
+[00:59:32.160 --> 00:59:36.800]   oxygen into the intestinal tract and body experience the astonishing cleansing
+[00:59:36.800 --> 00:59:42.200]   power of superoxide and ozonide technology go to info wars life.com or
+[00:59:42.200 --> 00:59:50.080]   info wars store.com to get started with oxy powder or call 1-888-253-3139
+[00:59:50.080 --> 00:59:56.000]   coast to coast direct from Austin you're listening to the Alex Jones
+[00:59:56.000 --> 00:59:59.360]   broadcasting network
+[01:00:00.520 --> 01:00:06.240]   from his Central Texas command center deep behind enemy lines the information
+[01:00:06.240 --> 01:00:12.880]   war continues it's Alex Jones and the GCN radio network
+[01:00:12.880 --> 01:00:21.720]   all right the toll-free number to join us is 877-789-ALEX
+[01:00:21.720 --> 01:00:27.600]   877-789-2539 we've got some callers lining up now when we talk about
+[01:00:27.600 --> 01:00:32.840]   Ebola and the military response that was one thing we didn't cover the DOD is
+[01:00:32.840 --> 01:00:35.920]   gonna be tasked they're making that their number one priority I've got Paul
+[01:00:35.920 --> 01:00:40.080]   Joseph Watson with me writing shotgun I'm actually looking for that article
+[01:00:40.080 --> 01:00:44.840]   right now it was a Fox News article that we had and we're gonna finish up on ISIS
+[01:00:44.840 --> 01:00:49.200]   we got a five-minute segment here and then we're gonna come back from this
+[01:00:49.200 --> 01:00:53.520]   break I promise we're gonna go right to Bowser in Missouri we got Jim and Callie
+[01:00:53.520 --> 01:00:58.680]   Roy in Montana Jim in Tennessee and Rashid in Philadelphia you guys are all
+[01:00:58.680 --> 01:01:01.720]   very concerned about Ebola and that's good this is something we should be
+[01:01:01.720 --> 01:01:04.360]   concerned about especially now that we're importing it into our country the
+[01:01:04.360 --> 01:01:09.480]   State Department's getting over 160,000 hazmat uniforms that's the State
+[01:01:09.480 --> 01:01:14.320]   Department not even the CDC I mean what does this all mean this is crazy
+[01:01:14.320 --> 01:01:20.440]   Paul let's get back to ISIS let's let's finish up on this we've got senators we
+[01:01:20.440 --> 01:01:24.080]   just finished up with that clip from Nigel Farage talking about how we have
+[01:01:24.080 --> 01:01:28.920]   to he's channeling bizarro Ben Franklin we have to give up our liberties for
+[01:01:28.920 --> 01:01:31.960]   security we have to give up our liberties for security I mean and this
+[01:01:31.960 --> 01:01:34.320]   is coming from everywhere even the Huffington Post is saying we got to
+[01:01:34.320 --> 01:01:37.360]   raise taxes and bring back the draft to fight ISIS I mean this is a group we
+[01:01:37.360 --> 01:01:42.600]   funded why don't we just cut their funding well the the potency of this
+[01:01:42.600 --> 01:01:47.520]   propaganda is seemingly so intense that it's fooled people on both the left and
+[01:01:47.520 --> 01:01:51.680]   right that you would normally assume would be guarded against this kind of
+[01:01:51.680 --> 01:01:56.680]   militaristic bellicose you know talking point because I mean you know with
+[01:01:56.680 --> 01:02:02.680]   Farage the NSA bulk collection of data from telephone calls did not foil a
+[01:02:02.680 --> 01:02:05.800]   single terrorist plot I mean that's documented there's a there's a
+[01:02:05.800 --> 01:02:10.000]   Washington blog article about that which goes through the the justifications and
+[01:02:10.000 --> 01:02:14.480]   then the debunking that it never stopped a single terrorist plot so it's a false
+[01:02:14.480 --> 01:02:20.040]   paradigm in the first place I think Farage Farage's logic is absent the fact
+[01:02:20.040 --> 01:02:24.200]   that many of the terror plots in the United States and indeed in Britain
+[01:02:24.200 --> 01:02:28.120]   where most of the radical Islamic preachers are actually you know mi5
+[01:02:28.120 --> 01:02:32.720]   informants if you actually dig into it same in the United States with the FBI
+[01:02:32.720 --> 01:02:37.320]   being behind most domestic terror plots they create the patsies they provide
+[01:02:37.320 --> 01:02:40.520]   them with the fake explosives in the first place they radicalize all the
+[01:02:40.520 --> 01:02:45.720]   members of the terrorist cells you know his argument is absent that foundational
+[01:02:45.720 --> 01:02:49.880]   logic they find people of dubious mental clarity I mean most of these guys have
+[01:02:49.880 --> 01:02:55.640]   very low IQs there was one case it was a group of guys in a house and I think it
+[01:02:55.640 --> 01:02:59.400]   was Ohio they were gonna blow up a bridge and then the landlord was the guy
+[01:02:59.400 --> 01:03:03.080]   who was the informant and he was getting these guys riled up every day and then
+[01:03:03.080 --> 01:03:06.600]   like hey I got the bomb I got the bomb let's go do it I mean it's total it's
+[01:03:06.600 --> 01:03:10.680]   insanity what the FBI does now and this is just to keep their budgets going this
+[01:03:10.680 --> 01:03:14.640]   is just to keep the war on terror going it's like it's like why they ship drugs
+[01:03:14.640 --> 01:03:17.600]   into this country to keep the war on drugs going we got to ship in the drugs
+[01:03:17.600 --> 01:03:22.480]   and feed them to people it's insane I mean even the New York Times there was
+[01:03:22.480 --> 01:03:26.080]   a quite a famous article a couple years ago where they it was something like FBI
+[01:03:26.080 --> 01:03:31.520]   plots created by the terror plots created by the FBI and basically every
+[01:03:31.520 --> 01:03:36.360]   single major domestic terror plot has been a result of the FBI radicalizing
+[01:03:36.360 --> 01:03:39.880]   these mentally disturbed patsies providing them with the fake explosives
+[01:03:39.880 --> 01:03:43.960]   generating contriving the plot themselves and I think Farage is playing
+[01:03:43.960 --> 01:03:48.440]   off this idea that Cameron and Obama have been quote weak on ISIS but again
+[01:03:48.440 --> 01:03:53.560]   it's absent the knowledge that the US trained many ISIS militants in Jordan in
+[01:03:53.560 --> 01:03:58.680]   2012 of course many Syrian rebels backed by the UK and the US defected to ISIS
+[01:03:58.680 --> 01:04:03.160]   became part of the radicalized group so they're trying as UKIP becomes more
+[01:04:03.160 --> 01:04:07.280]   closer to the mainstream as they try to accrue more power they're taking on more
+[01:04:07.280 --> 01:04:11.440]   establishment talking points which is concerning I mean I voted for them in
+[01:04:11.440 --> 01:04:15.480]   the recent European elections because they offered a genuine alternative but
+[01:04:15.480 --> 01:04:20.520]   any any so-called self-proclaimed libertarian that says we need to give up
+[01:04:20.520 --> 01:04:24.600]   our freedom for security needs to take a serious look in the mirror because we're
+[01:04:24.600 --> 01:04:28.120]   told that the terrorists hate us for our freedom yet we're gonna willingly give
+[01:04:28.120 --> 01:04:32.600]   it up to so to in the name of fighting terrorism which in the main is created
+[01:04:32.600 --> 01:04:38.040]   by our own government that's the great paradox that we live in now because of
+[01:04:38.040 --> 01:04:44.200]   the terrorists that we arm and that we give training to and missiles and Benghazi
+[01:04:44.200 --> 01:04:48.840]   and now we give them airliners strap yourselves in we're gonna be going to
+[01:04:48.840 --> 01:04:52.840]   calls top this next break coming up in one minute
+[01:04:52.840 --> 01:04:58.800]   Bowser you're up get ready it's the Alex Jones show I'm your host Rob do you've
+[01:04:58.800 --> 01:05:02.440]   heard about the essential qualities of iodine when it comes to your well-being
+[01:05:02.440 --> 01:05:06.080]   and you've read the opinions of top experts regarding this good member of
+[01:05:06.080 --> 01:05:10.200]   the halogen family still reports indicate that iodine is absent in
+[01:05:10.200 --> 01:05:14.360]   sufficient amounts from the daily lives of countless people worldwide now our
+[01:05:14.360 --> 01:05:19.080]   extra-strength new nascent iodine formula is here survival shield x2
+[01:05:19.080 --> 01:05:23.360]   leading the way into the next generation of super high quality nascent iodine
+[01:05:23.360 --> 01:05:28.200]   InfoWars life survival shield x2 is derived from 200 plus million year old
+[01:05:28.200 --> 01:05:32.400]   salt solutions found more than 7,000 feet below the earth's surface the
+[01:05:32.400 --> 01:05:36.320]   result is a unique nascent iodine that is both concentrated and free of
+[01:05:36.320 --> 01:05:40.800]   unwanted additives genetically modified ingredients and completely vegan we even
+[01:05:40.800 --> 01:05:45.760]   pre-screen our survival shield x2 iodine for radiation pure clean and sourced
+[01:05:45.760 --> 01:05:49.920]   from deep within the earth x2 nascent iodine is available exclusively at
+[01:05:49.920 --> 01:05:57.920]   InfoWarsLife.com InfoWarsStore.com or call 1-888-253-3139
+[01:05:57.920 --> 01:06:15.920]   [Music]
+[01:06:15.920 --> 01:06:17.920]   KFLN Los Angeles
+[01:06:17.920 --> 01:06:18.920]   Clone Radio
+[01:06:18.920 --> 01:06:22.920]   We play the songs that sound more like everyone else than anyone else
+[01:06:22.920 --> 01:06:23.920]   Clone
+[01:06:23.920 --> 01:06:25.920]   [Static]
+[01:06:25.920 --> 01:06:30.920]   Hitler took the guns Stalin took the guns Mao took the guns Fidel Castro took
+[01:06:30.920 --> 01:06:32.920]   the guns Hugo Chavez took the guns
+[01:06:32.920 --> 01:06:34.920]   [Static]
+[01:06:34.920 --> 01:06:38.920]   1776 will commence again if you try to take our firearms
+[01:06:38.920 --> 01:06:40.920]   [Static]
+[01:06:40.920 --> 01:06:43.920]   The Republic will rise again when you attempt to take our guns
+[01:06:43.920 --> 01:06:45.920]   [Static]
+[01:06:45.920 --> 01:06:48.920]   I am sworn upon the altar of God
+[01:06:48.920 --> 01:06:54.920]   Eternal hostility against every form of tyranny over the mind of man
+[01:06:54.920 --> 01:06:57.920]   [Music]
+[01:06:57.920 --> 01:07:02.920]   The answer to 1984 is 1776
+[01:07:02.920 --> 01:07:05.920]   You're listening to the Alex Jones Show
+[01:07:05.920 --> 01:07:11.920]   [Music]
+[01:07:11.920 --> 01:07:13.920]   Welcome back to the Alex Jones Show
+[01:07:13.920 --> 01:07:18.920]   We got one more hour here live September 14th 2014 I'm your host Rob Due
+[01:07:18.920 --> 01:07:21.920]   You can find out more information on InfoWars.com
+[01:07:21.920 --> 01:07:24.920]   PrisonPlanet.com PrisonPlanet.tv
+[01:07:24.920 --> 01:07:27.920]   And if you want to watch the show free for live on Internet TV
+[01:07:27.920 --> 01:07:30.920]   You can go to InfoWars.com/show
+[01:07:30.920 --> 01:07:32.920]   And you can watch all the stuff we're doing here
+[01:07:32.920 --> 01:07:35.920]   Showing you the articles showing you video clips
+[01:07:35.920 --> 01:07:39.920]   I've got riding shotgun with me Paul Watson over in England
+[01:07:39.920 --> 01:07:43.920]   We're talking about ISIS right now but first before we go any further
+[01:07:43.920 --> 01:07:44.920]   We're going to go to your calls
+[01:07:44.920 --> 01:07:47.920]   We got Bowser in Missouri
+[01:07:47.920 --> 01:07:48.920]   Thanks for waiting
+[01:07:48.920 --> 01:07:50.920]   What's your question Bowser?
+[01:07:50.920 --> 01:07:53.920]   Yes, good talk to you InfoWarriors
+[01:07:53.920 --> 01:07:57.920]   Really enjoy Paul Watson's reports, he's great
+[01:07:57.920 --> 01:08:02.920]   I called today, I'm an old guy, 61
+[01:08:02.920 --> 01:08:04.920]   I was a medic in the paratroops
+[01:08:04.920 --> 01:08:06.920]   However my dad was a colonel
+[01:08:06.920 --> 01:08:10.920]   He was an NBC warfare expert, a general staff officer
+[01:08:10.920 --> 01:08:17.920]   I've been worried about biological breakouts since I was about 10 years old
+[01:08:17.920 --> 01:08:21.920]   I just wanted to bring attention to your listeners
+[01:08:21.920 --> 01:08:28.920]   A great book that truly brings home the horrors of the bio warfare scenario
+[01:08:28.920 --> 01:08:32.920]   And that is a book called "The Demon in the Freezer"
+[01:08:32.920 --> 01:08:35.920]   You can find it on Amazon
+[01:08:35.920 --> 01:08:41.920]   And it covers the Marburg virus which is essentially the same thing as Ebola
+[01:08:41.920 --> 01:08:44.920]   And smallpox, etc
+[01:08:44.920 --> 01:08:52.920]   And it closes out the book with the last couple chapters on the monkey house in Reston, Virginia
+[01:08:52.920 --> 01:08:58.920]   And I guarantee you, you'll have a week's worth of sleepless nights after you read that book
+[01:08:58.920 --> 01:09:00.920]   That's all guys
+[01:09:00.920 --> 01:09:02.920]   Well let me tell you, I couldn't sleep after watching that Nova clip
+[01:09:02.920 --> 01:09:07.920]   Just how they knew back in 1989 that this disease could go airborne
+[01:09:07.920 --> 01:09:11.920]   Back then they traced it going through the ventilation shaft
+[01:09:11.920 --> 01:09:14.920]   Different areas of monkeys were getting infected
+[01:09:14.920 --> 01:09:16.920]   They had to eradicate 400 monkeys
+[01:09:16.920 --> 01:09:20.920]   And it was the US military going in there in secret doing this
+[01:09:20.920 --> 01:09:22.920]   This never made the news
+[01:09:22.920 --> 01:09:28.920]   And it becomes a footnote in a Nova presentation with a nice narrator talking it over like it's no big deal
+[01:09:28.920 --> 01:09:30.920]   They eradicated the problem
+[01:09:30.920 --> 01:09:32.920]   Yes, uh-huh
+[01:09:32.920 --> 01:09:35.920]   Well, I mean, this is so frightening to me
+[01:09:35.920 --> 01:09:39.920]   The fact that they're telling us that 20,000 people are infected
+[01:09:39.920 --> 01:09:43.920]   My guess is it's probably closer to a quarter million by now
+[01:09:43.920 --> 01:09:45.920]   And I mean that
+[01:09:45.920 --> 01:09:48.920]   Oh no, they say this thing's going to double every two weeks
+[01:09:48.920 --> 01:09:51.920]   So if you have 20,000 a few days ago
+[01:09:51.920 --> 01:09:54.920]   You know, in a few days it's going to be 40
+[01:09:54.920 --> 01:09:56.920]   And then it's going to be 80
+[01:09:56.920 --> 01:09:57.920]   And then it's 160
+[01:09:57.920 --> 01:09:59.920]   And that's just the ones they know about
+[01:09:59.920 --> 01:10:00.920]   What about the ones they don't know about?
+[01:10:00.920 --> 01:10:01.920]   What about the ones in the outlying areas?
+[01:10:01.920 --> 01:10:03.920]   The people who are getting turned away
+[01:10:03.920 --> 01:10:05.920]   Because people are getting turned away from clinics
+[01:10:05.920 --> 01:10:06.920]   And they say every time one's getting turned away
+[01:10:06.920 --> 01:10:11.920]   That's another one and a half cases that we know of that could just be infected
+[01:10:11.920 --> 01:10:12.920]   So I mean, it's just crazy
+[01:10:12.920 --> 01:10:14.920]   There is no response to this
+[01:10:14.920 --> 01:10:16.920]   And they just don't want to admit that it's gone airborne
+[01:10:16.920 --> 01:10:18.920]   So, do you have anything else to add, Bowser?
+[01:10:18.920 --> 01:10:22.920]   Yes, it's also insane and unconscionable
+[01:10:22.920 --> 01:10:26.920]   That they're actually flying these victims all over the world
+[01:10:26.920 --> 01:10:28.920]   I mean, that's not what you do
+[01:10:28.920 --> 01:10:30.920]   You pin them up
+[01:10:30.920 --> 01:10:31.920]   You know, it sounds cruel
+[01:10:31.920 --> 01:10:33.920]   But you pin them up and you let them die there
+[01:10:33.920 --> 01:10:34.920]   That's what you do
+[01:10:34.920 --> 01:10:39.920]   Or at least, take a ship out in the middle of the Atlantic Ocean
+[01:10:39.920 --> 01:10:40.920]   And fly everybody there
+[01:10:40.920 --> 01:10:41.920]   Put it in the Mediterranean
+[01:10:41.920 --> 01:10:44.920]   Put it where nobody else is going to get infected
+[01:10:44.920 --> 01:10:45.920]   And don't let anybody off the ship
+[01:10:45.920 --> 01:10:47.920]   If you go on this ship, you sign an agreement
+[01:10:47.920 --> 01:10:50.920]   Saying you're not going to leave for at least six months
+[01:10:50.920 --> 01:10:53.920]   So we know, bona fide, that you're not infected
+[01:10:53.920 --> 01:10:55.920]   And you're not going to infect anybody else
+[01:10:55.920 --> 01:10:59.920]   Yeah, it's just unconscionable the way they're handling this
+[01:10:59.920 --> 01:11:01.920]   And they're doing it, I think, on purpose
+[01:11:01.920 --> 01:11:06.920]   I think it's all part of the global depopulation plan
+[01:11:06.920 --> 01:11:07.920]   I really do, fellas
+[01:11:07.920 --> 01:11:09.920]   Well, you know, Bill Gates is getting involved now
+[01:11:09.920 --> 01:11:13.920]   And, you know, now GlaxoSmithKline wants to make a vaccine
+[01:11:13.920 --> 01:11:16.920]   Well, if they make a vaccine, it ends up in the United States
+[01:11:16.920 --> 01:11:19.920]   You've suddenly got 300 million people who want to buy this thing right off the bat
+[01:11:19.920 --> 01:11:21.920]   And who actually have the money to buy it
+[01:11:21.920 --> 01:11:24.920]   Unlike most of these African countries where it has to be aided in
+[01:11:24.920 --> 01:11:25.920]   Thanks for your call, Bowser
+[01:11:25.920 --> 01:11:27.920]   We're going to go now to Jim in Cali
+[01:11:27.920 --> 01:11:30.920]   He wants to talk about Ebola and the military response
+[01:11:30.920 --> 01:11:31.920]   I agree, Jim
+[01:11:31.920 --> 01:11:36.920]   It doesn't make sense that the DOD is being enlisted to help eradicate Ebola
+[01:11:36.920 --> 01:11:39.920]   Hi, yeah, thanks for taking my call
+[01:11:39.920 --> 01:11:43.920]   On that subject, if you recall, a couple of years ago
+[01:11:43.920 --> 01:11:47.920]   There was a drill, a public drill
+[01:11:47.920 --> 01:11:51.920]   Between the US military and the CDC
+[01:11:51.920 --> 01:11:54.920]   In which they went out and had people dressed up as zombies
+[01:11:54.920 --> 01:11:59.920]   And they would shoot them in this staged emergency exercise
+[01:11:59.920 --> 01:12:02.920]   And at the time, you know, it was covered all over the news
+[01:12:02.920 --> 01:12:05.920]   And people were wondering, well, why are they training for zombies?
+[01:12:05.920 --> 01:12:06.920]   This makes no sense, this is a fantasy
+[01:12:06.920 --> 01:12:09.920]   Why are they being so serious about a zombie apocalypse
+[01:12:09.920 --> 01:12:11.920]   And training to shoot down scores of infected people?
+[01:12:11.920 --> 01:12:14.920]   Well, now when you look at what we're seeing with Ebola
+[01:12:14.920 --> 01:12:15.920]   It makes perfect sense
+[01:12:15.920 --> 01:12:18.920]   They needed some sort of fantastical cover
+[01:12:18.920 --> 01:12:20.920]   For what could be a real scenario
+[01:12:20.920 --> 01:12:24.920]   Where you have scores of infected people that they need to quarantine
+[01:12:24.920 --> 01:12:26.920]   And at the end of the day, they'll do to us
+[01:12:26.920 --> 01:12:29.920]   Like they did to those monkeys in Russia
+[01:12:29.920 --> 01:12:30.920]   And just shoot us all down
+[01:12:30.920 --> 01:12:32.920]   And it'll be a secret military mission
+[01:12:32.920 --> 01:12:34.920]   Where they close off a city
+[01:12:34.920 --> 01:12:36.920]   And come in and firebomb the place
+[01:12:36.920 --> 01:12:39.920]   And then those who get out will be shot with guns
+[01:12:39.920 --> 01:12:40.920]   I mean, you can see that in the movies
+[01:12:40.920 --> 01:12:43.920]   And Ebola is a zombie-like virus
+[01:12:43.920 --> 01:12:47.920]   I mean, it transmitted through blood, through biting
+[01:12:47.920 --> 01:12:52.920]   It makes sense that they would be training to eradicate zombies
+[01:12:52.920 --> 01:12:55.920]   Because that's what they think is coming down the pipe
+[01:12:55.920 --> 01:12:57.920]   Of course, the CDC is involved in it
+[01:12:57.920 --> 01:13:00.920]   But they'll have their experimental vaccine
+[01:13:00.920 --> 01:13:02.920]   That's probably clean, not filled with mercury
+[01:13:02.920 --> 01:13:04.920]   To help themselves out
+[01:13:04.920 --> 01:13:06.920]   Yeah, I agree
+[01:13:06.920 --> 01:13:08.920]   People have got to look into this stuff
+[01:13:08.920 --> 01:13:10.920]   It's always stuff that happens two or three years ago
+[01:13:10.920 --> 01:13:12.920]   That's now coming back into the news
+[01:13:12.920 --> 01:13:14.920]   You got anything else to add, Jim?
+[01:13:14.920 --> 01:13:17.920]   Yeah, speaking of the vaccines
+[01:13:17.920 --> 01:13:20.920]   I just got a chance to watch World War Z
+[01:13:20.920 --> 01:13:22.920]   And one thing that caught my attention
+[01:13:22.920 --> 01:13:26.920]   Was that their solution for the zombie virus
+[01:13:26.920 --> 01:13:32.920]   Was to inject everybody with another deadly virus
+[01:13:32.920 --> 01:13:34.920]   Yeah, and they don't talk about what happens after that
+[01:13:34.920 --> 01:13:37.920]   Yes, exactly
+[01:13:37.920 --> 01:13:39.920]   But that was the hope of mankind
+[01:13:39.920 --> 01:13:41.920]   Was to basically inject yourself with another deadly virus
+[01:13:41.920 --> 01:13:43.920]   So hopefully that's not predictive programming
+[01:13:43.920 --> 01:13:45.920]   But you know how Hollywood is these days
+[01:13:45.920 --> 01:13:47.920]   Well, in Book 2, apparently
+[01:13:47.920 --> 01:13:49.920]   Or I think in the next movie, if they do make it
+[01:13:49.920 --> 01:13:51.920]   Apparently they come after gun owners next
+[01:13:51.920 --> 01:13:53.920]   And that's the big fight
+[01:13:53.920 --> 01:13:55.920]   Is in the US with the patriots
+[01:13:55.920 --> 01:13:57.920]   Who have their guns still
+[01:13:57.920 --> 01:13:59.920]   And don't want to give them up
+[01:13:59.920 --> 01:14:01.920]   So that's where that is going
+[01:14:01.920 --> 01:14:03.920]   Thanks for the call, Jim
+[01:14:03.920 --> 01:14:05.920]   We go now to Roy in Montana
+[01:14:05.920 --> 01:14:07.920]   Roy, how's it going?
+[01:14:07.920 --> 01:14:09.920]   Good, thanks for taking my call
+[01:14:09.920 --> 01:14:11.920]   I really appreciate getting to talk to you
+[01:14:11.920 --> 01:14:13.920]   And Paul, I really respect you guys
+[01:14:13.920 --> 01:14:15.920]   Yeah, what's your question?
+[01:14:15.920 --> 01:14:17.920]   Well, I don't actually have a question
+[01:14:17.920 --> 01:14:19.920]   My son was in the Army
+[01:14:19.920 --> 01:14:21.920]   And he was in a platoon over in Afghanistan
+[01:14:21.920 --> 01:14:23.920]   Came back and then he has to do a stint
+[01:14:23.920 --> 01:14:25.920]   In the National Guard
+[01:14:25.920 --> 01:14:27.920]   For a year and a half or two years
+[01:14:27.920 --> 01:14:29.920]   And they just got done with their big training
+[01:14:29.920 --> 01:14:31.920]   Down in Idaho
+[01:14:31.920 --> 01:14:33.920]   And there was a two-star general
+[01:14:33.920 --> 01:14:35.920]   And two guys there from the Pentagon
+[01:14:35.920 --> 01:14:37.920]   And each of them was given a survey
+[01:14:37.920 --> 01:14:39.920]   And the survey said
+[01:14:39.920 --> 01:14:41.920]   Are you willing to confiscate weapons from civilians?
+[01:14:41.920 --> 01:14:43.920]   And if ordered to, will you fire on American citizens?
+[01:14:43.920 --> 01:14:45.920]   And, uh, you know
+[01:14:45.920 --> 01:14:47.920]   He said they were outraged
+[01:14:47.920 --> 01:14:49.920]   And the general told him
+[01:14:49.920 --> 01:14:51.920]   That the Pentagon guys said
+[01:14:51.920 --> 01:14:53.920]   They were gearing up for something in 2016
+[01:14:53.920 --> 01:14:55.920]   But they wouldn't tell him what
+[01:14:55.920 --> 01:14:57.920]   And told him a couple of other things on the side
+[01:14:57.920 --> 01:14:59.920]   And, uh, so I thought you guys would be interested in that
+[01:14:59.920 --> 01:15:01.920]   That's very interesting
+[01:15:01.920 --> 01:15:03.920]   Is that online anywhere?
+[01:15:03.920 --> 01:15:05.920]   Or is that just, this is just a story from your son?
+[01:15:05.920 --> 01:15:07.920]   Well, no, that's just a story from my son
+[01:15:07.920 --> 01:15:09.920]   And the guys that, you know
+[01:15:09.920 --> 01:15:11.920]   They had to go over there
+[01:15:11.920 --> 01:15:13.920]   So, um, the guys from his platoon
+[01:15:13.920 --> 01:15:15.920]   That came back with him
+[01:15:15.920 --> 01:15:17.920]   And, uh, they were outraged
+[01:15:17.920 --> 01:15:19.920]   He's trying to get a copy from somebody
+[01:15:19.920 --> 01:15:21.920]   You know, so we can send it to you guys
+[01:15:21.920 --> 01:15:23.920]   Yeah, a copy or even a shot on a cell phone
+[01:15:23.920 --> 01:15:25.920]   Anything like that
+[01:15:25.920 --> 01:15:27.920]   Anytime something like that pops up
+[01:15:27.920 --> 01:15:29.920]   You need to immediately shoot that on your smartphone
+[01:15:29.920 --> 01:15:31.920]   And send it to tips@infowars.com
+[01:15:31.920 --> 01:15:33.920]   Or whistleblower@infowars.com
+[01:15:33.920 --> 01:15:35.920]   And I comb through those regularly
+[01:15:35.920 --> 01:15:37.920]   And I love to receive the tips
+[01:15:37.920 --> 01:15:39.920]   I mean, I've received some outrageous stuff
+[01:15:39.920 --> 01:15:41.920]   Some stuff that we haven't even gone public with yet
+[01:15:41.920 --> 01:15:43.920]   Because we have to vet it first
+[01:15:43.920 --> 01:15:45.920]   Because it's so outrageous
+[01:15:45.920 --> 01:15:47.920]   But, uh, Roy, thanks for the call
+[01:15:47.920 --> 01:15:49.920]   We're going to be back right after this
+[01:15:49.920 --> 01:15:51.920]   With more of your questions
+[01:15:51.920 --> 01:15:53.920]   It's the Alex Jones Show and I'm your host Rob Doux
+[01:15:53.920 --> 01:15:55.920]   Infowars.com
+[01:15:55.920 --> 01:15:57.920]   [Music]
+[01:15:57.920 --> 01:15:59.920]   [Music]
+[01:15:59.920 --> 01:16:01.920]   Using unparalleled research
+[01:16:01.920 --> 01:16:03.920]   In the development of a synergistic formulation
+[01:16:03.920 --> 01:16:05.920]   Based around the key concepts
+[01:16:05.920 --> 01:16:07.920]   Of super oxygenation
+[01:16:07.920 --> 01:16:09.920]   The next level in cleansing is here
+[01:16:09.920 --> 01:16:11.920]   With key ingredients backed by real clinical studies
+[01:16:11.920 --> 01:16:13.920]   The new Oxy-Powder
+[01:16:13.920 --> 01:16:15.920]   Available through Infowars Life
+[01:16:15.920 --> 01:16:17.920]   Was invented during Dr. Group's research
+[01:16:17.920 --> 01:16:19.920]   On the toxification of our bodies
+[01:16:19.920 --> 01:16:21.920]   Many herbal colon cleansers are harsh on the body
+[01:16:21.920 --> 01:16:23.920]   And contain cheap and potentially dangerous ingredients
+[01:16:23.920 --> 01:16:25.920]   Oftentimes full of synthetic fillers
+[01:16:25.920 --> 01:16:27.920]   GMOs
+[01:16:27.920 --> 01:16:29.920]   Additives or worse
+[01:16:29.920 --> 01:16:31.920]   Gently start cleaning your body
+[01:16:31.920 --> 01:16:33.920]   With easy capsules that start working while you sleep
+[01:16:33.920 --> 01:16:35.920]   Oxy-Powder does not require time off work
+[01:16:35.920 --> 01:16:37.920]   And there's no need for bad tasting concoctions
+[01:16:37.920 --> 01:16:39.920]   Instead
+[01:16:39.920 --> 01:16:41.920]   Oxy-Powder slowly releases
+[01:16:41.920 --> 01:16:43.920]   Monoatomic oxygen into the intestinal tract
+[01:16:43.920 --> 01:16:45.920]   And body
+[01:16:45.920 --> 01:16:47.920]   Experience the astonishing cleansing power
+[01:16:47.920 --> 01:16:49.920]   Of super oxide and ozonide technology
+[01:16:49.920 --> 01:16:51.920]   Go to Infowarslife.com
+[01:16:51.920 --> 01:16:53.920]   Or Infowarsstore.com
+[01:16:53.920 --> 01:16:55.920]   To get started with Oxy-Powder
+[01:16:55.920 --> 01:16:57.920]   Or call 1-888-253-3139
+[01:16:57.920 --> 01:16:59.920]   [Music]
+[01:16:59.920 --> 01:17:01.920]   In the near future
+[01:17:01.920 --> 01:17:03.920]   When you realize how fake it all is
+[01:17:03.920 --> 01:17:05.920]   The football, the basketball
+[01:17:05.920 --> 01:17:07.920]   Security alert
+[01:17:07.920 --> 01:17:09.920]   This is Homeland Security
+[01:17:09.920 --> 01:17:11.920]   Analysis, Infowars
+[01:17:11.920 --> 01:17:13.920]   Building independent media operations
+[01:17:13.920 --> 01:17:15.920]   We let the worst people get controlled
+[01:17:15.920 --> 01:17:17.920]   And tell us that we are the ones responsible
+[01:17:17.920 --> 01:17:19.920]   Crime directive
+[01:17:19.920 --> 01:17:21.920]   Discredit Alex Jones
+[01:17:21.920 --> 01:17:23.920]   Jones is the wildly popular conspiracy theorist
+[01:17:23.920 --> 01:17:25.920]   A popular conspiracy theory talk show
+[01:17:25.920 --> 01:17:27.920]   Called Infowars
+[01:17:27.920 --> 01:17:29.920]   Alex Jones is now in an Austin jail
+[01:17:29.920 --> 01:17:31.920]   These people are assaulting us
+[01:17:31.920 --> 01:17:33.920]   Targeting of patriots engaged
+[01:17:33.920 --> 01:17:35.920]   They are never going to stop
+[01:17:35.920 --> 01:17:37.920]   They are never going to deviate from their program
+[01:17:37.920 --> 01:17:39.920]   Until we stop them
+[01:17:39.920 --> 01:17:41.920]   Block free iPhone app at Infowars.com
+[01:17:41.920 --> 01:17:43.920]   Block free podcast and video feed
+[01:17:43.920 --> 01:17:45.920]   Imperative
+[01:17:45.920 --> 01:17:47.920]   Deploy prison clinic TV
+[01:17:47.920 --> 01:17:49.920]   You gotta set your eye on the enemy
+[01:17:49.920 --> 01:17:51.920]   Not worry about what propaganda they put out
+[01:17:51.920 --> 01:17:53.920]   Intellectually it's begun
+[01:17:53.920 --> 01:17:55.920]   And you can feel it
+[01:17:55.920 --> 01:17:57.920]   Another major health threat
+[01:17:57.920 --> 01:17:59.920]   This one in Toledo, Ohio
+[01:17:59.920 --> 01:18:01.920]   Where everybody in the entire city
+[01:18:01.920 --> 01:18:03.920]   Has been told not to drink the water
+[01:18:03.920 --> 01:18:05.920]   Ohio's governor declaring a state of emergency
+[01:18:05.920 --> 01:18:07.920]   Did you know that the average person
+[01:18:07.920 --> 01:18:09.920]   Uses about 80 to 100 gallons of water
+[01:18:09.920 --> 01:18:11.920]   At home every single day
+[01:18:11.920 --> 01:18:13.920]   If there's a water emergency
+[01:18:13.920 --> 01:18:15.920]   Will you be prepared
+[01:18:15.920 --> 01:18:17.920]   Panicked residents forming long lines
+[01:18:17.920 --> 01:18:19.920]   Throughout the day
+[01:18:19.920 --> 01:18:21.920]   We're here at a supermarket in Toledo
+[01:18:21.920 --> 01:18:23.920]   You can see the shelves empty where water once was
+[01:18:23.920 --> 01:18:25.920]   To stay safe and healthy during a crisis
+[01:18:25.920 --> 01:18:27.920]   You must have access to safe clean water
+[01:18:27.920 --> 01:18:29.920]   Water which will not be available
+[01:18:29.920 --> 01:18:31.920]   For the rest of your life
+[01:18:31.920 --> 01:18:33.920]   You can't buy water
+[01:18:33.920 --> 01:18:35.920]   Water which will not be available
+[01:18:35.920 --> 01:18:37.920]   At your local grocery store
+[01:18:37.920 --> 01:18:39.920]   There's a mad dash on right now
+[01:18:39.920 --> 01:18:41.920]   To stock up on supplies
+[01:18:41.920 --> 01:18:43.920]   The ProPure Pro1 G2.0 water filtration system
+[01:18:43.920 --> 01:18:45.920]   Is a must have for every modern independently minded household
+[01:18:45.920 --> 01:18:47.920]   Protect your family's safety
+[01:18:47.920 --> 01:18:49.920]   During an emergency
+[01:18:49.920 --> 01:18:51.920]   Go to Infowarsstore.com today
+[01:18:51.920 --> 01:18:53.920]   To purchase your ProPure Pro1 G2.0
+[01:18:53.920 --> 01:18:55.920]   Water filtration system
+[01:18:55.920 --> 01:18:57.920]   Or call 1-88-253-3139
+[01:18:57.920 --> 01:18:59.920]   When you're out on the road
+[01:18:59.920 --> 01:19:01.920]   The last place you want to be
+[01:19:01.920 --> 01:19:03.920]   Is on the road
+[01:19:03.920 --> 01:19:05.920]   But if the unfortunate happens
+[01:19:05.920 --> 01:19:07.920]   You'll be glad you were wearing
+[01:19:07.920 --> 01:19:09.920]   Diamond gussets
+[01:19:09.920 --> 01:19:11.920]   There's a place down in Tennessee
+[01:19:11.920 --> 01:19:13.920]   Where they make blue diamond gusset jeans
+[01:19:13.920 --> 01:19:15.920]   They sew pride in every stitch
+[01:19:15.920 --> 01:19:17.920]   Guarantee you'll love the way they fit
+[01:19:17.920 --> 01:19:19.920]   They put a diamond gusset on your shirt
+[01:19:19.920 --> 01:19:21.920]   And you'll be proud of it
+[01:19:21.920 --> 01:19:23.920]   And you'll be proud of it
+[01:19:23.920 --> 01:19:25.920]   And you'll be proud of it
+[01:19:25.920 --> 01:19:27.920]   And you'll be proud of it
+[01:19:27.920 --> 01:19:29.920]   They put a diamond gusset in the crotch
+[01:19:29.920 --> 01:19:31.920]   Where you need it most
+[01:19:31.920 --> 01:19:33.920]   Blue diamond gussets
+[01:19:33.920 --> 01:19:35.920]   Got it
+[01:19:35.920 --> 01:19:37.920]   Others don't
+[01:19:37.920 --> 01:19:39.920]   We turn jeans inside out
+[01:19:39.920 --> 01:19:41.920]   Diamond gusset jeans
+[01:19:41.920 --> 01:19:43.920]   Made in the USA with unparalleled quality
+[01:19:43.920 --> 01:19:45.920]   Our Defender motorcycle jeans
+[01:19:45.920 --> 01:19:47.920]   Combine gusset comfort with Kevlar protection
+[01:19:47.920 --> 01:19:49.920]   So you can ride all day with confidence
+[01:19:49.920 --> 01:19:51.920]   Order yours at gusset.com
+[01:19:51.920 --> 01:19:53.920]   Diamond gusset jeans
+[01:19:53.920 --> 01:19:55.920]   Got it
+[01:19:55.920 --> 01:19:57.920]   Others don't
+[01:19:59.920 --> 01:20:01.920]   Coast to Coast
+[01:20:01.920 --> 01:20:03.920]   Direct from Austin
+[01:20:03.920 --> 01:20:05.920]   You're listening to the Alex Jones Broadcasting Network
+[01:20:05.920 --> 01:20:07.920]   Network
+[01:20:07.920 --> 01:20:13.920]   Crashing through the lies
+[01:20:13.920 --> 01:20:15.920]   And disinformation
+[01:20:15.920 --> 01:20:17.920]   It's Alex Jones
+[01:20:17.920 --> 01:20:19.920]   On the GCN Radio Network
+[01:20:19.920 --> 01:20:21.920]   Nobody rides for free
+[01:20:21.920 --> 01:20:23.920]   Nobody rides for free
+[01:20:23.920 --> 01:20:25.920]   Alright, we're gonna go right back to your calls
+[01:20:25.920 --> 01:20:27.920]   We got Rashid, O'Brien, Paul, Peter, Haboo, Mark, Jim
+[01:20:27.920 --> 01:20:29.920]   Toll free number to join us
+[01:20:29.920 --> 01:20:31.920]   877-789-ALEX
+[01:20:31.920 --> 01:20:33.920]   877-789-2539
+[01:20:33.920 --> 01:20:35.920]   I promise I will let Paul answer some of these questions
+[01:20:35.920 --> 01:20:37.920]   I've been hogging the callers
+[01:20:37.920 --> 01:20:39.920]   And I apologize for that
+[01:20:39.920 --> 01:20:41.920]   But we're gonna keep going here
+[01:20:41.920 --> 01:20:43.920]   And this is the Alex Jones Show
+[01:20:43.920 --> 01:20:45.920]   I'm your host Rob Due
+[01:20:45.920 --> 01:20:47.920]   Rashid, Philadelphia
+[01:20:47.920 --> 01:20:49.920]   What is your question sir?
+[01:20:49.920 --> 01:20:51.920]   I don't really have a question
+[01:20:51.920 --> 01:20:53.920]   I just wanted to make sure
+[01:20:53.920 --> 01:20:55.920]   I don't really have a question
+[01:20:55.920 --> 01:20:57.920]   I just wanted to mention something that I
+[01:20:57.920 --> 01:20:59.920]   I don't know
+[01:20:59.920 --> 01:21:01.920]   It seemed interesting
+[01:21:01.920 --> 01:21:03.920]   last month
+[01:21:03.920 --> 01:21:05.920]   Now speak right into your phone please
+[01:21:05.920 --> 01:21:07.920]   The first week of August
+[01:21:07.920 --> 01:21:09.920]   I watched
+[01:21:09.920 --> 01:21:11.920]   Twelve Monkeys
+[01:21:11.920 --> 01:21:13.920]   for the first time
+[01:21:13.920 --> 01:21:15.920]   And that seemed kind of interesting
+[01:21:15.920 --> 01:21:17.920]   That the whole Ebola thing
+[01:21:17.920 --> 01:21:19.920]   was being hyped
+[01:21:19.920 --> 01:21:21.920]   That that
+[01:21:21.920 --> 01:21:23.920]   at that same time
+[01:21:23.920 --> 01:21:25.920]   So
+[01:21:25.920 --> 01:21:27.920]   I don't know
+[01:21:27.920 --> 01:21:29.920]   You don't think it was your watching of Twelve Monkeys that caused it?
+[01:21:29.920 --> 01:21:31.920]   I don't know
+[01:21:31.920 --> 01:21:33.920]   No I doubt it
+[01:21:33.920 --> 01:21:35.920]   That was a weird coincidence
+[01:21:35.920 --> 01:21:37.920]   Well you know Twelve Monkeys does have
+[01:21:37.920 --> 01:21:39.920]   a lot of interesting stuff
+[01:21:39.920 --> 01:21:41.920]   And what's interesting as well is I watched that movie
+[01:21:41.920 --> 01:21:43.920]   just recently this year
+[01:21:43.920 --> 01:21:45.920]   And we started making a promo on it
+[01:21:45.920 --> 01:21:47.920]   And we kind of got put on the back burner
+[01:21:47.920 --> 01:21:49.920]   And I'm gonna pull it back out this week and finish it up
+[01:21:49.920 --> 01:21:51.920]   But yeah there was a disease out there
+[01:21:51.920 --> 01:21:53.920]   And people thought it was having to do with these
+[01:21:53.920 --> 01:21:55.920]   The army of the Twelve Monkeys
+[01:21:55.920 --> 01:21:57.920]   And it ended up just being a crazy person who actually worked
+[01:21:57.920 --> 01:21:59.920]   in a lab, a bio lab
+[01:21:59.920 --> 01:22:01.920]   Went around infecting
+[01:22:01.920 --> 01:22:03.920]   the world
+[01:22:03.920 --> 01:22:05.920]   And so they had to send a guy, Bruce Willis back in the past
+[01:22:05.920 --> 01:22:07.920]   to help
+[01:22:07.920 --> 01:22:09.920]   find out how it spread
+[01:22:09.920 --> 01:22:11.920]   That was their big thing
+[01:22:11.920 --> 01:22:13.920]   Paul do you have any comment on the movie Twelve Monkeys
+[01:22:13.920 --> 01:22:15.920]   and how it relates to Ebola?
+[01:22:15.920 --> 01:22:17.920]   That's one that I've never seen actually Rob
+[01:22:17.920 --> 01:22:19.920]   I always intended to see that one but never got around to it
+[01:22:19.920 --> 01:22:21.920]   On the previous call
+[01:22:21.920 --> 01:22:23.920]   this army drill with the CDC
+[01:22:23.920 --> 01:22:25.920]   targeting quote
+[01:22:25.920 --> 01:22:27.920]   zombies, that was based
+[01:22:27.920 --> 01:22:29.920]   around an epidemic
+[01:22:29.920 --> 01:22:31.920]   I mean the quote from the article was "Trainees will have to
+[01:22:31.920 --> 01:22:33.920]   respond to medical emergencies
+[01:22:33.920 --> 01:22:35.920]   while being harassed by zombies"
+[01:22:35.920 --> 01:22:37.920]   So this zombie thing
+[01:22:37.920 --> 01:22:39.920]   they used it as a cover to get people interested
+[01:22:39.920 --> 01:22:41.920]   but it was actually all based around
+[01:22:41.920 --> 01:22:43.920]   a pandemic scenario
+[01:22:43.920 --> 01:22:45.920]   where they would have to deal with huge numbers of people
+[01:22:45.920 --> 01:22:47.920]   so very
+[01:22:47.920 --> 01:22:49.920]   concerning indeed and then
+[01:22:49.920 --> 01:22:51.920]   again on the caller after that
+[01:22:51.920 --> 01:22:53.920]   in fact Jim Garrow who we had on as a guest
+[01:22:53.920 --> 01:22:55.920]   quite recently
+[01:22:55.920 --> 01:22:57.920]   he exposed another one of these surveys
+[01:22:57.920 --> 01:22:59.920]   where the army are asked if they will be willing to
+[01:22:59.920 --> 01:23:01.920]   fire on Americans and those surveys have been
+[01:23:01.920 --> 01:23:03.920]   taking place for at least two decades
+[01:23:03.920 --> 01:23:05.920]   we've reported on them numerous times
+[01:23:05.920 --> 01:23:07.920]   and he actually had a gun
+[01:23:07.920 --> 01:23:09.920]   an illegal gun planted at his home
+[01:23:09.920 --> 01:23:11.920]   in Canada, went to prison
+[01:23:11.920 --> 01:23:13.920]   for a while for it so he claims he was
+[01:23:13.920 --> 01:23:15.920]   targeted for releasing that
+[01:23:15.920 --> 01:23:17.920]   information that an
+[01:23:17.920 --> 01:23:19.920]   army, a service member in the army
+[01:23:19.920 --> 01:23:21.920]   told him that they had been given a survey
+[01:23:21.920 --> 01:23:23.920]   questioning whether they would fire
+[01:23:23.920 --> 01:23:25.920]   on Americans so this is something that keeps
+[01:23:25.920 --> 01:23:27.920]   on cropping up again and again and has done
+[01:23:27.920 --> 01:23:29.920]   for at least two decades or more
+[01:23:29.920 --> 01:23:35.920]   So Paul maybe it does
+[01:23:35.920 --> 01:23:37.920]   make sense that the DOD is getting involved in Ebola
+[01:23:37.920 --> 01:23:39.920]   maybe they are going to be part of this
+[01:23:39.920 --> 01:23:41.920]   eradication program where they cordon off
+[01:23:41.920 --> 01:23:43.920]   areas and when people try to get out
+[01:23:43.920 --> 01:23:45.920]   they are just going to mow them down with
+[01:23:45.920 --> 01:23:47.920]   machine gun fire so maybe that does make sense
+[01:23:47.920 --> 01:23:49.920]   even though people are saying it doesn't make sense
+[01:23:49.920 --> 01:23:51.920]   over on Fox News, it's Lucas Tomlinson
+[01:23:51.920 --> 01:23:53.920]   who wrote that
+[01:23:53.920 --> 01:23:55.920]   General Martin Dempsey said the Department of Defense
+[01:23:55.920 --> 01:23:57.920]   number one priority is combating
+[01:23:57.920 --> 01:23:59.920]   Ebola, right there, combating
+[01:23:59.920 --> 01:24:01.920]   Ebola, so maybe it does
+[01:24:01.920 --> 01:24:03.920]   make sense that they are having these and by
+[01:24:03.920 --> 01:24:05.920]   2016
+[01:24:05.920 --> 01:24:07.920]   we just had a caller, his son was getting training
+[01:24:07.920 --> 01:24:09.920]   in Idaho
+[01:24:09.920 --> 01:24:11.920]   and there was Pentagon reps there and a two star
+[01:24:11.920 --> 01:24:13.920]   general and he was asking people
+[01:24:13.920 --> 01:24:15.920]   would you confiscate guns from
+[01:24:15.920 --> 01:24:17.920]   Americans or would you fire on Americans
+[01:24:17.920 --> 01:24:19.920]   and some of
+[01:24:19.920 --> 01:24:21.920]   these guys will do this, I don't think
+[01:24:21.920 --> 01:24:23.920]   a lot of them will, I think they are going to be very
+[01:24:23.920 --> 01:24:25.920]   surprised at the response they get from our military
+[01:24:25.920 --> 01:24:27.920]   but you know, I mean you can see
+[01:24:27.920 --> 01:24:29.920]   what happens in any of these situations, Ferguson
+[01:24:29.920 --> 01:24:31.920]   the cops start firing on people
+[01:24:31.920 --> 01:24:33.920]   firing tear gas on people, nobody steps up and says
+[01:24:33.920 --> 01:24:35.920]   wait a minute, should we be doing this?
+[01:24:35.920 --> 01:24:37.920]   These people are unarmed
+[01:24:37.920 --> 01:24:39.920]   maybe we should just go after the people
+[01:24:39.920 --> 01:24:41.920]   who are looting, the people who are causing the trouble
+[01:24:41.920 --> 01:24:43.920]   identify those people and go in and get them
+[01:24:43.920 --> 01:24:45.920]   if you are a protester, you are not going to
+[01:24:45.920 --> 01:24:47.920]   go attack the police
+[01:24:47.920 --> 01:24:49.920]   until they start attacking you
+[01:24:49.920 --> 01:24:51.920]   or if you are infected with some sort of weird
+[01:24:51.920 --> 01:24:53.920]   pandemic, what are your thoughts on that Paul?
+[01:24:53.920 --> 01:24:57.920]   The fact that they are merely asking the question
+[01:24:57.920 --> 01:24:59.920]   will you fire on Americans is concerning
+[01:24:59.920 --> 01:25:01.920]   enough, then of course you have got the report
+[01:25:01.920 --> 01:25:03.920]   which recently came out where
+[01:25:03.920 --> 01:25:05.920]   the army is saying they are not prepared to
+[01:25:05.920 --> 01:25:07.920]   fight the future combat arena
+[01:25:07.920 --> 01:25:09.920]   which will be the main arena of combat
+[01:25:09.920 --> 01:25:11.920]   quote, mega cities
+[01:25:11.920 --> 01:25:13.920]   including New York City was one of them
+[01:25:13.920 --> 01:25:15.920]   mentioned in the report, so they are gearing
+[01:25:15.920 --> 01:25:17.920]   up the army to be stationed in
+[01:25:17.920 --> 01:25:19.920]   occupying and combating
+[01:25:19.920 --> 01:25:21.920]   insurgents, anti-government
+[01:25:21.920 --> 01:25:23.920]   extremists and others and
+[01:25:23.920 --> 01:25:25.920]   under medical emergencies was one of the other
+[01:25:25.920 --> 01:25:27.920]   scenarios in mega cities
+[01:25:27.920 --> 01:25:29.920]   within the next 20 years
+[01:25:29.920 --> 01:25:31.920]   so then you can tie that back to the concerns
+[01:25:31.920 --> 01:25:33.920]   about Ebola victims
+[01:25:33.920 --> 01:25:35.920]   going to highly populated cities
+[01:25:35.920 --> 01:25:37.920]   like Mexico City for example
+[01:25:37.920 --> 01:25:39.920]   or indeed Paris because there are
+[01:25:39.920 --> 01:25:41.920]   many African immigrants in France
+[01:25:41.920 --> 01:25:43.920]   that go back and forth between these West African
+[01:25:43.920 --> 01:25:45.920]   countries, so I mean that is the
+[01:25:45.920 --> 01:25:47.920]   concern that an Ebola sufferer
+[01:25:47.920 --> 01:25:49.920]   would land in a major city and it
+[01:25:49.920 --> 01:25:51.920]   would spread more rapidly
+[01:25:51.920 --> 01:25:53.920]   because these Western African countries are quite
+[01:25:53.920 --> 01:25:55.920]   sparsely populated of course
+[01:25:55.920 --> 01:25:57.920]   Africa is a huge continent in comparison
+[01:25:57.920 --> 01:25:59.920]   to these mega cities where it could
+[01:25:59.920 --> 01:26:01.920]   spread very much more quickly and
+[01:26:01.920 --> 01:26:03.920]   to a more devastating effect
+[01:26:03.920 --> 01:26:05.920]   Totally agree, our next caller is O'Brien
+[01:26:05.920 --> 01:26:07.920]   O'Brien what is your question?
+[01:26:07.920 --> 01:26:09.920]   Yes
+[01:26:09.920 --> 01:26:11.920]   basically
+[01:26:11.920 --> 01:26:13.920]   if the State Department
+[01:26:13.920 --> 01:26:15.920]   is going to be buying all
+[01:26:15.920 --> 01:26:17.920]   this
+[01:26:17.920 --> 01:26:19.920]   hazmat gear for their
+[01:26:19.920 --> 01:26:21.920]   for their
+[01:26:21.920 --> 01:26:23.920]   diplomats
+[01:26:23.920 --> 01:26:25.920]   wouldn't they need to be
+[01:26:25.920 --> 01:26:27.920]   wouldn't the CDC need to do that as well?
+[01:26:27.920 --> 01:26:29.920]   Well
+[01:26:29.920 --> 01:26:31.920]   I bet the CDC probably has a lot
+[01:26:31.920 --> 01:26:33.920]   of this stuff, who knows whether
+[01:26:33.920 --> 01:26:35.920]   it needs to be upgraded after
+[01:26:35.920 --> 01:26:37.920]   time but that is interesting
+[01:26:37.920 --> 01:26:39.920]   Paul what do you think, why does the State Department
+[01:26:39.920 --> 01:26:41.920]   need this stuff?
+[01:26:41.920 --> 01:26:43.920]   I don't know whether they would then hand it
+[01:26:43.920 --> 01:26:45.920]   on to the public health authorities
+[01:26:45.920 --> 01:26:47.920]   that's what I'm assuming would happen but
+[01:26:47.920 --> 01:26:49.920]   I mean I was astonished by
+[01:26:49.920 --> 01:26:51.920]   the sheer number of it, 160,000
+[01:26:51.920 --> 01:26:53.920]   I'm sure they've already got a lot of them in supply
+[01:26:53.920 --> 01:26:55.920]   and stock already so
+[01:26:55.920 --> 01:26:57.920]   but you know they did the same thing with the potassium
+[01:26:57.920 --> 01:26:59.920]   iodide pills after Fukushima
+[01:26:59.920 --> 01:27:01.920]   so they make sure that they're prepared
+[01:27:01.920 --> 01:27:03.920]   while the vast majority of
+[01:27:03.920 --> 01:27:05.920]   Americans are not, I mean they rolled
+[01:27:05.920 --> 01:27:07.920]   back some of those previous measures
+[01:27:07.920 --> 01:27:09.920]   in the context of nuclear
+[01:27:09.920 --> 01:27:11.920]   power plants where people who live
+[01:27:11.920 --> 01:27:13.920]   nearby were given adequate supplies of
+[01:27:13.920 --> 01:27:15.920]   potassium iodide pills
+[01:27:15.920 --> 01:27:17.920]   so you know they're concerned about
+[01:27:17.920 --> 01:27:19.920]   themselves not so concerned about
+[01:27:19.920 --> 01:27:21.920]   the American people it seems when they make these
+[01:27:21.920 --> 01:27:23.920]   large scale purchases
+[01:27:23.920 --> 01:27:25.920]   whether they're actually going to foresee
+[01:27:25.920 --> 01:27:27.920]   a pandemic event
+[01:27:27.920 --> 01:27:29.920]   is unknown but they're definitely going to be prepared
+[01:27:29.920 --> 01:27:31.920]   for it. If there is a Titanic
+[01:27:31.920 --> 01:27:33.920]   like event I think the government will
+[01:27:33.920 --> 01:27:35.920]   be the first ones into the lifeboats and then it'll
+[01:27:35.920 --> 01:27:37.920]   be women and children and the rich
+[01:27:37.920 --> 01:27:39.920]   and if you're not one of those
+[01:27:39.920 --> 01:27:41.920]   people you're going to have to fend for yourself you're going to prepare
+[01:27:41.920 --> 01:27:43.920]   you know which is why
+[01:27:43.920 --> 01:27:45.920]   one reason it's good to
+[01:27:45.920 --> 01:27:47.920]   know what colloidal silver does for
+[01:27:47.920 --> 01:27:49.920]   your body I'm just going to do this for a quick plug
+[01:27:49.920 --> 01:27:51.920]   silver bullet is one of the
+[01:27:51.920 --> 01:27:53.920]   Infowars life family of
+[01:27:53.920 --> 01:27:55.920]   I guess
+[01:27:55.920 --> 01:27:57.920]   health remedies that you could use for
+[01:27:57.920 --> 01:27:59.920]   yourself you know I use colloidal silver
+[01:27:59.920 --> 01:28:01.920]   a lot personally and
+[01:28:01.920 --> 01:28:03.920]   one thing I also make a lot of it
+[01:28:03.920 --> 01:28:05.920]   and one thing I do with the silver bullet is I
+[01:28:05.920 --> 01:28:07.920]   take it and I mix it in with
+[01:28:07.920 --> 01:28:09.920]   my batches that aren't as strong
+[01:28:09.920 --> 01:28:11.920]   this is a 30 parts per million strength which is very
+[01:28:11.920 --> 01:28:13.920]   strong and that's harder to make
+[01:28:13.920 --> 01:28:15.920]   in your home laboratory
+[01:28:15.920 --> 01:28:17.920]   but I make about 10 parts per million
+[01:28:17.920 --> 01:28:19.920]   and then I add that in anytime I get a
+[01:28:19.920 --> 01:28:21.920]   sniffle or anything I shoot it up my nose
+[01:28:21.920 --> 01:28:23.920]   breathe it in and that's what I do
+[01:28:23.920 --> 01:28:25.920]   you're welcome to do what you want with it
+[01:28:25.920 --> 01:28:27.920]   but silver bullet available at
+[01:28:27.920 --> 01:28:29.920]   Infowarslife.com
+[01:28:29.920 --> 01:28:31.920]   you can use that information as you
+[01:28:31.920 --> 01:28:33.920]   will we're going to be back with more
+[01:28:33.920 --> 01:28:35.920]   calls and then we're going to finish up the show
+[01:28:35.920 --> 01:28:37.920]   the little NFL
+[01:28:37.920 --> 01:28:39.920]   NFL worship news for all you people out there
+[01:28:39.920 --> 01:28:41.920]   watching the ball games today
+[01:28:41.920 --> 01:28:43.920]   and I think we'll finish up also
+[01:28:43.920 --> 01:28:45.920]   with a quick chemtrail video
+[01:28:45.920 --> 01:28:47.920]   that came across our way we posted
+[01:28:47.920 --> 01:28:49.920]   in on Friday we're going to tell you what it all
+[01:28:49.920 --> 01:28:51.920]   means it's Infowars.com it's the Alex Jones show
+[01:28:51.920 --> 01:28:53.920]   I'm your host Rob Due stay tuned
+[01:28:55.920 --> 01:28:57.920]   [Music]
+[01:28:57.920 --> 01:29:01.920]   what do you think about the FBI
+[01:29:01.920 --> 01:29:03.920]   saying that there's a terror alert on Monday
+[01:29:03.920 --> 01:29:05.920]   about a potential forfeiture situation
+[01:29:05.920 --> 01:29:07.920]   the police are shoving people shoving Alex
+[01:29:07.920 --> 01:29:09.920]   shoving the crowd
+[01:29:09.920 --> 01:29:11.920]   here we go folks I'm being assaulted
+[01:29:11.920 --> 01:29:13.920]   whether it's the radio show the news websites
+[01:29:13.920 --> 01:29:15.920]   documentary films or the nightly news
+[01:29:15.920 --> 01:29:17.920]   Infowars is the tip of the spear
+[01:29:17.920 --> 01:29:19.920]   is this another false flag stage attack to take our
+[01:29:19.920 --> 01:29:21.920]   civil liberties and put more homeless security
+[01:29:21.920 --> 01:29:23.920]   people sticking their hands down on the streets
+[01:29:23.920 --> 01:29:25.920]   it's up to us to set brush fires
+[01:29:25.920 --> 01:29:27.920]   in the minds of men and women everywhere
+[01:29:27.920 --> 01:29:29.920]   and that's what prison planet dot TV
+[01:29:29.920 --> 01:29:31.920]   is designed to do
+[01:29:31.920 --> 01:29:33.920]   you watch the Assad regime is going to be blamed
+[01:29:33.920 --> 01:29:35.920]   or accused of using
+[01:29:35.920 --> 01:29:37.920]   chemical weapons against the
+[01:29:37.920 --> 01:29:39.920]   so called rebels
+[01:29:39.920 --> 01:29:41.920]   what we see now is a war against reality it's a war
+[01:29:41.920 --> 01:29:43.920]   against the truth it's more vital
+[01:29:43.920 --> 01:29:45.920]   than ever that supporters of freedom
+[01:29:45.920 --> 01:29:47.920]   become members of prison planet dot TV
+[01:29:47.920 --> 01:29:49.920]   and share their membership with up to
+[01:29:49.920 --> 01:29:51.920]   11 friends and family visit
+[01:29:51.920 --> 01:29:53.920]   Infowarsnews.com today
+[01:29:53.920 --> 01:29:55.920]   become a member share your membership
+[01:29:55.920 --> 01:29:57.920]   and help take the Infowar to the next
+[01:29:57.920 --> 01:29:59.920]   level
+[01:29:59.920 --> 01:30:01.920]   the government's department of homeland security
+[01:30:01.920 --> 01:30:03.920]   is buying up loads of ammo at the
+[01:30:03.920 --> 01:30:05.920]   same time they're restricting civilians rights
+[01:30:05.920 --> 01:30:07.920]   to own and purchase firearms
+[01:30:07.920 --> 01:30:09.920]   can you put two and two together
+[01:30:09.920 --> 01:30:11.920]   infidel body armor can stop every round
+[01:30:11.920 --> 01:30:13.920]   including hollow points and 308
+[01:30:13.920 --> 01:30:15.920]   sniper rounds is reasonably priced
+[01:30:15.920 --> 01:30:17.920]   and fully legal but for how
+[01:30:17.920 --> 01:30:19.920]   long go to infidel body armor
+[01:30:19.920 --> 01:30:21.920]   dot com spelled I N F
+[01:30:21.920 --> 01:30:23.920]   I D E L body
+[01:30:23.920 --> 01:30:25.920]   armor dot com infidel body
+[01:30:25.920 --> 01:30:27.920]   armor just won't quit
+[01:30:27.920 --> 01:30:29.920]   after consulting
+[01:30:29.920 --> 01:30:31.920]   top doctors nutritionist
+[01:30:31.920 --> 01:30:33.920]   pharmacist and others we have developed
+[01:30:33.920 --> 01:30:35.920]   what I believe is the ultimate
+[01:30:35.920 --> 01:30:37.920]   non GMO organic
+[01:30:37.920 --> 01:30:39.920]   super male vitality formula
+[01:30:39.920 --> 01:30:41.920]   super male vitality by Infowars
+[01:30:41.920 --> 01:30:43.920]   life is so powerful
+[01:30:43.920 --> 01:30:45.920]   that I only take half the recommended
+[01:30:45.920 --> 01:30:47.920]   dose I jump out of bed ready to fight
+[01:30:47.920 --> 01:30:49.920]   these criminals everyday I look forward to
+[01:30:49.920 --> 01:30:51.920]   waking up and taking my super male vitality
+[01:30:51.920 --> 01:30:53.920]   visit Infowarslife.com
+[01:30:53.920 --> 01:30:55.920]   today to secure your super male
+[01:30:55.920 --> 01:30:57.920]   vitality and other powerful products
+[01:30:57.920 --> 01:30:59.920]   from Infowars life
+[01:30:59.920 --> 01:31:01.920]   open your eyes it's time
+[01:31:01.920 --> 01:31:03.920]   to give your eyes a powerful nutritional
+[01:31:03.920 --> 01:31:05.920]   boost sight is the primary
+[01:31:05.920 --> 01:31:07.920]   input to the brain arguably
+[01:31:07.920 --> 01:31:09.920]   making eyesight the most important
+[01:31:09.920 --> 01:31:11.920]   sense we have and just like
+[01:31:11.920 --> 01:31:13.920]   the other important organs in our bodies
+[01:31:13.920 --> 01:31:15.920]   our eyes function at peak
+[01:31:15.920 --> 01:31:17.920]   levels when they are fed the proper amounts
+[01:31:17.920 --> 01:31:19.920]   of essential nutrition
+[01:31:19.920 --> 01:31:21.920]   open your eyes combining key
+[01:31:21.920 --> 01:31:23.920]   ingredients like vitamin A
+[01:31:23.920 --> 01:31:25.920]   zinc, lutein, proprietary
+[01:31:25.920 --> 01:31:27.920]   saffron bulb extracts and more
+[01:31:27.920 --> 01:31:29.920]   Occupower by Infowarslife
+[01:31:29.920 --> 01:31:31.920]   is the new formulation specifically
+[01:31:31.920 --> 01:31:33.920]   designed to nutritionally assist
+[01:31:33.920 --> 01:31:35.920]   the natural function of healthy eyes
+[01:31:35.920 --> 01:31:37.920]   optimize the natural power
+[01:31:37.920 --> 01:31:39.920]   of your eyes with the latest addition
+[01:31:39.920 --> 01:31:41.920]   to the super high quality Infowars
+[01:31:41.920 --> 01:31:43.920]   life formulations Occupower
+[01:31:43.920 --> 01:31:45.920]   go to Infowarslife.com
+[01:31:45.920 --> 01:31:47.920]   or Infowarsstore.com
+[01:31:47.920 --> 01:31:49.920]   to order Occupower
+[01:31:49.920 --> 01:31:51.920]   or call 1-888-253-3139
+[01:31:51.920 --> 01:31:53.920]   Occupower
+[01:31:53.920 --> 01:31:55.920]   open your eyes
+[01:31:55.920 --> 01:31:57.920]   you've heard about the essential qualities of iodine when it comes to your well being
+[01:31:57.920 --> 01:31:59.920]   and you've read the opinions of top experts regarding this good member of the halogen family
+[01:31:59.920 --> 01:32:01.920]   still reports indicate that iodine is absent in sufficient amounts from the daily
+
+
+whisper_print_timings:     load time =  2004.39 ms
+whisper_print_timings:      mel time = 32837.25 ms
+whisper_print_timings:   sample time = 10176.14 ms
+whisper_print_timings:   encode time = 13351180.00 ms / 417224.38 ms per layer
+whisper_print_timings:   decode time = 5319155.00 ms / 166223.59 ms per layer
+whisper_print_timings:    total time = 18715680.00 ms
