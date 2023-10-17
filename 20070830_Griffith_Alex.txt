@@ -1,389 +1,359 @@
-[00:00:00.000 --> 00:00:08.000]  ...cover-ups. You want answers? Well, so does he. He's Alex Jones on the GCN Radio Network.
-[00:00:08.000 --> 00:00:14.000]  And now, live from Austin, Texas, Alex Jones.
-[00:00:14.000 --> 00:00:18.000]  There's a lot of editing going on, editing in the matrix.
-[00:00:18.000 --> 00:00:25.000]  We know Bush has bought billions and billions of fake news and thousands of reporters out pushing up police state and martial law,
-[00:00:25.000 --> 00:00:30.000]  telling us how good it is to have police in black uniforms arresting reporters coast to coast.
-[00:00:30.000 --> 00:00:35.000]  A new age of darkness is upon us. Hillary and Chucky and all of them have been voting for it,
-[00:00:35.000 --> 00:00:41.000]  while criticizing their scapegoat, Alberto Gonzalez, a unified front of tyranny upon the people.
-[00:00:41.000 --> 00:00:49.000]  Virgil Griffith is the amazing individual who's gotten so much attention because of the open source nature of Wikipedia.
-[00:00:49.000 --> 00:00:53.000]  He was able to craft a program and a wiki scanner.
-[00:00:53.000 --> 00:00:56.000]  We've been hearing so much about the last three weeks since this broke.
-[00:00:56.000 --> 00:01:02.000]  And headlines, see who's editing Wikipedia, Diebold, the CIA, and campaigns.
-[00:01:02.000 --> 00:01:08.000]  And it goes on from there, and we've been doing wiki scans and finding out all the government agencies and people
-[00:01:08.000 --> 00:01:14.000]  that have been in there, foxing and messing with the postings about me, or just out of hand deleting them.
-[00:01:14.000 --> 00:01:18.000]  Hundreds of pages about my films and works we've done, just gone forever.
-[00:01:18.000 --> 00:01:22.000]  Work people did, just vandalizing information. It's so much fun.
-[00:01:22.000 --> 00:01:25.000]  But now they're not doing it without the spotlight on them.
-[00:01:25.000 --> 00:01:29.000]  So in the rest of this segment, into the next segment, is Virgil Griffith.
-[00:01:29.000 --> 00:01:32.000]  Virgil, I really want to thank you for what you've done.
-[00:01:32.000 --> 00:01:36.000]  Oh, it's a sure thing. It's a pleasure to be here.
-[00:01:36.000 --> 00:01:40.000]  You're a Caltech graduate student. When did you think up this idea?
-[00:01:40.000 --> 00:01:43.000]  How long did it take you to craft this wondrous application?
-[00:01:43.000 --> 00:01:46.000]  Well, I thought of the idea actually about a year ago.
-[00:01:46.000 --> 00:01:54.000]  And this was when some Wikipedians caught Congress in whitewashing their own pages.
-[00:01:54.000 --> 00:02:02.000]  And so I think, hey, if they can do this manually, I can do this for all of Wikipedia.
-[00:02:02.000 --> 00:02:07.000]  But unfortunately, I was always busy then, so I sat on the idea for about six months.
-[00:02:08.000 --> 00:02:13.000]  But over the summer, I had time, so here it is.
-[00:02:13.000 --> 00:02:20.000]  When you finally got it built and tested, what was it like to see the incredible results you were getting?
-[00:02:20.000 --> 00:02:24.000]  Oh, it was wonderful. That's all I can say.
-[00:02:24.000 --> 00:02:32.000]  I quickly saw that it would be a bad idea if there was any sort of system on my website
-[00:02:32.000 --> 00:02:39.000]  where people could rate how juicy the edits were because that would probably get you sued.
-[00:02:39.000 --> 00:02:46.000]  So I was very, very happy when Wired Magazine stepped in and they offered to do that for me.
-[00:02:46.000 --> 00:02:49.000]  So that way, I could stand back and be completely objective.
-[00:02:49.000 --> 00:02:57.000]  And I could just say, oh, look, I just provide a tool, and whatever people do with it, well, that's up to them.
-[00:02:58.000 --> 00:03:04.000]  Well, I'm asking my listeners to go in and use this and make submissions to our PrisonPlanet.com forum.
-[00:03:04.000 --> 00:03:07.000]  We're going to create a section there, and everybody should do this.
-[00:03:07.000 --> 00:03:11.000]  We should learn how the crannies of the web work. We should investigate what's happening.
-[00:03:11.000 --> 00:03:16.000]  Now, back last year, when there were allegations of Congressmen manipulating it,
-[00:03:16.000 --> 00:03:21.000]  they denied it and called it a conspiracy theory, but now your scanners confirmed a lot of that.
-[00:03:21.000 --> 00:03:27.000]  Yeah, it's certainly true. I mean, if you want to, you can go search right now and you can see tons of them.
-[00:03:27.000 --> 00:03:29.000]  It's quite glorious.
-[00:03:29.000 --> 00:03:35.000]  To be completely fair to them, it does not necessarily mean that they or their staff made it,
-[00:03:35.000 --> 00:03:42.000]  but we do know that it came from someone within the Congressional computer network.
-[00:03:42.000 --> 00:03:46.000]  Yeah, because it's the IP address. Explain to people out there how that works.
-[00:03:46.000 --> 00:03:49.000]  Okay, well, let's see. I'll back up.
-[00:03:49.000 --> 00:03:54.000]  In short, when you make a Wikipedia edit, there are two things you can do.
-[00:03:54.000 --> 00:03:58.000]  Number one, you can edit and leave your name, or you can edit anonymously.
-[00:03:58.000 --> 00:04:05.000]  But when you edit anonymously, it leaves a number there to identify your computer, and that is just for convenience.
-[00:04:05.000 --> 00:04:12.000]  So I took that and I combined two databases.
-[00:04:12.000 --> 00:04:16.000]  The first one were all the edits from Wikipedia, all the anonymous edits,
-[00:04:16.000 --> 00:04:20.000]  and the second one were which numbers were owned by various companies.
-[00:04:20.000 --> 00:04:23.000]  And then you just combined them together.
-[00:04:23.000 --> 00:04:25.000]  And that's relatively simple, isn't it?
-[00:04:25.000 --> 00:04:27.000]  It's actually very simple.
-[00:04:27.000 --> 00:04:34.000]  Once I had the idea and started working on it, the entire project took me two weeks.
-[00:04:34.000 --> 00:04:38.000]  Stay there, my friend. This is just incredible.
-[00:04:38.000 --> 00:04:42.000]  Another example of how whatever they do for tyranny's sake,
-[00:04:42.000 --> 00:04:47.000]  we have independent freedom lovers out there that are sabotaging them every step of the way.
-[00:04:47.000 --> 00:04:50.000]  We'll be right back with Virgil Griffith.
-[00:04:53.000 --> 00:04:58.000]  Now you can upgrade your existing gravity filter to remove chemicals such as triamethylenes,
-[00:04:58.000 --> 00:05:02.000]  atrazine, benzene, chlorine, chloroform, and MTBE to below detectable limits.
-[00:05:02.000 --> 00:05:06.000]  Black murky elements are so powerful, they remove pathogenic bacteria,
-[00:05:06.000 --> 00:05:10.000]  cysts and parasites to non-detectable levels and transform water,
-[00:05:10.000 --> 00:05:14.000]  even raw stagnant pond water, into delicious crystal clear drinking water.
-[00:05:14.000 --> 00:05:20.000]  Nitrates, nitrites, radon-222, unwanted heavy metals like lead, mercury, and aluminum are no problem.
-[00:05:20.000 --> 00:05:23.000]  Foul tastes like chlorine and obnoxious sulfur odors are removed
-[00:05:23.000 --> 00:05:27.000]  without removing the healthful and beneficial minerals that your body needs.
-[00:05:27.000 --> 00:05:31.000]  Black murky elements flow one and a half to two times faster than ordinary gravity elements,
-[00:05:31.000 --> 00:05:34.000]  which means it takes much less time to filter your water.
-[00:05:34.000 --> 00:05:36.000]  Supercharge your gravity filter today.
-[00:05:36.000 --> 00:05:38.000]  Upgrade to black murky purification elements.
-[00:05:38.000 --> 00:05:42.000]  Get a two-pack, only $99, or a four-pack, only $188.
-[00:05:42.000 --> 00:05:45.000]  Call New Millennium, 888-803-4438.
-[00:05:45.000 --> 00:05:51.000]  That's 888-803-4438, or order on the web at murkywater.com.
-[00:05:55.000 --> 00:05:58.000]  It's here, after a year in production and traveling to distant lands.
-[00:05:58.000 --> 00:06:01.000]  My new film, Terror Storm, is complete.
-[00:06:01.000 --> 00:06:04.000]  Shocking declassified government documents prove that Western governments
-[00:06:04.000 --> 00:06:09.000]  are orchestrating terror attacks against their own populations as a pretext to enslave them.
-[00:06:09.000 --> 00:06:13.000]  Terror Storm proves that not only was 9-11 an inside job,
-[00:06:13.000 --> 00:06:17.000]  but the attacks of 7-7 in London were carried out by British intelligence.
-[00:06:17.000 --> 00:06:20.000]  Terror Storm chronicles the lies that took us to war in Iran,
-[00:06:20.000 --> 00:06:24.000]  a White House program to disseminate fake news, NSA spying,
-[00:06:24.000 --> 00:06:28.000]  secret police torture, the latest 9-11 information, and much, much more.
-[00:06:28.000 --> 00:06:32.000]  Terror Storm is the definitive guide to the history of government-sponsored terrorism.
-[00:06:32.000 --> 00:06:34.000]  It's an anthology of government crimes.
-[00:06:34.000 --> 00:06:38.000]  Terror Storm is a film that everyone who wants to be truly informed must see.
-[00:06:38.000 --> 00:06:42.000]  Get your copy today at InfoWars.com or PrisonPlanet.com,
-[00:06:42.000 --> 00:06:47.000]  or by calling toll-free 1-888-253-3139,
-[00:06:47.000 --> 00:06:51.000]  or watch it right now online at PrisonPlanet.tv.
-[00:06:51.000 --> 00:06:53.000]  This is a special bulletin.
-[00:06:53.000 --> 00:06:56.000]  The Holy Tea Club is about ready to launch.
-[00:06:56.000 --> 00:06:59.000]  A few founding member positions are still available.
-[00:06:59.000 --> 00:07:03.000]  If self-employment income is important to you, go to HolyTeaClub.com.
-[00:07:03.000 --> 00:07:05.000]  Formulated by Dr. Bill Miller,
-[00:07:05.000 --> 00:07:09.000]  Holy Tea is a unique herbal blend of safe, all-natural ingredients
-[00:07:09.000 --> 00:07:13.000]  designed to gently cleanse the digestive tract and detoxify the body.
-[00:07:13.000 --> 00:07:17.000]  Dr. Miller's Holy Tea may also be used as an element in any weight loss program
-[00:07:17.000 --> 00:07:20.000]  and is much more effective than Chinese Green Tea.
-[00:07:20.000 --> 00:07:24.000]  Also with continued use of Holy Tea, one may experience clear, healthier,
-[00:07:24.000 --> 00:07:28.000]  stronger-looking skin, increased energy, increased mental clarity and focus,
-[00:07:28.000 --> 00:07:32.000]  a better memory, more resistance to diseases, better overall health,
-[00:07:32.000 --> 00:07:35.000]  more comfort with the body, and a happier outlook on life.
-[00:07:35.000 --> 00:07:38.000]  Holy Tea has been helping people for over 20 years,
-[00:07:38.000 --> 00:07:40.000]  and now Holy Tea can help you.
-[00:07:40.000 --> 00:07:43.000]  Here's your chance to help others while creating financial stability
-[00:07:43.000 --> 00:07:45.000]  for yourself at the same time.
-[00:07:45.000 --> 00:07:48.000]  Join the club. Go to HolyTeaClub.com.
-[00:07:48.000 --> 00:07:52.000]  That's H-O-L-Y-T-E-A-C-L-U-B.com.
-[00:07:52.000 --> 00:07:55.000]  He's the T-Rex of political talk.
-[00:07:55.000 --> 00:07:59.000]  Alex Jones on the GCN Radio Network.
-[00:07:59.000 --> 00:08:02.000]  If you go up to infowars.com, prisonbunny.com,
-[00:08:02.000 --> 00:08:07.000]  you can link over to the Wired magazine that's kind of teamed up
-[00:08:07.000 --> 00:08:11.000]  with Caltech graduate student Virgil Riveth,
-[00:08:11.000 --> 00:08:16.000]  who built a search tool that traces IP addresses of those who make Wikipedia changes.
-[00:08:16.000 --> 00:08:20.000]  And you can go through at the Wiki scanner,
-[00:08:20.000 --> 00:08:22.000]  and then you can even submit stuff to Wired.
-[00:08:22.000 --> 00:08:27.000]  We're asking people to do that on our message board at prisonplanet.com as well,
-[00:08:27.000 --> 00:08:29.000]  just to show what they're doing to the truth movement,
-[00:08:29.000 --> 00:08:32.000]  the 9-11 truth movement, the anti-war movement.
-[00:08:32.000 --> 00:08:34.000]  And even looking on Wired,
-[00:08:34.000 --> 00:08:37.000]  the thousands of submissions that have been made there on Wikiscans,
-[00:08:37.000 --> 00:08:39.000]  because you still need human intelligence to really look at this
-[00:08:39.000 --> 00:08:41.000]  and pick out what we think is most interesting.
-[00:08:41.000 --> 00:08:46.000]  It's CIA, it's American Airlines going in and saying 9-11 didn't happen on a page.
-[00:08:46.000 --> 00:08:50.000]  I mean, it's just anti-war groups getting removed.
-[00:08:50.000 --> 00:08:54.000]  It's Republicans vandalizing Cindy Sheehan.
-[00:08:54.000 --> 00:08:58.000]  I mean, it just goes, you have opened a Pandora's box here,
-[00:08:58.000 --> 00:09:00.000]  and as you said earlier, I mean, I couldn't do this,
-[00:09:00.000 --> 00:09:04.000]  but for a programmer like yourself, it's a pretty simple application.
-[00:09:04.000 --> 00:09:06.000]  Has this been cloned yet?
-[00:09:06.000 --> 00:09:09.000]  No, it has not.
-[00:09:09.000 --> 00:09:11.000]  And I said there was a reason because of this,
-[00:09:11.000 --> 00:09:15.000]  is because the database that connects IP ranges to companies
-[00:09:15.000 --> 00:09:17.000]  usually costs money.
-[00:09:17.000 --> 00:09:22.000]  And in my case, I asked very nicely, and it was for free.
-[00:09:22.000 --> 00:09:25.000]  So yeah, I said the reason they haven't done it is because
-[00:09:25.000 --> 00:09:29.000]  getting that database usually costs like $1,000 or so.
-[00:09:29.000 --> 00:09:31.000]  So I could go out, get a good programmer like yourself,
-[00:09:31.000 --> 00:09:33.000]  pay a thousand smackers and create a clone?
-[00:09:33.000 --> 00:09:35.000]  Yes.
-[00:09:35.000 --> 00:09:37.000]  Well, I think this is such an important thing you've done
-[00:09:37.000 --> 00:09:39.000]  in case your site went down or something.
-[00:09:39.000 --> 00:09:40.000]  I think there should be clones.
-[00:09:40.000 --> 00:09:41.000]  Do you agree with that statement?
-[00:09:41.000 --> 00:09:42.000]  Yes.
-[00:09:42.000 --> 00:09:45.000]  I'm very pleased because the Wikimedia Foundation,
-[00:09:45.000 --> 00:09:47.000]  the people who own Wikipedia, they actually agree,
-[00:09:47.000 --> 00:09:50.000]  and they're talking about incorporating something like Wikiscanner
-[00:09:50.000 --> 00:09:52.000]  into the main code base.
-[00:09:52.000 --> 00:09:55.000]  So it will be directly embedded into Wikipedia.
-[00:09:55.000 --> 00:09:57.000]  Well, there are comments on our message board right now
-[00:09:57.000 --> 00:09:59.000]  about In Defense of Wikipedia, and I've gotten mad at them
-[00:09:59.000 --> 00:10:04.000]  because they've let little trolls who have administration power
-[00:10:04.000 --> 00:10:07.000]  delete hundreds of pages of serious material that other people put up
-[00:10:07.000 --> 00:10:11.000]  that I happen to be mentioned in, and they're just vandalizing everything.
-[00:10:11.000 --> 00:10:12.000]  I've seen them on their pages.
-[00:10:12.000 --> 00:10:16.000]  They snicker and laugh and admit it's politically motivated
-[00:10:16.000 --> 00:10:19.000]  and worship George Bush and his fascism.
-[00:10:19.000 --> 00:10:23.000]  And the people that were posting my material and other important stuff
-[00:10:23.000 --> 00:10:26.000]  and research we'd done, they were doing it very dryly
-[00:10:26.000 --> 00:10:29.000]  in the proper format of Wikipedia.
-[00:10:29.000 --> 00:10:33.000]  And so I'm mad at Wikipedia about that, but I want to make this clear.
-[00:10:33.000 --> 00:10:38.000]  The same manipulation of information, the same failures of information,
-[00:10:38.000 --> 00:10:42.000]  the same spinning of info is in Webster's dictionary.
-[00:10:42.000 --> 00:10:44.000]  It's in Encyclopedia Britannica.
-[00:10:44.000 --> 00:10:48.000]  It's just now because this is open source and people are now looking at it,
-[00:10:48.000 --> 00:10:52.000]  we're able to see manipulation that's always been there in other formats.
-[00:10:52.000 --> 00:10:53.000]  Would you agree with that statement?
-[00:10:53.000 --> 00:10:56.000]  Yes, I would.
-[00:10:56.000 --> 00:10:58.000]  Now, I know you're not going to make value judgments on this
-[00:10:58.000 --> 00:11:00.000]  because you're just dryly putting out this technology,
-[00:11:00.000 --> 00:11:07.000]  but just randomly then, what are some of the points of interest for you?
-[00:11:08.000 --> 00:11:12.000]  When you were first there looking at this and seeing who was going in
-[00:11:12.000 --> 00:11:16.000]  and changing the encyclopedia, who was removing stuff about themselves,
-[00:11:16.000 --> 00:11:17.000]  who was adding things?
-[00:11:17.000 --> 00:11:20.000]  My favorite ones were actually from the media themselves.
-[00:11:20.000 --> 00:11:25.000]  So the first ones I looked at were The New York Times, Fox News, and Al Jazeera.
-[00:11:25.000 --> 00:11:26.000]  So those are all very nice.
-[00:11:26.000 --> 00:11:28.000]  My favorite one, actually I was very surprised
-[00:11:28.000 --> 00:11:30.000]  The New York Times actually published this in their newspaper.
-[00:11:30.000 --> 00:11:32.000]  The New York Times actually added the phrase,
-[00:11:32.000 --> 00:11:36.000]  jerk, jerk, jerk, jerk, jerk, jerk, jerk to George Bush's Web page.
-[00:11:36.000 --> 00:11:38.000]  So that was very nice.
-[00:11:38.000 --> 00:11:42.000]  And they also changed, on Condoleezza Rice's page,
-[00:11:42.000 --> 00:11:46.000]  they changed that she was a concert pianist to a concert penis.
-[00:11:46.000 --> 00:11:49.000]  So both of those were very special.
-[00:11:49.000 --> 00:11:53.000]  But see, those are petty, so that's why they advertise it like it was some employee doing it.
-[00:11:53.000 --> 00:11:56.000]  The more serious stuff, and I know you're not making a judgment on this,
-[00:11:56.000 --> 00:12:01.000]  but I mean the CIA, computers going in, Republican computers going in,
-[00:12:01.000 --> 00:12:03.000]  what type of stuff did you find?
-[00:12:03.000 --> 00:12:06.000]  The CIA was actually not very interesting.
-[00:12:06.000 --> 00:12:08.000]  I mean, I was very sad about this.
-[00:12:08.000 --> 00:12:12.000]  The CIA, they're mostly just people just being lazy at work.
-[00:12:12.000 --> 00:12:19.000]  Like starting to tell the CIA's favorite subject is arcane lightsaber fighting style from Star Wars.
-[00:12:19.000 --> 00:12:21.000]  That was one of their favorite subjects.
-[00:12:21.000 --> 00:12:25.000]  So I did not detect anything serious in the CIA.
-[00:12:25.000 --> 00:12:29.000]  Yeah, but real CIA edits are going to be done from separate IPs.
-[00:12:29.000 --> 00:12:31.000]  Yeah, that's probably true.
-[00:12:31.000 --> 00:12:35.000]  Yeah, I'll tell you some of the ones that were of bias in the CIA.
-[00:12:35.000 --> 00:12:41.000]  Those are some people that are writing huge personal memoirs on the pages.
-[00:12:41.000 --> 00:12:43.000]  They'll go into this huge detail.
-[00:12:43.000 --> 00:12:45.000]  It won't be like a psychopedic entry.
-[00:12:45.000 --> 00:12:49.000]  It's something like a personal biography, like a first-hand account.
-[00:12:49.000 --> 00:12:52.000]  And I don't know if those accounts are true or not.
-[00:12:52.000 --> 00:12:53.000]  Well, I think that's interesting.
-[00:12:53.000 --> 00:12:56.000]  As long as they admit it's themselves writing it, let them put it up.
-[00:12:56.000 --> 00:12:58.000]  Yeah, certainly.
-[00:12:58.000 --> 00:13:06.000]  From Fox News, one of the things you most commonly saw is that they like adding the word liberal in front of anyone who criticizes them.
-[00:13:06.000 --> 00:13:08.000]  Yeah, that's right.
-[00:13:08.000 --> 00:13:12.000]  I'm so conservative in a classic sense, I make Fox look like communists.
-[00:13:12.000 --> 00:13:14.000]  And they call me hardcore liberal.
-[00:13:14.000 --> 00:13:19.000]  Yeah, well, for them it's kind of a binary thing.
-[00:13:19.000 --> 00:13:22.000]  It's either George Bush or liberal.
-[00:13:22.000 --> 00:13:24.000]  Well, yeah, they're going for lowest common denominator.
-[00:13:24.000 --> 00:13:34.000]  It's literally like a chant, a Vedic chant of just liberal, liberal, liberal, whacked out liberal, liberal, liberal, nutcase, crazy liberal, liberal, liberal, yeah.
-[00:13:34.000 --> 00:13:43.000]  Yeah, so in their case they were always adding this mere adjective of liberal in front of anyone they didn't like.
-[00:13:43.000 --> 00:13:46.000]  And this was most common for NPR radio commentators.
-[00:13:46.000 --> 00:13:50.000]  Were they doing this on an industrial level, just liberal, liberal everywhere?
-[00:13:50.000 --> 00:13:56.000]  Not quite industrial level, but it was a very common theme.
-[00:13:56.000 --> 00:13:58.000]  But that's just the scans you did.
-[00:13:58.000 --> 00:14:06.000]  I mean, what, you would just randomly check liberal reporters and it would generally be a Fox News liberal comment in there?
-[00:14:06.000 --> 00:14:08.000]  Yeah, usually.
-[00:14:08.000 --> 00:14:10.000]  Let me see actually how many edits.
-[00:14:10.000 --> 00:14:15.000]  I think there was something like, well, there was only a few thousand edits from Fox News.
-[00:14:15.000 --> 00:14:17.000]  Only a few thousand, oh.
-[00:14:17.000 --> 00:14:19.000]  Yeah, only a few thousand.
-[00:14:19.000 --> 00:14:25.000]  See, another very common one from Diebold, the people who made us make the voting machines.
-[00:14:25.000 --> 00:14:30.000]  They removed a whole section from their pages where their security was being criticized.
-[00:14:30.000 --> 00:14:44.000]  And that one's like, ugh, you know, that one made everyone, well, that one should make us all quite unhappy because, well, voting machines are important.
-[00:14:44.000 --> 00:14:49.000]  Here's another example of censorship separate from Wikipedia because of its open source nature you were able to do this.
-[00:14:49.000 --> 00:14:52.000]  But obviously I'm not telling you that.
-[00:14:52.000 --> 00:14:55.000]  I'm just telling folks that don't understand computers like myself.
-[00:14:55.000 --> 00:14:57.000]  Here's a question from our message board.
-[00:14:57.000 --> 00:15:01.000]  Hey, Alex, the Google video censoring is way worse than just your video.
-[00:15:01.000 --> 00:15:07.000]  And I'm sure you know Loose Change, Terror, Storm, 9-11 Mysteries are consistently watching that to be put in the top 100.
-[00:15:07.000 --> 00:15:12.000]  But as you probably noticed, the top 100 is now fairly recently full of sexy type videos.
-[00:15:12.000 --> 00:15:15.000]  Yeah, there's been a fat lady on a treadmill for 10 years.
-[00:15:15.000 --> 00:15:18.000]  And they have the views that some of these documentaries have.
-[00:15:18.000 --> 00:15:21.000]  They are purposely promoting mindlessness on the top 100.
-[00:15:21.000 --> 00:15:28.000]  I also have screenshots from last October where they deleted views and versions of Terror, Storm, Loose Change.
-[00:15:28.000 --> 00:15:34.000]  They froze counters for five days in one case, deleted the Loose Change version that had 7 million views and was constantly in the top 10.
-[00:15:34.000 --> 00:15:39.000]  It seems within the last four or five months they've been deliberately censoring.
-[00:15:39.000 --> 00:15:42.000]  Before that you would see five or six truth movies in the top 100.
-[00:15:42.000 --> 00:15:44.000]  Now it's all naked ladies.
-[00:15:44.000 --> 00:15:50.000]  For example, Loose Change has 8,000 views yesterday, says it ranks at number 30, but it's not even in the top 100.
-[00:15:50.000 --> 00:15:54.000]  And Google admits they're accidentally doing this, but only to us.
-[00:15:54.000 --> 00:15:57.000]  And then say Marshall Law is big news a month ago.
-[00:15:57.000 --> 00:15:59.000]  It's in the national news, Bush wants Marshall Law.
-[00:15:59.000 --> 00:16:01.000]  And it's a major paper.
-[00:16:01.000 --> 00:16:05.000]  So the number three search on Google was my film Marshall Law from three years ago.
-[00:16:05.000 --> 00:16:08.000]  And so it gets 700,000 views in three days.
-[00:16:08.000 --> 00:16:09.000]  It's number one.
-[00:16:09.000 --> 00:16:11.000]  They just disable it.
-[00:16:11.000 --> 00:16:13.000]  And it's been disabled for more than a month.
-[00:16:13.000 --> 00:16:20.000]  I mean, we need programmers and smart guys like you to look at that too, sir, because we're getting sick of it.
-[00:16:20.000 --> 00:16:25.000]  Yeah, that's actually kind of interesting.
-[00:16:25.000 --> 00:16:31.000]  I know several people who do work at Google and I'll say that most of them are very nice.
-[00:16:31.000 --> 00:16:34.000]  You know, you would like them as people, I promise.
-[00:16:35.000 --> 00:16:38.000]  I know they're big Ron Paul supporters and most of them really are good.
-[00:16:38.000 --> 00:16:41.000]  It started out as a really libertarian dynamic thing.
-[00:16:41.000 --> 00:16:42.000]  It's why it's been so successful.
-[00:16:42.000 --> 00:16:44.000]  But now, you know, they've made deals with China.
-[00:16:44.000 --> 00:16:47.000]  They've been doing MIT mergers with CIA.
-[00:16:47.000 --> 00:16:48.000]  That's all come out.
-[00:16:48.000 --> 00:16:55.000]  It seems like they are kind of like they were a young Anakin Skywalker and now they're becoming seduced by Lord Palpatine.
-[00:16:55.000 --> 00:16:57.000]  Yeah, no, I know this view.
-[00:16:58.000 --> 00:17:08.000]  In short, I think Google is discovering that as they get bigger and they're becoming more of a global player, they have to make some concessions for them to even survive.
-[00:17:08.000 --> 00:17:11.000]  Yeah, but look, they're doing censorship right here, bro.
-[00:17:11.000 --> 00:17:14.000]  We caught them red-handed and I'm sick of it.
-[00:17:14.000 --> 00:17:20.000]  By the way, I had Google Ads up and I removed 95% of their ads and I'm going to remove them all if they don't quit.
-[00:17:21.000 --> 00:17:27.000]  I know they don't care, but the point is that I'm even turning down advertising money because I'm getting so sick of them.
-[00:17:27.000 --> 00:17:28.000]  Right.
-[00:17:28.000 --> 00:17:33.000]  Yeah, no, I mean, these are all criticisms.
-[00:17:33.000 --> 00:17:35.000]  I even agree with them in many ways.
-[00:17:35.000 --> 00:17:43.000]  But with the Google people, they agree all the things they're doing are bad, so they agree with you.
-[00:17:43.000 --> 00:17:53.000]  But they basically say, you know what, these bad things, we have to do them in order to even keep them to exist so we aren't sued to oblivion.
-[00:17:53.000 --> 00:18:03.000]  Yeah, but we've got to let China use our data to grab their dissidents and execute them or we won't be able to have our own private 777s with party rooms.
-[00:18:03.000 --> 00:18:05.000]  Something like that.
-[00:18:05.000 --> 00:18:11.000]  Well, look, I mean, I hope they make a trillion dollars, but they better do it free market and liberty oriented and people are getting mad at them.
-[00:18:11.000 --> 00:18:14.000]  I mean, does Google know that they're really getting a bad rep now?
-[00:18:14.000 --> 00:18:22.000]  They know that it isn't nearly as good as it used to be, but they're certainly so much better than most companies.
-[00:18:22.000 --> 00:18:34.000]  Like, for example, when the NSA, no, I'm sorry, when the Department of Justice wanted data, Google was the only one that said no, while MSN and Yahoo immediately said yes.
-[00:18:34.000 --> 00:18:35.000]  No, I know, I saw that.
-[00:18:35.000 --> 00:18:37.000]  No, listen, I want to do business with Google.
-[00:18:37.000 --> 00:18:38.000]  I like Google.
-[00:18:38.000 --> 00:18:42.000]  I think they're the best product out there for info, but I mean, I'm getting sick of it.
-[00:18:42.000 --> 00:18:45.000]  Man, my movies are winning the info war.
-[00:18:45.000 --> 00:18:46.000]  They'd be number one all the time.
-[00:18:46.000 --> 00:18:52.000]  I'd reach 100 million instead of, you know, Territorium reaching 10 million now, and I don't appreciate them doing that.
-[00:18:52.000 --> 00:18:53.000]  Yeah, no, I understand.
-[00:18:53.000 --> 00:19:00.000]  I mean, I really have no idea where everything goes into their rankings and those are all good things to use.
-[00:19:00.000 --> 00:19:21.000]  Well, what they do is their counter will show, let's say I've had 8,000, 7,000, 10,000 views, and if you look at the rankings, number 22 has 10,1100, and I'm doing this rant, you know, just hypothetical, and then number 23 has, you know, 10,050 views.
-[00:19:21.000 --> 00:19:23.000]  Well, then I've got 15,000 views.
-[00:19:23.000 --> 00:19:25.000]  I'm not even in the top 100.
-[00:19:25.000 --> 00:19:30.000]  That actually would be very nice to do an analysis of, and I'll think about like a good way to do that.
-[00:19:30.000 --> 00:19:40.000]  You can get some objective measurements of traffic stats, and if you could just correlate that with Google ranking and see places where it doesn't make any sense, that would be very, very nice.
-[00:19:40.000 --> 00:19:42.000]  Well, they seem to do it and then stop and then do it.
-[00:19:42.000 --> 00:19:49.000]  I mean, what they do is when we go up in the top 10, they knock us out for a few weeks until we settle back down so there's no viral spread.
-[00:19:49.000 --> 00:19:50.000]  Stay there.
-[00:19:50.000 --> 00:19:56.000]  Nuclear reactors provide economical energy, but would you be prepared during an accident?
-[00:19:56.000 --> 00:20:04.000]  During nuclear disasters, great amounts of radioactive iodine are released into the atmosphere, which are then readily absorbed into the body.
-[00:20:04.000 --> 00:20:13.000]  Medical course potassium iodate gives you virtually complete protection from the most feared consequence of a nuclear accident, radioactive poisoning.
-[00:20:14.000 --> 00:20:20.000]  Potassium iodate can protect against radioactive poisoning by filling the thyroid with good iodine.
-[00:20:20.000 --> 00:20:25.000]  This shields the thyroid and prevents it from absorbing the harmful radioactive iodine.
-[00:20:25.000 --> 00:20:34.000]  Potassium iodate is better than the iodide form because it is not as likely to cause upset stomachs in children, the elderly, the sick, and pets.
-[00:20:34.000 --> 00:20:44.000]  Order the official potassium iodate for only $24 and save $5 by calling New Millennium at 888-803-4438.
-[00:20:44.000 --> 00:20:50.000]  Call now and get free shipping. That's 888-803-4438.
-[00:20:52.000 --> 00:20:57.000]  As many people know, ever since President Nixon took us off the gold standard, the U.S. dollar has been devaluating.
-[00:20:57.000 --> 00:21:01.000]  What people don't know, however, is how this directly affects your personal finances.
-[00:21:02.000 --> 00:21:07.000]  Is there a way to prevent your portfolios from losing value? The answer to all of this is gold and silver.
-[00:21:07.000 --> 00:21:10.000]  They have both maintained their purchasing power for 6,000 years.
-[00:21:10.000 --> 00:21:18.000]  If you had had $100,000 in cash and $100,000 in gold and silver back in 1913 and kept them both until now,
-[00:21:18.000 --> 00:21:26.000]  your cash would actually have the buying power of only $4,800, but your gold and silver would have the buying power of $3 million.
-[00:21:26.000 --> 00:21:35.000]  The answer to protecting your assets is simple. Call me, John Ballman, today at 1-800-686-2237, extension 169.
-[00:21:35.000 --> 00:21:43.000]  Get all your questions answered before your money is worth zero. Call 1-800-686-2237, extension 169.
-[00:21:43.000 --> 00:21:51.000]  Take action today while we still accept paper dollars for gold. That's 1-800-686-2237, extension 169.
-[00:21:52.000 --> 00:21:55.000]  David J. Smith for Newswatch Magazine.
-[00:21:55.000 --> 00:22:00.000]  Did you know that those seeking to destroy America and merge us into an all-powerful, one-world government
-[00:22:00.000 --> 00:22:08.000]  said that they support every movement to centralize all authority in Washington, D.C., and therefore bypass the state governments?
-[00:22:08.000 --> 00:22:12.000]  That way they would have only one battle to win, Washington, D.C.
-[00:22:12.000 --> 00:22:19.000]  Have we witnessed the accumulation of power in Washington and bypassing the states over the last 50 years?
-[00:22:19.000 --> 00:22:27.000]  We'd like to help you understand how these things are coming to pass by offering you an absolutely free one-year subscription to Newswatch Magazine.
-[00:22:27.000 --> 00:22:42.000]  Just call our toll-free number 1-800-516-8736. That's 1-800-516-8736 to request your subscription.
-[00:22:42.000 --> 00:22:47.000]  Call now. Operators are standing by to receive your call.
-[00:22:49.000 --> 00:22:58.000]  Want to know my little secret? I have rich, delicious chocolate as much as I want every single day, and I never feel bad about it.
-[00:22:58.000 --> 00:23:03.000]  Cocoa Pure Chocolate Tea gives you real, natural cocoa without any fat or sugar.
-[00:23:03.000 --> 00:23:11.000]  Even better, Cocoa Pure is made with nutrients that keep my heart healthy, my energy levels up, and my body looking great.
-[00:23:11.000 --> 00:23:17.000]  I'm having smooth, tasty chocolate every single day, and it's helping me stay healthier than ever.
-[00:23:17.000 --> 00:23:22.000]  You can give yourself the gift of health by calling for a bottle of Cocoa Pure Chocolate Tea.
-[00:23:22.000 --> 00:23:29.000]  The only thing better than chocolate is healthy chocolate. Here's how you can get a bottle of delicious Cocoa Pure Chocolate Tea.
-[00:23:29.000 --> 00:23:36.000]  For your risk-free bottle of Cocoa Pure Chocolate Tea, call 1-800-894-3596.
-[00:23:36.000 --> 00:23:41.000]  And if you call now, you can find out how to get a free bottle of Cocoa Pure with your order.
-[00:23:41.000 --> 00:23:47.000]  Call 1-800-894-3596. That's 1-800-894-3596.
-[00:24:11.000 --> 00:24:18.000]  Well, I hope to get Virgil Griffith on from time to time as new developments come out with his Wiki scanner.
-[00:24:18.000 --> 00:24:24.000]  We have links to it up on Infowars.com and PresentPlanet.com.
-[00:24:24.000 --> 00:24:32.000]  Just in closing, in the few minutes we've got, sir, any other key points you want to make or other interesting discoveries that people should be directed to look at?
-[00:24:32.000 --> 00:24:36.000]  Yeah, there are two things. Some people keep asking, they keep saying,
-[00:24:36.000 --> 00:24:42.000]  hey, well, with Wiki scanner, won't this make this company just more clever and they'll be more sneaky about how they edit Wikipedia?
-[00:24:42.000 --> 00:24:46.000]  And so they'll actually have done a bad thing because now they're just going to be sneakier now.
-[00:24:46.000 --> 00:24:52.000]  And I would say the answer to that is no. And I use the analogy of fingerprints.
-[00:24:52.000 --> 00:24:59.000]  So like, you know, dusting for fingerprints, we all know police do, and they've done it for decades, maybe. Yeah, at least decades.
-[00:24:59.000 --> 00:25:07.000]  However, every time police come to a crime scene, they steal dust for prints, and lo and behold, it still often works.
-[00:25:07.000 --> 00:25:11.000]  So I would consider Wiki scanner kind of like that.
-[00:25:11.000 --> 00:25:23.000]  So yes, there may be some criminals that are very clever and they use gloves to prevent things like Wiki scanner from working, but by and large, I suspect it'll still work.
-[00:25:23.000 --> 00:25:32.000]  So yeah. So in short, by a year from now, the entire thing could be done all over again.
-[00:25:32.000 --> 00:25:40.000]  Now for those that don't know, Wikipedia is like rated what, number eight by the two big web rating services last time I checked, up from number nine.
-[00:25:40.000 --> 00:25:42.000]  That's about right, yeah.
-[00:25:42.000 --> 00:25:49.000]  And so for those that don't know, we've tracked some of our stories and websites, 10% of our traffic is from Wiki.
-[00:25:49.000 --> 00:25:55.000]  And so it's a wonderful thing, and I get millions of visitors a month on our little sites, and they are little compared to Wiki,
-[00:25:55.000 --> 00:26:03.000]  but it makes me angry that they let people have personal user pages where they say they're there to destroy information,
-[00:26:03.000 --> 00:26:13.000]  and they say they're there to shut down alternative info, and then they're just allowed to break all the rules because they're old Wiki users, they need to be shut down.
-[00:26:13.000 --> 00:26:20.000]  I mean, Wiki does need to clean house and get all the people that are trying to destroy true information out of there.
-[00:26:20.000 --> 00:26:30.000]  Well, I'll be sure to have mentioned it to them. I mean, yeah, I'll mention it. The Wikimedia Foundation, I mean, we're talking fairly often now, so I'll mention it.
-[00:26:30.000 --> 00:26:37.000]  I mean, here's an example. There's some high school kid named Davishire, and he's got a website and he brags the hundreds of things he's deleted.
-[00:26:37.000 --> 00:26:44.000]  And I mean, he deletes stuff like Republican sex scandals, huge ones. He just knocks them off. He deletes bad stuff about George Bush.
-[00:26:44.000 --> 00:26:54.000]  He deletes stuff about Bush saying, we're going to be out of Iraq in a year. I mean, he's just one of thousands of these guys, and they just love what they're doing.
-[00:26:54.000 --> 00:26:55.000]  I see.
-[00:26:55.000 --> 00:27:02.000]  And I mean, they just go through and they brag. They show everything they've deleted. I mean, I don't even want to delete people's information I disagree with.
-[00:27:02.000 --> 00:27:08.000]  I mean, I'm into information, as I know you are, and to see somebody basically burn books makes me mad.
-[00:27:08.000 --> 00:27:17.000]  No, I understand. This one user you refer to, is that an admin of Wikipedia, or is it just some random guy?
-[00:27:17.000 --> 00:27:24.000]  Well, he says he's an admin, but then he took that off and we put attention on it, but then he teams up with other admins, and it's like wolf packs of people.
-[00:27:24.000 --> 00:27:35.000]  I'm going to have Paul Watson send you all the stories about Google censorship, former CIA officer David Steele exposing it, and then we'll also send you the information on these brigades.
-[00:27:35.000 --> 00:27:47.000]  They have military awards. Most of them admit they're with CENTCOM, and they just brag that they're fighting us evil Al Qaeda lovers by destroying any criticism of the government.
-[00:27:47.000 --> 00:27:52.000]  I see. Well, yeah, sure. Send it, and I'll see if there's anything I can make of it.
-[00:27:52.000 --> 00:28:01.000]  Help us, now that you've started the Star Wars analogies, I'm not going to stop. Help us, Obi-Wan Griffith, Virgil Obi-Wan, we need you.
-[00:28:01.000 --> 00:28:06.000]  You and many other great programmers and researchers like yourself are our only hope.
-[00:28:06.000 --> 00:28:11.000]  Is there a website, other than just your new scanner that you want to plug?
-[00:28:12.000 --> 00:28:24.000]  Actually, yes, there is one. The Notable Names database in the NNDB.com. I think that's a very nice site for uncovering scandals and things like that and the stuff you mentioned.
-[00:28:24.000 --> 00:28:26.000]  Give that out again?
-[00:28:26.000 --> 00:28:31.000]  NNDB, NNDB.com, November, November, Bravo, Delta.
-[00:28:31.000 --> 00:28:35.000]  I think I've been to that site. It kind of gives an analysis of each different issue.
-[00:28:35.000 --> 00:28:37.000]  Yeah.
-[00:28:37.000 --> 00:28:40.000]  I think they call me conspiracy theorist for a buck or something.
-[00:28:41.000 --> 00:28:44.000]  Well, are you called that? I don't know what you're called from a website site.
-[00:28:44.000 --> 00:28:46.000]  Is there main headlines in red, right?
-[00:28:46.000 --> 00:28:47.000]  Yes, that's it.
-[00:28:47.000 --> 00:28:50.000]  Yeah, well, hey, that's fine. They don't know what it's like to have 12 employees.
-[00:28:50.000 --> 00:28:51.000]  Oh, okay.
-[00:28:51.000 --> 00:28:53.000]  This microphone I'm on costs $800.
-[00:28:53.000 --> 00:28:54.000]  I see.
-[00:28:54.000 --> 00:29:00.000]  I'm very evil that I have a radio show and actually have sponsors. But, no, overall, I find a lot of good info on there, though.
-[00:29:00.000 --> 00:29:03.000]  Yeah, yeah, yeah. No, if you ask me, I like it a lot.
-[00:29:03.000 --> 00:29:14.000]  I mean, you can discover that people like Bill Maher, one stated Ann Coulter, great juicy stuff like that.
-[00:29:14.000 --> 00:29:19.000]  No, no, their info on me is pretty accurate. The only thing, their executive analysis is what's wrong.
-[00:29:19.000 --> 00:29:21.000]  Oh, I see. Okay.
-[00:29:21.000 --> 00:29:25.000]  But I guess in a way I am for a buck. I mean, I got to pay the bills, I guess.
-[00:29:25.000 --> 00:29:27.000]  That's true. No, we all got to.
-[00:29:27.000 --> 00:29:30.000]  Hey, listen, thank you so much, sir, for spending time with us.
-[00:29:30.000 --> 00:29:31.000]  All right. My pleasure.
-[00:29:31.000 --> 00:29:37.000]  You bet. Take care. All right. We'll be right back with your calls, a bunch of other news. Stay with me.
+[00:00:01.210 --> 00:00:02.791]  You want answers?
+[00:00:02.791 --> 00:00:04.713]  Well, so does he.
+[00:00:04.713 --> 00:00:08.556]  He's Alex Jones on the GCN Radio Network.
+[00:00:08.556 --> 00:00:14.160]  And now, live from Austin, Texas, Alex Jones.
+[00:00:14.160 --> 00:00:18.183]  There's a lot of editing going on, editing in the Matrix.
+[00:00:18.183 --> 00:00:29.692]  We know Bush has bought billions and billions of fake news and thousands of reporters out pushing a police state martial law, telling us how good it is to have police in black uniforms arresting reporters coast to coast.
+[00:00:30.712 --> 00:00:32.973]  A new age of darkness is upon us.
+[00:00:32.973 --> 00:00:38.776]  Hillary and Chuckie and all of them have been voting for it while criticizing their scapegoat Alberto Gonzalez.
+[00:00:38.776 --> 00:00:41.897]  A unified front of tyranny upon the people.
+[00:00:41.897 --> 00:00:49.560]  Virgil Griffith is the amazing individual who's gotten so much attention because of the open source nature of Wikipedia.
+[00:00:49.560 --> 00:00:52.581]  He was able to craft a program and a wiki scanner.
+[00:00:52.581 --> 00:00:56.083]  We've been hearing so much about the last three weeks since this broke.
+[00:00:56.872 --> 00:01:03.156]  And headlines, see who's editing Wikipedia, Diebold, the CIA, and campaigns.
+[00:01:03.156 --> 00:01:14.704]  And it goes on from there, and we've been doing wiki scans and finding out all the government agencies and people that have been in there foxing and messing with the postings about me, or just out of hand deleting them.
+[00:01:14.704 --> 00:01:18.227]  Hundreds of pages about my films and works we've done, just gone forever.
+[00:01:19.082 --> 00:01:19.743]  Oh, it's a sure thing.
+[00:01:19.743 --> 00:01:20.484]  It's a pleasure to be here.
+[00:01:36.957 --> 00:01:39.098]  You're a Caltech graduate student.
+[00:01:39.098 --> 00:01:40.478]  When did you think up this idea?
+[00:01:40.478 --> 00:01:44.059]  How long did it take you to craft this wondrous application?
+[00:01:44.059 --> 00:01:47.260]  Well, I thought of the idea actually about a year ago.
+[00:01:47.260 --> 00:01:55.203]  And this was when some Wikipedians caught Congressmen whitewashing their own pages.
+[00:01:55.203 --> 00:02:02.605]  And so I think, hey, if they can do this manually, I can do this for all of Wikipedia.
+[00:02:02.605 --> 00:02:05.186]  But unfortunately, I was always busy then, so I sat on the idea.
+[00:02:06.388 --> 00:02:11.952]  When you finally got it built and tested, what was it like to see the incredible results you were getting?
+[00:02:27.279 --> 00:02:39.725]  I quickly saw that it would be a bad idea if there was any sort of system on my website where people could rate how juicy the edits were because that would probably get you sued.
+[00:02:39.725 --> 00:02:46.509]  So I was very happy when Wired Magazine stepped in and they offered to do that for me.
+[00:02:46.509 --> 00:02:56.794]  So that way I could stand back and be completely objective and I could just say, oh look, I just provide the tool and whatever people do with it, well that's up to them.
+[00:02:57.799 --> 00:03:03.742]  Well, I'm asking my listeners to go in and use this and make submissions to our PrisonPlanet.com forum.
+[00:03:03.742 --> 00:03:07.024]  We're going to create a section there, and everybody should do this.
+[00:03:07.024 --> 00:03:09.145]  We should learn how the crannies of the web work.
+[00:03:09.145 --> 00:03:11.307]  We should investigate what's happening.
+[00:03:11.307 --> 00:03:20.372]  Now, back, what, last year when there were allegations of congressmen manipulating it, they denied it and called it a conspiracy theory, but now your scanners confirmed a lot of that.
+[00:03:21.132 --> 00:03:23.394]  Yeah, it's certainly true.
+[00:03:23.394 --> 00:03:28.417]  I mean, if you want to, you can go search right now and you can see tons of them.
+[00:03:28.417 --> 00:03:30.498]  It's quite glorious.
+[00:03:30.498 --> 00:03:42.486]  To be completely fair to them, it does not necessarily mean that they or their staff made it, but we do know that it came from someone within the congressional computer network.
+[00:03:42.486 --> 00:03:43.886]  Yeah, because it's the IP address.
+[00:03:43.886 --> 00:03:46.688]  Explain to people out there how that works.
+[00:03:46.688 --> 00:03:49.170]  Okay, well, let's see.
+[00:03:49.170 --> 00:03:49.590]  I'll back up.
+[00:03:50.198 --> 00:03:54.663]  In short, when you make a Wikipedia edit, there are two things you can do.
+[00:03:54.663 --> 00:03:58.587]  Number one, you can edit and leave your name, or you can edit anonymously.
+[00:03:58.587 --> 00:04:04.334]  But when you edit anonymously, it leaves a number there to identify your computer.
+[00:04:04.334 --> 00:04:06.196]  And that is just for convenience.
+[00:04:06.196 --> 00:04:09.039]  So I took that and I combined two
+[00:04:11.536 --> 00:04:12.316]  Two databases.
+[00:04:12.316 --> 00:04:15.258]  The first one was where all the edits were from Wikipedia.
+[00:04:15.258 --> 00:04:16.598]  Well, all the anonymous edits.
+[00:04:16.598 --> 00:04:20.600]  And the second one were which numbers were owned by various companies.
+[00:04:20.600 --> 00:04:22.521]  And then you just could combine them together.
+[00:04:22.521 --> 00:04:25.483]  And that's relatively simple, isn't it?
+[00:04:25.483 --> 00:04:27.764]  It's actually very simple.
+[00:04:27.764 --> 00:04:34.007]  The entire project took... Well, once I had the idea and actually working on it, the entire project took me two weeks.
+[00:04:35.004 --> 00:04:36.527]  Stay there, my friend.
+[00:04:36.527 --> 00:04:38.009]  This is just incredible.
+[00:04:38.009 --> 00:04:47.744]  Another example of how whatever they do for tyranny's sake, we have independent freedom lovers out there that are sabotaging them every step of the way.
+[00:04:47.744 --> 00:04:49.988]  We'll be right back with Virgil Griffith.
+[00:04:53.254 --> 00:05:02.581]  Now you can upgrade your existing gravity filter to remove chemicals such as triamethylenes, atrazine, benzene, chlorine, chloroform, and MTBE to below detectable limits.
+[00:05:02.581 --> 00:05:14.150]  Black quirky elements are so powerful they remove pathogenic bacteria, cysts and parasites to non-detectable levels, and transform water, even raw stagnant pond water, into delicious crystal clear drinking water.
+[00:05:14.150 --> 00:05:19.854]  Nitrates, nitrites, radon-222, unwanted heavy metals like lead, mercury, and aluminum are no problem.
+[00:05:20.074 --> 00:05:20.775]  We're good to go.
+[00:05:38.012 --> 00:05:42.117]  Let's get a 2-pack, only $99, or a 4-pack, only $188.
+[00:05:42.117 --> 00:05:43.058]  Call New Millennium, 888-803-4438.
+[00:05:43.058 --> 00:05:45.161]  That's 888-803-4438, or order on the web at berkeywater.com.
+[00:05:55.137 --> 00:05:58.660]  It's here, after a year in production and traveling to distant lands.
+[00:05:58.660 --> 00:06:00.962]  My new film Terror Storm is complete.
+[00:06:00.962 --> 00:06:08.609]  Shocking declassified government documents prove that western governments are orchestrating terror attacks against their own populations as a pretext to enslave them.
+[00:06:09.309 --> 00:06:16.750]  Terror Storm proves that not only was 9-11 an inside job, but the attacks of 7-7 in London were carried out by British intelligence.
+[00:06:16.750 --> 00:06:28.472]  Terror Storm chronicles the lies that took us to war in Iran, a White House program to disseminate fake news, NSA spying, secret police torture, the latest 9-11 information, and much, much more.
+[00:06:28.472 --> 00:06:32.453]  Terror Storm is the definitive guide to the history of government-sponsored terrorism.
+[00:06:32.453 --> 00:06:34.713]  It's an anthology of government crimes.
+[00:06:34.713 --> 00:06:38.554]  Terror Storm is a film that everyone who wants to be truly informed must see.
+[00:06:39.155 --> 00:06:46.489]  Get your copy today on InfoWars.com or PrisonPlanet.com or by calling toll free 1-888-253-3139 or watch it right now online at PrisonPlanet.tv
+[00:06:52.100 --> 00:06:53.681]  This is a special bulletin.
+[00:06:53.681 --> 00:06:56.082]  The Holy Tea Club is about ready to launch.
+[00:06:56.082 --> 00:06:58.763]  A few founding member positions are still available.
+[00:06:58.763 --> 00:07:03.106]  If self-employment income is important to you, go to holyteaclub.com.
+[00:07:03.106 --> 00:07:12.711]  Formulated by Dr. Bill Miller, Holy Tea is a unique herbal blend of safe, all-natural ingredients designed to gently cleanse the digestive tract and detoxify the body.
+[00:07:12.711 --> 00:07:19.414]  Dr. Miller's Holy Tea may also be used as an element in any weight loss program and is much more effective than Chinese Green Tea.
+[00:07:19.674 --> 00:07:35.245]  Also with continued use of holy tea, one may experience clear, healthier, and younger looking skin, increased energy, increased mental clarity and focus, a better memory, more resistance to diseases, better overall health, more comfort with the body, and a happier outlook on life.
+[00:07:35.485 --> 00:07:40.009]  Holy Tea has been helping people for over 20 years and now Holy Tea can help you.
+[00:07:40.009 --> 00:07:44.873]  Here's your chance to help others while creating financial stability for yourself at the same time.
+[00:07:44.873 --> 00:07:45.673]  Join the club.
+[00:07:45.673 --> 00:07:47.635]  Go to holyteaclub.com.
+[00:07:47.635 --> 00:07:52.258]  That's H-O-L-Y-T-E-A-C-L-U-B dot com.
+[00:07:52.258 --> 00:07:55.021]  He's the T-Rex of political talk.
+[00:07:55.021 --> 00:07:57.723]  Alex Jones on the GCN Radio Network.
+[00:07:59.128 --> 00:08:16.705]  If you go up to InfoWars.com and PrisonPundit.com, you can link over to the Wired Magazine that's kind of teamed up with Caltech graduate student Virgil Riveth, who built a search tool that traces IP addresses of those who make Wikipedia changes.
+[00:08:16.705 --> 00:08:18.286]  And you can go through at the wiki
+[00:08:19.728 --> 00:08:22.230]  Scanner, and then you can even submit stuff to Wired.
+[00:08:22.230 --> 00:08:41.126]  We're asking people to do that on our message board at PrisonPlanet.com as well, just to show what they're doing for the truth movement, the 9-11 truth movement, the anti-war movement, and even looking on Wired, the thousands of submissions that have been made there of wiki scans, because you still need human intelligence to really look at this and pick out what we think is most interesting.
+[00:08:41.126 --> 00:08:45.990]  It's CIA, it's American Airlines going in and saying 9-11 didn't happen on a page.
+[00:08:45.990 --> 00:08:46.791]  I mean, it's just...
+[00:08:47.737 --> 00:08:50.900]  It's anti-war groups getting removed.
+[00:08:50.900 --> 00:08:54.443]  It's Republicans vandalizing Cindy Sheehan.
+[00:08:54.443 --> 00:09:04.072]  I mean, it just goes... You have opened a Pandora's box here, and as you said earlier, I mean, I couldn't do this, but for a programmer like yourself it's a pretty simple application.
+[00:09:04.072 --> 00:09:06.734]  Has this been cloned yet?
+[00:09:06.734 --> 00:09:07.315]  No, it has not.
+[00:09:08.627 --> 00:09:12.388]  So I could go out and get a good programmer like yourself, pay a thousand smackers and create a clone?
+[00:09:34.662 --> 00:09:38.246]  Well, I think this is such an important thing you've done in case your site went down or something.
+[00:09:38.246 --> 00:09:39.647]  I think there should be clones.
+[00:09:39.647 --> 00:09:40.888]  Do you agree with that statement?
+[00:09:40.888 --> 00:09:41.449]  Yes.
+[00:09:41.449 --> 00:09:46.854]  Actually, I'm very pleased because the Wikimedia Foundation, the people who own Wikipedia, they actually agree.
+[00:09:46.854 --> 00:09:51.239]  And they're talking about incorporating something like Wikiscanner into the main code base.
+[00:09:55.102 --> 00:10:08.232]  Well, there are comments on our message board right now about in defense of Wikipedia and I've gotten mad at them because they've let little trolls who have administration power delete hundreds of pages of serious material that other people put up that I happen to be mentioned in.
+[00:10:08.932 --> 00:10:19.543]  And they're just vandalizing everything, and on their pages they snicker and laugh and admit it's politically motivated and worship George Bush and his fascism.
+[00:10:19.543 --> 00:10:28.671]  And the people that were posting my material and other important stuff and research we'd done, they were doing it very dryly in the proper format of Wikipedia.
+[00:10:28.671 --> 00:10:31.214]  And so I'm mad at Wikipedia about that, but I want to make this clear.
+[00:10:32.553 --> 00:10:42.244]  The same manipulation of information, the same failures of information, the same spinning of info is in Webster's dictionary.
+[00:10:42.244 --> 00:10:44.246]  It's in Encyclopedia Britannica.
+[00:10:44.246 --> 00:10:51.775]  It's just now, because this is open source, and people are now looking at it, we're able to see manipulation that's always been there in other formats.
+[00:10:51.775 --> 00:10:53.056]  Would you agree with that statement?
+[00:10:53.056 --> 00:10:53.637]  Yeah, I would.
+[00:10:55.862 --> 00:11:06.150]  Now, I know you're not going to make value judgments on this because you're just dryly putting out this technology, but just randomly then, what are some of the points of interest for you?
+[00:11:06.150 --> 00:11:17.879]  I mean, when you were first there looking at this and seeing who was going in and changing the encyclopedia, who was removing stuff about themselves, who was adding things?
+[00:11:17.879 --> 00:11:20.281]  My favorite ones were actually from the media themselves.
+[00:11:20.281 --> 00:11:24.544]  So, the first ones I looked at were the New York Times, Fox News, and Al Jazeera.
+[00:11:25.169 --> 00:11:26.070]  Um, so those are all very nice.
+[00:11:26.070 --> 00:11:30.815]  My favorite one, actually, I was very surprised New York Times actually published this in their newspaper.
+[00:11:30.815 --> 00:11:36.681]  The New York Times actually added the phrase, jerk, jerk, jerk, jerk, jerk, jerk, jerk, to George Bush's webpage.
+[00:11:36.681 --> 00:11:37.962]  So that was very nice.
+[00:11:37.962 --> 00:11:45.710]  And they also changed, uh, they changed on Connelita Rice's page, they changed it, she was a concert pianist to a concert penis.
+[00:11:46.727 --> 00:11:49.089]  So, those were very special.
+[00:11:49.089 --> 00:11:53.413]  But see, those are petty, so that's why they advertise it like it was some employee doing it.
+[00:11:53.413 --> 00:12:03.742]  The more serious stuff, and I know you're not making a judgment on this, but I mean, the CIA computers going in, Republican computers going in, what type of stuff did you find?
+[00:12:03.742 --> 00:12:06.585]  The CIA was actually not very interesting.
+[00:12:06.585 --> 00:12:07.886]  I mean, I was very sad about this.
+[00:12:08.602 --> 00:12:12.047]  Um, the, uh, the CIA, they're mostly just people just being lazy at work.
+[00:12:12.047 --> 00:12:19.396]  Like, starting to tell the CIA's favorite subject was, is arcane lightsaber fighting style, uh, from Star Wars.
+[00:12:19.396 --> 00:12:20.818]  That was one of their favorite subjects.
+[00:12:21.720 --> 00:12:25.701]  So, I did not detect anything serious in the CIA.
+[00:12:25.701 --> 00:12:29.462]  Yeah, but real CIA edits are going to be done from separate IPs.
+[00:12:29.462 --> 00:12:31.063]  Yeah, that's probably true.
+[00:12:31.063 --> 00:12:33.923]  Yeah, no, I'll tell you some of the ones that were of bias in the CIA.
+[00:12:33.923 --> 00:12:40.705]  It looked like there were some people who were writing huge personal memoirs on the pages.
+[00:12:40.705 --> 00:12:42.525]  Like, they'll go into this huge detail.
+[00:12:42.525 --> 00:12:44.706]  You know, like, it wouldn't be like a psychopedic entry.
+[00:12:44.706 --> 00:12:48.147]  It sounds like a personal biography, like a first-hand account.
+[00:12:48.823 --> 00:12:51.704]  And I don't know if those accounts are true or not.
+[00:12:51.704 --> 00:12:52.905]  Well, I think that's interesting.
+[00:12:52.905 --> 00:12:55.686]  As long as they admit it's themselves writing it, let them put it up.
+[00:12:55.686 --> 00:12:57.886]  Yeah, certainly.
+[00:12:57.886 --> 00:13:05.229]  And from Fox News, one of the things you most commonly saw is that they like adding the word liberal in front of anyone who criticizes them.
+[00:13:05.909 --> 00:13:07.410]  Yeah, that's right.
+[00:13:07.410 --> 00:13:14.374]  I mean, I'm so conservative in a classic sense, I make Fox look like communist, and they call me hardcore liberal.
+[00:13:14.374 --> 00:13:18.696]  Yeah, well, they only have, for them it's kind of a binary thing.
+[00:13:18.696 --> 00:13:21.958]  It's either George Bush or liberal.
+[00:13:21.958 --> 00:13:34.044]  Well, yeah, they're going for lowest common denominator, literally like a chant, a Vedic chant of just liberal, liberal, liberal, whacked out liberal, liberal, liberal, nutcase crazy liberal, liberal, liberal, yeah.
+[00:13:34.767 --> 00:13:35.968]  Yeah.
+[00:13:35.968 --> 00:13:43.072]  So yeah, so it's in their case that they were always adding this mere adjective, liberal, in front of anyone they didn't like.
+[00:13:43.072 --> 00:13:46.494]  And this was most common for NPR radio commentators.
+[00:13:46.494 --> 00:13:48.375]  Were they doing this on an industrial level?
+[00:13:48.375 --> 00:13:52.897]  Just liberal, liberal everywhere?
+[00:13:52.897 --> 00:13:55.679]  Not quite industrial level, but it was a very common theme.
+[00:13:56.936 --> 00:13:58.598]  But that's just the scans you did.
+[00:13:58.598 --> 00:14:06.024]  I mean, what, you would just randomly check liberal reporters and it would generally be a Fox News liberal comment in there?
+[00:14:06.024 --> 00:14:06.705]  Yeah, usually.
+[00:14:06.705 --> 00:14:10.168]  Like, I mean, actually, let me see how many edits.
+[00:14:10.168 --> 00:14:10.929]  I think there was something like
+[00:14:11.721 --> 00:14:15.524]  Uh, well, there was like a few thousand edits from Fox News.
+[00:14:15.524 --> 00:14:16.685]  Only a few thousand, oh.
+[00:14:16.685 --> 00:14:18.947]  Yeah, only a few thousand.
+[00:14:18.947 --> 00:14:25.872]  Um, another very common one, uh, from Diebold, the people who make the voting machines.
+[00:14:25.872 --> 00:14:30.856]  They removed a whole section from their pages where their security was being criticized.
+[00:14:30.856 --> 00:14:33.718]  And that one's like, uh, you know, that one made everyone, uh,
+[00:14:36.393 --> 00:14:42.149]  Well, that one should make us all quite unhappy, because, well, voting machines are important.
+[00:14:44.409 --> 00:14:51.034]  Here's another example of censorship, separate from Wikipedia, because if it's open source nature you're able to do this.
+[00:14:51.034 --> 00:14:56.218]  But, obviously I'm not telling you that, I'm just telling folks that don't understand computers like myself.
+[00:14:56.218 --> 00:14:57.839]  Here's a question from our message board.
+[00:14:57.839 --> 00:15:02.963]  Hey Alex, the Google video censoring is way worse than just your video, and I'm sure you know.
+[00:15:02.963 --> 00:15:12.411]  Loose Change, Terror Storm, 9-11 Mysteries are consistently watched enough to be put in the top 100, but as you probably noticed, the top 100 is now, fairly recently, full of sexy type videos.
+[00:15:13.011 --> 00:15:16.173]  Yeah, there's been a fat lady on a treadmill for 10 years.
+[00:15:16.173 --> 00:15:18.734]  And they have the views that some of these documentaries have.
+[00:15:18.734 --> 00:15:22.096]  They are purposely promoting mindlessness on the top 100.
+[00:15:22.096 --> 00:15:28.440]  I also have screenshots from last October where they deleted views and versions of Terror Storm Loose Change.
+[00:15:28.440 --> 00:15:35.284]  They froze counters for 5 days in one case, deleted the Loose Change version that had 7 million views and was constantly in the top 10.
+[00:15:35.284 --> 00:15:39.066]  It seems within the last 4 or 5 months they've been deliberately censoring
+[00:15:39.746 --> 00:15:43.068]  Before that, you would see five or six truth movies in the top 100.
+[00:15:43.068 --> 00:15:44.649]  Now it's all naked ladies.
+[00:15:44.649 --> 00:15:50.953]  For example, Loose Change has 8,000 views yesterday, says it ranks at number 30, but it's not even in the top 100.
+[00:15:50.953 --> 00:15:54.495]  And Google admits they're accidentally doing this, but only to us.
+[00:15:55.035 --> 00:15:57.237]  And then say, Marshall Law is big news a month ago.
+[00:15:57.237 --> 00:15:59.878]  It's in the National News, Bush wants Marshall Law.
+[00:15:59.878 --> 00:16:00.979]  And, you know, it's a major paper.
+[00:16:00.979 --> 00:16:06.182]  So, the number three search on Google was my film, Marshall Law, from three years ago.
+[00:16:06.182 --> 00:16:08.524]  And so it gets 700,000 views in three days.
+[00:16:08.524 --> 00:16:09.585]  It's number one.
+[00:16:09.585 --> 00:16:11.466]  They just disable it.
+[00:16:11.466 --> 00:16:14.048]  And it's been disabled for more than a month.
+[00:16:14.048 --> 00:16:20.512]  I mean, we need programmers and smart guys like you to look at that, too, sir, because we're getting sick of it.
+[00:16:21.064 --> 00:16:25.028]  Yeah, that's actually kind of interesting.
+[00:16:25.028 --> 00:16:31.616]  I know several people who do work at Google, and I'll say that most of them are very nice.
+[00:16:31.616 --> 00:16:34.499]  You would like them as people, I promise.
+[00:16:35.508 --> 00:16:38.590]  No, I know they're big Ron Paul supporters, and most of them really are good.
+[00:16:38.590 --> 00:16:41.192]  It started out as a really libertarian, dynamic thing.
+[00:16:41.192 --> 00:16:48.017]  It's why it's been so successful, but now you know they've made deals with China, they've been doing MIT mergers with CIA, that's all come out.
+[00:16:48.017 --> 00:16:54.982]  It seems like they are kind of like they were a young Anakin Skywalker, and now they're becoming seduced by Lord Palpatine.
+[00:16:55.382 --> 00:16:58.183]  Yeah, no, I know this view.
+[00:16:58.183 --> 00:17:08.548]  In short, I think Google is discovering that as they get bigger, and they're becoming more of a global player, they have to make some concessions for them to even survive.
+[00:17:08.548 --> 00:17:11.469]  Yeah, but look, they're doing censorship right here, bro.
+[00:17:11.469 --> 00:17:14.991]  We've caught them red-handed, and I'm sick of it.
+[00:17:14.991 --> 00:17:20.173]  By the way, I had Google Ads up, and I removed 95% of their ads, and I'm going to remove them all if they don't quit.
+[00:17:21.699 --> 00:17:26.961]  I know they don't care, but the point is that I'm even turning down advertising money because I'm getting so sick of them.
+[00:17:39.016 --> 00:17:43.018]  Basically, they agree all the things we're doing are bad, so they agree with you.
+[00:17:43.018 --> 00:17:44.919]  But they basically say, you know what?
+[00:17:44.919 --> 00:17:53.122]  These bad things we have to do, we have to do them in order to even continue to exist, so we aren't sued to oblivion.
+[00:17:53.122 --> 00:17:54.263]  And we can do even better things.
+[00:17:54.263 --> 00:18:04.027]  Yeah, but we've got to let China use our data to grab their dissidents and execute them, or we won't be able to have our own private 777s with party rooms.
+[00:18:04.027 --> 00:18:04.627]  Something like that.
+[00:18:05.951 --> 00:18:11.514]  Well, look, I mean, I hope they make a trillion dollars, but they better do it free-market and liberty-oriented, and people are getting mad at them.
+[00:18:11.514 --> 00:18:15.197]  I mean, does Google know that they're really getting a bad rap now?
+[00:18:15.197 --> 00:18:18.438]  They know that it isn't nearly as good as it used to be.
+[00:18:18.438 --> 00:18:22.281]  But they're certainly so much better than most companies.
+[00:18:22.281 --> 00:18:27.404]  Like, for example, when the NSA... No, I'm sorry.
+[00:18:27.404 --> 00:18:30.866]  When the public justice wanted data, Google was the only one that said no.
+[00:18:31.486 --> 00:18:34.047]  Well, MSN and Yahoo immediately said yes.
+[00:18:34.047 --> 00:18:34.587]  No, I know.
+[00:18:34.587 --> 00:18:35.107]  I saw that.
+[00:18:35.107 --> 00:18:37.008]  No, listen, I want to do business with Google.
+[00:18:37.008 --> 00:18:38.228]  I like Google.
+[00:18:38.228 --> 00:18:40.869]  I think they're the best product out there for info.
+[00:18:40.869 --> 00:18:42.129]  But, I mean, I'm getting sick of it.
+[00:18:42.129 --> 00:18:45.170]  Man, my movies are winning the info war.
+[00:18:45.170 --> 00:18:46.590]  They'd be number one all the time.
+[00:18:46.590 --> 00:18:50.271]  I'd reach 100 million instead of, you know, Terror Storm reaching 10 million now.
+[00:18:50.271 --> 00:18:52.292]  And I don't appreciate them doing that.
+[00:18:52.292 --> 00:18:53.252]  Yeah, no, I understand.
+[00:18:53.252 --> 00:18:59.694]  I mean, I really have no idea what everything that goes into their rankings and whether or not those are all good things to use.
+[00:19:00.634 --> 00:19:11.319]  Well, what they do is their counter will show, let's say I've had 8,000, 7,000, 10,000 views, and if you look at the rankings, number 22 has 10,100, and I'm doing this just hypothetical, and then number 23 has 10,050 views, well then I've got 15,000 views, I'm not even in the top 100.
+[00:19:25.326 --> 00:19:31.208]  That actually would be very nice to do an analysis of, and I'll think about a good way to do that.
+[00:19:31.208 --> 00:19:40.411]  You can get some objective measurements of traffic stats, and if you could just correlate that with Google ranking and see places where it doesn't make any sense, that would be very, very nice.
+[00:19:40.411 --> 00:19:42.492]  Well, they seem to do it and then stop and then do it.
+[00:19:42.492 --> 00:19:49.995]  I mean, what they do is, when we go up in the top ten, they knock us out for a few weeks until we settle back down so there's no viral spread.
+[00:19:49.995 --> 00:19:50.335]  Stay there.
+[00:19:52.248 --> 00:19:57.613]  Nuclear reactors provide economical energy, but would you be prepared during an accident?
+[00:19:57.613 --> 00:20:05.960]  During nuclear disasters, great amounts of radioactive iodine are released into the atmosphere, which are then readily absorbed into the body.
+[00:20:05.960 --> 00:20:13.026]  Medical course potassium iodate gives you virtually complete protection from the most feared consequence of a nuclear accident.
+[00:20:13.266 --> 00:20:13.646]  I think so.
+[00:20:45.304 --> 00:20:56.710]  As many people know, ever since President Nixon took us off the gold standard, the U.S.
+[00:20:56.710 --> 00:20:58.111]  dollar has been devaluating.
+[00:20:58.111 --> 00:21:01.993]  What people don't know, however, is how this directly affects your personal finances.
+[00:21:01.993 --> 00:21:04.894]  Is there a way to prevent your portfolios from losing value?
+[00:21:04.894 --> 00:21:06.975]  The answer to all of this is gold and silver.
+[00:21:06.975 --> 00:21:09.277]  They've both maintained their purchasing power for 6,000 years.
+[00:21:10.317 --> 00:21:24.800]  If you had $100,000 in cash and $100,000 in gold and silver back in 1913 and kept them both until now, your cash would actually have the buying power of only $4,800, but your gold and silver would have the buying power of $3,000,000.
+[00:21:24.800 --> 00:21:28.101]  The answer to protecting your assets is simple.
+[00:21:28.101 --> 00:21:30.642]  Call me, John Ballman, today at 1-800-686-2237, extension 169.
+[00:21:30.642 --> 00:21:33.322]  Get all your questions answered before your money is worth zero.
+[00:21:33.322 --> 00:21:33.603]  Call 1-800-686-2237.
+[00:21:45.128 --> 00:21:55.536]  David J. Smith for Newswatch Magazine.
+[00:21:55.536 --> 00:22:07.826]  Did you know that those seeking to destroy America and merge us into an all-powerful, one-world government said that they support every movement to centralize all authority in Washington, D.C., and therefore bypass the state governments?
+[00:22:08.707 --> 00:22:13.233]  That way they would have only one battle to win, Washington, D.C.
+[00:22:13.233 --> 00:22:20.021]  Have we witnessed the accumulation of power in Washington and bypassing the states over the last 50 years?
+[00:22:20.021 --> 00:22:27.690]  We'd like to help you understand how these things are coming to pass by offering you an absolutely free one-year subscription to Newswatch Magazine.
+[00:22:28.511 --> 00:22:30.032]  Just call our toll-free number 1-800-516-8736.
+[00:22:30.032 --> 00:22:31.593]  That's 1-800-516-8736 to request your subscription.
+[00:22:31.593 --> 00:22:32.273]  Call now.
+[00:22:32.273 --> 00:22:35.535]  Operators are standing by to receive your call.
+[00:22:49.915 --> 00:22:51.697]  Want to know my little secret?
+[00:22:51.697 --> 00:22:56.602]  I have rich, delicious chocolate as much as I want, every single day.
+[00:22:56.602 --> 00:22:58.724]  And I never feel bad about it.
+[00:22:58.724 --> 00:23:03.489]  Cocoa Pure Chocolate Tea gives you real, natural cocoa, without any fat or sugar.
+[00:23:04.287 --> 00:23:11.813]  Even better, Coco Pure is made with nutrients that keep my heart healthy, my energy levels up, and my body looking great.
+[00:23:11.813 --> 00:23:17.597]  I'm having smooth, tasty chocolate every single day, and it's helping me stay healthier than ever.
+[00:23:17.597 --> 00:23:22.281]  You can give yourself the gift of health by calling for a bottle of Coco Pure Chocolate Tea.
+[00:23:22.281 --> 00:23:25.483]  The only thing better than chocolate is healthy chocolate.
+[00:23:25.483 --> 00:23:29.006]  Here's how you can get a bottle of delicious Coco Pure Chocolate Tea.
+[00:23:29.927 --> 00:23:36.151]  For your wrist-free bottle of Coco Pure Chocolate Tea, call 1-800-894-3596.
+[00:23:36.151 --> 00:23:40.755]  And if you call now, you can find out how to get a free bottle of Coco Pure with your order.
+[00:23:40.755 --> 00:23:41.015]  Call 1-800-894-3596.
+[00:23:41.015 --> 00:23:41.295]  That's 1-800-894-3596.
+[00:23:54.492 --> 00:24:01.755]  Well, I hope to get Virgil Griffith on from time to time as new developments come out with his wiki scanner.
+[00:24:01.755 --> 00:24:08.639]  We have links to it up on InfoWars.com and PresentPlanet.com.
+[00:24:24.754 --> 00:24:31.778]  Just in closing, in the few minutes we've got, sir, any other key points you want to make, or other interesting discoveries that people should be directed to look at?
+[00:24:31.778 --> 00:24:33.979]  Yeah, there are two things.
+[00:24:33.979 --> 00:24:39.902]  Some people keep asking, saying, hey, with Wikiscan, won't this make those companies just more clever?
+[00:24:39.902 --> 00:24:46.826]  They'll be more sneaky about how they edit Wikipedia, and so they'll think they've done a bad thing by it, because now they're just going to be sneakier now.
+[00:24:46.826 --> 00:24:48.287]  And I would say, the answer to that is no.
+[00:24:48.920 --> 00:24:52.045]  Um, and I use the analogy of fingerprints.
+[00:24:52.045 --> 00:24:58.133]  So like, you know, like dusting for fingerprints when we all know police do, and they've done it, you know, for like decades, maybe.
+[00:24:58.133 --> 00:24:59.975]  Yeah, at least decades.
+[00:24:59.975 --> 00:25:06.424]  However, every time police come to a crime scene, they still dust for prints, and lo and behold, it still often works.
+[00:25:07.544 --> 00:25:10.926]  So, I'll look through Wikiscanner, kind of like that.
+[00:25:10.926 --> 00:25:23.933]  So, yes, there may be some people, maybe some criminals that are very clever and they use gloves to prevent things like Wikiscanner from working, but by and large, I expect it'll still work.
+[00:25:23.933 --> 00:25:24.513]  So, yeah.
+[00:25:25.017 --> 00:25:32.060]  So, in short, by a year from now, the entire thing could be done all over again.
+[00:25:32.060 --> 00:25:39.863]  Now, for those that don't know, Wikipedia is like rated, what, number 8th by the two big web rating services last time I checked, up from number 9.
+[00:25:39.863 --> 00:25:42.323]  That's about right, yeah.
+[00:25:42.323 --> 00:25:47.605]  So, for those that don't know, we've tracked some of our stories and websites.
+[00:25:47.605 --> 00:25:49.006]  10% of our traffic is from Wiki.
+[00:25:49.927 --> 00:26:07.408]  And so it's a wonderful thing, and I get millions of visitors a month on article sites, and they are little compared to Wiki, but it makes me angry that they let people have personal user pages where they say they're there to destroy information, and they say they're there to shut down alternative info.
+[00:26:08.148 --> 00:26:12.209]  And then they're just allowed to break all the rules because they're old Wiki users.
+[00:26:12.209 --> 00:26:13.350]  They need to be shot down.
+[00:26:13.350 --> 00:26:20.712]  I mean, Wiki does need to clean house and get all the people that are trying to destroy true information out of there.
+[00:26:20.712 --> 00:26:22.452]  Well, I'll be sure to mention it to them.
+[00:26:22.452 --> 00:26:25.293]  I mean, yeah, I'll mention it.
+[00:26:25.293 --> 00:26:29.374]  The Wikimedia Foundation has, I mean, we're talking fairly often now.
+[00:26:29.374 --> 00:26:30.654]  So I'll mention it.
+[00:26:30.654 --> 00:26:31.454]  I mean, here's an example.
+[00:26:31.454 --> 00:26:33.615]  There's some high school kid named Davishire.
+[00:26:34.139 --> 00:26:34.279]  I see.
+[00:27:04.439 --> 00:27:09.124]  As I know you are, and to see somebody basically burn books makes me mad.
+[00:27:09.124 --> 00:27:09.945]  No, I understand.
+[00:27:09.945 --> 00:27:16.471]  This one user you refer to, is that an admin of Wikipedia?
+[00:27:16.471 --> 00:27:17.812]  Or is it just some random guy?
+[00:27:17.812 --> 00:27:24.699]  Well, he says he's an admin, but then he took that off and we put attention on it, but then he teams up with other admins, and it's like wolf packs of people.
+[00:27:24.699 --> 00:27:28.523]  I'm going to have Paul Watson send you all the stories about Google censorship.
+[00:27:28.963 --> 00:27:29.103]  I see.
+[00:27:29.103 --> 00:27:32.325]  Well, yeah, sure, send it, and I'll see if there's anything I can make of it.
+[00:27:52.879 --> 00:27:56.744]  Help us, now that you've started the Star Wars analogies, I'm not going to stop.
+[00:27:56.744 --> 00:28:02.009]  Help us, Obi-Wan, Griffith, Virgil, Obi-Wan, we need you.
+[00:28:02.009 --> 00:28:07.535]  You and many other great programmers and researchers like yourself are our only hope.
+[00:28:07.535 --> 00:28:11.640]  Is there a website, I mean, other than just your new scanner that you want to plug?
+[00:28:13.411 --> 00:28:15.933]  Actually, yes, there is one.
+[00:28:15.933 --> 00:28:19.635]  The Notable Names Database, NNDB.com.
+[00:28:19.635 --> 00:28:24.899]  I think that's a very nice site for uncovering scandals and things like that and the stuff you mentioned.
+[00:28:24.899 --> 00:28:26.400]  Get that out again?
+[00:28:26.400 --> 00:28:28.801]  NNDB.com.
+[00:28:28.801 --> 00:28:31.423]  November, November, Bravo, Delta.
+[00:28:31.423 --> 00:28:32.484]  I think I've been to that site.
+[00:28:32.484 --> 00:28:35.266]  It kind of gives an analysis of each different issue.
+[00:28:35.266 --> 00:28:35.446]  Yeah.
+[00:28:37.105 --> 00:28:41.209]  I think they call me Conspiracy Theorist for a buck or something.
+[00:28:41.209 --> 00:28:42.490]  Well, are you called that?
+[00:28:42.490 --> 00:28:44.653]  I don't know what you're called from that site.
+[00:28:44.653 --> 00:28:46.675]  Is their main headlines in red, right?
+[00:28:46.675 --> 00:28:47.796]  Yes, that's it.
+[00:28:47.796 --> 00:28:48.697]  Yeah, well hey, that's fine.
+[00:28:48.697 --> 00:28:51.159]  They don't know what it's like to have 12 employees.
+[00:28:51.159 --> 00:28:54.382]  This microphone I'm on costs $800.
+[00:28:54.382 --> 00:28:58.406]  I'm very evil that I have a radio show and actually have sponsors.
+[00:28:58.406 --> 00:29:00.068]  Overall, I find a lot of good info on there, though.
+[00:29:00.368 --> 00:29:00.849]  Yeah, yeah, yeah.
+[00:29:00.849 --> 00:29:03.110]  No, if you ask me, I like it a lot.
+[00:29:03.110 --> 00:29:07.173]  I mean, you can discover that people like Bill Maher are one-stated and cultured.
+[00:29:12.051 --> 00:29:14.953]  People like, I mean like, great juicy stuff like that.
+[00:29:14.953 --> 00:29:15.193]  No, no.
+[00:29:15.193 --> 00:29:16.814]  Their info on me is pretty accurate.
+[00:29:16.814 --> 00:29:19.655]  The only thing, their executive analysis is what's wrong.
+[00:29:19.655 --> 00:29:20.376]  Oh, I see.
+[00:29:20.376 --> 00:29:20.656]  Okay.
+[00:29:20.656 --> 00:29:21.557]  Yeah, yeah.
+[00:29:21.557 --> 00:29:23.818]  Well... But I guess in a way I am for a buck.
+[00:29:23.818 --> 00:29:25.239]  I mean, I gotta pay the bills.
+[00:29:25.239 --> 00:29:25.799]  I guess in a way.
+[00:29:25.799 --> 00:29:26.339]  That's true.
+[00:29:26.339 --> 00:29:27.420]  No, we all got to.
+[00:29:27.420 --> 00:29:28.260]  Hey, listen.
+[00:29:28.260 --> 00:29:30.582]  Thank you so much, sir, for spending time with us.
+[00:29:30.582 --> 00:29:31.222]  Alright.
+[00:29:31.222 --> 00:29:31.882]  My pleasure.
+[00:29:31.882 --> 00:29:32.203]  You bet.
+[00:29:32.203 --> 00:29:33.103]  Take care.
+[00:29:33.103 --> 00:29:33.543]  Alright.
+[00:29:33.543 --> 00:29:37.045]  We'll be right back with your calls, a bunch of other news.
+[00:29:37.045 --> 00:29:37.546]  Stay with me.
+[00:29:42.548 --> 00:29:43.183]  We're on the mark.

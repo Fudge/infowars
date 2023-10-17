@@ -1,84 +1,541 @@
-[00:00:00.000 --> 00:00:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:00:30.000 --> 00:00:33.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:01:00.000 --> 00:01:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:01:02.000 --> 00:01:04.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:01:30.000 --> 00:01:33.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:02:00.000 --> 00:02:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:02:30.000 --> 00:02:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:03:00.000 --> 00:03:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:03:30.000 --> 00:03:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:04:00.000 --> 00:04:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:04:30.000 --> 00:04:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:05:00.000 --> 00:05:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:05:30.000 --> 00:05:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:06:00.000 --> 00:06:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:06:30.000 --> 00:06:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:07:00.000 --> 00:07:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:07:30.000 --> 00:07:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:08:00.000 --> 00:08:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:08:30.000 --> 00:08:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:09:00.000 --> 00:09:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:09:30.000 --> 00:09:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:10:00.000 --> 00:10:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:10:30.000 --> 00:10:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:11:00.000 --> 00:11:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:11:30.000 --> 00:11:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:12:00.000 --> 00:12:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:12:30.000 --> 00:12:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:13:00.000 --> 00:13:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:13:30.000 --> 00:13:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:14:00.000 --> 00:14:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:14:30.000 --> 00:14:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:15:00.000 --> 00:15:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:15:30.000 --> 00:15:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:16:00.000 --> 00:16:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:16:30.000 --> 00:16:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:17:00.000 --> 00:17:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:17:30.000 --> 00:17:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:18:00.000 --> 00:18:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:18:30.000 --> 00:18:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:19:00.000 --> 00:19:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:19:30.000 --> 00:19:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:20:00.000 --> 00:20:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:20:30.000 --> 00:20:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:21:00.000 --> 00:21:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:21:30.000 --> 00:21:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:22:00.000 --> 00:22:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:22:30.000 --> 00:22:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:23:00.000 --> 00:23:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:23:30.000 --> 00:23:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:24:00.000 --> 00:24:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:24:30.000 --> 00:24:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:25:00.000 --> 00:25:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:25:30.000 --> 00:25:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:26:00.000 --> 00:26:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:26:30.000 --> 00:26:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:27:00.000 --> 00:27:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:27:30.000 --> 00:27:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:28:00.000 --> 00:28:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:28:30.000 --> 00:28:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:29:00.000 --> 00:29:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:29:30.000 --> 00:29:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:30:00.000 --> 00:30:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:30:30.000 --> 00:30:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:31:00.000 --> 00:31:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:31:30.000 --> 00:31:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:32:00.000 --> 00:32:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:32:30.000 --> 00:32:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:33:00.000 --> 00:33:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:33:30.000 --> 00:33:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:34:00.000 --> 00:34:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:34:30.000 --> 00:34:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:35:00.000 --> 00:35:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:35:30.000 --> 00:35:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:36:00.000 --> 00:36:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:36:30.000 --> 00:36:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:37:00.000 --> 00:37:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:37:30.000 --> 00:37:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:38:00.000 --> 00:38:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:38:30.000 --> 00:38:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:39:00.000 --> 00:39:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:39:30.000 --> 00:39:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:40:00.000 --> 00:40:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:40:30.000 --> 00:40:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:41:00.000 --> 00:41:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
+[00:00:03.814 --> 00:00:04.015]  I'm
+[00:00:43.222 --> 00:00:43.942]  Okay, back.
+[00:00:43.942 --> 00:00:45.723]  Jeff and Alex with you.
+[00:00:45.723 --> 00:00:56.145]  The way we chatted just a moment ago, I think it's something that we really need to underscore here, and I think I can speak for Alex and certainly for most all of you.
+[00:00:56.145 --> 00:01:01.206]  This alleged government in Washington DC is not legitimate.
+[00:01:01.206 --> 00:01:02.306]  It's not our government.
+[00:01:03.608 --> 00:01:07.991]  None of those scumbags in the Senate are our Senators, in my opinion.
+[00:01:07.991 --> 00:01:09.172]  None of them.
+[00:01:09.172 --> 00:01:11.754]  A handful in the House have held out.
+[00:01:11.754 --> 00:01:13.435]  This is not our government.
+[00:01:13.435 --> 00:01:21.461]  The Supreme Court naming the President, literally completing the theft of the election.
+[00:01:21.461 --> 00:01:22.802]  Unprecedented.
+[00:01:22.802 --> 00:01:24.863]  This is not our government.
+[00:01:24.863 --> 00:01:26.564]  And now with the little monkey boy
+[00:01:27.850 --> 00:01:37.694]  The new law saying that the courts, and I assume he means the Supreme Court as well, hold no sway over the President's unlimited powers.
+[00:01:37.694 --> 00:01:49.758]  This is all... Europe, intelligent Europe, the intelligentsia in Europe, such as it is, anymore, must be just shell-shocked at this crap.
+[00:01:49.758 --> 00:01:51.879]  Well, you know, that's the word.
+[00:01:51.879 --> 00:01:54.260]  Before you got back during that break, I was just thinking
+[00:01:54.958 --> 00:01:57.520]  I'm not afraid.
+[00:01:57.520 --> 00:02:17.016]  There's a layer of grief, but it's more like a melancholy, and it's because, folks, when your environment, your country where you live is going bad, and not just going bad, but run by the worst people in the world, and they're going to nuke countries and take all the freedom.
+[00:02:17.016 --> 00:02:17.837]  This is unprecedented.
+[00:02:17.837 --> 00:02:21.660]  And don't forget the plan that Rumsfeld wants is to be able to hit
+[00:02:22.811 --> 00:02:23.372]  I think so.
+[00:02:40.902 --> 00:02:41.542]  That's what they're after.
+[00:02:41.542 --> 00:02:43.383]  That's really what the space planes are all about.
+[00:02:43.383 --> 00:02:47.746]  I was talking to Dr. Bob Bowman, former head of the Star Wars program, and he wouldn't say much.
+[00:02:47.746 --> 00:02:53.570]  He said, you know, it's all classified, but he said, I can tell you what they've slipped up and said in a few speeches.
+[00:02:53.570 --> 00:02:55.251]  He goes, let me be very careful about this.
+[00:02:55.251 --> 00:03:00.934]  This is in the green room with Charlie Sheen and myself and Bob Bowman.
+[00:03:00.934 --> 00:03:03.976]  And we're, you know, in there having a cup of coffee.
+[00:03:03.976 --> 00:03:09.459]  And he said, Alex, number one, the space planes aren't man, they're unmanned.
+[00:03:11.071 --> 00:03:13.032]  And of course, that had already come out in Janes.
+[00:03:13.032 --> 00:03:15.093]  He said, they don't have them with humans.
+[00:03:15.093 --> 00:03:17.134]  It's a much smaller and better platform.
+[00:03:17.134 --> 00:03:18.074]  You don't need them.
+[00:03:18.074 --> 00:03:20.115]  Well, yeah, humans can't pull the G's, these can.
+[00:03:20.115 --> 00:03:22.957]  You know, a human inside.
+[00:03:22.957 --> 00:03:26.858]  And he said, Alex, we don't drop nuclear missiles out of these.
+[00:03:26.858 --> 00:03:29.340]  He goes, the planes get in the gravity well.
+[00:03:29.340 --> 00:03:32.441]  And he said, in the late 70's, this is what they were doing.
+[00:03:32.441 --> 00:03:34.362]  The planes get in the gravity well.
+[00:03:35.700 --> 00:03:46.385]  This is highly classified, folks, but he said they've slipped up a few times in speeches and debates he's had with current heads with it, and then one of them got in a lot of trouble because he said this, but it's public.
+[00:03:46.385 --> 00:03:58.530]  They get up in a gravity well, and they drop a solid, say, 100-pound munition, just missile-shaped, projectile-shaped, for speed, aerodynamics.
+[00:03:59.474 --> 00:03:59.794]  I don't know.
+[00:04:21.605 --> 00:04:34.475]  And he said the whole point of Star Wars is offensive and that these ring the earth and that they could kill the entire leadership of the planet in just a few hours.
+[00:04:34.475 --> 00:04:42.721]  That's the Black Ops folks, is literal robotic space planes that were put into orbit and land to be serviced.
+[00:04:42.721 --> 00:04:49.907]  Robotic space planes are flying around right now with giant DU gravity guns, meteor guns.
+[00:04:51.064 --> 00:04:51.865]  Just like that?
+[00:04:51.865 --> 00:04:53.666]  It's a meteor, that's what it does.
+[00:04:53.666 --> 00:04:59.070]  Same concept, same speed, zone, basically 20-30,000 miles, same idea.
+[00:04:59.070 --> 00:05:06.476]  But it's not iron or stone, it is DU, and so it keeps its entire mass, and when it hits, it is devastating.
+[00:05:07.156 --> 00:05:16.662]  Well, they're talking now about decapitation of the entire Iranian government, so if the Iranians are smart, they'll keep their government as spread out and dispersed as possible.
+[00:05:16.662 --> 00:05:17.663]  But yeah, you're right.
+[00:05:17.663 --> 00:05:19.964]  This is very important news.
+[00:05:19.964 --> 00:05:23.586]  Remember, this is going back to the Reagan administration, okay?
+[00:05:23.586 --> 00:05:24.507]  Star Wars.
+[00:05:24.507 --> 00:05:26.488]  What was Star Wars, ladies and gentlemen?
+[00:05:26.488 --> 00:05:27.649]  It was defense, right?
+[00:05:27.649 --> 00:05:29.550]  It was to protect us against incoming missiles.
+[00:05:29.550 --> 00:05:31.031]  The Strategic Defense Initiative.
+[00:05:31.031 --> 00:05:32.032]  Remember?
+[00:05:32.032 --> 00:05:33.012]  SDI.
+[00:05:33.012 --> 00:05:34.733]  To protect us.
+[00:05:34.733 --> 00:05:35.214]  BS.
+[00:05:35.914 --> 00:05:37.637]  It was the antithesis of that.
+[00:05:37.637 --> 00:05:46.732]  It was the implementation of a plan to ultimately build platforms like Alex just described to kill people anywhere on the planet within an hour or less.
+[00:05:48.463 --> 00:05:49.564]  Yeah, that's it.
+[00:05:49.564 --> 00:05:52.825]  In fact, I was reading... Black is white, up is down, it's all backwards.
+[00:05:52.825 --> 00:06:06.452]  They wanted to build it like the equivalent of international space stations everywhere, and have these, but the problem is you can't maneuver them over targets quick enough, so they've got these robotic space planes with bellies full of DU meteor bombs.
+[00:06:06.452 --> 00:06:09.414]  I wonder what the Chinese are doing to China.
+[00:06:09.414 --> 00:06:12.695]  They've got a laser they've fired which can blind satellites.
+[00:06:12.695 --> 00:06:14.776]  We know that now.
+[00:06:14.776 --> 00:06:16.077]  Just the Chinese card,
+[00:06:17.274 --> 00:06:19.937]  Is the inscrutable card on the table?
+[00:06:19.937 --> 00:06:23.139]  Well, we know the Russians have satellite killers, too.
+[00:06:23.139 --> 00:06:26.742]  The problem is, see, that's why a platform doesn't work, because it can be hit.
+[00:06:26.742 --> 00:06:32.988]  These space planes can fly around the Earth at 25,000 miles an hour.
+[00:06:32.988 --> 00:06:36.551]  Well, it's amazing.
+[00:06:36.551 --> 00:06:37.872]  It's just amazing.
+[00:06:39.084 --> 00:06:40.585]  Okay, let's go ahead.
+[00:06:40.585 --> 00:06:44.110]  I hope all of you do some reading, some serious reading.
+[00:06:44.110 --> 00:06:50.437]  Get Alex's fabulous DVD which is being watched by millions of people all around the world.
+[00:06:50.437 --> 00:06:50.978]  The world.
+[00:06:51.530 --> 00:06:56.793]  This is a world-impacting event that Alex Jones has created and produced.
+[00:06:56.793 --> 00:07:02.276]  And I tell you, you just go to your local public access stations.
+[00:07:02.276 --> 00:07:07.139]  Use the most broad-based media outlet you've got.
+[00:07:07.139 --> 00:07:08.840]  Use the idiot box against them, I mean.
+[00:07:08.840 --> 00:07:09.901]  That's right.
+[00:07:09.901 --> 00:07:14.884]  And it's not sitting around in a group of twenty or thirty or fifty people in your community.
+[00:07:14.884 --> 00:07:16.805]  One person can do it, folks.
+[00:07:16.805 --> 00:07:17.665]  You!
+[00:07:17.665 --> 00:07:18.085]  You!
+[00:07:18.085 --> 00:07:18.826]  I'm talking to you!
+[00:07:19.620 --> 00:07:24.063]  Man, woman, high school or college, get Alex Jones' video.
+[00:07:24.063 --> 00:07:29.906]  You take it, don't worry about a committee or group, go to your local public access, get it on that television.
+[00:07:29.906 --> 00:07:39.632]  Jeff, every week, every day I get emails or letters, but every week I get a call going, I learned about Alex and your work and Jeff's work.
+[00:07:39.632 --> 00:07:46.236]  I learned about it six months ago and somebody sent me an email, or I learned about it when I was in a hotel room and saw your
+[00:07:47.412 --> 00:07:53.535]  That's your best bet, and God bless all of you who try to do it one person at a time, but take your energy to where it will do the most good.
+[00:08:06.030 --> 00:08:07.672]  Go to public access TV.
+[00:08:07.672 --> 00:08:09.994]  Plant your seeds in the most fertile ground.
+[00:08:09.994 --> 00:08:19.523]  You know, a congressman will fly all the way out to a city a thousand miles away to give a speech to 500 people, but then people go, why should I get an access TV show in Austin?
+[00:08:19.523 --> 00:08:22.646]  You know, there's only 800,000 potential viewers of the 60,000 subscribers.
+[00:08:26.850 --> 00:08:33.133]  And then routinely, they had numbers a few years ago, forty-something thousand viewers during prime time of one of the channels.
+[00:08:33.133 --> 00:08:37.615]  I mean, why would you not want to talk potentially to thousands of people?
+[00:08:37.615 --> 00:08:39.656]  You know, I mean, people are like, well, there's nothing I can do.
+[00:08:39.656 --> 00:08:41.457]  Start a website.
+[00:08:41.457 --> 00:08:43.098]  Go on message boards.
+[00:08:43.098 --> 00:08:45.999]  Thirty minutes a day, tell folks about Rents.com.
+[00:08:45.999 --> 00:08:48.040]  This is how it's done, person to person.
+[00:08:48.040 --> 00:08:49.201]  But Jeff's right.
+[00:08:49.201 --> 00:08:52.763]  Going to the mediums, going to the places,
+[00:08:54.366 --> 00:09:00.067]  That will allow you to hit thousands of people is the most effective.
+[00:09:00.067 --> 00:09:02.448]  And AXS TV is a great tool.
+[00:09:02.448 --> 00:09:05.589]  That's why the Feds are trying to pass legislation to shut it down.
+[00:09:05.589 --> 00:09:09.130]  They've already shut down about 25% of the outlets in the last three years.
+[00:09:09.130 --> 00:09:09.530]  Have they?
+[00:09:09.530 --> 00:09:10.170]  I didn't know that.
+[00:09:10.170 --> 00:09:11.991]  Oh yeah, they're shutting them down everywhere.
+[00:09:11.991 --> 00:09:16.192]  So that door's got a few more years left on it.
+[00:09:16.192 --> 00:09:17.492]  Total deregulation.
+[00:09:17.892 --> 00:09:18.613]  Are they really?
+[00:09:35.809 --> 00:09:37.611]  Oh yeah, they're not playing games.
+[00:09:37.611 --> 00:09:43.777]  You know, I caught companies manipulating AXS TV two years ago.
+[00:09:43.777 --> 00:09:49.763]  Folks, you can type in, AXS Director charged, AXS Director goes to prison.
+[00:09:49.763 --> 00:09:55.569]  And boy, they threatened me, they said, you're a conspiracy theorist.
+[00:09:55.569 --> 00:09:58.031]  There are people who have been indicted, there are people sitting in jail.
+[00:09:58.712 --> 00:10:09.815]  We caught them on the dole to bring that place down, and the higher-ups that were doing it, you know, paying them off to do it, they haven't gone to prison yet, but the people that were doing it have.
+[00:10:09.815 --> 00:10:16.977]  And so I almost went down to the court when one guy was getting sentenced a few weeks ago, but I didn't, and said, hey, how's that conspiracy theory now?
+[00:10:16.977 --> 00:10:18.638]  You're going to prison.
+[00:10:18.638 --> 00:10:24.019]  So we literally had to get people sent to prison to keep Access TV open in Austin.
+[00:10:24.019 --> 00:10:25.920]  That was a huge battle I had a year and a half ago.
+[00:10:27.355 --> 00:10:30.538]  I mean that's how determined they are to shut this stuff down.
+[00:10:30.538 --> 00:10:32.300]  They're scared of it folks.
+[00:10:32.300 --> 00:10:35.262]  What about the little micro radio, are they shutting those down?
+[00:10:35.262 --> 00:10:46.853]  Yes, but they're getting put up faster than they can and it almost seems like they've given up or something because folks would put up micro FM's, pretty powerful ones here in Austin, 6, 7, 8 years ago.
+[00:10:49.135 --> 00:10:58.403]  I guess 10 years ago a guy named Keith Perry was doing it and he'd be running 100 watts and they'd come shut him down every few months and he'd move and put different places or have a mobile truck.
+[00:10:58.403 --> 00:11:07.351]  Now there are, what is it, 12 micros in Texas put up by the same people.
+[00:11:07.351 --> 00:11:15.598]  We're talking 300 watts on hillsides that cover whole cities and there's not been one hide nor hair of the FCC.
+[00:11:17.168 --> 00:11:17.728]  Interesting.
+[00:11:17.728 --> 00:11:19.429]  Austin's a fascinating city.
+[00:11:19.429 --> 00:11:25.073]  There seems like a kind of a bastion of patriots down there.
+[00:11:25.073 --> 00:11:28.355]  Well, we've done the work with the seeds here, Jeff.
+[00:11:28.355 --> 00:11:29.055]  Yeah.
+[00:11:29.055 --> 00:11:31.517]  And so now it's been a big harvest.
+[00:11:31.517 --> 00:11:32.437]  All right.
+[00:11:32.437 --> 00:11:32.717]  Hold on.
+[00:11:32.717 --> 00:11:34.839]  I'll be right back in just a couple minutes.
+[00:11:34.839 --> 00:11:35.699]  Stay tuned.
+[00:11:58.387 --> 00:11:59.389]  We're good to go.
+[00:12:24.568 --> 00:12:26.053]  We're good.
+[00:12:48.602 --> 00:12:55.824]  Okay, back with Alex, and let's talk about the Foley issue.
+[00:12:55.824 --> 00:12:59.625]  Misdirection, one of those things that pops up just at the right moment again.
+[00:12:59.625 --> 00:13:01.266]  Of course, they knew about this months ago.
+[00:13:01.266 --> 00:13:04.207]  It was probably one of the poorest-kept secrets on Capitol Hill.
+[00:13:04.207 --> 00:13:05.187]  But what an idiot, Al.
+[00:13:05.187 --> 00:13:08.708]  What a stupid person, knowing what he should know.
+[00:13:08.708 --> 00:13:09.408]  I think it shows the hubris.
+[00:13:12.929 --> 00:13:18.353]  I mean, I think they selectively burned him because they were having trouble from the evidence we have, keeping it secret.
+[00:13:18.353 --> 00:13:21.895]  First, Hastert lied to the Washington Post last Thursday.
+[00:13:21.895 --> 00:13:27.359]  It was headlined, Democratic Challenger Wants to See Emails, Calls for Investigation.
+[00:13:27.359 --> 00:13:31.321]  And it was Hastert going, this is a ridiculous political attack.
+[00:13:31.321 --> 00:13:33.203]  No one's ever heard of him.
+[00:13:33.203 --> 00:13:37.586]  Why, he is the co-chairman of the Missing and Exploited Children.
+[00:13:37.586 --> 00:13:39.967]  He's passed all these laws for children.
+[00:13:39.967 --> 00:13:41.048]  We have a clip of that, by the way.
+[00:13:41.548 --> 00:13:41.668]  Hmm.
+[00:13:41.668 --> 00:13:41.768]  Hmm.
+[00:14:12.048 --> 00:14:14.609]  Basically trying to spin this.
+[00:14:14.609 --> 00:14:17.711]  The question is, why did it come out when it came out?
+[00:14:17.711 --> 00:14:18.711]  Well, it's all timing.
+[00:14:18.711 --> 00:14:19.711]  It's always timing.
+[00:14:19.711 --> 00:14:26.794]  Well, it was to intimidate everybody right when they passed this Constitution overturning system.
+[00:14:26.794 --> 00:14:35.178]  But we've written an article over at PrisonPlanet.com that says, rabbit hole of elitist perversion far deeper than Foley.
+[00:14:36.437 --> 00:14:42.732]  It was well known on Capitol Hill that he was doing this as far back as two years ago
+[00:14:47.789 --> 00:14:53.691]  It was known that Pages, who didn't want to be hit on, didn't want to work for Foley.
+[00:14:53.691 --> 00:15:03.455]  That's now come out in the news, and it was a joke around Capitol Hill that he couldn't control himself, and so now we have all these explicit emails.
+[00:15:03.455 --> 00:15:11.398]  But the question is, why did the media make a big deal out of Dinecore and Halliburton in the Chicago Tribune, but never got any news up for that,
+[00:15:12.210 --> 00:15:26.294]  Confirmed that they have lobbyists, DynCorp and Halliburton, on Capitol Hill lobbying for federal law against child kidnapping, child sex slavery, being enforced.
+[00:15:26.294 --> 00:15:31.455]  And at the bottom of our article we say, you know, why don't you hear about what happened to U.N.
+[00:15:31.455 --> 00:15:38.917]  officials identified as using a ship chartered for peacekeepers to bring young girls from Thailand to East Timor as prostitutes?
+[00:15:38.917 --> 00:15:39.497]  Hyperlink.
+[00:15:40.398 --> 00:15:53.315]  In late 2005, Halliburton subsidiary KBR and DynCorp lobbyists, working in tandem with the Pentagon to stall legislation that would specifically ban trafficking in humans for forced labor and as sex slaves by U.S.
+[00:15:53.315 --> 00:15:56.620]  contractors, then it just admits DynCorp and Halliburton are doing it.
+[00:15:57.781 --> 00:16:03.685]  People claiming they were with DynCorp, their base here in Austin, called up and threatened to kill me if I didn't shut up.
+[00:16:03.685 --> 00:16:08.509]  By the way, when I covered that out of the Chicago Tribune, what type of scum are these people?
+[00:16:08.509 --> 00:16:22.660]  Another one, after DynCorp and Halliburton contractors were exposed as having operated child prostitution rackets in the Balkans in the late 90's onwards, and more recently the Halliburton, Representative Cynthia McKinney attempted to get answers as to why U.S.
+[00:16:22.660 --> 00:16:25.022]  government continued to do business with these corporations.
+[00:16:25.762 --> 00:16:29.004]  And we played that famous clip here on the show from C-SPAN.
+[00:16:29.004 --> 00:16:33.406]  Rumsfeld didn't deny it, he just said, well, you know, that's the way it is.
+[00:16:33.406 --> 00:16:37.749]  So we ask in here, why don't we hear about the Jeff Gannon case?
+[00:16:37.749 --> 00:16:48.675]  Why don't we hear about the Washington Times headline, Homosexual Prostitution Inquiry Snares VIPs with Reagan-Bush Callboys Underage Took Midnight Tour of White House
+[00:16:49.395 --> 00:16:52.637]  Uh, why don't we hear... That was a huge story and it never went anywhere.
+[00:16:52.637 --> 00:16:53.318]  Huge.
+[00:16:53.318 --> 00:17:03.604]  Well, Barney Frank, nine years ago, running an underage, pedophile, uh, uh, bordello out of the third story of his mansion in Maryland.
+[00:17:03.604 --> 00:17:05.745]  Well, he had high-powered clientele.
+[00:17:05.745 --> 00:17:06.505]  Yeah, he did.
+[00:17:06.505 --> 00:17:10.368]  Uh, so, I mean, you know, I mean, madams are congressmen, folks.
+[00:17:10.368 --> 00:17:11.529]  Pedophile madams.
+[00:17:11.529 --> 00:17:14.871]  Okay, Barney Frank, and they just said, no, police!
+[00:17:14.871 --> 00:17:18.593]  You raided his house, you did this on a tip, you didn't know it was Barney Frank, no!
+[00:17:19.642 --> 00:17:22.525]  And so, if they wanted to protect Foley, they would.
+[00:17:22.525 --> 00:17:24.808]  They're burning him for some reason.
+[00:17:24.808 --> 00:17:28.412]  I mean, you know, as sick as it is, this is nothing compared.
+[00:17:28.412 --> 00:17:33.398]  And then we got Bush, Kissinger... You know, I'll tell you right now, let me say one thing about Foley.
+[00:17:33.398 --> 00:17:34.679]  He knows a lot.
+[00:17:34.679 --> 00:17:36.622]  It's really interesting to see how long he lives.
+[00:17:37.386 --> 00:17:44.211]  Yeah, I wonder if one day after, or one day before sentencing or whatever, if he'll have a heart attack like Enron Chief.
+[00:17:44.211 --> 00:17:44.951]  That's right.
+[00:17:44.951 --> 00:17:46.732]  He'll get laid.
+[00:17:46.732 --> 00:17:49.134]  In a different sense of that old cliché.
+[00:17:49.134 --> 00:17:49.694]  Ken laid.
+[00:17:49.694 --> 00:17:53.477]  That's a good one Jeff, I'm stealing that.
+[00:17:53.477 --> 00:17:57.639]  It's unbelievable, and of course how obvious will it be or his plane will blow up.
+[00:17:57.639 --> 00:17:59.781]  Or you know, he may just keep his mouth shut.
+[00:17:59.781 --> 00:18:02.463]  Remember Larry King and the whole Franklin cover-up?
+[00:18:05.160 --> 00:18:06.281]  By the way, there's another story.
+[00:18:06.281 --> 00:18:09.203]  That's one of the biggest stories of the last century, the Franklin cover-up.
+[00:18:09.203 --> 00:18:10.604]  How many people know about it?
+[00:18:10.604 --> 00:18:11.805]  How many Americans know about it?
+[00:18:11.805 --> 00:18:29.957]  Well, what about Dutrox, who they admitted, the eyewitnesses reported, that the royalty of Europe was going, and they were going to these parties and raped these toddlers, and then they found the whole basement full of the dead toddlers, he let starve to death, and then the government said
+[00:18:29.957 --> 00:18:31.339]  It was Belgium, wasn't it?
+[00:18:45.891 --> 00:18:50.816]  That's a point that merits close scrutiny, ladies and gentlemen.
+[00:18:50.816 --> 00:18:59.045]  Three million went to the streets in Belgium over the most heinous of crimes and the protection of the perpetrator.
+[00:18:59.045 --> 00:19:03.049]  And nothing was done.
+[00:19:03.049 --> 00:19:04.871]  I should tell you something.
+[00:19:04.871 --> 00:19:05.352]  Be right back.
+[00:19:38.320 --> 00:19:38.681]  We're good.
+[00:20:30.310 --> 00:20:32.732]  Hi, right back with all of you good people.
+[00:20:32.732 --> 00:20:37.476]  And we mean that, and we really appreciate you listening and supporting everything that we do.
+[00:20:37.476 --> 00:20:40.159]  We do the best we can, you do the best you can.
+[00:20:40.159 --> 00:20:45.303]  We were talking about charities during the break here in a moment to bring a little light to that area.
+[00:20:45.303 --> 00:20:51.649]  I think most major charities are the most utterly corrupt, shakedown operations you could imagine.
+[00:20:51.649 --> 00:20:53.771]  Well, I mean, let's first tell people how this came up.
+[00:20:53.771 --> 00:20:54.831]  It was those charities
+[00:20:56.418 --> 00:21:07.905]  At the end of the last segment, we were talking about how they killed John Lennon, and how the Patriot Movement, the Truth Movement, is doing a lot more than what John Lennon did.
+[00:21:07.905 --> 00:21:19.992]  And then I said, hey Jeff, I was laying in my hotel room, September 10th, in New York City, been up late at night doing interviews, about 8am, I'm watching New York One, which is ABC,
+[00:21:21.891 --> 00:21:38.668]  24 hour news channel they had like a 20 minute special with the memo from Strom Thurmond and Ronald Reagan's office saying we've got to quote use extreme sanctions ie kill John Lennon he brought down Nixon he'll bring down you which really wasn't true but
+[00:21:39.830 --> 00:21:48.220]  I don't know if Reagan was involved in it, but on the show they basically said that John Lennon was killed by the U.S.
+[00:21:48.220 --> 00:21:48.861]  government.
+[00:21:48.861 --> 00:21:50.563]  They were talking about the new movie, the U.S.
+[00:21:50.563 --> 00:21:53.747]  vs. John Lennon, that's starting to hit theaters around the country.
+[00:21:53.747 --> 00:21:55.108]  I can't wait to see it.
+[00:21:55.108 --> 00:21:57.652]  And then Jeff said World Vision.
+[00:21:58.692 --> 00:22:04.115]  Or he brought up the guy that killed Lennon, and I said, oh yeah, that guy was World Vision.
+[00:22:04.115 --> 00:22:05.955]  He said, yeah, friends with the Bushes.
+[00:22:05.955 --> 00:22:21.462]  And then I said, yeah, then Hinckley, that shot Reagan in 81, his father headed up World Vision, and they were friends with the Bushes, and they're biggest campaign contributors in the state of Colorado, and were good friends with Neal and Marvin Bush.
+[00:22:22.382 --> 00:22:32.545]  And World Vision is a well-known CIA front, running operations and running real mind-control camps in Asia, in Africa, in the Middle East.
+[00:22:32.545 --> 00:22:36.007]  They can turn out as many trained robotic assassins as they want.
+[00:22:36.007 --> 00:22:39.608]  Oh yeah, they're the real deal, folks, and they do it in jungle camps.
+[00:22:39.608 --> 00:22:46.270]  And then Jeff said, oh, these big-time charities, I'll never give them money.
+[00:22:46.610 --> 00:22:55.932]  And I was like, oh yeah, I remember the Red Cross and giving the money to gun control groups on 9-11, and remember United Way always stealing money, and Jeff's like, yeah, give it to people locally.
+[00:22:55.932 --> 00:22:56.652]  I said, yeah.
+[00:22:56.652 --> 00:23:01.673]  Like, I'd go, back when I had time, I'd give money to Meals on Wheels and deliver them myself a few times.
+[00:23:01.673 --> 00:23:02.433]  My wife does that.
+[00:23:02.433 --> 00:23:05.354]  We give a lot of money to them, which we know they actually do it.
+[00:23:05.354 --> 00:23:06.954]  But there are a lot of good things you can do.
+[00:23:06.954 --> 00:23:11.335]  My point is, the stuff on TV with the starving kids, that's all scams.
+[00:23:11.835 --> 00:23:12.735]  Turn it off, folks.
+[00:23:12.735 --> 00:23:14.416]  You want to donate your money to somebody?
+[00:23:14.416 --> 00:23:15.076]  You got some?
+[00:23:15.076 --> 00:23:16.316]  Keep it right in your own community.
+[00:23:16.316 --> 00:23:18.037]  You got people right there that need it.
+[00:23:18.037 --> 00:23:20.378]  And organizations that will put it to use.
+[00:23:20.378 --> 00:23:21.558]  Well, I mean, listen.
+[00:23:21.558 --> 00:23:22.758]  Charity starts at home.
+[00:23:22.758 --> 00:23:24.559]  If you've got family that needs help.
+[00:23:24.559 --> 00:23:30.461]  You know, these people will give thousands of dollars to some fake charity in Africa.
+[00:23:30.461 --> 00:23:36.663]  But then they won't take care of their own parents when they're in nursing homes.
+[00:23:36.663 --> 00:23:37.883]  Again, it's the easy thing.
+[00:23:37.883 --> 00:23:40.144]  It's the lazy thing to just write a check.
+[00:23:41.084 --> 00:23:45.769]  And so, there we go, off the deep end with charities.
+[00:23:45.769 --> 00:23:48.331]  Yeah, well, that's a whole other program.
+[00:23:48.331 --> 00:23:50.674]  But folks, seriously, keep the money at home.
+[00:23:50.674 --> 00:23:52.836]  Keep it in your own family.
+[00:23:52.836 --> 00:23:53.877]  Help your family members.
+[00:23:53.877 --> 00:23:55.579]  Probably some of them need help.
+[00:23:55.579 --> 00:23:56.459]  Put it to good use.
+[00:23:56.459 --> 00:23:58.782]  Don't send it off to some television solicitation.
+[00:23:59.603 --> 00:24:02.704]  Or go and support Jeff Rentzler's sponsors.
+[00:24:02.704 --> 00:24:05.905]  Thank you Alex.
+[00:24:05.905 --> 00:24:13.407]  John Lennon did a lot to help world consciousness and clearly he had to be removed for that.
+[00:24:13.407 --> 00:24:16.587]  That's no question.
+[00:24:16.587 --> 00:24:18.668]  Think of how much Alex Jones has done.
+[00:24:19.432 --> 00:24:21.674]  Giving away his DVDs, his videos.
+[00:24:21.674 --> 00:24:26.637]  I mean, think of all the incredible impact this man has had, shaking the world now.
+[00:24:26.637 --> 00:24:30.080]  His videos are being watched all around the world.
+[00:24:30.080 --> 00:24:34.083]  Tens, hundreds of millions of people will end up seeing all these things.
+[00:24:34.083 --> 00:24:36.044]  The world knows.
+[00:24:36.044 --> 00:24:37.125]  It's the heads of state.
+[00:24:37.125 --> 00:24:46.272]  And when you think of the heads of state, so-called heads of state, of all these major countries, they all know the Bush, Cheney, Halliburton,
+[00:24:47.247 --> 00:24:49.648]  You know, that's the incredible thing.
+[00:24:49.648 --> 00:24:51.049]  And they don't say anything.
+[00:24:51.049 --> 00:24:52.509]  Not anything do they say.
+[00:24:52.509 --> 00:24:59.572]  Not one word, which makes them, in my book, just as goddamn complicit as they might as well be in the Bush administration cabal.
+[00:24:59.572 --> 00:25:03.014]  No, you're right, but that's a point I always think about, and I've never stated it on air.
+[00:25:03.014 --> 00:25:03.914]  You just did it, Jeff.
+[00:25:03.914 --> 00:25:05.575]  You always do that to me.
+[00:25:05.575 --> 00:25:08.416]  I think about it sometimes when I'm calm, looking at the paper.
+[00:25:08.416 --> 00:25:09.716]  Jacques Chirac knows.
+[00:25:09.716 --> 00:25:10.877]  Tony Blair knows.
+[00:25:12.658 --> 00:25:18.180]  Hell, Blair was in the White House overnight when Gannon was checked in overnight.
+[00:25:18.180 --> 00:25:20.221]  Now, figure that one out, okay?
+[00:25:20.221 --> 00:25:21.301]  Is that hard to do?
+[00:25:21.301 --> 00:25:23.042]  Ganny dropped by.
+[00:25:23.042 --> 00:25:25.263]  Ganny'd bring friends.
+[00:25:25.263 --> 00:25:25.903]  Exactly.
+[00:25:25.903 --> 00:25:27.404]  These guys and gals.
+[00:25:28.664 --> 00:25:36.153]  They all know the score and those that aren't actively involved in it know all about it and their accessories after the fact.
+[00:25:36.153 --> 00:25:37.714]  And just think about that.
+[00:25:37.714 --> 00:25:39.777]  I mean, I'm just people.
+[00:25:39.777 --> 00:25:43.300]  Why do we put up with these criminals and people say, well, there's nothing we can do?
+[00:25:43.300 --> 00:25:45.203]  Yes, there's a lot we can do.
+[00:25:46.003 --> 00:25:49.404]  And things would be so much worse right now if we weren't here fighting them.
+[00:25:49.404 --> 00:25:54.766]  They may have passed this Constitution overturning, this Constitution wrecking legislation.
+[00:25:54.766 --> 00:25:56.927]  Now let's see them try to implement it.
+[00:25:56.927 --> 00:26:00.468]  Michael Rivero, you know, does pretty good work over there at WhatReallyHappened.com.
+[00:26:00.468 --> 00:26:02.909]  He says it, make a dictator act like a dictator.
+[00:26:02.909 --> 00:26:04.649]  But I don't want to forget to do this.
+[00:26:04.649 --> 00:26:08.491]  We were mentioning this pervert, Representative Mark Foley.
+[00:26:08.491 --> 00:26:13.612]  He was the head of the missing and, oh, what's the name of the group?
+[00:26:13.612 --> 00:26:14.793]  Let me find the actual article.
+[00:26:15.473 --> 00:26:18.035]  How much time do we have, Jason, before the break?
+[00:26:18.035 --> 00:26:18.256]  Jason?
+[00:26:43.503 --> 00:26:44.223]  We can do it after.
+[00:26:44.223 --> 00:26:52.029]  But in this little clip, and it's outside the Capitol on the street, it's kind of noisy, but you can hear it.
+[00:26:52.029 --> 00:26:58.894]  He's talking to the head of America's Most Wanted, who's very questionable himself, and his whole story, but I'm not going to get into that.
+[00:26:58.894 --> 00:27:02.177]  And he's sitting there, and he's talking to him.
+[00:27:02.797 --> 00:27:07.058]  And he's going, we need to, you know, violate people's rights and they don't have any rights.
+[00:27:07.058 --> 00:27:09.379]  This is people who they're accusing.
+[00:27:09.379 --> 00:27:12.580]  He calls them convicted before they're even convicted.
+[00:27:12.580 --> 00:27:13.300]  That's amazing.
+[00:27:13.300 --> 00:27:19.862]  And he's going, boy, I'd sure be afraid if I was one of these pedophiles that America's Most Wanted is out there.
+[00:27:19.862 --> 00:27:20.862]  Can you believe this?
+[00:27:20.862 --> 00:27:23.423]  It's just so fake, man.
+[00:27:23.423 --> 00:27:26.884]  But again, this is how these spiders operate.
+[00:27:26.884 --> 00:27:28.765]  They're being too kind.
+[00:27:28.765 --> 00:27:32.146]  And they've got to be sick to know there's terror attacks and know they're putting
+[00:27:32.950 --> 00:27:37.833]  Cancer viruses and mercuries in the vaccines, and to know they're doing all this evil?
+[00:27:37.833 --> 00:27:39.254]  They know all of it.
+[00:27:39.254 --> 00:27:44.818]  Name one head of state of any so-called Western country, Western nation who speaks up.
+[00:27:44.818 --> 00:27:57.627]  That's why I put on my website, I don't know if you probably didn't see, you're awfully busy, there was a photograph of Chavez and Ahmadinejad together holding, you know, their hand up together between them, cheering.
+[00:27:58.562 --> 00:28:03.705]  And I put it up there, this picture of both of them, and I put men of the year?
+[00:28:03.705 --> 00:28:04.806]  Are they the men of the year?
+[00:28:04.806 --> 00:28:07.368]  Are they the canaries in our coal mine?
+[00:28:07.368 --> 00:28:08.889]  Are they the ones to watch?
+[00:28:08.889 --> 00:28:13.592]  They're the only ones with the guts to stand up and at least begin to confront some of this evil.
+[00:28:13.592 --> 00:28:16.554]  I'm not saying they're both perfect or both right.
+[00:28:16.554 --> 00:28:18.175]  But they're standing up and doing something.
+[00:28:18.175 --> 00:28:19.516]  No, I agree they are men of the year.
+[00:28:19.516 --> 00:28:20.857]  I saw that.
+[00:28:20.857 --> 00:28:23.338]  Well, that's my vote.
+[00:28:23.338 --> 00:28:24.739]  Okay.
+[00:28:24.739 --> 00:28:25.580]  Back in a minute.
+[00:28:44.181 --> 00:28:46.723]  We're good.
+[00:29:08.893 --> 00:29:09.754]  Try this.
+[00:29:34.071 --> 00:29:35.652]  Okay, right back with all of you.
+[00:29:35.652 --> 00:29:39.534]  Alex and Jeff here as we kick off the month of October.
+[00:29:39.534 --> 00:29:44.196]  Alex will be back in four weeks as we have five Mondays in October.
+[00:29:44.196 --> 00:29:45.877]  God only knows what will happen by then.
+[00:29:45.877 --> 00:29:50.439]  Everyone talks a lot about October Surprise, October Surprise.
+[00:29:50.439 --> 00:29:52.680]  I don't know.
+[00:29:52.680 --> 00:29:56.982]  Personally, I steer clear of those predictive kinds of stories.
+[00:29:56.982 --> 00:30:00.104]  Well, you know, Jeff, I've only made one other prediction.
+[00:30:00.894 --> 00:30:08.879]  Two months before 9-11 that the military industrial complex would attack the World Trade Centers and blame it on their asset bin Laden.
+[00:30:08.879 --> 00:30:23.808]  This time I'm saying there's a prime confluence of all the different indicators that from when I made the prediction back right before September 11th through late October and I'm saying if we get the word out
+[00:30:24.722 --> 00:30:30.729]  We may be able to short-circuit it, but their October surprise may be an attack on Iran, it could be an imploding economy.
+[00:30:30.729 --> 00:30:33.892]  It doesn't have to be a nuke of a city here in the United States, not at all.
+[00:30:33.892 --> 00:30:36.455]  Exactly, and that's what I stated in my written prediction.
+[00:30:36.455 --> 00:30:38.598]  They could crash the market, they could do anything.
+[00:30:38.598 --> 00:30:40.059]  I'm not saying they will, but they could do anything.
+[00:30:40.059 --> 00:30:44.104]  Well, I mean, they're releasing new fake videos with no audio because they can't have the voice print.
+[00:30:44.104 --> 00:30:46.926]  How about a few hundred bird flu fatalities here in the United States?
+[00:30:46.926 --> 00:30:47.926]  Can you imagine the panic, folks?
+[00:30:47.926 --> 00:30:48.887]  Oh my gosh, that's what I'm saying.
+[00:30:48.887 --> 00:30:54.790]  Or botulism, or it could be smallpox, it could be anthrax again.
+[00:30:54.790 --> 00:30:58.352]  And let me tell you something about the spinach issue.
+[00:30:58.352 --> 00:31:01.074]  A lot of people are saying, ah, they're smart.
+[00:31:01.074 --> 00:31:03.455]  They say, look here, what is this going to do?
+[00:31:03.455 --> 00:31:09.339]  It's going to usher in the spring of viruses on vegetables, spinach, iceberg lettuce, right, that eat E. coli.
+[00:31:14.215 --> 00:31:20.659]  No, that's exactly, remember a month ago they approved for meats, the basting them in these viruses.
+[00:31:20.659 --> 00:31:22.801]  And the worst kind of meats imaginable, by the way.
+[00:31:22.801 --> 00:31:28.164]  Exactly, and now they said, oh don't worry, we have stuff to make vegetables clean.
+[00:31:28.164 --> 00:31:38.811]  In fact, you reminded me Jeff, on the show, I said they've got things to make the vegetables clean with the bacteria that get on them, and that's another type of eater.
+[00:31:38.811 --> 00:31:41.813]  Because in Greek it translates over to bacteria eater.
+[00:31:44.715 --> 00:31:45.256]  Exactly.
+[00:31:45.256 --> 00:31:48.658]  They're even talking about irradiating fruits and vegetables, which totally kills them.
+[00:31:48.658 --> 00:31:49.598]  They've been doing that for years.
+[00:31:49.598 --> 00:31:58.324]  That's another way to make money off nuclear waste, to truck it around to independent contractors who set up hundreds of these little irradiation plants around the country.
+[00:31:58.324 --> 00:32:00.225]  No oversight, no regulation, nothing.
+[00:32:00.225 --> 00:32:02.787]  They just ship them the nuclear waste, run everything through it.
+[00:32:02.787 --> 00:32:13.314]  Of course, you run one fruit or vegetable through an irradiation process in one of these plants, and admittedly, that process creates between 30 and 40 new compounds which don't even have names.
+[00:32:13.854 --> 00:32:15.114]  You don't even have a name.
+[00:32:15.114 --> 00:32:17.975]  It kills it and then it makes it totally worthless.
+[00:32:17.975 --> 00:32:20.956]  It destroys the ring structures, the trace elements.
+[00:32:20.956 --> 00:32:23.636]  It breaks up how your body absorbs it.
+[00:32:23.636 --> 00:32:28.017]  Speaking of the devil, here is that Foley clip.
+[00:32:28.017 --> 00:32:29.898]  I keep pushing to play this.
+[00:32:29.898 --> 00:32:35.319]  This is someone on America's Most Wanted last year talking to the host of the show.
+[00:32:35.319 --> 00:32:36.820]  Is the guy named Walton?
+[00:32:36.820 --> 00:32:37.480]  Yeah, whatever.
+[00:32:37.480 --> 00:32:38.440]  I forget the twit's name.
+[00:32:39.341 --> 00:32:41.423]  But here he is talking to America's Most Wanted.
+[00:32:41.423 --> 00:32:46.406]  He's frolly saying, let's take the rights away from the pedophiles because they lose their rights.
+[00:32:46.406 --> 00:32:47.267]  Well, wait a minute.
+[00:32:47.267 --> 00:32:50.469]  Already a convicted pedophile has to give a DNA sample.
+[00:32:50.469 --> 00:32:54.552]  So he's talking about people who are just in the system.
+[00:32:54.552 --> 00:32:57.994]  And again, and then he's actually involved in all this.
+[00:32:57.994 --> 00:33:01.717]  Here it is.
+[00:33:01.717 --> 00:33:04.098]  Jason, you have that clip?
+[00:33:04.098 --> 00:33:06.080]  Okay, at the Wondrous Computers.
+[00:33:06.080 --> 00:33:06.720]  We have computers.
+[00:33:08.524 --> 00:33:13.866]  I believe that every convicted felon should be mandated nationwide to give his DNA.
+[00:33:13.866 --> 00:33:20.368]  It solves crimes, it gets innocent people out of prison, and it will eliminate the ability of these people to roam state to state in this country and rape people.
+[00:33:37.165 --> 00:33:42.188]  From my view, when you rape a person, when you violate a child, you lose your civil liberties.
+[00:33:42.188 --> 00:33:46.551]  So anybody that says we shouldn't take DNA samples, absolutely wrong.
+[00:33:46.551 --> 00:33:53.135]  You commit the crime, you will supply the sample, and we'll be able to track it, and hopefully solve a lot of crimes.
+[00:33:53.135 --> 00:33:59.319]  Well, good luck with your piece of legislation, because you're right, it will put some teeth into these registries.
+[00:33:59.319 --> 00:34:04.903]  Well, if I were one of these sickos, I'd be nervous with America's Most Wanted on my trail.
+[00:34:04.903 --> 00:34:06.204]  I think I've got you all of them.
+[00:34:08.106 --> 00:34:11.307]  I knew you'd laugh at that joke.
+[00:34:11.307 --> 00:34:11.827]  That's him.
+[00:34:11.827 --> 00:34:17.569]  If I was one of these sickos, I'd be nervous with America's Most Wanted on my tail.
+[00:34:17.569 --> 00:34:22.530]  Good luck with your pages and your pieces and all the rest of it.
+[00:34:22.530 --> 00:34:24.750]  Well, that's the thing.
+[00:34:24.750 --> 00:34:32.232]  Folks, again, why are they burning him, which they should, when Barney Frank ran an underage slave brothel?
+[00:34:32.232 --> 00:34:33.873]  These were fourteen, twelve-year-old boys.
+[00:34:35.021 --> 00:34:37.003]  How are they allowed to do that?
+[00:34:37.003 --> 00:34:41.888]  I mean, remember folks, Barney Frank got caught and nothing happened?
+[00:34:41.888 --> 00:34:42.749]  Zero happened.
+[00:34:42.749 --> 00:34:44.310]  It's the same thing with DynCorp.
+[00:34:44.310 --> 00:34:45.151]  He's a hero.
+[00:34:45.151 --> 00:34:48.375]  Because of the gay mafia, basically.
+[00:34:48.375 --> 00:34:49.456]  Yeah, that's it.
+[00:34:49.456 --> 00:34:52.198]  Gay pedophile mafia.
+[00:34:52.198 --> 00:34:53.500]  Yeah, that's what these people are.
+[00:34:56.540 --> 00:35:00.022]  They must have so much stuff on people.
+[00:35:00.022 --> 00:35:04.404]  You know, they talk about this GHB date rape stuff.
+[00:35:04.404 --> 00:35:12.048]  They can take a congressman or a congresswoman out, nail her with that stuff, take a bunch of photos of her in compromised positions.
+[00:35:12.048 --> 00:35:12.808]  They're done.
+[00:35:12.808 --> 00:35:14.689]  Finished.
+[00:35:14.689 --> 00:35:16.330]  They're compromised forever.
+[00:35:16.330 --> 00:35:17.271]  It's so easy to do.
+[00:35:19.134 --> 00:35:21.236]  I'll bet you it happens all the time.
+[00:35:21.236 --> 00:35:23.078]  I don't mean to sound melodramatic.
+[00:35:23.078 --> 00:35:25.861]  And then they release it, they leak it out.
+[00:35:25.861 --> 00:35:29.765]  Oh, the prostitute sold these to the Enquirer.
+[00:35:29.765 --> 00:35:30.646]  Right.
+[00:35:30.646 --> 00:35:31.047]  Or me.
+[00:35:31.047 --> 00:35:34.730]  It doesn't take much.
+[00:35:34.730 --> 00:35:35.531]  It's late and lamented.
+[00:35:39.744 --> 00:35:44.149]  We lost a great one, and agree or disagree, Sherman Skolnick was one of a kind.
+[00:35:44.149 --> 00:35:44.910]  Oh, great guy!
+[00:35:44.910 --> 00:35:59.347]  He told you and told me on our programs for years that the level of perversion, pedophilia, homosexuality, blackmail, bribery, you name it, has never been more rampant.
+[00:36:00.327 --> 00:36:06.370]  Well, it's total, because they have to have you compromised to let you get in.
+[00:36:06.370 --> 00:36:10.713]  There's a few like Tom Tancredo, Ron Paul, who they're constantly attacking.
+[00:36:10.713 --> 00:36:17.676]  But 98% of them, if they're not into that, they're into just hookers, or they're into arms deals.
+[00:36:17.676 --> 00:36:19.938]  Well, I mean, take the CIA director, Porter Goss.
+[00:36:19.938 --> 00:36:25.941]  He'd never been CIA, and they made him CIA director, and then it came out he'd been secret CIA.
+[00:36:26.741 --> 00:36:30.143]  Since college, in Congress he was CIA.
+[00:36:30.143 --> 00:36:31.483]  It's like Anderson Cooper.
+[00:36:31.483 --> 00:36:33.584]  Oh yeah, there's another one.
+[00:36:33.584 --> 00:36:34.545]  That little aster.
+[00:36:34.545 --> 00:36:36.165]  Oh yeah, they're all government.
+[00:36:36.165 --> 00:36:36.906]  They're all shills.
+[00:36:36.906 --> 00:36:37.846]  They're not CIA.
+[00:36:37.846 --> 00:36:41.508]  They're one of the other 14 intelligence agencies.
+[00:36:41.508 --> 00:36:48.771]  And then it turned out at the Watergate Hotel, in one room they had all the prostitutes on one floor, several suites.
+[00:36:48.771 --> 00:36:52.293]  Then they had gambling, and then they had the payoffs right next to that.
+[00:36:52.293 --> 00:36:53.914]  And he was all there in the middle of that.
+[00:36:54.594 --> 00:37:09.018]  I mean, it's literally just like, you know, and he's one of the more normal ones, you know, just up there with all the blondes are in here and the Asian chicks are in there, and it's still incredibly corrupt, and then he had to resign over that because it started coming out.
+[00:37:09.018 --> 00:37:10.559]  But he didn't get in trouble for all the hookers.
+[00:37:11.420 --> 00:37:18.345]  Porter Goss got in trouble, and this all came out at the back of the paper, he got in trouble for taking huge amounts of cash.
+[00:37:18.345 --> 00:37:20.966]  There was huge amounts of payments being made there.
+[00:37:20.966 --> 00:37:21.967]  I read it.
+[00:37:21.967 --> 00:37:23.288]  I mean, think about these people.
+[00:37:23.288 --> 00:37:25.730]  Don't forget the drugs and the cocaine too, folks.
+[00:37:25.730 --> 00:37:27.711]  Oh yeah, I forgot they have the drug rooms.
+[00:37:27.711 --> 00:37:34.535]  So I mean, imagine you go to the Watergate and it's drugs in these rooms, hookers, and I mean, we're talking $2,000 an hour, folks.
+[00:37:34.535 --> 00:37:40.419]  We're talking beautiful, all those young girls that go there to get jobs, think they're going to be actresses, think they're going to be this and that.
+[00:37:40.419 --> 00:37:41.220]  Uh-uh, folks.
+[00:37:41.981 --> 00:37:42.982]  No, no.
+[00:37:42.982 --> 00:37:46.386]  A lot of your daughters that you think are working in D.C.
+[00:37:46.386 --> 00:37:49.610]  They're working alright.
+[00:37:49.610 --> 00:37:53.315]  I had a great looking girlfriend in junior high and then when I was a freshman.
+[00:37:53.894 --> 00:37:58.996]  And then I saw her years later here in Austin, and she goes, oh, I'm not going to UT anymore.
+[00:37:58.996 --> 00:38:00.416]  She'd grown up in Dallas.
+[00:38:00.416 --> 00:38:04.238]  She goes, I do work in DC.
+[00:38:04.238 --> 00:38:06.398]  And I could tell the way she was acting, the way she was working me.
+[00:38:06.398 --> 00:38:08.339]  I go, oh, what do you do in DC?
+[00:38:08.339 --> 00:38:09.339]  Oh, I do this and that.
+[00:38:09.339 --> 00:38:10.780]  And I said, oh.
+[00:38:10.780 --> 00:38:11.880]  And I asked her a few questions.
+[00:38:11.880 --> 00:38:13.281]  She kind of got mad.
+[00:38:13.281 --> 00:38:15.421]  She goes, how do you know about that?
+[00:38:15.421 --> 00:38:17.782]  And so, yeah, I mean, folks, this country's gone.
+[00:38:17.782 --> 00:38:19.523]  I mean, this country's gone.
+[00:38:19.523 --> 00:38:21.703]  She's a great looking girl, by the way.
+[00:38:21.703 --> 00:38:22.284]  I mean, really a 10.
+[00:38:23.624 --> 00:38:43.941]  Well, I'll tell you, I've said it for years, I don't see any way through the mechanisms that we have, and I know I'm not advocating something that could get me in trouble here, I just don't see logically, pragmatically, intellectually, any way to rehabilitate this country in the state it's in now with the tools that we allegedly had past tense.
+[00:38:45.577 --> 00:38:46.938]  Well, they're afraid.
+[00:38:46.938 --> 00:38:48.119]  They know they're a criminal.
+[00:38:48.119 --> 00:38:52.761]  Again, tyranny is put in to protect the criminals that don't want to get caught.
+[00:38:52.761 --> 00:39:01.306]  This is their way of shutting up and controlling a system where they can carry out their criminal enterprises on a greater and wider scale.
+[00:39:01.306 --> 00:39:02.347]  So they're afraid of us.
+[00:39:02.347 --> 00:39:03.208]  They know we're mad.
+[00:39:03.208 --> 00:39:04.428]  They know we're waking up to them.
+[00:39:06.417 --> 00:39:12.121]  Jeff, as you know, you and I would talk about electronic voting machines being a scam three years ago, and we're laughed at.
+[00:39:12.121 --> 00:39:17.606]  Now, what is it, 91% of Americans in a national poll don't trust it?
+[00:39:17.606 --> 00:39:19.187]  And everybody's mad about it?
+[00:39:19.187 --> 00:39:23.010]  Well, you see, Alex and I are not patting ourselves on the back.
+[00:39:23.670 --> 00:39:24.570]  We're good to go.
+[00:39:42.492 --> 00:39:47.914]  And there are folks out there in America, somehow, thank God, through the Internet, found out about it.
+[00:39:47.914 --> 00:39:50.235]  They weren't going to find out about it anywhere else, really.
+[00:39:50.235 --> 00:39:51.216]  Well, that's it, Jeff.
+[00:39:51.216 --> 00:39:53.757]  So, I'm not trying to give people hope.
+[00:39:53.757 --> 00:39:55.177]  I'm giving you a real report.
+[00:39:55.177 --> 00:39:56.878]  All this bad stuff's happened.
+[00:39:56.878 --> 00:39:59.239]  But, we're winning the hearts and minds.
+[00:39:59.239 --> 00:40:05.142]  The problem is, as Jeff said earlier, they put the police state in, so they just say, hey, it's out in the open.
+[00:40:05.982 --> 00:40:06.943]  Couldn't agree more, my friend.
+[00:40:06.943 --> 00:40:07.644]  Thanks for being here tonight.
+[00:40:29.532 --> 00:40:31.714]  I'll tell you what, Alex and I are not going to leave.
+[00:40:31.714 --> 00:40:32.394]  We're going to be here.
+[00:40:32.394 --> 00:40:34.196]  As long as you're there, we'll be here.
+[00:40:34.196 --> 00:40:37.639]  Yeah, we're going to go down with the good old shit, but we may be able to resuscitate.
+[00:40:37.639 --> 00:40:40.101]  Hey, Jeff, what Monday am I on with you?
+[00:40:40.101 --> 00:40:44.264]  The twenty... On this... twenty-third.
+[00:40:44.264 --> 00:40:52.210]  Okay, I'm going to write it on the wall here, and I'll be honored to be back with you in just twenty short days, and you're going to be back in twenty-one hours.
+[00:40:52.210 --> 00:40:53.671]  Thank you, my friend.
+[00:40:53.671 --> 00:40:54.252]  Will, indeed.
+[00:40:54.252 --> 00:40:55.553]  Talk to you soon.
+[00:40:56.172 --> 00:40:56.812]  Thanks, Jeff.
+[00:40:56.812 --> 00:40:58.293]  Good night, Alex.
+[00:40:58.293 --> 00:41:01.095]  Alex Jones.
+[00:41:01.095 --> 00:41:02.196]  You know the websites.
+[00:41:02.196 --> 00:41:09.440]  Infowars.com, PrisonPlanet.com, PrisonPlanet.tv, and my own Rents.com.
+[00:41:09.440 --> 00:41:10.901]  And his new video.
+[00:41:10.901 --> 00:41:11.501]  Fabulous.
+[00:41:11.501 --> 00:41:12.942]  Terror Storm.
+[00:41:12.942 --> 00:41:14.883]  Get it.
+[00:41:14.883 --> 00:41:16.905]  Be back, as the man said, in 21 hours.

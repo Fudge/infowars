@@ -1,83 +1,557 @@
-[00:00:00.000 --> 00:00:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:00:30.000 --> 00:00:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:01:00.000 --> 00:01:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:01:30.000 --> 00:01:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:02:00.000 --> 00:02:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:02:30.000 --> 00:02:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:03:00.000 --> 00:03:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:03:30.000 --> 00:03:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:04:00.000 --> 00:04:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:04:30.000 --> 00:04:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:05:00.000 --> 00:05:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:05:30.000 --> 00:05:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:06:00.000 --> 00:06:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:06:30.000 --> 00:06:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:07:00.000 --> 00:07:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:07:30.000 --> 00:07:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:08:00.000 --> 00:08:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:08:30.000 --> 00:08:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:09:00.000 --> 00:09:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:09:30.000 --> 00:09:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:10:00.000 --> 00:10:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:10:30.000 --> 00:10:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:11:00.000 --> 00:11:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:11:02.000 --> 00:11:04.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:11:30.000 --> 00:11:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:12:00.000 --> 00:12:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:12:30.000 --> 00:12:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:13:00.000 --> 00:13:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:13:30.000 --> 00:13:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:14:00.000 --> 00:14:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:14:30.000 --> 00:14:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:15:00.000 --> 00:15:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:15:30.000 --> 00:15:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:16:00.000 --> 00:16:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:16:30.000 --> 00:16:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:17:00.000 --> 00:17:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:17:30.000 --> 00:17:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:18:00.000 --> 00:18:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:18:30.000 --> 00:18:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:19:00.000 --> 00:19:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:19:30.000 --> 00:19:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:19:32.000 --> 00:19:34.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:20:00.000 --> 00:20:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:20:30.000 --> 00:20:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:21:00.000 --> 00:21:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:21:30.000 --> 00:21:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:22:00.000 --> 00:22:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:22:30.000 --> 00:22:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:23:00.000 --> 00:23:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:23:30.000 --> 00:23:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:24:00.000 --> 00:24:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:24:30.000 --> 00:24:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:25:00.000 --> 00:25:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:25:30.000 --> 00:25:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:26:00.000 --> 00:26:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:26:30.000 --> 00:26:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:27:00.000 --> 00:27:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:27:30.000 --> 00:27:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:28:00.000 --> 00:28:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:28:30.000 --> 00:28:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:29:00.000 --> 00:29:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:29:30.000 --> 00:29:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:30:00.000 --> 00:30:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:30:30.000 --> 00:30:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:31:00.000 --> 00:31:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:31:30.000 --> 00:31:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:32:00.000 --> 00:32:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:32:30.000 --> 00:32:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:33:00.000 --> 00:33:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:33:30.000 --> 00:33:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:34:00.000 --> 00:34:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:34:30.000 --> 00:34:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:35:00.000 --> 00:35:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:35:30.000 --> 00:35:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:36:00.000 --> 00:36:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:36:30.000 --> 00:36:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:37:00.000 --> 00:37:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:37:02.000 --> 00:37:04.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:37:30.000 --> 00:37:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:38:00.000 --> 00:38:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:38:30.000 --> 00:38:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:39:00.000 --> 00:39:02.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
-[00:39:30.000 --> 00:39:32.000]  Welcome to the Alex Jones Show, live now on InfoWars.com!
+[00:00:03.522 --> 00:00:04.305]  Yeah.
+[00:00:53.550 --> 00:00:54.471]  Okay.
+[00:00:54.471 --> 00:00:57.792]  Agree or disagree with my next guest?
+[00:00:57.792 --> 00:01:09.476]  He is without question one of the most mercurial, articulate, brilliantly well-informed, outspoken, and passionate patriots in our country today.
+[00:01:10.103 --> 00:01:14.524]  He has his own radio show and a renowned website, Infowars.com.
+[00:01:14.524 --> 00:01:17.084]  He is Alex Jones, and he's back tonight.
+[00:01:17.084 --> 00:01:19.165]  Welcome back, Alex.
+[00:01:19.165 --> 00:01:21.345]  Well, Jeff, I better hold up to that introduction.
+[00:01:21.345 --> 00:01:36.508]  Thank you so much, and I appreciate, I mean this, your courage for standing up across the board for the Bill of Rights and Constitution when so many people, in a cowardly fashion, decide to join the dark forces of the New World Order.
+[00:01:36.508 --> 00:01:38.808]  You've been a shining light resisting it.
+[00:01:39.304 --> 00:01:40.485]  Well, thank you, my friend.
+[00:01:40.485 --> 00:01:43.508]  I appreciate that very much.
+[00:01:43.508 --> 00:01:58.981]  Sad to say, but I agree, the red in our American flag has turned to cowardly pink in too many cases of Americans who are laying down for things that our forefathers would be, and may well be, spinning in their graves over right now.
+[00:01:58.981 --> 00:02:04.166]  Well, this isn't freedom, and what the government and the military-industrial complex has built
+[00:02:05.010 --> 00:02:06.271]  We're good to go.
+[00:02:26.181 --> 00:02:28.843]  Because the globalists now are really on the run.
+[00:02:28.843 --> 00:02:31.185]  That's why we see them pulling out all the stops.
+[00:02:31.185 --> 00:02:40.152]  They try to do this all incrementally, but there's got to be that flashpoint where they finally bring their agenda to full-born global fruition.
+[00:02:40.152 --> 00:02:40.932]  And it's here.
+[00:02:40.932 --> 00:02:43.174]  It's right in our face.
+[00:02:43.174 --> 00:02:44.155]  Folks, you can't miss it.
+[00:02:44.155 --> 00:02:48.458]  And our listeners and your listeners and site visitors certainly see it.
+[00:02:48.458 --> 00:02:49.979]  There is no artifice.
+[00:02:49.979 --> 00:02:51.300]  There is no subtlety.
+[00:02:51.300 --> 00:02:52.761]  It's right there.
+[00:02:52.761 --> 00:02:54.662]  Yeah, just three or four years ago, it was...
+[00:02:55.802 --> 00:02:59.024]  We thought it was coming on hard and heavy, but that was pain.
+[00:02:59.024 --> 00:03:05.949]  That was like a light wind before the typhoon hits the shoreline, and right now we're in 140 mile winds.
+[00:03:05.949 --> 00:03:17.037]  Unfortunately, so many people are still inserted in this matrix of mind control, and it's our job to at least get them to have the opportunity to take the red pill.
+[00:03:17.037 --> 00:03:23.102]  What really amazes me is the installation of lying.
+[00:03:23.786 --> 00:03:25.306]  As a regular M.O.
+[00:03:25.306 --> 00:03:31.908]  for conducting business at the highest levels of government and the military in this and other countries as well.
+[00:03:31.908 --> 00:03:33.589]  We're not the only guilty party.
+[00:03:33.589 --> 00:03:36.930]  Lying is now an acceptable norm.
+[00:03:36.930 --> 00:03:43.091]  In fact, if people go into this and don't expect to be lied to, they're not going to get the first base.
+[00:03:43.091 --> 00:03:44.052]  Well, that's it.
+[00:03:44.052 --> 00:03:46.912]  The lie is the rule now.
+[00:03:46.912 --> 00:03:47.933]  Well, it's the double thing.
+[00:03:49.626 --> 00:03:50.247]  Thank you very much.
+[00:04:11.280 --> 00:04:12.220]  Sure.
+[00:04:12.220 --> 00:04:15.581]  That's a good point, and a point we need to keep in mind.
+[00:04:15.581 --> 00:04:21.362]  Remember, if you repeat something often enough, it becomes a fait accompli, it becomes a part of people's lives.
+[00:04:21.362 --> 00:04:25.963]  The resistance begins to diminish, and then actually will just go away.
+[00:04:25.963 --> 00:04:31.584]  And when you're lied to all the time, you expect to be lied to, and then you expect that to be a normal part of behavior.
+[00:04:31.584 --> 00:04:34.744]  And unfortunately, it works in many cases.
+[00:04:34.744 --> 00:04:38.605]  It's called social engineering, and they are brilliant at it.
+[00:04:38.605 --> 00:04:39.165]  And that's why
+[00:04:39.725 --> 00:04:47.729]  Those who think are so frustrated when they try to tell people who don't get it yet, and their friends, their loved ones, try to bring them along and meet this resistance.
+[00:04:47.729 --> 00:05:02.837]  I mean, there is a polarization here, which is partly by choice and social evolution, but it is certainly something that has been engineered and contrived as well to polarize the American people, divide them, and need I finish the statement?
+[00:05:02.837 --> 00:05:04.337]  And conquer them.
+[00:05:04.337 --> 00:05:05.198]  Absolutely.
+[00:05:05.198 --> 00:05:07.939]  I mean, take this war with Iraq.
+[00:05:07.939 --> 00:05:09.100]  I'm what you would call
+[00:05:09.696 --> 00:05:11.937]  At least in the past, a conservative.
+[00:05:11.937 --> 00:05:22.883]  And when Clinton was giving nuclear reactors, or the parts for them, the missile parts, supercomputers to China, that was a bad thing.
+[00:05:22.883 --> 00:05:26.925]  But then Bush comes in and takes all the restrictions off and suddenly it's a good thing.
+[00:05:26.925 --> 00:05:39.231]  And to see this literal double thing being accepted by the grassroots conservatives out there, buying into this whole neocon agenda, on Monday, I'm sure you saw it Jeff, you see more stuff than I do,
+[00:05:40.113 --> 00:05:55.160]  With the encyclopedic information that's on Rents.com, but there was an actual post of Canada, a big mainstream paper, saying the ghost of Trotsky walked the halls of the White House.
+[00:05:55.160 --> 00:06:06.726]  And you try to tell a conservative, which is for total gun control, open borders, incredible regulation control, the neocons, daddies were all crystal, the rest of them, admitted Fourth International, Trotskyites,
+[00:06:07.358 --> 00:06:11.701]  This is admitted, Bush is the ultimate big government Trojan horse.
+[00:06:11.701 --> 00:06:14.663]  But I do see people starting to wake up to this.
+[00:06:14.663 --> 00:06:19.246]  Especially when you open this hour, Jeff, talking about lying.
+[00:06:19.246 --> 00:06:20.726]  And we need to be upset by lying.
+[00:06:20.726 --> 00:06:24.329]  We can't let them practice lying on us and then accept it.
+[00:06:24.329 --> 00:06:25.550]  I have Ashcroft on video.
+[00:06:25.550 --> 00:06:28.391]  And I have the news articles here right in front of me.
+[00:06:28.391 --> 00:06:30.232]  And they're on InfoWars.com right now.
+[00:06:30.232 --> 00:06:32.474]  I've made a little special section of this interview.
+[00:06:33.591 --> 00:06:56.472]  On the site, and he said in 2001, right after the passage of the Patriot Act, he said, those that say that we're losing liberty, shredding the Constitution, charges of shredding the Constitution, phantoms of lost liberty, he said, this gives new meaning to the term fog of war, they are aiding the terrorists, and those that aid the terrorists will lose their liberty.
+[00:06:57.069 --> 00:06:58.449]  Talk about doublespeak.
+[00:06:58.449 --> 00:07:03.571]  He says, we're not taking your liberty, but if you say we're taking your liberty, you will lose your liberty.
+[00:07:03.571 --> 00:07:07.011]  An amazing threat from John Ashcroft.
+[00:07:07.011 --> 00:07:09.052]  A bald-faced threat.
+[00:07:09.052 --> 00:07:10.152]  No question.
+[00:07:10.152 --> 00:07:17.154]  Look, in this age of the lie, coupled with the second horseman of the
+[00:07:17.774 --> 00:07:19.675]  Well, we'll call it non-accountability.
+[00:07:19.675 --> 00:07:21.375]  They go hand-in-hand.
+[00:07:21.375 --> 00:07:31.298]  The average American, and your listeners and viewers and all you folks out there know, can hardly keep up with the pace of noise.
+[00:07:31.298 --> 00:07:34.739]  It's noise, it's lies, it's pressure, it's stress.
+[00:07:34.739 --> 00:07:37.020]  And what's the natural human reaction to that?
+[00:07:37.020 --> 00:07:38.260]  To go the other way?
+[00:07:38.260 --> 00:07:47.083]  Well, they've done the test with mammals, Kavistock Institute and others, these globalist think tanks that have been taking all the science of dictators
+[00:07:48.234 --> 00:07:54.257]  They've all gone to the same school of dictators and have created this seamless web.
+[00:07:54.257 --> 00:07:57.798]  They are using all different types of conditioning.
+[00:07:57.798 --> 00:08:11.323]  If you take a colony of rats, and we're very similar to rats in large colony situations, rats and humans, and you give them continual pressure, continual shocks, they will become very lethargic and submissive.
+[00:08:13.986 --> 00:08:19.612]  They're doing all this, so we have Ashcroft saying, you'll lose your liberty if you say we're taking your liberty.
+[00:08:19.612 --> 00:08:20.893]  And then you give the people the drugs to escape.
+[00:08:24.537 --> 00:08:25.637]  Riddle and Prozac.
+[00:08:25.637 --> 00:08:27.578]  Exactly what I was going to say.
+[00:08:27.578 --> 00:08:36.924]  Whether it's Riddle and Prozac for the kiddies and adults, or cocaine and pot and you name it, but the biggest drug of all is probably the escapist fare on television.
+[00:08:36.924 --> 00:08:45.249]  So it's all addicting and so you create the pressure, you just numb the people to stressful rejection of reality and they escape.
+[00:08:45.249 --> 00:08:45.589]  That's it.
+[00:08:45.589 --> 00:08:46.349]  They need to escape.
+[00:08:47.350 --> 00:09:00.919]  You're right, and you take the minerals out of the food, you put the toxins in, the aspartame, there's so much estrogen in the food, your serotonin level gets screwed up, and don't worry, they've got a toxic drug for you.
+[00:09:00.919 --> 00:09:14.629]  Sure, oh yeah, oh yeah, and it's amazing how they destroy people in large masses, they destroy the mind and the mental functions, and then the physical health, and they get filthy rich in doing it.
+[00:09:15.503 --> 00:09:16.164]  Well, that's it.
+[00:09:16.164 --> 00:09:23.291]  And to use the analogy of the devil, his biggest trick was convincing the world he didn't exist.
+[00:09:23.291 --> 00:09:24.632]  Well, that's what the New World Order did.
+[00:09:24.632 --> 00:09:30.878]  He would have cooked to talk about the New World Order five years ago, but now it's all the big headlines.
+[00:09:30.878 --> 00:09:32.199]  And yes, it is a world government.
+[00:09:32.199 --> 00:09:35.062]  We are part of a world empire.
+[00:09:35.062 --> 00:09:36.543]  So that's one of their other tricks.
+[00:09:36.543 --> 00:09:39.066]  And one of the other systems
+[00:09:40.309 --> 00:09:43.631]  that they use, again, is practicing a lie.
+[00:09:43.631 --> 00:09:52.358]  And so with Patriot Act 2, number one, we have Ashcroft saying, we're not taking your liberties, but you'll lose your liberty because you're with the terrorists if you say this.
+[00:09:52.358 --> 00:10:07.150]  And then, three months ago, he goes before the House and Senate, and I have video clips of this in my new film, Police State 3 Total Enslavement, and he says to the Congressman in the House and the Senate, he says, under questioning, they go, what about this Patriot Act 2?
+[00:10:07.150 --> 00:10:08.631]  We've gotten this copy of it in the House.
+[00:10:09.390 --> 00:10:10.911]  Uh, from your Justice Department.
+[00:10:10.911 --> 00:10:12.631]  Here's a legislative control sheet.
+[00:10:12.631 --> 00:10:14.252]  Absolute fact.
+[00:10:14.252 --> 00:10:15.513]  This is in roll.
+[00:10:15.513 --> 00:10:16.873]  They have this in the Library of Congress.
+[00:10:16.873 --> 00:10:17.953]  Yeah, yeah, yeah.
+[00:10:17.953 --> 00:10:22.775]  And then Ashcroft says, right into the camera, there is no Patriot Act II.
+[00:10:22.775 --> 00:10:25.316]  There is no Second Terror Law.
+[00:10:25.316 --> 00:10:27.857]  He went on to say no Second Terror Law.
+[00:10:27.857 --> 00:10:36.321]  And then I pointed out, and he pointed out, wait a minute, S-22 was introduced even before the House version under Justice Domestic Security Enhancement Act.
+[00:10:36.321 --> 00:10:37.221]  The House version
+[00:10:37.888 --> 00:10:40.250]  Uh, is the Domestic Security Enhancement Act.
+[00:10:40.250 --> 00:10:47.474]  So, these guys are denying now legislation in the Senate case that is introduced.
+[00:10:47.474 --> 00:10:51.556]  And other than your website, my website, and a few others, no one will point out it's in the Senate.
+[00:10:51.556 --> 00:10:52.717]  It's already there, folks.
+[00:10:52.717 --> 00:10:52.837]  Yeah.
+[00:10:52.837 --> 00:10:53.618]  Oh, yeah.
+[00:10:53.618 --> 00:10:56.720]  And so he gives a dozen speeches, hundreds of news articles.
+[00:10:56.720 --> 00:11:00.162]  Got one here from Declan McCullough, one from AP, one from CNS News.
+[00:11:00.162 --> 00:11:05.365]  Ashcroft tells Congress that Patriot Act II is a ghost from IP.
+[00:11:06.178 --> 00:11:07.860]  Whatever that means.
+[00:11:07.860 --> 00:11:11.523]  He went on to say, it is not true, it is made up by our detractors.
+[00:11:11.523 --> 00:11:12.624]  These are his quotes.
+[00:11:12.624 --> 00:11:17.208]  Now, last Thursday, what does he do, Jeff?
+[00:11:17.208 --> 00:11:17.809]  Go ahead.
+[00:11:17.809 --> 00:11:29.379]  He comes out and announces that, oh yes, I want strengthened Patriot Act, I want to expand it, and the exact subsections that are in the Patriot Act too that we have,
+[00:11:30.086 --> 00:11:51.253]  Where they say they want to be able to arrest citizens, anyone else, for any terrorist crime, and execute you, and under the secret provisions, you can be arrested secretly, disappeared, like Nicaragua, El Salvador, Nazi Germany, Skazi Germany, Russia, you know, all the cases we're talking about,
+[00:11:52.040 --> 00:12:00.626]  And here is Ashkov bringing forward the most draconian sections of Patriot Act II and now admitting it and using double think we're supposed to accept this.
+[00:12:00.626 --> 00:12:02.047]  We've never been at war with East Asia.
+[00:12:02.047 --> 00:12:06.250]  We've always been at war with East Asia.
+[00:12:06.250 --> 00:12:08.891]  It's just George Orwell.
+[00:12:08.891 --> 00:12:12.273]  Boy, wouldn't it be fun to get him on the program and talk about this stuff.
+[00:12:12.273 --> 00:12:13.134]  Gee!
+[00:12:13.134 --> 00:12:18.958]  No, when he called for enhancement of the already unconstitutional laws that are on the books,
+[00:12:19.796 --> 00:12:24.338]  I just said, this is so ludicrous, it's almost like science fiction.
+[00:12:24.338 --> 00:12:26.579]  I mean, how can you believe?
+[00:12:26.579 --> 00:12:39.204]  It's just, it's a case of the American public having been browbeaten, and as Alex explained, so stressed out, and I suggest that many of them have just gone into whatever escapism they can.
+[00:12:39.204 --> 00:12:39.944]  They can't take it.
+[00:12:39.944 --> 00:12:44.326]  That's rats in a maze, under pressure, under siege.
+[00:12:44.326 --> 00:12:45.266]  It's the same thing here.
+[00:12:46.093 --> 00:12:47.274]  Alex Jones is my guest.
+[00:12:47.274 --> 00:12:49.477]  His website is InfoWars.com.
+[00:12:49.477 --> 00:12:53.040]  A must destination for you truth seekers out there.
+[00:12:53.040 --> 00:12:55.102]  And we'll be right back with more in just a minute.
+[00:13:29.312 --> 00:13:30.974]  Okay, right back at Alex Jones.
+[00:13:30.974 --> 00:13:39.422]  As far as the lies just continue to pour out of Washington, the weapons of mass destruction scam is coming unglued.
+[00:13:40.394 --> 00:13:43.416]  But who's really doing anything much about it?
+[00:13:43.416 --> 00:13:49.738]  It's sad to see this issue of lying is now pretty much accepted.
+[00:13:49.738 --> 00:13:51.139]  Yeah, there's some squawking about it.
+[00:13:51.139 --> 00:13:58.583]  Hans Blix called the members of the Bush administration involved with the efforts to discredit him personally and so forth.
+[00:13:58.583 --> 00:13:59.843]  Bastards.
+[00:13:59.843 --> 00:14:01.924]  Not exactly normal diplomatic language.
+[00:14:01.924 --> 00:14:03.645]  So people are talking up about it.
+[00:14:03.645 --> 00:14:04.985]  What can be done about it?
+[00:14:04.985 --> 00:14:05.886]  I don't have the answer.
+[00:14:06.761 --> 00:14:12.685]  The lie is now the norm, as much as it ever has been and may ever be.
+[00:14:12.685 --> 00:14:14.367]  I mean, it's just there every day.
+[00:14:14.367 --> 00:14:21.652]  And remember, as I've always said, the biggest lie of all may be the lie of omission, when you don't tell somebody something.
+[00:14:21.652 --> 00:14:24.774]  That's a lie, too.
+[00:14:24.774 --> 00:14:25.695]  Alex?
+[00:14:25.695 --> 00:14:27.176]  Yes, Jeff.
+[00:14:27.176 --> 00:14:28.057]  You're absolutely right.
+[00:14:28.057 --> 00:14:30.499]  That is the big lie of omission.
+[00:14:30.499 --> 00:14:31.940]  That's one of their favorite tactics.
+[00:14:31.940 --> 00:14:33.141]  People ask, how does this work?
+[00:14:34.093 --> 00:14:41.975]  The globalists hire editors that hire like-minded journalists that don't ask questions and just basically are cheerleaders for whatever line.
+[00:14:41.975 --> 00:14:48.577]  Marionettes, puppets, just lapdog... Well, how about if we call them prostitutes?
+[00:14:48.577 --> 00:14:58.000]  Well, there was a former editor of the New York Times back in 53 who talked about how they were intellectual prostitutes and jumping jacks of rich men that they weren't even their own.
+[00:14:58.000 --> 00:14:59.721]  Well, it's worse now.
+[00:14:59.721 --> 00:15:03.162]  And we don't want to not talk about Michael...
+[00:15:04.242 --> 00:15:06.823]  Powell and the FCC.
+[00:15:06.823 --> 00:15:09.804]  What a great favor they've just done for this nation.
+[00:15:09.804 --> 00:15:15.706]  By increasing the percentage of stations in any given city market that a corporation could own.
+[00:15:15.706 --> 00:15:17.666]  It went to, I guess, 45.
+[00:15:17.666 --> 00:15:21.088]  You know that Michael Powell wanted to take the limit, the cap off entirely.
+[00:15:21.088 --> 00:15:23.188]  That was his thing.
+[00:15:23.188 --> 00:15:30.051]  For those that don't know, in a general market, say like Austin, Texas, and then, so we're radio guys, we know this, there aren't 45 stations.
+[00:15:32.420 --> 00:15:43.604]  And when they had the cap at, what, seven for a middle-sized city and ten for a larger city, already two or three conglomerates would own all the major stations.
+[00:15:43.604 --> 00:15:48.026]  And now they can gobble up whatever's left, and people say, well, that's the free market.
+[00:15:48.026 --> 00:15:49.347]  No, it's not the free market.
+[00:15:49.347 --> 00:15:51.327]  It's antithetical to the free market, friends.
+[00:15:51.327 --> 00:15:54.028]  It used to be called antitrust.
+[00:15:54.028 --> 00:15:55.269]  Well, that's it.
+[00:15:55.269 --> 00:15:58.270]  And also, the way the FCC operates,
+[00:15:59.020 --> 00:16:06.642]  With these big boys, they give them a green light on every issue, but the small mom-and-pop stations bring people alternative views and news.
+[00:16:06.642 --> 00:16:10.303]  It's the Walmart-ization of broadcasting.
+[00:16:10.303 --> 00:16:14.884]  All the small shops and hometown businesses are being run out.
+[00:16:14.884 --> 00:16:16.965]  The independent stations are being run out.
+[00:16:16.965 --> 00:16:19.066]  And if they're not being run out, they're being bought out.
+[00:16:19.066 --> 00:16:21.766]  And let's face it, most everyone has a price.
+[00:16:21.766 --> 00:16:22.326]  Right?
+[00:16:22.326 --> 00:16:22.947]  Okay.
+[00:16:22.947 --> 00:16:25.247]  Your station's worth half a million dollars.
+[00:16:25.247 --> 00:16:26.007]  Meh.
+[00:16:26.007 --> 00:16:28.168]  Clear Channel comes in and says, we'll give you five million.
+[00:16:28.769 --> 00:16:30.130]  Well, that's conservative.
+[00:16:30.130 --> 00:16:30.751]  Well, that's right.
+[00:16:30.751 --> 00:16:31.472]  What are you going to do?
+[00:16:31.472 --> 00:16:36.076]  These stations are leveraged so high now, financially in many cases, it's absurd.
+[00:16:36.076 --> 00:16:38.739]  Well, I've talked to... Well, you're right.
+[00:16:38.739 --> 00:16:47.508]  And I've talked to station owners, as I know you probably have, and what some of the big conglomerates will do is they'll also come into town and sell ads for a dollar a spot.
+[00:16:48.885 --> 00:16:59.614]  For a year or two until everybody stupidly runs over to the Walmart of broadcasting and buys that and as soon as the other people run out of business, it's $100 a spot on a local station.
+[00:16:59.614 --> 00:17:01.015]  Sure, sure.
+[00:17:01.015 --> 00:17:05.639]  So it's massive consolidation and people don't understand what consolidation means.
+[00:17:05.639 --> 00:17:08.842]  Let me give you an example using Walmart.
+[00:17:08.842 --> 00:17:10.243]  I know you've covered RFID
+[00:17:14.806 --> 00:17:23.510]  Some woman wrote me the other day and said that she found RFID in her, she bought some underwear and they were actually, it was in the shorts.
+[00:17:23.510 --> 00:17:24.970]  Well, they've announced it.
+[00:17:24.970 --> 00:17:29.672]  USA Today about a year ago said, oh yeah, Walmart, half their products by 2003 will have it.
+[00:17:29.672 --> 00:17:31.653]  By 2004, all of them will have it.
+[00:17:31.653 --> 00:17:32.494]  But what does this do?
+[00:17:32.494 --> 00:17:38.656]  There was an article a couple of days ago in CNET News and they said, Walmart gets behind RFID.
+[00:17:41.024 --> 00:17:44.505]  What that does is they already have 33% of the total retail market.
+[00:17:44.505 --> 00:17:52.989]  So they tell manufacturers, if you want to sell to us, you've got to have this radio frequency tracking system that the Pentagon happened to develop in the 80s.
+[00:17:52.989 --> 00:17:58.631]  Now it's down to smaller than a grain of sand, washable, trackable by cell power, and other radio reader systems.
+[00:17:58.631 --> 00:18:09.075]  They say, if you want to sell your products here, you've got to have RFID embedded in it, and then that will make the entire industry of manufacturing of every good
+[00:18:09.901 --> 00:18:11.742]  Uh, implant that in their products.
+[00:18:11.742 --> 00:18:16.003]  And Wal-Mart up front said, we want the clothes first.
+[00:18:16.003 --> 00:18:26.906]  And it's funny you mentioned, uh, Wal-Mart because, Jeff, I have internal documents I just got, uh, last Thursday from inside Wal-Mart, uh, up there in, uh, Arkansas.
+[00:18:26.906 --> 00:18:28.746]  And, uh, they're hooked in with the federal government.
+[00:18:28.746 --> 00:18:29.626]  Everybody with this.
+[00:18:29.626 --> 00:18:33.027]  They've got a big computer system, literally in a bunker.
+[00:18:33.027 --> 00:18:35.988]  Uh, and it's hooked into a national grid.
+[00:18:35.988 --> 00:18:39.129]  And this is all part of this larger total information awareness network.
+[00:18:40.226 --> 00:18:41.587]  Amazing.
+[00:18:41.587 --> 00:18:44.407]  Well, 33% of the market now.
+[00:18:44.407 --> 00:18:45.768]  Yes.
+[00:18:45.768 --> 00:18:47.068]  And pop stores are gone.
+[00:18:47.068 --> 00:18:54.631]  You drive a light, you post it in small towns, and you got a Walmart on your periphery, you notice your downtown is dead or dying.
+[00:18:54.631 --> 00:18:56.792]  It's been a total makeover of America.
+[00:18:56.792 --> 00:18:57.592]  It's tragic.
+[00:18:57.592 --> 00:18:57.872]  Sad.
+[00:18:58.959 --> 00:19:00.060]  This is incredible.
+[00:19:00.060 --> 00:19:01.201]  Alex Jones is my guest.
+[00:19:01.201 --> 00:19:03.123]  We have to pause here at the bottom of the hour.
+[00:19:03.123 --> 00:19:03.843]  We'll come right back.
+[00:19:03.843 --> 00:19:05.384]  There's more lots to talk about with Alex.
+[00:19:05.384 --> 00:19:06.665]  We could go on for hours.
+[00:19:06.665 --> 00:19:12.210]  His website, Infowars.com, has full information about his radio programs when they're on and so forth.
+[00:19:12.210 --> 00:19:13.891]  I urge you to tune in.
+[00:19:13.891 --> 00:19:18.155]  And remember, agree or disagree with me or my guests over the months and over the years.
+[00:19:18.155 --> 00:19:20.197]  The idea is to participate, to think.
+[00:19:20.197 --> 00:19:21.518]  Make your own decision.
+[00:19:22.409 --> 00:19:28.697]  We're trying to wake up America to bring back thoughts and logical deductions.
+[00:19:49.670 --> 00:19:58.315]  So I've been talking to our friend Alex Jones about all sorts of things that are impacting you right now, whether you realize it or not.
+[00:19:58.315 --> 00:20:00.377]  And things are only going to get worse.
+[00:20:00.377 --> 00:20:07.161]  What they do is they'll move ahead four steps and they might be forced to retreat one.
+[00:20:07.161 --> 00:20:09.402]  Net gain, three steps.
+[00:20:09.402 --> 00:20:13.285]  And believe me, they're way ahead of us on this game of how to manipulate the public.
+[00:20:13.285 --> 00:20:16.547]  The desensitization is being masterfully played out.
+[00:20:17.505 --> 00:20:22.768]  You look at the top of Infowars.com, you've got the RFID story right there.
+[00:20:22.768 --> 00:20:24.549]  It's booming.
+[00:20:24.549 --> 00:20:30.012]  There's a call for smallpox vaccine now to be given to protect against monkeypox.
+[00:20:30.012 --> 00:20:32.653]  There's another talk about monkey business.
+[00:20:32.653 --> 00:20:34.354]  That just conveniently showed up.
+[00:20:34.354 --> 00:20:35.395]  Never had a case of it.
+[00:20:36.389 --> 00:20:40.673]  In the Western Hemisphere, and then just right on time, no one would take a smallpox shot.
+[00:20:40.673 --> 00:20:43.355]  Well, you see, now that's easier to sell than smallpox.
+[00:20:43.355 --> 00:20:45.117]  You don't have to deal with the mass panic.
+[00:20:45.117 --> 00:20:48.199]  You can control the panic easier with monkeypox.
+[00:20:48.199 --> 00:20:49.140]  Well, we have U.S.
+[00:20:49.140 --> 00:20:53.484]  government plans, like Northwood's, what they call preparing out terror as a pretext.
+[00:20:53.484 --> 00:20:55.465]  Well, that was in the 1960s, friends.
+[00:20:55.465 --> 00:20:59.809]  Tell our listeners a little bit about Operation Northwood, because many people don't know.
+[00:21:00.476 --> 00:21:02.737]  This is just one of thousands of points we could cover.
+[00:21:02.737 --> 00:21:04.578]  You're right, we could just talk for hours.
+[00:21:04.578 --> 00:21:08.400]  I get a lot of these articles that you guys grab from all over the place.
+[00:21:08.400 --> 00:21:09.360]  They're at Rents.com.
+[00:21:09.360 --> 00:21:11.481]  It's just an incredible resource for me.
+[00:21:11.481 --> 00:21:19.865]  The Northwoods plan first got broken by James Bamford, former 2020 executive, produced ABC Nightly News.
+[00:21:19.865 --> 00:21:20.845]  He's retired.
+[00:21:20.845 --> 00:21:26.088]  He was searching around the National Archives in late 2000, found a declassified Northwoods plan.
+[00:21:26.860 --> 00:21:31.422]  When he brought it forward, it was then put into the National Security Archives.
+[00:21:31.422 --> 00:21:33.764]  It's available at the Library of Congress.
+[00:21:33.764 --> 00:21:37.946]  We have a link, editfulwars.com, to the National Security Archives Library of Congress.
+[00:21:37.946 --> 00:21:39.947]  This is a real document.
+[00:21:39.947 --> 00:21:47.171]  The first major news story about it, after Bamford discovered it, was in the Baltimore Sun, May 24, 2001.
+[00:21:47.171 --> 00:21:49.352]  This was right before 9-1-1.
+[00:21:49.352 --> 00:21:52.113]  And they say it was accidentally deglassified.
+[00:21:52.113 --> 00:21:53.114]  I believe somebody leaked it.
+[00:21:53.775 --> 00:21:56.576]  And pointed out to Bamford because they wanted to warn us about September 11th.
+[00:21:56.576 --> 00:21:59.016]  Yeah, there is an interesting little sidebar here.
+[00:21:59.016 --> 00:22:04.838]  There are some really great heroic people on the inside who still have conscience and morality.
+[00:22:04.838 --> 00:22:05.058]  Go ahead.
+[00:22:05.058 --> 00:22:08.139]  And if it wasn't for them, we'd already be down the tubes completely.
+[00:22:08.139 --> 00:22:11.720]  And people say, well, it's so bad, why don't we just give up?
+[00:22:11.720 --> 00:22:12.560]  You can't, folks.
+[00:22:12.560 --> 00:22:13.981]  The rebels aren't going to stop.
+[00:22:13.981 --> 00:22:19.162]  But then ABC News reported on May 1st, 2001, a headline, U.S.
+[00:22:19.162 --> 00:22:22.823]  government planned terror attacks to get Americans
+[00:22:24.259 --> 00:22:27.181]  In fact, I've actually got the news article reprinted in my book.
+[00:22:27.181 --> 00:22:29.323]  Let me just... I don't want to paraphrase it.
+[00:22:29.323 --> 00:22:30.424]  This is taking two seconds.
+[00:22:30.424 --> 00:22:31.244]  I want to read these.
+[00:22:31.244 --> 00:22:32.085]  Here it is.
+[00:22:32.085 --> 00:22:33.146]  This is a big deal.
+[00:22:33.146 --> 00:22:34.948]  This is just amazing.
+[00:22:34.948 --> 00:22:35.428]  Go ahead.
+[00:22:35.428 --> 00:22:35.908]  Here it is.
+[00:22:35.908 --> 00:22:36.209]  U.S.
+[00:22:36.209 --> 00:22:38.931]  terror plan called Cuban invasion pretext.
+[00:22:38.931 --> 00:22:40.392]  That's Baltimore Sun.
+[00:22:40.392 --> 00:22:40.612]  U.S.
+[00:22:40.612 --> 00:22:47.098]  military leaders propose in 62 a secret plan to commit terrorist acts against Americans in Blank Cuba to create a pretext for invasion.
+[00:22:47.956 --> 00:22:53.540]  And it goes on in the plan to call for hijacking jet airliners by remote control.
+[00:22:53.540 --> 00:22:57.584]  They said, preferably full of young people, high school or college students.
+[00:22:57.584 --> 00:23:01.026]  It actually says this, because Americans get mad when kids die.
+[00:23:01.026 --> 00:23:03.668]  They said we need to bomb D.C.
+[00:23:03.668 --> 00:23:05.890]  and commit sniper attacks in D.C.
+[00:23:05.890 --> 00:23:10.233]  And on page 9 it says how they're going to frame the Patsy's.
+[00:23:10.233 --> 00:23:11.094]  I'm not kidding, folks.
+[00:23:11.094 --> 00:23:12.495]  1960 what again?
+[00:23:12.495 --> 00:23:12.655]  Yes, 1962.
+[00:23:17.014 --> 00:23:26.999]  And this got green-lighted all the way up, authorized, signed off on, Joint Chiefs of Staff, the Chairman, Defense Secretary, and Kennedy said, no way, he's been a hawk.
+[00:23:26.999 --> 00:23:31.381]  At that point he said, we're getting out of Vietnam, no more CIA, I'm abolishing the Federal Reserve.
+[00:23:32.202 --> 00:23:35.323]  He gave speeches about an evil group that was taking over.
+[00:23:35.323 --> 00:23:37.204]  This freaked Kennedy out so bad.
+[00:23:37.204 --> 00:23:44.926]  By the way, it finally got mentioned this year on Frontline of all places that, quote, Northwoods upset Kennedy and started him on this crusade.
+[00:23:44.926 --> 00:23:47.147]  They didn't say what was in Northwoods.
+[00:23:47.147 --> 00:23:53.549]  Well, he was very much aware of Eisenhower's warning, and when he got to see it for himself, he must have just flipped out.
+[00:23:53.549 --> 00:23:58.871]  Well, that's very astute, Jeff, because that's actually who first rejected it was Eisenhower in 1959.
+[00:24:01.331 --> 00:24:06.012]  And they just brought it back in 62 to Kennedy, and he flipped out as any normal person would.
+[00:24:06.012 --> 00:24:15.815]  He wasn't a perfect guy, but he was a human being, had a soul left, and said, I'm not going to kill American college or high school students and radio-controlled, high-tech jet airliners.
+[00:24:15.815 --> 00:24:18.076]  They describe how to do it in there.
+[00:24:18.076 --> 00:24:20.497]  And so we see this happening.
+[00:24:20.497 --> 00:24:21.877]  They talk about blowing up a U.S.
+[00:24:21.877 --> 00:24:27.819]  military ship, and then blaming it on their enemies, which they then did in 67, with the USS Liberty, to be blamed on the Egyptians.
+[00:24:31.275 --> 00:24:50.188]  But the captain kept the ship up, and under torpedo attack and aircraft attack for hours, scraping in the water, and the ship had thousands of holes in it, a giant torpedo hole, and they were trying to sink that ship, and it turned out that was being run from the Pentagon with Israel doing the attacking for them.
+[00:24:50.188 --> 00:24:51.649]  This is confirmed stuff, folks.
+[00:24:54.241 --> 00:24:55.482]  Operation Northwoods.
+[00:24:55.482 --> 00:24:57.664]  Now, that was 40 years ago.
+[00:24:57.664 --> 00:24:59.946]  I want you to keep that in mind.
+[00:24:59.946 --> 00:25:01.667]  40 years ago.
+[00:25:01.667 --> 00:25:02.448]  Where have we come?
+[00:25:02.448 --> 00:25:05.330]  Technologically?
+[00:25:05.330 --> 00:25:08.173]  With the infrastructure now to pull these kinds of operations off?
+[00:25:09.114 --> 00:25:11.116]  Light years ahead of those days.
+[00:25:11.116 --> 00:25:12.216]  Light years?
+[00:25:12.216 --> 00:25:12.797]  Yeah.
+[00:25:12.797 --> 00:25:29.109]  And the CIA bragged at that time, I'm not sure if it was in Northwoods or it was an adjunct to it, that, forget who, the CIA bragged that they could put any headline they wanted in any major American news media any time of the day or night that they wanted.
+[00:25:29.109 --> 00:25:33.712]  And that came out in Senate hearings in the 70s, Project Mockingbird.
+[00:25:33.712 --> 00:25:36.734]  They absolutely had it penetrated in the 1960s.
+[00:25:36.734 --> 00:25:37.675]  Where are we today?
+[00:25:38.155 --> 00:25:39.556]  Come on, gang!
+[00:25:39.556 --> 00:25:42.938]  Well, Jeff, you know, you mentioned RFID earlier in Walmart.
+[00:25:42.938 --> 00:25:47.921]  People said, well, what does it matter if there's small chips the size of a grain of sand woven into my clothes?
+[00:25:47.921 --> 00:25:49.722]  This is already happening.
+[00:25:49.722 --> 00:25:51.423]  It's in the new money.
+[00:25:51.423 --> 00:25:52.984]  It's in everything.
+[00:25:52.984 --> 00:25:54.885]  And how does this affect you?
+[00:25:54.885 --> 00:26:06.732]  Well, the San Macho Times on Monday reported, and this is incrementalism, that before they said, you have to have an RFID tracker chip in your car to use the Golden Gate toll road or any of the other toll roads.
+[00:26:07.307 --> 00:26:09.532]  Now they announced it's the law.
+[00:26:09.532 --> 00:26:13.560]  Any of the automobile owners in the Bay Area have to have
+[00:26:13.996 --> 00:26:26.523]  This tracking switch by law, and they set up radio readers on the roads, and yes, they're going to track what you do, but it's for your safety, and Jeff, they're also going to go ahead and tax you.
+[00:26:26.523 --> 00:26:33.967]  The whole city and surrounding areas will now turn into a giant toll road, and this is out of BNU Net News, UK Technology News.
+[00:26:33.967 --> 00:26:38.489]  Today, government moles GPS-based car tax plan
+[00:26:39.321 --> 00:26:46.023]  And it says that they're already going to do it in London, and now they want to do it to the country's entire 24 million cars, and you're going to be taxed to drive.
+[00:26:46.023 --> 00:26:56.106]  So, see how... Folks, Big Brother is also about taxation, not just tracking and pricing.
+[00:26:56.106 --> 00:26:58.426]  Taxation is control, too.
+[00:26:58.426 --> 00:26:59.567]  People need to remember that.
+[00:26:59.567 --> 00:27:04.608]  With half of America working, what is it, almost seven months of the year now?
+[00:27:04.608 --> 00:27:07.249]  Give their money, all of it, to the government before they get to keep any?
+[00:27:09.053 --> 00:27:15.391]  That's why the value-added tax, the national flat tax, will be an easy sell to most Americans.
+[00:27:15.391 --> 00:27:16.975]  And then watch what happens after that.
+[00:27:17.515 --> 00:27:20.757]  Remember, I think they're going to sacrifice the IRS at some point.
+[00:27:20.757 --> 00:27:25.500]  They'll just pull it up and say it's terrible, it's draconian, it's out of date.
+[00:27:25.500 --> 00:27:27.322]  Jeff, we've got their plan.
+[00:27:27.322 --> 00:27:28.042]  I know, I know.
+[00:27:28.042 --> 00:27:28.723]  We've got their plan.
+[00:27:28.723 --> 00:27:32.985]  They're going to lower the income tax, give us the value-add, and then jack them both up.
+[00:27:32.985 --> 00:27:33.586]  Yep.
+[00:27:33.586 --> 00:27:38.069]  Well, see, they can't give up that mortgage, that tax credit on mortgages.
+[00:27:38.069 --> 00:27:41.251]  There are certain sacred cows that are going to have to stay around.
+[00:27:41.251 --> 00:27:47.295]  But it's all coming, and we'll be right back with more with Alex Jones in just a minute.
+[00:27:48.604 --> 00:27:49.088]  Yeah.
+[00:28:25.991 --> 00:28:30.753]  Okay, and we're back with Alex Jones.
+[00:28:30.753 --> 00:28:37.596]  The issue of social engineering, penetration of our culture to the extent that almost anything can be manipulated at any time
+[00:28:37.916 --> 00:28:46.760]  It certainly is one of the primary tools of America's imperialist foreign policy and is being used right now, I would suggest, with maximum effort in Iran.
+[00:28:46.760 --> 00:28:50.041]  And we're seeing the beginning of destabilizations over there.
+[00:28:50.041 --> 00:28:57.164]  Alex, this is played around the world, this game of manipulation and obfuscation of reality.
+[00:28:57.164 --> 00:29:02.346]  Well, PNAC, Project for an American Century, I mean, this is the criminal's own confession.
+[00:29:02.346 --> 00:29:03.347]  And there's the blueprint.
+[00:29:03.347 --> 00:29:04.987]  I mean, they confessed before the crime.
+[00:29:06.835 --> 00:29:12.158]  Cheney, Jeff, they write this up on their own website years before the election.
+[00:29:12.158 --> 00:29:20.502]  They say, we quote, need a terrorist attack, this is a quote, the size of Pearl Harbor or larger to get the people behind Empire.
+[00:29:20.502 --> 00:29:26.885]  Brzezinski, founder of the Trilateral Commission with David Rockefeller, says the same thing in 97 in his book.
+[00:29:26.885 --> 00:29:30.907]  All of this happening and they have 62 countries on the hit list.
+[00:29:30.907 --> 00:29:32.548]  Well, they've gotten two of them.
+[00:29:33.332 --> 00:29:37.635]  Now it's Iran, Syria, North Korea, and Kim Jong-il is an evil demon.
+[00:29:37.635 --> 00:29:45.740]  Well, then why did Rumsfeld give him two nuclear reactors that the AP and the Federation of American Scientists reported can produce 100 nuclear warheads a year?
+[00:29:45.740 --> 00:29:58.468]  They're giving him the weapon to make him the threat, and then Rumsfeld leaks two months ago the battle plan to attack him as early as this October, and now Kim Jong-il is doing overflights, threatening people, massing troops.
+[00:29:58.468 --> 00:29:59.809]  Our government's massing troops.
+[00:30:00.981 --> 00:30:04.805]  It's like the 10-part plan they had to get the Japanese to attack us.
+[00:30:04.805 --> 00:30:19.857]  They're out of this global escalation, order out of chaos, and Jeff, I've seen the IMF World Bank documents on America, on Latin America, on Africa, and what they have said is, the bankers have said that on our Federal Reserve, you're bankrupt, U.S.
+[00:30:19.857 --> 00:30:20.597]  government.
+[00:30:20.597 --> 00:30:24.220]  We'll keep you in power, but you've got to take over all these sovereign nations.
+[00:30:24.220 --> 00:30:25.862]  You've got to take the blame for it.
+[00:30:25.862 --> 00:30:30.025]  You've got to be seen as the bad guy worldwide and sacrifice the image of America and freedom
+[00:30:30.649 --> 00:30:40.572]  We're going to play the part of the bad cop in the New World Order, and take all this oil and these populations as collateral, as new collateral on the debt, because we're already bankrupt.
+[00:30:40.572 --> 00:30:50.034]  Now that's what the IMF and World Bank are doing, while the UN and Europe act like they're not for this, they're actually the owners of this government now.
+[00:30:50.034 --> 00:30:52.715]  And people can hear the frustration in my voice, and they can hear it in your voice,
+[00:30:53.206 --> 00:30:59.052]  There's so much evidence, so many facets, so much proof on this, so much police state.
+[00:30:59.052 --> 00:31:02.776]  And understand, you're not going to be part of some glorious empire yourselves.
+[00:31:02.776 --> 00:31:07.481]  You're going to be the most enslaved people there are here in the United States.
+[00:31:07.481 --> 00:31:12.206]  And I know this is scary, but the good news is, whether you're black, white, old, young, Christian, Muslim,
+[00:31:12.637 --> 00:31:13.758]  It doesn't matter.
+[00:31:13.758 --> 00:31:20.522]  If you love freedom, you can stand up, speak the truth, speak out against what's happening, this evil that's happening.
+[00:31:20.522 --> 00:31:27.907]  But if you don't do it, you're going to deliver not just your children, you're not going to have to wait, but yourself to a living hell on earth.
+[00:31:27.907 --> 00:31:29.308]  And I mean it, folks.
+[00:31:29.308 --> 00:31:31.750]  I read the Globalist Policy Reports, and that's why
+[00:31:32.350 --> 00:31:33.672]  You can hear the earnest in my voice.
+[00:31:33.672 --> 00:31:34.914]  I'm almost frantic.
+[00:31:34.914 --> 00:31:39.242]  Because it's like knowing your next door neighbor is a serial killer and the cops aren't listening to you.
+[00:31:39.242 --> 00:31:40.924]  Oh, it's a frightening scenario.
+[00:31:40.924 --> 00:31:42.226]  It's true.
+[00:31:42.226 --> 00:31:44.811]  This guy isn't following friends.
+[00:31:44.811 --> 00:31:45.432]  This is real.
+[00:31:46.468 --> 00:31:48.689]  And Alex is 100% correct.
+[00:31:48.689 --> 00:31:51.770]  Again, agree or disagree, you've got to think about this.
+[00:31:51.770 --> 00:31:57.312]  And the more you think about it, if you're honest about it, you're going to see that you need to do a little bit of research.
+[00:31:57.312 --> 00:31:59.733]  We make it as easy for you as we can, don't we, Alex?
+[00:31:59.733 --> 00:32:01.574]  We put it right there on the website.
+[00:32:01.574 --> 00:32:04.175]  All you guys have to do, and gals, is just read it.
+[00:32:04.175 --> 00:32:09.177]  It takes me, Jeff, three hours to read my own website, InfoWars.com.
+[00:32:09.901 --> 00:32:23.691]  Rents.com, and I'm not just saying this because I'm on your show, I mean I really do respect you and the work you do and the courage you have with one of the biggest shows in the country, telling the truth, putting it on the line, being attacked by the national media, just for standing up for humanity.
+[00:32:24.301 --> 00:32:26.904]  And I mean, RISC.com is a lexicon.
+[00:32:26.904 --> 00:32:38.535]  It is the central research point of all the websites I've seen for the full spectrum of how they're attacking us and solutions to fight back and to just asking questions.
+[00:32:38.535 --> 00:32:41.138]  You know, we don't have all the answers, but we ask the questions.
+[00:32:41.138 --> 00:32:44.221]  But on the police state and the New World Order, we know what's happening.
+[00:32:44.221 --> 00:32:45.002]  Then there's the subject
+[00:32:45.342 --> 00:32:50.044]  Of all the suppressed technologies the globalists have, what's the brass ring they're reaching for?
+[00:32:50.044 --> 00:32:51.885]  Bill Joy and others have said it.
+[00:32:51.885 --> 00:32:57.968]  The elite don't want us to have access to the life extension technologies, to the advanced energy systems.
+[00:32:57.968 --> 00:32:59.929]  They've got to suppress that now.
+[00:32:59.929 --> 00:33:03.451]  They've got to have a new world order to maintain their monopoly.
+[00:33:03.451 --> 00:33:06.472]  And they're a bunch of sadistic control freaks that must be resisted.
+[00:33:06.472 --> 00:33:09.634]  And that's why shows like yours are so important.
+[00:33:09.634 --> 00:33:13.776]  I hope listeners tell 10 people a day about Rents.com and about your broadcast.
+[00:33:14.478 --> 00:33:21.120]  Because it's one of the biggest lights in this fight, shining a spotlight on these cockroaches.
+[00:33:21.120 --> 00:33:25.182]  Well, that's not kind of the cockroaches, these demonic creatures.
+[00:33:25.182 --> 00:33:30.904]  And I also hope listeners will get my documentary films, because I authorize people to make copies of them.
+[00:33:31.468 --> 00:33:32.470]  Who else does that?
+[00:33:32.470 --> 00:33:32.990]  Nobody.
+[00:33:32.990 --> 00:33:34.192]  No, this is amazing.
+[00:33:34.192 --> 00:33:41.363]  There's so many people who actually appropriate news from various sources, put it up on their website, and they try to charge people to access it.
+[00:33:41.363 --> 00:33:44.547]  I mean, it just goes against the grain of everything I believe in.
+[00:33:46.790 --> 00:33:48.792]  I don't make money on my website.
+[00:33:48.792 --> 00:33:49.953]  I never have.
+[00:33:49.953 --> 00:33:52.374]  And people who know me and know my business know I don't.
+[00:33:52.374 --> 00:33:54.776]  That website does not turn a profit for me.
+[00:33:54.776 --> 00:33:55.817]  That website is up there.
+[00:33:55.817 --> 00:33:58.099]  I am honored to be able to do it.
+[00:33:58.099 --> 00:33:59.400]  Alex would do the same thing.
+[00:33:59.400 --> 00:34:01.201]  It's the right thing to do.
+[00:34:01.201 --> 00:34:03.403]  Well, man, I know this because you can see the ranking.
+[00:34:03.403 --> 00:34:07.486]  Your site is in the point, you know, 5%, very top.
+[00:34:07.486 --> 00:34:11.129]  And it's probably about 80 times, 100 times bigger than mine.
+[00:34:11.129 --> 00:34:13.150]  My website gets millions of hits a month.
+[00:34:13.150 --> 00:34:14.171]  Yours gets tens of billions.
+[00:34:14.870 --> 00:34:27.600]  And I have outrageous bandwidth costs, but it is worth it, and people need to support it, because we are in a fight for humanity and the very future of civilization.
+[00:34:27.600 --> 00:34:35.166]  And folks, that's the bottom line truth on this, and if you don't get involved in this fight for humanity, you're going to wish you did.
+[00:34:35.166 --> 00:34:38.429]  And you mentioned the economy in one of your ads.
+[00:34:39.491 --> 00:34:46.177]  Monday, Wall Street Journal, the top CEOs across the board are dumping their stock during this rally.
+[00:34:46.177 --> 00:34:51.301]  Today, CNN Money reports that 100,000 people are no longer millionaires.
+[00:34:51.301 --> 00:34:56.565]  That's the middle class, folks, believe it or not, compared to the trillionaires, the billionaires, people that control the system.
+[00:34:56.565 --> 00:34:58.067]  Believe me, Bill Gates isn't the richest man in the world.
+[00:34:58.067 --> 00:35:00.329]  He's a pauper compared to the real money.
+[00:35:00.329 --> 00:35:04.092]  They are imploding, but they said that Europe got wealthier
+[00:35:04.762 --> 00:35:16.034]  America and Japan and others got poorer, so we're being sucked dry by the mothership, you could say, the globalists firmly ensconced in Europe, controlling New York.
+[00:35:16.034 --> 00:35:16.174]  Yeah.
+[00:35:16.778 --> 00:35:17.818]  Oh, yeah.
+[00:35:17.818 --> 00:35:20.119]  Yeah, you mentioned something a moment ago.
+[00:35:20.119 --> 00:35:21.719]  Gates is a pauper.
+[00:35:21.719 --> 00:35:24.380]  Maybe not a pauper, but the point was well taken.
+[00:35:24.380 --> 00:35:27.081]  What Americans and most... In comparison.
+[00:35:27.081 --> 00:35:43.766]  Yes, what people don't understand is that there is a money game going on that virtually never makes the media, any media, that is so wealthy and so huge, the numbers are astronomical, and the games that are played... Well, every day there's trillions of dollars just in currency markets.
+[00:35:43.766 --> 00:35:44.186]  That's right.
+[00:35:45.206 --> 00:35:46.127]  And they control it.
+[00:35:46.127 --> 00:35:51.450]  Almost every head of the New York Stock Exchange has been a CIA director or a deputy director.
+[00:35:51.450 --> 00:35:51.810]  Yeah.
+[00:35:51.810 --> 00:35:53.111]  It's totally staged.
+[00:35:53.111 --> 00:35:53.632]  That's right.
+[00:35:53.632 --> 00:35:54.312]  Oh, sure.
+[00:35:54.312 --> 00:36:00.976]  And talking about staging and manipulation in this direction, look what they're doing to... I'm not a big Martha Stewart fan, but come on, gang.
+[00:36:00.976 --> 00:36:07.801]  She's a one-inch silver minnow compared to a great white medaglodon prehistoric shark that's 60 feet long.
+[00:36:08.693 --> 00:36:10.714]  I mean, they're going at it with some little petty person.
+[00:36:19.406 --> 00:36:21.548]  The splash screen at Rents.com.
+[00:36:21.548 --> 00:36:23.249]  I love that picture.
+[00:36:23.249 --> 00:36:26.952]  Yeah, well, you see how I tweaked the title of the book around a little bit.
+[00:36:26.952 --> 00:36:28.253]  Not Living History.
+[00:36:28.253 --> 00:36:30.795]  Well, they're also positioning her for the presidential run.
+[00:36:30.795 --> 00:36:32.156]  Oh, she's not with Clinton.
+[00:36:32.156 --> 00:36:36.139]  And they're positioning... Did you know Clinton already has six of the eight G.A.
+[00:36:36.139 --> 00:36:39.322]  signing off for him as the next Secretary General?
+[00:36:39.322 --> 00:36:40.463]  This could be within two years.
+[00:36:40.463 --> 00:36:41.544]  Can you imagine?
+[00:36:41.544 --> 00:36:42.764]  I knew he was in line for that.
+[00:36:42.764 --> 00:36:44.706]  I didn't know that six of eight had already signed off.
+[00:36:44.706 --> 00:36:45.347]  Yeah, that was the...
+[00:36:46.331 --> 00:36:48.032]  That was the Cincinnati newspaper.
+[00:36:48.032 --> 00:36:49.312]  Can you imagine that?
+[00:36:49.312 --> 00:36:52.833]  Bill Clinton, the Secretary General of a revitalized United Nations.
+[00:36:52.833 --> 00:36:55.194]  And George Bush in his second term.
+[00:36:55.194 --> 00:37:00.595]  And then double-teaming us with the false left-right paradigm, the misdirection you just handled.
+[00:37:00.595 --> 00:37:06.677]  That whole phony bit of the two-party system in this country has got to be laid to rest.
+[00:37:06.677 --> 00:37:08.277]  It's not a two-party system.
+[00:37:08.277 --> 00:37:10.138]  It hasn't been a two-party system.
+[00:37:10.138 --> 00:37:13.679]  Well, from committee chairman level and above, and I've really studied this, and I know you have too,
+[00:37:14.682 --> 00:37:18.125]  They argue on transitory theatrical issues.
+[00:37:18.125 --> 00:37:18.626]  It's theater.
+[00:37:18.626 --> 00:37:24.752]  But on real issues, there is no difference.
+[00:37:24.752 --> 00:37:30.798]  Maybe just that Bush is able to get more through because conservatives go to sleep with his Trojan horse in our midst.
+[00:37:34.427 --> 00:37:37.753]  Look, have you ever been on a train, friends?
+[00:37:37.753 --> 00:37:44.726]  All the Democrats, all the Republicans are in the same train car, they're just sitting in different seats, but they're on the same track, going to the same basic location.
+[00:37:45.089 --> 00:37:45.990]  Well, that's it.
+[00:37:45.990 --> 00:37:47.271]  The Democrats are the left rail.
+[00:37:47.271 --> 00:37:49.372]  Republicans are the right rail.
+[00:37:49.372 --> 00:37:52.354]  And a hundred years ago, we talked about liberty versus tyranny.
+[00:37:52.354 --> 00:37:53.755]  How to get away from slavery.
+[00:37:53.755 --> 00:37:54.656]  People understood.
+[00:37:54.656 --> 00:37:58.578]  But now it's all this left-right discussion on petty issues.
+[00:37:58.578 --> 00:38:00.099]  Again, garbage in, garbage out.
+[00:38:00.099 --> 00:38:10.767]  They write the maps of the mind where people can't even come to real decisions or be able to even question to make the decisions because the whole paradigm is a smokescreen.
+[00:38:12.927 --> 00:38:16.029]  It has been for decades and decades and decades.
+[00:38:16.029 --> 00:38:21.112]  And as we watch the show, it is theater.
+[00:38:21.112 --> 00:38:24.313]  There are a few people standing up and trying to make a difference.
+[00:38:24.313 --> 00:38:30.777]  I think Senator Byrd has said some things that are notable and noteworthy.
+[00:38:30.777 --> 00:38:33.138]  There are a handful.
+[00:38:33.138 --> 00:38:37.461]  Bravo for Byrd at the twilight of his career, standing up and telling it like it is.
+[00:38:38.976 --> 00:38:40.777]  It's nice to see it happen once in a while.
+[00:38:40.777 --> 00:38:46.480]  Well, I mean, look at Bush saying there won't be an investigation of lies about the weapons of mass destruction.
+[00:38:46.480 --> 00:38:52.743]  He sealed public testimony on 9-1-1, even if whitewash was burning him.
+[00:38:52.743 --> 00:38:55.185]  I tried to put Kissinger in there over it.
+[00:38:55.185 --> 00:38:58.627]  I mean, people, if you accept corruption, there's no level it won't sink to.
+[00:38:58.627 --> 00:39:00.087]  It's like a black hole.
+[00:39:00.087 --> 00:39:04.890]  You've got to escape its political vortex.
+[00:39:04.890 --> 00:39:06.771]  Tyranny has a gravitational pull.
+[00:39:07.518 --> 00:39:12.800]  And you can't just sit in its wake and not be sucked in.
+[00:39:12.800 --> 00:39:13.600]  So what do you do?
+[00:39:13.600 --> 00:39:22.784]  At the very least, you folks need to keep doing what you're doing, and that's reading, understanding, thinking, making your own decisions, and helping those who want to learn.
+[00:39:22.784 --> 00:39:25.965]  That's the best we can do right now, and we have to do it.
+[00:39:25.965 --> 00:39:26.826]  Alex, thank you.
+[00:39:26.826 --> 00:39:28.667]  A very quick hour again.
+[00:39:28.667 --> 00:39:29.547]  We'll talk again soon.
+[00:39:30.583 --> 00:39:31.324]  God bless you, Jeff.
+[00:39:31.324 --> 00:39:32.545]  Thanks for having me on the broadcast.
+[00:39:32.545 --> 00:39:34.086]  Indeed, my pleasure.
+[00:39:34.086 --> 00:39:37.349]  AlexJonesInfoWars.com.
+[00:39:37.349 --> 00:39:39.711]  He's a warrior in the best sense of the word.
+[00:39:39.711 --> 00:39:45.536]  Okay, we'll pause and come right back with more in just a few minutes.
