@@ -1,0 +1,729 @@
+[00:00:20.151 --> 00:00:22.071]  Welcome to the InfoWars Nightly News.
+[00:00:22.111 --> 00:00:26.072]  It is Thursday, April 14, 2016, and I'm Leigh Ann McAdoo.
+[00:00:26.192 --> 00:00:27.293]  Here's what's coming up tonight.
+[00:00:31.413 --> 00:00:36.474]  Tonight, could this report explain the holes in U.S.
+[00:00:36.514 --> 00:00:37.435]  cybersecurity?
+[00:00:38.375 --> 00:00:43.536]  Then, you'll be shocked how some students are being treated on college campuses.
+[00:00:44.722 --> 00:00:49.024]  After that, what news topic are Americans sick of hearing about?
+[00:00:50.104 --> 00:00:57.207]  And with all the negative talk about walls, is it okay for the police to place one around Trump demonstrators?
+[00:00:57.848 --> 00:00:58.508]  That's next!
+[00:01:05.911 --> 00:01:11.692]  I don't know, basically about six blocks in either direction, because they are expecting a large number of protesters here tonight.
+[00:01:12.733 --> 00:01:19.834]  There's a Facebook page out, one Jews against Trump, 1,400 protesters, definitely saying they're going to come.
+[00:01:19.914 --> 00:01:22.235]  Another 3,000 said they're interested in coming.
+[00:01:22.275 --> 00:01:26.236]  But last night, there was a rally in Pittsburgh, Pennsylvania, and I'm going to bring Joe Biggs.
+[00:02:10.433 --> 00:02:16.755]  I began to get into iodine a few years ago because it was helping me and my family so much get healthy and detoxify.
+[00:02:17.115 --> 00:02:18.575]  I believe our research is conclusive.
+[00:02:18.615 --> 00:02:19.976]  This is the best iodine out there.
+[00:02:20.256 --> 00:02:21.376]  And I know this for a fact.
+[00:02:21.916 --> 00:02:26.697]  Nobody else has got iodine based on these pure crystals, ladies and gentlemen.
+[00:02:26.817 --> 00:02:30.558]  For a limited time, experience the ancient power of Survival Shield X2.
+[00:02:31.299 --> 00:02:32.759]  I believe our research is conclusive.
+[00:02:32.799 --> 00:02:34.139]  This is the best iodine out there.
+[00:02:34.179 --> 00:02:36.300]  Take advantage of this at InfoWarsLife.com.
+[00:03:03.168 --> 00:03:12.011]  Well, according to some in the tech community, a ludicrous, dangerous, and technically illiterate proposal is making its way through the Senate Intelligence Committee.
+[00:03:12.472 --> 00:03:18.314]  Now, this bit of legislation is called the Compliance with Court Orders Act, and it would require...
+[00:03:18.894 --> 00:03:25.918]  Technology companies to design and manufacture smartphones, computers, and software that's accessible to government.
+[00:03:26.338 --> 00:03:34.822]  Apple, Microsoft, Google, and other corporations would be required to provide backdoor keys and encryption workarounds if this bill becomes the law.
+[00:03:35.262 --> 00:03:44.407]  Now, according to the Act, it requires the provision of data in an intelligible format to a government pursuant to a court order and for other purposes.
+[00:03:44.867 --> 00:03:48.048]  And of course, the bill does not define what those other purposes are.
+[00:03:48.488 --> 00:03:54.710]  Now, committee chairman Richard Burr says, consumers have a right to seek solutions that protect their information.
+[00:03:54.730 --> 00:03:58.411]  I do not believe, however, that those solutions should be above the law.
+[00:03:58.931 --> 00:04:05.673]  And the vice chairman Dianne Feinstein says, no entity or individual is above the law.
+[00:04:06.853 --> 00:04:14.638]  Well, now you'll recall that James Comey came out a few weeks ago and said that American people needed to demand to know how the government is using their information.
+[00:04:15.239 --> 00:04:17.860]  Obviously, you know, they're kind of backtracking here on that.
+[00:04:18.361 --> 00:04:22.464]  But here's someone that is above the law, apparently the Department of Justice.
+[00:04:22.864 --> 00:04:31.530]  Now, Microsoft is actually suing them over gag laws that they say are blocking customers from knowing that the government is getting their data.
+[00:04:31.970 --> 00:04:34.131]  Now, they filed this lawsuit today.
+[00:04:34.672 --> 00:04:35.712]  This is against the U.S.
+[00:04:35.772 --> 00:04:36.573]  Justice Department.
+[00:04:37.333 --> 00:04:45.518]  They claim the government's authority to block the technology companies from notifying customers when their personal data has been accessed is unconstitutional.
+[00:04:45.858 --> 00:04:59.825]  And the lawsuit alleges that the federal government is increasingly using search warrants to comb through customer information that's held by Microsoft and that is essentially banning the company from ever letting people know about the government's behavior.
+[00:05:00.465 --> 00:05:05.390]  And of course, this is very important if people are in a court case and they need to build up their defense.
+[00:05:06.031 --> 00:05:10.235]  They don't know how the Department of Justice is accessing this information.
+[00:05:10.635 --> 00:05:20.044]  Microsoft said it understands there are times when secrecy is needed, but the rising number of orders has caused it to question whether the government's policy is too lax.
+[00:05:20.164 --> 00:05:21.686]  So you give them an inch, they take a mile.
+[00:05:22.046 --> 00:05:30.228]  Now, others have suggested that companies like Microsoft have become less willing to cooperate with the government even when these search warrants have been approved.
+[00:05:30.728 --> 00:05:42.430]  And in other battles like we've seen between the FBI and Apple over their encrypted iPhones, companies are leaning more toward privacy in order to protect their customer base and the government just cannot have that.
+[00:05:42.890 --> 00:05:46.091]  Now, if you go back to this Compliance with Court Orders Act,
+[00:05:47.051 --> 00:05:55.275]  A chief technologist at the Center for Democracy and Technology says this is effectively the most anti-crypto bill of all anti-crypto bills.
+[00:05:55.575 --> 00:05:58.097]  It basically outlaws end-to-end encryption.
+[00:05:58.497 --> 00:06:08.682]  And Wired argues that the bill ignores the conclusion of top cryptographers that weakening encryption would be used by hackers and foreign governments to steal personal data.
+[00:06:09.222 --> 00:06:19.652]  And during its battle with the FBI in court over encryption, Apple said that removing security measures on devices would amount to unilateral disarmament in an endless war with hackers.
+[00:06:20.393 --> 00:06:22.314]  Oh, but the government is not concerned with that.
+[00:06:22.394 --> 00:06:27.499]  They just need to be able to get in and spy on you and me, even though it has not helped them stop a single terror attack.
+[00:06:28.020 --> 00:06:28.940]  But check this out.
+[00:06:29.381 --> 00:06:31.142]  According to the latest report,
+[00:06:31.843 --> 00:06:32.323]  The U.S.
+[00:06:32.363 --> 00:06:36.967]  government is worse than all major industries on cybersecurity.
+[00:06:37.227 --> 00:06:45.032]  So we should listen to them when they say that companies should be forced to put a backdoor on all of our products so that they can easily access them and spy them.
+[00:06:46.332 --> 00:06:50.854]  Who cares if it's going to be this unilateral disarmament and we will be in endless war with hackers?
+[00:06:51.174 --> 00:06:55.015]  The government, they came in last.
+[00:06:55.055 --> 00:06:57.516]  And this is transportation, retail, and healthcare.
+[00:06:57.536 --> 00:06:58.836]  The U.S.
+[00:06:58.876 --> 00:07:03.678]  federal, state, and local government agencies ranked last in cybersecurity.
+[00:07:04.498 --> 00:07:08.062]  And this is according to analysis from Security Scorecard.
+[00:07:08.522 --> 00:07:24.438]  They measured the relative security health of government industries across 10 categories, including vulnerability to malware infections, exposure rates of passwords, and susceptibility to social engineering, such as an employee using corporate account information on a public social network.
+[00:07:25.038 --> 00:07:28.341]  And this was, they tracked major government
+[00:07:29.508 --> 00:07:29.868]  That's right.
+[00:07:44.462 --> 00:07:45.162]  I think so.
+[00:08:00.749 --> 00:08:08.958]  A little untrustworthy, but for whatever reason, they are in control of just about all of our lives, especially right around tax season.
+[00:08:09.358 --> 00:08:14.283]  Well, now a federal judge is calling the IRS untrustworthy in the Tea Party case.
+[00:08:16.065 --> 00:08:33.051]  Dozens of groups have, of course, said that the IRS not only treated them badly in the past, but that the agency continues to subject them to special monitoring and intrusive scrutiny, damaging their reputation among potential donors, and making it more likely that the groups are going to face an audit because of their political beliefs.
+[00:08:33.552 --> 00:08:39.494]  But the IRS insists it has retrained its employees and instructed managers to behave better.
+[00:08:40.014 --> 00:08:41.615]  But the panel of judges on the U.S.
+[00:08:41.735 --> 00:08:51.598]  Circuit Court of Appeals for the District of Columbia did not seem convinced, and the judge said, it's hard to find the IRS to be an agency we can trust.
+[00:08:52.458 --> 00:09:04.423]  And now the lawyer for the IRS at one point acknowledged that there were still potential problems with the way the agency monitors cases going forward, but insists that the initial targeting at the point
+[00:09:05.063 --> 00:09:05.784]  We're good to go.
+[00:09:24.304 --> 00:09:37.826]  Now, one company that is finally speaking out against this administration and its bullies within the administration is a shoe company here that actually makes a small percentage, mind you, of its shoes here in America.
+[00:09:38.226 --> 00:09:39.207]  This is New Balance.
+[00:09:39.747 --> 00:09:43.307]  Now, they are speaking out against the Trans-Pacific Partnership.
+[00:09:43.687 --> 00:09:51.529]  The Boston Globe is reporting that the U.S.-based shoe manufacturer New Balance has come out hard against the TPP, and now we know why.
+[00:09:52.049 --> 00:09:53.429]  They say New Balance officials
+[00:09:54.429 --> 00:10:02.232]  We're told by the Department of Defense that they'd give them serious consideration for a contract to outfit recruits with athletic shoes.
+[00:10:02.652 --> 00:10:08.775]  But no order has been placed and New Balance officials say the Pentagon is intentionally delaying any purchases.
+[00:10:09.375 --> 00:10:16.760]  And so now New Balance is reviving its fight against the trade deal, which would in part gradually phase out tariffs on shoes made in Vietnam.
+[00:10:17.120 --> 00:10:22.624]  A loss of those tariffs would make imports cheaper and jeopardize its factory jobs in New England.
+[00:10:23.164 --> 00:10:30.889]  And the VP of Public Affairs for the company says, we swallowed the poison pill that is TPP so we could have a chance to bid on these contracts.
+[00:10:31.229 --> 00:10:48.199]  We were assured this would be a top-down approach at the Department of Defense if we agreed to either support or remain neutral on the TPP, but of course now they see the chances of the Department of Defense buying shoes that are made in the USA are slim to none while Obama is president.
+[00:10:48.520 --> 00:10:58.366]  And if this is just a shoe company speaking out, imagine all of the other corporations that are being silenced by the Obama administration in order to pass through the TPP.
+[00:10:58.966 --> 00:11:07.908]  Other companies that can see how detrimental this is going to be to American businesses, what remains of the American industry, they're not speaking out.
+[00:11:07.988 --> 00:11:10.929]  Possibly they've also been promised a little cut of the deal.
+[00:11:11.309 --> 00:11:18.731]  So this is very interesting and I hope that we see some other American corporations speaking out, letting their conscience get the better of them.
+[00:11:20.015 --> 00:11:26.583]  One person who, as we know, is not going to do that because he's all in on these globalist policies is Mark Zuckerberg.
+[00:11:26.823 --> 00:11:33.651]  And, of course, the other day Zuckerberg spoke out against Trump's plans to build the wall, saying that
+[00:11:34.810 --> 00:11:38.111]  You know, it would prevent a connected world and a global economy.
+[00:11:38.271 --> 00:11:53.873]  But of course, Donald Trump has hit back saying that Facebook CEO Mark Zuckerberg's criticism of this border wall is pretty hypocritical because Zuckerberg lives in a luxurious mansion with private security miles away from the U.S.
+[00:11:53.913 --> 00:11:54.353]  border.
+[00:11:54.613 --> 00:11:59.214]  And as we know, he's got a massive wall around his compound and tons of security.
+[00:11:59.574 --> 00:12:03.615]  Of course, he doesn't want you to have guns, just his security guards.
+[00:12:04.415 --> 00:12:05.696]  Wow, Zuckerberg.
+[00:12:06.517 --> 00:12:15.063]  Now, the University of Wisconsin is just the latest university who is now singling out white students for some re-education.
+[00:12:15.643 --> 00:12:24.810]  And this was a special workshop hosted on Tuesday for the purpose of getting white students to acknowledge and confront their own white privilege.
+[00:12:25.430 --> 00:12:40.200]  And the workshop is called The Privilege of Whiteness, and it's designed for white people to reflect on and name the ways their privilege impacts their beliefs and behaviors by gaining the skills to identify the historical roots of white privilege and how it manifests today.
+[00:12:41.602 --> 00:12:44.085]  I'm exhausted just reading that sentence.
+[00:12:44.525 --> 00:12:46.708]  But that's not the only university.
+[00:12:46.808 --> 00:12:55.439]  A business class at Purdue University is actually teaching students the phrase, America is a melting pot is a microaggression.
+[00:12:55.459 --> 00:12:55.519]  Yep.
+[00:12:56.420 --> 00:12:58.161]  That's right, that's a microaggression.
+[00:12:58.401 --> 00:12:59.722]  America can't be a melting pot.
+[00:13:00.162 --> 00:13:03.304]  Additional microaggressions include, where are you from?
+[00:13:04.024 --> 00:13:06.385]  There is only one race, the human race.
+[00:13:07.106 --> 00:13:10.307]  Everyone can succeed in society if they work hard enough.
+[00:13:10.828 --> 00:13:14.450]  And I believe the most qualified person should get the job.
+[00:13:15.470 --> 00:13:17.132]  Who knew Anita Sarkeesian was right?
+[00:13:17.352 --> 00:13:21.977]  Everything's racist, everything's sexist, everything's homophobic, and we've got to point it all out.
+[00:13:22.397 --> 00:13:27.843]  Now, the Sanders supporters, the Sanders camp, they've actually triggered the Clinton camp.
+[00:13:28.829 --> 00:13:38.239]  A very popular Twitter account in support of Bernie Sanders tweeted out how people need to stop voting in corporate democratic whores.
+[00:13:38.779 --> 00:13:40.781]  Well, oh my god, super sexist!
+[00:13:40.821 --> 00:13:43.664]  You can't call Hillary Clinton a corporate whore!
+[00:13:44.044 --> 00:13:49.370]  And she demanded that Bernie Sanders disavow his supporters' comments on Twitter.
+[00:13:49.890 --> 00:13:50.490]  But you know what?
+[00:13:50.630 --> 00:13:54.612]  Let's go to our trusty little Urban Dictionary back here.
+[00:13:54.692 --> 00:13:58.614]  If you want to know what the kids are into these days, go to Urban Dictionary.
+[00:13:59.214 --> 00:14:07.338]  And you can see there, the definition for corporate whore, written in about 2008, includes Hillary, Diane, Rodham Clinton.
+[00:14:07.418 --> 00:14:08.679]  So, I don't know.
+[00:14:09.879 --> 00:14:13.281]  That's a fax right there, straight out of the Urban Dictionary.
+[00:14:14.241 --> 00:14:17.382]  And the corporate media whores have descended upon New York.
+[00:14:17.422 --> 00:14:20.744]  More than 700 of them will be covering tonight's Democratic debate.
+[00:14:20.884 --> 00:14:23.705]  Interesting to see if this topic will be brought up.
+[00:14:24.105 --> 00:14:24.645]  But you know what?
+[00:14:24.845 --> 00:14:25.626]  What's the point?
+[00:14:25.846 --> 00:14:30.368]  We have all now come to the realization that the entire system is rigged.
+[00:14:30.708 --> 00:14:40.732]  Now Brian Tooley joined the Alex Jones Show today to talk about the sports organizations that are rigging their own games for their own benefit, much like our political system.
+[00:14:42.110 --> 00:14:46.335]  The other way I like to look at a potential fix is the League fixing their own games.
+[00:14:46.875 --> 00:14:58.748]  And that's something a lot of people, and that's why I get labeled a conspiracy theorist for, that's what a lot of people don't necessarily consider is the fact that the Leagues can use the same apparatus that organized crime has used to fix games.
+[00:14:59.168 --> 00:15:04.034]  They can use those same things to fix their own games, and they have actually more control over their own games.
+[00:15:04.554 --> 00:15:12.241]  And the fact of the matter is they have more to gain from fixing their own games because that's how they make their money is through fan interest and television ratings.
+[00:15:12.401 --> 00:15:27.934]  And if they fix games to make them exciting, and I'm not saying every game is fixed, but just certain tweaks here and there to manipulate their own league, well, then they're going to make more profit and it's going to benefit everybody involved from the players, coaches, the owners, everyone.
+[00:15:28.354 --> 00:15:29.395]  Wow, that's fascinating.
+[00:15:29.455 --> 00:15:30.436]  I'd never thought about that.
+[00:15:30.456 --> 00:15:40.984]  I mean, we always, as you point out, we always think about organized crime, leaning on people or basically, you know, threatening them or incentivizing them to throw a game so that they can make a lot of money off the gambling.
+[00:15:41.104 --> 00:15:47.610]  I had never really thought about the leagues fixing it for themselves to make it more entertaining.
+[00:15:47.990 --> 00:15:51.333]  But of course, that's yet another parallel to politics.
+[00:15:51.513 --> 00:15:52.774]  It's absolutely amazing.
+[00:15:53.014 --> 00:15:55.096]  You know, you have people who are voting with
+[00:15:55.316 --> 00:15:56.237]  With what they believe.
+[00:15:56.337 --> 00:16:00.621]  And you know, people can say, that's right, that's wrong, you should vote for this candidate, not that candidate.
+[00:16:01.101 --> 00:16:17.055]  But when the fact of the matter is, when you have your vote and you think it counts for a delegate, for example, towards Donald Trump, and the Republican Party is coming out and saying, well, maybe it's not going to, we're going to spin it to somebody else, whoever we deem necessary, well then, you know, it makes you feel as a voter, does your vote count?
+[00:16:17.635 --> 00:16:22.978]  And maybe that's the grand scheme thing that they're trying to do is trying to show you that maybe your vote doesn't count.
+[00:16:23.179 --> 00:16:23.379]  Yeah.
+[00:16:23.459 --> 00:16:25.460]  And maybe they do just really control everything.
+[00:16:25.520 --> 00:16:28.782]  And that's, you know, as an American, that should be a really frightening situation.
+[00:16:28.822 --> 00:16:35.446]  Whether you want Trump in or you don't want Trump in, the fact of the matter that this is occurring should make you really second guess everything.
+[00:16:35.802 --> 00:16:37.443]  And I think that may be part of the game.
+[00:16:37.903 --> 00:16:41.504]  Maybe trying to get people so disillusioned with the system that they don't show up.
+[00:16:41.524 --> 00:16:48.266]  Because I believe that if they have enough people show up, I believe that they can shave points just like they do in sporting events.
+[00:16:48.607 --> 00:16:50.807]  They can shave points at the poll.
+[00:16:50.847 --> 00:16:54.049]  They can shave points in terms of delegate selection and that sort of thing.
+[00:16:54.509 --> 00:17:00.151]  They can stuff the ballot box or they can manipulate the voting machines to shave points.
+[00:17:00.191 --> 00:17:03.392]  But I think if you come in with an overwhelming
+[00:17:03.792 --> 00:17:04.572]  Overwhelming
+[00:17:20.836 --> 00:17:27.660]  And with 700 reporters in attendance for tonight's Democratic debate, we know what's going to be in the news for the foreseeable future.
+[00:17:27.980 --> 00:17:34.363]  Well, Jakari Jackson wanted to find out, what are people here in Austin, Texas sick and tired of hearing about?
+[00:17:36.244 --> 00:17:42.948]  We're out here in the streets of Austin to ask people, with all the news that's going on, what news story are they most tired of hearing about?
+[00:17:42.968 --> 00:17:45.930]  Hey, how you doing today, ladies?
+[00:17:46.926 --> 00:17:47.226]  Good!
+[00:17:47.446 --> 00:17:51.049]  We're just asking people what news story are you most tired of hearing about?
+[00:17:51.930 --> 00:17:52.330]  Trump!
+[00:17:52.530 --> 00:17:53.471]  Donald Trump!
+[00:17:53.551 --> 00:17:54.092]  Everybody?
+[00:17:54.132 --> 00:17:54.872]  Yes!
+[00:17:54.992 --> 00:17:56.854]  Donald Trump!
+[00:17:56.894 --> 00:17:59.696]  We're asking people what news story they're most tired of hearing about?
+[00:18:01.257 --> 00:18:01.538]  Trump.
+[00:18:02.678 --> 00:18:03.359]  Donald Trump.
+[00:18:03.619 --> 00:18:05.461]  Donald Trump?
+[00:18:05.561 --> 00:18:09.744]  I would say Kardashians, Zika, and Donald Trump.
+[00:18:10.384 --> 00:18:10.865]  And what else?
+[00:18:10.885 --> 00:18:11.786]  I think that's it.
+[00:18:11.826 --> 00:18:12.546]  That was three.
+[00:18:12.666 --> 00:18:14.027]  The unholy trinity.
+[00:18:15.448 --> 00:18:15.929]  The election.
+[00:18:16.297 --> 00:18:18.078]  Yeah, it's bad.
+[00:18:18.918 --> 00:18:20.278]  I'm right there with you.
+[00:18:20.418 --> 00:18:24.940]  I haven't been on Facebook in weeks, mostly because I've got a new baby, but I just stay away from Facebook.
+[00:18:25.000 --> 00:18:26.000]  I stay away from all of it.
+[00:18:26.480 --> 00:18:32.562]  Honestly, I'm not even really listening to Alex Jones anymore because I can't handle listening to any more political stuff.
+[00:18:33.262 --> 00:18:35.243]  Is there anything that we should be talking about instead?
+[00:18:35.283 --> 00:18:36.643]  Anything you think is more important?
+[00:18:38.361 --> 00:18:48.866]  I just think finding a great leader for our country is really important right now and just all the swirling around negative things about candidates I think needs to stop.
+[00:18:49.626 --> 00:18:52.327]  Is there anything we should be talking about instead of Donald Trump?
+[00:18:54.928 --> 00:18:56.909]  I think what are we going to do with the homeless people?
+[00:19:04.502 --> 00:19:13.270]  My fellow Infowarriors, my fellow Americans, there's never been an attack on our voting rights and our free speech in this country's history like we're seeing right now.
+[00:19:13.851 --> 00:19:17.154]  Last weekend they cancelled the election in Colorado.
+[00:19:18.052 --> 00:19:18.232]  I don't
+[00:19:37.773 --> 00:19:43.914]  We're going to show you some of that footage where the left has announced with communist banners, no free speech, no Trump allowed.
+[00:19:44.294 --> 00:19:46.935]  So this is pure tyranny, an attack on free speech on every front.
+[00:19:46.975 --> 00:19:48.275]  Rob Dew, tell us about the events.
+[00:19:48.495 --> 00:19:58.137]  Alright, so Friday, April 15th from 3 to 6, we're going to be at the Colorado GOP headquarters at 5950 South Willow Drive, and that's in Greenwood Village, Colorado.
+[00:19:58.157 --> 00:20:01.218]  We're going to go there and support the rest of the GOP.
+[00:20:01.718 --> 00:20:02.639]  Who's mad as hell.
+[00:20:02.759 --> 00:20:10.045]  One million GOP-ers are pissed off that they didn't get to cast their vote for the President of the United States, for the Republican Party.
+[00:20:10.265 --> 00:20:13.227]  And imagine if a million black people had been disenfranchised.
+[00:20:13.267 --> 00:20:14.328]  People are upset about that.
+[00:20:14.468 --> 00:20:15.089]  Jim Crow laws.
+[00:20:15.169 --> 00:20:15.529]  I am too.
+[00:20:15.549 --> 00:20:19.092]  But what about what's happening now to everybody and this precedent?
+[00:20:19.132 --> 00:20:19.773]  And let's be clear.
+[00:20:20.293 --> 00:20:22.193]  This is about free speech, not even about Trump.
+[00:20:22.574 --> 00:20:23.714]  This is very, very important.
+[00:20:24.134 --> 00:20:28.875]  Everybody needs to be there and everybody needs to get their friends and family together.
+[00:20:29.515 --> 00:20:32.316]  Portland State students for Donald Trump, that'll start at 2 o'clock.
+[00:20:33.236 --> 00:20:35.897]  Location will be the Smith Memorial Student Union.
+[00:20:36.237 --> 00:20:40.218]  That's at 1825 Southwest Broadway in Portland, Oregon.
+[00:20:40.578 --> 00:20:45.659]  So we're going to be out there as well, standing with these students who want to have this meeting in support of Donald Trump.
+[00:20:45.679 --> 00:20:46.419]  That is their right.
+[00:20:46.439 --> 00:20:47.620]  That is their freedom of speech.
+[00:20:47.640 --> 00:20:48.400]  And these bullies!
+[00:20:48.680 --> 00:20:50.361]  These bullies have been trying to stop it.
+[00:20:50.381 --> 00:20:55.284]  So on Infowars.com, we're going to have an article up by tonight, breaking down the maps, where it is.
+[00:20:55.364 --> 00:20:58.145]  Come out and support these reporters, also in free speech.
+[00:20:58.286 --> 00:21:02.948]  But they're going to be wearing Trump hats and Infowars shirts just to show the type of garbage that's going on.
+[00:21:03.188 --> 00:21:04.169]  You've seen the clips, Biggs.
+[00:21:04.189 --> 00:21:06.550]  We're going to play just a few clips of it now of Portland.
+[00:21:06.770 --> 00:21:07.571]  These people are scary.
+[00:21:07.891 --> 00:21:08.491]  I'm on staff!
+[00:21:08.531 --> 00:21:09.192]  You f***er!
+[00:21:09.272 --> 00:21:09.992]  Shut the f*** up!
+[00:21:10.052 --> 00:21:12.573]  If you don't let her talk, I will f*** it up!
+[00:21:36.022 --> 00:21:40.685]  What's incredible about Portland is that it's faculty there screaming at people saying, you have no free speech.
+[00:21:40.705 --> 00:21:42.286]  The staff, yeah, the staff are yelling at people.
+[00:21:42.386 --> 00:21:44.707]  They're like, shut up, sit down, we're going to tell you what's going on.
+[00:21:45.008 --> 00:21:47.969]  And they said, if you have another event, we're going to come back.
+[00:21:48.310 --> 00:21:48.930]  So here it is.
+[00:21:49.150 --> 00:21:50.951]  There's going to be another event on Saturday.
+[00:21:51.031 --> 00:21:51.932]  So are you going to be there?
+[00:21:52.012 --> 00:21:52.392]  We'll see.
+[00:21:52.592 --> 00:21:55.234]  We'll see if free speech gets under attack at Portland State University.
+[00:21:55.554 --> 00:22:00.117]  Those six brave people went and stood against the First Amendment fascism.
+[00:22:00.977 --> 00:22:03.019]  of the corporately George Soros funded left.
+[00:22:03.099 --> 00:22:10.827]  Let's have hundreds of people show up where they're slated speakers by the student group to stand up for free speech and stand up against this malice level tyranny.
+[00:22:11.148 --> 00:22:14.631]  Joe Biggs, one more time, tell folks the date of the Portland situation.
+[00:22:14.691 --> 00:22:16.453]  Do it one more time for what's happening Friday.
+[00:22:16.553 --> 00:22:20.095]  So once again, Saturday the 16th at Portland State Students for Donald Trump.
+[00:22:20.395 --> 00:22:21.395]  That'll be at 2 o'clock.
+[00:22:21.495 --> 00:22:22.236]  That is the start time.
+[00:22:22.256 --> 00:22:24.097]  I'll arrive a little bit early and get ready to go in there.
+[00:22:24.357 --> 00:22:29.839]  The location is at the Smith Memorial Student Union and that's at 1825 Southwest Broadway.
+[00:22:30.179 --> 00:22:34.822]  The 15th, the GOP protest in Colorado will be at Greenwood Village, Colorado from 3 to 6.
+[00:22:34.962 --> 00:22:39.204]  I'll put all the address information and maps on in the article and in the description of the video.
+[00:22:39.824 --> 00:22:40.945]  All right, fantastic folks.
+[00:22:40.985 --> 00:22:42.185]  Hey, stand up for the First Amendment.
+[00:22:42.565 --> 00:22:43.666]  Stand up for your voting rights.
+[00:22:44.126 --> 00:22:46.587]  There should be an election in Colorado and other states.
+[00:22:46.867 --> 00:22:48.268]  There should be a thing called voters.
+[00:22:48.628 --> 00:22:51.749]  Soon they're going to say voters never existed and it's a conspiracy theory.
+[00:22:51.989 --> 00:22:52.630]  I'm not joking.
+[00:22:53.350 --> 00:22:57.112]  Now's the time to stand up for free speech and freedom of the press and voting or lose it all.
+[00:23:02.641 --> 00:23:18.205]  The panicked elite are buying up underground bunkers and or fleeing to parts unknown as all indications point towards a collapse that will, in the words of economist Peter Schiff, be the earthquake that follows the 2008 tremor.
+[00:23:18.505 --> 00:23:20.426]  The Chicago Tribune reported that
+[00:23:20.726 --> 00:23:33.074]  About 3,000 individuals with net assets of $1 million or more left Chicago in the last year alone due to the exploding climate of unrest growing in the Union stockyards.
+[00:23:33.254 --> 00:23:34.675]  The writing is on the wall.
+[00:23:34.855 --> 00:23:49.265]  President Obama, in concert with his puppet master George Soros, have been turning up the heat on deteriorating conditions resulting from the United States and the EU's strategic collapse of the global economy for the last seven years.
+[00:23:49.605 --> 00:23:52.007]  So if somebody wants to build a coal-powered plant, they can.
+[00:23:52.628 --> 00:24:00.495]  It's just that it will bankrupt them because they're going to be charged a huge sum for all that greenhouse gas that's being emitted.
+[00:24:00.835 --> 00:24:03.258]  Before Obama ever came around, coal was doing good.
+[00:24:04.279 --> 00:24:06.060]  Obama killed it.
+[00:24:06.080 --> 00:24:09.103]  We have citizens digging through the trash just to eat.
+[00:24:09.904 --> 00:24:12.046]  I wish they'd just step off the face of the earth.
+[00:24:13.166 --> 00:24:14.246]  It wouldn't hurt my feelings none.
+[00:24:14.586 --> 00:24:22.728]  What's actually hurt coal is not any EPA rules as much as it is really cheap natural gas that has come from fracking.
+[00:24:23.129 --> 00:24:32.291]  They're fracking with such corrupt practices across the United States that the well water is catching on fire.
+[00:24:38.433 --> 00:24:42.315]  Soros signals Argentina's shale is biggest place to be.
+[00:24:42.415 --> 00:24:53.902]  Soros doubled its stake in state-owned oil company in Argentina, while for the last seven years spending tens of millions of dollars to lobby to shut down shale production in the U.S.
+[00:24:53.942 --> 00:24:55.743]  by wildcat small companies.
+[00:24:56.083 --> 00:25:00.245]  And I'm not saying shale fracking is good overall.
+[00:25:00.685 --> 00:25:07.089]  I'm not saying there aren't problems, but most of it's financed by Soros and Saudi Arabia, who don't want us to have our own oil.
+[00:25:08.393 --> 00:25:14.481]  So a coal plant in Mexico that's totally dirty is okay, but a coal plant in Texas that's clean is not okay.
+[00:25:14.641 --> 00:25:23.231]  And most of these crackers and oil sands people can't break even unless oil is over $80 or at least over $55.
+[00:25:25.073 --> 00:25:26.894]  10 to 20 in the next several years.
+[00:25:27.354 --> 00:25:47.124]  So this is their, what they're doing is they're pumping their existing wells to the max to create cash flow because their wells are, it's not expensive to pump, it's expensive to find the darn things and drill and they were only able to do that with the cheapest junk bonds in history because of quantitative easing and artificial stimulus and by oil price.
+[00:25:47.164 --> 00:25:49.085]  So that's the next thing to hit the United States.
+[00:25:49.571 --> 00:26:03.474]  The Wall Street Journal reports that the largest coal company in the United States has filed for bankruptcy, an event that will result in energy costs that will sharply rise on the American middle class like they have on the common people of Germany.
+[00:26:03.714 --> 00:26:11.296]  Germany's energy policies have gradually doubled the average industrial cost per kilowatt hour as clean and renewable energy
+[00:26:11.536 --> 00:26:12.838]  Can't carry the load.
+[00:26:13.238 --> 00:26:13.799]  Literally.
+[00:26:14.199 --> 00:26:20.126]  Last week, Obama began pushing for housing lenders to offer home loans to people with bad credit.
+[00:26:20.387 --> 00:26:25.232]  What better way to push the economy over the edge than to repeat the same 2008 nightmare?
+[00:26:27.515 --> 00:26:33.498]  We're using data on housing and neighborhood conditions to help cities identify the areas that need the most help.
+[00:26:33.898 --> 00:26:40.962]  By 2014, investors had already begun to notice another government-fed subprime housing bubble on the horizon.
+[00:26:41.242 --> 00:26:54.249]  Investors Business Daily wrote in January of 2014, what stoked housing inflation was federal housing policies designed to boost home ownership among low-income and minority borrowers.
+[00:26:54.549 --> 00:27:03.736]  Between 2011 and the third quarter of 2013, housing prices rose nearly six percent, triple the increase in rental costs.
+[00:27:04.028 --> 00:27:08.330]  Both this bubble and the last one were caused by the government's housing policies.
+[00:27:08.730 --> 00:27:17.094]  Low down payments, a mere 5% at Fannie and Freddie and just 3.5% at the FHA are fueling the bubble.
+[00:27:17.435 --> 00:27:23.317]  But new qualified mortgage rules don't require a minimum down payment for borrowers in 2014.
+[00:27:24.198 --> 00:27:28.400]  The country has been misled about financial reform.
+[00:27:29.153 --> 00:27:34.135]  InfoWars has called for Obama's impeachment on numerous occasions, to no avail.
+[00:27:34.616 --> 00:27:41.659]  His supposed lame-duck presidency, heading into the end of his term, has been tremendously underestimated.
+[00:27:42.079 --> 00:27:51.424]  Americans are nothing less than under a full New World Order attack, aided and abetted by the executive branch of the United States of America.
+[00:27:52.124 --> 00:27:53.585]  John Bowne for InfoWars.com
+[00:27:57.008 --> 00:28:09.134]  The Florida state attorney has decided not to prosecute Trump's campaign manager for the alleged assault of former Breitbart reporter Michelle Field, according to new video that reportedly debunks her claims.
+[00:28:09.943 --> 00:28:11.344]  The press was directed towards the back.
+[00:28:11.985 --> 00:28:22.236]  There's this bubble and she makes her way beyond the press area and gets right next to Mr. Trump and actually makes slight contact with Mr. Trump.
+[00:28:22.256 --> 00:28:27.001]  And you can see that he sort of recoils and that's when Mr. Lewandowski comes and grabs her arm.
+[00:28:27.679 --> 00:28:39.102]  Now according to that prosecutor, Michelle Fields was disappointed with their decision and now she says she's going to go after Trump and his campaign manager in a civil case for defamation of character.
+[00:28:39.642 --> 00:28:42.503]  Now a civil case, of course, you don't have to present as much evidence.
+[00:28:42.543 --> 00:28:44.244]  Could be a little easier for her to win here.
+[00:28:44.584 --> 00:28:51.426]  But let's revisit a report from Paul Joseph Watson where he breaks down why Michelle Fields might have already defamed herself.
+[00:28:52.594 --> 00:29:07.661]  The truth about the supposed battery of Breitbart journalist Michelle Fields by Trump campaign manager Corey Lewandowski is that Fields, Lewandowski, and supporters of both are all lying about what happened.
+[00:29:08.101 --> 00:29:19.767]  Today it was confirmed that Lewandowski had been charged with misdemeanor battery for an incident earlier this month when Lewandowski appeared to grab Fields' arm to prevent her from asking Trump a question.
+[00:29:20.547 --> 00:29:26.074]  A new surveillance video released by police shows Lewandowski yanking Fields back by the arm.
+[00:29:26.977 --> 00:29:33.663]  First of all, why are Fields supporters pretending like this is the first time we've seen video of this incident?
+[00:29:34.283 --> 00:29:45.212]  This video of the incident was released weeks ago, yet was largely glossed over by the media because it contradicted Fields' characterization of what happened.
+[00:29:45.573 --> 00:29:50.077]  Michelle Fields lied about the incident from the start.
+[00:29:50.777 --> 00:29:56.984]  She claimed, quote, somebody had grabbed me tightly by the arm and yanked me down.
+[00:29:57.765 --> 00:30:03.811]  The video footage clearly shows that she was pulled back, not yanked down.
+[00:30:04.612 --> 00:30:10.339]  Fields said, quote, I almost fell to the ground but was able to maintain my balance.
+[00:30:11.291 --> 00:30:16.559]  The video footage clearly shows she did not almost fall to the ground.
+[00:30:16.880 --> 00:30:22.949]  She also claims that Lewandowski, quote, aggressively tried to pull me to the ground.
+[00:30:23.939 --> 00:30:27.261]  The video clearly shows that's not what happened.
+[00:30:27.721 --> 00:30:35.666]  She also went on television claiming that this was the worst thing to happen to her in her entire life, apart from her father dying.
+[00:30:36.246 --> 00:30:37.407]  Well, it feels awful.
+[00:30:38.387 --> 00:30:42.530]  This has to be, aside from my father's death, the worst experience I've gone through.
+[00:30:42.870 --> 00:30:51.117]  Unless Fields has lived a near-perfect utopian life, that's obviously a massive exaggeration.
+[00:30:51.638 --> 00:31:09.453]  Despite the fact that Fields was obviously completely mischaracterizing the incident, the media bolstered her credibility because it synced with their narrative of demonizing Trump, his staffers, and his supporters as unhinged violent extremists.
+[00:31:10.214 --> 00:31:15.256]  Fields told police that she fell back, but caught herself from falling.
+[00:31:15.876 --> 00:31:20.017]  The video clearly shows she did not fall back.
+[00:31:20.497 --> 00:31:25.979]  But Corey Lewandowski also lied about the incident from the start.
+[00:31:26.599 --> 00:31:30.180]  He told Fields, quote, You are totally delusional.
+[00:31:30.741 --> 00:31:32.421]  I never touched you.
+[00:31:33.181 --> 00:31:37.803]  But the video clearly shows that, yes, Lewandowski grabbed her arm.
+[00:31:38.877 --> 00:31:45.565]  Trump supporters are also still claiming that Lewandowski never touched her or that he just brushed past her.
+[00:31:46.306 --> 00:31:48.869]  The video proves that this isn't true.
+[00:31:49.449 --> 00:31:54.775]  Lewandowski was also caught on camera in a previous incident manhandling a protester.
+[00:31:55.692 --> 00:32:08.597]  In another twist to the story, a Secret Service agent told the Daily Mail that Michelle Fields grabbed Trump twice and was warned to back off before the incident involving Lewandowski.
+[00:32:09.438 --> 00:32:13.959]  Look, it's true that Lewandowski grabbed Fields by the arm to get her out of the way.
+[00:32:14.660 --> 00:32:17.741]  Was it rude, aggressive and unnecessary?
+[00:32:18.401 --> 00:32:18.761]  Yes.
+[00:32:19.702 --> 00:32:24.103]  Was it some kind of egregious assault as it's being characterized by some?
+[00:32:24.744 --> 00:32:24.924]  No.
+[00:32:26.038 --> 00:32:28.939]  Lewandowski will probably not be convicted.
+[00:32:29.639 --> 00:32:35.200]  But the media will continue to obsess about this for at least another month.
+[00:32:36.060 --> 00:32:52.603]  Meanwhile, Donald Trump himself will continue to be deluged with death threats, more unhinged leftists will try and rush the stage, and more Bernie Sanders supporters will attack Trump voters and stage violence at his rallies.
+[00:32:53.450 --> 00:32:59.414]  And the media will continue to blame all of this on Donald Trump.
+[00:33:02.355 --> 00:33:04.737]  A lot of people ask me what is the most important.
+[00:33:06.286 --> 00:33:06.546]  I think?
+[00:33:27.566 --> 00:33:38.612]  When I talk about the people at InfoWars, from customer service, the shipping department, being just as important as our anchors, our researchers, our investigative journalists, and myself, it's absolutely true.
+[00:33:39.213 --> 00:33:44.536]  Without this team that we've built over the last 20 plus years, we wouldn't be able to do any of what we've been doing.
+[00:33:44.916 --> 00:33:50.199]  And that's what's so exciting because we finally built up to a point where we now have the launch pad.
+[00:33:50.859 --> 00:33:56.882]  Introducing AutoShip from InfoWarsLive.com, a new way to save time and money when you stock up on InfoWarsStore.com products.
+[00:33:57.342 --> 00:34:05.626]  Again, ladies and gentlemen, when products are sold out, you're unable to get them, sometimes for months, but we hold back the products for people that have already signed up for AutoShip.
+[00:34:06.286 --> 00:34:17.391]  When you choose AutoShip before checkout on your order at Infowarshore.com, we'll give you 10% off and give you guaranteed delivery of out-of-stock products that are on your AutoShip list.
+[00:34:17.932 --> 00:34:20.553]  Plus, we're giving you free shipping on all orders above $50.
+[00:34:21.033 --> 00:34:28.437]  Listers have been requesting this for years because it's so easy to forget to reorder the products when you need them each month.
+[00:34:29.474 --> 00:34:30.494]  Now it's finally here.
+[00:34:30.954 --> 00:34:34.455]  AutoShip at InfoWarsStore.com and InfoWarsLife.com.
+[00:34:34.775 --> 00:34:35.255]  It's easy.
+[00:34:35.295 --> 00:34:42.117]  Go to InfoWarsStore.com, select your favorite product, click on the AutoShip, and choose how often you want us to send you another order.
+[00:34:42.937 --> 00:34:49.699]  As you know, I coined the term 360Win, and with the new AutoShip feature at InfoWarsLife.com, it's a sure win.
+[00:34:49.859 --> 00:34:53.400]  You add to that free shipping on orders of $50, it is a can't lose.
+[00:34:53.920 --> 00:35:01.110]  Visit InfoWarsTore.com and save 10% off on your next InfoWars Live order by selecting auto ship at checkout and get free shipping on all orders above $50.
+[00:35:01.150 --> 00:35:04.155]  That's InfoWarsTore.com or call toll free 888-253-3139.
+[00:35:12.352 --> 00:35:17.838]  Your liver can be full of fatty deposits, built-up toxins, and even dangerous objects known as liver stones.
+[00:35:18.098 --> 00:35:32.554]  We worked with the top developers in the field of detox to take tried and true herbs and other compounds known to safely cleanse the liver and fuse it with the latest research and technological development on concentrating these ingredients to give you the maximum effect.
+[00:35:32.794 --> 00:35:40.639]  Liver Shield is the only liver support product on the market that uses a patented Spigerex blend of powerful organic herbs that support detoxification.
+[00:35:40.799 --> 00:35:46.223]  And when you visit InfoWarsLife.com, see the instructional video on how to do a six-day liver detox.
+[00:35:46.243 --> 00:35:49.765]  This isn't a game, and let me tell you, the results are dramatic.
+[00:35:49.925 --> 00:35:53.888]  Liver Shield is totally organic and made of the safest, high-quality herbs.
+[00:35:54.048 --> 00:36:01.895]  Liver Shield is the only liver support product on the market that uses a patented Spigerex blend of powerful organic herbs that support detoxification.
+[00:36:02.055 --> 00:36:07.460]  And when you visit InfoWarsLife.com, see the instructional video on how to do a six-day liver detox.
+[00:36:07.480 --> 00:36:11.043]  This isn't a game, and let me tell you, the results are dramatic.
+[00:36:11.183 --> 00:36:15.207]  Liver Shield is totally organic and made of the safest, high-quality herbs.
+[00:36:15.327 --> 00:36:19.211]  But that said, you need to consult your physician before you do the full detox.
+[00:36:19.671 --> 00:36:19.911]  I think so.
+[00:37:03.601 --> 00:37:04.822]  Welcome back to the Alex Jones Show.
+[00:37:04.842 --> 00:37:05.982]  I'm David Knight, your host.
+[00:37:06.022 --> 00:37:08.283]  We're going to be interviewing Art Thompson.
+[00:37:08.903 --> 00:37:11.004]  He is the head of the John Birch Society.
+[00:37:11.024 --> 00:37:15.066]  Of course, you can find them at jbs.org, thenewamerican.com.
+[00:37:15.587 --> 00:37:18.368]  Before we go live to Mr. Thompson,
+[00:37:20.011 --> 00:37:23.232]  I want to play a clip for you, some of the presentation that he does.
+[00:37:23.252 --> 00:37:25.633]  Heidi Cruz, First Lady of the North American Union.
+[00:37:25.653 --> 00:37:28.414]  We're going to break that down, talking to him live.
+[00:37:28.454 --> 00:37:34.896]  But you know, when we have an election, one of the things that we want to do is we want to first obviously ask, what are these people proposing to do?
+[00:37:35.436 --> 00:37:37.417]  And then we want to say, well, can we trust them in this?
+[00:37:37.477 --> 00:37:38.217]  Are they authentic?
+[00:37:38.237 --> 00:37:39.938]  You know, we look at somebody like Bernie Sanders.
+[00:37:40.138 --> 00:37:43.999]  You know, I think Bernie is really authentic, but I don't like what he's proposing to do.
+[00:37:44.019 --> 00:37:45.960]  I don't like socialism, but he's authentic.
+[00:37:46.633 --> 00:37:52.315]  But then on the other hand, we've got somebody like Ted Cruz, and he says some good things about supporting the Constitution.
+[00:37:52.356 --> 00:38:06.482]  He wants to appoint judges who are originalists, who take the Constitution not as a living document, but who take it as written, who take it with its original intent, people like Justice Scalia was.
+[00:38:07.262 --> 00:38:08.463]  He says many things like that.
+[00:38:08.484 --> 00:38:22.159]  He says he supports the Second Amendment, so forth and so on, but then we see that he's changed his position in some very uncomfortable ways when it comes to things like these trade partnerships and then voting first to
+[00:38:22.159 --> 00:38:34.487]  To shut down the constitutional process to ratify these trade treaties, the Transatlantic, the Trans-Pacific Partnership, to shut down the constitutional process, which says 67% of the Senators will approve this.
+[00:38:34.547 --> 00:38:34.868]  No, no.
+[00:38:34.908 --> 00:38:36.769]  They changed it to a simple majority.
+[00:38:36.849 --> 00:38:38.350]  They shut down any amendments.
+[00:38:38.370 --> 00:38:39.771]  They shut down any debating.
+[00:38:39.831 --> 00:38:41.672]  They shut down any filibustering of this.
+[00:38:41.932 --> 00:38:48.417]  They said, once we give this secretly negotiated agreement to you, then it's going to be run through
+[00:38:49.097 --> 00:38:51.960]  In a certain period of time, if you don't bring it to the floor, it's going to go there automatically.
+[00:38:52.000 --> 00:38:53.842]  You're not going to be able to talk about it or amend it.
+[00:38:53.902 --> 00:38:54.783]  It's just going to be there.
+[00:38:55.063 --> 00:38:55.343]  Okay?
+[00:38:55.423 --> 00:38:56.805]  Now, he voted for that process.
+[00:38:57.765 --> 00:38:58.927]  It didn't quite make it the first time.
+[00:38:58.967 --> 00:39:04.031]  He got a second chance at it, and then he's getting closer to the presidential election, so then he votes against it.
+[00:39:04.752 --> 00:39:06.474]  Okay, so who are these people?
+[00:39:06.514 --> 00:39:09.376]  I want to play this clip from Arthur Thompson.
+[00:39:10.481 --> 00:39:13.405]  About Heidi Cruz, and then we'll talk to him directly.
+[00:39:13.425 --> 00:39:14.106]  Let's run that clip.
+[00:39:25.701 --> 00:39:38.245]  And it says here, it's got an asterisk by her name, and the asterisk says this, the individual has endorsed the report and submitted an additional or descending view.
+[00:39:39.005 --> 00:39:43.806]  So you go back to the descending view of Heidi Cruz, and this is what she says.
+[00:39:44.787 --> 00:39:52.569]  I support the task force report and its recommendations aimed at building a safer and more prosperous North America.
+[00:39:54.264 --> 00:40:08.243]  And then she goes on and says that she is just concerned that we maintain the ability of these banks to be able to run the banking regulations and that sort of thing, instead of making it a state thing.
+[00:40:09.404 --> 00:40:22.896]  Well, that's no surprise, because at the same time, Heidi Cruz had Morgan connections, and then subsequently went on and became part of the Goldman Sachs banking empire.
+[00:40:23.597 --> 00:40:35.087]  And incidentally, her husband got a very sweetheart deal from Goldman Sachs for his campaign that he just forgot to mention to anybody in his public disclosure.
+[00:40:35.925 --> 00:40:40.069]  Yeah, and that's a very interesting way that he got around that.
+[00:40:40.089 --> 00:40:43.832]  Essentially, he declared it, but he didn't put it in the place where anybody would look for it.
+[00:40:43.852 --> 00:40:46.374]  See, that's the cleverness of Ted Cruz.
+[00:40:46.394 --> 00:40:48.536]  And joining us right now is Arthur Thompson.
+[00:40:48.596 --> 00:40:54.982]  Art has held virtually every volunteer and staff position in the John Birch Society, including National Director of Development and Communications.
+[00:40:55.302 --> 00:40:56.964]  Thank you so much for joining us, Mr. Thompson.
+[00:41:11.156 --> 00:41:23.031]  Uh, when I look at that particular declaration of Ted Cruz, to me, that is the kind of lawyerly tricks that I seem to come to expect from Ted Cruz.
+[00:41:23.051 --> 00:41:25.915]  The fact that he would file it in the wrong place.
+[00:41:26.135 --> 00:41:26.515]  I think so.
+[00:41:55.762 --> 00:41:56.462]  Well, that's true.
+[00:41:57.583 --> 00:42:03.887]  Before we get into it too much, though, I'd like to point out that we tell people about all the candidates.
+[00:42:03.927 --> 00:42:04.148]  Yes.
+[00:42:05.028 --> 00:42:08.711]  We don't take positions as to who to vote for and that sort of thing.
+[00:42:08.731 --> 00:42:10.392]  We stay out of partisan politics.
+[00:42:10.432 --> 00:42:19.378]  But we will have things like articles on Trump that are also revealing, just asking questions, bringing out facts.
+[00:42:19.818 --> 00:42:23.961]  We want people to understand what's going on before they go into the voting booth.
+[00:42:24.301 --> 00:42:24.702]  Absolutely.
+[00:42:25.222 --> 00:42:34.654]  And so we get hit from all sides when we bring these things out, whether it's Trump people or Cruz people or whomever it may be.
+[00:42:35.115 --> 00:42:36.056]  And that's the key thing too.
+[00:42:36.096 --> 00:42:40.221]  I think people need to understand, you know, when I looked at Donald Trump at the very beginning,
+[00:42:41.127 --> 00:42:48.070]  I was very much opposed to Donald Trump because what I saw happening was a cult of personality like I had seen with Barack Obama.
+[00:42:48.571 --> 00:43:03.298]  He at that point had not really talked about any issues and I really wasn't aware personally of how hard he had hit the trade issues going back into the 1990s, the mid-1980s, how he was running ads in the New York Times complaining about
+[00:43:03.658 --> 00:43:04.058]  I don't know.
+[00:43:20.706 --> 00:43:31.639]  You know, there's a cult of personality around Donald Trump, there's one around Ted Cruz, and we need to recognize that, we need to not become a part of that, and we need to pull back and say, where do they stand on the issues?
+[00:43:31.679 --> 00:43:39.107]  And now that we're into the campaign this long, we can understand where they are on the issues, but then there's also the issue of who these people are.
+[00:43:39.608 --> 00:43:40.329]  Are they authentic?
+[00:43:40.769 --> 00:43:41.990]  Who's been their influence?
+[00:43:42.350 --> 00:43:45.271]  And, you know, what is going on behind the scenes?
+[00:43:45.311 --> 00:43:54.136]  And I think that's where it is very important to take a look at the connections of Heidi Cruz to Goldman Sachs, particularly to Wall Street in general.
+[00:43:54.156 --> 00:43:56.557]  Because when she was on that commission with Robert Zoellick,
+[00:43:57.217 --> 00:44:05.540]  She was working for a different bank, and so she says, well, I did a dissenting opinion on the findings of the Council on Foreign Relations about a North American Union.
+[00:44:06.360 --> 00:44:12.502]  She wasn't dissenting too much because the guy who was running it, Robert Zoellick, hired her to come join him at Goldman Sachs after that.
+[00:44:13.582 --> 00:44:21.025]  Well, working with Robert Pastor, she helped write this plan for a North American Union.
+[00:44:22.268 --> 00:44:30.611]  She was a five-year member of the Council on Foreign Relations, and let's put that into a little bit of perspective if we can.
+[00:44:31.542 --> 00:44:38.325]  First of all, the Council on Foreign Relations stands for a one world government under a managed economy.
+[00:44:39.166 --> 00:44:40.546]  Socialism in a word.
+[00:44:41.647 --> 00:44:48.010]  Now, you have to be vetted before you become a member of the Council on Foreign Relations.
+[00:44:48.570 --> 00:44:53.373]  I believe you have to have at least two other members sponsor you.
+[00:44:54.173 --> 00:45:00.956]  And then you go before a membership committee and they take a look at whether or not they're going to allow you to be a member.
+[00:45:01.796 --> 00:45:03.917]  And so you have to go through that process.
+[00:45:03.977 --> 00:45:09.059]  Apparently they liked what they saw and okayed her membership.
+[00:45:10.020 --> 00:45:14.942]  So when we get closer to the campaign, however, she drops that membership.
+[00:45:16.302 --> 00:45:17.763]  You have to ask the question, why?
+[00:45:18.706 --> 00:45:29.689]  And the other thing is, too, that during all this process, Cruz was for these treaties, the TPP and the TTIP, etc.
+[00:45:29.949 --> 00:45:34.171]  And he wrote an op-ed piece of Paul Ryan in support of these treaties as well.
+[00:45:34.671 --> 00:45:35.311]  That's right.
+[00:45:35.551 --> 00:45:44.594]  Now, the thing is that he says, for instance, on one of the Republican debates, he said, I never have supported the TPP.
+[00:45:45.532 --> 00:45:58.619]  Well, technically that may be true, but he supported the process of negotiating the TPP, and we have letters from his constituents showing that support.
+[00:45:59.479 --> 00:46:05.462]  So he may claim now that it has been a done deal, it's been negotiated through, that he disagrees with it.
+[00:46:05.943 --> 00:46:10.045]  But he didn't disagree with it two years ago or three years ago.
+[00:46:10.305 --> 00:46:14.768]  That's right, he was writing op-ed pieces of Paul Ryan saying in theory, you know, calling it free trade.
+[00:46:14.888 --> 00:46:19.090]  And look, I would agree with free trade if we had free trade, if we had a free market.
+[00:46:19.110 --> 00:46:31.058]  But when you have thousands of pages of an agreement that are written by foreign, by multinational corporate lawyers and lobbyists, and our elected representatives are not allowed to see it until
+[00:46:32.378 --> 00:46:39.622]  Very late in the process, and then when you had Senator Sessions take a look at it, he said, this is a living agreement.
+[00:46:39.762 --> 00:46:54.389]  It isn't, even if you understand what these 5,000 pages of managed trade are going to be, at that point you're going to be creating a multinational commission that is going to have the authority to change the terms of this agreement.
+[00:46:54.409 --> 00:47:00.132]  In other words, a multinational commission that you have no control over, that you don't appoint anybody, you can't remove anyone from,
+[00:47:03.120 --> 00:47:07.462]  Get Brain Force at 25% off for a limited time at Infowarslife.com.
+[00:47:07.602 --> 00:47:09.783]  Ladies and gentlemen, I've been on this the last few months.
+[00:47:09.903 --> 00:47:16.706]  You've probably noticed I've been more crazed, more focused, less brain fog, more energy, more special reports, and it's because of Brain Force.
+[00:47:16.946 --> 00:47:20.207]  One of the worst things with most energy products is it's not sustainable, right?
+[00:47:20.227 --> 00:47:21.408]  You're going to crash afterwards.
+[00:47:21.708 --> 00:47:23.549]  And the cool thing about this is it's not just a bunch of
+[00:47:23.869 --> 00:47:28.093]  Energy compounds that are going to fire your brain up to a higher RPM or whatever, which it does do.
+[00:47:28.333 --> 00:47:29.254]  This is sustainable.
+[00:47:29.274 --> 00:47:33.258]  This isn't going to spike and you're going to collapse and you're going to feel really bad afterwards.
+[00:47:33.458 --> 00:47:36.641]  This has a bunch of different antioxidants and compounds and polyphenols.
+[00:47:36.681 --> 00:47:39.704]  Everybody's on these drugs to knock their brain out because the brain's so fried.
+[00:47:39.804 --> 00:47:41.245]  We're looking at the television screen.
+[00:47:41.285 --> 00:47:46.991]  For research purposes, whatever we've been doing, trying to learn something, or staring at the computer all day, working, doing good, you're still damaging your brain.
+[00:47:47.031 --> 00:47:53.016]  You will find BrainForce and other game-changing products at InfoWarsLife.com or call 888-253-3139.
+[00:47:53.056 --> 00:47:55.739]  Get BrainForce at 25% off for a limited time at InfoWarsLife.com.
+[00:47:55.759 --> 00:47:56.920]  And we thank you for your support.
+[00:48:03.123 --> 00:48:08.906]  In the past decade, we have witnessed unparalleled scientific discoveries in the area of health.
+[00:48:09.367 --> 00:48:19.112]  But no one has put together a formula that focuses directly on brain health, nerve growth factors, and optimizing your cellular energy at the same time.
+[00:48:19.413 --> 00:48:23.135]  DNA force is one of the most expensive formulas to produce.
+[00:48:23.715 --> 00:48:28.377]  Some of the ingredients in DNA Force are $12,000 a kilogram.
+[00:48:28.777 --> 00:48:34.999]  We are using the coveted, patented, only American source of PQQ, CoQ10, and more.
+[00:48:35.299 --> 00:48:37.600]  You want the best that's out there at the lowest price anywhere?
+[00:48:38.260 --> 00:48:40.701]  Well, we're bringing you a total win-win.
+[00:48:41.081 --> 00:48:46.583]  The ultimate value, cutting-edge, trailblazing game-changer that also supports the InfoWar.
+[00:48:47.023 --> 00:48:53.687]  We have produced a limited run of DNA Force and it will take up to 12 weeks to produce more once we sell out.
+[00:48:54.028 --> 00:48:58.891]  Secure your DNA Force today at InfoWarsLife.com or call toll free 888-253-3139.
+[00:49:06.260 --> 00:49:10.343]  You're looking at Grand Central Station and next door is the Grand Hyatt Hotel.
+[00:49:11.223 --> 00:49:14.826]  Up there is the Chrysler Building if you're looking for your New York landmarks.
+[00:49:15.326 --> 00:49:28.135]  And here's a giant speaker that it looks like some protesters have just erected inside this barrier here to protest Donald Trump coming to New York City, along with Ted Cruz and John Kasich, although there's not much outcry for him.
+[00:49:28.155 --> 00:49:32.078]  There's definitely a lot of anti-Trump signs and Black Lives Matter signs here.
+[00:49:32.678 --> 00:49:35.320]  We were just on the Alex Jones Show with Anthony Gucciardi.
+[00:49:35.940 --> 00:49:38.841]  Showing people the process, but here's a bunch of signs.
+[00:49:38.901 --> 00:49:43.964]  I got cardboard tubes on them The yellow black those are Black Lives Matter signs.
+[00:49:43.984 --> 00:50:01.552]  There's some in Spanish some in English this is about looks like a young man who was killed his name was Akai and so the the Preparations are ongoing right now as you can see most there's not a lot of protesters here now It's mostly people coming home or going to work
+[00:50:02.898 --> 00:50:04.518]  But they have set up these barricades.
+[00:50:04.538 --> 00:50:05.959]  There's a lot of police on hand.
+[00:50:05.979 --> 00:50:07.319]  A lot more police, it looks like, coming.
+[00:50:08.279 --> 00:50:09.479]  There you can see some more signs.
+[00:50:09.519 --> 00:50:13.160]  The preparations are going fast and furious at this point.
+[00:50:15.620 --> 00:50:21.461]  As you can see, protests have now shut down East 42nd Street, not allowing cars to come by.
+[00:50:21.481 --> 00:50:23.482]  Now they are about to march, it looks like, into the road.
+[00:50:23.502 --> 00:50:27.843]  Police are having to redirect traffic at this point in time.
+[00:50:28.083 --> 00:50:30.343]  This has definitely been too many thus far.
+[00:50:34.332 --> 00:50:35.294]  Don't fuck with us!
+[00:50:35.394 --> 00:50:36.096]  We're here!
+[00:50:36.376 --> 00:50:37.138]  We're clear!
+[00:50:37.419 --> 00:50:37.920]  We're fabulous!
+[00:50:37.980 --> 00:50:39.383]  Don't fuck with us!
+[00:50:39.483 --> 00:50:40.245]  We're here!
+[00:50:40.485 --> 00:50:41.227]  We're clear!
+[00:50:41.528 --> 00:50:42.049]  We're fabulous!
+[00:50:42.089 --> 00:50:43.472]  Don't fuck with us!
+[00:50:43.592 --> 00:50:44.233]  We're here!
+[00:50:48.022 --> 00:51:12.844]  As you can see, they're trying to move all the people further into the road at a major intersection at East 42nd and 11th Avenue in downtown New York City.
+[00:51:12.904 --> 00:51:13.685]  This is crazy!
+[00:51:14.744 --> 00:51:22.128]  And here is the hotel where the GOP gala is being conducted right now with Donald Trump, John Kasich, and Ted Cruz.
+[00:51:22.148 --> 00:51:22.888]  Hey hey!
+[00:51:23.349 --> 00:51:23.889]  Ho ho!
+[00:51:24.489 --> 00:51:26.250]  Trump and Cruz have got to go!
+[00:51:26.370 --> 00:51:26.971]  Hey hey!
+[00:51:27.611 --> 00:51:28.011]  Ho ho!
+[00:51:28.672 --> 00:51:30.253]  Trump and Cruz have got to go!
+[00:51:30.293 --> 00:51:30.573]  Hey hey!
+[00:51:30.613 --> 00:51:30.793]  Ho ho!
+[00:51:30.813 --> 00:51:33.454]  Trump and Cruz have got to go!
+[00:51:35.615 --> 00:51:35.836]  Hey hey!
+[00:51:35.916 --> 00:51:36.116]  Ho ho!
+[00:51:37.360 --> 00:51:38.661]  Trump and Cruz have got to go!
+[00:51:38.701 --> 00:51:39.342]  Hey, hey!
+[00:51:39.702 --> 00:51:40.303]  Ho, ho!
+[00:51:41.003 --> 00:51:42.744]  Trump and Cruz have got to go!
+[00:51:42.844 --> 00:51:43.465]  Hey, hey!
+[00:51:43.865 --> 00:51:45.146]  Ho, ho!
+[00:51:45.166 --> 00:51:47.988]  Trump and Cruz have got to go!
+[00:51:48.068 --> 00:51:53.332]  So now I'm standing in the middle of a major intersection.
+[00:52:04.076 --> 00:52:07.377]  Only revolution can bring justice!
+[00:52:22.603 --> 00:52:25.945]  Only revolution can bring justice!
+[00:52:26.286 --> 00:52:29.588]  Only revolution can bring justice!
+[00:52:29.928 --> 00:52:33.290]  Only revolution can bring justice!
+[00:52:33.610 --> 00:52:37.133]  Only revolution can bring justice!
+[00:52:37.313 --> 00:52:39.994]  Only revolution can bring justice!
+[00:52:45.798 --> 00:52:47.979]  I'm on the right side!
+[00:52:48.059 --> 00:52:50.160]  Trump is number one!
+[00:52:50.180 --> 00:52:51.560]  Trump is number one!
+[00:53:08.688 --> 00:53:09.868]  Yeah.
+[00:53:38.607 --> 00:53:38.827]  They're not.
+[00:53:38.847 --> 00:53:39.168]  They're not.
+[00:53:39.188 --> 00:53:39.768]  They don't kill anyone.
+[00:53:39.788 --> 00:53:40.488]  They're just, you know.
+[00:53:40.528 --> 00:53:41.349]  That's their daddy's deal.
+[00:53:41.389 --> 00:53:42.069]  That's their daddy's deal.
+[00:53:42.089 --> 00:53:42.829]  That's their daddy's deal.
+[00:53:42.869 --> 00:53:43.610]  That's their daddy's deal.
+[00:53:43.650 --> 00:53:44.470]  That's their daddy's deal.
+[00:53:44.490 --> 00:53:45.310]  That's their daddy's deal.
+[00:53:45.350 --> 00:53:46.191]  That's their daddy's deal.
+[00:53:46.211 --> 00:53:46.971]  That's their daddy's deal.
+[00:53:46.991 --> 00:53:47.652]  That's their daddy's deal.
+[00:53:47.712 --> 00:53:48.332]  That's their daddy's deal.
+[00:53:48.352 --> 00:53:49.052]  That's their daddy's deal.
+[00:53:49.092 --> 00:53:50.113]  That's their daddy's deal.
+[00:53:50.133 --> 00:53:50.873]  That's their daddy's deal.
+[00:53:50.913 --> 00:53:51.954]  That's their daddy's deal.
+[00:53:51.994 --> 00:53:52.794]  That's their daddy's deal.
+[00:53:52.954 --> 00:53:53.874]  That's their daddy's deal.
+[00:53:53.894 --> 00:53:54.855]  That's their daddy's deal.
+[00:53:54.875 --> 00:53:55.715]  That's their daddy's deal.
+[00:53:55.775 --> 00:53:56.636]  That's their daddy's deal.
+[00:53:56.656 --> 00:53:57.596]  That's their daddy's deal.
+[00:53:57.616 --> 00:53:58.537]  That's their daddy's deal.
+[00:53:58.577 --> 00:53:59.437]  That's their daddy's deal.
+[00:53:59.457 --> 00:54:00.157]  That's their daddy's deal.
+[00:54:00.177 --> 00:54:00.958]  That's their daddy's deal.
+[00:54:00.978 --> 00:54:01.738]  That's their daddy's deal.
+[00:54:01.758 --> 00:54:02.759]  That's their daddy's deal.
+[00:54:02.799 --> 00:54:03.499]  That's their daddy's deal.
+[00:54:03.539 --> 00:54:04.459]  That's their daddy's deal.
+[00:54:04.499 --> 00:54:05.400]  That's their daddy's deal.
+[00:54:06.961 --> 00:54:08.823]  What's the matter with Lightspeed?
+[00:54:08.883 --> 00:54:16.411]  When Donna says America is great, make America great again, vote for free.
+[00:54:16.471 --> 00:54:23.198]  When the country is built on genocide, the power of the Indians, the Indians got sick.
+[00:54:23.519 --> 00:54:26.942]  They got sick and that wasn't like on purpose.
+[00:54:27.503 --> 00:54:28.203]  I can't hear you.
+[00:54:28.243 --> 00:54:28.884]  I can't hear you.
+[00:54:28.904 --> 00:54:29.384]  I can't hear you.
+[00:54:29.404 --> 00:54:29.925]  I can't hear you.
+[00:54:29.945 --> 00:54:30.625]  I can't hear you.
+[00:54:30.645 --> 00:54:31.386]  I can't hear you.
+[00:54:31.406 --> 00:54:32.086]  I can't hear you.
+[00:54:32.126 --> 00:54:32.846]  I can't hear you.
+[00:54:32.886 --> 00:54:33.707]  I can't hear you.
+[00:54:33.727 --> 00:54:34.147]  I can't hear you.
+[00:54:34.167 --> 00:54:34.888]  I can't hear you.
+[00:54:34.908 --> 00:54:35.828]  I can't hear you.
+[00:54:35.868 --> 00:54:36.449]  I can't hear you.
+[00:54:36.469 --> 00:54:37.129]  I can't hear you.
+[00:54:37.149 --> 00:54:37.690]  I can't hear you.
+[00:54:37.710 --> 00:54:38.150]  I can't hear you.
+[00:54:38.170 --> 00:54:38.770]  I can't hear you.
+[00:54:38.790 --> 00:54:39.511]  I can't hear you.
+[00:54:39.531 --> 00:54:40.351]  I can't hear you.
+[00:54:40.511 --> 00:54:40.972]  I can't hear you.
+[00:54:41.012 --> 00:54:41.772]  I can't hear you.
+[00:54:41.792 --> 00:54:42.513]  I can't hear you.
+[00:54:42.533 --> 00:54:42.873]  I can't hear you.
+[00:54:42.893 --> 00:54:43.393]  I can't hear you.
+[00:54:43.413 --> 00:54:44.054]  I can't hear you.
+[00:54:44.114 --> 00:54:44.954]  I can't hear you.
+[00:54:44.974 --> 00:54:45.675]  I can't hear you.
+[00:54:45.715 --> 00:54:46.615]  I can't hear you.
+[00:54:46.635 --> 00:54:47.396]  I can't hear you.
+[00:54:47.416 --> 00:54:48.036]  I can't hear you.
+[00:54:48.216 --> 00:54:48.837]  I can't hear you.
+[00:54:48.857 --> 00:54:49.557]  I can't hear you.
+[00:54:49.597 --> 00:54:50.198]  I can't hear you.
+[00:54:50.218 --> 00:54:50.738]  I can't hear you.
+[00:54:50.758 --> 00:54:51.859]  I can't hear you.
+[00:54:51.919 --> 00:54:52.659]  I can't hear you.
+[00:54:52.679 --> 00:54:53.240]  I can't hear you.
+[00:54:53.300 --> 00:54:53.700]  I can
+[00:54:55.350 --> 00:54:59.055]  Okay, so you want to go in my bank account and take all my money away?
+[00:54:59.135 --> 00:55:00.177]  Yeah!
+[00:55:00.257 --> 00:55:00.858]  Yeah!
+[00:55:00.958 --> 00:55:01.739]  Yeah!
+[00:55:01.759 --> 00:55:01.939]  Why?
+[00:55:02.139 --> 00:55:03.421]  Because they hate your guts!
+[00:55:03.761 --> 00:55:04.062]  What?
+[00:55:04.302 --> 00:55:05.063]  What did I do?
+[00:55:05.243 --> 00:55:05.424]  Yes!
+[00:55:05.724 --> 00:55:06.946]  What did I do?
+[00:55:07.086 --> 00:55:07.226]  Yes!
+[00:55:07.506 --> 00:55:10.170]  I'm trying to be friends with you guys!
+[00:55:10.410 --> 00:55:11.851]  Don't we hate you?
+[00:55:12.011 --> 00:55:13.752]  My stepdad hates me!
+[00:55:13.852 --> 00:55:14.973]  My stepdad hates me!
+[00:55:15.073 --> 00:55:15.794]  I'm your stepdad!
+[00:55:15.894 --> 00:55:16.895]  Don't kill me!
+[00:55:17.015 --> 00:55:18.235]  I'm not your mom!
+[00:55:18.275 --> 00:55:19.957]  My stepdad hates me!
+[00:55:20.057 --> 00:55:21.037]  And I hate myself!
+[00:55:21.298 --> 00:55:22.458]  And I love Donald Trump!
+[00:55:22.739 --> 00:55:23.599]  Donald Trump!
+[00:55:23.639 --> 00:55:24.260]  Donald Trump!
+[00:55:24.460 --> 00:55:25.100]  Donald Trump!
+[00:55:25.300 --> 00:55:26.121]  Donald Trump!
+[00:55:26.141 --> 00:55:27.061]  Donald Trump!
+[00:55:27.222 --> 00:55:28.022]  Get on board!
+[00:55:28.042 --> 00:55:30.424]  Guys, this is horrible!
+[00:55:34.239 --> 00:55:35.139]  Isis is here!
+[00:55:35.699 --> 00:55:37.100]  Isis is here!
+[00:55:37.180 --> 00:55:38.420]  Wake up folks!
+[00:55:39.040 --> 00:55:39.701]  Wake up!
+[00:55:40.161 --> 00:55:42.301]  Wake up folks!
+[00:55:42.762 --> 00:55:44.222]  Isis is here!
+[00:55:44.582 --> 00:55:46.463]  Isis is here!
+[00:55:46.503 --> 00:55:48.343]  Love Trump's hate!
+[00:55:48.823 --> 00:55:49.904]  Love Trump's hate!
+[00:55:50.424 --> 00:55:51.504]  Love Trump's hate!
+[00:55:52.845 --> 00:55:56.326]  Love Trump's hate!
+[00:55:56.386 --> 00:55:58.926]  Love Trump's hate!
+[00:55:59.026 --> 00:56:00.847]  Love Trump's hate!
+[00:56:01.507 --> 00:56:07.869]  That's a lie!
+[00:56:07.949 --> 00:56:10.870]  Learn how to protect yourself!
+[00:56:10.970 --> 00:56:13.290]  Learn how to shoot an AR-15!
+[00:56:13.330 --> 00:56:15.971]  Learn how to protect yourself!
+[00:56:16.051 --> 00:56:17.551]  No, you don't!
+[00:56:17.631 --> 00:56:17.751]  Why?
+[00:56:20.732 --> 00:56:21.633]  Why are you here?
+[00:56:21.733 --> 00:56:22.793]  Why are you here?
+[00:56:23.593 --> 00:56:26.975]  Learn how to defend yourself.
+[00:56:27.275 --> 00:56:30.617]  Learn how to protect your family.
+[00:56:30.697 --> 00:56:33.638]  Learn how to shoot fire.
+[00:56:33.718 --> 00:56:36.339]  Learn how to shoot fire.
+[00:56:36.400 --> 00:56:39.721]  Get out of here!
+[00:56:39.781 --> 00:56:41.802]  Get out of here!
+[00:56:41.882 --> 00:56:43.243]  Get out of here!
+[00:56:48.113 --> 00:56:51.095]  Learn how to protect yourself!
+[00:56:51.155 --> 00:56:53.236]  Learn how to protect yourself!
+[00:56:53.256 --> 00:56:55.617]  Learn how to shoot an AR-15!
+[00:56:56.038 --> 00:56:57.419]  Learn how to protect yourself!
+[00:56:57.479 --> 00:56:59.680]  Learn how to shoot an AR-15!
+[00:57:00.080 --> 00:57:03.142]  Learn how to shoot an AR-15!
+[00:57:03.602 --> 00:57:08.925]  That's all you guys got?
+[00:57:08.965 --> 00:57:11.966]  That's all you guys got?
+[00:57:12.006 --> 00:57:14.367]  That's all you guys got?
+[00:57:14.387 --> 00:57:17.749]  Why you gonna take that shit?
+[00:57:17.849 --> 00:57:21.430]  Why you gonna take that shit?
+[00:57:21.490 --> 00:57:23.271]  Who ate that shit?
+[00:57:23.291 --> 00:57:23.471]  Who?
+[00:57:32.756 --> 00:57:44.647]  Bernie supporters, all I can say is fascism and socialism doesn't work.
+[00:57:56.243 --> 00:57:57.204]  We need to be working.
+[00:57:57.224 --> 00:57:58.705]  We need to earn our own money.
+[00:57:59.246 --> 00:58:01.448]  We don't need anybody supporting us.
+[00:58:02.109 --> 00:58:06.794]  We need to be working and keep busy and make a great income and raise our families.
+[00:58:07.735 --> 00:58:12.019]  And we already know that socialism doesn't work.
+[00:58:12.159 --> 00:58:13.040]  We already tested that.
+[00:58:13.641 --> 00:58:16.584]  And just to be clear, you went into this area to promote your business.
+[00:58:16.604 --> 00:58:18.426]  You didn't go in there to, like, start a fight with anybody.
+[00:58:18.726 --> 00:58:28.750]  No, I went there to promote my business and to give out flyers and tell people to learn how to protect themselves and learn how to shoot an AR-15 because I didn't know how to shoot an AR-15 until two years ago.
+[00:58:29.810 --> 00:58:40.174]  And once I learned how to shoot an AR-15 and a Glock, I was very happy and I think every citizen who is not a criminal should have firearm access.
+[00:58:40.994 --> 00:58:42.355]  Joe Button says you should get a shotgun.
+[00:58:43.675 --> 00:58:44.376]  Oh, a shotgun?
+[00:58:44.396 --> 00:58:45.736]  That's not good for everything.
+[00:58:45.776 --> 00:58:47.217]  For certain things, but not everything.
+[00:58:47.257 --> 00:58:47.497]  Right.
+[00:58:48.274 --> 00:58:49.276]  Alright, well good luck to you.
+[00:58:49.917 --> 00:58:51.100]  Thanks for promoting the Second Amendment.
+[00:58:51.320 --> 00:58:51.601]  Thank you.
+[00:59:03.840 --> 00:59:05.001]  Knockout is back.
+[00:59:05.341 --> 00:59:16.447]  If you want a product that has 10 known ingredients that naturally get your body to relax, your brain to relax, so you get deep, restful sleep, Knockout's it.
+[00:59:16.847 --> 00:59:18.548]  Infowarslife.com.
+[00:59:19.048 --> 00:59:28.173]  L-theanine, hops flower extract, lemon balm extract, valerian root extract, chamomile flower extract, L-tryptophan extract, melatonin, and more.
+[00:59:28.573 --> 00:59:30.334]  All organic, all the natural sources.
+[00:59:30.894 --> 00:59:31.775]  It's the same price
+[00:59:32.395 --> 00:59:34.476]  You are watching the InfoWars Nightly News, which airs 7 p.m.
+[00:59:34.536 --> 00:59:35.857]  Central at InfoWarsNews.com.
+[00:59:35.917 --> 00:59:38.238]  And your support is helping us defend liberty worldwide.

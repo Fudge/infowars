@@ -1,0 +1,16 @@
+[00:00:08.095 --> 00:00:14.937]  Apple has announced that they will no longer unlock most phones or iPads for police, even with a search warrant.
+[00:00:15.337 --> 00:00:29.242]  Rather than comply with binding court orders, Apple has reworked its latest encryption in a way that prevents the company, or anyone but the device's owner, from gaining access to user data that's typically stored on phones or tablets.
+[00:00:29.722 --> 00:00:38.405]  With this latest upgrade, Apple will no longer be able to bypass your passcode, making it technically impossible for them to respond to government warrants.
+[00:00:38.905 --> 00:00:40.166]  But not so fast.
+[00:00:40.566 --> 00:00:50.930]  This all amounts to little more than Apple realizing that they're losing money by alienating customers who think that they've been all too willing to hand over their private data to the government.
+[00:00:51.630 --> 00:00:59.736]  With the iOS 8, Apple absolves itself of any outright spying compliance by appearing to offer more rigorous security.
+[00:01:00.197 --> 00:01:05.921]  If you're a person who's concerned about privacy, you'll buy their product and not the competitor's, right?
+[00:01:06.441 --> 00:01:09.504]  Your user data can still be accessed.
+[00:01:09.704 --> 00:01:12.266]  Most people already back up their phones to iCloud.
+[00:01:12.706 --> 00:01:21.253]  Apple will still have the ability and the legal responsibility to turn over user data that's stored elsewhere, such as in its iCloud service.
+[00:01:21.873 --> 00:01:30.821]  Users who want to prevent all forms of police access to their information will have to adjust settings in a way that blocks data from flowing to iCloud.
+[00:01:31.241 --> 00:01:35.905]  But even that is not enough to stop the feds from accessing your private data.
+[00:01:36.305 --> 00:01:44.893]  Rogue cell phone towers that have been popping up all over the country are already being used to clandestinely access your mobile devices.
+[00:01:45.473 --> 00:01:58.042]  Meanwhile, as the media is focusing all of its attention on the fact that malicious hackers have stolen nude photos from celebrities, the fact that police are using this very same software is completely overlooked.
+[00:01:58.622 --> 00:02:08.990]  Now, Apple's latest move to convince buyers that it's not actively participating in the surveillance panopticon by offering stronger encryption is little more than deception.
+[00:02:09.390 --> 00:02:13.193]  It's just going to keep those slaves lining up to buy its products.

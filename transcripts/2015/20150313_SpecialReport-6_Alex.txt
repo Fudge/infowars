@@ -1,0 +1,99 @@
+[00:00:08.663 --> 00:00:12.684]  Hi, I'm Rex Jones, and this is a report about drones.
+[00:00:14.205 --> 00:00:15.005]  What are drones?
+[00:00:16.466 --> 00:00:18.166]  What are their uses in today's society?
+[00:00:19.287 --> 00:00:25.869]  Will they make humanity obsolete compared to the new age of robotics and computer chips of tomorrow?
+[00:00:30.726 --> 00:00:33.309]  What exactly is a civilian drone?
+[00:00:33.749 --> 00:00:40.876]  A civilian drone is a drone that won't attack you, spy on you, or taze you in any way, shape, or form.
+[00:00:41.377 --> 00:00:48.184]  These civilian drones normally go for a non-threatening look and style and approach, like this little thing over here.
+[00:00:48.204 --> 00:00:53.349]  They're used in filming, photography, and just old plain recreational fun.
+[00:00:54.136 --> 00:00:57.379]  In the media, drones are becoming more and more popular.
+[00:00:57.979 --> 00:01:05.006]  Using drones in films is actually one of the number one new filmmakers trends that is going on in the USA today.
+[00:01:05.947 --> 00:01:14.734]  Later, we're going to have an expert veteran drone operator come on the show and have him explain to us all the little quirks and kinks that these drones have to offer.
+[00:01:15.795 --> 00:01:21.317]  Before we go to our expert, I would just like to explain to you a few facts about drones.
+[00:01:22.377 --> 00:01:31.279]  A drone, as Wikipedia and Webster describe it, is an unmanned aircraft or ship guided by a remote control or onboard computer.
+[00:01:34.340 --> 00:01:38.061]  When operating a drone, the owner must have a direct line of sight.
+[00:01:38.361 --> 00:01:44.983]  The direct line of sight allows the owner of the drone to fly it safely and to make sure he does not get disoriented
+[00:01:46.497 --> 00:01:48.704]  Now let's take a look at the job market.
+[00:01:49.166 --> 00:01:53.940]  With more and more drones being spat out of factories, the jobs are opening up.
+[00:01:55.237 --> 00:02:00.462]  Amazon is looking for drone pilots to drop gifts off at people's houses.
+[00:02:01.063 --> 00:02:06.588]  And all sorts of other companies are lining up and making sure they hire for new drone operators.
+[00:02:07.008 --> 00:02:09.590]  So hey, if you're a hobbyist, you just got a job.
+[00:02:10.011 --> 00:02:13.614]  Now that we've covered the basics of drones, let's go to a real expert.
+[00:02:14.295 --> 00:02:18.479]  I would like to introduce you to Gerard of I Am Ariel.
+[00:02:18.799 --> 00:02:19.620]  How does a drone work?
+[00:02:20.270 --> 00:02:23.753]  Surprisingly, the technology of drones is a lot like cell phones.
+[00:02:23.914 --> 00:02:30.600]  Basically, cell phones have a GPS, they have what they call an IMU, which tells you its orientation, they have a compass.
+[00:02:31.061 --> 00:02:34.164]  So basically, these are the same kind of things that you find in a drone.
+[00:02:34.204 --> 00:02:38.127]  A GPS, internally, you'll have a compass, exactly.
+[00:02:38.748 --> 00:02:41.070]  Here you'll have a place where you can attach your camera.
+[00:02:41.531 --> 00:02:44.774]  So really, the technology is very similar to a cell phone.
+[00:02:45.026 --> 00:02:47.308]  When I'm looking at this, this is a battery, right?
+[00:02:47.408 --> 00:02:47.588]  Yep.
+[00:02:48.149 --> 00:02:55.074]  So, what makes this so different than the average Duracell D or AA battery you'd buy at Target?
+[00:02:55.535 --> 00:03:01.479]  First of all, it's a lithium polymer battery and it's very light and it's very high voltage.
+[00:03:01.620 --> 00:03:07.925]  So, it gives these guys a lot of thrust and gets them up in the air and flying for a good amount of time.
+[00:03:09.002 --> 00:03:18.426]  Amazon is looking at hiring ex-military personnel to fly drones and deliver packages to their customers.
+[00:03:18.546 --> 00:03:20.687]  How do you feel about that and what are some problems there?
+[00:03:21.055 --> 00:03:23.276]  Well, I think it's a really neat concept.
+[00:03:23.336 --> 00:03:37.863]  I think a lot of things need to be figured out as far as, you know, allowing these drones to travel through cities and buildings and just being very careful and mindful of where these things go, especially when you lose sight of them.
+[00:03:37.943 --> 00:03:41.785]  And that's a big thing with flying drones, that you always want to have line of sight.
+[00:03:42.489 --> 00:03:44.810]  What happens when a drone gets out of control?
+[00:03:45.270 --> 00:03:47.771]  Like, take this one article for example.
+[00:03:48.251 --> 00:03:52.953]  Drone owner located after device lands in family's backyard.
+[00:03:53.274 --> 00:03:55.595]  There's some obvious concerns about privacy there.
+[00:03:56.035 --> 00:03:56.315]  Sure.
+[00:03:57.595 --> 00:04:05.579]  Yeah, and you know, that's a very unfortunate case and it doesn't happen all the time, but sometimes if the battery runs out,
+[00:04:06.239 --> 00:04:11.704]  Or there's some pilot error, the drone will fly away.
+[00:04:12.005 --> 00:04:16.529]  And fortunately, with a lot of these systems, it's built in what they call return to home.
+[00:04:16.629 --> 00:04:26.919]  So, for example, with this remote, if I just power it off, the drone knows to automatically come back to the point where I launched it from because it's locked in by the GPS.
+[00:04:27.230 --> 00:04:36.313]  The government has started to put kill switches into these drones to where it's in the firmware to restrict drone usage in certain areas.
+[00:04:36.333 --> 00:04:46.776]  If I was flying this drone near the White House or any other top secret government area, it would immediately fall out of the sky or just return to home.
+[00:04:47.182 --> 00:04:49.124]  The most important thing, I think it's a safety issue.
+[00:04:49.785 --> 00:05:00.836]  For example, if you try to fly these drones within five miles of an airport, you can literally be flying and it's almost like it hits a brick wall and it will just not go into that airspace.
+[00:05:01.337 --> 00:05:04.019]  It's designed for a reason, right?
+[00:05:04.420 --> 00:05:08.164]  We don't want drones in the airspace of planes and all that kind of stuff.
+[00:05:08.677 --> 00:05:18.340]  But the problem with that is that when we come out with, like, you know how Google's always talking about smart cars and smart planes that will self-drive?
+[00:05:18.360 --> 00:05:18.800]  Right.
+[00:05:18.820 --> 00:05:22.362]  The problem is, what would happen if the firmware was in those as well?
+[00:05:22.982 --> 00:05:26.643]  One day, if it was in a computer chip, that could be implanted into humans.
+[00:05:27.523 --> 00:05:30.705]  So, there's concerns there about the government regulating everything.
+[00:05:30.725 --> 00:05:31.545]  Yeah, absolutely.
+[00:05:31.705 --> 00:05:33.586]  Gerard, it was great to have you here.
+[00:05:33.706 --> 00:05:34.186]  Thank you, Rex.
+[00:05:34.246 --> 00:05:34.786]  Appreciate it.
+[00:05:35.353 --> 00:05:43.639]  In this chilling commercial put out by the Pennsylvania Tax Committee, they brag about how they might use drones to track us and spy on us.
+[00:05:44.860 --> 00:05:49.023]  They claim that they would only use it on tax cheats, but what if you were a government dissident?
+[00:05:49.263 --> 00:05:49.824]  It's easy.
+[00:05:50.324 --> 00:05:55.828]  Pay online by June 18th, and we'll skip your penalty and take half off your interest.
+[00:05:56.769 --> 00:06:00.112]  Because Tom, we do know who you are.
+[00:06:02.813 --> 00:06:07.416]  Now that we're done with consumer drones, it's time to move on to military and law enforcement drones.
+[00:06:07.856 --> 00:06:19.463]  These drones go from tiny nano-spy drones that they're using in Iraq to track criminals to the giant Reaper drones which can fire four Hellfire missiles raining down on villages.
+[00:06:20.384 --> 00:06:25.108]  Let's go through a few InfoWars.com articles about the drone threat today.
+[00:06:40.822 --> 00:06:44.225]  I wonder how many other people got hurt by the shrapnel and the blast.
+[00:06:44.605 --> 00:06:45.746]  Because this was in a village.
+[00:06:45.786 --> 00:06:47.768]  This was not out in the middle of nowhere.
+[00:06:48.348 --> 00:06:50.650]  Now let's look at the law enforcement side of things.
+[00:06:51.450 --> 00:06:56.054]  Riot control drone to shoot pepper spray bullets at protesters.
+[00:06:56.254 --> 00:06:56.775]  How nice!
+[00:06:57.475 --> 00:07:02.118]  For decades now, riot control has always been a government must-have.
+[00:07:02.458 --> 00:07:05.740]  There are a lot of these riot control drones, and I want to go to another one.
+[00:07:06.281 --> 00:07:11.224]  A DHS-funded Taser drone that was launched right here in Texas.
+[00:07:12.355 --> 00:07:27.954]  Montgomery County in Texas spent $250,000 on a taser drone that can follow a suspect and shoot four barbed electrodes that can be shot at a distance of 100 feet delivering
+[00:07:28.414 --> 00:07:31.777]  Neuromuscular incapacitation to the victim.
+[00:07:32.077 --> 00:07:35.020]  I think that this is a very proactive way to steal our rights.
+[00:07:35.320 --> 00:07:38.222]  Well, we've learned a lot about drones today, but that's not all.
+[00:07:38.543 --> 00:07:41.085]  Go online and be active and find more knowledge.
+[00:07:41.485 --> 00:07:44.027]  Infowars.com isn't a bad place to start either.
+[00:07:44.608 --> 00:07:45.588]  So, have fun!
+[00:07:49.612 --> 00:07:52.594]  I'm Rex Jones, reporting for InfoWars.com.
+[00:08:02.028 --> 00:08:07.834]  In the past decade, we have witnessed unparalleled scientific discoveries in the area of health.
+[00:08:08.294 --> 00:08:18.024]  But no one has put together a formula that focuses directly on brain health, nerve growth factors, and optimizing your cellular energy at the same time.
+[00:08:18.345 --> 00:08:22.049]  DNA force is one of the most expensive formulas to produce.
+[00:08:22.629 --> 00:08:27.294]  Some of the ingredients in DNA Force are $12,000 a kilogram.
+[00:08:27.674 --> 00:08:33.900]  We are using the coveted, patented, only American source of PQQ, CoQ10, and more.
+[00:08:34.220 --> 00:08:36.502]  You want the best that's out there at the lowest price anywhere?
+[00:08:37.163 --> 00:08:39.605]  Well, we're bringing you a total win-win.
+[00:08:40.006 --> 00:08:45.511]  The ultimate value, cutting-edge, trailblazing game-changer that also supports the info war.
+[00:08:45.931 --> 00:08:52.601]  We have produced a limited run of DNA Force and it will take up to 12 weeks to produce more once we sell out.
+[00:08:52.942 --> 00:08:57.729]  Secure your DNA Force today at InfoWarsLife.com or call toll free 888-253-3139.
+[00:08:57.749 --> 00:08:59.171]  DNA Force from InfoWarsLife.

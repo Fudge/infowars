@@ -1,0 +1,717 @@
+[00:00:20.168 --> 00:00:22.130]  Welcome to the InfoWars Nightly News.
+[00:00:22.190 --> 00:00:26.333]  It is Monday, October 31st, 2016, and I'm Liane McAdoo.
+[00:00:26.613 --> 00:00:28.034]  Here's a look at what's coming up tonight.
+[00:00:30.996 --> 00:00:34.079]  Tonight, election fraud exposed.
+[00:00:34.319 --> 00:00:42.405]  Bev Harris has just released a new report, Fractional Magic, breaking down how black box voting is being used to fix election results.
+[00:00:43.206 --> 00:00:43.906]  That is dangerous.
+[00:00:46.188 --> 00:00:49.751]  Because when you try to sow the seeds of doubt in people's minds,
+[00:00:53.118 --> 00:00:56.019]  Then this.
+[00:00:56.439 --> 00:01:05.041]  Newly leaked emails condemned Donna Brazile as a liar and a fraud, giving debate questions to Hillary before the debate, even though she denied it.
+[00:01:05.881 --> 00:01:09.582]  Also, is the Clinton campaign collapsing before our eyes?
+[00:01:10.202 --> 00:01:14.623]  New WikiLeaks and the latest polls show Clinton is trending down and fast.
+[00:01:15.629 --> 00:01:17.174]  And then, Halloween.
+[00:01:17.675 --> 00:01:20.142]  A new exercise in political correctness?
+[00:01:20.924 --> 00:01:23.692]  All that and more on the InfoWars Nightly News.
+[00:01:30.399 --> 00:01:33.041]  Look, I'm not going to sit here and say, see, I told you so.
+[00:01:33.281 --> 00:01:36.303]  That communist Chinese style net censorship is coming to the web.
+[00:01:36.323 --> 00:01:37.424]  Because it's already here.
+[00:01:37.824 --> 00:01:38.484]  It's being announced.
+[00:01:38.825 --> 00:01:42.307]  The way you keep the internet open and free is you get involved more than ever.
+[00:01:42.767 --> 00:01:44.048]  You don't let them break your will.
+[00:01:44.689 --> 00:01:56.757]  Go to infowars.com forward slash app and download an app that took us over a year to develop that we're going to be expanding on the next few months with free video and audio and podcast feeds and breaking news and alerts and so much more.
+[00:01:57.037 --> 00:01:59.979]  Don't sit by and let the internet and free speech be stolen from you.
+[00:02:00.519 --> 00:02:01.120]  Take action!
+[00:02:04.822 --> 00:02:06.723]  I train two, three times a day.
+[00:02:07.503 --> 00:02:11.806]  They're brutal, agonizing, painful training sessions.
+[00:02:16.729 --> 00:02:18.190]  I have to have the edge over my opponents.
+[00:02:19.031 --> 00:02:24.094]  I believe that InfoWars products, Super Male Vitality, you know, that gives me the edge.
+[00:02:26.035 --> 00:02:27.056]  Well, you have to know where you break.
+[00:02:27.416 --> 00:02:30.740]  You know, ultimately, like, you don't push yourself to know where that breaking point is.
+[00:02:30.960 --> 00:02:33.422]  You're always going to be falling short of what your potential is.
+[00:02:33.923 --> 00:02:39.609]  So it's really just about finding how far you can go.
+[00:02:56.633 --> 00:02:57.878]  There's a lot of different things out there.
+[00:02:58.982 --> 00:02:59.886]  I only use the best.
+[00:03:04.377 --> 00:03:09.380]  Well, the definitive evidence of how America's elections are hacked has arrived.
+[00:03:09.441 --> 00:03:11.222]  The missing link has been discovered.
+[00:03:11.562 --> 00:03:14.624]  Now, this is exposed by Black Box Voting, which was founded in 2003.
+[00:03:14.724 --> 00:03:22.089]  They're a nonpartisan investigative group that does reporting on elections in an attempt to stop vote rigging.
+[00:03:22.450 --> 00:03:27.753]  So they have found the source code written within these electronic voting machines.
+[00:03:27.893 --> 00:03:30.255]  They're there to rig the election from the start.
+[00:03:30.275 --> 00:03:32.737]  The way this works is they skim the votes.
+[00:03:33.257 --> 00:03:40.238]  So if you start doing things like I'm going to do every third vote or I'm going to add 100 votes here, you're not going to be very precise.
+[00:03:40.258 --> 00:03:42.559]  Instead, you need to do what in finance they call an allocation.
+[00:04:03.504 --> 00:04:10.647]  Whatever number of people show up, the guy is going to get X percent of those votes, whatever they are.
+[00:04:11.627 --> 00:04:12.648]  Now, think about this.
+[00:04:13.368 --> 00:04:19.350]  If you have 100 votes and you say, my guy's going to get 43 percent, that's 43 votes.
+[00:04:19.410 --> 00:04:21.191]  But if you have 99 people show up,
+[00:04:22.071 --> 00:04:22.251]  What's
+[00:04:45.450 --> 00:04:45.970]  I don't know.
+[00:05:03.897 --> 00:05:06.958]  This is the master computers that control all the voting machines.
+[00:05:07.018 --> 00:05:08.418]  Bev, this is incredible.
+[00:05:08.538 --> 00:05:14.580]  And again, time and time again, you and your researchers tirelessly around the country have exposed the different ways they're doing it.
+[00:05:15.121 --> 00:05:19.142]  And so I guess as a top fraud investigator, you're able to reverse engineer.
+[00:05:19.482 --> 00:05:21.382]  Okay, if we are going to steal it, how will we do it?
+[00:05:21.422 --> 00:05:22.263]  Let's look for this.
+[00:05:22.803 --> 00:05:25.624]  And then sure enough, you've caught them dialing in remotely.
+[00:05:25.644 --> 00:05:26.244]  This is amazing.
+[00:05:26.644 --> 00:05:27.985]  Yeah.
+[00:05:28.005 --> 00:05:32.568]  In other words, anybody can sit there and go, well, this looks like a vulnerability, theoretically.
+[00:05:32.908 --> 00:05:33.849]  This is not a theory.
+[00:05:33.889 --> 00:05:34.489]  This is real.
+[00:05:34.529 --> 00:05:36.291]  This is something that was put into the system.
+[00:05:36.711 --> 00:05:38.192]  They actually changed the setting.
+[00:05:38.332 --> 00:05:47.538]  We can actually go back and figure out now that we know exactly the date that the setting was changed, and that it migrated to all the other manufacturers in the U.S.
+[00:05:47.939 --> 00:05:54.103]  So now, at this point, the setting is in there to be able to allocate votes by percent.
+[00:05:55.525 --> 00:05:56.546]  Let's be clear, let's be clear.
+[00:05:56.606 --> 00:05:59.148]  You're finding this in the voting software, you go in, it's this
+[00:06:18.740 --> 00:06:24.481]  Algorithm or system to be able to basically program it to show the outcome you want by shaving votes.
+[00:06:24.542 --> 00:06:31.223]  I mean, in a layperson who's not an expert like you or a top computer programmer, what's happening?
+[00:06:31.263 --> 00:06:35.184]  So there's this one central computer which at the end of the day all the votes come to it.
+[00:06:35.704 --> 00:06:36.645]  That's where you take it.
+[00:06:36.665 --> 00:06:39.085]  You don't run around to 5,000 different things in precincts.
+[00:06:39.125 --> 00:06:43.246]  You wait till the votes come to you and then you have your way with them.
+[00:06:43.846 --> 00:06:45.747]  And it's very, very precise.
+[00:06:46.652 --> 00:06:52.183]  It's invisible and it doesn't matter whether the system's on the internet or not.
+[00:06:52.263 --> 00:06:55.249]  None of the stuff that they say is a protection matters at all.
+[00:06:55.710 --> 00:06:56.672]  You have your way with them.
+[00:06:58.086 --> 00:07:08.894]  Then once you control the votes in whatever way you want, for whatever target you want, this can be done by one or a couple of people across whole jurisdictions.
+[00:07:09.494 --> 00:07:14.218]  I actually didn't want to write the story unless I was absolutely sure.
+[00:07:14.238 --> 00:07:18.821]  So not only did I see him do it, but I had him show me how it was done.
+[00:07:19.502 --> 00:07:23.665]  And I took some vote databases, real vote databases that I have.
+[00:07:24.305 --> 00:07:28.586]  One of them was the entire state of Alaska, the vote database from the 2004 election.
+[00:07:29.206 --> 00:07:32.787]  I was able to change every precinct in the state of Alaska in four seconds.
+[00:07:33.168 --> 00:07:43.190]  Is it not clear that Hillary and the media are trying to sell the idea that there is an election fraud and that Trump's going to lose by a landslide when the polls and everything else show something opposite?
+[00:07:43.691 --> 00:07:44.691]  Let me put it this way.
+[00:07:44.891 --> 00:07:47.092]  Of course, things have been very surprising of late.
+[00:07:47.472 --> 00:07:51.933]  But if she is still viable in any way, whether or not she wins, she will win.
+[00:07:53.482 --> 00:07:56.283]  Now, for the full report, go to InfoWars.com.
+[00:07:56.303 --> 00:08:03.947]  We've got an article up right now that has embedded Alex Jones' breaking down all the information that Bev Harris provided on the show today.
+[00:08:04.047 --> 00:08:11.951]  As well, we have her mini-documentary exposing this voter fraud and how the elections could be rigged by a Soros-connected company.
+[00:08:11.971 --> 00:08:15.452]  This is a George Soros company we've been telling you about, Smartmatic.
+[00:08:15.472 --> 00:08:20.895]  They're not officially recognized by the Commission on Elections, but for some reason they're using these machines
+[00:08:21.255 --> 00:08:22.696]  In a lot of the swing states there.
+[00:08:22.736 --> 00:08:24.337]  So this is key information.
+[00:08:24.397 --> 00:08:25.438]  This is the smoking gun.
+[00:08:25.478 --> 00:08:26.238]  This is bombshell.
+[00:08:26.578 --> 00:08:31.021]  You need to share that report with everyone on all of your social media accounts.
+[00:08:31.181 --> 00:08:33.683]  Get the word out before people get out there and vote.
+[00:08:34.143 --> 00:08:36.244]  Obama tries to say that the elections aren't rigged.
+[00:08:36.324 --> 00:08:37.285]  What does that even mean?
+[00:08:37.605 --> 00:08:38.766]  Well, here's what it means.
+[00:08:38.866 --> 00:08:44.109]  And Bev Harris breaks it down with black box voting of exactly how that can be done.
+[00:08:44.189 --> 00:08:46.230]  It's not a conspiracy theory anymore.
+[00:08:46.590 --> 00:08:47.491]  There's facts there.
+[00:08:47.891 --> 00:08:48.792]  It's a conspiracy.
+[00:08:49.432 --> 00:08:51.414]  Now, here's another conspiracy.
+[00:08:51.454 --> 00:08:59.701]  We've told you about this, how Twitter will use their algorithms to suppress any negative attention going out to Hillary Clinton or the Democrats.
+[00:08:59.761 --> 00:09:00.021]  Really?
+[00:09:00.462 --> 00:09:01.863]  Well, success!
+[00:09:02.103 --> 00:09:04.525]  Hillary for prison is trending on Twitter.
+[00:09:04.545 --> 00:09:12.452]  I repeat, Hillary for prison trending on Twitter after the FBI announced that they were going to be reopening the Clinton investigation.
+[00:09:12.512 --> 00:09:12.792]  And this
+[00:09:13.973 --> 00:09:22.556]  Their algorithm was bypassed thanks to some creative patriots who did a little misspelling there on the tag.
+[00:09:22.696 --> 00:09:25.037]  And that was how they were able to break through the censorship.
+[00:09:25.057 --> 00:09:35.921]  They just added one extra I. And so that small change worked because as soon as they kind of tweaked it a little, it vaulted to the top of Twitter's trending section, reaching over 40,000 tweets, of course.
+[00:09:37.942 --> 00:09:44.367]  You reach out to Twitter and they had no comment on their whole algorithms and the way they work, but we've exposed this before.
+[00:09:44.428 --> 00:09:45.729]  They're obviously compromised.
+[00:09:46.169 --> 00:09:49.271]  But you might have your wish for Hillary for prison.
+[00:09:49.832 --> 00:09:54.396]  If she is charged with obstruction of justice, she could go to prison for 20 years.
+[00:09:54.836 --> 00:09:57.878]  Now Michael Snyder covers this on the Economic Collapse blog.
+[00:09:57.918 --> 00:09:59.740]  He says really no one's talking about
+[00:10:01.741 --> 00:10:02.982]  This obstruction of justice.
+[00:10:03.022 --> 00:10:09.746]  A lot of people are just focusing on the fact that the investigation is into the mishandling of classified information, classified documents.
+[00:10:10.086 --> 00:10:22.954]  But if the FBI discovers that Clinton altered, destroyed or concealed any emails that should have been turned over to the FBI during this original investigation, she could be charged with obstruction of justice if found guilty.
+[00:10:23.334 --> 00:10:29.058]  Obviously, her political career would be immediately ended, but could send her to prison for the rest of her life.
+[00:10:29.818 --> 00:10:30.598]  So there you go.
+[00:10:30.618 --> 00:10:32.939]  The hammer is coming down on Hillary Clinton.
+[00:10:33.379 --> 00:10:37.519]  And in fact, that's what a lot of pollsters are saying as well, that this could be it.
+[00:10:37.619 --> 00:10:38.600]  This could be it for her.
+[00:10:39.320 --> 00:10:45.381]  The latest Rasmussen poll says 40% of Clinton-leading voters say that they could change their minds.
+[00:10:45.821 --> 00:10:49.421]  Now, this poll was partly conducted after the FBI's announcement on Friday.
+[00:10:50.062 --> 00:10:55.803]  And so this is showing that even a lot of people who were thinking they were going to vote for Hillary Clinton aren't sure now.
+[00:10:55.823 --> 00:10:56.583]  86% of Americans are now
+[00:10:58.843 --> 00:11:05.624]  Sure of who, how they will vote, 40% of Hillary Clinton's supporters remain unconvinced though.
+[00:11:05.945 --> 00:11:10.165]  So, and then another pollster, this is a former Jimmy Carter pollster, Pat Caddell.
+[00:11:10.585 --> 00:11:18.167]  He says the dam is about to break on Hillary and voters are abandoning the establishment candidate in droves.
+[00:11:18.647 --> 00:11:23.548]  I mean, how many scandals can happen to this woman before her supporters jump ship?
+[00:11:24.588 --> 00:11:26.709]  Pat Caddell says she's hemorrhaging support.
+[00:11:27.469 --> 00:11:27.809]  I think so.
+[00:11:43.360 --> 00:11:43.900]  Yeah.
+[00:12:04.509 --> 00:12:11.996]  Latest announcement by the FBI could be the dam breaking for Hillary Clinton and we'll have to see as those polls come out.
+[00:12:12.697 --> 00:12:19.263]  Not that they really mean anything because we've seen CNN and others skewing the polls on purpose, but we'll see.
+[00:12:19.283 --> 00:12:21.966]  That's why we definitely need a landslide at the voting booth.
+[00:12:22.626 --> 00:12:37.594]  Now, a former assistant director of the FBI says the Clintons are a crime family and he would know because this is James Kallstrom and he was actually assistant director of the FBI in charge of the New York office during the 90s.
+[00:12:38.094 --> 00:12:42.477]  So he, you know, tracked down a bunch of mobsters and swindlers and crime families for years.
+[00:12:42.857 --> 00:12:44.298]  So he says the Clintons
+[00:12:44.798 --> 00:12:46.479]  That's a crime family, basically.
+[00:12:46.579 --> 00:12:47.819]  It's like organized crime.
+[00:12:47.919 --> 00:12:50.300]  I mean, the Clinton Foundation is a cesspool.
+[00:12:50.641 --> 00:12:53.502]  God forbid we put someone like that in the White House.
+[00:12:53.842 --> 00:12:58.524]  So this is a former FBI, assistant FBI director, 27 years.
+[00:12:58.884 --> 00:12:59.885]  He's a veteran of the FBI.
+[00:12:59.925 --> 00:13:02.866]  And this is what he thinks about Hillary Clinton and her Clinton Foundation.
+[00:13:03.226 --> 00:13:16.712]  Totally scandalous, which is why we're probably seeing a mutiny within the FBI, which is probably what has caused James Comey to come out and try to get ahead of the scandals breaking because we're hearing rumblings.
+[00:13:17.132 --> 00:13:22.955]  People within the FBI were very discouraged with James Comey's decision to not pursue charges.
+[00:13:23.975 --> 00:13:35.098]  And they also said that based on Assange and even Kim.com saying that they were going to release Hillary Clinton's emails, they wanted to kind of get ahead of this story before it got too bad.
+[00:13:35.118 --> 00:13:46.801]  They kind of forced James Comey's hand because obviously if Assange or Kim.com released any bombshell emails from Hillary Clinton, this would completely erode the trust in the system if it isn't already.
+[00:13:47.441 --> 00:13:55.867]  But now there's a new report about the Department of Justice repeatedly trying to kill the FBI's investigation into the Clinton Foundation.
+[00:13:56.808 --> 00:13:59.270]  So these are senior level Justice Department officials.
+[00:13:59.370 --> 00:14:04.554]  They push back heavily on an ongoing FBI investigation of the Clinton Foundation.
+[00:14:04.574 --> 00:14:06.415]  This is according to the Wall Street Journal.
+[00:14:07.135 --> 00:14:14.401]  They laid out numerous examples based on law enforcement sources of how these DOJ officials intervened.
+[00:14:15.181 --> 00:14:18.523]  Now, you'll recall the CNN said, oh, they tabled that investigation.
+[00:14:18.563 --> 00:14:21.364]  The Clinton Foundation is perfectly squeaky clean.
+[00:14:22.004 --> 00:14:23.765]  But in fact, that is not true.
+[00:14:24.445 --> 00:14:32.188]  And this report by the Daily Caller is pointing out how they were reporting in August that the FBI and several U.S.
+[00:14:32.228 --> 00:14:37.571]  attorney's offices were conducting an unorthodox joint investigation into the Clinton Foundation.
+[00:14:38.271 --> 00:14:40.772]  And a lot of those senior level officials were really
+[00:14:41.312 --> 00:14:48.698]  Really ticked that they would dare go behind the back of the Department of Justice and continue on with their investigation even though they tried to stymie it.
+[00:14:49.279 --> 00:14:50.880]  Now these are prosecutors with the U.S.
+[00:14:50.920 --> 00:14:53.402]  Attorney's Office in the Eastern District of New York.
+[00:14:53.742 --> 00:14:58.466]  This is where Loretta Lynch led before taking over as the Attorney General last year.
+[00:14:58.486 --> 00:15:07.314]  They refused to allow FBI investigators from probing the Clinton family charity to review emails found on the devices that were turned over this year
+[00:15:07.734 --> 00:15:09.195]  By two of Clinton's lawyers.
+[00:15:09.215 --> 00:15:13.678]  This was during a separate investigation into the mishandling of classified information.
+[00:15:14.338 --> 00:15:24.504]  So they were saying that the rationale there was that these devices were covered by partial immunity and limited use agreements that the Clinton lawyers agreed to with the DOJ.
+[00:15:24.845 --> 00:15:34.811]  And now there's also reports that Cheryl Mills, half the reason why she offered to become Hillary Clinton's counsel, is because then that would grant her that attorney-client privilege.
+[00:15:35.171 --> 00:15:38.673]  I mean, just total corruption covering up for one another in every single way.
+[00:15:39.074 --> 00:15:44.037]  And now we see the Department of Justice repeatedly trying to kill the FBI investigation.
+[00:15:44.057 --> 00:15:50.481]  Of course, we see Loretta Lynch meeting on the plane with Bill Clinton, secretly there on the tarmac for about a half an hour.
+[00:15:50.581 --> 00:15:56.946]  And then just a few days later, the FBI abruptly says, nothing to see here, Hillary Clinton totally innocent.
+[00:15:57.426 --> 00:16:03.908]  But apparently there were a lot of people within the FBI who were really upset with James Comey for making that decision.
+[00:16:04.288 --> 00:16:05.729]  A lot of pushback occurring.
+[00:16:06.329 --> 00:16:20.374]  And now what they're saying, of course, is that these emails that they found on a device shared by Huma Abedin and her husband, Anthony Weiner, are what is causing James Comey to now speak out just days before the election.
+[00:16:20.894 --> 00:16:22.655]  Well, Kid Daniels has a story up.
+[00:16:23.135 --> 00:16:28.898]  I mean, this is just to underscore how not good these people are for the national security of this country.
+[00:16:29.699 --> 00:16:36.302]  Hackers likely stole Hillary Clinton's classified documents that were kept on Huma Abedin's email account.
+[00:16:37.063 --> 00:16:40.965]  500 million Yahoo users were hacked in 2014.
+[00:16:41.425 --> 00:16:48.489]  Huma Abedin used her real name as her username, so any state-sponsored hackers would be interested in what she had to share.
+[00:16:49.872 --> 00:16:54.954]  Well, former prosecutor and DOJ head Loretta Lynch, she can't handle any questions asked of her.
+[00:16:54.994 --> 00:16:59.155]  She's pleading the fifth regarding the President's cash payment to Iran.
+[00:16:59.215 --> 00:17:08.178]  This is coming after Senator Marco Rubio and Representative Mike Pompeo earlier this month asked her a few questions about the details of this cash payment.
+[00:17:08.759 --> 00:17:12.020]  And according to the Assistant Attorney General Peter Kadzic,
+[00:17:12.600 --> 00:17:18.788]  The refusal to answer is met with this inability to disclose any information regarding this Iran deal.
+[00:17:18.908 --> 00:17:29.661]  So what we see is the DOJ had pleading the Fifth to avoid prosecution herself regarding this deal because we know that the President giving cash to Iran and what he did
+[00:17:30.282 --> 00:17:31.643]  It's potentially illegal.
+[00:17:31.743 --> 00:17:39.991]  Now, in this specific case, the Congress, they're addressing the national security issue, and this was what the lawmakers had to say about it.
+[00:17:40.071 --> 00:17:50.120]  Your staff failed to address any of our questions and instead provided a copy of public testimony and a lecture about the sensitivity of information associated with the issue.
+[00:17:50.600 --> 00:17:51.861]  Now as the U.S.
+[00:17:51.921 --> 00:17:58.486]  Chief Law Enforcement Officer, it's outrageous that you would essentially plead the fifth and refuse to respond to our inquiries.
+[00:17:58.967 --> 00:18:06.113]  The actions of your department came at a time when Iran continues to hold Americans hostage and unjustly sentencing them to prison.
+[00:18:06.833 --> 00:18:08.194]  He makes an excellent point.
+[00:18:08.234 --> 00:18:15.799]  You know, this is a national security issue and we as Americans have a right to know what our own Department of Justice is up to as well as our president.
+[00:18:15.899 --> 00:18:18.060]  Are they making ransom payments for Americans?
+[00:18:18.520 --> 00:18:23.223]  Are they just giving gifts for something that they're calling reparations for a deal gone bad?
+[00:18:23.683 --> 00:18:24.544]  What are they up to?
+[00:18:24.584 --> 00:18:25.584]  We have a right to know.
+[00:18:25.884 --> 00:18:31.908]  She doesn't have a right to recuse herself and then step back in whenever she wants to just to avoid criminal prosecution.
+[00:18:31.948 --> 00:18:32.889]  This is an outrage.
+[00:18:33.289 --> 00:18:35.030]  Trump says we need to drain the swamp.
+[00:18:35.470 --> 00:18:41.317]  And this swamp creature has been doing these sort of crony moves for about three decades, and it's time to go.
+[00:18:41.358 --> 00:18:42.239]  Well, check out this article.
+[00:18:42.279 --> 00:18:44.461]  It's up on our website, InfoWars.com.
+[00:18:44.481 --> 00:18:47.825]  While you're at it, be sure to download our app, InfoWars.com forward slash app.
+[00:18:48.026 --> 00:18:50.509]  I'm Margaret Hall reporting for InfoWars.com.
+[00:19:01.345 --> 00:19:08.729]  The bottom line on nuclear weapons is that when the president gives the order, it must be followed.
+[00:19:09.229 --> 00:19:16.873]  There's about four minutes between the order being given and the people responsible for launching nuclear weapons to do so.
+[00:19:17.133 --> 00:19:19.234]  As president, I will make it clear.
+[00:19:20.114 --> 00:19:24.855]  That the United States will treat cyber attacks just like any other attack.
+[00:19:25.415 --> 00:19:30.757]  We will be ready with serious political, economic, and military responses.
+[00:19:30.837 --> 00:19:33.818]  They're voting for peace on planet Earth if they vote for Trump.
+[00:19:34.398 --> 00:19:37.199]  But if they vote for Hillary, it's war.
+[00:19:37.239 --> 00:19:39.799]  We came, we saw, he died.
+[00:19:42.228 --> 00:19:44.251]  With her, you'll end up in World War III.
+[00:19:44.591 --> 00:19:48.075]  I want the Iranians to know that if I'm the president, we will attack Iran.
+[00:19:48.275 --> 00:19:56.145]  Right now, Senator, for us to control all of the airspace in Syria would require us to go to war against Syria and Russia.
+[00:19:58.083 --> 00:19:58.543]  The U.S.
+[00:19:58.583 --> 00:20:02.186]  military has just raised the threat level to DEFCON 2.
+[00:20:02.567 --> 00:20:10.173]  Meanwhile, Hillary Clinton is still threatening Russia with military action following unconfirmed reports of further hacking.
+[00:20:10.553 --> 00:20:12.915]  It's like she's not even concerned about the repercussions.
+[00:20:13.275 --> 00:20:16.278]  Of course not, because she's... Look, there's a really loud noise.
+[00:20:16.658 --> 00:20:21.642]  Alright, looks like we're having a little bit of technical difficulties.
+[00:20:21.662 --> 00:20:23.884]  We'll try to get Leanne back on in a few minutes.
+[00:20:27.717 --> 00:20:32.128]  When the president gives the order, it must be followed.
+[00:21:06.607 --> 00:21:13.711]  I am very proud to announce the introduction of the highest quality InfoWars Biome Defense Probiotic.
+[00:21:14.072 --> 00:21:27.280]  We wanted to come out with the largest spectrum of high quality known probiotics that have been proven to improve overall digestion and health and detoxification in the body.
+[00:21:28.220 --> 00:21:39.444]  Biome Defense is an exclusive blend of 50 billion live and active cultures from over 23 different probiotic strains that are known to support digestion and intestinal function.
+[00:21:40.105 --> 00:21:46.067]  Our researchers are confident that we have been able to develop what will be the leading probiotic on the market.
+[00:21:46.827 --> 00:21:55.211]  Secure your biome defense in ultra strength or regular strength at InfoWarsLife.com today and get started supporting your digestive system naturally.
+[00:21:55.871 --> 00:22:04.055]  We've been testing this formula for years, but this is the limited first run to the public, so please take advantage of it today, support your own health, and support the InfoWar.
+[00:22:06.656 --> 00:22:08.919]  Ladies and gentlemen, I've been on this the last few months.
+[00:22:09.200 --> 00:22:17.031]  You've probably noticed I've been more crazed, more focused, less brain fog, more energy, more special reports, and it's because of Brain Force.
+[00:22:17.813 --> 00:22:20.974]  One of the worst things with most energy products is it's not sustainable.
+[00:22:21.255 --> 00:22:24.796]  This has a bunch of different antioxidants and compounds and polyphenols.
+[00:22:24.816 --> 00:22:27.937]  Everybody's on these drugs to knock their brain out because the brain's so fried.
+[00:22:28.438 --> 00:22:33.220]  We kept changing this formula over and over and over again until it became sort of a grand puzzle.
+[00:22:33.760 --> 00:22:35.621]  For example, the L-theanine inside of it.
+[00:22:35.961 --> 00:22:40.343]  That is activated by the different compounds in the Yerba Mate that we put inside of it as well.
+[00:22:40.543 --> 00:22:42.605]  This just increases the compounds you already have.
+[00:22:43.186 --> 00:22:44.687]  This is what you're actually designed to run on.
+[00:22:44.807 --> 00:22:45.047]  Exactly.
+[00:22:45.067 --> 00:22:48.871]  It's kind of like a car will run on one form of junky gas, but it runs really good on what it's designed for.
+[00:22:49.372 --> 00:22:57.379]  You will find Brain Force, Survival Shield X2, and other game-changing products at InfoWarsLife.com or call 888-253-3139.
+[00:23:10.663 --> 00:23:19.411]  Ladies and gentlemen, Alex Jones here on the road filing this breaking news alert to YouTube, Facebook, and Infowars.com.
+[00:23:20.251 --> 00:23:33.943]  Now, on Friday when the announcement that Comey was going to reopen the criminal investigation on the Clinton email scandal, I called a few of my sources and they said, yes, the word is that there are major movements towards indictment
+[00:23:34.884 --> 00:23:35.125]  I think so.
+[00:23:45.253 --> 00:23:55.218]  With the sexting of the 15-year-old girl reportedly, it's what's already come out in WikiLeaks last week, the smoking gun, where she's covering up emails to Obama and Obama's been caught lying about it.
+[00:23:55.958 --> 00:24:04.862]  Now, I've talked to a bunch of sources, including high-level federal, beyond the FBI, beyond the federal marshals, you name it, and they said, listen,
+[00:24:06.468 --> 00:24:13.772]  The major trigger we've been looking for, the Islamists, a new war with Russia, economic collapse, Black Lives Matter, that's all just side issues.
+[00:24:14.672 --> 00:24:17.674]  The election itself is what is going to blow sky high.
+[00:24:18.695 --> 00:24:21.096]  That's what they're intending to basically put into
+[00:24:22.662 --> 00:24:29.346]  Question regardless and then you've got the Black Lives Matter and all the rest of it and the destabilization setup.
+[00:24:29.866 --> 00:24:31.207]  Clearly Trump is way ahead.
+[00:24:31.527 --> 00:24:32.848]  That's what internal polls show.
+[00:24:33.168 --> 00:24:36.069]  They're adding 9 to 40 something points into Hillary polls.
+[00:24:36.910 --> 00:24:39.471]  That's admitted and she's still now behind.
+[00:24:40.692 --> 00:24:41.853]  So this is just giant.
+[00:24:42.013 --> 00:24:55.684]  And so, bottom line, they had to focus in on this side issue to make it look like Comey wasn't, you know, basically still covering for Hillary, but it's a diversionary issue, and that's why she's saying, hurry up and release him.
+[00:24:56.705 --> 00:24:58.927]  And Trump, the message to Trump is a warning.
+[00:24:59.307 --> 00:25:09.495]  Sure, call for these to be released, but call for all of them to be released and say, this is a woman that took sledgehammers, hammers, to all these phones, but now she wants this released.
+[00:25:09.895 --> 00:25:11.236]  What did she have to hide before?
+[00:25:11.617 --> 00:25:13.899]  And now what does she know is in this one device?
+[00:25:14.439 --> 00:25:18.642]  This could be a setup to distract the last eight, nine days.
+[00:25:18.922 --> 00:25:20.404]  We're about eight and a half days out from November 8th.
+[00:25:21.224 --> 00:25:21.485]  Thank you.
+[00:25:35.734 --> 00:25:39.535]  Where you've got 140 to 120 percent of the voters voting.
+[00:25:39.875 --> 00:25:40.376]  Impossible.
+[00:25:41.456 --> 00:25:47.678]  Total election fraud from Ohio to Pennsylvania to Florida, from Virginia to Texas to Illinois.
+[00:25:47.718 --> 00:25:49.139]  It's all coming out on Hillary's side.
+[00:25:49.179 --> 00:25:49.999]  It's all confirmed.
+[00:25:50.419 --> 00:25:54.881]  They're denying, denying, denying, denying, denying, denying, denying over and over again.
+[00:25:55.861 --> 00:25:56.601]  So that's the bottom line.
+[00:25:56.621 --> 00:25:58.462]  We've got to stay focused on what was already in WikiLeaks.
+[00:25:58.542 --> 00:25:59.302]  It's totally damning.
+[00:26:00.102 --> 00:26:00.883]  They should all go to jail.
+[00:26:00.963 --> 00:26:02.623]  They're trying to get the public off that.
+[00:26:02.643 --> 00:26:03.323]  They're so desperate.
+[00:26:03.343 --> 00:26:04.444]  If the media picks it up, it's over.
+[00:26:05.657 --> 00:26:06.777]  They're going to have to prosecute them.
+[00:26:07.378 --> 00:26:10.379]  So they're diverting off on the wiener's phone while they try to steal the election.
+[00:26:11.039 --> 00:26:22.182]  And then they hope by Friday or Saturday of next week, and we're talking in six days, two days out from the election, they intend to then say, okay, here's the emails and it's no big deal.
+[00:26:23.183 --> 00:26:25.283]  And then say, see, all this is a smoke screen.
+[00:26:25.323 --> 00:26:26.404]  All this is no big deal.
+[00:26:26.764 --> 00:26:27.824]  The emails are a fraud.
+[00:26:27.884 --> 00:26:28.805]  Let's quit talking about them.
+[00:26:29.585 --> 00:26:30.905]  And now they're two days out.
+[00:26:30.945 --> 00:26:32.326]  They've been stealing the early vote.
+[00:26:33.857 --> 00:26:34.858]  That's what they're trying to position.
+[00:26:34.898 --> 00:26:39.640]  The problem is there's such a landslide for Trump in early voting that they want to be able to say that she was going to be way ahead in early voting.
+[00:26:39.680 --> 00:26:42.181]  That was their pitch in the New York Times and other places.
+[00:26:42.241 --> 00:26:43.582]  But instead, he's ahead in early voting.
+[00:26:44.002 --> 00:26:47.323]  So they're in total, complete, meltdown, panic mode.
+[00:26:47.343 --> 00:26:54.627]  I'll be on the radio today, 4 to 6 p.m., InfoWars.com, Central Time with heavy hitters on with the inside baseball.
+[00:26:54.667 --> 00:26:55.727]  And I've called my other sources.
+[00:26:57.108 --> 00:26:58.710]  Who have big sources in the federal government as well.
+[00:26:58.890 --> 00:26:59.851]  I don't just have sources.
+[00:27:00.973 --> 00:27:02.274]  I have other obvious sources.
+[00:27:02.374 --> 00:27:04.897]  I mean, we have some of the biggest sources out there.
+[00:27:05.878 --> 00:27:07.520]  Matt Drudge is not my source on this, obviously.
+[00:27:07.540 --> 00:27:16.171]  Remember, Matt Drudge came exclusively a year ago and had met with a Supreme Court Justice who said their plan to take the free speech and basically overthrow the country by the end of 2016.
+[00:27:17.432 --> 00:27:21.734]  Well, I separately have sources right into those sources.
+[00:27:22.534 --> 00:27:24.535]  And it's the same thing.
+[00:27:25.156 --> 00:27:26.616]  So this is so hardcore.
+[00:27:26.676 --> 00:27:28.017]  This is so historic, folks.
+[00:27:28.717 --> 00:27:29.678]  This is over the top.
+[00:27:30.798 --> 00:27:32.659]  Kim.com has been proving to be very credible.
+[00:27:32.999 --> 00:27:34.060]  He's got a lot of the same intel.
+[00:27:34.080 --> 00:27:36.141]  He's going to be coming on the show hopefully this week.
+[00:27:36.681 --> 00:27:40.543]  I know he's talked to David Knight about his intel that they've already got the 33,000 emails.
+[00:27:40.583 --> 00:27:41.704]  Obviously, the NSA has them.
+[00:27:41.724 --> 00:27:42.904]  William Binney's confirmed that.
+[00:27:43.164 --> 00:27:46.126]  We've interviewed him in studio, former technical director of the NSA.
+[00:27:46.926 --> 00:27:47.967]  They're all coming on this week.
+[00:27:48.007 --> 00:27:49.708]  We're going to really get on top of this, folks.
+[00:27:49.888 --> 00:27:50.949]  This is so historic.
+[00:27:51.029 --> 00:27:52.670]  Infowars.com forward slash show.
+[00:27:53.510 --> 00:27:54.531]  I'm Alex Jones signing off.
+[00:27:54.991 --> 00:28:05.799]  Now is the time for the maximum effort to expose election fraud and what's going on and the current Wikileaks and the new ones about to come out because Wikileaks does have at least part of 33,000 deleted emails.
+[00:28:06.159 --> 00:28:07.240]  They're getting ready to drop them.
+[00:28:07.380 --> 00:28:08.380]  That's why they're so scared.
+[00:28:08.841 --> 00:28:12.383]  That's why they're trying to suck all the oxygen out of the room with this other report right now.
+[00:28:12.463 --> 00:28:14.184]  This is history happening.
+[00:28:14.224 --> 00:28:16.286]  They want us focused on Anthony Weiner's Weiner.
+[00:28:17.146 --> 00:28:17.506]  Literally.
+[00:28:18.307 --> 00:28:26.372]  Just like when the Clintons were selling missile secrets to China and flying cocaine into mean Arkansas, we were focused on the cigars and Monica, which is fine.
+[00:28:26.592 --> 00:28:27.713]  And the blue dress, that's fine.
+[00:28:28.113 --> 00:28:30.835]  But we need to get focused on what they're distracting us from.
+[00:28:34.258 --> 00:28:35.379]  The people are taking action.
+[00:28:35.800 --> 00:28:39.084]  We've gone from having 3 or 4 million people a day listening to 5, 6 million a day.
+[00:28:39.124 --> 00:28:39.745]  It's so huge.
+[00:28:39.805 --> 00:28:40.606]  Keep spreading the links.
+[00:28:40.626 --> 00:28:41.608]  It's having a huge effect.
+[00:28:41.868 --> 00:28:45.653]  But all of the independent media is exploding right now because you're taking action.
+[00:28:45.753 --> 00:28:46.815]  You are the resistance.
+[00:28:46.875 --> 00:28:47.436]  God bless you.
+[00:28:47.456 --> 00:28:49.759]  Now let's kick some globalist ass politically.
+[00:28:50.580 --> 00:29:00.625]  And if they think they're going to try to have some civil war in this country, let's be prepared and positioned in defensive measures to restore the republic one way or another if they get physical to defend ourselves.
+[00:29:01.085 --> 00:29:03.886]  This is a Maximum Red Alert, InfoWars.com.
+[00:29:09.849 --> 00:29:11.330]  Bill Clinton is a rapist.
+[00:29:16.267 --> 00:29:18.550]  I'm Margaret Hell reporting for InfoWars.com.
+[00:29:18.590 --> 00:29:28.760]  I'm here on the University of Texas Austin campus to ask students how they feel about the university issuing an edict, an 11 costume type ban.
+[00:29:28.780 --> 00:29:30.522]  This is Halloween costumes I'm talking about.
+[00:29:30.562 --> 00:29:33.986]  They've banned 11 types of costumes that they find culturally offensive.
+[00:29:34.526 --> 00:29:38.448]  Among them Cowboys and Indians, anything with a fiesta theme, things like that.
+[00:29:38.508 --> 00:29:47.691]  Now they've also set up a diversity police that allows students to snitch on their fellow students in the event that they see somebody violating one of these costume bans.
+[00:29:47.852 --> 00:29:50.733]  I'm going to be asking these students exactly what they think about this.
+[00:29:51.133 --> 00:29:54.114]  What do you think about the school's ban of certain Halloween costumes?
+[00:29:54.134 --> 00:29:59.516]  11 that they think are harmful, like Pocahontas, Cowboys and Indians, anything fiesta wear.
+[00:29:59.776 --> 00:30:00.677]  That's sad because
+[00:30:01.417 --> 00:30:06.239]  I mean, if you don't have any problem with that, it is not offensive.
+[00:30:06.499 --> 00:30:08.580]  If the school wants to ban things, they have the right to.
+[00:30:09.281 --> 00:30:14.283]  I mean, I see why it's offensive, given the history of everything.
+[00:30:14.303 --> 00:30:20.165]  But at the same time, I feel like you could say, the whole thing is like, my culture is not a costume, but I guess anything is a costume.
+[00:30:20.605 --> 00:30:21.066]  Really.
+[00:30:21.106 --> 00:30:23.787]  Dressing up like Pocahontas, do you think you should be ratted on for that?
+[00:30:24.467 --> 00:30:25.928]  I don't think so.
+[00:30:25.988 --> 00:30:27.609]  I think it's perfectly fine.
+[00:30:27.669 --> 00:30:28.329]  Are you Scottish?
+[00:30:28.889 --> 00:30:29.810]  No, not actually.
+[00:30:30.030 --> 00:30:31.110]  Are you making fun of Scots?
+[00:30:32.251 --> 00:30:33.051]  No, I hadn't thought so.
+[00:30:33.111 --> 00:30:33.852]  They might think so.
+[00:30:34.312 --> 00:30:35.993]  I don't really seem to think that it's offensive.
+[00:30:36.053 --> 00:30:38.814]  I can understand why other costumes might be offensive.
+[00:30:39.195 --> 00:30:41.556]  I think it's fine to wear whatever you want.
+[00:30:41.776 --> 00:30:46.038]  Someone can wear whatever they want because it's themself.
+[00:30:46.479 --> 00:30:52.282]  I feel like if you can celebrate the culture, I feel like, if you're actually appreciating, I don't think, if you're making fun of it, I mean, that's something else.
+[00:30:52.882 --> 00:30:53.903]  I think they shouldn't ban it.
+[00:30:53.963 --> 00:30:57.244]  I think that we should be able to dress however we want here.
+[00:30:57.364 --> 00:31:03.287]  But I mean, if you do get offended, if they're actually offended, I mean, I guess there should be a place where you can report that, I guess.
+[00:31:03.347 --> 00:31:12.672]  I think that it's really sad that the university, which really should be for diversity, and should be a diversity of ideas also, instead of trying to make everyone think exactly the same way.
+[00:31:12.692 --> 00:31:14.853]  Like, if I get offended by your ears, I could report you?
+[00:31:16.153 --> 00:31:17.054]  I mean, you could.
+[00:31:17.904 --> 00:31:20.425]  I probably wouldn't like you afterwards, but I mean, something else.
+[00:31:20.785 --> 00:31:31.448]  Well, as you can see, the students that we talked to didn't seem to mind that their school was imposing this arbitrary ban, or that they'd set up a diversity police office so that other students could snitch on the ones that they thought were offensive.
+[00:31:31.788 --> 00:31:34.529]  Nobody seemed to mind, except for an easily offended, sensitive man.
+[00:31:34.589 --> 00:31:37.930]  Margaret Howell reporting for Infowars.com.
+[00:32:01.846 --> 00:32:07.033]  If you are receiving this transmission, you are the resistance.
+[00:32:27.455 --> 00:32:29.036]  And all you ISIS people threatening us?
+[00:32:29.276 --> 00:32:30.737]  Hey, we're not a French newspaper.
+[00:32:31.238 --> 00:32:31.438]  Okay?
+[00:32:31.758 --> 00:32:34.600]  We got people that have taken your asses out in this building right now.
+[00:32:34.800 --> 00:32:36.501]  We're armed to the teeth, and we're not scared.
+[00:32:36.521 --> 00:32:37.822]  You got that, you sons of bitches?
+[00:32:38.182 --> 00:32:38.863]  This is Texas.
+[00:32:39.103 --> 00:32:39.924]  You wanna threaten me?
+[00:32:39.984 --> 00:32:41.104]  You can go straight to hell.
+[00:32:41.124 --> 00:32:41.785]  You understand that?
+[00:32:41.925 --> 00:32:47.689]  Never water yourself down just because someone can't handle you at 100 Proof.
+[00:32:48.129 --> 00:32:51.952]  It's the Alex Jones Show, because there's a war on for your mind.
+[00:33:02.110 --> 00:33:06.374]  November 12th, fighting Rashad Evans in New York at Madison Square Gardens.
+[00:33:06.694 --> 00:33:08.596]  I'm coming to not only win, but to dominate.
+[00:33:08.676 --> 00:33:16.323]  I need to make an exclamation mark to the entire division that I have been, and I still am, the best fighter in that division.
+[00:33:16.684 --> 00:33:18.045]  I have two months to get ready for the fight.
+[00:33:18.065 --> 00:33:20.767]  I'm going to go to Albuquerque, New Mexico to Jackson Winklejohn MMA.
+[00:33:20.808 --> 00:33:24.971]  We're actually going to bring some cameras from Infowars to film some of my fight camp.
+[00:33:26.351 --> 00:33:32.215]  When you're training, you're training 90-minute sessions once, twice, three times a day.
+[00:33:32.675 --> 00:33:34.636]  There's one day a week that I only have one workout.
+[00:33:34.716 --> 00:33:36.477]  All the other days are two or three times.
+[00:33:36.837 --> 00:33:40.819]  I use Superman Vitality when I'm tired, when I'm broken.
+[00:33:40.899 --> 00:33:46.182]  It's those things, it's these supplements that kick me into the next gear so I can have another training session.
+[00:33:46.363 --> 00:33:47.903]  It's cold-pressed, known herbs.
+[00:33:47.963 --> 00:33:48.664]  I didn't develop this.
+[00:33:48.704 --> 00:33:51.405]  The top herbologist, doctor group in the country.
+[00:33:51.505 --> 00:33:52.166]  It's the best.
+[00:33:52.526 --> 00:33:55.848]  It's like sold in medical clinics, but it doesn't copy testosterone.
+[00:33:56.088 --> 00:33:59.371]  It only gets your body to release the hormones you already have.
+[00:33:59.731 --> 00:34:05.635]  And what I'm told is it actually blocks estrogen mimickers that are in all the plastics and crap, so it brings you more to your natural state.
+[00:34:05.755 --> 00:34:08.697]  What's in the things that I'm taking are real herbs.
+[00:34:08.737 --> 00:34:12.119]  This is real food that I'm taking before workouts and after workouts.
+[00:34:12.139 --> 00:34:12.760]  Totally natural.
+[00:34:12.880 --> 00:34:16.542]  Totally natural to feel better and to be the most elite athlete on the planet.
+[00:34:16.582 --> 00:34:20.005]  And by the way, years ago, you and Shane were going out and getting raw milk.
+[00:34:20.125 --> 00:34:21.786]  You were getting your vegetables from the Amish.
+[00:34:21.926 --> 00:34:22.566]  Go buy the product.
+[00:34:22.667 --> 00:34:23.107]  I believe in it.
+[00:34:23.247 --> 00:34:24.208]  It's the real deal.
+[00:34:39.778 --> 00:34:42.400]  It's helped me lose over 70 pounds of frickin' fat.
+[00:34:42.500 --> 00:34:43.981]  I gained back about 30-40 pounds of muscle.
+[00:34:44.001 --> 00:34:44.702]  I'm a pretty big guy.
+[00:34:45.722 --> 00:34:48.864]  And it's incredible what Mother Nature gave us.
+[00:34:49.225 --> 00:34:50.726]  And your purchase supports everything we're doing.
+[00:34:50.746 --> 00:34:53.287]  But you heard Tim Kennedy, who I never intended to be a sponsor.
+[00:34:53.768 --> 00:34:54.148]  I like it.
+[00:34:54.208 --> 00:35:01.013]  You know, is it evil of me that I don't want Hillary's camp to start using any of our supplements?
+[00:35:01.633 --> 00:35:04.555]  Because she might actually get a little healthier.
+[00:35:04.635 --> 00:35:07.617]  You know, we thought of that as a joke to send her some super female vitality.
+[00:35:07.637 --> 00:35:08.718]  People said, well, wait, we don't want to help her.
+[00:35:08.758 --> 00:35:09.478]  I'm actually helping her.
+[00:35:09.658 --> 00:35:11.219]  No, but really, it affects change.
+[00:35:11.459 --> 00:35:13.961]  I take super male vitality every single day.
+[00:35:14.381 --> 00:35:15.022]  I love it.
+[00:35:15.302 --> 00:35:15.962]  My wife loves it.
+[00:35:16.783 --> 00:35:19.384]  My coaches love it because I have energy nonstop.
+[00:35:19.705 --> 00:35:21.406]  There's a foundation to being an athlete.
+[00:35:21.966 --> 00:35:24.227]  No, there's kind of the four cornerstones.
+[00:35:24.307 --> 00:35:25.287]  You've got to have healthy sleep.
+[00:35:25.707 --> 00:35:32.029]  You have to have that workload, that hard work in the gym or every day and your job, whatever that is, hard workload.
+[00:35:32.589 --> 00:35:33.649]  Then you have to be intimate.
+[00:35:33.769 --> 00:35:38.130]  You have to be connected with your spouse or whoever you're with.
+[00:35:38.170 --> 00:35:39.691]  And then lastly is nutrition.
+[00:35:40.231 --> 00:35:44.716]  All of those are equally important, and they all play parts in how you are healthy as a man.
+[00:35:45.277 --> 00:35:49.882]  So for me as a male athlete, I have to be intimate with my wife every day, a couple of times a day if I can.
+[00:35:49.922 --> 00:35:51.223]  You know, like I have to get good sleep.
+[00:35:51.303 --> 00:35:53.826]  I have to have that good work, and I have to have that good food.
+[00:35:54.246 --> 00:36:00.954]  And these things, super male vitality, is one of those things that is cornerstone to who I am as an athlete and as a man.
+[00:36:01.716 --> 00:36:03.417]  Electrify your day with Secret 12.
+[00:36:03.997 --> 00:36:05.338]  It's like lightning in a bottle!
+[00:36:05.578 --> 00:36:09.101]  We all have days in which we just can't seem to perform at the level we'd like to.
+[00:36:09.481 --> 00:36:17.225]  InfoWars Live Secret 12 is designed to naturally energize your body and mind with two great tasting and super high quality forms of vitamin B12.
+[00:36:17.426 --> 00:36:22.228]  Proper vitamin and nutrient intake is essential to keep your body functioning at optimum levels.
+[00:36:22.389 --> 00:36:27.872]  The reality is, it's hard to take in the proper amount of vitamins we need each day with our modern diets.
+[00:36:28.192 --> 00:36:35.739]  Seeker 12 by Infowars Life is an easy way to naturally upgrade your vitamin B12 intake and support your body's natural systems.
+[00:36:35.979 --> 00:36:40.443]  It pairs two forms of vitamin B12 into one explosive formula.
+[00:36:40.703 --> 00:36:49.531]  Vitamin B12 supports healthy energy levels through red blood cell formation and aiding in the body's natural processes, but it also assists with many other functions of the body.
+[00:36:49.731 --> 00:36:52.954]  Electrify your mind and body and take your health to the next level.
+[00:36:53.254 --> 00:36:56.939]  Experience the power of Secret 12 at InfoWarsLife.com.
+[00:36:57.159 --> 00:36:59.122]  That's InfoWarsLife.com.
+[00:37:07.662 --> 00:37:10.144]  Millie Weaver reporting for InfoWars.com.
+[00:37:10.404 --> 00:37:14.508]  We are here in downtown Cleveland where Bill Clinton is holding an event today.
+[00:37:15.329 --> 00:37:19.993]  As you can see they couldn't have picked a smaller place to hold a rally.
+[00:37:20.473 --> 00:37:25.418]  This is literally like a hallway in the middle of a bunch of rooms.
+[00:37:26.078 --> 00:37:31.823]  So very interesting to see and you can kind of guess why they might have done this.
+[00:37:32.023 --> 00:37:34.486]  The turnout is small and they might have been
+[00:37:35.802 --> 00:37:47.231]  Feeling that they were going to get a small turnout after the news broke that they are in fact reopening the case on Hillary Clinton because more evidence has been found.
+[00:37:47.532 --> 00:37:51.335]  The crowd does not look very enthusiastic.
+[00:37:52.075 --> 00:37:58.420]  As you can see, we've noticed that there were some Clinton staffers that looked like they were actually panicking.
+[00:37:59.381 --> 00:38:10.633]  And trying to figure out ways to fill in the crowd or send out some of their backstage campaign volunteers and, you know, put them into the crowd.
+[00:38:11.954 --> 00:38:14.517]  But it does not look very good.
+[00:38:32.932 --> 00:38:35.134]  There you have it for the enthusiasm.
+[00:38:48.406 --> 00:38:51.710]  Enthusiasm failed attempt number two.
+[00:38:59.688 --> 00:39:02.693]  Enthusiasm fail attempt number three.
+[00:39:02.713 --> 00:39:10.345]  Some have traveled across the city, across the state, across the country, and some have even left their country.
+[00:39:11.087 --> 00:39:11.848]  I see you out there.
+[00:39:12.509 --> 00:39:14.670]  Just to come volunteer to get Hillary Clinton elected.
+[00:39:14.830 --> 00:39:19.253]  You will be amazed at what we can do if you take the time to knock on 30 doors.
+[00:39:19.313 --> 00:39:25.356]  How many people are going to actually make sure they're putting their feet to the ground and doing the work?
+[00:39:25.816 --> 00:39:26.537]  Doing the work!
+[00:39:26.657 --> 00:39:29.098]  How many of you have actually voted?
+[00:39:29.298 --> 00:39:30.559]  Raise your hand.
+[00:39:30.579 --> 00:39:31.880]  Alright, we got a little bit more hands.
+[00:39:32.160 --> 00:39:34.921]  Alright, thank you so much because we know those are votes in the bank.
+[00:39:35.442 --> 00:39:39.444]  So without further ado, I'd like to welcome President Bill Clinton to the stage.
+[00:39:41.927 --> 00:39:48.292]  First of all, I want to thank the City Council President, Kevin Kelly, and his five daughters.
+[00:39:48.993 --> 00:39:54.797]  But what we really need is comprehensive mental health.
+[00:39:55.337 --> 00:40:02.523]  She released a plan to establish serious community mental health treatments in every place in America.
+[00:40:02.943 --> 00:40:05.105]  These are things that will change your life.
+[00:40:06.266 --> 00:40:11.811]  So will free tuition for families with incomes above $125,000.
+[00:40:12.312 --> 00:40:14.994]  So will debt-free graduation for everybody else.
+[00:40:15.395 --> 00:40:26.685]  If you're in any kind of public service work, a teacher, a police officer, a farmer, but it's important in all health and drug treatment or social work, after 10 years the rest of your debt's forgiven if it's not paid off.
+[00:40:26.986 --> 00:40:28.347]  These things will change the world.
+[00:40:29.912 --> 00:40:42.998]  We just saw Bill Clinton give a speech to a rather small crowd here in this building in what appears to be a middle of a hallway, a very small area, and the crowd was very unenthusiastic.
+[00:40:43.878 --> 00:40:53.202]  Do you think that this recent, you know, the FBI reopening their investigation on Hillary Clinton is going to affect her campaign and the election results?
+[00:40:53.442 --> 00:40:56.283]  That's what I asked him, and he said absolutely not.
+[00:40:56.543 --> 00:41:04.564]  He said they have nothing to do with her, and that's why she wants it taken out, out in the open, so that people can see for themselves.
+[00:41:05.445 --> 00:41:14.387]  It could hurt the campaign, but from what I've read, there's no there there, as there hasn't been in all of the investigations of Hillary.
+[00:41:14.747 --> 00:41:20.308]  She's been scrutinized more than any politician in modern US political history.
+[00:41:20.928 --> 00:41:22.850]  And they have come up with Zip.
+[00:41:23.350 --> 00:41:23.731]  Nada.
+[00:41:24.051 --> 00:41:30.097]  I think at this point, since we're nine days away from the election, we're going to have to kind of prioritize things that really matter right now.
+[00:41:30.177 --> 00:41:31.639]  I mean, Trump's said a lot of bad things.
+[00:41:31.659 --> 00:41:34.521]  Hillary's done a couple things that are very questionable.
+[00:41:35.002 --> 00:41:35.963]  Many things, actually.
+[00:41:36.183 --> 00:41:38.485]  I'm not familiar with any new investigation.
+[00:41:38.525 --> 00:41:39.686]  I've only heard about the past ones.
+[00:41:40.207 --> 00:41:40.808]  So I couldn't tell you.
+[00:41:41.630 --> 00:41:48.200]  Well, the FBI just reopened the case yesterday on the investigation on Hillary Clinton.
+[00:41:48.480 --> 00:41:52.125]  Do you think that that could potentially hurt the election outcome?
+[00:41:54.338 --> 00:41:55.178]  Sure, could, yeah.
+[00:41:55.399 --> 00:41:58.620]  I mean, if there's any open investigation on candidates, it's kind of an issue.
+[00:41:58.640 --> 00:42:06.103]  I think it's outrageous, this close to the election, and it's quite clear the FBI director is a Republican, so it's an inside job in my opinion.
+[00:42:06.964 --> 00:42:10.626]  I personally think that, you know, people will see right through this, they'll see through the truth.
+[00:42:10.926 --> 00:42:12.406]  You think they would try to impeach her?
+[00:42:13.127 --> 00:42:15.108]  Yes, I think they'll try to do anything.
+[00:42:16.269 --> 00:42:20.510]  Anything possible, block her, everything, every action that she wants to do.
+[00:42:20.590 --> 00:42:28.992]  There will be cases of, she might be taken to trial, she might be sued for certain allegations that she has done, but I don't necessarily think that it might go through.
+[00:42:29.072 --> 00:42:34.294]  It's become very nasty, even going back to Trump as well when he said he's not going to accept the result of the election.
+[00:42:34.314 --> 00:42:37.134]  It's just a shambles, it's not what America's about, it's not what democracy's about.
+[00:42:37.154 --> 00:42:39.375]  Are you going to be able to vote for Hillary Clinton?
+[00:42:39.835 --> 00:42:40.555]  Unfortunately not.
+[00:42:40.755 --> 00:42:41.316]  Unfortunately not.
+[00:42:41.336 --> 00:42:43.377]  I'm English so I haven't got the right to do so.
+[00:42:43.477 --> 00:42:44.777]  But I'll be pushing other people to do so.
+[00:42:44.797 --> 00:42:47.058]  We were on the doorsteps yesterday and it was fantastic.
+[00:42:47.078 --> 00:42:48.379]  We spoke to some people trying to convince them.
+[00:42:48.719 --> 00:42:50.600]  Some people told us early voting had already happened for them.
+[00:42:50.940 --> 00:42:53.021]  And some people actually convinced them to actually go out and early vote.
+[00:42:53.061 --> 00:42:54.102]  So it was a fantastic day.
+[00:42:54.322 --> 00:42:55.442]  Thank you.
+[00:42:55.462 --> 00:42:57.003]  Alright.
+[00:42:57.023 --> 00:42:57.943]  It's you again!
+[00:42:57.963 --> 00:42:59.484]  Yeah, I go to all my things.
+[00:42:59.904 --> 00:43:01.565]  So are you still undecided?
+[00:43:01.585 --> 00:43:03.186]  Yeah.
+[00:43:04.508 --> 00:43:05.690]  Yeah, I'm sun-sided, yeah.
+[00:43:06.170 --> 00:43:13.380]  Well, has the FBI reopening the investigation on Hillary Clinton changed your mind at all?
+[00:43:14.653 --> 00:43:16.514]  Well, I mean, I always had the same view.
+[00:43:16.574 --> 00:43:18.816]  I mean, you know what happened with the F-man.
+[00:43:18.856 --> 00:43:20.037]  You know why it was closed, right?
+[00:43:20.517 --> 00:43:23.920]  Because Bill Clinton and Loretta Lynch met on the plane.
+[00:43:24.320 --> 00:43:39.551]  So that's why they closed the investigation, but now the director of the FBI, James Coney, is trying to reopen it, so... Do you think it's weird that Bill and Hillary don't really attract much crowds, yet they've gotten paid hundreds of thousands of dollars from the Clinton Foundation for giving speeches?
+[00:43:40.063 --> 00:43:42.145]  Well, I mean, it's for those speeches, right?
+[00:43:42.205 --> 00:43:46.669]  Those speeches are technically worth hundreds of thousands of dollars, right?
+[00:43:47.289 --> 00:43:51.313]  Well, I guess, but nobody will even come to a free speech, barely.
+[00:43:53.214 --> 00:43:57.258]  Um... You mean, no one will give a... Oh, true, yeah, yeah, true.
+[00:43:57.278 --> 00:43:58.959]  That's really odd, yeah, that's really odd, yeah.
+[00:43:59.339 --> 00:43:59.920]  That's really odd.
+[00:44:00.140 --> 00:44:03.943]  So you've been to both Hillary Clinton's rallies and Trump's rallies.
+[00:44:04.063 --> 00:44:07.746]  Who has more support from what you've seen, like, as far as crowd sizes?
+[00:44:07.907 --> 00:44:08.127]  Trump.
+[00:44:09.116 --> 00:44:09.376]  Trump?
+[00:44:09.536 --> 00:44:11.857]  I mean, Trump, yeah.
+[00:44:12.258 --> 00:44:13.058]  Yeah, Trump, yeah.
+[00:44:14.239 --> 00:44:22.663]  Remember last year when that shrieking social justice warrior had a fit because her professor said that offensive Halloween costumes shouldn't be censored?
+[00:44:22.923 --> 00:44:24.064]  Stay quiet!
+[00:44:24.144 --> 00:44:25.144]  I don't agree with that.
+[00:44:25.585 --> 00:44:27.686]  Then why the f**k didn't you accept the position?!
+[00:44:27.706 --> 00:44:30.207]  It is not about pretty and intellectual speech!
+[00:44:30.407 --> 00:44:35.728]  Yeah, well, get ready, because the sheer scale of triggering this year is set to be even worse.
+[00:44:35.928 --> 00:44:42.490]  Student leaders at Tufts University sent out a letter threatening other students that if they wear, quote, There would be, quote,
+[00:44:51.912 --> 00:44:54.593]  Consequences for wearing an offensive costume!
+[00:44:54.733 --> 00:44:55.873]  One of those consequences?
+[00:44:56.313 --> 00:45:00.574]  A Tufts University Police Department investigation.
+[00:45:00.594 --> 00:45:05.355]  S*** just got real.
+[00:45:05.555 --> 00:45:10.576]  They're also encouraging students to report on each other for offensive costumes.
+[00:45:10.736 --> 00:45:16.557]  Calling the police on someone for wearing a Pocahontas costume on Halloween.
+[00:45:19.793 --> 00:45:23.377]  This is so retarded, it's beyond retarded.
+[00:45:23.477 --> 00:45:29.183]  It reminds me of those stories where people phone the police when McDonald's runs out of chicken McNuggets.
+[00:45:29.403 --> 00:45:34.869]  It turns out you're not supposed to use 911 to call if McDonald's screws up your order.
+[00:45:35.029 --> 00:45:36.669]  That's how retarded this is.
+[00:45:36.789 --> 00:45:49.532]  So if there's an actual mass murderer on campus shooting up students... Oh, I'm sorry, the cops are too busy dealing with the dude who dressed up like a mass murderer for a fun Halloween skit with his friends.
+[00:45:49.572 --> 00:46:01.535]  But I guess they're only following the lead of MTV, who before Halloween last year said that parents who dress up their kids in offensive costumes should have those children seized by the CPS.
+[00:46:01.715 --> 00:46:05.436]  And if you still want to dress up your kid like this, then Google child protective services.
+[00:46:05.456 --> 00:46:11.397]  Why not go a step further and ban the sale of those costumes so nobody can buy them in the first place?
+[00:46:11.637 --> 00:46:22.260]  Oh wait, that's what Amazon.com is actually doing by banning sexy burka outfits and Arab men costumes because a few special snowflakes complained that they were racist!
+[00:46:22.400 --> 00:46:23.360]  But what's this?
+[00:46:23.740 --> 00:46:26.964]  Priest outfits are still freely available!
+[00:46:27.124 --> 00:46:40.759]  So dear viewers, if you're planning on celebrating Halloween this year, if you're planning on dressing up, please, make your costume the most tasteless, triggering sh** imaginable, and post photos of it all over social media.
+[00:46:40.939 --> 00:46:54.654]  Whether it's Tranny Granny, Creepy Clowns, Kim Kardashian Heist Victim, Illegal Alien, or Trump Wall Builder, just let your imagination run wild and make 2016 the most offensive Halloween ever!
+[00:46:54.955 --> 00:46:56.076]  Everything is sexist.
+[00:46:56.356 --> 00:46:57.317]  Everything is racist.
+[00:46:57.537 --> 00:46:58.518]  Everything is homophobic.
+[00:47:02.978 --> 00:47:07.962]  Introducing Secret 12, the new InfoWarsLife vitamin B12 formulation.
+[00:47:08.142 --> 00:47:18.089]  Now, InfoWarsLife.com is excited to announce that we can bring you our most bioactive, powerful form of B12 that has been developed with our exclusive perfected process.
+[00:47:18.429 --> 00:47:24.313]  Secret 12 is a binary of nutrimedical grade, bioavailable coenzyme forms of B12.
+[00:47:24.673 --> 00:47:29.857]  Secure your revolutionary Secret 12 formula right now at InfoWarsLife.com or call 888-253-3139.
+[00:47:32.759 --> 00:47:35.020]  Ladies and gentlemen, I've been on this the last few months.
+[00:47:35.301 --> 00:47:43.145]  You've probably noticed I've been more crazed, more focused, less brain fog, more energy, more special reports, and it's because of Brain Force.
+[00:47:43.565 --> 00:47:48.328]  We kept changing this formula over and over and over again until it became sort of a grand puzzle.
+[00:47:48.448 --> 00:47:50.469]  This just increases the compounds you already have.
+[00:47:51.090 --> 00:47:52.611]  This is what you're actually designed to run on.
+[00:47:52.651 --> 00:48:00.575]  You will find Brain Force, Survival Shield X2, and other game-changing products at InfoWarsLife.com or call 888.
+[00:48:01.596 --> 00:48:08.201]  2-5-3 3-1-3-9 Thousands of years ago, there was a basic form of chivalry.
+[00:48:08.561 --> 00:48:15.686]  Our ancestors would hear the drums of war, giving the warriors of the tribe a chance to organize and prepare a defense.
+[00:48:16.306 --> 00:48:24.632]  Sixty years ago, when foreign air forces were approaching filled with bombs, they had drums of their own, air raid sirens.
+[00:48:24.932 --> 00:48:28.955]  But in the 21st century, there are silent weapons for quiet war.
+[00:48:29.275 --> 00:48:30.976]  I personally counter this onslaught with Anthroplex.
+[00:48:31.016 --> 00:48:37.218]  Anthroplex is designed with known, organic, concentrated herbs to create the basic foundation to normal metabolic activity.
+[00:48:52.244 --> 00:48:52.725]  I don't know.
+[00:49:06.604 --> 00:49:13.069]  The Clinton crime family machine's house of horrors echoed with shrieks of dread over the Halloween weekend.
+[00:49:13.209 --> 00:49:19.634]  The Hill reported former assistant FBI director James Kallstrom unloaded during a radio interview saying,
+[00:49:27.119 --> 00:49:31.721]  This investigation was never a real investigation, Kallstrom continued.
+[00:49:31.781 --> 00:49:34.022]  They never had a grand jury impaneled.
+[00:49:34.082 --> 00:49:39.844]  And the reason they never had a grand jury impaneled, I'm sure, is Loretta Lynch would not go along with that.
+[00:49:40.084 --> 00:49:49.428]  Meanwhile, Loretta Lynch was fighting to save her own hijacked position of the Department of Justice, pleading the 5th to Congress on secret Iran payments.
+[00:49:49.608 --> 00:49:50.009]  We're good to go.
+[00:50:05.506 --> 00:50:21.293]  To justify his actions, a leaked memo emerged on Friday evening courtesy of Fox News which explains why Comey took the unusual step of deciding to inform Congress that the FBI had reopened its investigation into Clinton's private email server.
+[00:50:21.413 --> 00:50:33.159]  The memo reveals two main arguments, a sense of obligation to lawmakers and a concern that word of the new email discovery would leak to the media and raise questions of a cover-up.
+[00:50:33.319 --> 00:50:40.922]  I'm sure that some of you may have heard about a letter that the FBI director sent out yesterday.
+[00:50:41.342 --> 00:50:49.125]  It's pretty strange to put something like that out with such little information right before an election.
+[00:50:49.726 --> 00:50:53.207]  Donald Trump is already making up lies about this.
+[00:50:53.747 --> 00:51:00.110]  I think it's time for Donald Trump to stop fear-mongering, to stop disgracing himself.
+[00:51:01.050 --> 00:51:03.631]  To stop attacking our democracy.
+[00:51:03.711 --> 00:51:06.372]  We can't let him get away with this, can we?
+[00:51:06.412 --> 00:51:27.181]  The Democratic Party has now transcended damage control and entered panic mode, as Hillary Clinton's right-hand woman, Huma Abedin, Muslim Brotherhood Plant Numero Uno, is no longer on the campaign trail after it was discovered that she did not turn over all the evidence pertaining to the FBI's email investigation of Clinton.
+[00:51:27.461 --> 00:51:38.790]  Plenty of evidence still resided on the computer Huma shared with estranged husband Anthony Weiner, aka Carlos Danger, after being investigated for sexting with a 15-year-old girl.
+[00:51:39.070 --> 00:51:50.980]  Currently, it is surfacing that Anthony Weiner is selling out the Clintons to save his own skin, essentially voiding Huma's immunity deal, forcing Aberdeen to either face jail time or sing like a canary.
+[00:51:51.140 --> 00:51:52.982]  It is unthinkable
+[00:51:53.902 --> 00:52:11.629]  Uh, that the director of the FBI would take this action lightly, that he would put this letter forth to the Congress of the United States saying that there is more information out there about classified emails, uh, and call it to the attention of the Congress.
+[00:52:12.208 --> 00:52:15.951]  Unless it was something requiring serious investigation.
+[00:52:16.251 --> 00:52:20.894]  Al, the stench of boiling corruption has landed squarely on President Obama's desk.
+[00:52:21.094 --> 00:52:35.604]  The New York Post reveals that back in 2008, President Obama's transition team improperly emailed sensitive and confidential information about a candidate for a high-level government job, according to newly disclosed WikiLeaks emails.
+[00:52:36.044 --> 00:52:45.990]  That, on top of the Podesta WikiLeaks supporting Obama's knowledge and use of Clinton's email server and the Clinton team's attempts to clean it up.
+[00:52:46.390 --> 00:52:54.615]  Eventually, the emails will reveal Clinton Foundation racketeering that will bring down all of those on the take in Washington, D.C.
+[00:52:54.836 --> 00:52:58.678]  Hillary's bogus poll-tampered 12-point lead is gone.
+[00:52:58.938 --> 00:53:05.002]  Unfortunately, all that means is that it's quite possible that American lives could be in more danger.
+[00:53:05.302 --> 00:53:20.748]  Things are getting so dire for the globalists, who still remain under the false impression that they are invisible, that you can hear the clock ticking on a major false flag operation to steer the rubbernecking of the Clinton dumpster fire towards something far more sinister.
+[00:53:21.008 --> 00:53:22.928]  John Bowne for InfoWars.com
+[00:53:31.067 --> 00:53:35.708]  Well, the Clinton email scandal has exposed major corruption in Washington, D.C.
+[00:53:35.768 --> 00:53:40.890]  Now, we already knew that there was massive corruption there, but there it is in black and white.
+[00:53:41.370 --> 00:53:51.693]  Now, the play that we're seeing really coming out of all these email scandals is that it's the fault of those exposing the corruption, not, of course, the corrupt players that were exposed.
+[00:53:52.273 --> 00:53:56.214]  The fact of the matter is Hillary Clinton only has herself to blame.
+[00:53:56.254 --> 00:54:01.596]  It was her decision to set up a private email server and escape federal regulations.
+[00:54:02.036 --> 00:54:02.517]  That's right.
+[00:54:02.597 --> 00:54:09.419]  So what we're seeing here now is the FBI's astounding reversal to go ahead and say we're going to go ahead and look at these emails.
+[00:54:09.779 --> 00:54:11.019]  They've had these for weeks, Leanne.
+[00:54:11.060 --> 00:54:12.120]  There was undue pressure.
+[00:54:12.640 --> 00:54:12.820]  I don't
+[00:54:29.417 --> 00:54:39.105]  Much to the voices coming out against him, even in his own sphere, if you will, Eric Holder being one of them, the former Attorney General himself.
+[00:54:39.165 --> 00:54:46.031]  He says, I fear he has unintentionally and negatively affected public trust in both the Justice Department and the FBI.
+[00:54:46.051 --> 00:54:47.992]  Well, Holder knows a thing or two about that.
+[00:54:49.293 --> 00:54:54.536]  Comey was the poster boy, the golden child, because he wouldn't indict Hillary.
+[00:54:54.556 --> 00:54:59.699]  It looks like Hillary, the latest email earthquake, is going to crumble on her like a house of cards.
+[00:55:00.180 --> 00:55:08.605]  We're watching living history right now, and the fact that Comey is doing this, it's astounding, but at the same time, he doesn't have any friends, Leigh-Anne.
+[00:55:08.645 --> 00:55:10.206]  He could face indictment himself, by the way.
+[00:55:10.506 --> 00:55:11.346]  Right, yeah.
+[00:55:11.607 --> 00:55:24.814]  It doesn't seem as though he's trying to gain the approval of people like the former Attorney General Eric Holder, which by the way, he was actually majorly responsible for the erosion of trust in the FBI and the Department of Justice.
+[00:55:24.834 --> 00:55:26.915]  Let's just take a little history stroll.
+[00:55:27.335 --> 00:55:36.263]  Through his scandals there, obviously there's Fast and Furious, which was the Justice Department program sent over 2,000 illegal firearms to Mexican drug cartels.
+[00:55:36.764 --> 00:55:40.707]  This left over 300 Mexican nationals and two agents dead.
+[00:55:41.548 --> 00:55:45.252]  He tapped AP reporters' phones, targeted James Rosen and Fox News.
+[00:55:45.832 --> 00:55:51.335]  After the Fort Hood massacre in 2009, he called it workplace violence, not an act of terror.
+[00:55:52.176 --> 00:55:57.178]  They actually purged references of radical Islam from training manuals.
+[00:55:57.519 --> 00:56:04.943]  So words like Muslim, Islam, Muslim Brotherhood, Hamas and Sharia were not mentioned once in the FBI's counterterrorism lexicon.
+[00:56:05.723 --> 00:56:05.883]  Yeah.
+[00:56:21.796 --> 00:56:22.617]  I think so.
+[00:56:36.953 --> 00:56:44.355]  He refused to take action against any of the hate crimes or voting rights violations by the Black Panthers, who were targeting white voters in 2008.
+[00:56:45.035 --> 00:56:46.676]  Rejected voter ID laws, of course.
+[00:56:46.716 --> 00:56:49.196]  He says all the banks were too big to jail.
+[00:56:49.256 --> 00:56:52.737]  And of course, now he's working for a firm that represents those big banks.
+[00:56:53.838 --> 00:56:56.758]  You know, he's prosecuted a record number of whistleblowers.
+[00:56:57.119 --> 00:57:05.521]  Because once again here, in this current administration, it's the people exposing corruption who are the bad guys, not the actual criminals there who are
+[00:57:06.101 --> 00:57:07.003]  Involved in the corruption.
+[00:57:07.143 --> 00:57:08.825]  I couldn't have said that better myself.
+[00:57:08.905 --> 00:57:17.518]  So that accurate depiction of Eric Holder, and you mentioned he works for Covington Burling right now, defending Wall Street clients who commit white collar crimes.
+[00:57:17.538 --> 00:57:19.041]  That's what he does for a living currently.
+[00:57:19.061 --> 00:57:21.745]  I remember anecdotally just really quickly, and we're running out of time.
+[00:57:22.645 --> 00:57:30.107]  Listening to his wife have a conversation about how they're buying this multi-million dollar property in City Center, which is an upscale complex in Washington, D.C.
+[00:57:30.147 --> 00:57:34.308]  He embodies everything that's wrong with our system, the revolving door.
+[00:57:34.348 --> 00:57:40.010]  He used his position of public service to then gain a position of private power.
+[00:57:40.410 --> 00:57:43.711]  And he has no right to crucify anybody, much less Director Comey.
+[00:57:43.731 --> 00:57:49.653]  But, you know, talking about the Department of Justice for a moment, taking this to Lynch, you know, she is pleading the fifth.
+[00:57:49.673 --> 00:57:51.373]  She pled the fifth regarding the Iran deal.
+[00:57:51.573 --> 00:57:53.193]  Well, you mentioned this earlier off camera.
+[00:57:53.213 --> 00:57:57.454]  She's pled the fifth roughly 70 times related to Hillary Clinton's email scandal.
+[00:57:57.895 --> 00:57:59.655]  And this woman is everything.
+[00:57:59.735 --> 00:58:02.636]  She is literally a swamp dragon.
+[00:58:02.656 --> 00:58:06.437]  When Trump says, drain the swamp, this is exactly who he's talking about.
+[00:58:06.457 --> 00:58:09.177]  30 years of this, she's been doing similar things.
+[00:58:09.197 --> 00:58:12.058]  They use this position, one of the highest offices in our land.
+[00:58:12.438 --> 00:58:16.179]  They're tasked with guarding our laws and they're exploiting them.
+[00:58:16.579 --> 00:58:17.599]  I want to get through this quickly.
+[00:58:17.659 --> 00:58:22.621]  So we've mentioned the email scandal, we've mentioned Comey, and you know, he could easily fall on his sword.
+[00:58:22.661 --> 00:58:25.202]  Taking us to the email situation and Donna Brazile for a moment.
+[00:58:25.622 --> 00:58:31.844]  Donna Brazile was just fired from CNN, and she gives this ridiculous statement, thank God it's nearly over.
+[00:58:31.924 --> 00:58:33.285]  I've got news for you, doll face.
+[00:58:33.645 --> 00:58:34.845]  It is just beginning.
+[00:58:34.905 --> 00:58:36.205]  What you did was a crime.
+[00:58:36.566 --> 00:58:41.767]  CNN, they never acknowledge the validity of WikiLeaks, and yet they're firing people based on the validity of WikiLeaks.
+[00:58:42.628 --> 00:58:43.748]  Explain that one to me.
+[00:58:44.048 --> 00:58:44.208]  Right.
+[00:58:44.248 --> 00:58:50.880]  So, you know, she can no longer say, hey, I'm a Christian, I wouldn't lie, because there it is in black and white, your lies have been exposed.
+[00:58:50.900 --> 00:58:51.341]  Correct.
+[00:58:51.401 --> 00:58:52.543]  Thank you so much, Margaret.
+[00:58:52.563 --> 00:58:52.963]  Thank you.
+[00:58:53.124 --> 00:58:54.586]  Thank you guys for watching the show tonight.
+[00:58:54.646 --> 00:58:57.271]  We will see you here again tomorrow at 7 p.m.
+[00:58:57.371 --> 00:58:57.732]  Central.
+[00:59:04.130 --> 00:59:09.935]  In the past decade, we have witnessed unparalleled scientific discoveries in the area of health.
+[00:59:10.396 --> 00:59:20.085]  But no one has put together a formula that focuses directly on brain health, nerve growth factors, and optimizing your cellular energy at the same time.
+[00:59:20.425 --> 00:59:24.166]  DNA Force is one of the most expensive formulas to produce.
+[00:59:24.726 --> 00:59:29.387]  Some of the ingredients in DNA Force are $12,000 a kilogram.
+[00:59:29.787 --> 00:59:36.008]  We are using the coveted, patented, only American source of PQQ, CoQ10, and more.
+[00:59:36.308 --> 00:59:38.608]  You want the best that's out there at the lowest price anywhere?
+[00:59:39.268 --> 00:59:41.709]  Well, we're bringing you a total win-win.
+[00:59:42.089 --> 00:59:47.590]  The ultimate value, cutting-edge, trailblazing game-changer that also supports the info war.
+[00:59:48.030 --> 00:59:54.693]  We have produced a limited run of DNA Force and it will take up to 12 weeks to produce more once we sell out.
+[00:59:55.053 --> 00:59:59.895]  Secure your DNA Force today at InfoWarsLife.com or call toll free 888-253-3139.

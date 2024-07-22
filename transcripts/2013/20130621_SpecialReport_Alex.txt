@@ -1,0 +1,30 @@
+[00:00:06.175 --> 00:00:16.700]  Tech companies tied up with the NSA's internet surveillance scandal have released government data requests this week in an effort to maintain user trust when it comes to the handling of their personal information.
+[00:00:17.400 --> 00:00:24.643]  Combined figures from Facebook, Apple, Microsoft, Yahoo, and Google total about 40,000 requests from law enforcement since December 2012.
+[00:00:24.943 --> 00:00:31.586]  The most common requests concern fraud, homicides, kidnappings, burglaries, and hoping to prevent a suicide.
+[00:00:32.086 --> 00:00:35.048]  Noticeably absent are requests concerning national security.
+[00:00:35.409 --> 00:00:40.072]  That's because a government gag order prevents the tech giants from releasing that information.
+[00:00:40.372 --> 00:00:45.416]  These figures only represent user data that was provided after being served a warrant or subpoena.
+[00:00:45.797 --> 00:00:50.921]  It does not represent FISA requests, which is what the NSA uses as part of the PRISM program.
+[00:00:51.681 --> 00:00:59.990]  According to numbers from the Boundless Informant Program, these figures are 100,000 times less than the 3 billion pieces of data mined from U.S.
+[00:01:00.030 --> 00:01:01.231]  servers in March alone.
+[00:01:01.611 --> 00:01:06.016]  According to leaked PRISM slides, the government has direct access to server systems.
+[00:01:06.396 --> 00:01:11.181]  But one tech CEO said that would be impossible unless the government had breached the servers.
+[00:01:11.561 --> 00:01:14.905]  Now, Obama referred to the NSA receiving metadata in bulk.
+[00:01:15.305 --> 00:01:24.871]  He said the bits of information called were telephone numbers, a location, and the duration of the phone call, assuring that there was no names or no content in the database.
+[00:01:25.511 --> 00:01:33.236]  But if there is no content in the database, then how does the FBI retroactively gain access to the content of your phone calls?
+[00:01:33.256 --> 00:01:35.618]  It was not a voicemail, it was just a conversation.
+[00:01:36.258 --> 00:01:38.579]  There's no way they actually could find out what happened, right?
+[00:01:38.599 --> 00:01:39.180]  Unless she tells them.
+[00:01:40.802 --> 00:01:41.543]  No, there is a way.
+[00:01:41.563 --> 00:01:47.388]  We certainly have ways in national security investigations to find out exactly what was said in that conversation.
+[00:01:48.168 --> 00:01:49.189]  Welcome to America.
+[00:01:50.330 --> 00:01:55.054]  All of that stuff is being captured as we speak, whether we know it or like it or not.
+[00:01:55.675 --> 00:02:01.460]  NSA whistleblower William Binney spoke of an even earlier surveillance tool in a recent interview with Democracy Now!
+[00:02:02.723 --> 00:02:12.307]  The nearest devices that they deployed starting, I think, around 2003 onto the fiber optic networks were capturing the emails and voice over IP, and that was being stored.
+[00:02:12.487 --> 00:02:18.890]  That's why you have to build places like Bluffdale in Utah, that's a big storage facility, because they're collecting so much data.
+[00:02:19.170 --> 00:02:22.652]  The content is really the bulk that needs to be, that they're storing.
+[00:02:23.004 --> 00:02:30.270]  Now Benny went on to say that the content collected on the fiber optic lines only represented about 80% of what's on the internet.
+[00:02:30.710 --> 00:02:39.156]  But by going to the tech company's servers, the NSA is able to fill in the holes and get a complete picture of what is actually on the internet.
+[00:02:39.717 --> 00:02:47.102]  All that data will be stored in the Utah Spy Center, which Benny says will hold up to 500 years worth of all the world's communication.
+[00:02:47.483 --> 00:02:50.305]  And its main focus will be analysis and code breaking.
+[00:02:50.946 --> 00:02:54.337]  I'm Leanne McAdoo and this has been an InfoWars Nightly News Alert.

@@ -1,0 +1,65 @@
+[00:00:09.778 --> 00:00:14.360]  Joe Biggs here with InfoWars.com with a tech update on a new device that is out.
+[00:00:15.181 --> 00:00:23.284]  Checked out an article earlier today by VentureBeat.com and it's promoting or there's an article I should say about this new device.
+[00:00:23.725 --> 00:00:26.626]  This is a USB wall charger that secretly logs keystrokes
+[00:00:27.346 --> 00:00:32.329]  From Microsoft, and it says Microsoft only at this time, wireless keyboards nearby.
+[00:00:32.789 --> 00:00:42.694]  What it's able to do is pick up your keystrokes, get the URLs, passwords, and it's cleverly hidden as a wall charger with a USB port.
+[00:00:42.714 --> 00:00:55.920]  It also has an internal battery as well, so if it's not plugged in and it's already charged up, you could put this device, say, in a pocket or drop it in someone's bag if you wanted to be sneaky.
+[00:00:56.460 --> 00:00:56.841]  We're good.
+[00:01:11.357 --> 00:01:12.298]  So it says, this is no toy.
+[00:01:12.318 --> 00:01:15.760]  The Key Sweeper includes a web-based tool for live keystroke monitoring.
+[00:01:16.201 --> 00:01:22.806]  Now it can send SMS alerts for trigger words, usernames, or URLs in case you want to steal a PIN number or a password.
+[00:01:23.086 --> 00:01:26.708]  And even continues to work after it's unplugged thanks to an internal battery.
+[00:01:26.728 --> 00:01:30.471]  Like I said before, this is what it looks like when he has it pulled up.
+[00:01:30.751 --> 00:01:34.634]  He's able to pull up a Facebook message on someone says, ha ha Matt, I'll be there.
+[00:01:35.915 --> 00:01:38.397]  So this thing has some pretty dangerous implications.
+[00:01:38.437 --> 00:01:40.138]  You know, we've shown you time and time again.
+[00:01:41.164 --> 00:01:45.706]  That there are tons of household items right now that can be spying on you.
+[00:01:45.726 --> 00:01:46.407]  Dishwashers.
+[00:01:47.207 --> 00:01:53.210]  The CIA chief at the time, General David Petraeus, said that we'll spy on you through your dishwasher.
+[00:01:53.830 --> 00:01:55.651]  So we have to worry about dishwashers.
+[00:01:55.671 --> 00:01:56.992]  We have to worry about smart TVs.
+[00:01:57.012 --> 00:01:58.773]  I have to worry about my
+[00:02:00.199 --> 00:02:13.490]  Personal phone because in here when you go and read in the terms and services it clearly says that the NSA is spying on you and they're not liable for any information that you may lose off your phone due to them snooping around on your devices.
+[00:02:14.831 --> 00:02:20.676]  It seems like the world we're coming to live in is just a non, a never ending police state.
+[00:02:21.097 --> 00:02:23.439]  Everything that we have, all of our tools are watching us.
+[00:02:24.332 --> 00:02:28.616]  You know, and this is going to get every keystroke that you have as well.
+[00:02:28.996 --> 00:02:42.569]  So, this is something that, you know, I just can't stand seeing that, you know, one day, if I ever have kids, they're going to have to grow up in this world that, you know, you have to worry about what you say because we keep seeing our freedom of speech attacked with the
+[00:02:43.550 --> 00:02:51.438]  The interview movie, how they're making people scared to show the movie, the Charlie Hebdo attacks in France where they're trying to attack people for speaking.
+[00:02:51.458 --> 00:02:57.784]  What's going to happen when we have all these devices and they crack down and there's martial law and they're listening to everything you say?
+[00:02:57.824 --> 00:03:01.027]  Are you going to be fined based on what you say in your own home?
+[00:03:01.287 --> 00:03:02.948]  Sanctimonious asshole.
+[00:03:02.968 --> 00:03:08.354]  Melina Huxley, you are fined one half credit for a sotoboche violation of the verbal morality statute.
+[00:03:08.374 --> 00:03:08.594]  Thank you.
+[00:03:09.239 --> 00:03:12.740]  Or will you be thrown in jail because you said something bad against the government?
+[00:03:13.040 --> 00:03:15.120]  This is what it's all coming to and this is what we have to do.
+[00:03:15.461 --> 00:03:16.321]  We need to become aware.
+[00:03:16.341 --> 00:03:20.842]  We need to talk to our friends so we can protect ourselves against these tools.
+[00:03:21.982 --> 00:03:24.483]  Here's a little background on the guy who invented this part.
+[00:03:24.823 --> 00:03:29.464]  It's called, his name is Sammy Kamkar and he is the guy who invented this keystroke logger.
+[00:03:30.024 --> 00:03:36.268]  It says, Sammy Kamkar is 30 years old, is a privacy and security researcher, computer hacker, whistleblower, and entrepreneur.
+[00:03:36.288 --> 00:03:42.292]  At the age of 17, he co-founded Finality, which was a $46 million company and private funding.
+[00:03:42.713 --> 00:03:46.335]  He is best known for creating and releasing the fastest spreading virus ever.
+[00:03:47.016 --> 00:03:49.037]  That was the MySpace worm, Sammy.
+[00:03:49.917 --> 00:03:51.358]  After that, he was raided by the U.S.
+[00:03:51.378 --> 00:03:56.382]  Secret Service, Electronic Crimes Task Force, through the Patriot Act.
+[00:03:57.182 --> 00:03:58.863]  He is also known for creating Skyjack.
+[00:04:00.763 --> 00:04:22.686]  is a drone or a spy drone hacker drone that he can send up once it goes up in the air it can take control of those other drones it brings him the controls back to his monitor and then he's then able to make those drones do whatever commands he says and you know renders the people who have them useless to do anything with that so this guy is a young guy very smart
+[00:04:23.266 --> 00:04:24.627]  Raided by the Secret Service.
+[00:04:25.047 --> 00:04:35.250]  And now, all of a sudden, he, in 2011, Kamkar joined the Board of Directors for Brave New Software, a non-private organization originally funded by a multi-million dollar U.S.
+[00:04:35.450 --> 00:04:37.051]  State Department grant.
+[00:04:38.069 --> 00:04:40.490]  So this guy is definitely into something right now.
+[00:04:40.911 --> 00:04:41.911]  Who is he working for?
+[00:04:42.071 --> 00:04:45.033]  Is he really trying to help expose weaknesses in electronics?
+[00:04:45.634 --> 00:04:50.236]  Or has the government turned him and he is helping make these things a spy on Americans?
+[00:04:50.617 --> 00:04:52.558]  I'll let you decide, but this is something interesting.
+[00:04:52.598 --> 00:04:55.580]  Like I said, more and more of these devices are being made.
+[00:04:55.840 --> 00:04:58.982]  This is another shackle to make you a prisoner in your own home.
+[00:04:59.909 --> 00:05:01.270]  This is something we have to talk about.
+[00:05:01.611 --> 00:05:02.952]  Continue to tell your friends.
+[00:05:03.352 --> 00:05:04.033]  Share the word.
+[00:05:04.353 --> 00:05:05.274]  Share these videos.
+[00:05:05.334 --> 00:05:06.755]  Go to InfoWars.com.
+[00:05:07.036 --> 00:05:09.178]  Make sure you watch the nightly news at 7 p.m.
+[00:05:09.238 --> 00:05:13.942]  Central and also watch the Alex Jones Show from 11 to 2 p.m.
+[00:05:14.002 --> 00:05:18.346]  Central Monday through Friday and then also the show on Sunday.
+[00:05:18.707 --> 00:05:20.849]  Once again, I'm Joe Biggs with InfoWars.com.

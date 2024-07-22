@@ -1,0 +1,58 @@
+[00:00:10.390 --> 00:00:13.091]  This is Melissa Melton reporting for InfoWars Nightly News.
+[00:00:13.791 --> 00:00:21.573]  Last weekend, InfoWars hosted its first ever drone mob, a citizen protest of our taxpayer dollars being used to turn drone technology against us.
+[00:00:22.213 --> 00:00:35.576]  With the Federal Aviation Administration announcing that 30,000 drones are set to fill our skies over the next decade, regardless of the threat to our civil liberties, many people showed up to speak out against drones and to fly them, but one man showed up to hack them.
+[00:00:36.081 --> 00:00:38.483]  Hey everybody, thanks for coming out to the drone mob here.
+[00:00:38.503 --> 00:00:43.528]  We have a guy that came here, he brought his Wi-Fi system and it'll actually take control of drones.
+[00:00:43.568 --> 00:00:45.610]  So we're going to have kind of like a live demonstration.
+[00:00:46.051 --> 00:00:49.854]  So we're about to see a demonstration of free open source software that any person can get.
+[00:00:50.666 --> 00:00:52.988]  He's going to use it to take control and jam the signal.
+[00:00:53.008 --> 00:00:54.870]  Okay, I'm now running the block right now.
+[00:00:54.890 --> 00:00:57.833]  I can see that I'm getting some acknowledgment that it is being effective.
+[00:00:58.293 --> 00:00:59.114]  So it's just hovering.
+[00:00:59.134 --> 00:01:01.816]  So it's saying in a hover mode he's basically killed it.
+[00:01:02.337 --> 00:01:04.238]  You don't have to be particular with the drone.
+[00:01:04.278 --> 00:01:06.821]  It doesn't have to be targeted towards anything specifically.
+[00:01:07.121 --> 00:01:09.723]  Our particular drone has an automatic landing feature.
+[00:01:09.803 --> 00:01:11.425]  All you have to do is push land and it'll land.
+[00:01:11.485 --> 00:01:14.768]  As you can see, David's trying to hit the automatic land and it will not land.
+[00:01:14.788 --> 00:01:15.829]  Is it working, David?
+[00:01:15.849 --> 00:01:16.850]  Can you control it anymore?
+[00:01:17.711 --> 00:01:18.612]  It's pretty hard.
+[00:01:19.513 --> 00:01:21.556]  Okay, so you do have control over the drone.
+[00:01:21.576 --> 00:01:23.078]  I do, I'm spinning around right now.
+[00:01:23.178 --> 00:01:24.600]  Okay, okay, there you go.
+[00:01:24.640 --> 00:01:25.181]  Here's your spin.
+[00:01:25.241 --> 00:01:32.632]  Okay, I'm gonna go ahead and see if I can disrupt that here and stop you from being able to control it as well.
+[00:01:32.712 --> 00:01:34.194]  So you, you have any control?
+[00:01:34.767 --> 00:01:35.348]  Not yet.
+[00:01:35.628 --> 00:01:37.469]  He is trying to spin it like he just was.
+[00:01:37.589 --> 00:01:44.535]  These acknowledgements here are acknowledgements of what I'm sending, which is telling the drone it wishes to disconnect from the controller.
+[00:01:46.477 --> 00:01:47.798]  You might want to ask him.
+[00:01:48.138 --> 00:01:49.720]  What's going on, Jakar?
+[00:01:49.760 --> 00:01:52.742]  Before, you saw I was spinning the drone just around in a circle.
+[00:01:53.082 --> 00:01:58.587]  Now I'm using my keypad to do the same thing I was doing before, and I have lost, I guess, complete control of the drone.
+[00:01:59.087 --> 00:02:01.930]  Now this isn't the first time a domestic drone has been hacked.
+[00:02:02.589 --> 00:02:11.447]  Spending just a thousand dollars in parts, students at the University of Texas were able to build a device that allowed them to hack a drone in front of the Department of Homeland Security.
+[00:02:11.886 --> 00:02:13.187]  This is all available on the internet.
+[00:02:13.547 --> 00:02:16.229]  This is something that, you know, can easily be taught to anybody.
+[00:02:16.549 --> 00:02:21.853]  We have the power to do that, and this is just a small demonstration of that power.
+[00:02:21.953 --> 00:02:22.933]  This is so easy to do.
+[00:02:22.993 --> 00:02:24.034]  Any person can do this.
+[00:02:24.154 --> 00:02:28.837]  I mean, even if they're using a different type of system, you saw how easy it was to do it this.
+[00:02:28.957 --> 00:02:31.579]  I mean, how easy do you think it's going to be for just anybody?
+[00:02:31.619 --> 00:02:33.641]  I mean, we're filling the skies with 30,000 drones.
+[00:02:33.681 --> 00:02:39.024]  How easy is it going to be for these other things to get taken over that actually have, you know, weapons on them?
+[00:02:39.044 --> 00:02:40.425]  They have rubber bullets on some of these.
+[00:02:40.445 --> 00:02:41.606]  They've got tasers on some of them.
+[00:02:41.866 --> 00:02:43.488]  Yeah, it's going to be extremely easy.
+[00:02:43.568 --> 00:02:50.614]  Iran's already demonstrated, not only did they take over one spy drone recently, the first one they captured was the latest of our stealth technology.
+[00:02:50.634 --> 00:03:00.763]  I mean, I've interviewed several people on this topic, and all the time I get answers like, well, but it's for my safety, it's going to make me safer, and I'm not doing anything wrong, so it's totally fine.
+[00:03:01.164 --> 00:03:02.445]  What do you say to people who say that?
+[00:03:02.625 --> 00:03:05.986]  Well, I think they need to be free-thinking individuals.
+[00:03:06.046 --> 00:03:09.248]  I mean, there's several consequences for any action.
+[00:03:09.628 --> 00:03:16.611]  And if anybody wants to get away with something, even if they're doing it for another reason, they're going to lay out all the consequences of what something can do or will do.
+[00:03:16.931 --> 00:03:18.091]  They'll pick the prettiest one.
+[00:03:18.111 --> 00:03:19.452]  They're going to sell it based on that.
+[00:03:19.492 --> 00:03:28.335]  And if we don't look for ourselves at the other consequences of the actions that we're being asked to support or let them take, then we're all going to be enslaved.
+[00:03:28.395 --> 00:03:29.916]  It's going to be simple for them to do.
+[00:03:31.192 --> 00:03:33.554]  For InfoWars Nightly News, I'm Melissa Melton.

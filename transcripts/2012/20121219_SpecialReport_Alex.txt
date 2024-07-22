@@ -1,0 +1,263 @@
+[00:00:04.324 --> 00:00:05.005]  Welcome back.
+[00:00:05.105 --> 00:00:07.346]  I'm here joined by George Bliss.
+[00:00:07.526 --> 00:00:15.091]  He was the drone hacker who came out to our Drone Mob and was able to take over one of our drones using free software within minutes.
+[00:00:15.772 --> 00:00:17.273]  So, hi George.
+[00:00:17.313 --> 00:00:18.134]  Welcome to the show.
+[00:00:18.154 --> 00:00:18.374]  How are you?
+[00:00:18.394 --> 00:00:19.174]  It's good to see you again.
+[00:00:19.855 --> 00:00:23.457]  So first, just tell us what you did.
+[00:00:23.838 --> 00:00:25.038]  What you did when you came down.
+[00:00:25.078 --> 00:00:26.059]  You brought your laptop.
+[00:00:26.339 --> 00:00:27.080]  People are showing up.
+[00:00:27.100 --> 00:00:27.860]  They're bringing drones.
+[00:00:27.880 --> 00:00:28.641]  They're bringing stuff.
+[00:00:28.701 --> 00:00:30.502]  You came with a table and a laptop.
+[00:00:30.682 --> 00:00:31.223]  Tell us about it.
+[00:00:32.257 --> 00:00:42.683]  Um, well, I came down to demonstrate that, um, in the end, that, uh, all the technology that's being used against us can, uh, easily be disabled.
+[00:00:43.724 --> 00:00:54.730]  Um, there aren't a whole lot of systems that the government can use that, uh, you know, aren't originating from civilian technology or understanding or academics.
+[00:00:54.790 --> 00:01:00.514]  So, when I heard about your event down at Zilker Park, I thought it'd be fun to go out there and, uh,
+[00:01:01.886 --> 00:01:08.917]  Bring my laptop down there basically to demonstrate that I could do something a little bit different.
+[00:01:08.997 --> 00:01:11.161]  I was hoping I'd be the only one there with that idea.
+[00:01:11.181 --> 00:01:13.604]  You were the only one there with that idea, that's for sure.
+[00:01:14.818 --> 00:01:22.365]  So, I like to look at the negative space of things, you know, kind of like the equal opposite and I thought that might be interesting to come down there.
+[00:01:22.425 --> 00:01:38.861]  I know you guys were making a great statement about how these drones are going to be real prevalent and that they're cheap and easy to find and so every police department across the country has been signing on to buy these of all different shapes and sizes.
+[00:01:39.702 --> 00:01:54.586]  And I just wanted my message to be that they're not going to take these technologies and use them really back against us, because they all originate in completely peaceful and civilian technologies in the end.
+[00:01:54.686 --> 00:01:56.126]  Well, that's how they always sell it to us.
+[00:01:56.166 --> 00:02:01.988]  They sell it to us as helpful and good at first, and then it's twisted and perverted and turned against us.
+[00:02:02.028 --> 00:02:04.949]  But tell us about what you actually did while you were there.
+[00:02:05.706 --> 00:02:18.120]  Well, using some software, a lot of people are familiar now with Linux, and using that software, which Linux is an open source operating system, it's kind of like getting Windows but not having to pay for it.
+[00:02:19.102 --> 00:02:24.588]  It's software by the people, for the people, if you will, the democracy of computing, and
+[00:02:25.769 --> 00:02:33.336]  This software allowed me to view more information about the Wi-Fi environment around the laptop.
+[00:02:33.576 --> 00:02:37.339]  And so, using those tools basically, and anybody can do this.
+[00:02:37.359 --> 00:02:37.880]  This is free.
+[00:02:37.940 --> 00:02:39.021]  This is a free software.
+[00:02:39.061 --> 00:02:41.423]  You went and got easily off the internet.
+[00:02:41.963 --> 00:02:43.324]  Didn't have to pay for it, nothing.
+[00:02:43.344 --> 00:02:44.044]  You just went and got it.
+[00:02:44.425 --> 00:02:45.325]  Right, exactly.
+[00:02:45.345 --> 00:02:46.986]  I even borrowed the laptop.
+[00:02:47.026 --> 00:02:48.867]  So it was completely free!
+[00:02:49.087 --> 00:02:50.068]  Didn't cost you anything.
+[00:02:50.088 --> 00:02:53.010]  Didn't cost me a dime to come down there and do that, so it was fun.
+[00:02:53.510 --> 00:02:57.272]  But basically, using some tools, just software.
+[00:02:57.372 --> 00:02:58.693]  Anybody can learn how to use them.
+[00:02:58.713 --> 00:02:59.974]  They're pretty well developed.
+[00:03:01.174 --> 00:03:03.296]  I was hoping somebody had a Wi-Fi drone out there.
+[00:03:03.376 --> 00:03:07.658]  They're not all, of course, flown with the Wi-Fi, but you guys happened to bring yours down there.
+[00:03:07.698 --> 00:03:09.920]  I saw that iPad and I knew I was in business.
+[00:03:11.120 --> 00:03:12.101]  Yeah, we did.
+[00:03:12.601 --> 00:03:25.391]  And so I pulled it up on there and I essentially told the drone that it no longer wished to receive communication from the controller or be a part of its network.
+[00:03:25.691 --> 00:03:34.138]  And so what we saw was your drone, it's one of those four rotor drones and it has the autonomous hover mode on it.
+[00:03:34.978 --> 00:03:42.240]  And so when we severed the connection, it just went to being a real drone, which is just kind of like flying into the wind.
+[00:03:42.720 --> 00:03:44.620]  It tried to, you know, keep itself in the same spot.
+[00:03:44.640 --> 00:03:46.161]  Yeah, they couldn't control it.
+[00:03:46.321 --> 00:03:47.021]  They couldn't land it.
+[00:03:47.261 --> 00:04:01.985]  Yeah, I was hoping it'd be something dramatic, you know, like ten drones falling out of the sky, but the way you guys set up the demonstration, and especially the way the video was presented on InfoWars and PrisonPlanet.TV, I really like the message.
+[00:04:02.045 --> 00:04:03.265]  That's what I was trying to say.
+[00:04:03.365 --> 00:04:09.349]  Well, I mean, a lot of people have come out and said, this is just a toy and we shouldn't really be concerned that you were able to do this.
+[00:04:09.409 --> 00:04:18.496]  However, these same toys are the same toys that law enforcement all over the place are getting and then they're upgrading it using our taxpayer dollars and turning that against us.
+[00:04:18.556 --> 00:04:20.718]  It's the same kind of level of stuff.
+[00:04:20.738 --> 00:04:22.539]  So I mean, I think it's pretty concerning.
+[00:04:22.579 --> 00:04:25.181]  Not only that, but that drone has a high definition camera on it.
+[00:04:25.601 --> 00:04:25.901]  Absolutely.
+[00:04:25.921 --> 00:04:26.682]  And that's happening now.
+[00:04:26.802 --> 00:04:27.242]  I've seen it.
+[00:04:27.682 --> 00:04:28.503]  You know, I think that
+[00:04:51.116 --> 00:05:18.788]  The biggest issue here that the easiest way to define where the line is being crossed here for people if they don't already realize it is what they used to call expectation of privacy and with drones in the sky at high altitude and cameras and all of the number of agencies that want to get involved with this you know there used to be expectation of privacy in your backyard even if your fence was six or eight feet you know and there were some vantage points
+[00:05:20.189 --> 00:05:44.047]  That was anything that occurred there was considered private and I think that what you're describing I'm sure all of the laws have already changed to support their actions Although I'm sure abstractly, but I don't think that there's really any expectation of privacy left I would like to hear what the government's Description or definition of expectation of privacy is at this point
+[00:05:44.147 --> 00:05:50.273]  Well, we're actually going to get into that, because the FAA has actually come out and said that there is no expectation of privacy.
+[00:05:50.334 --> 00:05:50.794]  We have that.
+[00:05:50.874 --> 00:05:53.837]  Actually, I want to show you several articles here.
+[00:05:53.857 --> 00:05:58.963]  Let's just kind of go over briefly, because I think they all speak to the point here of what we're dealing with.
+[00:05:59.363 --> 00:06:03.708]  Okay, the first one is, Bill clears path for 30,000 surveillance drones over the U.S.
+[00:06:03.748 --> 00:06:06.731]  in the next 10 years, and this is the FAA announcing they feel that
+[00:06:07.071 --> 00:06:11.333]  There's going to be at least 30,000 drones in our skies over the next decade.
+[00:06:11.793 --> 00:06:18.257]  And then, this also came out, and we just spoke about this, but FAA drone operators have zero privacy obligations.
+[00:06:18.297 --> 00:06:22.239]  And it actually says that, they came out and said, our primary mission is safety.
+[00:06:22.939 --> 00:06:33.244]  And so, therefore, they're acknowledging that there's privacy concerns, but they're not saying they would mandate anything that would force drone operators to follow any kind of privacy rules.
+[00:06:33.304 --> 00:06:34.865]  So basically, there aren't any.
+[00:06:35.505 --> 00:06:40.309]  Then, next I have Texas College hacks drone in front of Department of Homeland Security.
+[00:06:40.729 --> 00:06:41.670]  This was here in Austin.
+[00:06:41.690 --> 00:06:46.414]  These students were able to, using $1,000 in parts, they built what's called a spoofer.
+[00:06:47.034 --> 00:06:51.998]  And they were able to take control of multiple drones in front of the Department of Homeland Security and fly them wherever they wanted to.
+[00:06:52.779 --> 00:06:53.939]  So, that's lovely.
+[00:06:54.079 --> 00:06:59.701]  And then, all of these things came out just last week, right after our drone mob, so we couldn't even talk about them at the time, but we can now.
+[00:07:00.841 --> 00:07:03.842]  Iran says it can make a copy of the captured CIA drone.
+[00:07:03.882 --> 00:07:13.144]  You had mentioned this when we had talked at the drone mob about how Iran was able to take control of our supposedly top-secret, top-stealth drone.
+[00:07:13.184 --> 00:07:16.585]  Now they've got it, and now they're saying openly they can make a copy of it.
+[00:07:17.085 --> 00:07:18.025]  So that's wonderful.
+[00:07:18.425 --> 00:07:20.986]  And then this came out right around the same time.
+[00:07:21.326 --> 00:07:22.387]  Next generation U.S.
+[00:07:22.427 --> 00:07:24.368]  drone is now equipped with a death ray laser.
+[00:07:24.908 --> 00:07:28.770]  It's like you hear that and you're thinking, this is a movie, this is Star Trek, this is Star Wars.
+[00:07:28.810 --> 00:07:29.350]  No, it's not.
+[00:07:29.571 --> 00:07:30.491]  This is really happening.
+[00:07:30.511 --> 00:07:35.293]  This is DARPA having death ray lasers with unlimited magazines on drones now.
+[00:07:35.573 --> 00:07:37.434]  And they're saying they're in the final development stage.
+[00:07:37.474 --> 00:07:38.395]  So that's great.
+[00:07:38.895 --> 00:07:43.981]  Then we have professors coming out saying drones are going to be able to kill with human assistance.
+[00:07:44.241 --> 00:07:51.388]  The Pentagon has come out actually to say there's going to be a human behind every robot that kills someone, but that doesn't really make me... Oh, that makes it better, but no.
+[00:07:51.709 --> 00:07:53.771]  They're going towards autonomy here.
+[00:07:54.071 --> 00:07:54.511]  Absolutely.
+[00:07:54.531 --> 00:07:55.652]  So that's pretty horrifying.
+[00:07:55.692 --> 00:08:02.837]  And then finally, this is the last one, and this should really, at least, if none of these other articles pique people's interest, this last one really piqued mine.
+[00:08:03.097 --> 00:08:05.278]  The do-it-yourself armed drone.
+[00:08:06.059 --> 00:08:06.359]  Yay!
+[00:08:06.419 --> 00:08:07.660]  This is from the ACLU.
+[00:08:07.700 --> 00:08:15.225]  A man posted his experiments with an armed drone that he was able to make on a small budget that he came up with himself.
+[00:08:15.285 --> 00:08:15.905]  So there you go.
+[00:08:15.965 --> 00:08:19.708]  This is what's going on now here in America in the world of drones.
+[00:08:20.768 --> 00:08:27.412]  And I know, then we've got people coming out on our, when I did my interview with you and showed our video of you hacking the drone, they're like, oh that's just a toy, it's no big deal.
+[00:08:27.812 --> 00:08:32.315]  It is a big deal when you look at all of this evidence together in one big pile.
+[00:08:32.355 --> 00:08:37.438]  I mean, why aren't people more concerned about their civil liberties under this kind of situation?
+[00:08:38.300 --> 00:08:43.584]  Well, I think the main issue is a lot of people aren't getting the facts.
+[00:08:43.624 --> 00:08:52.171]  That's why I support what Alex is doing here and what you guys are doing here, all of you at InfoWars, is you're helping to get out these facts.
+[00:08:52.871 --> 00:08:57.615]  This isn't the type of news, I mean, I was having trouble just keeping track of all this paper.
+[00:08:57.715 --> 00:08:58.816]  And that's just a few.
+[00:08:59.116 --> 00:09:00.257]  I could have gone on and on.
+[00:09:00.317 --> 00:09:01.698]  I could have printed you an archive.
+[00:09:01.738 --> 00:09:04.320]  I could have printed so much paper it took up like five trees.
+[00:09:04.360 --> 00:09:09.062]  And I saw the guy that took 12 hours to Twitter every single drone attack.
+[00:09:09.222 --> 00:09:13.243]  He took 12 hours to Twitter every single drone attack and only got to 2010.
+[00:09:13.323 --> 00:09:14.724]  He thought it was going to take him 10 minutes.
+[00:09:14.944 --> 00:09:15.584]  Wow.
+[00:09:15.704 --> 00:09:19.545]  Our first drone attack on record, I think, was 2002 under the Bush administration.
+[00:09:19.585 --> 00:09:20.846]  He's like, this will take me 10 minutes.
+[00:09:20.886 --> 00:09:21.706]  It'll be no big deal.
+[00:09:22.086 --> 00:09:24.627]  And then he's 12 hours later still wasn't done.
+[00:09:24.867 --> 00:09:26.127]  Yeah, that's unbelievable.
+[00:09:26.187 --> 00:09:35.710]  I had no idea, and I consider myself a pretty conscious individual, so I mean, to hear that was pretty astonishing, you know, to get a grasp on the size of the numbers.
+[00:09:36.190 --> 00:09:39.311]  So I think that's the main issue is people don't get the facts.
+[00:09:39.871 --> 00:09:44.452]  Second of all is I think that they're detached from what happens outside the country.
+[00:09:45.732 --> 00:09:52.774]  You know, a lot of what's happened with drones up to this point, which has supported the development by DARPA of these different devices, is that
+[00:09:53.414 --> 00:09:59.859]  People aren't told what their billions upon billions of tax dollars are going to fund and research ahead of time.
+[00:10:00.019 --> 00:10:02.161]  People don't get a choice or a say in that.
+[00:10:02.621 --> 00:10:08.346]  People don't get a say in whether these technologies are used in war.
+[00:10:09.927 --> 00:10:18.354]  We have the technology developed in war, it almost seems intentional, and then practiced in war outside the country.
+[00:10:18.795 --> 00:10:31.085]  It seems like a very subvertive way to get our population to pay for this and then take it and actually use it back against us once they're done with the war or the development, whichever one is shorter.
+[00:10:32.265 --> 00:10:41.310]  Then it seems they deploy a civilian version of this and then eventually re-militarize that same version right back on their own population.
+[00:10:41.810 --> 00:10:44.691]  Well yeah, we're sending all of these predator drones over to the Middle East.
+[00:10:44.731 --> 00:10:50.114]  We're bombing people and killing innocent civilians and children while we do that.
+[00:10:50.854 --> 00:10:59.278]  And then we've got all these surveillance drones coming here and people, there's like a disconnect there where people think that we are only ever going to have these armed drones
+[00:11:00.038 --> 00:11:02.101]  Way far away across the ocean in other countries.
+[00:11:02.141 --> 00:11:03.382]  We're never going to see that here.
+[00:11:03.762 --> 00:11:09.929]  However, the Department of Homeland Security just got done buying, what was it, like 14 new Predator drones for like $443 million.
+[00:11:09.949 --> 00:11:12.232]  So now on record they have 24.
+[00:11:12.652 --> 00:11:13.773]  It's probably more than that.
+[00:11:13.854 --> 00:11:17.718]  I mean, and they're saying they're only going to use that to patrol our border with Mexico.
+[00:11:17.858 --> 00:11:19.299]  But how do we know that?
+[00:11:19.339 --> 00:11:20.160]  We don't know anything.
+[00:11:20.180 --> 00:11:26.086]  I mean, this government is crazy, the things that they do, and everything that we continue to see every single day.
+[00:11:26.146 --> 00:11:34.874]  So it's like, I don't understand the disconnect there, where people think, oh, it's just going to be surveillance, it's going to be way high in the sky, and they're just going to watch us.
+[00:11:34.914 --> 00:11:36.836]  And I'm not doing anything wrong, so it's totally fine.
+[00:11:37.918 --> 00:11:42.481]  I would tell people to look at the Fuji Blimp film with Alex when he was in New York.
+[00:11:42.561 --> 00:11:46.864]  I think even just watching him go up to a cop and say, hey, what's the blimp doing?
+[00:11:46.884 --> 00:11:48.065]  The guy looks up in the sky.
+[00:11:48.085 --> 00:11:53.169]  He's a cop, you know, probably checking, watching over things, you know, and that's just...
+[00:11:54.972 --> 00:12:19.651]  Un-American to me and I don't I mean I almost don't know how to respond as far as how people don't realize that The word war does not give anybody the right to go anywhere in the world especially not from America with our money and our equipment and in our name and To
+[00:12:22.930 --> 00:12:27.232]  Take away someone's right to be heard in a court somewhere.
+[00:12:27.752 --> 00:12:29.733]  To have evidence brought against them.
+[00:12:30.353 --> 00:12:48.602]  And that the same people, the fact that the same people that rob others of their right to what we call habeas corpus, to have your day in court and heard evidence heard against you, is just incomprehensible to me that they got this far.
+[00:12:49.480 --> 00:13:08.423]  That from the first drum missile fired, or even before that drum was ever built, why there weren't people that got to make a decision on that that are real people, Americans by the Constitution, to say, no, we could never use this because we don't have
+[00:13:10.060 --> 00:13:15.823]  The framework to do so without infringing upon someone's rights, and I think that's horrible.
+[00:13:15.863 --> 00:13:23.787]  I think that was the day this was all... Yeah, well I didn't actually include this article in there, but I actually wrote an article also about how we have a drone caucus.
+[00:13:23.807 --> 00:13:34.853]  I don't know if you have heard of the drone caucus that we have, but the House of Representatives has a 60-member drone caucus, and they've claimed themselves to be the drone industry's, quote, industry's voice on Capitol Hill.
+[00:13:34.893 --> 00:13:36.014]  That's what they call themselves.
+[00:13:36.374 --> 00:13:42.418]  And they've taken $8 million in drone-related campaign contributions over the last four years.
+[00:13:42.558 --> 00:13:57.147]  So there's your part of the answer, I think, to the question you just posed, because these people are taking money, and these are the people that are behind pushing for all of this new regulation that's going through, without securing our civil liberties first, at all.
+[00:13:57.287 --> 00:14:02.110]  Or, as you spoke of it, and that even speaks to a greater issue, I think, too.
+[00:14:03.290 --> 00:14:10.215]  Where is it written anywhere that America is the only country that can have these weaponized drones and have, you know, this kill list?
+[00:14:10.275 --> 00:14:13.757]  Obama has a kill list, which came out in the New York Times.
+[00:14:13.937 --> 00:14:16.919]  And where is it written that America is the only one that can do that?
+[00:14:16.939 --> 00:14:23.424]  I mean, I'm reading articles all the time about how China's growing their drone army, UK's getting more and more drones.
+[00:14:23.924 --> 00:14:25.885]  All these other countries are starting to get drones, too.
+[00:14:26.486 --> 00:14:31.869]  And who's to say they can't have a drone kill list and fly a drone over here and bomb somebody here?
+[00:14:31.929 --> 00:14:32.770]  I mean, who's to say that?
+[00:14:32.970 --> 00:14:33.230]  Right.
+[00:14:33.530 --> 00:14:37.752]  You know, when did the law get written that only we can do that?
+[00:14:37.912 --> 00:14:38.632]  Yeah, absolutely.
+[00:14:38.692 --> 00:14:54.337]  I mean, these are still machines of war, you know, and I understand the need of the military and I don't want to take away from that that when there is no time to make a decision and you are rightfully in a zone of war that you do what you have to to protect
+[00:14:55.177 --> 00:14:58.779]  The people that you love, whether that be your family back home, the guys around you.
+[00:15:00.339 --> 00:15:12.625]  But at the same time, I see a huge issue with taking war machines, no matter how you paint them, and bringing them back home and operating them over our skies.
+[00:15:13.145 --> 00:15:18.268]  I think that the spirit of Posse Comitatus, which has been completely subverted at this point,
+[00:15:20.008 --> 00:15:29.893]  But the spirit of Posse Comitatus is that no local police force, no governing force within our own borders should have military level technology.
+[00:15:29.993 --> 00:15:32.735]  I don't believe that the police department should have a helicopter.
+[00:15:33.095 --> 00:15:33.515]  Period.
+[00:15:34.135 --> 00:15:36.577]  Because I believe that is a military tool.
+[00:15:37.037 --> 00:15:42.960]  I don't believe that they should have cars that are indestructible and use very
+[00:15:44.747 --> 00:15:49.029]  You know, they've seen some with the paint so light on them now that you can't even, you know, tell their police.
+[00:15:49.069 --> 00:15:52.310]  It's very secret police, you know, the lights are all hidden into the car now.
+[00:15:53.630 --> 00:15:56.371]  You know, even to go so far as to say a SWAT team.
+[00:15:57.512 --> 00:16:00.433]  Because those are all military technologies.
+[00:16:00.473 --> 00:16:11.997]  Now, one thing that's always been kind of the untouchable of, you know, where you could still call yourself an American, but agree that on the absolute highest levels, yes, the NSA could
+[00:16:12.877 --> 00:16:28.402]  Look at anything that they wanted to because if there was a threat and a threat can originate from one person with an ideology But if there was a threat from that person that they would be able to stop them no matter what But that they would never ever use that against a civilian
+[00:16:28.662 --> 00:16:29.603]  But they are doing that.
+[00:16:53.098 --> 00:16:54.099]  But none of that's happening.
+[00:16:54.119 --> 00:16:56.201]  I mean, we have these huge NSA data hubs.
+[00:16:56.241 --> 00:16:58.683]  They're being built everywhere on our dollar.
+[00:16:59.323 --> 00:17:03.547]  And they're collecting information on all of us all the time, and they're not exposing any of that.
+[00:17:03.567 --> 00:17:10.353]  I mean, I went down to an NSA database with Jakari Jackson, and we just tried to film from the outside, and it was across the street from a Walmart.
+[00:17:10.893 --> 00:17:16.378]  And, you know, they came out and tried to—they said we weren't detained, but they kept us for half an hour trying to ask us what we were doing.
+[00:17:16.418 --> 00:17:18.080]  And it's across the street from a Walmart.
+[00:17:18.120 --> 00:17:19.701]  It's not exactly a secret location.
+[00:17:20.381 --> 00:17:24.603]  But back to these drone strikes also, I mean, there's no due process on any of this either that we've seen.
+[00:17:24.623 --> 00:17:25.623]  We're not seeing any of that.
+[00:17:25.663 --> 00:17:28.704]  In fact, the White House won't even come out and admit we're doing these drone strikes.
+[00:17:29.144 --> 00:17:39.748]  So the New York Times can do a whole expose on Obama's drone kill list, and yet the White House still won't even admit there is a drone strike program happening, even though it's on record everywhere.
+[00:17:40.228 --> 00:17:41.988]  There's no due process for any of this.
+[00:17:42.749 --> 00:17:46.210]  So, I mean, I don't think they're going to be showing any of their hands.
+[00:17:46.270 --> 00:17:49.271]  In fact, they're just going to keep hiding even more stuff over time.
+[00:17:49.611 --> 00:17:49.911]  Right.
+[00:17:50.512 --> 00:17:51.553]  I mean, yeah, absolutely.
+[00:17:51.613 --> 00:17:56.237]  But I think that the game we're playing now is that they don't have to hide their hand anymore.
+[00:17:56.277 --> 00:18:02.442]  They're playing face up on us, and that they have such a strong hand that we can't bluff them, you know?
+[00:18:02.702 --> 00:18:08.027]  They don't think that they need to hide much anymore, only that it be said somewhere so that they're accountable.
+[00:18:08.047 --> 00:18:13.371]  Well, it's just drawing it up incrementally so we can all get used to this police state, surveillance state, 1984 being watched all the time.
+[00:18:15.293 --> 00:18:15.653]  Yeah.
+[00:18:15.673 --> 00:18:16.734]  I just had one other question.
+[00:18:16.774 --> 00:18:18.455]  I wanted to see what your thoughts were on this.
+[00:18:18.956 --> 00:18:20.296]  So you came and you hacked a drone.
+[00:18:20.316 --> 00:18:21.457]  It was a Wi-Fi drone.
+[00:18:22.198 --> 00:18:23.539]  That's one of the lower level drones.
+[00:18:23.559 --> 00:18:24.920]  I mean, we went and purchased at the mall.
+[00:18:24.940 --> 00:18:25.780]  Sure.
+[00:18:25.800 --> 00:18:29.123]  But we've also seen Iran hack our top secret stealth drone.
+[00:18:29.143 --> 00:18:33.986]  I mean, it's at the highest level, supposedly the highest level of drone technology and it's hacked and they've got it.
+[00:18:34.026 --> 00:18:34.967]  Now they're saying, we have it.
+[00:18:35.027 --> 00:18:35.867]  We're going to make copies.
+[00:18:35.887 --> 00:18:36.688]  What are you going to do about it?
+[00:18:37.148 --> 00:18:37.528]  Absolutely.
+[00:18:37.548 --> 00:18:39.029]  So we've seen it at all levels now.
+[00:18:39.089 --> 00:18:40.150]  Low levels, high levels.
+[00:18:40.190 --> 00:18:52.076]  Do you think that over time, as more and more of these things are entering our skies, that this ability to just hack is going to kind of move inward from both levels and just kind of cover the ground on being able to take these things over?
+[00:18:52.316 --> 00:18:59.200]  Well, in computer theory and just mathematics, it is impossible to make anything unbreakable.
+[00:19:00.261 --> 00:19:03.144]  Um, they're working on something called quantum cryptography.
+[00:19:03.284 --> 00:19:05.426]  Other than that, nothing is unhackable.
+[00:19:06.027 --> 00:19:08.149]  And so, it's only a matter of time.
+[00:19:08.670 --> 00:19:10.492]  Yeah, I mean, there's only two components.
+[00:19:10.572 --> 00:19:17.740]  You have wireless signals so that you can do this remotely, and you have some basic form of encryption, which, again, it's not
+[00:19:18.300 --> 00:19:20.143]  Ever foolproof, based on the numbers.
+[00:19:20.163 --> 00:19:21.626]  You can't ever make it foolproof.
+[00:19:22.046 --> 00:19:30.119]  Unless one single quanta is being measured and connected between the device and the sender, then there's always going to be vulnerabilities.
+[00:19:30.219 --> 00:19:31.842]  I mean, that's a mathematical certainty.
+[00:19:32.737 --> 00:19:36.019]  So what kind of America do you think we're going to be seeing in the next 10 years?
+[00:19:36.139 --> 00:19:37.220]  I know I said one more question.
+[00:19:37.280 --> 00:19:37.940]  Not this one.
+[00:19:38.260 --> 00:19:39.061]  I promise you that.
+[00:19:39.481 --> 00:19:40.081]  Not this one.
+[00:19:40.821 --> 00:19:41.522]  I hope not.
+[00:19:42.262 --> 00:19:44.944]  I mean, this is the way they would like it.
+[00:19:46.324 --> 00:19:54.369]  If they were to continue unimpeded, then we would see, well that's why I think a lot of people are referencing Skynet.
+[00:19:55.309 --> 00:19:56.691]  Yeah, it's like Terminator now.
+[00:19:56.911 --> 00:20:00.774]  I mean, it's not even funny, it's gallows humor.
+[00:20:00.814 --> 00:20:04.117]  Terminator 2 is fun when you go back to the 80's and watch it.
+[00:20:04.177 --> 00:20:21.732]  And you watch how it got started, but where they came from, where Skynet was there, I don't know if you guys have ever played the game in the bowling alley when they had Terminator 2 in there, but it's a trash world where machines pop out of nowhere and will just twist your head off.
+[00:20:22.752 --> 00:20:23.934]  That's pretty terrifying.
+[00:20:24.094 --> 00:20:25.695]  Well, thank you.
+[00:20:25.915 --> 00:20:27.897]  I appreciate you coming in and sitting down to talk with us.
+[00:20:27.917 --> 00:20:28.678]  No, thank you.
+[00:20:28.758 --> 00:20:29.979]  I really appreciate the opportunity.
+[00:20:30.460 --> 00:20:33.002]  And that's it for tonight's InfoWars Nightly News.
+[00:20:33.443 --> 00:20:36.606]  I'm Melissa Melton and we hope to see you back again tomorrow at 7 p.m.
+[00:20:36.626 --> 00:20:37.006]  Central.
+[00:20:37.106 --> 00:20:37.687]  Have a good evening.

@@ -1,0 +1,41 @@
+[00:00:11.254 --> 00:00:19.236]  For over a year and a half now, the House of Representatives has been investigating the IRS to see if they singled out Tea Party groups for political persecution.
+[00:00:19.676 --> 00:00:26.117]  A large part of that investigation are incriminating emails that the IRS is now saying have disappeared.
+[00:00:26.557 --> 00:00:34.039]  Is it credible that Lois Lerner and now six other IRS officials would lose all of their emails due to a computer disk crash?
+[00:00:34.679 --> 00:00:42.081]  Now, some people might find that credible because that's happened to them with their personal computers, but we're not talking about personal computers.
+[00:00:43.301 --> 00:00:44.381]  You found one?
+[00:00:44.561 --> 00:00:45.021]  Did I?
+[00:00:45.321 --> 00:00:48.642]  It looks like this one is deducting for medical payments covered by insurance.
+[00:00:48.902 --> 00:00:53.543]  This, we suspect, is how a great many people think of ADP.
+[00:00:54.103 --> 00:00:55.863]  Automatic Data Processing.
+[00:00:56.584 --> 00:01:03.665]  The newest tax tool of the Internal Revenue Service and a new dimension in tax administration.
+[00:01:04.451 --> 00:01:10.033]  The IRS has policies, procedures, and technology that you don't have on your personal computer.
+[00:01:10.293 --> 00:01:26.678]  We're told that the electronic records weren't archived for very long, but the IRS's own record-keeping requirements for us treats electronic records the same as paper records, and requires that we keep records for three to seven years, indefinitely, if fraud is suspected.
+[00:01:27.518 --> 00:01:37.325]  But IRS policy says that official e-mails are federal records, and they're required to be printed and stored separately and permanently.
+[00:01:37.925 --> 00:01:40.787]  And the e-mails don't just reside on a hard disk.
+[00:01:40.927 --> 00:01:48.972]  These e-mails pass through servers, and the IRS has a huge IT department to ensure that data is backed up and preserved.
+[00:01:49.493 --> 00:01:56.778]  And reporter Cheryl Ackeson reports that an IRS official told her that e-mail is backed up with something called a RAID.
+[00:01:57.538 --> 00:02:00.122]  Arrayed is a redundant array of independent disks.
+[00:02:00.182 --> 00:02:04.568]  In other words, two physical hard drives are put together in one enclosure.
+[00:02:05.069 --> 00:02:07.893]  Information written to one is also written to another.
+[00:02:08.594 --> 00:02:14.322]  Now, what that means is that although a single hard drive might have a mean time between failure of five years
+[00:02:14.582 --> 00:02:19.968]  That would give you a probability of about 1 in 78,000 that this would fail.
+[00:02:20.329 --> 00:02:28.218]  When you put them together in a RAID configuration that's mirrored for security, you wind up with a mean time between failure of 500 years.
+[00:02:28.779 --> 00:02:31.522]  You wind up with a probability of about 1 in 8 billion billions.
+[00:02:35.034 --> 00:02:42.880]  In other words, it's not credible, even if they weren't mirrored, that all seven of these would fail and lose the most critical time period that they're looking for.
+[00:02:43.320 --> 00:02:48.244]  I say the IRS officials need to be held to the same standard that they hold the rest of America to.
+[00:02:48.584 --> 00:02:52.647]  For example, they should be guilty until they can prove that they're innocent.
+[00:02:53.528 --> 00:02:59.352]  They should be required to retain data for seven years, just as we are, with no limit for criminal activity.
+[00:03:00.633 --> 00:03:04.216]  Lawless learners should be compelled to self-incrimination, just as we are.
+[00:03:05.251 --> 00:03:07.732]  And we should shut them down financially.
+[00:03:08.653 --> 00:03:10.374]  Not just cutting their budget by 15%.
+[00:03:10.694 --> 00:03:20.699]  The emails in question relate to Lois Lerner and other IRS officials conspiring to punish political opponents with criminal charges.
+[00:03:21.159 --> 00:03:24.961]  But there's also a criminal conspiracy to cover up illegal activity.
+[00:03:25.501 --> 00:03:33.385]  And as an IRS official has pointed out, laws have been broken during an alleged cover-up that are much easier to prove than the original act.
+[00:03:34.125 --> 00:03:38.627]  Some poor IT schmuck, if you get him under oath, will fold like a cheap suit.
+[00:03:39.628 --> 00:03:45.330]  If you remember back to Watergate, the articles of impeachment didn't come after Richard Nixon for breaking into an office.
+[00:03:45.710 --> 00:03:52.674]  It came after him for covering up information about those who did, and for using the IRS against political enemies.
+[00:03:53.234 --> 00:03:59.897]  Now, if the House Republicans don't prosecute, they are implicit in this criminal conspiracy to cover up.
+[00:04:08.697 --> 00:04:13.021]  You've experienced and heard about the benefits of Super Male Vitality.
+[00:04:13.521 --> 00:04:16.024]  Now, the new formula has arrived.
+[00:04:16.384 --> 00:04:20.268]  Introducing the new Super Female Vitality.
+[00:04:20.568 --> 00:04:28.115]  I have specifically designed this formula to help the body naturally regulate itself without the use of artificial hormones.

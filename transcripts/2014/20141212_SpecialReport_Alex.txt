@@ -1,0 +1,672 @@
+[00:00:10.186 --> 00:00:19.248]  No government program needs increased transparency and accountability and honesty more than the Affordable Care Act, known as Obamacare.
+[00:00:19.728 --> 00:00:26.089]  It has proven time and time again to, in fact, have made false claims.
+[00:00:26.749 --> 00:00:37.631]  Every member on both sides of the dais can agree that the Affordable Care Act, or Obamacare, is a large, expensive program reliant on a complex network
+[00:00:38.095 --> 00:00:42.517]  of government programs which significantly impact the lives of all Americans.
+[00:00:43.358 --> 00:00:50.882]  And yet the history of design passage and implementation with the law is fraught with half-truths and deceptions.
+[00:00:51.583 --> 00:00:54.844]  If you like your doctor, you will be able to keep your doctor.
+[00:00:55.225 --> 00:00:55.685]  Period.
+[00:00:56.765 --> 00:01:01.528]  Nothing in Obamacare forces people out of their health plans.
+[00:01:02.208 --> 00:01:06.831]  No change is required unless insurance companies change existing plans.
+[00:01:07.765 --> 00:01:13.507]  Health care inflation has gone down every year since the law, Affordable Care Act, has been passed.
+[00:01:14.387 --> 00:01:18.849]  And that it now has the lowest increases in health care cost in 50 years.
+[00:01:20.769 --> 00:01:31.153]  To that we add, we've got close to 7 million Americans who have access to health care for the first time because of Medicaid expansion.
+[00:01:32.073 --> 00:01:34.234]  If you like your plan, you can keep your plan.
+[00:01:35.694 --> 00:01:45.265]  When trying to pass Affordable Care, Obamacare, the administration repeatedly claimed that the law's individual mandate was not a tax.
+[00:01:45.586 --> 00:01:54.416]  However, months after passage, in a brief defending the mandate's constitutionality, the Justice Department argued just the opposite, that it was a tax.
+[00:01:55.276 --> 00:01:57.199]  If CBO scored the managers' taxes, the bill dies.
+[00:01:57.960 --> 00:01:58.180]  Okay?
+[00:01:58.440 --> 00:02:00.223]  So it was written to do that.
+[00:02:00.243 --> 00:02:08.433]  In terms of risk-rated subsidies, if you had a law which said healthy people are going to pay in, it made explicit that healthy people pay in and sick people get money, it would not have passed.
+[00:02:09.119 --> 00:02:14.544]  Okay, just like people, lack of transparency is a huge political advantage.
+[00:02:15.144 --> 00:02:18.287]  And basically, you know, call it the stupidity of the American voter or whatever.
+[00:02:18.807 --> 00:02:22.710]  But basically, that was really, really critical to getting the thing to pass.
+[00:02:22.730 --> 00:02:28.895]  Professor Jonathan Gruber is considered by many as the architect of Obamacare.
+[00:02:29.356 --> 00:02:34.180]  As a former Obama administration official put it, Professor Gruber
+[00:02:35.208 --> 00:02:39.651]  He was the man on Obamacare, the guru of healthcare.
+[00:02:40.011 --> 00:02:51.640]  The official went on to say, I remember that when I was at the White House, he was certainly viewed as an important figure in helping to put Obamacare together.
+[00:02:53.018 --> 00:03:07.485]  No one can look at the amount of money he was compensated for his work at Obamacare, totaling millions of dollars, and think that our witness was anything but a critical player in the Affordable Care Act.
+[00:03:07.785 --> 00:03:09.086]  This is a perfect pairing.
+[00:03:09.466 --> 00:03:21.552]  A pairing of individuals who are, in fact, responsible for what we know and don't know before, during, and after the passage and implementation of the Affordable Care Act.
+[00:03:22.847 --> 00:03:51.153]  As far as I can tell, we are here today to beat up on Jonathan Gruber for stupid, I mean absolutely stupid, comments he made over the past few years and then drill and grill Administrator Tavenner about what appears to be an inadvertent mistake in reporting ACA enrollment numbers.
+[00:03:52.332 --> 00:03:57.135]  Let me be clear, I'm extremely frustrated with Dr. Gruber's statements.
+[00:03:58.696 --> 00:04:07.102]  They were irresponsible, incredibly disrespectful, and did not reflect reality.
+[00:04:07.362 --> 00:04:09.103]  And they were indeed insulting.
+[00:04:09.824 --> 00:04:11.625]  Dr. Gruber, it's now your turn.
+[00:04:11.805 --> 00:04:12.125]  Thank you.
+[00:04:13.126 --> 00:04:20.431]  Chairman Issa, Ranking Member Cummings, and distinguished members of the committee, thank you for the opportunity to testify voluntarily today.
+[00:04:21.451 --> 00:04:28.614]  I'm pleased to be able to address some statements I've made regarding the Affordable Care Act and the reaction to and interpretations of those statements.
+[00:04:30.035 --> 00:04:31.695]  I'm a professor of economics at MIT.
+[00:04:32.156 --> 00:04:34.677]  I'm not a politician nor a political advisor.
+[00:04:35.557 --> 00:04:47.322]  Over the past decade, I've used an economic micro-stimulation model to help a number of states and the federal government assess the impact of health care reform on health care systems, government budgets, and overall economies.
+[00:04:48.444 --> 00:04:53.667]  I've had the privilege of working for both Democratic and Republican administrations on health care reform efforts.
+[00:04:54.687 --> 00:05:03.132]  I worked extensively with Governor Romney's administration and the Massachusetts Legislature to model the impact of Governor Romney's landmark health reform legislation.
+[00:05:04.113 --> 00:05:06.814]  I later served as a technical consultant to the U.S.
+[00:05:06.854 --> 00:05:15.976]  Department of Health and Human Services and provided similar support to both the administration and to Congress through economic micro-stimulation modeling of the Affordable Care Act.
+[00:05:16.716 --> 00:05:22.117]  I did not draft Governor Romney's health plan, and I was not the architect of President Obama's health care plan.
+[00:05:23.737 --> 00:05:29.238]  After the passage of the ACA, I made a series of speeches endeavoring to explain the law's implications for the U.S.
+[00:05:29.258 --> 00:05:31.959]  health care system from the perspective of a trained economist.
+[00:05:33.359 --> 00:05:36.301]  Over the past few weeks, a number of videos have emerged from these appearances.
+[00:05:37.162 --> 00:05:43.567]  In excerpts of these videos, I'm shown making a series of glib, thoughtless, and sometimes downright insulting comments.
+[00:05:44.548 --> 00:05:51.513]  I apologize for the first of these videos earlier, but the ongoing attention paid to these videos has made me realize that a fuller accounting is necessary.
+[00:05:53.334 --> 00:05:56.897]  I'd like to begin by apologizing sincerely for the offending comments that I've made.
+[00:05:58.118 --> 00:06:02.942]  In some cases, I made uninformed and glib comments about the political process behind health care reform.
+[00:06:04.212 --> 00:06:07.694]  I'm not an expert on politics and my totem plot I was, which is wrong.
+[00:06:08.975 --> 00:06:12.937]  In other cases, I simply made mean and insulting comments which are uncalled for in any context.
+[00:06:14.357 --> 00:06:20.361]  I sincerely apologize for conjecturing with the tone of expertise and for doing so in such a disparaging fashion.
+[00:06:21.561 --> 00:06:25.603]  It's never appropriate to make oneself seem more important or smarter by demeaning others.
+[00:06:26.784 --> 00:06:30.326]  I knew better, I know better, I'm embarrassed and I'm sorry.
+[00:06:32.458 --> 00:06:40.228]  In addition to apologizing for my unacceptable remarks, I'd like to clarify some misconceptions about the content and context of my comments.
+[00:06:41.149 --> 00:06:42.191]  Let me be very clear.
+[00:06:42.792 --> 00:06:46.496]  I do not think that the Affordable Care Act was passed in a non-transparent fashion.
+[00:06:47.642 --> 00:06:57.413]  The issues I raised in my comments, such as redistribution of risk through insurance market reform and the structure of the Cadillac tax, were roundly debated before the law was passed.
+[00:06:58.174 --> 00:07:07.885]  Reasonable people can disagree about the merits of these policies, but it is completely clear that these issues were debated thoroughly during the drafting and passage of the ACA.
+[00:07:09.261 --> 00:07:19.006]  I would also like to clarify some misperceptions about my January 2012 remarks concerning the availability of tax credits in states that did not set up their own health insurance exchanges.
+[00:07:20.087 --> 00:07:27.091]  The portion of these remarks that has received so much attention lately omits a critical component of the context in which I was speaking.
+[00:07:28.331 --> 00:07:35.876]  The point I believe I was making was about the possibility that the federal government, for whatever reason, might not create a federal exchange.
+[00:07:36.932 --> 00:07:45.644]  If that were to occur, and only in that context, then the only way that states could guarantee that their citizens would receive tax credits would be to set up their own exchange.
+[00:07:46.626 --> 00:07:53.475]  I have a longstanding and well-documented belief that health reform legislation in general, and the ACA in particular,
+[00:07:54.423 --> 00:07:57.986]  Must include mechanisms for residents in all states to obtain tax credits.
+[00:07:58.687 --> 00:08:09.035]  Indeed, my micro simulation model for the ACA expressly modeled for the citizens of all states to be eligible for tax credits, whether served directly by a state exchange or by a federal exchange.
+[00:08:10.477 --> 00:08:13.739]  I'm not an elected official, nor am I a political advisor.
+[00:08:14.571 --> 00:08:25.357]  I'm an economist who ran a complex micro-simulation model to help Republican and Democratic politicians and their advisors understand the impact that their policies would have on health care systems.
+[00:08:26.238 --> 00:08:32.641]  The recent response to my comments at academic and other conferences exceeds both their relevance and my role in health care reform.
+[00:08:33.902 --> 00:08:36.183]  I behave badly, and I'll have to live with that.
+[00:08:37.004 --> 00:08:40.366]  But my own inexcusable arrogance is not a flaw in the Affordable Care Act.
+[00:08:41.308 --> 00:08:47.013]  The ACA is a milestone accomplishment for our nation that has already provided millions of Americans with health insurance.
+[00:08:48.054 --> 00:08:56.942]  Our country is embarking on an exciting second open enrollment period that will provide new opportunities for these individuals and millions more to choose the insurance plan that works best for them.
+[00:08:58.083 --> 00:09:01.245]  While I will continue to reflect on the causes of my own insensitivity,
+[00:09:02.236 --> 00:09:08.238]  I hope that our country can move past the distraction of my misguided comments and focus on the enormous opportunities this law provides.
+[00:09:08.538 --> 00:09:08.858]  Thank you.
+[00:09:09.018 --> 00:09:20.282]  I was at the Kennedy Center Honors where they honored Tom Hanks, famously Forrest Gump, the ultimate in successful stupid man.
+[00:09:21.342 --> 00:09:22.042]  Are you stupid?
+[00:09:23.743 --> 00:09:24.583]  I don't think so, no.
+[00:09:24.643 --> 00:09:27.204]  Does MIT employ stupid people?
+[00:09:28.444 --> 00:09:29.224]  Not to my knowledge.
+[00:09:29.344 --> 00:09:31.065]  Okay, so you're a smart man.
+[00:09:31.946 --> 00:09:36.368]  Who said some, as the ranking member said, some really stupid things, and you said the same.
+[00:09:36.428 --> 00:09:37.009]  Is that correct?
+[00:09:38.689 --> 00:09:40.590]  The comments I made were really inexcusable.
+[00:09:40.870 --> 00:09:49.215]  These statements, we'll enter them for the record, and I can't imagine how you don't recall your own statements because the American voter has seen them over and over again as you've called them stupid.
+[00:09:49.955 --> 00:09:53.097]  Do you deny making these statements, Mr. Gruber, even though you don't recall them?
+[00:09:53.417 --> 00:09:55.598]  Do you deny calling Obamacare a tax?
+[00:09:56.522 --> 00:09:58.703]  If you're reading my actual quotes, then I don't deny it.
+[00:09:58.963 --> 00:10:00.744]  I am reading your actual quotes.
+[00:10:01.004 --> 00:10:01.724]  Then I don't deny it.
+[00:10:01.824 --> 00:10:02.145]  Okay.
+[00:10:02.225 --> 00:10:04.285]  So you're not here to recant it or to deny it?
+[00:10:05.606 --> 00:10:13.369]  I'm here to explain that a number of those comments were made in a tone of expertise that I don't have when I was talking about politics.
+[00:10:13.389 --> 00:10:14.570]  Mr. Gruber, do you know what a tax is?
+[00:10:14.730 --> 00:10:17.991]  I mean, you do have expertise in economics.
+[00:10:18.092 --> 00:10:18.872]  Do you know what a tax is?
+[00:10:19.112 --> 00:10:19.352]  Yes.
+[00:10:19.632 --> 00:10:19.892]  Okay.
+[00:10:20.373 --> 00:10:25.595]  So you would not deny today that in these statements that you made that Obamacare is a tax, would you?
+[00:10:26.658 --> 00:10:29.520]  Obamacare is a large piece of legislation with many parts.
+[00:10:46.178 --> 00:10:49.960]  It is a tax in order to be able to save it from being declared unconstitutional.
+[00:10:50.520 --> 00:10:52.842]  So I would assume that you agree with the U.S.
+[00:10:52.862 --> 00:10:56.464]  Supreme Court that Obamacare provisions include taxes, right?
+[00:10:57.464 --> 00:10:57.904]  The U.S.
+[00:10:57.924 --> 00:11:01.166]  Supreme Court ruled on a particular provision of Obamacare.
+[00:11:01.186 --> 00:11:02.527]  You do not disagree with them, do you?
+[00:11:02.547 --> 00:11:03.788]  I'm sorry?
+[00:11:03.848 --> 00:11:07.670]  You don't disagree with them that there are elements of Obamacare that constitute tax?
+[00:11:09.491 --> 00:11:11.492]  I don't agree with their conclusion about the mandate.
+[00:11:12.835 --> 00:11:25.483]  And I request then that the witness provide the committee with the amount of money received from the federal government and any other health care payment that he received since the beginning.
+[00:11:25.543 --> 00:11:28.524]  And I apologize, this is a technical rule of the committee, folks.
+[00:11:28.544 --> 00:11:31.566]  I mean, it's a simple request.
+[00:11:32.607 --> 00:11:34.007]  Can you provide us that?
+[00:11:35.088 --> 00:11:39.431]  And once again, the committee is welcome to work with my counsel on that.
+[00:11:39.591 --> 00:11:40.131]  Mr. Chairman?
+[00:11:41.052 --> 00:11:41.612]  Mr. Jordan.
+[00:11:42.042 --> 00:11:42.963]  Why didn't he just tell us?
+[00:11:43.883 --> 00:11:46.885]  How much money did you get from the state taxpayers and the federal taxpayers?
+[00:11:46.905 --> 00:11:47.526]  He's under oath.
+[00:11:47.566 --> 00:11:49.507]  Why didn't he tell us how much he got paid by the taxpayers?
+[00:11:49.787 --> 00:11:50.508]  Does he have the time?
+[00:11:50.528 --> 00:11:54.751]  We don't have to wait for him to send something to us.
+[00:11:54.771 --> 00:11:55.771]  He should just be able to tell us.
+[00:11:55.911 --> 00:11:57.312]  How much did the taxpayers pay him?
+[00:11:59.514 --> 00:12:01.055]  Again, we have a witness under oath.
+[00:12:01.075 --> 00:12:01.395]  Okay.
+[00:12:02.696 --> 00:12:09.181]  I'm going to go on to other questioning and we will see what we can get as a further determination.
+[00:12:09.983 --> 00:12:16.328]  It is at this point I'm being advised that this is not an accurate and full disclosure.
+[00:12:16.708 --> 00:12:19.150]  So we do disagree with your counsel's interpretation.
+[00:12:19.310 --> 00:12:22.413]  By your own testimony, we find your submission deficient.
+[00:12:23.507 --> 00:12:32.434]  And your counsel is ill-advised to say that it is sufficient because it only includes grants and you have contracts and you've admitted under oath that you have contracts.
+[00:12:32.954 --> 00:12:35.816]  So those are not listed and you are deficient.
+[00:12:36.377 --> 00:12:42.902]  I was informed that I should report all federal monies received through grants or contracts for this fiscal year and the previous two fiscal years.
+[00:12:43.322 --> 00:12:43.743]  I did that.
+[00:12:44.443 --> 00:12:45.744]  I've received no federal contract?
+[00:12:45.764 --> 00:12:48.465]  I don't care what you were informed, Mr. Gruber, I care about what I'm asking you.
+[00:12:48.625 --> 00:12:55.907]  And what I'm asking you is how much money did the taxpayers, state or federal, pay you to have you then lie to them?
+[00:12:55.967 --> 00:12:56.668]  That's what I want to know.
+[00:12:57.228 --> 00:12:59.049]  Oh, over this fiscal year and the previous fiscal year?
+[00:12:59.089 --> 00:13:00.029]  No, no, no, no, no, total.
+[00:13:00.069 --> 00:13:04.531]  I mean, look, look, this is, you, you, this has been a five-year ordeal with this, with this law.
+[00:13:04.571 --> 00:13:08.552]  We want to know how much you got from the taxpayer and then made fun of him after you got the money and lied to him.
+[00:13:09.252 --> 00:13:10.173]  I don't recall the total.
+[00:13:11.073 --> 00:13:12.594]  So, so now what I'm saying is,
+[00:13:13.684 --> 00:13:17.667]  That employers are running away from their health care obligations.
+[00:13:18.407 --> 00:13:28.553]  Because now they're going to be taxed a 40% tax on everything over and above the limits that have been established under the ACA.
+[00:13:28.814 --> 00:13:29.934]  President Obama took office.
+[00:13:29.974 --> 00:13:33.256]  Did you go to the White House?
+[00:13:33.276 --> 00:13:34.237]  I don't recall exactly.
+[00:13:34.377 --> 00:13:34.897]  Was it more than 20?
+[00:13:35.158 --> 00:13:38.159]  No, it was not.
+[00:13:38.900 --> 00:13:39.881]  I believe it was more than 20.
+[00:13:40.421 --> 00:13:41.562]  How many times do you think it was?
+[00:13:42.421 --> 00:13:51.811]  Going to the White House is a significant event, you probably remember it, so... I made a number of visits to the White House, primarily to the Executive Office Building to meet with members of President Obama's staff.
+[00:13:52.552 --> 00:13:53.673]  Did you ever meet with the President?
+[00:13:54.614 --> 00:13:57.858]  I met with President Obama once during the discussion.
+[00:13:57.898 --> 00:13:58.619]  How long was that meeting?
+[00:13:59.625 --> 00:14:05.590]  It was a meeting that lasted maybe an hour and a half, which with about 20 people, I spoke for about five minutes.
+[00:14:05.891 --> 00:14:12.517]  Federal government related to the Affordable Care Act, healthcare.gov, or any other health care reform proposals?
+[00:14:14.098 --> 00:14:17.221]  I, once again, if that's a request to the committee, they can take that up with my council.
+[00:14:17.261 --> 00:14:19.523]  No, no, no, we're asking you, not your council.
+[00:14:19.563 --> 00:14:20.484]  Council works for you.
+[00:14:21.024 --> 00:14:25.929]  So we're asking you, under oath, will you provide this information to this committee?
+[00:14:26.829 --> 00:14:29.110]  Once again, if the committee can take it up with my counsel.
+[00:14:29.130 --> 00:14:31.091]  No, no, no, no, Mr. Gruber.
+[00:14:31.751 --> 00:14:32.592]  We're asking you.
+[00:14:32.612 --> 00:14:36.253]  You've been paid by the American taxpayers.
+[00:14:37.534 --> 00:14:40.916]  Will you or will you not provide that information to this committee?
+[00:14:41.736 --> 00:14:43.517]  Once again, the committee can take it up with my counsel.
+[00:14:45.333 --> 00:14:48.555]  Mr. Chairman, this is something we have got to get to the bottom of.
+[00:14:48.716 --> 00:14:55.881]  I think members on both sides of this aisle should demand that those documents paid for by the American taxpayers be part of the public record.
+[00:14:55.961 --> 00:14:56.722]  What are you hiding?
+[00:14:57.482 --> 00:14:58.843]  Why won't you give those to us?
+[00:14:59.324 --> 00:15:00.725]  Why are we not entitled to those?
+[00:15:02.466 --> 00:15:08.711]  I'm not an expert on the rules of what's disclosed and what's not, but my counsel is and he'd be happy to talk to the committee about it.
+[00:15:09.111 --> 00:15:11.413]  Why will you not give us those documents?
+[00:15:14.068 --> 00:15:16.569]  I've not concluded one way or another in the documents.
+[00:15:16.589 --> 00:15:17.609]  Who owns those documents?
+[00:15:17.649 --> 00:15:18.370]  Who paid for them?
+[00:15:22.031 --> 00:15:22.531]  I'm not sure.
+[00:15:24.132 --> 00:15:25.933]  You don't know who paid for those documents?
+[00:15:25.953 --> 00:15:27.754]  Were you paid by the American taxpayer?
+[00:15:28.174 --> 00:15:32.676]  You answer questions better than any politician sitting at this dais today.
+[00:15:33.816 --> 00:15:40.018]  And it's frustrating, and I would contend that your attorney is not giving you adequate representation this time.
+[00:15:41.159 --> 00:15:43.100]  This committee has the right
+[00:15:44.226 --> 00:15:44.466]  Mr. Chairman?
+[00:15:44.486 --> 00:15:44.827]  Mr. Chairman?
+[00:16:05.895 --> 00:16:17.925]  I would ask the chairman if this committee should consider a subpoena to compel the witness to provide this kind of information if he's not going to do it on a voluntary basis.
+[00:16:18.946 --> 00:16:25.611]  Well, I would recommend the gentleman take that up with the committee chair, whose portrait hangs behind us.
+[00:16:27.052 --> 00:16:31.776]  I certainly would concur with you, but I'm not going to step in the place of the full committee chair at this point.
+[00:16:32.337 --> 00:16:33.978]  How often did you go to the Romney?
+[00:16:35.403 --> 00:16:37.485]  Did you ever meet with Governor Romney?
+[00:16:37.605 --> 00:16:39.066]  I had one meeting with Governor Romney.
+[00:16:39.086 --> 00:16:41.027]  Just like you had one with Obama?
+[00:16:41.047 --> 00:16:41.107]  Yes.
+[00:16:41.127 --> 00:16:47.070]  So did that make you an intimate of the Romney administration and the architect of Romneycare in Massachusetts?
+[00:17:01.599 --> 00:17:05.240]  I was an economic advisor to Governor Romney, just as I was to President Obama.
+[00:17:05.961 --> 00:17:06.421]  Thank you.
+[00:17:06.821 --> 00:17:09.722]  And do you have documents from those years that we might want to subpoena?
+[00:17:11.423 --> 00:17:12.983]  Let me withdraw the last part.
+[00:17:14.444 --> 00:17:16.585]  Do you have documents from the Romney period?
+[00:17:18.645 --> 00:17:19.126]  Probably.
+[00:17:19.966 --> 00:17:30.790]  Well, I would hope, Mr. Chairman, that if we're going to have a broad subpoena, suggested by my friend from North Carolina, that it be indeed broad, and that we encompass all of the Romney documents Dr. Gruber
+[00:17:31.542 --> 00:17:31.982]  I believe it's true.
+[00:17:32.002 --> 00:17:32.042]  Ms.
+[00:17:32.062 --> 00:17:35.483]  Tavenner, do you believe Obamacare was crafted in a way that was transparent to the American taxpayer?
+[00:17:58.226 --> 00:18:03.088]  I certainly believe that the work that I've been a part of for the last five years has been transparent.
+[00:18:04.589 --> 00:18:08.410]  Was Obamacare crafted in a way to be transparent?
+[00:18:08.811 --> 00:18:10.972]  I was not here during the crafting of Obamacare.
+[00:18:11.792 --> 00:18:11.952]  Ms.
+[00:18:11.972 --> 00:18:16.714]  Tavenner, would you say the administration is transparent in its implementation of Obamacare then?
+[00:18:17.234 --> 00:18:18.455]  You've been here for that?
+[00:18:19.107 --> 00:18:19.467]  Yes, sir.
+[00:18:19.707 --> 00:18:26.572]  I think we have tried to be transparent and we've tried to provide documents, including the documents that we sent yesterday.
+[00:18:26.592 --> 00:18:36.640]  To date, we've already provided 135,000 pages of documents and provided more than a dozen transcribed interviews, so I think we have tried to be transparent.
+[00:18:36.860 --> 00:18:37.660]  But not completely?
+[00:18:38.601 --> 00:18:40.142]  Wherever we can, we have been transparent.
+[00:18:40.162 --> 00:18:41.883]  Wherever we can.
+[00:18:41.943 --> 00:18:42.124]  Okay.
+[00:18:42.184 --> 00:18:48.128]  Another term that could be used in this hearing, whenever we can, I don't recall, probably,
+[00:18:49.537 --> 00:18:51.098]  Those are reoccurring terms.
+[00:18:55.942 --> 00:19:06.351]  Mr. Gruber, the Obama administration promised the American people 37 times that if you like your plan, you can keep your plan.
+[00:19:08.473 --> 00:19:17.340]  When you were working on the law, did you believe, Mr. Gruber, did you believe that no one would lose a plan they liked due to Obamacare?
+[00:19:19.372 --> 00:19:22.174]  I believe that the law would not affect the vast majority of Americans.
+[00:19:22.194 --> 00:19:23.074]  The vast majority?
+[00:19:23.594 --> 00:19:28.357]  But did you believe that no one, as the President said, would lose a plan they liked?
+[00:19:29.478 --> 00:19:39.083]  As I said, I believe it would not affect the vast majority of Americans, but it is true that some people might have to upgrade their plans because their plans were not comprehensive as defined under the law.
+[00:19:39.103 --> 00:19:40.944]  So they couldn't keep their plan even if they liked it?
+[00:19:43.410 --> 00:19:45.511]  What the law says is there's minimum standards to be met.
+[00:19:45.971 --> 00:19:53.412]  Why did the President make this representation if his experts, including you, knew it was not true?
+[00:19:54.533 --> 00:19:57.773]  That some, as you've said, would not be able to keep their plan.
+[00:19:57.813 --> 00:20:00.314]  They would have to upgrade or they'd have to change it.
+[00:20:02.355 --> 00:20:06.276]  I'm not a political advisor and I have no answer to that question.
+[00:20:08.896 --> 00:20:10.657]  You acknowledged in a 2013 article in the New Yorker
+[00:20:13.700 --> 00:20:17.143]  That not everyone who liked their plans could keep their plans, Mr. Gruber.
+[00:20:18.845 --> 00:20:31.498]  When you knew that the administration's representations to the American people were false, such as in this instance, did you ever voice any concern, why or why not?
+[00:20:33.021 --> 00:20:41.808]  I interpreted the administration's comments as saying that for the vast majority of Americans, this law would not affect the productive health insurance relationships they have.
+[00:20:42.629 --> 00:20:45.251]  And so I did not see a problem with the administration's statement.
+[00:20:45.852 --> 00:20:53.378]  But you're an economist with a model that you've described as entirely accurate.
+[00:20:56.261 --> 00:20:59.503]  You're a learned professor, and we don't take that away from you at all.
+[00:21:01.045 --> 00:21:01.285]  And yet
+[00:21:01.926 --> 00:21:05.948]  The President 37 times said, if you like your plan, you can keep your plan.
+[00:21:06.609 --> 00:21:20.017]  I'm here today to say that in my constituency of almost 800,000 people, Julie Boonstra, a leukemia patient who had a plan she liked, couldn't keep that plan.
+[00:21:21.617 --> 00:21:22.438]  She's not stupid.
+[00:21:23.999 --> 00:21:25.139]  She couldn't keep that plan.
+[00:21:26.660 --> 00:21:30.503]  Mark and Kate, a young pastor and wife,
+[00:21:31.488 --> 00:21:43.556]  at a local church, now expecting, as of yesterday, cannot keep the plan they had and can't find a plan that's adequate for them to replace it.
+[00:21:45.397 --> 00:21:58.026]  Dustin, a hard-working young man in my district, spent almost the entire weekend trying to up onto Obamacare from a plan that he lost he couldn't keep.
+[00:21:58.891 --> 00:22:10.397]  And as of yesterday morning, I watched him try to get a plan through the website, through talking with people connected with the website, he still couldn't get it.
+[00:22:10.637 --> 00:22:11.698]  He had a plan he liked.
+[00:22:11.938 --> 00:22:12.738]  He's not stupid.
+[00:22:13.559 --> 00:22:14.319]  He couldn't keep it.
+[00:22:16.060 --> 00:22:27.246]  Numerous constituents have contacted me saying that while they may have found a plan under Obamacare, not necessarily a plan that they liked or they could keep,
+[00:22:28.763 --> 00:22:43.599]  But found a plan, like Mr. Goldman, that was reasonable in cost, yet when they got to the point of having to pay their deductibles, their co-pays, their out-of-pocket expenses, or their prescription drug costs, they couldn't afford it.
+[00:22:44.620 --> 00:22:50.867]  And I would suggest that, again, transparency here is, what you see is not what you get.
+[00:22:52.675 --> 00:22:59.384]  Did you think that there would be such a large number of folks that would lose their health insurance?
+[00:23:01.339 --> 00:23:09.162]  I don't know the exact number in North Carolina, but... Well, it's 473,000 according to the Department of Insurance and the Raleigh News and Observer.
+[00:23:09.962 --> 00:23:16.484]  What I was focused on was the net increase in newly insured we have under the law, which has been quite substantial.
+[00:23:17.024 --> 00:23:17.345]  Okay.
+[00:23:18.465 --> 00:23:23.927]  So, it's not relevant to your calculation that there would be people that would lose their health insurance?
+[00:23:24.867 --> 00:23:26.448]  That was part of the calculation.
+[00:23:26.749 --> 00:23:27.089]  It was.
+[00:23:27.269 --> 00:23:30.091]  So there is churn, would you say?
+[00:23:30.812 --> 00:23:32.353]  There's always been churn in this market.
+[00:23:32.533 --> 00:23:32.754]  Sure.
+[00:23:33.654 --> 00:23:36.697]  Did you think it would be such a large number that would lose their plans, though?
+[00:23:37.778 --> 00:23:44.343]  I don't recall the exact numbers I modeled, but we did model some individuals would lose their existing plans and move to new forms of coverage.
+[00:23:44.623 --> 00:23:46.925]  Well, I think you anticipated it.
+[00:23:47.206 --> 00:23:48.487]  You're obviously very well prepared.
+[00:23:48.507 --> 00:23:50.028]  I think you anticipated this question.
+[00:23:50.788 --> 00:23:53.711]  Is it similar or dissimilar to the number that you calculated?
+[00:23:56.668 --> 00:24:01.272]  I don't know of a national estimate of how many people have lost health insurance, so I don't know how it compares to what I projected.
+[00:24:01.752 --> 00:24:11.960]  So, was there a discussion at senior levels, in the White House and HHS, about this potential loss of people's health insurance plans?
+[00:24:13.981 --> 00:24:15.042]  I don't recall whether there were.
+[00:24:15.082 --> 00:24:17.864]  When I was there, I can't speak what happened when I wasn't.
+[00:24:17.884 --> 00:24:21.467]  So, there was no moment of moral clarity, of honesty?
+[00:24:22.419 --> 00:24:26.524]  That you came to publicly, that we now know about and most Americans know about.
+[00:24:27.424 --> 00:24:31.829]  There was no discussion at the time that maybe we should put the brakes on this?
+[00:24:32.049 --> 00:24:35.793]  That we're going to have a lot of people lose their health insurance plan, their preferred health insurance plan?
+[00:24:37.469 --> 00:24:41.711]  There were, I was present for discussion, as I said, I provided numbers.
+[00:24:41.771 --> 00:24:48.694]  I was present for discussion of those numbers and interpretation of what they meant in terms of how the law would affect individuals.
+[00:24:49.074 --> 00:24:51.455]  Did anyone say, well, pause for a moment.
+[00:24:51.955 --> 00:24:55.096]  The President's been out saying if you like your health insurance plan, you can keep it.
+[00:24:55.737 --> 00:24:59.198]  Gosh, maybe we should tell him that that's not in fact the case.
+[00:24:59.278 --> 00:25:01.219]  Maybe he should change his wording a little bit.
+[00:25:03.027 --> 00:25:06.330]  I was not naming discussion of presidential communication or messaging.
+[00:25:06.710 --> 00:25:07.051]  Okay.
+[00:25:07.311 --> 00:25:22.964]  But in the meetings where you went through these numbers and you said to the administration, and look, you've got plenty of experience on this, you said to this administration, because you're in the employ of this administration, you said, there will be people that lose their plants.
+[00:25:24.446 --> 00:25:24.626]  Right?
+[00:25:25.754 --> 00:25:29.336]  Now, you said there are also going to be people that get other plans, right?
+[00:25:29.436 --> 00:25:32.057]  But you said there will be people that lose their plans.
+[00:25:33.357 --> 00:25:35.378]  Was this not registered?
+[00:25:35.819 --> 00:25:37.779]  Did this fall in deaf ears?
+[00:25:40.841 --> 00:25:43.122]  All I know is what my modeling showed and what I conveyed.
+[00:25:43.822 --> 00:25:47.884]  And you conveyed that there would be, in fact, people that lose their preferred health insurance plan.
+[00:25:48.979 --> 00:25:52.762]  I conveyed that there would be churn in the market and some people would move to different insurance plans.
+[00:25:52.782 --> 00:25:57.446]  So as I said before, my interpretation of churn is that some lose and some gain.
+[00:25:58.327 --> 00:26:03.932]  So when you have the President going out saying clearly, if you like your plan you can keep it, it was in fact a lie.
+[00:26:04.773 --> 00:26:08.376]  Based off your numbers, based off the data you provided this administration, is that correct?
+[00:26:10.493 --> 00:26:17.275]  I interpret the President's statement as referring to the fact that the vast majority of Americans would be able to maintain their health insurance arrangements under the Affordable Care Act.
+[00:26:17.355 --> 00:26:23.437]  So you were in your element when you were talking about the critiques of this health care law.
+[00:26:24.578 --> 00:26:26.798]  So let me ask you something.
+[00:26:27.118 --> 00:26:31.680]  So who helped you with your testimony today and who signed off on your testimony today?
+[00:26:33.326 --> 00:26:34.667]  No one signed off on my testimony.
+[00:26:34.687 --> 00:26:35.568]  It's my own testimony.
+[00:26:35.608 --> 00:26:37.129]  I did receive assistance from my counsel.
+[00:26:37.789 --> 00:26:42.332]  Did you also have assistance from HHS, the administration, the minority staff committee?
+[00:26:42.352 --> 00:26:42.853]  No, I did not.
+[00:26:42.873 --> 00:26:43.513]  Okay.
+[00:26:46.896 --> 00:26:48.136]  Now, were you coached in any way?
+[00:26:49.077 --> 00:26:50.878]  What to say?
+[00:26:51.078 --> 00:26:53.420]  The words that are written, I said, are my own.
+[00:26:53.580 --> 00:26:55.642]  As I said, I did work with my counsel in preparing them.
+[00:26:56.742 --> 00:26:57.043]  Okay.
+[00:27:00.186 --> 00:27:05.608]  Numbers of my colleagues asking you in regards to numbers, you're pretty astute with numbers, right?
+[00:27:06.568 --> 00:27:07.388]  You know those numbers?
+[00:27:09.289 --> 00:27:14.471]  Once again, the numbers that I produced in terms of my micro-simulation modeling, I'm very confident in.
+[00:27:15.991 --> 00:27:16.191]  Ms.
+[00:27:16.211 --> 00:27:19.052]  Tavenner, you're also pretty good with numbers, aren't you?
+[00:27:20.014 --> 00:27:26.075]  I mean, I've been watching the bantering back and forth, and when the other side asks you a question, you're very prepared with numbers.
+[00:27:26.255 --> 00:27:30.676]  But when we ask you a question, you're very inappropriately responsible to numbers.
+[00:27:31.017 --> 00:27:33.657]  But you're very good with numbers, because you hear them all day long, do you not?
+[00:27:35.798 --> 00:27:36.538]  I do hear numbers.
+[00:27:36.738 --> 00:27:37.458]  You do, I agree.
+[00:27:37.778 --> 00:27:38.198]  I agree.
+[00:27:39.138 --> 00:27:45.660]  So, you know, this preponderance of looking at the falling rate of dollars being spent
+[00:27:46.907 --> 00:27:49.170]  I want to go back to the microcosm called dentistry.
+[00:27:49.430 --> 00:27:51.091]  Did anybody even think about this?
+[00:27:51.192 --> 00:27:53.834]  I mean, what kind of access?
+[00:27:53.994 --> 00:27:56.297]  The gentlelady from New Mexico talked about access.
+[00:27:57.438 --> 00:28:04.445]  Did that ever come into your aspect that the deductibles are so high in the dental aspect that no one's using them?
+[00:28:05.126 --> 00:28:06.367]  Did that ever occur to you?
+[00:28:07.581 --> 00:28:17.567]  You know, if you look at what we did around the dental proposed and final rule last year, we actually tried to make some accommodation there to handle the deductible to improve it.
+[00:28:18.188 --> 00:28:20.189]  Well, that's nice.
+[00:28:20.249 --> 00:28:22.671]  I mean, you know, changing around some of those aspects.
+[00:28:22.711 --> 00:28:27.153]  But, you know, from my standpoint, when people don't actually get care, you're actually creating a bigger problem.
+[00:28:28.547 --> 00:28:32.309]  You know, the gentleman from Maryland is aware of the demonic driver aspect.
+[00:28:32.349 --> 00:28:39.232]  When people can't pay for it, it reduces access, children go walking around without getting health care, and all of a sudden we have a child that dies.
+[00:28:39.452 --> 00:28:40.653]  You're aware of that situation?
+[00:28:40.673 --> 00:28:43.354]  Yes, I'm aware of the situation that occurred.
+[00:28:43.574 --> 00:28:52.499]  So once again, it becomes that fluff part, you know, because I heard people on the other side over here saying this was the most transparent process.
+[00:28:52.579 --> 00:28:52.879]  Really?
+[00:28:53.339 --> 00:28:55.980]  It didn't involve anybody on this side, and I'm very well aware of having
+[00:28:57.762 --> 00:29:02.566]  You know, a bipartisan type of application to healthcare, because healthcare is a personal sport.
+[00:29:03.667 --> 00:29:09.492]  The patient has to be involved, and it's not a Republican or Democratic issue, but it became a very Democratic issue.
+[00:29:11.213 --> 00:29:15.436]  They used reconciliation and a lot of gimmicks to pass it.
+[00:29:16.157 --> 00:29:18.899]  We were deceitful in everything that we've done.
+[00:29:19.059 --> 00:29:20.040]  I mean, everything.
+[00:29:21.081 --> 00:29:27.226]  Instead of acknowledging the problems and being truthful on it, we hear tortured language, you know, from the gentleman to your left.
+[00:29:28.437 --> 00:29:31.358]  Um, this, this was outright the wrong way to go.
+[00:29:31.898 --> 00:29:39.740]  Um, so, uh, from, from that standpoint, uh, it, it sickens me to actually hear what I heard today from both you and from, uh, Mr. Gruber.
+[00:29:40.361 --> 00:29:44.922]  It's sad, you know, that we're playing with people's healthcare when they deserve something better.
+[00:29:46.302 --> 00:29:49.963]  Um, and, and frankly, not having the facts is disdainful.
+[00:29:50.483 --> 00:29:55.725]  Congress has a right to those facts that we've seen is perpetually with this administration from fast and furious.
+[00:29:56.209 --> 00:29:58.391]  To Benghazi, to here, to the IRS.
+[00:29:58.671 --> 00:29:59.492]  It's disdainful.
+[00:30:00.233 --> 00:30:02.515]  Equal branches of government should have that opportunity.
+[00:30:02.795 --> 00:30:04.537]  And the American people deserve better.
+[00:30:05.258 --> 00:30:06.078]  From both of you.
+[00:30:07.460 --> 00:30:11.644]  Dr. Gruber, your new explanation of your previous public statements makes little sense.
+[00:30:13.085 --> 00:30:20.212]  The law requires the federal government to create Obamacare exchanges in states that refuse to create the exchanges for themselves.
+[00:30:21.104 --> 00:30:26.247]  Therefore, every state must have an Obamacare exchange, either set up by the state or the federal government.
+[00:30:27.108 --> 00:30:37.714]  If that's the case, that every state must have an Obamacare exchange, what did you mean when you repeatedly said that the citizens of some states may not qualify for Obamacare tax credits?
+[00:30:38.535 --> 00:30:45.639]  Isn't it the case, as you said previously, that people who live in states without a state-run exchange cannot receive Obamacare tax credits?
+[00:30:46.294 --> 00:30:51.697]  My comments in January 2012 were reflecting the uncertainty about whether those federal exchanges might be ready by January 2014.
+[00:30:51.737 --> 00:31:01.363]  So you were paid hundreds of thousands of dollars to run an economic model on Obamacare, and yet you were making statements that didn't reflect the actual language of Obamacare?
+[00:31:02.443 --> 00:31:05.105]  I made a series of statements which were really just inexcusable.
+[00:31:05.965 --> 00:31:15.571]  Dr. Jonathan Gruber is Professor of Economics at the Massachusetts Institute of Technology and Director of the Healthcare Program at the National Bureau of Economic Research.
+[00:31:16.223 --> 00:31:30.012]  He was a key architect of Massachusetts' ambitious health care reform effort and consulted extensively with Obama administration and Congress during the development of the Affordable Care Act.
+[00:31:31.053 --> 00:31:39.478]  The Washington Post called him possibly the Democratic, in parentheses, party's most influential health care expert.
+[00:31:39.958 --> 00:31:41.659]  Do you recognize that as being in your book?
+[00:31:42.580 --> 00:31:43.040]  Yes, I do.
+[00:31:46.713 --> 00:31:52.538]  So if you're an author, you put it in your book and you recognize it, do you stand by it?
+[00:31:53.839 --> 00:31:54.360]  Absolutely.
+[00:31:54.740 --> 00:32:08.633]  So you are in fact a key architect of the Act in Massachusetts under Governor Romney and that you did contribute extensively to the administration and to Congress.
+[00:32:09.460 --> 00:32:14.924]  I contributed an enormous amount of modeling and economic support to the administration and Congress, yes.
+[00:32:15.564 --> 00:32:21.628]  And consulted extensively with the Obama administration and Congress during the development of the Affordable Care Act.
+[00:32:23.249 --> 00:32:25.130]  And you quoted the Washington Post.
+[00:32:25.170 --> 00:32:26.391]  And you stand by all of that.
+[00:32:27.211 --> 00:32:34.776]  I cannot stand by the Washington Post's opinion of my role in the Democratic Party, but I can certainly stand by the fact that I provided an enormous number of hours.
+[00:32:34.796 --> 00:32:36.117]  Well, you put it in your book, right?
+[00:32:38.004 --> 00:32:42.567]  I was quoting, it was a flattering quote to me and I put it in my book, but it's their definition, not mine.
+[00:32:44.589 --> 00:32:54.596]  So you want to stand by something you put in a book, including the, consulted extensively with the Obama administration and Congress, but now you want to distance yourself from the Washington Post?
+[00:32:55.697 --> 00:32:57.339]  I'm just saying it wasn't my words.
+[00:32:57.359 --> 00:32:59.400]  I put them in quotes because they're Washington Post words.
+[00:33:00.061 --> 00:33:01.001]  Oh, okay.
+[00:33:01.061 --> 00:33:04.504]  So we'll, we'll, we'll let the Washington Post credibility speak for itself.
+[00:33:05.350 --> 00:33:12.832]  Professor Gruber, what did you mean when you said they proposed it and that passed because the American people are too stupid to understand the difference?
+[00:33:14.372 --> 00:33:21.274]  When I said that, I was at an academic conference being glib and quite frankly trying to make myself seem smart by insulting others.
+[00:33:21.314 --> 00:33:27.536]  Are you offering the venue as a defense for saying it or for meaning it?
+[00:33:29.761 --> 00:33:39.608]  I'm offering it as a defense for using inappropriate and hurtful and excusable language to expose... Well, what did you mean by, too stupid to understand the difference?
+[00:33:41.750 --> 00:33:43.651]  Congressman, I didn't mean anything about it by it.
+[00:33:43.811 --> 00:33:44.532]  Well, you said it!
+[00:33:44.612 --> 00:33:45.553]  You had to have meant it!
+[00:33:46.293 --> 00:33:57.321]  I was once again being glib and trying to make myself seem smarter by reflecting... Well, what did you mean when you said it was a very basic exploitation of the lack of economic understanding of the American voter?
+[00:33:58.042 --> 00:33:58.843]  What did you mean by that?
+[00:33:59.542 --> 00:34:06.049]  Once again, it's another example of my inexcusable arrogance and trying to insult others to make myself seem smarter.
+[00:34:06.229 --> 00:34:11.274]  Well, what did you mean when you said the American people don't care about the uninsured?
+[00:34:13.248 --> 00:34:18.670]  Once again, that was an overstatement of trying to conjecture on political topics in which I'm not an expert.
+[00:34:18.830 --> 00:34:30.734]  Well, you know what, Professor Gruber, I have listened to you all morning talk about your lack of political acumen and that you're not a politician, so therefore you don't know not to call people stupid.
+[00:34:31.414 --> 00:34:36.316]  Most of the people watching this morning aren't politicians, and they don't call people stupid.
+[00:34:36.656 --> 00:34:44.919]  And I can't help but note, Professor Gruber, in another one of your quotes, which I'll read to you, that was politically infeasible.
+[00:34:45.819 --> 00:34:46.659]  You remember saying that?
+[00:34:47.480 --> 00:34:47.620]  Yes.
+[00:34:47.640 --> 00:34:52.782]  So you do like to factor in the politics from time to time, don't you?
+[00:34:52.802 --> 00:34:59.484]  And I also happen to note, Professor Gruber, that usually you insult the American voter.
+[00:35:00.418 --> 00:35:05.465]  I have tried a number of occasions, pretended that I know more about politics.
+[00:35:16.288 --> 00:35:17.769]  And is that your defense this morning?
+[00:35:17.789 --> 00:35:22.654]  I mean, I know initially you said that you offered these comments at a conference.
+[00:35:23.235 --> 00:35:25.717]  I think you meant conferences, plural.
+[00:35:26.137 --> 00:35:35.146]  But you said conference when you went on a very obscure television show and initially apologized for what you said were inappropriate comments.
+[00:35:35.226 --> 00:35:38.649]  And now today your defense is that you're not a politician.
+[00:35:40.431 --> 00:35:41.552]  Is that the best you can come up with?
+[00:35:43.148 --> 00:35:53.235]  The best I can come up with is to really just apologize for an inexcusable... Well, but I want to know, I mean, the pervasiveness of your quotes is so much that it has to be more than that.
+[00:35:53.415 --> 00:35:58.018]  It has to be more than just an episodic mistake that you made.
+[00:35:59.039 --> 00:36:00.160]  Well, here, let me keep going.
+[00:36:00.220 --> 00:36:02.181]  See if this helps you any.
+[00:36:03.862 --> 00:36:10.827]  What did you mean when you said you wish that you had been able to be transparent, but you'd rather have the law than not?
+[00:36:12.614 --> 00:36:17.377]  Once again, it was my trying to conjecture about a political process in which I'm not an expert.
+[00:36:18.218 --> 00:36:25.403]  Well, what did you mean when you said it was written in a tortured way to make sure the CBO didn't score the mandate as a tax?
+[00:36:26.944 --> 00:36:31.727]  Once again, it was using inappropriate language to try to sound impressive about something to my colleagues.
+[00:36:31.907 --> 00:36:33.969]  Do you see a trend developing here, Professor Gruber?
+[00:36:33.989 --> 00:36:36.811]  I don't understand the question.
+[00:36:37.211 --> 00:36:39.092]  It's a lot of stupid quotes you've made.
+[00:36:39.332 --> 00:36:40.013]  That's the trend.
+[00:36:41.980 --> 00:36:43.861]  A lot of inexcusable quotes.
+[00:36:44.261 --> 00:36:44.461]  Right.
+[00:36:44.781 --> 00:36:47.082]  And again, your defense is that you're not a politician.
+[00:36:47.682 --> 00:36:50.603]  The lack of transparency is a huge political advantage.
+[00:36:50.643 --> 00:36:54.385]  Well, what does a non-politician do in talking about political advantages?
+[00:36:56.786 --> 00:37:02.348]  A non-politician is talking about political advantages to try to make himself seem smarter by conjecturing about something he doesn't really know.
+[00:37:02.368 --> 00:37:05.709]  So you're a professor at MIT and you're worried about not looking smart enough?
+[00:37:08.070 --> 00:37:08.270]  Yes.
+[00:37:10.126 --> 00:37:12.528]  Well, you succeeded, if that was your goal.
+[00:37:14.109 --> 00:37:16.250]  Now, I want to ask you, are you sorry?
+[00:37:16.710 --> 00:37:19.812]  When did you realize that these comments were inappropriate?
+[00:37:22.954 --> 00:37:34.361]  Because it took you about a year to apologize, so I'm trying to figure out if you realized sooner that they were inappropriate, or was it just the morning before you went on MSNBC that you realized that it was inappropriate?
+[00:37:34.522 --> 00:37:38.344]  When did you realize that these comments are indefensible and inappropriate?
+[00:37:39.316 --> 00:37:40.977]  I honestly didn't remember making them.
+[00:37:41.697 --> 00:37:53.581]  You didn't remember calling your fellow citizen stupid, and you didn't remember saying that you're the only person who cares about the uninsured, that the rest of your fellow citizens don't give a damn about the uninsured?
+[00:37:53.601 --> 00:37:54.562]  You don't remember saying that?
+[00:37:55.382 --> 00:37:58.043]  I don't, because they were really glib and thoughtless comments that I made.
+[00:38:02.415 --> 00:38:06.138]  Professor Gruber, let me just tell you what it looks like from this vantage point.
+[00:38:07.279 --> 00:38:12.062]  Is that you thought that they were really pithy and really funny until the video showed up.
+[00:38:13.183 --> 00:38:16.365]  And then, even then, it took you a little while to apologize.
+[00:38:17.566 --> 00:38:22.150]  And what I'm struggling with is whether your apology is because you said it or because you meant it.
+[00:38:26.713 --> 00:38:28.014]  Which are you apologizing for?
+[00:38:28.054 --> 00:38:29.756]  Because you said it or because you meant it?
+[00:38:31.012 --> 00:38:31.753]  I didn't mean it.
+[00:38:31.933 --> 00:38:32.634]  I'm apologizing.
+[00:38:32.874 --> 00:38:35.996]  All of these quotes that I just read to you, you didn't mean a single one of them.
+[00:38:36.677 --> 00:38:37.137]  Not a one.
+[00:38:38.438 --> 00:38:43.162]  What I said, Congressman, is that I was using glib, thoughtless, and really inexcusable language.
+[00:38:43.422 --> 00:38:44.643]  Well, you used them a lot.
+[00:38:45.144 --> 00:38:54.111]  You used them a lot, Professor Gruber, which tends to undercut the notion that you were sorry for an episodic misstatement.
+[00:38:54.911 --> 00:38:56.813]  I just read to you about ten.
+[00:38:58.407 --> 00:39:02.288]  You see why people might possibly think the apology is a little disingenuous?
+[00:39:03.369 --> 00:39:03.709]  Maybe?
+[00:39:03.729 --> 00:39:20.475]  Now, so if you understand that, then you understand why my constituents are so offended by your proposition that it's okay to deceive or obfuscate for somebody's benefit.
+[00:39:20.995 --> 00:39:26.217]  Compounding the insult that you delivered to them is the fact that they pay your salary.
+[00:39:27.779 --> 00:39:30.840]  So do you understand fully why it was so insulting?
+[00:39:31.280 --> 00:39:32.860]  You patronized them.
+[00:39:33.541 --> 00:39:34.541]  You were condescending.
+[00:39:35.881 --> 00:39:36.181]  I was.
+[00:39:36.642 --> 00:39:37.442]  I agree.
+[00:39:37.462 --> 00:39:43.083]  And my colleagues on the Democrat side of the aisle are upset with you simply because you committed candor.
+[00:39:44.284 --> 00:39:45.384]  You said what you thought.
+[00:39:45.924 --> 00:39:49.085]  You said what they were all thinking when they wrote Obamacare.
+[00:39:49.505 --> 00:39:52.426]  That they knew what was best for my constituents.
+[00:39:53.166 --> 00:39:55.687]  I submit to you my constituents are not your children.
+[00:39:57.082 --> 00:39:59.404]  And they have the right of self-determination.
+[00:40:00.924 --> 00:40:06.308]  So, this gets me to another instance where you committed candor.
+[00:40:07.168 --> 00:40:13.312]  In 1997, you co-authored a paper entitled, Abortion Legalization and Child Living Circumstances.
+[00:40:13.352 --> 00:40:14.573]  Who is the Marginal Child?
+[00:40:16.334 --> 00:40:25.420]  On page 20, you conclude that abortion legalization appears to be associated with an improvement in the average living circumstances and birth outcomes among
+[00:40:26.061 --> 00:40:26.962]  A birth cohort.
+[00:40:27.042 --> 00:40:36.332]  And on page 26, you state that your research indicates that the legalization of abortion saved the government $14 billion in welfare payments through 1994.
+[00:40:37.413 --> 00:40:47.123]  Is providing more access to abortion, is that a worthy social outcome to achieve cost savings for the government?
+[00:40:48.971 --> 00:40:52.675]  That is not what my paper was about.
+[00:40:52.695 --> 00:40:53.897]  It wasn't a philosophical paper.
+[00:40:53.917 --> 00:40:55.379]  It was about empirical facts.
+[00:40:55.439 --> 00:40:57.041]  Tell me what you meant by this sentence.
+[00:40:57.381 --> 00:41:01.986]  By 1993, all cohorts under the age of 18 were born under legalized abortion.
+[00:41:02.327 --> 00:41:08.654]  And we estimate steady state savings of $1.6 billion per year from positive selection.
+[00:41:09.639 --> 00:41:11.840]  What did you mean by positive selection?
+[00:41:12.361 --> 00:41:20.646]  Because in this paper you're talking about providing more access to abortions to a socioeconomic strata of our constituents.
+[00:41:22.307 --> 00:41:26.890]  What the paper did was look at... What did you mean by positive selection in abortion?
+[00:41:28.928 --> 00:41:34.891]  In that paper, we were studying the characteristics of children who were born before and after abortion was legalized.
+[00:41:35.591 --> 00:41:39.353]  By comparing those characteristics, you can infer the characteristics of the kids who were not born.
+[00:41:39.373 --> 00:41:41.334]  So what you inferred, I find chilling.
+[00:41:41.694 --> 00:41:48.557]  What you inferred is that if we reduce the number of people or children born, life will be better for the rest of us still living.
+[00:41:49.438 --> 00:41:54.100]  Specifically, you seem to suggest that if we eliminate or reduce the number of poor people,
+[00:41:54.991 --> 00:41:55.572]  that are born.
+[00:41:55.832 --> 00:41:57.695]  This will make life better for all Americans.
+[00:41:57.755 --> 00:42:02.661]  And this gets me to my final point, which is the Independent Payment Advisory Board.
+[00:42:03.723 --> 00:42:12.535]  My constituents fear that this is in fact a method by which Obamacare will ration health care for the elderly and therefore implement cost savings for Medicare.
+[00:42:13.379 --> 00:42:23.409]  So my question to you is, does your philosophy on abortion, that it can save money and improve outcomes, have any implications in the realm of end-of-life care?
+[00:42:23.910 --> 00:42:31.117]  You argue that abortions of poor children raise the average living circumstances, in your paper, for the rest of us and save the government money.
+[00:42:31.217 --> 00:42:34.280]  So, Dr. Gruber, if there are fewer elderly people
+[00:42:34.813 --> 00:42:36.474]  Particularly poor elderly people.
+[00:42:37.055 --> 00:42:38.616]  Wouldn't that save a ton of money too?
+[00:42:39.236 --> 00:42:41.738]  As an economist, wouldn't you think that would save a ton of money too?
+[00:42:42.118 --> 00:42:47.262]  And do you understand the dangerous implications of going down this path?
+[00:42:48.663 --> 00:42:50.504]  I have no philosophy of abortion.
+[00:42:50.604 --> 00:42:52.225]  I have no philosophy of end-of-life care.
+[00:42:52.666 --> 00:42:57.809]  My job as an economist is to deliver the empirical facts so that you all can make the necessary decisions.
+[00:42:57.829 --> 00:42:59.971]  And what would your facts be on the elderly?
+[00:43:01.738 --> 00:43:02.679]  I don't understand the question.
+[00:43:02.739 --> 00:43:03.880]  The end-of-life care.
+[00:43:04.380 --> 00:43:07.203]  Do you advocate that the federal government should ration that?
+[00:43:07.223 --> 00:43:08.484]  No, I do not.
+[00:43:08.584 --> 00:43:10.306]  As an economist, would it save money?
+[00:43:11.226 --> 00:43:13.989]  I do not advocate the federal government should ration end-of-life care.
+[00:43:14.522 --> 00:43:22.667]  I'm in possession of an email stream from your second-in-command and Mr. Todd Parks that goes back and forth.
+[00:43:22.927 --> 00:43:26.609]  This email stream was less than 48 hours before rollout.
+[00:43:26.969 --> 00:43:28.170]  It was on September the 29th.
+[00:43:29.431 --> 00:43:32.512]  And in that, it says, just so we're clear, Ms.
+[00:43:32.532 --> 00:43:36.855]  Tavenner decided in January that we were going to go no matter what.
+[00:43:37.552 --> 00:43:51.260]  It goes on even further to say that, hence the really cruel, uncaring march that has occurred since January when she threatened me with demotion or forced retirement if I didn't take it on.
+[00:43:51.320 --> 00:43:52.541]  Are you familiar with this email?
+[00:43:53.982 --> 00:43:55.903]  I was not copied on that email.
+[00:43:55.983 --> 00:43:57.424]  I have since seen that email.
+[00:43:57.564 --> 00:44:01.046]  Alright, and so you're number two person.
+[00:44:02.523 --> 00:44:09.404]  Because in the email stream, if you've read all the stream, it was indicating that you weren't ready and yet it didn't really matter.
+[00:44:09.424 --> 00:44:13.785]  I don't happen to agree with that.
+[00:44:14.225 --> 00:44:15.445]  So it does matter.
+[00:44:15.485 --> 00:44:20.326]  So in that same email stream, we were putting together hardware.
+[00:44:21.826 --> 00:44:30.708]  We were installing hardware less than 48 hours before a rollout so that we wouldn't have a crash on the rollout day.
+[00:44:31.462 --> 00:44:33.863]  Did you not see that as troubling?
+[00:44:34.943 --> 00:44:43.586]  That we were installing, with less than 48 hours to go, we were installing hardware that wouldn't be tested?
+[00:44:44.127 --> 00:44:46.808]  We were installing hardware to increase capacity.
+[00:44:47.648 --> 00:44:47.888]  Right.
+[00:44:48.268 --> 00:44:49.449]  I got the numbers.
+[00:44:49.789 --> 00:44:57.932]  But you don't see that that's troubling when you're rolling something out that you wouldn't be ready when you're going to put in a piece of hardware just less than 48 hours?
+[00:44:58.803 --> 00:45:03.685]  We had tested and we were increasing our capacity to handle more volume.
+[00:45:03.965 --> 00:45:04.205]  Alright.
+[00:45:04.305 --> 00:45:05.306]  I see that as troubling.
+[00:45:05.566 --> 00:45:06.786]  And so, this Ms.
+[00:45:06.806 --> 00:45:11.508]  Snyder, is she with you today or she was forced to retire?
+[00:45:11.628 --> 00:45:13.229]  She was not forced to retire.
+[00:45:13.509 --> 00:45:16.990]  In fact, I... Is she retired?
+[00:45:17.390 --> 00:45:18.071]  She is retired.
+[00:45:18.791 --> 00:45:19.211]  Her choice.
+[00:45:19.231 --> 00:45:20.632]  She just wasn't forced to retire?
+[00:45:20.792 --> 00:45:21.952]  She was not forced to retire.
+[00:45:22.672 --> 00:45:23.073]  Alright.
+[00:45:23.133 --> 00:45:24.493]  Let me close by this.
+[00:45:24.853 --> 00:45:26.254]  I sent your staff
+[00:45:27.546 --> 00:45:40.854]  The information with regards to almost 4 million people that if they do not re-enroll will get hit with a tax bill some 10 to 12 months from now.
+[00:45:41.615 --> 00:45:45.637]  If they do not, because their benchmark plan has changed.
+[00:45:46.398 --> 00:45:53.142]  Are you notifying those almost 4 million people that they may get a tax bill if they do not re-enroll?
+[00:45:53.643 --> 00:45:54.183]  Individually?
+[00:45:54.830 --> 00:45:56.934]  We are individually notifying folks.
+[00:45:57.735 --> 00:46:06.251]  Well that's funny because I have 17 counties I represent and not a single one of them have gotten individually notified that they're going to get a tax bill.
+[00:46:06.781 --> 00:46:10.683]  So they are individually notified that, I did not get a chance to finish my sentence.
+[00:46:10.703 --> 00:46:11.363]  Oh, I'm sorry.
+[00:46:11.523 --> 00:46:24.088]  Yes, they have been individually notified that they need to come back in to return to the marketplace to update their information and make sure that A, their information is current and B, that they're selecting the place.
+[00:46:24.108 --> 00:46:25.308]  That's a general marketing thing.
+[00:46:25.428 --> 00:46:26.368]  You already responded to that.
+[00:46:26.408 --> 00:46:27.369]  No, it's not a general marketing thing.
+[00:46:27.429 --> 00:46:28.229]  Well, it is, but let me tell you.
+[00:46:28.249 --> 00:46:30.410]  It's an individual letter and phone calls.
+[00:46:30.730 --> 00:46:33.031]  But individually, you know who is
+[00:46:33.451 --> 00:46:35.653]  Not who is going to get a tax bill.
+[00:46:35.713 --> 00:46:36.774]  You know that today.
+[00:46:37.715 --> 00:46:38.956]  If they do not re-enroll.
+[00:46:39.937 --> 00:46:52.989]  You did not apologize for helping the administration deceive the American people on this health care act or for telling America the truth in your video comments about how it was a fraud upon the American people.
+[00:46:53.089 --> 00:46:53.970]  Is that correct, sir?
+[00:46:55.282 --> 00:47:00.224]  I think the Affordable Care Act was passed in a highly transparent fashion with hundreds of hours of debate.
+[00:47:00.384 --> 00:47:04.186]  But every single thing they promised was a lie.
+[00:47:05.566 --> 00:47:07.207]  How can you call that transparent?
+[00:47:07.247 --> 00:47:11.609]  You didn't say what we're about to do for you is not going to really do you any good.
+[00:47:11.909 --> 00:47:14.390]  You're not going to keep your doctor.
+[00:47:14.690 --> 00:47:15.930]  You're not going to keep your hospital.
+[00:47:16.031 --> 00:47:17.211]  Your premiums are going to go up.
+[00:47:17.551 --> 00:47:18.512]  Why didn't you say that?
+[00:47:19.372 --> 00:47:20.392]  You were the architect.
+[00:47:20.592 --> 00:47:21.433]  One of the architects.
+[00:47:21.493 --> 00:47:22.713]  You created the model.
+[00:47:23.193 --> 00:47:24.294]  Is that model flawed?
+[00:47:26.385 --> 00:47:29.569]  I did economic micro-simulation modeling that I believe is... Simulation.
+[00:47:29.629 --> 00:47:36.236]  So you actually created a model to justify their conclusions.
+[00:47:38.239 --> 00:47:39.460]  Seems about what you did.
+[00:47:39.500 --> 00:47:41.002]  I mean, you're a lot smarter than I did.
+[00:47:41.062 --> 00:47:42.984]  Now, here's an opportunity for you to come clean.
+[00:47:43.405 --> 00:47:44.606]  Lies on top of lies.
+[00:47:46.377 --> 00:47:47.358]  This is what you have done.
+[00:47:47.538 --> 00:47:56.886]  You have been a co-conspirator in defrauding the American people, and you admitted it in two videos and comments that I saw on TV.
+[00:47:57.707 --> 00:47:59.108]  You keep saying you don't recall.
+[00:48:00.249 --> 00:48:02.711]  Do you not recall any numbers at all?
+[00:48:03.692 --> 00:48:08.937]  I haven't seen a number you can recall since you gave us that approximately $400,000 in your opening statement.
+[00:48:10.418 --> 00:48:11.259]  You're an economist.
+[00:48:11.479 --> 00:48:12.340]  You work with numbers.
+[00:48:13.007 --> 00:48:18.331]  Why is it that every question that comes from this side of the dais, we get a don't recall, Mr. Gruber?
+[00:48:19.652 --> 00:48:24.936]  The $400,000 is a number I recall very well because it's been made very public.
+[00:48:25.957 --> 00:48:37.265]  The other contracts and other things I receive from states and the federal government are numbers that I don't have at my fingertips, but numbers that, you know, the committee can discuss with my counsel about what's appropriate to reveal.
+[00:48:38.746 --> 00:48:44.570]  Well, you know, you're making it very obvious that we're not only going to have to discuss with your counsel, we're going to have to serve a subpoena.
+[00:48:44.590 --> 00:48:55.098]  We're going to have to demand these numbers because you're not even giving us a fair estimate of the approximately $4 million that you said in your earlier statement.
+[00:48:55.338 --> 00:49:01.382]  Well, this is excess and it didn't all come to me, but you haven't answered one question about grants and contracts.
+[00:49:01.866 --> 00:49:11.191]  I never knew anyone in business who got even a small amount of something they didn't know about the grant or the contract, gross value, and then what they got from it.
+[00:49:11.651 --> 00:49:17.394]  And it's amazing that you haven't given us one in numbers since that chosen amount, and that is a little disturbing.
+[00:49:18.474 --> 00:49:26.478]  And I will caution you one last time as these individuals ask their questions, that the goal was to get completed here today.
+[00:49:27.448 --> 00:49:33.210]  With sworn statements about numbers, to the best of your recollection, approximate was good enough.
+[00:49:34.270 --> 00:49:48.355]  But, you know, the fact that every answer is, well, discuss with my lawyer, puts this committee in a position where it is very clear we're going to have to do more discovery and likely you're going to be back here again under the new chairmanship.
+[00:49:48.415 --> 00:49:51.476]  So, Mr. Bentevillo, did you have one last question?
+[00:49:52.346 --> 00:49:53.747]  Thank you, Mr. Chairman.
+[00:49:53.767 --> 00:49:54.748]  Just one last question.
+[00:49:54.888 --> 00:49:57.790]  I understand, according to the Supreme Court, this is a tax.
+[00:49:58.931 --> 00:49:59.231]  Correct?
+[00:49:59.652 --> 00:50:00.212]  It's a tax.
+[00:50:01.393 --> 00:50:03.795]  As I said earlier, I don't believe the individual mandate is.
+[00:50:03.855 --> 00:50:06.857]  Okay, but it's a tax for failing to engage in commerce.
+[00:50:06.917 --> 00:50:12.701]  Because if I don't engage in Obamacare, go on a website, I'm going to be taxed or fined.
+[00:50:13.082 --> 00:50:13.342]  Correct?
+[00:50:14.502 --> 00:50:20.186]  The individual mandate assesses a penalty on you if you don't get health insurance unless you meet certain exemption criteria.
+[00:50:20.226 --> 00:50:26.871]  I'd like to find some other examples of somebody being taxed for failing to engage in commerce.
+[00:50:26.931 --> 00:50:33.236]  It's kind of like me going into my local grocery store, walking around and not buying anything, and a federal agent is outside the
+[00:50:33.663 --> 00:50:37.247]  Grocery stores saying, hey, we're going to tax you because you didn't buy anything in that store.
+[00:50:38.068 --> 00:50:38.289]  Okay.
+[00:50:38.909 --> 00:50:42.474]  Again, we're having, is it, maybe it's a disconnect between here and there.
+[00:50:42.494 --> 00:50:44.857]  And I'm not trying, honestly, I'm not trying to be argumentative at this point.
+[00:50:45.858 --> 00:50:47.440]  But you actually do work for the government.
+[00:50:48.300 --> 00:50:54.484]  You do work for an agency that is under jurisdiction of this committee, under this oversight provision of transparency and everything else.
+[00:50:55.024 --> 00:51:01.809]  Why would you even have to hesitate on providing contracts that are public monies or spent on to this committee?
+[00:51:02.189 --> 00:51:03.050]  I don't think I would.
+[00:51:03.090 --> 00:51:05.671]  I just asked that I would be able to ask that question.
+[00:51:07.172 --> 00:51:07.753]  To who?
+[00:51:08.273 --> 00:51:09.654]  You run the department.
+[00:51:10.114 --> 00:51:10.975]  I'm not an attorney.
+[00:51:12.175 --> 00:51:13.997]  Well, that's not a bad or good thing.
+[00:51:14.617 --> 00:51:15.978]  My question is, you run the department.
+[00:51:18.348 --> 00:51:19.469]  I run CMS, yes.
+[00:51:19.649 --> 00:51:21.250]  Yes, how many attorneys do you have working for you?
+[00:51:21.970 --> 00:51:23.171]  Besides the ones that came with you?
+[00:51:23.932 --> 00:51:25.633]  I don't have any attorneys here with me.
+[00:51:26.233 --> 00:51:27.514]  Okay, maybe there's a problem.
+[00:51:27.814 --> 00:51:29.115]  I'm going to give you a little story.
+[00:51:30.236 --> 00:51:31.336]  I'm on Obamacare.
+[00:51:31.937 --> 00:51:34.058]  My husband was on Obamacare with me.
+[00:51:34.939 --> 00:51:39.322]  And we were told that we were enrolled in Obamacare.
+[00:51:39.642 --> 00:51:43.364]  And then when we filed claims, we were told we were not enrolled in Obamacare.
+[00:51:43.744 --> 00:51:47.607]  And then we got it straightened out, and he filed claims.
+[00:51:48.174 --> 00:51:51.556]  And we were told once again that we were not on Obamacare.
+[00:51:52.216 --> 00:52:02.583]  Well, come to find out, my husband was having chest pains at the time that he was told we were not enrolled in Obamacare.
+[00:52:03.483 --> 00:52:11.848]  And, come to find out, he didn't have all of the tests that he was advised by his physician to have.
+[00:52:14.767 --> 00:52:19.791]  On October 24th, a week before election, my husband went to sleep and never woke up.
+[00:52:20.331 --> 00:52:28.298]  He had a massive heart attack in his sleep at age 65, a perfectly, by all appearances, healthy man.
+[00:52:28.958 --> 00:52:29.999]  Come to find out.
+[00:52:30.526 --> 00:52:39.969]  In a conversation with his physician after he died, he chose not to have one of the tests, the last test, his doctor told him to have.
+[00:52:40.609 --> 00:52:47.972]  This happened to coincide with the time that we were told that we were not covered by Obamacare.
+[00:52:48.992 --> 00:52:54.334]  I'm not telling you that my husband died because of Obamacare.
+[00:52:54.634 --> 00:52:57.815]  He died because he had a massive heart attack in his sleep.
+[00:52:58.335 --> 00:53:14.081]  But I am telling you that during the course of time that he was having tests by a physician and was told we were not covered by Obamacare, that he then decided not to have the last test the doctor asked him to have.
+[00:53:15.106 --> 00:53:25.071]  Let me suggest that there may be a decline in participation and that it may not be to the benefit of the American people.
+[00:53:26.072 --> 00:53:44.382]  I want to suggest that regardless of what happened to me personally, that there have been so many glitches in the passage and implementation of Obamacare that have real life consequences on people's lives and
+[00:53:46.008 --> 00:53:55.115]  The so-called glibness that has been referenced today have direct consequences for real American people.
+[00:53:55.876 --> 00:53:58.077]  So get over your damn glibness!
+[00:54:09.671 --> 00:54:14.075]  Symbols are powerful, and the globalists have hijacked the symbols of America.
+[00:54:14.375 --> 00:54:16.657]  They've turned them into their own symbols.
+[00:54:16.957 --> 00:54:26.666]  Well, we are restoring the idea of the true republic, not the counterfeit globalist empire, by promoting the icon George Washington and others.
+[00:54:26.886 --> 00:54:35.188]  And that's why we're rolling out an 100% Made in America line of incredible pro-liberty apparel.
+[00:54:35.408 --> 00:54:37.928]  We are re-popularizing liberty.
+[00:54:38.348 --> 00:54:42.589]  We are helping fellow Americans rediscover what made this country great.
+[00:54:42.969 --> 00:54:43.869]  We are the spirit of 1776.
+[00:54:45.370 --> 00:54:47.650]  We are 1776 worldwide.
+[00:54:47.710 --> 00:54:52.931]  We are all brothers and sisters in arms in the animating contest of liberty.
+[00:54:53.211 --> 00:54:57.394]  In the long march towards humanity's ultimate destiny of freedom.
+[00:54:57.834 --> 00:55:09.523]  Visit MadeIn1776.com today and vote with your dollars to promote truly made in America high quality products and promote the ideals of liberty.

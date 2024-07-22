@@ -1,0 +1,861 @@
+[00:00:18.700 --> 00:00:20.522]  Welcome to the InfoWars Nightly News.
+[00:00:20.622 --> 00:00:21.302]  I'm David Knight.
+[00:00:21.342 --> 00:00:22.183]  It's Friday, May 12th, 2017.
+[00:00:22.283 --> 00:00:23.064]  Here are our top stories.
+[00:00:28.547 --> 00:00:40.812]  Tonight, a worldwide ransomware cyber attack hits 99 countries as the stolen NSA hacking tool is unleashed.
+[00:00:41.352 --> 00:00:46.915]  There have been at least 45,000 attacks in as many as 74 countries just in the past 10 hours.
+[00:00:47.515 --> 00:00:54.558]  The tool that was used for this kind of ransomware that encrypts data actually locks out the user and demands a ransom to release it.
+[00:00:54.878 --> 00:01:01.382]  Then, anti-vaccine groups are now being blamed for the outbreak of measles.
+[00:01:02.002 --> 00:01:12.489]  But new research reveals that unvaccinated children are far healthier and have fewer disorders than children with vaccines.
+[00:01:13.489 --> 00:01:17.432]  All that plus much more up next on the InfoWars Nightly News.
+[00:01:31.425 --> 00:01:36.749]  The reason InfoWarsLife has five-star ratings on major third-party sites is because I want products I'm going to use for my family.
+[00:01:36.909 --> 00:01:37.489]  I take this.
+[00:01:37.749 --> 00:01:38.790]  My family takes this.
+[00:01:38.890 --> 00:01:43.113]  And then it funds the operation with the most hardcore, truthful information you're going to find anywhere.
+[00:01:43.173 --> 00:01:47.616]  So what you find in our news is the same thing you find in our products at InfoWarsLife.com.
+[00:01:47.776 --> 00:01:52.340]  If I ever forget to take them, I have a noticeable difference.
+[00:01:52.420 --> 00:01:53.461]  I don't feel good.
+[00:01:53.541 --> 00:01:57.064]  The nascent iodine is one of the ones that was life-changing for me.
+[00:01:57.284 --> 00:01:59.947]  Yeah, I actually have just run out of my Super Female.
+[00:01:59.987 --> 00:02:05.371]  I had a few bottles at my house and I've been taking it again, hitting the gym once again.
+[00:02:05.792 --> 00:02:08.194]  Very exciting, feeling great, looking good.
+[00:02:08.754 --> 00:02:12.177]  And I know my hair is luxurious once again.
+[00:02:12.298 --> 00:02:14.479]  So obviously the Super Female is amazing.
+[00:02:14.540 --> 00:02:14.900]  I love it.
+[00:02:15.060 --> 00:02:17.644]  Nascent Iodine is essential.
+[00:02:17.844 --> 00:02:18.805]  Survival Shield X2.
+[00:02:18.865 --> 00:02:24.794]  If there's one product that I would say is life-changing that I would suggest, it's Nascent Iodine Survival Shield X2.
+[00:02:24.814 --> 00:02:26.436]  It's got a five-star rating.
+[00:02:26.696 --> 00:02:28.899]  It's a win-win in fullwarslife.com.
+[00:03:03.237 --> 00:03:09.620]  Tonight, we're going to take a look at some virus outbreaks, both actual virus outbreaks and cyber virus outbreaks.
+[00:03:09.680 --> 00:03:21.586]  And of course, it's also interesting to see who's being blamed for these whistleblowers and the usual suspects, those who don't like vaccines or have questions about their safety and efficacy.
+[00:03:22.006 --> 00:03:25.388]  Let's take a look first at the cyber outbreak.
+[00:03:25.428 --> 00:03:30.671]  And this, of course, is ransomware that has hit 74 different countries in the past 10 hours.
+[00:03:31.699 --> 00:03:35.460]  Kaspersky Lab says it's been 45,000 documented attacks.
+[00:03:35.540 --> 00:03:36.580]  I was a little bit earlier today.
+[00:03:36.700 --> 00:03:38.120]  It is spreading very rapidly.
+[00:03:38.160 --> 00:03:43.181]  The ransomware is called WannaCry, and it locks down all the files on an infected computer.
+[00:03:43.541 --> 00:03:49.062]  It asks the computer's administrator to pay in order to get control of the files again.
+[00:03:49.282 --> 00:03:55.723]  If you don't pay immediately, and they want $300 just for the first few hours, they give you like six hours to pay.
+[00:03:56.303 --> 00:03:57.604]  If you don't pay that $300, then it starts to go up.
+[00:04:00.464 --> 00:04:09.069]  I would say most people appear to have paid this $300 in the first few hours but maybe some of the people who didn't are the National Health Service in the UK.
+[00:04:10.650 --> 00:04:12.991]  16 NHS organizations in the UK have been hit.
+[00:04:13.491 --> 00:04:19.815]  Some of them are hospitals and they've cancelled outpatient appointments and get this, emergency departments.
+[00:04:20.675 --> 00:04:28.039]  So we've all seen the people who criticized our health care system here in the United States saying it's too commercialized, it's too greedy.
+[00:04:28.059 --> 00:04:29.520]  You walk into a hospital and it's true.
+[00:04:29.940 --> 00:04:38.624]  You walk into a hospital and they don't want to, you know, you could be cut with a jugular vein and bleeding out on the floor basically and they say we're not going to see it till you fill out this insurance form.
+[00:04:38.664 --> 00:04:41.006]  I mean it's not that bad, that's an exaggeration, but it can be.
+[00:04:41.626 --> 00:04:44.808]  But here's a situation with the national health system in the UK.
+[00:04:45.888 --> 00:04:49.812]  And they say they can't see emergency patients because of why?
+[00:04:50.052 --> 00:04:51.893]  Because they can't get their computers operating?
+[00:04:51.913 --> 00:04:56.057]  I mean, this is not a question as to who's going to pay for this to be fixed.
+[00:04:56.297 --> 00:04:58.759]  This also hit Spanish telecom company Telefónica.
+[00:04:59.039 --> 00:05:01.421]  It has also hit Federal Express has now come out.
+[00:05:02.162 --> 00:05:06.225]  We've been warned about this, and Julian Assange has not tweeted out, I told you so.
+[00:05:06.305 --> 00:05:08.286]  But yes, he did tell us this.
+[00:05:08.326 --> 00:05:10.908]  He told us this back on the 20th of April.
+[00:05:11.448 --> 00:05:19.094]  He said, in response to a story from the BBC, where they said that Microsoft had patched this particular situation.
+[00:05:19.634 --> 00:05:25.618]  He said, no, if you look at what they said, they said they fixed most of the problems with this.
+[00:05:25.638 --> 00:05:27.319]  He said, most is not all, BBC.
+[00:05:28.379 --> 00:05:29.921]  You are breathless dolts.
+[00:05:30.542 --> 00:05:33.487]  It only takes one to rule the world.
+[00:05:33.507 --> 00:05:35.209]  You understand what he's talking about here?
+[00:05:35.329 --> 00:05:38.995]  Well, now people are finding out what that one to rule the world is.
+[00:05:41.345 --> 00:05:45.969]  This was something that was part of a hacking tool that has been released.
+[00:05:46.069 --> 00:05:50.133]  First, it came out last year from a group called Shadow Brokers.
+[00:05:50.253 --> 00:05:55.638]  They have periodically released documents that were apparently stolen from the NSA for a little over a year.
+[00:05:55.698 --> 00:05:59.002]  When they first appeared, they tried to auction off this set of tools.
+[00:05:59.042 --> 00:05:59.983]  Nobody took them up on it.
+[00:06:00.623 --> 00:06:05.808]  So they released a few of these things, but they gave up basically in January.
+[00:06:06.548 --> 00:06:26.886]  But then in April, as an alleged protest against Donald Trump, they say, becoming too much of a centrist and abandoning the far right, this is according to The Hill, the brokers released its largest set of documents, including a series of Windows tools, evidence that the NSA had hacked a Middle Eastern network of financial institutions.
+[00:06:27.506 --> 00:06:33.535]  So when I look at the way this is being spawned by a political site like The Hill, they are pushing this out there.
+[00:06:33.575 --> 00:06:38.882]  I think what they're trying to do is get the establishment, who is already angry about Vault 7, to attack WikiLeaks.
+[00:06:38.922 --> 00:06:40.104]  But we have to understand
+[00:06:41.041 --> 00:06:43.042]  That it was WikiLeaks who warned us about this.
+[00:06:43.582 --> 00:06:44.762]  And of course other people as well.
+[00:06:45.283 --> 00:06:51.665]  I've had cyber security experts on Twitter telling me that they were threatened to be banned on social media.
+[00:06:51.685 --> 00:06:59.228]  They were threatened with lawsuits because they pointed out that when Microsoft released some of these patches, that the patches didn't really fix anything.
+[00:06:59.908 --> 00:07:00.769]  That's their specialty.
+[00:07:00.789 --> 00:07:01.909]  Their field is cyber security.
+[00:07:01.929 --> 00:07:05.631]  They said they didn't really fix anything and they pointed that out and they got threatened with lawsuits.
+[00:07:06.485 --> 00:07:08.966]  And they didn't even say that they had fixed everything.
+[00:07:09.187 --> 00:07:10.928]  But that's the narrative that's coming out now.
+[00:07:11.288 --> 00:07:20.373]  And of course, when we look at Vault 7, make sure, and this is very important because the CIA is going to try to conflate this with what Shadow Brokers did.
+[00:07:21.154 --> 00:07:23.535]  What Shadow Brokers did was release the actual tools.
+[00:07:23.615 --> 00:07:28.738]  What WikiLeaks did with Vault 7 was release the user manuals, if you will.
+[00:07:29.098 --> 00:07:31.380]  They were showing people about the different systems.
+[00:07:31.400 --> 00:07:33.081]  We've told you for years here at InfoWars.
+[00:07:33.823 --> 00:07:36.984]  That people can use your monitor to spy on you.
+[00:07:37.004 --> 00:07:40.726]  And of course we saw pictures of Zuckerberg with tape over his monitor.
+[00:07:41.206 --> 00:07:43.327]  It's not just Alex Jones who's doing it anymore.
+[00:07:44.047 --> 00:07:46.208]  Anybody who really understands what's going on is doing it.
+[00:07:46.608 --> 00:07:50.470]  We told you that, but it was important for the public to actually see the documents.
+[00:07:50.730 --> 00:07:52.811]  And so we had Weeping Angel that was part of Vault 7.
+[00:07:53.871 --> 00:07:54.932]  And they told people that
+[00:07:56.099 --> 00:08:02.185]  Yes, with certain television sets they can turn these sets on and they can watch you, they can record you and so forth.
+[00:08:02.225 --> 00:08:09.251]  It was important for you to see the documents that prove that this is being done with specific television sets like Samsung.
+[00:08:10.131 --> 00:08:15.476]  But it did not release the actual code for any of these exploits and that's a very important distinction.
+[00:08:15.877 --> 00:08:18.299]  WikiLeaks is doing people a public service.
+[00:08:18.339 --> 00:08:20.561]  Now when they released this they told people, they said, look
+[00:08:21.021 --> 00:08:22.882]  We've got a lot of individuals.
+[00:08:22.902 --> 00:08:23.963]  They named Google.
+[00:08:24.003 --> 00:08:25.544]  They named, I believe, Microsoft.
+[00:08:25.564 --> 00:08:28.926]  They said they don't seem to be interested in fixing these exploits.
+[00:08:30.187 --> 00:08:33.789]  They said there are other companies like Cisco who have interacted with us.
+[00:08:33.869 --> 00:08:34.970]  They want to know what we know.
+[00:08:35.090 --> 00:08:37.211]  They want to fix this before any damage is done.
+[00:08:37.532 --> 00:08:39.233]  But they said there are other corporations
+[00:08:40.242 --> 00:08:47.327]  And they typically have big contracts with the US government who are not interested in fixing these exploits.
+[00:08:47.647 --> 00:08:58.314]  As a matter of fact, Julian Assange said, we're going to publish a list of the companies that are not interested in fixing this, that are not doing this, because we understand that they want to keep this open.
+[00:08:58.714 --> 00:09:01.716]  This is like the government getting the keys to your house,
+[00:09:02.782 --> 00:09:06.443]  So they can break in and go through your papers at any time that they want.
+[00:09:07.143 --> 00:09:12.785]  Keys that can be replicated and distributed very easily throughout the world, not just that they keep them on a particular ring.
+[00:09:12.805 --> 00:09:16.486]  And of course, we talked about these different issues with John McAfee.
+[00:09:16.526 --> 00:09:18.987]  He said, you don't want them to have these keys.
+[00:09:19.027 --> 00:09:22.068]  You don't want them to have the key to get into the Apple iPhone.
+[00:09:22.088 --> 00:09:24.449]  Remember the San Bernardino terrorist event?
+[00:09:25.467 --> 00:09:31.151]  And the government said, we want the keys to Apple so that we can go in, Apple phone, so we can go in and get this information at any time.
+[00:09:31.632 --> 00:09:35.375]  McAfee said at the time, if we give you the keys, you will lose them.
+[00:09:36.195 --> 00:09:37.516]  And everyone will have them.
+[00:09:37.576 --> 00:09:38.597]  And they'll do a lot of damage.
+[00:09:38.637 --> 00:09:39.958]  And so now we see what's happening.
+[00:09:40.438 --> 00:09:41.860]  We see what's happening in hospitals.
+[00:09:42.662 --> 00:09:45.824]  And there's far worse damage that could be done in hospitals.
+[00:09:45.944 --> 00:09:46.804]  We won't go into that.
+[00:09:46.864 --> 00:09:47.985]  Just use your imagination.
+[00:09:48.665 --> 00:09:53.287]  If they were really malicious, they could do a lot more in terms of medical devices and other things.
+[00:09:53.348 --> 00:09:56.409]  But this is the problem that we've seen all along.
+[00:09:56.589 --> 00:10:04.373]  Our government that tells us that they're destroying our legal protections, that they're destroying our privacy, say they are doing it for our safety and security.
+[00:10:04.453 --> 00:10:11.117]  And yet what they do, and we see this with this particular incident, what they do is they leave us vulnerable to criminals.
+[00:10:11.937 --> 00:10:20.957]  Aaron Schwartz pointed out that our government funds and creates virtually all the exploits and they were trying to pass CISPA and he pushed against CISPA.
+[00:10:21.177 --> 00:10:21.999]  Interestingly enough,
+[00:10:22.745 --> 00:10:31.671]  One of the names that was floated yesterday by Bloomberg was Mike Rogers, saying that he would be the replacement for FBI Director Comey.
+[00:10:31.852 --> 00:10:45.041]  We do not want the guy who pushed relentlessly and eventually got it passed, who got CISPA pushed through, so that the government could get information from the corporations who collect all that information from spying on you.
+[00:10:45.581 --> 00:10:47.923]  We don't want to have him in charge of the FBI.
+[00:10:47.963 --> 00:10:48.444]  Do we really?
+[00:10:49.224 --> 00:10:58.027]  The person who pushed for domestic surveillance, the person who said about NSA surveillance, it's not a violation of your privacy if you don't know that they're spying on you.
+[00:10:58.667 --> 00:11:04.609]  That's the mindset of Mike Rogers, the guy who's being put out there as a replacement for Director Comey who has been fired.
+[00:11:04.649 --> 00:11:10.671]  But when we look at what's going on here with WikiLeaks, it's very important to understand that they've only put out PDF documentation
+[00:11:11.311 --> 00:11:16.716]  For the CIA hacking tools, not the actual malware, not the exploits.
+[00:11:16.916 --> 00:11:18.737]  They have been very careful to do that.
+[00:11:19.058 --> 00:11:20.739]  They want to inform the public.
+[00:11:20.939 --> 00:11:23.501]  That's why they are doing the public a service.
+[00:11:24.602 --> 00:11:25.243]  They're journalists.
+[00:11:26.204 --> 00:11:29.567]  And they're better journalists and more honest journalists than the Washington Post.
+[00:11:29.727 --> 00:11:31.028]  So let's go to the Washington Post.
+[00:11:31.408 --> 00:11:33.430]  Here's the other virus that's happening right now.
+[00:11:33.470 --> 00:11:36.552]  There is a measles outbreak that's in Minneapolis.
+[00:11:37.882 --> 00:11:38.442]  Wisconsin.
+[00:11:39.183 --> 00:11:49.129]  And Washington Post and CNN are very clear about the fact that they want to blame people who have concerns about the safety and the efficacy of vaccines.
+[00:11:49.189 --> 00:11:50.409]  Here's the Washington Post headline.
+[00:11:50.930 --> 00:11:55.752]  Anti-vaccine activists spark a state's worst measle outbreak in decades.
+[00:11:55.913 --> 00:11:56.713]  There you go, right there.
+[00:11:56.793 --> 00:12:06.539]  And of course, every one of these articles ties it back to Dr. Andrew Wakefield, who we've interviewed here on InfoWars multiple times, who was one person who actually did a study
+[00:12:07.119 --> 00:12:10.480]  Looking at the correlation of autism with vaccines.
+[00:12:10.540 --> 00:12:13.020]  Something the CDC does not like to do.
+[00:12:13.060 --> 00:12:14.240]  We'll tell you more about that in a minute.
+[00:12:14.260 --> 00:12:15.681]  But take a look at this CNN headline.
+[00:12:16.121 --> 00:12:19.841]  Anti-vaccine groups blamed in Minnesota measles outbreak.
+[00:12:19.861 --> 00:12:22.102]  Yeah, it's CNN who is blaming them.
+[00:12:22.842 --> 00:12:23.142]  Okay?
+[00:12:23.262 --> 00:12:30.884]  Understand that as we go through this, they're telling people, if you're born after 1957, you need to get vaccinated again if you're an adult.
+[00:12:31.904 --> 00:12:32.124]  Why?
+[00:12:32.932 --> 00:12:34.093]  Because the vaccines don't work.
+[00:12:34.233 --> 00:12:36.193]  They don't really create a long-term immunity.
+[00:12:36.253 --> 00:12:38.895]  People born before 1957 had measles.
+[00:12:40.195 --> 00:12:40.855]  I had measles.
+[00:12:41.116 --> 00:12:42.736]  It wasn't a big deal when we had measles.
+[00:12:42.756 --> 00:12:45.658]  Yes, a few people would get seriously ill.
+[00:12:45.858 --> 00:12:47.358]  A few, even fewer, died.
+[00:12:48.139 --> 00:12:50.320]  But that wasn't the case for most people.
+[00:12:50.440 --> 00:12:52.080]  Yes, some people die from pneumonia.
+[00:12:52.100 --> 00:12:53.481]  Some people die from a cold.
+[00:12:54.061 --> 00:12:55.582]  You can die from a lot of different things.
+[00:12:55.662 --> 00:12:57.883]  But it was not a very serious disease.
+[00:12:58.103 --> 00:13:02.145]  Especially when you compare it to possible side effects like cancer and autism.
+[00:13:03.012 --> 00:13:04.694]  There's no disclaimer, of course.
+[00:13:04.774 --> 00:13:13.526]  There is a piece of paper that they put into the vaccine list, but there's no disclaimer like you get on all the pharmaceutical commercials that air on mainstream media.
+[00:13:14.525 --> 00:13:18.066]  But the one thing they're not going to do is blame the migrants.
+[00:13:18.606 --> 00:13:20.267]  You didn't see that in the headlines, did you?
+[00:13:20.647 --> 00:13:24.849]  This all was focused in the Somali community that has been brought in.
+[00:13:25.169 --> 00:13:29.010]  This is a massive community in Minneapolis.
+[00:13:29.430 --> 00:13:33.451]  And of course, one of our graphic artists, Walker, used to live in Minneapolis.
+[00:13:33.731 --> 00:13:36.592]  And he knows all about the Somali community there.
+[00:13:36.612 --> 00:13:37.153]  It's very large.
+[00:13:37.193 --> 00:13:38.833]  They've built massive ghettos there.
+[00:13:38.853 --> 00:13:43.635]  As a matter of fact, they call them locally there in the town, they call them ghettos in the sky.
+[00:13:44.215 --> 00:13:47.477]  That they have built for the Somalian refugees.
+[00:13:48.177 --> 00:13:54.802]  And as they point out, they say this is, many of them call it Little Mogadishu, the Somali capital of America.
+[00:13:54.862 --> 00:13:58.064]  This is the local Minneapolis Star Tribune talking about this.
+[00:13:58.104 --> 00:14:04.468]  And they said, interestingly enough, in the 1800s, it was people from Scandinavia, Germany, Sweden, who came to that area.
+[00:14:04.988 --> 00:14:07.710]  It had the highest concentration of Swedes in the state.
+[00:14:08.493 --> 00:14:14.175]  But today it is home to a large Somali population, the largest in the United States.
+[00:14:14.675 --> 00:14:22.657]  They say even for those who don't live there, the place has become a symbol for the Minnesota Somali community, the nation's largest of the Somali diaspora.
+[00:14:23.598 --> 00:14:27.019]  I think it's interesting that it was originally an area that was
+[00:14:28.146 --> 00:14:28.526]  Swedish.
+[00:14:29.147 --> 00:14:33.911]  Because when you look at Little Mogadishu, there's a twin city.
+[00:14:34.352 --> 00:14:35.292]  A sister city.
+[00:14:35.693 --> 00:14:36.313]  In Sweden.
+[00:14:37.054 --> 00:14:39.216]  A Little Mogadishu that is being constructed there.
+[00:14:39.496 --> 00:14:41.278]  And this is how it's going in Rikby.
+[00:14:41.638 --> 00:14:44.020]  It's a suburban housing estate that's near Stockholm.
+[00:14:44.380 --> 00:14:47.103]  This is a report from Zero Hedge that goes back to the end of March.
+[00:14:47.143 --> 00:14:52.227]  They say Swedish welfare state is keeping a large number of unassimilated migrants.
+[00:14:52.307 --> 00:14:53.168]  And that's the key.
+[00:14:53.208 --> 00:14:54.790]  They stay unassimilated there.
+[00:14:55.550 --> 00:14:59.651]  They keep them and they get ghettoized and part of that is a self-ghettoization.
+[00:14:59.671 --> 00:15:01.732]  They say 90% of the population is non-Swedish.
+[00:15:02.232 --> 00:15:04.833]  Many of the Somalians are given to crime and rioting.
+[00:15:04.873 --> 00:15:08.554]  As a matter of fact, it's gotten so bad that they've had reporters attacked.
+[00:15:09.095 --> 00:15:10.835]  We had 60 Minutes crew was attacked in 2016.
+[00:15:10.875 --> 00:15:13.856]  They had other reporters attacked there.
+[00:15:14.216 --> 00:15:17.457]  They had to shut down the police station because they poured out in Zero Hedge.
+[00:15:17.477 --> 00:15:19.378]  It was originally a police station.
+[00:15:19.798 --> 00:15:26.620]  That was for the kind of crime that they had in Swedish communities where people are looking, the policemen are looking for the lost pets and so forth.
+[00:15:26.640 --> 00:15:29.861]  They say the new police station is nothing but a fortress.
+[00:15:29.901 --> 00:15:31.481]  It's scheduled to open in 2019.
+[00:15:31.521 --> 00:15:33.242]  It'll cost $40 million to construct.
+[00:15:33.622 --> 00:15:35.582]  It'll have an annual rental cost of $1.6 million.
+[00:15:35.602 --> 00:15:37.123]  It'll have 250 personnel there for 15,000 people.
+[00:15:37.143 --> 00:15:37.723]  That's a higher ratio
+[00:15:42.364 --> 00:15:42.805]  Of course!
+[00:16:02.850 --> 00:16:04.151]  the migrant situation.
+[00:16:04.211 --> 00:16:07.033]  This is avoided at all costs by the mainstream media.
+[00:16:07.653 --> 00:16:13.798]  They will not talk about the fact that when you bring massive numbers of people into a community, disease can come with them.
+[00:16:13.938 --> 00:16:19.542]  And again, I don't think that measles is as serious as the mainstream media believes that it is.
+[00:16:20.540 --> 00:16:27.843]  Well, they talk about the fact that up until 2008, the Somalis who were coming in had the highest percentage of people being vaccinated.
+[00:16:28.503 --> 00:16:31.584]  And then they started noticing that they were getting autism.
+[00:16:32.545 --> 00:16:34.445]  And they blamed it on the vaccines.
+[00:16:34.946 --> 00:16:35.606]  Isn't that amazing?
+[00:16:36.585 --> 00:16:39.227]  And they had Dr. Wakefield come in and talk to them.
+[00:16:39.267 --> 00:16:42.790]  And so then they put this outbreak on Dr. Wakefield.
+[00:16:42.930 --> 00:16:51.317]  Because six years ago, he started telling people when they noticed that there was a massive increase in autism, he told them about his study.
+[00:16:52.381 --> 00:17:01.567]  And let me point out, before we get any further, that not everyone who has come down with measles is unvaccinated.
+[00:17:01.667 --> 00:17:04.429]  They've had people who were vaccinated come down with it as well.
+[00:17:04.449 --> 00:17:05.409]  Were they patient zero?
+[00:17:05.469 --> 00:17:10.533]  Because we have seen that in other incidents, that the people who were vaccinated were actually patient zero.
+[00:17:11.638 --> 00:17:23.987]  But when we look at what's going on here, they had the University of Minnesota do a study, and what they did was they compared the autism rates of people who were Somalis versus people who were not, the white community.
+[00:17:24.687 --> 00:17:27.109]  And they said we have the same rate of autism there.
+[00:17:27.449 --> 00:17:28.390]  What they did not do
+[00:17:29.170 --> 00:17:38.494]  was compare the rate of autism with people that were not vaccinated in Somali versus the Somalis who were vaccinated here in America.
+[00:17:39.334 --> 00:17:43.556]  That's the study that they won't do but other people have done this and we reported this.
+[00:17:44.076 --> 00:17:48.538]  This article that was at InfoWars on April the 24th from Robert F. Kennedy Jr.
+[00:17:48.578 --> 00:17:54.100]  said infants with DTP vaccine were five to ten times more susceptible to dying from a multiple
+[00:17:54.600 --> 00:17:55.321]  We're good to go.
+[00:18:16.997 --> 00:18:21.640]  They came to this country, they said autism did not exist, and all of a sudden, boom, it hits them.
+[00:18:21.740 --> 00:18:23.342]  With us, it built up gradually.
+[00:18:23.562 --> 00:18:26.384]  We understand now that it has gone up by thousands of percent.
+[00:18:26.724 --> 00:18:28.445]  Nobody asks why that is.
+[00:18:28.806 --> 00:18:30.667]  They don't want you to ask why that is.
+[00:18:31.007 --> 00:18:33.949]  The University of Minnesota doesn't do that kind of study.
+[00:18:34.209 --> 00:18:42.916]  They merely do a study between Somalis and white Minnesotans and say, look, they're all taking the same vaccines and they all get the same amount of autism.
+[00:18:43.516 --> 00:18:44.177]  What a surprise.
+[00:18:44.578 --> 00:18:45.619]  That is the reality.
+[00:18:45.920 --> 00:18:48.904]  Take a look at the articles we put on InfoWars just the last couple of days.
+[00:18:48.924 --> 00:18:51.748]  Unvaccinated children far healthier have fewer disorders.
+[00:18:51.969 --> 00:18:53.451]  Very large article.
+[00:18:53.551 --> 00:18:54.893]  Do your own research.
+[00:18:55.234 --> 00:18:55.855]  We'll be right back.
+[00:19:01.590 --> 00:19:09.358]  InfoWars is partnered with Defender Body Armor to bring you a new state-of-the-art line of advanced, highly tested body armor from InfoWarsTore.com.
+[00:19:09.578 --> 00:19:16.004]  Defender Body Armor is certified to protect against all handgun rounds and even armor-piercing FN 5.7 pistol rounds.
+[00:19:16.245 --> 00:19:24.513]  The secret to Defender Body Armor is its proprietary processing technology that disperses more kinetic energy at a rate higher than any other traditional body armor.
+[00:19:24.793 --> 00:19:33.540]  Using one of the strongest synthetic materials ever created, called Ultra High Molecular Weight Polyethylene, Defender Armor is also super compact and lightweight.
+[00:19:33.800 --> 00:19:39.544]  There's a reason the Department of Defense chose Defender to manufacture their new line of advanced lightweight armor.
+[00:19:39.884 --> 00:19:40.364]  It works.
+[00:19:40.645 --> 00:19:48.930]  Defender Body Armor is made right here in America and has received the highest level Ballistic Resistance Certification from an authorized NIJ Ballistic Laboratory.
+[00:19:49.090 --> 00:19:58.517]  Defender Body Armor is now available through InfoWarsTore.com so you can defend yourself, your family, and finance the Info War against the Globalists all at the same time.
+[00:19:58.857 --> 00:19:59.477]  A total 360 win.
+[00:20:01.448 --> 00:20:03.209]  You provided, Alex, with the caveman.
+[00:20:03.229 --> 00:20:05.290]  Well, so we've been formulating this stuff for a while.
+[00:20:05.350 --> 00:20:08.751]  We've been getting these different flavors and, you know, oh, I don't know about this one.
+[00:20:09.212 --> 00:20:12.193]  You know, and so I've been taking that stuff and I'm an old man.
+[00:20:12.213 --> 00:20:12.793]  I'm 42.
+[00:20:12.833 --> 00:20:15.715]  I work out five times a week, if not more.
+[00:20:15.895 --> 00:20:17.356]  I hear you're okay in jujitsu.
+[00:20:19.296 --> 00:20:20.437]  No, I'm not.
+[00:20:20.457 --> 00:20:21.117]  I'm terrible.
+[00:20:21.137 --> 00:20:21.718]  I'm terrible.
+[00:20:21.818 --> 00:20:28.961]  But, the point is, is that I have a lot of aches and shoulders and, you know, this weird joint stuff that I've had issues with for years.
+[00:20:29.581 --> 00:20:36.785]  And this bone broth, the Caveman Bone Broth, along with our joint formula, has just worked magic for me.
+[00:20:36.825 --> 00:20:40.286]  And that's just, you know, that's just from my personal experience.
+[00:20:41.687 --> 00:20:46.933]  I think they're great products and I think if anybody else has those issues that you should definitely, you owe it to yourself to check it out.
+[00:20:46.973 --> 00:20:50.056]  If I'm wrong, then hey man, write me a mean letter.
+[00:20:50.457 --> 00:20:51.738]  But let me tell you, they work for me.
+[00:20:52.118 --> 00:20:53.320]  Yeah, they work for me too.
+[00:20:53.400 --> 00:20:54.541]  Actually, we were talking about this earlier.
+[00:20:54.561 --> 00:21:01.729]  Dude and I play basketball and I'm just now, like for the first time in my life, I'm 27 now, after I play basketball my knees are barking.
+[00:21:02.329 --> 00:21:04.091]  Yeah.
+[00:21:04.271 --> 00:21:10.057]  But the bone broth and the joint formula, like you just said, you combine those two, I felt the difference immediately.
+[00:21:10.077 --> 00:21:11.678]  I felt it immediately.
+[00:21:11.898 --> 00:21:13.920]  Yeah, and it actually tastes good.
+[00:21:14.020 --> 00:21:17.083]  Like, I'm really picky and I will drink it.
+[00:21:17.103 --> 00:21:18.264]  It tastes good to me.
+[00:21:18.344 --> 00:21:22.288]  I love chocolate, so I really like the flavor of the Caveman.
+[00:21:22.328 --> 00:21:24.390]  So, I mean, if the bone broth
+[00:21:27.072 --> 00:21:28.153]  Bone broth!
+[00:21:28.213 --> 00:21:33.356]  If the bone broth is really that gross, I mean, I would never have known, because it tastes really good.
+[00:21:33.376 --> 00:21:37.118]  And my favorite is the Super Female Vitality.
+[00:21:37.158 --> 00:21:44.922]  So, ladies, get yourselves some Super Female Vitality if you haven't already, because it seriously, it just gets me going.
+[00:21:44.982 --> 00:21:50.045]  I mean, I'll take a whole bunch of that stuff before I go out and do my... Maybe get it for your wife then, too, or girlfriend.
+[00:21:50.866 --> 00:21:58.484]  I go and take a bunch of it before I go do Man on the Street, and I just start running, zipping around, running right into the action, no fear, nothing, so...
+[00:21:59.141 --> 00:22:06.486]  Well, that's a big primary part about, you know, fighting the globalists is making sure that we stay healthy and stay clear-eyed and stay honest and stay humble.
+[00:22:07.027 --> 00:22:08.848]  I hope that we do that here at InfoWars.
+[00:22:09.569 --> 00:22:20.117]  We got a lot going on and we're in the middle of the fight, so we really appreciate it when anybody supports us, either by purchasing our products or you can even go onto our store and donate.
+[00:22:20.177 --> 00:22:21.418]  We're doing this by the skin of our teeth.
+[00:22:21.478 --> 00:22:27.562]  I know it looks like we're in a billion-dollar studio, but Alex has never taken one cent of
+[00:22:28.803 --> 00:22:31.065]  I borrowed money at all whatsoever.
+[00:22:31.105 --> 00:22:33.307]  This is all money that's come from you listeners.
+[00:22:33.327 --> 00:22:41.413]  So you've literally built this place, you know, built this place with your compassion and built this place with the support that you've sent us.
+[00:22:41.433 --> 00:22:44.776]  So from the bottom of my heart, I appreciate it because I know we wouldn't be able to do this.
+[00:22:44.816 --> 00:22:47.658]  We wouldn't have a voice if it wasn't for you.
+[00:22:47.758 --> 00:22:52.802]  So once again, we got to thank the listeners for their steadfastness and supporting us.
+[00:22:53.843 --> 00:23:00.697]  Even when we make mistakes and even when we're not right and even when we might go a little bit crazy, you guys stick with us and I appreciate that.
+[00:23:04.451 --> 00:23:10.615]  We just talked about the ransomware, the malware that is being used to shut down computers across the world.
+[00:23:10.675 --> 00:23:15.038]  And so it's always important for us to think about what can go wrong with technology.
+[00:23:15.138 --> 00:23:18.320]  What can happen when it falls into malicious hands?
+[00:23:18.801 --> 00:23:26.346]  We always talk about this in terms of automobiles, because we have self-driving cars that are being pushed on us very hard, very quickly.
+[00:23:27.046 --> 00:23:32.569]  And it's something that the government wants to happen, so they are literally greasing the skids to make this happen.
+[00:23:33.009 --> 00:23:34.509]  They want it to happen in the worst way.
+[00:23:34.529 --> 00:23:41.373]  They will be able to track us and tax us everywhere we go, so they're working hand-in-glove with the crony capitalists.
+[00:23:41.413 --> 00:23:49.376]  We're going to talk in this segment how the government is working hand-in-glove with the insurance companies in a crony capitalism way as well.
+[00:23:49.396 --> 00:23:50.877]  But first, let's take a look at the cars.
+[00:23:52.057 --> 00:23:56.339]  And AP asked yesterday, what is holding back self-driving cars?
+[00:23:56.879 --> 00:23:58.560]  And their answer is, you.
+[00:23:59.020 --> 00:23:59.720]  You humans.
+[00:24:00.020 --> 00:24:01.461]  You need to get out of the way.
+[00:24:02.141 --> 00:24:04.422]  Isn't this always what we see from the globalists?
+[00:24:04.883 --> 00:24:07.884]  The absolute contempt for humans in general?
+[00:24:08.925 --> 00:24:11.787]  And yet, it's going to be humans who are writing this software.
+[00:24:12.227 --> 00:24:14.588]  And it may be humans who are hijacking these cars.
+[00:24:15.308 --> 00:24:25.294]  But, they think most of you are going to be the little Eloy, who are going to be sitting in the back of the car, playing with Facebook and Twitter and social media and playing video games.
+[00:24:26.375 --> 00:24:28.236]  Basically, they're going to be driving Ms.
+[00:24:28.337 --> 00:24:36.723]  Lazy, because you don't care enough about your freedom, about your independence, to even care to see where this is leading.
+[00:24:36.743 --> 00:24:38.244]  But let's take a look at their attitude.
+[00:24:38.264 --> 00:24:41.626]  I think it's very instructive when we look at what AP is saying.
+[00:24:41.686 --> 00:24:51.753]  Coming out of Detroit, they say, in just a few years, well-mannered, self-driving robo-taxis will share the road with reckless, law-breaking human drivers.
+[00:24:52.534 --> 00:24:53.755]  No bias there, is there?
+[00:24:54.676 --> 00:24:58.718]  Okay, they say this is causing migraines for the people developing the robo-taxis.
+[00:24:58.758 --> 00:24:59.218]  Wait a minute!
+[00:24:59.458 --> 00:24:59.898]  Wait a minute!
+[00:25:00.579 --> 00:25:01.739]  Those people are human.
+[00:25:02.379 --> 00:25:03.440]  They're going to have human error.
+[00:25:04.080 --> 00:25:06.901]  And you can have some malicious humans in there as well.
+[00:25:06.921 --> 00:25:09.903]  Some of them might be wearing government uniforms even.
+[00:25:10.403 --> 00:25:13.744]  They say a self-driving car would be programmed to drive at the speed limit.
+[00:25:14.384 --> 00:25:17.246]  Humans routinely exceed it by 10 to 15 miles per hour.
+[00:25:17.266 --> 00:25:18.426]  Let's talk about speed limits.
+[00:25:18.706 --> 00:25:20.287]  Are they carved in stone?
+[00:25:21.107 --> 00:25:22.108]  Of course they aren't.
+[00:25:23.055 --> 00:25:29.520]  I remember when the speed limits on the interstates were dropped 10 to 15 miles per hour, arbitrarily to 55 miles per hour.
+[00:25:31.206 --> 00:25:32.787]  I talk to my children all the time.
+[00:25:32.827 --> 00:25:37.030]  Every time we go to an old car show, I say, look at these old cars from the late 50s, early 60s.
+[00:25:37.590 --> 00:25:47.097]  These roly-poly sleds were what the interstates were designed for when they had speed limits of 65 to 70, and then I remember when they dropped it to 55.
+[00:25:47.397 --> 00:25:48.317]  They're arbitrary.
+[00:25:48.377 --> 00:25:50.999]  The purpose of the speed limits is not really your safety.
+[00:25:51.419 --> 00:25:53.861]  The purpose of speed limits is revenue.
+[00:25:54.321 --> 00:25:54.962]  You all know that.
+[00:25:55.242 --> 00:25:55.662]  You know that.
+[00:25:57.593 --> 00:26:00.274]  The robot cars will be driving the speed limit for us.
+[00:26:00.294 --> 00:26:06.355]  They say self-driving cars would not dare to cross a double yellow line, but humans do it all the time.
+[00:26:07.335 --> 00:26:08.996]  We've seen otherwise haven't we?
+[00:26:09.296 --> 00:26:18.398]  Haven't we seen several accidents where Tesla's crossed the line or they couldn't find the line and they hit a barrier or something else?
+[00:26:18.418 --> 00:26:21.679]  I mean this is, these are the issues that we're faced with.
+[00:26:22.264 --> 00:26:23.865]  Humans are going to be designing these systems.
+[00:26:23.885 --> 00:26:26.346]  They're not foolproof, but they can be used malevolently.
+[00:26:26.806 --> 00:26:33.910]  They say in LA and other places, for instance, there's the California stop where drivers roll through stop signs if there's no traffic crossing.
+[00:26:33.930 --> 00:26:38.813]  Of course, we wouldn't want to ever have a situation where anybody uses common sense and sees what's going on.
+[00:26:38.833 --> 00:26:41.294]  And, of course, humans make problems.
+[00:26:41.534 --> 00:26:44.136]  Humans have mistakes, but these things are going to happen as well.
+[00:26:44.156 --> 00:26:47.498]  They say, although autonomous cars are likely to carry passengers or cargo,
+[00:26:48.098 --> 00:26:59.885]  In limited areas during the next three to five years, experts say it'll take many years before robo taxis can coexist with humans who are piloting vehicles on side streets, boulevards, and freeways.
+[00:26:59.925 --> 00:27:01.566]  This is the way it's going to roll out, folks.
+[00:27:01.706 --> 00:27:02.546]  We've told you before.
+[00:27:02.606 --> 00:27:10.371]  They're going to do it in the cities because the real purpose is to lock people up in the cities, to limit your mobility in the cities, to control you there.
+[00:27:10.931 --> 00:27:14.994]  As part of Agenda 21, they don't want you traveling outside of that area, but they're going to
+[00:27:15.854 --> 00:27:17.515]  Exercises control very strictly.
+[00:27:17.555 --> 00:27:32.684]  They're already banning cars in many ways in the cities, in London and other places, saying that they're doing it for mission purposes, saying they want to do it for traffic purposes, but they have been, the city planners, the urban planners, have been, have had the cars in their cross sites for a very long time.
+[00:27:32.764 --> 00:27:32.984]  Why?
+[00:27:33.697 --> 00:27:34.778]  Because it gives you freedom.
+[00:27:35.098 --> 00:27:36.159]  Why do we have suburbs?
+[00:27:36.239 --> 00:27:39.782]  Because we could get there with our cars and we weren't trapped in the cities.
+[00:27:39.822 --> 00:27:44.906]  They want you in their tiny coffin apartments to control you.
+[00:27:45.247 --> 00:27:52.172]  So what they're going to do is they're going to have robo cars only in certain areas and they will gradually move that perimeter out.
+[00:27:52.893 --> 00:27:54.475]  Until they take over everything.
+[00:27:55.035 --> 00:28:01.741]  And then they say, cars with sensors for driver-assisted systems are already gathering data about all kinds of things, including human driver behavior.
+[00:28:02.101 --> 00:28:04.363]  Of course they are, because they're going to be spying on you.
+[00:28:04.704 --> 00:28:11.430]  So experts expect fully autonomous cars to collect, process, and analyze four terabytes of data in just one and a half hours of driving.
+[00:28:11.450 --> 00:28:14.112]  Yeah, it's going to get much, much larger.
+[00:28:14.132 --> 00:28:15.113]  They're going to turn everything over.
+[00:28:15.173 --> 00:28:16.254]  But where will this go wrong?
+[00:28:16.334 --> 00:28:18.096]  Well, just as we saw today with ransomware,
+[00:28:19.377 --> 00:28:26.339]  We have an article from the Daily Mail saying, high-tech cars risk being hacked and turned into bombs on wheels.
+[00:28:26.999 --> 00:28:32.761]  And this is coming from a European institute, the Institute of Motor Industry, said hackers could remotely crash cars.
+[00:28:32.801 --> 00:28:33.701]  Well, of course we know they have.
+[00:28:33.741 --> 00:28:34.802]  We've seen this demonstrated.
+[00:28:36.122 --> 00:28:39.523]  These cars are so obedient to the rules, aren't they?
+[00:28:40.283 --> 00:28:42.504]  Unless you get a hacker that gets this.
+[00:28:42.684 --> 00:28:45.685]  Experts warn of similar atrocities to those in Paris, Berlin and Westminster.
+[00:28:46.745 --> 00:28:51.649]  And that is what they're going to use to push you out of your car, quite frankly.
+[00:28:52.269 --> 00:28:53.650]  They're going to use that as an excuse.
+[00:28:53.670 --> 00:28:59.195]  They're going to say, look, we have terrorists who are going to take over, I've already done it now, in several incidents.
+[00:29:00.288 --> 00:29:01.569]  And run pedestrians down.
+[00:29:01.609 --> 00:29:06.711]  So we need to have full control of your car so we can shut that down or drive it all together.
+[00:29:06.771 --> 00:29:17.417]  Then once that happens, then they will have people who are your auto technicians who will then need to be vetted by the NSA and other government agencies to make sure that they're not terrorists.
+[00:29:17.477 --> 00:29:19.038]  But we know how that's going to go down.
+[00:29:19.198 --> 00:29:26.181]  Meanwhile, we see that Android apps are secretly tracking users by listening to inaudible sounds hidden in their advertisements.
+[00:29:26.221 --> 00:29:27.502]  This is coming from the UK.
+[00:29:27.642 --> 00:29:35.586]  This is kind of similar to what they have used to repel teenagers from loitering in parking lots for a long time, putting out what they call mosquito sounds.
+[00:29:35.626 --> 00:29:38.747]  Very high-pitched sounds that only teenagers would be able to hear.
+[00:29:39.267 --> 00:29:43.689]  Be very annoying to them, but their adult audience, so they wanted to stick around, would not run away.
+[00:29:44.149 --> 00:29:47.031]  That was, I guess, preferable to using Barry Manilow, which had been
+[00:29:47.651 --> 00:29:48.031]  I think so.
+[00:30:04.528 --> 00:30:05.948]  Following what you do.
+[00:30:06.529 --> 00:30:12.070]  And they say this technique can even be used to de-anonymize Tor users.
+[00:30:12.250 --> 00:30:18.812]  Let me repeat that for all of you out there because Tor is a very effective tool for people who are trying to keep their privacy.
+[00:30:19.192 --> 00:30:23.673]  This technique can even be used to de-anonymize Tor users.
+[00:30:24.073 --> 00:30:27.034]  It is a constant back and forth war to keep our privacy.
+[00:30:27.833 --> 00:30:31.215]  And they say this is leaving open doors for advertisers to use this.
+[00:30:31.315 --> 00:30:34.937]  It only works at the moment, they say, when these particular apps are running.
+[00:30:34.957 --> 00:30:36.678]  But of course, how is the government using it?
+[00:30:36.738 --> 00:30:42.602]  Well, we know that the government has probably already got these types of things embedded in your computers.
+[00:30:42.642 --> 00:30:43.803]  And when we look at our cars,
+[00:30:44.503 --> 00:30:49.745]  And how they're going to be using and tracking this information about how we drive because that'll be the first thing that they will do.
+[00:30:49.785 --> 00:30:52.606]  They'll put these black boxes to record everything about how you drive.
+[00:30:52.626 --> 00:30:58.268]  They'll base your insurance rates on that to drive you off of the road as a human driver to make it unaffordable.
+[00:30:58.668 --> 00:31:04.130]  We already see a bill being introduced in New York to let police scan your cell phone after a crash.
+[00:31:04.850 --> 00:31:08.835]  And what they would do is they call this a text-alyzer, like a breath-alyzer.
+[00:31:09.376 --> 00:31:15.004]  They would be able to pull this over, use software to detect whether or not you have been swiping or typing.
+[00:31:15.024 --> 00:31:19.730]  And say, don't worry, we won't be able to read any of your personal content.
+[00:31:20.191 --> 00:31:20.751]  Yeah, right.
+[00:31:21.607 --> 00:31:26.930]  And of course, this is being pushed by someone who is now an advocate against distracted driving.
+[00:31:27.310 --> 00:31:30.712]  He lost his 19-year-old son, Evan, six years ago.
+[00:31:31.133 --> 00:31:33.734]  So now he is doing this to give meaning to his life.
+[00:31:33.794 --> 00:31:36.016]  And I have to say, I have seen this so many times.
+[00:31:36.236 --> 00:31:37.757]  I'm sorry that he lost his child.
+[00:31:38.137 --> 00:31:39.478]  I know that this can be a hazard.
+[00:31:40.198 --> 00:31:42.159]  But please stop doing this, folks.
+[00:31:42.279 --> 00:31:47.963]  If you have a child who dies in a bathtub, please don't try to ban bathtubs for the rest of us.
+[00:31:48.643 --> 00:31:49.804]  That's what we're saying about measles.
+[00:31:49.884 --> 00:31:51.064]  Things happen in life.
+[00:31:51.104 --> 00:31:52.725]  You can never be fully safe.
+[00:31:52.745 --> 00:31:54.166]  You can't make the world fireproof.
+[00:31:54.466 --> 00:31:55.867]  You can't make it accident-proof.
+[00:31:56.327 --> 00:32:06.812]  And as the ACLU points out, there is absolutely no guarantee that a device like this would be able to scan a phone without collecting private information that is on your phone.
+[00:32:07.573 --> 00:32:10.614]  And there's no way, of course, that they can also ensure accuracy.
+[00:32:11.395 --> 00:32:17.458]  This may give them a false positive saying that you are actually texting on your phone when in reality you are not.
+[00:32:18.724 --> 00:32:20.965]  The brief amount of time that we've got and we'll cover this when we come back.
+[00:32:21.846 --> 00:32:28.050]  The Senate is now saying that they think they might be able to do something with Obamacare in August.
+[00:32:29.295 --> 00:32:32.178]  Did they not know that we wanted something done with Obamacare?
+[00:32:32.698 --> 00:32:51.875]  We had an election where we gave the House a majority to fix Obamacare, then we gave the Republicans a majority in the Senate to fix Obamacare, then we elected a president to fix Obamacare, then they passed a bill in the House to fix Obamacare, and now the Senate says, we should take a look at something to fix Obamacare, but we're not going to use what the House has.
+[00:32:52.355 --> 00:32:54.977]  Maybe we'll get it, but we can't be rushed.
+[00:32:55.498 --> 00:32:56.759]  Okay, stay with us, we'll be right back.
+[00:33:02.648 --> 00:33:03.989]  Why is the fungus?
+[00:33:04.049 --> 00:33:05.010]  Why is the mold?
+[00:33:05.130 --> 00:33:06.592]  Why is the yeast taking over?
+[00:33:06.892 --> 00:33:07.713]  What is going on?
+[00:33:07.853 --> 00:33:08.634]  What has changed?
+[00:33:09.034 --> 00:33:11.236]  Dr. Group, the new product will sell out definitely in days.
+[00:33:11.437 --> 00:33:13.158]  You've been testing it for almost a decade.
+[00:33:13.178 --> 00:33:16.762]  You've got rave reviews from your patients who've been taking it privately at your clinics.
+[00:33:17.002 --> 00:33:17.462]  MycoCX.
+[00:33:18.183 --> 00:33:18.803]  We're good to go.
+[00:33:44.100 --> 00:33:49.044]  You know, there can be some responses to this as you're flushing it, but why is this product so powerful?
+[00:33:49.084 --> 00:33:49.644]  What does it do?
+[00:33:49.925 --> 00:33:53.827]  So, we've been doing research just like you have on what's currently going on.
+[00:33:54.088 --> 00:34:01.453]  Obviously, we stay ahead of the game because our job is to protect and address the root cause of the problem, which is why I've been... And we want stuff for our own kids.
+[00:34:02.054 --> 00:34:04.656]  Well, we've been... This is why we've addressed...
+[00:34:05.416 --> 00:34:13.203]  The President, you know, let's address the root cause of America's health problems, but getting back to fungus, it's becoming an increasing epidemic that's only getting worse.
+[00:34:13.223 --> 00:34:16.145]  It's killing bats everywhere, other animals, squirrels are dying.
+[00:34:16.185 --> 00:34:18.607]  Funguses were used as bioweapons to wipe out rice fields.
+[00:34:18.627 --> 00:34:20.329]  So why is it suddenly killing so many mammals?
+[00:34:20.649 --> 00:34:27.912]  Yeah, fungus is a growing epidemic and I've been testing this formula and making changes to this formula for over 10 years.
+[00:34:28.393 --> 00:34:37.197]  I've had nobody, here's the thing Alex, when you go to the doctor with a list of symptoms, you can look at symptoms of fungus overgrowth in the body.
+[00:34:37.757 --> 00:34:40.679]  It's going to show, you're going to pull up over a hundred symptoms.
+[00:34:40.759 --> 00:34:45.402]  Everything from brain fog, lack of energy, insomnia, headaches, bowel problems.
+[00:34:45.423 --> 00:34:45.883]  Joint pain.
+[00:34:46.103 --> 00:34:46.843]  It's joint pain.
+[00:34:46.904 --> 00:34:48.124]  It's linked to Crohn's disease.
+[00:34:48.164 --> 00:34:48.705]  Infertility.
+[00:34:48.725 --> 00:34:49.866]  What about the obesity epidemic?
+[00:34:50.186 --> 00:34:51.887]  I know they test people that are really obese.
+[00:34:52.708 --> 00:34:54.689]  They're just colonized by fungus.
+[00:34:55.369 --> 00:34:56.230]  Yeast overgrowth.
+[00:34:56.250 --> 00:35:00.933]  I have a study right here by Jacob Titobaum at the Fibromyalgia and Fatigue Center in Dallas.
+[00:35:00.973 --> 00:35:05.597]  Yeast overgrowth is linked to an average weight gain of 32 and a half pounds.
+[00:35:06.357 --> 00:35:07.218]  What doctor?
+[00:35:07.238 --> 00:35:09.380]  By the way, folks, look, I'm not bragging.
+[00:35:09.601 --> 00:35:11.162]  We game-changed the presidency.
+[00:35:11.223 --> 00:35:12.724]  We game-changed the New World Order.
+[00:35:13.005 --> 00:35:14.606]  Globalism is falling because of you.
+[00:35:14.726 --> 00:35:15.728]  You are the Infowar.
+[00:35:16.388 --> 00:35:17.930]  Listen, this is religious for me.
+[00:35:19.432 --> 00:35:21.975]  I do not bring you something unless I absolutely believe it.
+[00:35:23.078 --> 00:35:26.761]  If we were reigned with a billion dollars, I would turn 99% of it against the enemy.
+[00:35:27.742 --> 00:35:28.763]  I want to defeat them.
+[00:35:28.863 --> 00:35:29.904]  I'm ready to give my life.
+[00:35:29.924 --> 00:35:31.085]  Everybody knows that against the enemy.
+[00:35:31.606 --> 00:35:32.066]  Please.
+[00:35:32.907 --> 00:35:34.328]  We only have a limited supply of this.
+[00:35:34.768 --> 00:35:35.469]  I want to get your reviews.
+[00:35:35.489 --> 00:35:36.290]  I want to hear what you have to say.
+[00:35:36.330 --> 00:35:37.210]  For me, it's been incredible.
+[00:35:37.771 --> 00:35:42.235]  MycoZX antifungal, antifungus, anti-yeast.
+[00:35:42.295 --> 00:35:43.035]  Get it today.
+[00:35:43.136 --> 00:35:43.596]  Limited run.
+[00:35:43.616 --> 00:35:44.617]  It'll be months till we get more.
+[00:35:45.017 --> 00:35:46.759]  Infowarsstore.com, Infowarslife.com.
+[00:35:47.379 --> 00:35:48.901]  Let's go to Debit in Florida.
+[00:35:48.921 --> 00:35:50.863]  Debit in Florida, you're on the air.
+[00:36:08.945 --> 00:36:09.305]  Great!
+[00:36:09.385 --> 00:36:10.386]  Hey, thank you so much.
+[00:36:10.526 --> 00:36:14.889]  Listen, I have bought your products and I gotta say they're amazing.
+[00:36:15.049 --> 00:36:24.135]  Anyone who's on the fence, buy it because I've got Caveman, Superman Vitality, Secret Swirl, Platinum Interfusion, I've got the Body Armor.
+[00:36:24.155 --> 00:36:24.895]  Wow, thank you.
+[00:36:24.915 --> 00:36:27.497]  You're the type of listener that makes it all possible.
+[00:36:27.557 --> 00:36:29.138]  Which nutraceutical does he like best?
+[00:36:29.378 --> 00:36:32.720]  I really like the Vitamin Mineral Fusion, to be honest.
+[00:36:32.840 --> 00:36:33.220]  That's amazing.
+[00:36:33.240 --> 00:36:33.900]  That's really incredible.
+[00:36:34.120 --> 00:36:37.162]  I drank it in the morning and I swear to you, I felt incredible.
+[00:36:37.182 --> 00:36:38.423]  Like, I haven't felt this week.
+[00:36:38.543 --> 00:36:40.123]  My morning was fantastic.
+[00:36:40.183 --> 00:36:41.284]  And I love you guys.
+[00:36:41.304 --> 00:36:42.885]  I love the InfoWars crew.
+[00:36:43.585 --> 00:36:50.308]  And I just want to, yeah, I want to take this opportunity to tell anybody out there who's on the fence, just buy it.
+[00:36:50.469 --> 00:36:51.289]  You will love it.
+[00:36:51.489 --> 00:36:53.310]  I'm telling you, I've never bought a bad product.
+[00:36:53.630 --> 00:36:57.973]  What you find in our news is the same thing you find in our products at Infowarslife.com.
+[00:36:58.053 --> 00:36:59.954]  It's a win-win, Infowarslife.com.
+[00:37:07.538 --> 00:37:12.982]  We are now joined by Omar Navarro, who is running against Maxine Waters in California.
+[00:37:13.062 --> 00:37:20.166]  And Omar, boy, you have got to love the public image that Maxine Waters has been presenting herself as of late.
+[00:37:21.963 --> 00:37:22.984]  Yeah.
+[00:37:23.164 --> 00:37:24.524]  You know, my name is Omar Navarro.
+[00:37:24.544 --> 00:37:27.086]  I'm running for Congress in the 43rd Congressional District.
+[00:37:27.386 --> 00:37:28.967]  I'm glad to be back here today.
+[00:37:29.167 --> 00:37:31.408]  Thank you, Owen, for having me on and for your support.
+[00:37:31.948 --> 00:37:34.189]  You guys have been doing a good job of getting my name out there.
+[00:37:34.530 --> 00:37:36.431]  I'm very thankful for what you guys are doing.
+[00:37:36.871 --> 00:37:40.633]  I'm also thankful for a lot of other people, like my other friends from the Red Elephants.
+[00:37:40.653 --> 00:37:41.533]  They're helping out also.
+[00:37:41.553 --> 00:37:44.455]  They're getting my name out there and it's helping out in a big way.
+[00:37:45.250 --> 00:37:54.997]  Well, while you're actually campaigning right now, which, by the way, folks, if you're trying to drain the swamp and you want to run against one of these swamp creatures, Omar Navarro's campaign is paving the way right now, folks.
+[00:37:55.097 --> 00:37:55.837]  You're doing a great job.
+[00:37:56.177 --> 00:38:04.583]  While you're out campaigning, while you're out meeting with people in your district, actually trying to work for the people, find out what they want, Maxine Waters is on the Hill doing interviews.
+[00:38:04.823 --> 00:38:09.446]  She's, you know, wasting her time on Washington, looking into Russian collusion.
+[00:38:09.847 --> 00:38:14.530]  I mean, I'm sitting here and I'm thinking that she is handing this to you, Omar, but you're still working your tail off.
+[00:38:15.919 --> 00:38:17.461]  Yeah, you have to go out to the community.
+[00:38:17.501 --> 00:38:18.862]  You have to show people that you care.
+[00:38:19.223 --> 00:38:27.852]  If you're not going out there and you're not interacting with individuals, you're not walking, you're not going to get that hand-in-hand interaction with them.
+[00:38:27.912 --> 00:38:31.276]  You have to understand what's going on and the issues in the different parts of the district.
+[00:38:31.576 --> 00:38:34.940]  I mean, in my district, you have a city called Westmont.
+[00:38:35.180 --> 00:38:37.803]  Westmont has one of the biggest homicide rates in the country.
+[00:38:38.503 --> 00:38:39.444]  That's concerning to me.
+[00:38:39.464 --> 00:38:41.285]  It should be concerning to anybody who lives there.
+[00:38:41.585 --> 00:38:43.507]  People don't want crime in their communities.
+[00:38:43.527 --> 00:38:48.090]  They don't want to go into a park where you see a bunch of gang members in hardcore gangbangers.
+[00:38:48.370 --> 00:38:49.191]  You don't want to go there.
+[00:38:49.371 --> 00:38:50.672]  You want to go into a safe park.
+[00:38:50.712 --> 00:38:52.052]  You want to go into a safe community.
+[00:38:52.453 --> 00:38:57.376]  You're going to stay in your home and then you're going to go to communities that are better because your community is not doing too good.
+[00:38:57.736 --> 00:38:58.797]  So my whole goal
+[00:38:58.817 --> 00:38:59.698]  We're good to go.
+[00:39:11.857 --> 00:39:14.237]  And you're actually putting in the groundwork right now.
+[00:39:14.457 --> 00:39:21.939]  If you follow Omar on Twitter, PressGOP, you can see how he's going and meeting with these people and campaigning right now for the district.
+[00:39:22.099 --> 00:39:24.699]  Actually, the people in the district, because that's who he's concerned about.
+[00:39:25.140 --> 00:39:28.760]  And you told me, you said, hey look, Owen, we got a serious issue in this district.
+[00:39:29.100 --> 00:39:31.101]  You know, we've got violence and we've got poverty.
+[00:39:31.661 --> 00:39:32.381]  I want to talk about this.
+[00:39:32.401 --> 00:39:33.261]  I want to raise these issues.
+[00:39:33.581 --> 00:39:35.942]  You know, Maxine Waters is in the spotlight every day.
+[00:39:35.962 --> 00:39:37.782]  I haven't heard her mention that once.
+[00:39:39.955 --> 00:39:42.617]  Yeah, I mean, there's serious concerns in the district.
+[00:39:42.677 --> 00:39:45.299]  I mean, there's a lot of concerns that are going on currently right now.
+[00:39:45.960 --> 00:39:49.202]  You have a lot of things that haven't been taken care of in years.
+[00:39:49.582 --> 00:40:03.353]  You have also the effects of the broken windows theory when you throw trash in the ground and the trash falls and people start throwing more trash and more trash and communities become broken because of people not caring about the communities.
+[00:40:03.633 --> 00:40:08.437]  But you have to have leaders that are in communities that inspire people to care about the community.
+[00:40:09.097 --> 00:40:13.719]  And when you don't live in a district that you represent, it's very hard to do that.
+[00:40:14.380 --> 00:40:24.764]  I live in my district that I represent, and I'm doing everything I can to reach out to voters, to talk to people, to educate people, to engage in their communities, to get involved.
+[00:40:24.884 --> 00:40:26.705]  I'm a traffic commissioner in the city of Torrance.
+[00:40:27.225 --> 00:40:31.387]  I'm involved with traffic issues, but I'm helping out whatever way I can.
+[00:40:31.407 --> 00:40:33.808]  I'm serving my community, and that's what we've got to do.
+[00:40:33.829 --> 00:40:36.830]  We've got to have people that are proactive and not just talking about it.
+[00:40:37.452 --> 00:40:48.077]  Well, Omar, I don't even know if you realize how effective that you've been lately, and I think that the proof is in the fact that you can see all the funding that's coming into Maxine Waters right now.
+[00:40:48.177 --> 00:40:49.097]  I mean, it's unbelievable.
+[00:40:49.137 --> 00:40:50.138]  She's getting more funds.
+[00:40:50.478 --> 00:40:52.319]  They're obviously planning on running her again.
+[00:40:52.479 --> 00:40:54.080]  They haven't made any statements against that.
+[00:40:54.520 --> 00:40:55.700]  And they're propping her up.
+[00:40:56.001 --> 00:41:03.564]  They're propping her up as millennial anti-Maxine, the hero of the left, when she's done nothing for her district at all.
+[00:41:03.884 --> 00:41:05.205]  It must frustrate you, Omar.
+[00:41:05.905 --> 00:41:10.835]  Being from the district, working in the district, and having a complete lack of representation there.
+[00:41:12.799 --> 00:41:15.545]  Maxine Waters calls herself a millennial candidate.
+[00:41:16.329 --> 00:41:17.850]  And she also calls herself a millennial.
+[00:41:18.011 --> 00:41:20.212]  Well, first of all, I'm a real millennial.
+[00:41:20.733 --> 00:41:22.614]  Maxine Waters is not a millennial candidate.
+[00:41:23.015 --> 00:41:30.060]  Because if you see some of the events that I've gone to, I have extreme amount of support from millennials.
+[00:41:30.641 --> 00:41:33.243]  So, who really is the millennial candidate here?
+[00:41:33.723 --> 00:41:35.465]  People are not talking about this campaign.
+[00:41:35.805 --> 00:41:37.467]  People need to put this campaign out there.
+[00:41:37.767 --> 00:41:38.748]  We need to put it out there.
+[00:41:39.048 --> 00:41:40.169]  We need to make it go viral.
+[00:41:40.529 --> 00:41:45.093]  People need to realize that there's someone out there who is challenging Maxine Waters.
+[00:41:45.573 --> 00:41:50.078]  And the person that's challenging Maxine Waters is going to go out there and take action.
+[00:41:50.458 --> 00:41:51.239]  I'm taking action.
+[00:41:51.800 --> 00:41:53.261]  I'm here and I'm doing it daily.
+[00:41:53.842 --> 00:41:57.005]  We're supporting the president and what he's doing in his policies.
+[00:41:57.346 --> 00:42:01.370]  We have to make sure that we are working with the administration in order to get the job done.
+[00:42:01.890 --> 00:42:04.472]  Working against the administration is not going to get the job done.
+[00:42:04.732 --> 00:42:05.813]  We have to get the job done.
+[00:42:06.093 --> 00:42:09.275]  And we have to fix a lot of things that are happening right now in my district.
+[00:42:09.575 --> 00:42:11.757]  Toyota is leaving to Olin, Texas.
+[00:42:12.477 --> 00:42:13.818]  That's not a great thing.
+[00:42:14.159 --> 00:42:15.439]  It's leaving the state of California.
+[00:42:15.600 --> 00:42:17.541]  A lot of businesses are leaving the state of California.
+[00:42:18.401 --> 00:42:21.524]  Everybody else is doing great, but the state of California is failing.
+[00:42:22.004 --> 00:42:24.105]  It's time for us to win, and we're going to win.
+[00:42:24.586 --> 00:42:25.646]  Because I know we're going to win.
+[00:42:25.666 --> 00:42:29.269]  Because I'm doing everything I can to make sure that we're winning in the state of California.
+[00:42:29.289 --> 00:42:30.630]  We're making California great again.
+[00:42:31.058 --> 00:42:33.924]  Yeah, and the budget deficit just came out for the state of California.
+[00:42:33.944 --> 00:42:35.286]  It just gets worse and worse.
+[00:42:35.347 --> 00:42:36.429]  Nobody wants to address that.
+[00:42:36.529 --> 00:42:37.511]  I'm not even kidding, Omar.
+[00:42:37.571 --> 00:42:39.595]  Hearing you say that literally gave me chills, folks.
+[00:42:39.635 --> 00:42:39.835]  Listen.
+[00:42:40.916 --> 00:42:44.259]  Omar is, it's not about Omar's campaign.
+[00:42:44.339 --> 00:42:46.281]  It's not about just beating Maxine Waters.
+[00:42:46.681 --> 00:42:49.083]  It's about Omar is paving the way.
+[00:42:49.543 --> 00:42:54.748]  Omar is showing the path right now to anybody who wants to go up against an establishment politician.
+[00:42:55.148 --> 00:42:56.349]  Omar's doing it the right way.
+[00:42:56.589 --> 00:42:57.550]  He's in the district.
+[00:42:57.770 --> 00:42:59.012]  He's talking to the constituents.
+[00:42:59.212 --> 00:43:00.573]  He's from the district.
+[00:43:00.793 --> 00:43:05.357]  So it's not just about getting Omar in because, hey, I'm a millennial, I support you, I like your campaign.
+[00:43:05.717 --> 00:43:06.118]  It's about
+[00:43:06.698 --> 00:43:13.981]  Taking Omar's example and showing that to the rest of the people in America that, hey, this is how you defeat the swamp creatures.
+[00:43:14.321 --> 00:43:15.502]  This is how you drain the swamp.
+[00:43:15.742 --> 00:43:16.722]  And I salute you, Omar.
+[00:43:17.002 --> 00:43:18.523]  I wish that I could run for office.
+[00:43:18.543 --> 00:43:21.965]  So many times I watch The Hill and I'm just thinking, my goodness, I have to run for office.
+[00:43:22.225 --> 00:43:23.225]  But you're a better guy than me.
+[00:43:23.505 --> 00:43:24.386]  I don't want to go through that.
+[00:43:24.506 --> 00:43:25.666]  I don't want to go through the scrutiny.
+[00:43:25.866 --> 00:43:26.887]  I don't want to go through the media.
+[00:43:27.167 --> 00:43:30.288]  I don't want to have to deal with whatever it is people like Maxine are going to try to throw at me.
+[00:43:30.928 --> 00:43:31.749]  And I'm just curious.
+[00:43:33.015 --> 00:43:34.476]  I think they're really scared of you, Omar.
+[00:43:34.556 --> 00:43:34.996]  I really do.
+[00:43:35.036 --> 00:43:36.277]  I think what you're doing is amazing.
+[00:43:36.658 --> 00:43:40.300]  Have you started to receive any of that backlash?
+[00:43:40.340 --> 00:43:44.423]  Have you started to have it be palpable that they're scared of you, that they want to stop you?
+[00:43:45.697 --> 00:43:54.041]  Yeah, you know, the last time I ran against Maxine Waters, I was actually one of the first candidates that actually put up yard signs in 33 years.
+[00:43:54.881 --> 00:43:57.143]  And that was surprising for a lot of people.
+[00:43:57.183 --> 00:43:59.844]  They saw yard signs, someone actually campaigning against Maxine.
+[00:44:00.924 --> 00:44:03.085]  Some of my yard signs were taken down.
+[00:44:03.105 --> 00:44:03.966]  I would put them up.
+[00:44:05.387 --> 00:44:18.234]  I mean, it was an interesting campaign, but we've learned a lot from that one campaign and we did very well.
+[00:44:18.254 --> 00:44:22.296]  We got 30% of the vote in a 14% registration of Republicans in the district.
+[00:44:23.517 --> 00:44:25.998]  We transpired with other voters and we got a lot of people.
+[00:44:26.018 --> 00:44:26.298]  I spent $6,000.
+[00:44:27.859 --> 00:44:30.862]  She spent $650,000 in her campaign.
+[00:44:30.962 --> 00:44:32.103]  I got 30% of the vote.
+[00:44:32.143 --> 00:44:34.245]  I spent less than 25 cents a vote.
+[00:44:34.565 --> 00:44:36.267]  She spent more than $25 a vote.
+[00:44:36.687 --> 00:44:40.070]  So that tells you right there how strong my campaign is.
+[00:44:40.410 --> 00:44:41.751]  I've been raising more money than ever.
+[00:44:41.791 --> 00:44:45.515]  I'm already at close to $15,000 right now in the past two and a half months.
+[00:44:45.895 --> 00:44:46.636]  That is amazing.
+[00:44:46.696 --> 00:44:47.637]  I'm very thankful.
+[00:44:47.657 --> 00:44:51.860]  I'm very humble that so many people that are out there who are donating to my campaign.
+[00:44:52.160 --> 00:44:53.762]  But it's going to take more money than that.
+[00:44:54.142 --> 00:44:55.602]  I'm going to have to raise a million dollars.
+[00:44:55.762 --> 00:44:56.543]  A million dollars.
+[00:44:57.363 --> 00:45:00.043]  I think it's absurd that we have to raise that amount of money.
+[00:45:00.203 --> 00:45:01.203]  But that's what she's doing.
+[00:45:01.243 --> 00:45:02.404]  That's what your opponent is doing.
+[00:45:02.444 --> 00:45:03.364]  And you're in the ring with her.
+[00:45:03.404 --> 00:45:03.984]  And I salute you.
+[00:45:04.004 --> 00:45:13.386]  And again, I'm trying to put as much attention onto your campaign and this election, not just because I support you and I'm a fellow millennial, but because I think that this is an example.
+[00:45:13.426 --> 00:45:19.067]  Again, I know I'm saying it over and over, but seriously, Omar is paving the way, guys, if you want to try to run against these people.
+[00:45:19.587 --> 00:45:23.168]  But I would say that if we can't get people to realize what you're doing now,
+[00:45:24.324 --> 00:45:33.310]  If you are victorious, which I think you will be, unless they just outright rigged the election, we don't have to get into that now, but if you are victorious, which I believe you will be, I think you'll be an inspiration, Omar.
+[00:45:33.431 --> 00:45:37.674]  I think people will look at your campaign and they'll say, Omar Navarro took down Maxine Waters.
+[00:45:38.134 --> 00:45:39.435]  This is how we can do it.
+[00:45:39.515 --> 00:45:45.539]  So, I just say, all of our InfoWars audience, support Omar, share Omar Navarro, and again, look at what he's doing.
+[00:45:45.619 --> 00:45:49.042]  Omar, talk about your experience with what you're doing with this campaign.
+[00:45:49.843 --> 00:45:54.440]  And how it contrasts what Maxine Waters is doing or not doing with her campaign.
+[00:45:55.464 --> 00:45:56.004]  Yeah.
+[00:45:56.224 --> 00:46:01.365]  It's so amazing that, from my experience and from everything I've been seeing, I mean, I'm so humbled.
+[00:46:01.525 --> 00:46:05.306]  And it's so amazing that so many people are stepping up.
+[00:46:05.646 --> 00:46:07.206]  So many people are helping the campaign.
+[00:46:07.566 --> 00:46:09.107]  We are having weekly meetings.
+[00:46:09.407 --> 00:46:10.627]  We are having weekly meetings.
+[00:46:10.947 --> 00:46:15.148]  And our meetings are about 20-30 people that are just engaged.
+[00:46:15.188 --> 00:46:17.848]  People helping out, organizing, volunteers.
+[00:46:18.089 --> 00:46:20.209]  We're going out registering voters.
+[00:46:20.569 --> 00:46:22.410]  We're going out with goals.
+[00:46:22.570 --> 00:46:26.893]  We have a goal of registering 50,000 voters in the 43rd congressional district.
+[00:46:27.153 --> 00:46:30.976]  We have a goal of talking to 40% of the independents in the district.
+[00:46:31.296 --> 00:46:33.658]  We have a goal of talking to 40% of Republicans.
+[00:46:33.918 --> 00:46:36.159]  We have a goal of talking to 40% of Democrats.
+[00:46:36.500 --> 00:46:37.260]  We are going out.
+[00:46:37.440 --> 00:46:38.341]  We are engaging.
+[00:46:38.461 --> 00:46:39.662]  We are taking action.
+[00:46:39.962 --> 00:46:40.823]  We are doing it.
+[00:46:41.143 --> 00:46:43.184]  We are doing it here in the state of California.
+[00:46:43.224 --> 00:46:45.346]  We're doing it in the 43rd congressional district.
+[00:46:45.866 --> 00:46:46.747]  Enough's enough.
+[00:46:46.967 --> 00:46:48.167]  We have to take action.
+[00:46:48.448 --> 00:46:50.449]  The only way to take action is to get involved.
+[00:46:50.669 --> 00:46:51.950]  That's Omar Navarro, folks.
+[00:46:52.210 --> 00:46:55.592]  If you want to make America great again, it starts with your local elections.
+[00:46:55.832 --> 00:46:57.433]  You want to elect people like Omar.
+[00:46:57.573 --> 00:46:58.514]  Omar, thank you for your time.
+[00:47:08.444 --> 00:47:10.006]  But it goes beyond being prepared.
+[00:47:10.406 --> 00:47:15.412]  Our bodies absolutely must have the good halogen iodine or we will die.
+[00:47:15.772 --> 00:47:21.218]  And you look at all of the thyroid problems and all the people that don't have energy and that have all sorts of hormone problems.
+[00:47:21.618 --> 00:47:28.205]  And from my research and a lot of just mainline research, it leads back to iodine over and over and over again.
+[00:47:28.846 --> 00:47:30.007]  It's as important as vitamin C.
+[00:47:30.848 --> 00:47:32.790]  If you don't get iodine, you die.
+[00:47:33.110 --> 00:47:36.072]  But most people are just efficient, so they're low energy, they're sick.
+[00:47:36.492 --> 00:47:40.115]  You've got to have iodine in your body so that your body can produce the hormones you need.
+[00:47:40.315 --> 00:47:42.877]  It is the base to so many things.
+[00:47:42.917 --> 00:47:55.267]  And since I got into iodine four years ago, we've helped change the entire paradigm by developing and bringing to the public deep earth crystals from 7,000 to 12,000 feet of the purest iodine available.
+[00:47:55.487 --> 00:48:00.611]  Other iodine comes from the ocean or from other byproducts of chemical facilities, and it's tainted.
+[00:48:00.711 --> 00:48:02.233]  It's bound.
+[00:48:02.333 --> 00:48:03.334]  It's not absorbable.
+[00:48:03.754 --> 00:48:08.338]  I tried it, and I had incredible effects, even with dirty iodine, because the body needs it.
+[00:48:08.538 --> 00:48:13.462]  When you don't have iodine, it absorbs the chlorine, the fluoride, and all these other bad halogens.
+[00:48:13.943 --> 00:48:18.847]  Do yourself and your family a favor and check out the importance of iodine for yourself.
+[00:48:18.927 --> 00:48:20.068]  I think you're going to be blown away.
+[00:48:20.228 --> 00:48:22.830]  And whatever you do, support the broadcast and get a bottle.
+[00:48:22.970 --> 00:48:23.230]  Of course!
+[00:48:45.811 --> 00:48:48.433]  You've got to have vitamin C. You've got to have iodine to live.
+[00:48:48.453 --> 00:48:49.494]  You've got to have water to live.
+[00:48:49.814 --> 00:48:50.515]  Iodine is key.
+[00:48:50.555 --> 00:48:51.175]  You must have it.
+[00:48:51.536 --> 00:48:59.082]  But consult your physician first before you get powerful survival shield nascent iodine X2 at Infowarslife.com or call toll free.
+[00:48:59.102 --> 00:49:01.424]  We can answer your questions.
+[00:49:01.444 --> 00:49:01.744]  888-253-3139.
+[00:49:01.964 --> 00:49:10.371]  The chaos gripping Washington D.C.
+[00:49:10.491 --> 00:49:14.535]  after James Comey's firing is unfiltered turmoil.
+[00:49:19.238 --> 00:49:19.659]  Or is it?
+[00:49:19.979 --> 00:49:23.983]  As one senator said of Comey, he was as popular as cholera.
+[00:49:24.083 --> 00:49:39.858]  Yet Democrats are attempting to hold the high ground, brandishing Comey's firing as Nixonian in nature, a total conspiracy based on the notion that Trump is heavy-handedly clearing any possibility of being ensnared in the never-ending Russia investigation.
+[00:49:40.879 --> 00:49:43.701]  The timing of Director Comey's dismissal raises serious questions.
+[00:49:43.781 --> 00:49:49.644]  And President Trump's decision to abruptly fire the man leading an investigation that could implicate the Trump administration should shock the conscience
+[00:50:10.552 --> 00:50:16.955]  Of every American who believes that no man or woman is above the law.
+[00:50:18.276 --> 00:50:22.598]  Was there classified information on former Congressman Weiner's computer?
+[00:50:22.858 --> 00:50:23.058]  Yes.
+[00:50:24.279 --> 00:50:25.219]  Who sent it to him?
+[00:50:26.840 --> 00:50:38.126]  His then spouse, Huma Abedin, appears to have had a regular practice of forwarding emails to him for him, I think, to print out for her so she could then deliver them to the Secretary of State.
+[00:50:38.786 --> 00:50:45.869]  Did former Congressman Weiner read the classified material?
+[00:50:46.689 --> 00:50:47.509]  I don't think so.
+[00:50:48.009 --> 00:50:58.693]  I don't think we've been able to interview him because he has pending criminal problems of other sorts, but my understanding is that his role would be to print them out as a matter of convenience.
+[00:50:59.073 --> 00:51:01.314]  If he did read them, would he have committed a crime?
+[00:51:02.815 --> 00:51:03.435]  Potentially.
+[00:51:04.835 --> 00:51:06.536]  Would his spouse have committed a crime?
+[00:51:07.742 --> 00:51:08.603]  Again, potentially.
+[00:51:08.623 --> 00:51:10.004]  It would depend upon a number of things.
+[00:51:10.544 --> 00:51:13.426]  Is there an investigation with respect to the two of them?
+[00:51:14.487 --> 00:51:15.108]  There was.
+[00:51:15.128 --> 00:51:15.668]  It is.
+[00:51:16.028 --> 00:51:16.669]  We completed it.
+[00:51:17.589 --> 00:51:19.911]  Why did you conclude neither of them committed a crime?
+[00:51:20.972 --> 00:51:22.713]  Because with respect to Ms.
+[00:51:22.793 --> 00:51:29.178]  Abbott in particular, we didn't have any indication that she had a sense that what she was doing was in violation of the law.
+[00:51:31.000 --> 00:51:32.621]  Couldn't prove any sort of criminal intent.
+[00:51:35.339 --> 00:51:51.009]  Really, the central problem we have with the whole email investigation was proving that people knew, the secretary and others, knew that they were communicating about classified information in a way that they shouldn't be, and proving that they had some sense that they were doing something unlawful.
+[00:51:51.069 --> 00:51:53.150]  That was our burden, and we weren't able to meet it.
+[00:51:56.092 --> 00:51:59.194]  So she thought it was okay to send her husband the information?
+[00:52:00.754 --> 00:52:03.496]  Well, I think, I don't want to get too much into what she thought.
+[00:52:03.796 --> 00:52:04.717]  We could not prove
+[00:52:05.498 --> 00:52:14.086]  That the people sending the information, either in that case or in the other case with the Secretary, were acting with any kind of mens rea, with any kind of criminal intent.
+[00:52:14.702 --> 00:52:28.111]  Under Comey, the FBI dropped the ball on the Boston-bombing Sarnev brothers, Fort Hood massacre psychopath Nidal Hassan, New York City bomber Ahmad Khan Rahami, and Orlando nightclub shooter Omar Mateen.
+[00:52:28.371 --> 00:52:32.233]  Under Comey, the FBI was found to have been data-mining U.S.
+[00:52:32.273 --> 00:52:43.000]  citizens and clearly regarded Hillary Clinton, Huma Abedin, and Anthony Weiner above the law when it comes to our national security and protection of classified information.
+[00:52:43.120 --> 00:52:47.303]  James Comey is no Boy Scout, although he played one on TV.
+[00:52:47.543 --> 00:52:54.149]  LaRouchePAC.com writes, Not only is the Attorney General of the United States, Loretta Lynch, the U.S.
+[00:52:54.229 --> 00:53:01.134]  Attorney who gave drug money laundering bank HSBC a free pass with a deferred prosecution agreement,
+[00:53:01.314 --> 00:53:01.494]  What's
+[00:53:16.371 --> 00:53:17.492]  Thanks for watching!
+[00:53:33.487 --> 00:53:33.827]  Get it?
+[00:53:34.087 --> 00:53:43.274]  The Attorney General of the United States and the head of the FBI are both part of the deal that let HSBC off the hook.
+[00:53:43.574 --> 00:54:00.425]  President Trump's bombshell announcement may have been a bit much for the protocol following Washington D.C., but anyone that has been following James Comey's hostage-taking of the FBI Director's Office in order to serve the elite agenda wanted him fired years ago.
+[00:54:00.685 --> 00:54:02.546]  John Bowne for InfoWars.com
+[00:54:07.290 --> 00:54:14.076]  Now, as I said earlier, the Senate has decided that maybe they should start looking at Obamacare, but they don't think they're going to have anything in August.
+[00:54:14.156 --> 00:54:18.999]  Meanwhile, we have Aetna leaving the last of its Obamacare markets.
+[00:54:19.039 --> 00:54:28.927]  Remember, it was just a month or so ago that we had Humana and Aetna planning to do a merger, and both of them were losing massive amounts of money in Obamacare.
+[00:54:29.308 --> 00:54:31.590]  Now, when that merger failed,
+[00:54:32.270 --> 00:54:38.033]  Humana said we're getting out of the market and people said we expect Aetna to completely exit as well.
+[00:54:38.093 --> 00:54:40.575]  What was behind that merger that was so important?
+[00:54:41.175 --> 00:54:47.379]  They wanted to create a situation with the insurance companies that was created with the banks when they all merged.
+[00:54:47.419 --> 00:54:48.800]  They became too big to fail.
+[00:54:49.620 --> 00:54:55.203]  And they knew at the time that if they became too big to fail, the government would bail them out and then they would be the providers to everyone.
+[00:54:55.243 --> 00:54:57.064]  And now we see what is happening with this.
+[00:54:57.084 --> 00:55:05.709]  As Aetna is moving out of this market, and they used to be in the market in 15 states, today they announced plans to pull out of the final two states that they were in, Delaware and Nebraska.
+[00:55:05.749 --> 00:55:08.451]  They had already talked about getting out of the other markets.
+[00:55:09.151 --> 00:55:14.054]  But also we saw the CEO of Aetna calling for a debate about single-payer health care.
+[00:55:15.066 --> 00:55:16.367]  That is where this is going.
+[00:55:16.447 --> 00:55:21.470]  That's what Hillary Clinton wanted when she tried to take over health care, was single-payer health care.
+[00:55:22.131 --> 00:55:24.813]  And what is happening with this, what's behind all this?
+[00:55:24.913 --> 00:55:26.173]  It's crony capitalism, folks.
+[00:55:26.193 --> 00:55:27.554]  Listen to the CEO of Aetna.
+[00:55:27.875 --> 00:55:39.983]  He said, if the government wants to pay all the bills and employers want to stop offering coverage, we can be there in a public-private partnership to do the work that we do today with Medicare, with Medicaid, at every state level.
+[00:55:40.423 --> 00:55:41.784]  It's crony capitalism, folks.
+[00:55:42.324 --> 00:55:43.585]  That is where this is all headed.
+[00:55:43.605 --> 00:55:44.926]  And we told you from the very beginning.
+[00:55:45.426 --> 00:55:47.368]  That Obamacare was designed to fail.
+[00:55:47.768 --> 00:55:50.130]  They wanted it to fail so the government could take it over.
+[00:55:50.150 --> 00:55:51.451]  But not the government alone.
+[00:55:51.491 --> 00:55:55.434]  The government was going to cut in its corporate friends to profit.
+[00:55:55.494 --> 00:55:56.895]  The people who give them all the money.
+[00:55:57.475 --> 00:56:01.699]  The people who pay them a half million dollars to make speeches after they get out of the government.
+[00:56:02.199 --> 00:56:07.343]  Those people, the crony capitalists, the private-public partnership that rapes us continually.
+[00:56:07.663 --> 00:56:11.666]  And of course they clarified this and said, well the CEO was certainly not advocating for a single-payer system.
+[00:56:12.086 --> 00:56:13.007]  That's where they're going.
+[00:56:13.227 --> 00:56:14.828]  We told you this from the very beginning.
+[00:56:15.388 --> 00:56:25.516]  And they went ahead and said he was instead indicating his openness to debating it while pointing out that public-private partnerships have been the backbone of the more successful government health care programs.
+[00:56:26.136 --> 00:56:27.377]  That is truly where this is headed.
+[00:56:28.057 --> 00:56:29.879]  And as we look at what's happened this last week,
+[00:56:30.751 --> 00:56:32.411]  With the firing of James Comey.
+[00:56:32.631 --> 00:56:43.774]  And I think it's kind of interesting because the news articles have pointed out that it's not really something that the public is as interested in as the media and the politicians are interested.
+[00:56:44.314 --> 00:56:46.815]  You know, Rush Limbaugh said earlier in the week, he said, this was not a coup.
+[00:56:46.995 --> 00:56:48.316]  Nobody replaced the president.
+[00:56:49.236 --> 00:56:51.956]  It wasn't a coup when Richard Nixon fired a bunch of people.
+[00:56:52.016 --> 00:56:53.057]  And in a sense, he's right.
+[00:56:53.277 --> 00:56:53.697]  He is right.
+[00:56:54.177 --> 00:56:55.137]  The president didn't change.
+[00:56:55.177 --> 00:56:57.358]  The government at the top didn't change as far as you know.
+[00:56:58.203 --> 00:57:04.749]  But see, the people in Washington, the bureaucrats, the press, they believe they are the government.
+[00:57:04.869 --> 00:57:08.752]  The unelected bureaucracies are the government in their minds.
+[00:57:09.333 --> 00:57:11.635]  And so to them, this was a coup.
+[00:57:12.295 --> 00:57:19.922]  To them, this was merely the figurehead that is a representative of you great unwashed out there in America.
+[00:57:20.602 --> 00:57:25.386]  That figurehead took one of the leaders of their government out.
+[00:57:26.247 --> 00:57:29.048]  So to them it was a coup because they are the real government.
+[00:57:29.488 --> 00:57:37.011]  And I just want to remind you that when we look at the situation with Comey saying, Hillary Clinton did all these felonies but we're not going to prosecute her for it.
+[00:57:37.231 --> 00:57:39.712]  No, not really any bad intent or anything like that.
+[00:57:40.192 --> 00:57:42.753]  Even though that's not a part of the statute, even though she did have intent.
+[00:57:43.133 --> 00:57:48.555]  But remember that it was James Comey who prosecuted Martha Stewart for insider trading.
+[00:57:48.995 --> 00:57:50.276]  And then everybody said, but wait a minute.
+[00:57:50.996 --> 00:57:55.839]  People like Nancy Pelosi and all these other congressmen, they're doing insider trading all the time.
+[00:57:56.279 --> 00:57:59.541]  They're allowed to make millions off of insider trading.
+[00:57:59.601 --> 00:58:02.862]  They can tank an entire industry and so can the Federal Reserve folks.
+[00:58:02.902 --> 00:58:04.483]  That's the whole point of the Federal Reserve.
+[00:58:05.123 --> 00:58:08.605]  But they can do this kind of insider trading all the time and nothing ever happens to them.
+[00:58:09.046 --> 00:58:12.567]  And it was James Comey who said Martha Stewart is going to go to jail.
+[00:58:13.488 --> 00:58:14.989]  But not Nancy Pelosi.
+[00:58:15.249 --> 00:58:17.090]  Not anybody in Congress who does that.
+[00:58:17.530 --> 00:58:18.891]  That is the real government.
+[00:58:19.713 --> 00:58:22.934]  And that was the coup that happened this week.
+[00:58:23.174 --> 00:58:36.839]  And so now there is a counter coup where the media and the politicians, the Democrat politicians and the establishment Republicans are coming after Donald Trump because he ought to know that you don't ever fire one of these unelected bureaucrats.
+[00:58:37.999 --> 00:58:40.740]  Well that's it for tonight's news and it's been a busy week, hasn't it?
+[00:58:41.260 --> 00:58:44.361]  Join us again on Monday at 7 central, 8 p.m.
+[00:58:44.421 --> 00:58:46.722]  Eastern for the InfoWars Nightly News.
+[00:58:52.778 --> 00:58:54.661]  I don't know.
+[00:59:03.965 --> 00:59:11.048]  I am very proud to announce the introduction of the highest quality InfoWars Biome Defense Probiotic.
+[00:59:11.428 --> 00:59:24.633]  We wanted to come out with the largest spectrum of high quality known probiotics that have been proven to improve overall digestion and health and detoxification in the body.
+[00:59:25.578 --> 00:59:36.813]  Biome Defense is an exclusive blend of 50 billion live and active cultures from over 23 different probiotic strains that are known to support digestion and intestinal function.
+[00:59:37.474 --> 00:59:43.441]  Our researchers are confident that we have been able to develop what will be the leading probiotic on the market.
+[00:59:44.182 --> 00:59:52.573]  Secure your biome defense in ultra strength or regular strength at InfoWarsLife.com today and get started supporting your digestive system naturally.
+[00:59:53.233 --> 01:00:01.424]  We've been testing this formula for years, but this is the limited first run to the public, so please take advantage of it today, support your own health, and support the InfoWar.

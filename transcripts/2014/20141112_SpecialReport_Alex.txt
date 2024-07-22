@@ -1,0 +1,281 @@
+[00:00:07.022 --> 00:00:07.442]  The law works.
+[00:00:07.482 --> 00:00:08.902]  That's why we fought so hard to pass this law, to save
+[00:00:36.448 --> 00:00:51.233]  Folks like John Money, to free families from the pervasive fear that one illness... We've been trying to get into this site since October 1st, on and off again.
+[00:00:51.253 --> 00:00:53.274]  I have to say, it did work a lot more smoothly this morning.
+[00:00:53.314 --> 00:00:57.796]  I got through, I picked my state, I put in all my information, and I got through the whole process in about eight minutes.
+[00:00:58.276 --> 00:01:03.278]  And then it said my status was in progress, so I went to refresh it, and I got the error message.
+[00:01:03.578 --> 00:01:04.178]  That's a tough start.
+[00:01:04.198 --> 00:01:05.960]  That could be the understatement of the year.
+[00:01:06.060 --> 00:01:08.021]  It has been a complete disaster.
+[00:01:08.101 --> 00:01:09.783]  We don't know how many people have enrolled.
+[00:01:09.803 --> 00:01:11.444]  We can't even find anyone who's enrolled.
+[00:01:11.464 --> 00:01:14.326]  The Miami Herald is now calling them urban legends.
+[00:01:14.526 --> 00:01:16.187]  Hey, do you have that Obamacare?
+[00:01:16.788 --> 00:01:17.448]  Obamacare?
+[00:01:17.468 --> 00:01:18.569]  What's that?
+[00:01:19.310 --> 00:01:19.770]  What's that?
+[00:01:19.910 --> 00:01:20.891]  Oh, it's great!
+[00:01:21.011 --> 00:01:21.331]  It's great?
+[00:01:21.712 --> 00:01:22.172]  It's great!
+[00:01:22.492 --> 00:01:24.273]  What is it?
+[00:01:24.514 --> 00:01:27.456]  I started signing up last Thursday and I'm almost done.
+[00:01:28.016 --> 00:01:29.778]  Maybe we should restart it.
+[00:01:34.970 --> 00:01:43.753]  Mr. Park, do you agree that there is a difference between an innocent misstatement of a perceived fact and a deliberate attempt to deceive?
+[00:01:45.634 --> 00:01:45.894]  Yes.
+[00:01:46.794 --> 00:01:54.377]  So do I. When did you first realize that you couldn't keep your health insurance even if you did like it, period?
+[00:01:56.773 --> 00:02:00.014]  So, again, that's kind of a health policy matter.
+[00:02:00.034 --> 00:02:02.134]  It's really outside my lane.
+[00:02:02.574 --> 00:02:08.375]  You don't know when you first realized that you couldn't keep your health insurance even if you liked it, period?
+[00:02:10.336 --> 00:02:11.516]  I don't recall, no.
+[00:02:11.696 --> 00:02:15.557]  I'm going to read to you a quote from Secretary Sebelius.
+[00:02:16.517 --> 00:02:20.978]  She said, and I'll paraphrase it initially, that she was hurried into producing
+[00:02:21.954 --> 00:02:24.916]  A website by October 1st because the law required it.
+[00:02:25.316 --> 00:02:26.837]  Now, I'll read you the direct quote.
+[00:02:26.957 --> 00:02:30.620]  In an ideal world, there would have been a lot more testing.
+[00:02:31.500 --> 00:02:37.284]  We did not have the luxury of that with a law that said it's go time on October 1st.
+[00:02:37.764 --> 00:02:43.368]  Mr. Park, I don't know what ideal world she's referring to, so I'm going to stick with the one we're in.
+[00:02:44.929 --> 00:02:46.430]  What law was she referencing?
+[00:02:46.590 --> 00:02:50.132]  What law required this website to launch on October 1st?
+[00:02:52.617 --> 00:02:54.678]  I can't really speak for Secretary Sebelius.
+[00:02:55.159 --> 00:02:59.641]  I'm not asking you to speak for her, I'm asking you, what law was she referring to?
+[00:02:59.861 --> 00:03:04.743]  Is there a law that required this website to launch on October 1st?
+[00:03:06.704 --> 00:03:12.247]  Again, that's a health policy and legal matter that's not really my... It's actually a legal question.
+[00:03:12.407 --> 00:03:21.091]  Do you know if there's a law that requires this website to launch on October 1st, or do you know whether it was just an arbitrary date that the Administration settled on?
+[00:03:22.339 --> 00:03:23.080]  I actually do not.
+[00:03:24.501 --> 00:03:32.246]  Would you find that to be important, whether or not we really had to go October the 1st, given the fact that we weren't ready to go on October the 1st?
+[00:03:32.726 --> 00:03:37.109]  Would you find that relevant, whether or not we actually had to launch a substandard product?
+[00:03:38.850 --> 00:03:46.175]  Sir, I respectfully am just a technology guy trying to... Don't short yourself.
+[00:03:46.435 --> 00:03:47.916]  You're the smartest one in the room.
+[00:03:48.176 --> 00:03:51.538]  This is the part of the sign-up that is hidden.
+[00:03:52.301 --> 00:03:55.844]  The applicant does not see this, but it is in the source code.
+[00:03:56.605 --> 00:04:10.256]  And what that blue highlighted area that's been circled in red says is, you have no reasonable expectation of privacy regarding any communication or data transiting or stored on this information system.
+[00:04:11.156 --> 00:04:12.217]  Now, Mr. Camp, Ms.
+[00:04:12.257 --> 00:04:15.580]  Campbell and Mr. Slavitt, y'all both said that y'all were HIPAA compliant.
+[00:04:16.000 --> 00:04:19.163]  How in the world can this be HIPAA compliant
+[00:04:20.240 --> 00:04:32.984]  HIPAA is designed to protect the patient's privacy and this explicitly says in order to continue you have to accept this condition that you have no privacy or no reasonable expectation of privacy.
+[00:04:35.925 --> 00:04:39.166]  So sir, that would be a decision made by CMS?
+[00:04:41.127 --> 00:04:43.028]  So you're not, this is news to you?
+[00:04:43.048 --> 00:04:46.529]  You're the main prime contractor!
+[00:04:48.015 --> 00:04:49.296]  You've never seen this before?
+[00:04:49.796 --> 00:04:54.519]  Sir, we are one of the prime contractors, yes.
+[00:04:54.939 --> 00:04:56.020]  Have you seen this before?
+[00:04:56.100 --> 00:04:59.362]  Are you aware this was in the source code?
+[00:04:59.582 --> 00:05:01.923]  Are you aware this was in the source code, yes or no?
+[00:05:02.143 --> 00:05:02.383]  Yes.
+[00:05:02.604 --> 00:05:03.784]  You were aware, okay.
+[00:05:04.505 --> 00:05:06.266]  Do you think that's HIPAA compliant?
+[00:05:07.547 --> 00:05:08.207]  How can that be?
+[00:05:10.834 --> 00:05:12.335]  You know it's not HIPAA compliant.
+[00:05:12.635 --> 00:05:13.095]  Admit it.
+[00:05:13.495 --> 00:05:14.215]  You're under oath.
+[00:05:14.935 --> 00:05:18.457]  Sir, that is CMS's decision to make what?
+[00:05:18.697 --> 00:05:19.837]  I asked if you thought that.
+[00:05:19.877 --> 00:05:23.338]  You just told Mrs. Blackburn that it was HIPAA compliant.
+[00:05:24.319 --> 00:05:26.139]  You know that's not HIPAA compliant.
+[00:05:26.879 --> 00:05:28.620]  You admit that you knew it was in there.
+[00:05:31.661 --> 00:05:40.284]  It may be their decision to hide it, but you're the company, not you personally, but your company is the company that put this together.
+[00:05:41.782 --> 00:05:50.025]  We're telling every American, including all my friends on the Democrat side, and they're huge privacy advocates.
+[00:05:50.945 --> 00:05:53.946]  Diane DeGette is co-chairman of the Privacy Caucus with me.
+[00:05:54.526 --> 00:06:01.509]  But you're telling every American, if you sign up for this or even attempt to, you have no reasonable expectation of privacy.
+[00:06:01.769 --> 00:06:05.350]  That is a direct contradiction to HIPAA, and you know it.
+[00:06:07.451 --> 00:06:08.011]  Yes or no?
+[00:06:11.568 --> 00:06:18.512]  Once again, CMS has us comply to a set of rules and regulations that they've established under our contract.
+[00:06:19.812 --> 00:06:21.493]  And that is a CMS call.
+[00:06:21.633 --> 00:06:23.494]  That is not a contractor call.
+[00:06:24.134 --> 00:06:28.296]  I mean, all you are is a contractor that spent three or four hundred million dollars?
+[00:06:28.977 --> 00:06:29.257]  No.
+[00:06:29.297 --> 00:06:35.120]  So it goes to some amorphous cloud and then it comes back from down on high?
+[00:06:38.542 --> 00:06:39.242]  Who wrote that?
+[00:06:40.450 --> 00:06:42.372]  I am not clear as to who wrote that.
+[00:06:46.356 --> 00:06:47.918]  Let me ask it this way.
+[00:06:47.958 --> 00:06:55.686]  Do you think that should be a requirement to sign up for Obamacare?
+[00:06:55.926 --> 00:06:58.489]  That you give up any reasonable expectation of privacy?
+[00:06:59.284 --> 00:07:01.265]  Sir, that is not my jurisdiction.
+[00:07:01.305 --> 00:07:01.925]  You're a U.S.
+[00:07:01.965 --> 00:07:02.665]  citizen.
+[00:07:02.765 --> 00:07:03.565]  One way or the other.
+[00:07:03.705 --> 00:07:09.187]  If you're signing up on healthcare.gov, your personal information could be accessed by complete strangers.
+[00:07:09.787 --> 00:07:10.948]  It happened to this woman.
+[00:07:11.028 --> 00:07:13.529]  She called customer service when she forgot her password.
+[00:07:14.009 --> 00:07:20.851]  That's when the representative told her three different people were given access to her account, her address, and her social security number.
+[00:07:21.311 --> 00:07:26.973]  What's worse, she was told it would take up to five days to get her personal information offline.
+[00:07:27.073 --> 00:07:31.257]  The problem with this whole debate is, y'all won't tell us who made the decisions.
+[00:07:31.317 --> 00:07:34.401]  I can tell you I did not design this site.
+[00:07:34.441 --> 00:07:35.141]  So who?
+[00:07:35.322 --> 00:07:37.204]  Each piece of that code has been tested.
+[00:07:37.864 --> 00:07:38.645]  Yes or no?
+[00:07:38.805 --> 00:07:39.306]  I don't know.
+[00:07:39.806 --> 00:07:46.253]  But I can tell you that security testing is an ongoing... Amazon would never do this!
+[00:07:46.513 --> 00:07:48.255]  ProFlowers would never do this!
+[00:07:49.016 --> 00:07:50.517]  Kayak would never do this.
+[00:07:51.177 --> 00:07:55.499]  The purpose of Battleground Texas, in simple terms, is to turn Texas blue.
+[00:07:56.120 --> 00:08:02.703]  Because these people think that Texas is a non-voting state, so if they just sign a lot of people up to vote, it'll turn into a democratic state.
+[00:08:02.743 --> 00:08:09.327]  They're using Enroll America and Obamacare as a mechanism to turn Texas into a blue state.
+[00:08:10.327 --> 00:08:17.712]  Bumping up Medicaid eligibility from 100% of poverty line to 133% of poverty line so that some working poor people can get some health insurance.
+[00:08:18.032 --> 00:08:19.053]  What is the objection to that?
+[00:08:19.153 --> 00:08:22.275]  Why does every conservative Republican governor oppose that?
+[00:08:22.395 --> 00:08:23.116]  Explain that to me.
+[00:08:23.652 --> 00:08:25.673]  Ooh, number one, not true.
+[00:08:25.793 --> 00:08:31.095]  Plenty of Republican governors, including Tom Corbett in Pennsylvania, including the Ohio governor.
+[00:08:31.295 --> 00:08:33.636]  There are Republican governors that have expanded Medicaid.
+[00:08:33.656 --> 00:08:34.617]  And they are getting killed.
+[00:08:34.637 --> 00:08:35.177]  Please, please.
+[00:08:35.217 --> 00:08:36.698]  Wait a second, do you like that?
+[00:08:36.718 --> 00:08:37.298]  Spare me.
+[00:08:37.398 --> 00:08:37.738]  Jennifer, do you?
+[00:08:37.758 --> 00:08:39.799]  Spare me that this is a Democrat-Republican thing.
+[00:08:39.839 --> 00:08:44.801]  A Democratic senator says Obamacare could have meltdown, hurt party.
+[00:08:45.201 --> 00:08:45.762]  Well, why?
+[00:08:45.802 --> 00:08:49.884]  The Republican leadership, Boehner, only wants to delay it for a year like Obama.
+[00:08:50.424 --> 00:08:52.845]  The Republican leadership helped write it, Karl Rove.
+[00:08:54.446 --> 00:09:00.832]  Mitt Romney, they're the same ones trying to shut down Libertarian takeover of the Republican Party after Ted Cruz and Rand Paul.
+[00:09:01.352 --> 00:09:02.833]  I mean, what's wrong, Democrats?
+[00:09:02.893 --> 00:09:04.615]  I mean, you're all part of the club!
+[00:09:05.035 --> 00:09:07.057]  Don't you want to hurt your constituents some more?
+[00:09:07.077 --> 00:09:08.398]  Thank you, Mr. Chairman.
+[00:09:08.418 --> 00:09:11.681]  Madam Secretary, you were before the committee in April of last year.
+[00:09:11.721 --> 00:09:17.186]  You assured us all there would be absolutely no more delays in the Affordable Care Act.
+[00:09:17.839 --> 00:09:22.664]  We've seen eight delays since you gave us those assurances, bringing the total now to 35.
+[00:09:22.724 --> 00:09:28.250]  So the question is, I think fairly for our families at home, what other delays should they expect?
+[00:09:28.350 --> 00:09:31.953]  Health and Human Services Secretary Kathleen Sebelius is resigning.
+[00:09:32.153 --> 00:09:36.938]  The majority leader said the bill scores as reducing the deficit $131 billion over the next 10 years.
+[00:09:39.841 --> 00:09:41.001]  First, a little bit about CBO.
+[00:09:41.081 --> 00:09:42.162]  I work with them every single day.
+[00:09:42.882 --> 00:09:43.682]  Very good people.
+[00:09:44.122 --> 00:09:45.062]  Great professionals.
+[00:09:45.423 --> 00:09:46.603]  They do their jobs well.
+[00:09:47.083 --> 00:09:49.904]  But their job is to score what is placed in front of them.
+[00:09:50.564 --> 00:09:55.285]  And what has been placed in front of them is a bill that is full of gimmicks and smoke and mirrors.
+[00:09:55.845 --> 00:09:56.966]  Now, what do I mean when I say that?
+[00:09:57.386 --> 00:10:08.709]  Well, first off, the bill has ten years of tax increases, about half a trillion dollars, with ten years of Medicare cuts, about half a trillion dollars, to pay for six years of spending.
+[00:10:09.369 --> 00:10:11.331]  Now, what's the true 10-year cost of this bill?
+[00:10:11.911 --> 00:10:13.993]  In 10 years, that's $2.3 trillion.
+[00:10:14.573 --> 00:10:15.714]  It does a couple of other things.
+[00:10:16.475 --> 00:10:24.962]  It takes $52 billion in higher Social Security tax revenues and counts them as offsets, but that's really reserved for Social Security.
+[00:10:25.422 --> 00:10:29.466]  So either we're double-counting them, or we don't intend on paying those Social Security benefits.
+[00:10:30.046 --> 00:10:35.949]  It takes $72 billion in claims money from the CLASS Act, that's the Long Term Care Insurance Program.
+[00:10:36.450 --> 00:10:41.793]  It takes the money from premiums that are designed for that benefit and instead counts them as offsets.
+[00:10:42.553 --> 00:10:47.436]  The Senate Budget Committee Chairman said that this is a Ponzi scheme that would make Bernie Madoff proud.
+[00:10:48.176 --> 00:10:50.358]  Now, when you take a look at the Medicare cuts,
+[00:10:51.358 --> 00:10:54.620]  What this bill essentially does, it treats Medicare like a piggy bank.
+[00:10:55.080 --> 00:11:01.824]  It raids a half a trillion dollars out of Medicare, not to short Medicare solvency, but to spend on this new government program.
+[00:11:02.384 --> 00:11:08.508]  Now when you take a look at what this does is, according to the chief actuary of Medicare, he's saying...
+[00:11:09.088 --> 00:11:14.729]  As much as 20% of Medicare's providers will either go out of business or will have to stop seeing Medicare beneficiaries.
+[00:11:15.330 --> 00:11:21.231]  Millions of seniors who have chosen Medicare Advantage will lose the coverage that they now enjoy.
+[00:11:21.811 --> 00:11:28.953]  You can't say that you're using this money to either extend Medicare solvency and also offset the cost of this new program.
+[00:11:29.373 --> 00:11:30.353]  That's double counting.
+[00:11:31.293 --> 00:11:36.895]  First, no matter what you've heard, if you like your doctor or health care plan, you can keep it.
+[00:11:37.751 --> 00:11:41.532]  If you don't have insurance, you'll finally be able to afford insurance.
+[00:11:42.153 --> 00:11:45.914]  And everyone will have the security and stability that's missing today.
+[00:11:46.294 --> 00:11:53.637]  And that means that no matter how we reform healthcare, we will keep this promise to the American people.
+[00:11:54.597 --> 00:11:57.838]  If you like your doctor, you will be able to keep your doctor.
+[00:11:59.575 --> 00:12:07.000]  But for the average person, many folks who don't have health insurance initially, they're going to have to make some choices.
+[00:12:07.300 --> 00:12:11.303]  And they might end up having to switch doctors, in part because they're saving money.
+[00:12:11.423 --> 00:12:17.247]  So if you have something and you like it, and it doesn't meet what the government says you have to have, you cannot keep it.
+[00:12:17.447 --> 00:12:18.528]  And that's not what you said.
+[00:12:18.548 --> 00:12:24.032]  If you had your plan before the enactment of the law in 2010.
+[00:12:24.592 --> 00:12:28.995]  The President, as you know, many times said some variation of this.
+[00:12:29.995 --> 00:12:32.276]  We will keep this promise to the American people.
+[00:12:32.356 --> 00:12:35.896]  If you like your doctor, you will be able to keep your doctor, period.
+[00:12:36.436 --> 00:12:38.177]  Is that promise still operative?
+[00:12:38.577 --> 00:12:49.619]  If you are looking for, if you want coverage from your doctor, a doctor that you've seen in the past and want that, you can look and see if there is a plan in which that doctor participates.
+[00:12:49.679 --> 00:12:53.620]  And that reflects the way that the private insurance system has long worked.
+[00:12:54.249 --> 00:12:56.851]  So is this another promise where he needs to kind of modify?
+[00:12:56.871 --> 00:12:58.011]  Because that's not what he said.
+[00:12:58.051 --> 00:13:00.873]  He said, if you like your doctor, you can keep your doctor, period.
+[00:13:01.133 --> 00:13:07.397]  So a plan that might look cheaper on the exchange, but doesn't include your network, could end up costing you more.
+[00:13:07.497 --> 00:13:08.597]  Of course they're distressed.
+[00:13:08.957 --> 00:13:13.660]  And they don't enjoy the fact that they don't have freedom of choice any longer.
+[00:13:13.900 --> 00:13:16.642]  It's very, very confusing to them.
+[00:13:16.802 --> 00:13:18.023]  It's very distressful.
+[00:13:18.083 --> 00:13:19.083]  They don't know where to turn.
+[00:13:19.463 --> 00:13:21.965]  They still will call us and ask for help.
+[00:13:22.165 --> 00:13:25.466]  People who knew the law as it was being written knew the president wasn't telling the truth.
+[00:13:25.546 --> 00:13:28.588]  The grandfather provision written into the law itself was too narrow.
+[00:13:28.868 --> 00:13:33.290]  And frankly, they wrote a regulation intentionally trying to get people out of the individual market.
+[00:13:33.570 --> 00:13:37.931]  They want the people to go into the exchanges because there's a lot of people in the individual market.
+[00:13:38.111 --> 00:13:41.673]  The whole point of the exchanges is to close down the individual insurance market over time.
+[00:13:41.693 --> 00:13:43.974]  The insurance company, wait a second, the insurance company...
+[00:13:44.514 --> 00:13:50.300]  Insurance companies don't like the individual market as it's constructed.
+[00:13:50.360 --> 00:13:51.281]  They see the future.
+[00:13:51.562 --> 00:13:53.223]  That individual market is going away.
+[00:13:53.283 --> 00:13:55.045]  They don't want to invest in it.
+[00:13:55.105 --> 00:13:57.227]  Let me finish.
+[00:13:57.548 --> 00:14:04.015]  Note the irony that the president is seeking to delay his signature piece of legislation.
+[00:14:04.595 --> 00:14:06.757]  What else has he accomplished since he's been president?
+[00:14:07.418 --> 00:14:08.360]  Except Obamacare.
+[00:14:08.380 --> 00:14:12.386]  That's what he put all of his marbles on, Obamacare, and now he wants to delay it.
+[00:14:12.527 --> 00:14:19.899]  If you need any more evidence how disastrous this healthcare law is, the architect doesn't even want to implement it.
+[00:14:20.470 --> 00:14:28.473]  On average, rates will increase 14.5% for Blue Cross Blue Shield plans and 11.9% for Wellmark Health plans.
+[00:14:29.074 --> 00:14:34.456]  In its filing, Wellmark cites new requirements under the Affordable Care Act as one reason for the increases.
+[00:14:34.556 --> 00:14:39.978]  People are starting to get their estimates back from Obamacare and they're seeing that, of course, their insurance rates are doubling.
+[00:14:40.018 --> 00:14:40.979]  That's just for starters.
+[00:14:41.359 --> 00:14:42.539]  That's just the beginning.
+[00:14:42.559 --> 00:14:44.040]  They're going to continue to go up from there.
+[00:14:44.060 --> 00:14:45.941]  You think they're going to go down on your insurance rates?
+[00:14:46.461 --> 00:14:48.042]  They never go down on insurance rates.
+[00:14:49.172 --> 00:14:50.712]  But of course it's there to help the poor.
+[00:14:51.493 --> 00:14:55.974]  We found out yesterday that they're actually looking at credit scores.
+[00:14:56.034 --> 00:14:58.415]  Now today we've got some interesting walk back on that.
+[00:14:58.455 --> 00:15:01.235]  That was a lead navigator that came up with that story.
+[00:15:01.756 --> 00:15:03.696]  Today she's trying to walk that back.
+[00:15:03.716 --> 00:15:05.837]  We're going to take a look at that in the next segment.
+[00:15:06.337 --> 00:15:13.439]  But the question is, if they're going to look at credit scores, and that's going to be a basis, what she said yesterday, we're going to go with what she said yesterday.
+[00:15:13.999 --> 00:15:21.782]  Because she was one of the lead navigators or the lead navigator in Florida after she talked at some length with reporters about that.
+[00:15:22.483 --> 00:15:24.804]  She came back the next day and tried to walk that back.
+[00:15:25.844 --> 00:15:29.726]  I think the real true story is what she really came out with at the beginning.
+[00:15:30.426 --> 00:15:31.586]  And what she said was that
+[00:15:33.001 --> 00:15:39.563]  They were going, the insurance provider could look at your credit score and decide if they don't want you in their health insurance plan.
+[00:15:40.263 --> 00:15:42.304]  That the insurance company is going to make that call.
+[00:15:43.124 --> 00:15:47.766]  See, the insurance companies are not allowed to exclude somebody because they've got a pre-existing condition.
+[00:15:48.917 --> 00:16:02.040]  Do you think that maybe if somebody's had cancer or a major illness, let's say open heart surgery, whatever, as expensive as that is, as expensive as it is even with your deductible, do you think that they might have a credit problem?
+[00:16:02.280 --> 00:16:03.640]  Big news today from the U.S.
+[00:16:03.680 --> 00:16:04.261]  Supreme Court.
+[00:16:04.301 --> 00:16:09.502]  The justices announcing they will review another controversial part of Obamacare.
+[00:16:09.542 --> 00:16:14.723]  It involves tax credit subsidies for policies bought through Obamacare health exchanges
+[00:16:15.403 --> 00:16:29.669]  What this case is about is whether the people in those 34 states can get subsidies for their health insurance and already something like 4 million people have already gotten subsidies for their health insurance.
+[00:16:30.029 --> 00:16:38.252]  So the question is, will those 4 million people or so keep their health insurance if the Obama administration loses this case?
+[00:16:39.253 --> 00:16:41.134]  Again, this will work its way through the legal process.
+[00:16:41.594 --> 00:16:44.335]  We continue to have high confidence in
+[00:16:44.735 --> 00:16:47.777]  This case that the Supreme Court has just taken is really pretty funny.
+[00:16:47.797 --> 00:16:48.458]  It's about Obamacare.
+[00:16:48.478 --> 00:16:50.399]  And when the Obamacare said that you only got the subsidies
+[00:17:14.674 --> 00:17:17.176]  If your exchange was set up by the state.
+[00:17:17.636 --> 00:17:18.757]  The words are very clear.
+[00:17:18.857 --> 00:17:20.138]  They're not equivocal at all.
+[00:17:20.919 --> 00:17:25.982]  And they want people to... But most of the states didn't sign up for it.
+[00:17:26.783 --> 00:17:29.165]  And so the people want to get the subsidies anyway.
+[00:17:29.645 --> 00:17:33.288]  And they're trying to get the Supreme Court to rewrite the legislation.
+[00:17:33.968 --> 00:17:37.131]  Now our Constitution says all legislative powers are in the Congress.
+[00:17:37.171 --> 00:17:37.991]  It's very clear.
+[00:17:38.011 --> 00:17:40.173]  There's nothing equivocal about it.
+[00:17:41.065 --> 00:17:48.328]  And the Supreme Court is going to take that case, and the question is, are they going to stick to the way it was written, or are they going to rewrite it?
+[00:17:48.428 --> 00:17:54.171]  The interesting thing about the bill, all 2,000 pages of it, it's a gigantic blank check.
+[00:17:55.911 --> 00:18:05.996]  What it actually says in writing, that you can come back and hold their feet to the fire like you do the Constitution or other laws, there's nothing specific in it.
+[00:18:06.056 --> 00:18:09.117]  What it does, it says these decisions will be made later.
+[00:18:09.824 --> 00:18:11.444]  This thing's already happened.
+[00:18:11.544 --> 00:18:11.644]  And
+[00:18:38.659 --> 00:18:44.423]  Their only impact is that their insurance is stronger, better, more secure than it was before.
+[00:18:45.864 --> 00:18:46.344]  Full stop.
+[00:18:46.484 --> 00:18:46.824]  That's it.
+[00:18:47.905 --> 00:18:49.146]  They don't have to worry about anything else.
+[00:18:49.606 --> 00:18:54.069]  If you make $20,000 a year, you can afford almost $2,000 for your health insurance.
+[00:18:54.409 --> 00:18:55.589]  Now why is this happening?
+[00:18:55.950 --> 00:18:58.631]  Because of all the things that are being covered here.
+[00:18:58.671 --> 00:19:05.856]  If you cover pre-existing conditions, if you cover people up to the age of 26, if you cover all this preventive services, premiums go up.
+[00:19:06.656 --> 00:19:08.497]  Employers not going to want to pay those premiums.
+[00:19:08.517 --> 00:19:12.498]  They're going to pass on as much as possible to the employee.
+[00:19:12.738 --> 00:19:15.218]  Lack of transparency is a huge political advantage.
+[00:19:15.819 --> 00:19:18.980]  And basically, you know, call it the stupidity of the American voter or whatever.
+[00:19:19.500 --> 00:19:23.381]  But basically, that was really, really critical to getting the thing to pass.
+[00:19:23.481 --> 00:19:28.882]  We said, well, that's pretty much the same thing, but why is it mattering?
+[00:19:28.902 --> 00:19:29.422]  He said, you'll see.
+[00:19:29.442 --> 00:19:31.083]  And they were both in a mad pass.
+[00:19:31.123 --> 00:19:32.643]  The AmeriCorps is too stupid to understand the difference.
+[00:19:32.663 --> 00:19:34.504]  The AmeriCorps is too stupid to understand the difference.
+[00:19:39.221 --> 00:19:41.502]  You want the best that's out there at the lowest price anywhere?
+[00:19:42.162 --> 00:19:44.604]  Well, we're bringing you a total win-win.
+[00:19:44.984 --> 00:19:50.546]  The ultimate value, cutting-edge, trailblazing game-changer that also supports the InfoWar.
+[00:19:50.947 --> 00:19:57.610]  We have produced a limited run of DNA Force, and it will take up to 12 weeks to produce more once we sell out.
+[00:19:57.950 --> 00:20:02.852]  Secure your DNA Force today at InfoWarsLife.com or call toll-free 888-253-3139.
+[00:20:02.912 --> 00:20:04.153]  DNA Force from InfoWarsLife.
