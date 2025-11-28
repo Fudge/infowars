@@ -1,0 +1,1090 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, sat-12l-sm, and large-v3-turbo
+# Transcript cleaned with version 0.1.2
+# Source MD5: c4f57d79ebcdad9976fe0882b22b8927
+[00:00:00.160 --> 00:00:06.960]  The Onion, the satirical website and newspaper, The Onion has taken over the website, InfoWars.
+[00:00:07.440 --> 00:00:16.640]  Eight of the Sandy Hook families who were maliciously targeted by Alex Jones conspiracies actually backed The Onions bid, securing this victory in their long fight for accountability.
+[00:00:16.800 --> 00:00:19.600]  Jones responded on social media today saying this.
+[00:00:20.160 --> 00:00:24.800]  I don't know what's going to happen, but I'm going to be here till they come in there and turn the lights off.
+[00:00:25.440 --> 00:00:26.320]  Lights off, buddy.
+[00:00:26.480 --> 00:00:27.440]  The website's shut down.
+[00:00:27.600 --> 00:00:30.879]  This is what happens when you search for the site, quote, unavailable till further notice.
+[00:00:31.120 --> 00:00:32.000]  It's not a joke.
+[00:00:32.240 --> 00:00:41.439]  The purchase happened in a bankruptcy auction held after Jones was ordered to pay $1.5 billion in a defamation lawsuit brought by families of Sandy Hook victims.
+[00:00:41.679 --> 00:00:45.359]  But Jones and company are fighting back, claiming fraud and collusion.
+[00:00:45.679 --> 00:00:47.759]  So why did The Onion want to buy InfoWars?
+[00:00:48.079 --> 00:00:48.399]  Why not?
+[00:00:48.640 --> 00:00:51.679]  I mean, it was just such a rare opportunity.
+[00:00:52.000 --> 00:01:02.160]  And, you know, internally, when we became aware that it was a possibility, we just immediately latched onto the idea that it would be the funniest possible thing that we could do.
+[00:01:02.480 --> 00:01:13.280]  With insights into that, Ben Collins, CEO of The Onion, and John Feinblatt, president of Every Town for Gun Safety and organization, works closely with many of the Sandy Hook families to prevent future such tragedies.
+[00:01:13.439 --> 00:01:16.079]  So Ben, what is your plan for the site?
+[00:01:16.560 --> 00:01:20.879]  We're going to take it and take the universe that Alex created and just pave it over.
+[00:01:21.040 --> 00:01:23.120]  We're going to create a new world.
+[00:01:23.439 --> 00:01:25.519]  It's in need of a new coat of pain, I'll tell you that.
+[00:01:26.400 --> 00:01:30.640]  You know, obviously, supporting it as is is not on the roadmap.
+[00:01:31.200 --> 00:01:38.879]  It is just a house of lies and fear-mongering, and we think it would be better served by something other than that.
+[00:01:39.519 --> 00:01:45.200]  So we intend to satirize and parody the larger ecosystem of myths and disinformation.
+[00:01:45.439 --> 00:01:56.799]  Hopefully in a couple of years, if you think of InfoWars, you'll either think of this day where we pulled off this very ridiculous joke where we're able to purchase Infowars as is, or you'll think of this new site.
+[00:01:56.960 --> 00:02:03.359]  We're going to go after all the conditions that Alex Jones creates to sell his supplements.
+[00:02:03.680 --> 00:02:06.320]  The Onion is known to be more of an institutional voice.
+[00:02:06.560 --> 00:02:10.719]  That's kind of a monolith, faceless organization.
+[00:02:11.520 --> 00:02:19.439]  One thing that's exciting for me creatively and for the whole team is that InfoWars will give us the opportunity to speak in the voice of particular characters.
+[00:02:19.759 --> 00:02:27.439]  And so, you know, there will be a whole host, a litany of characters that we can use to parody the existing site.
+[00:02:27.680 --> 00:02:32.319]  Characters whose thinking and speaking might be something like Alex Jones and those who listen to him.
+[00:02:32.640 --> 00:02:39.360]  Yes, utterly unhinged, fear-mongering, and ultimately just an attempt to sell you ineffective brain pills.
+[00:02:39.680 --> 00:02:47.759]  Overnight, the judge in charge of this put a hold on your purchase, raising questions about the process, raising questions about transparency in the bidding process.
+[00:02:48.080 --> 00:02:49.120]  Yeah, look, we won the bid.
+[00:02:50.319 --> 00:02:52.080]  We own Infowars and we are very excited about that.
+[00:02:52.240 --> 00:02:53.920]  But is it true that you didn't have the highest bid?
+[00:02:54.879 --> 00:02:55.360]  We did.
+[00:02:56.000 --> 00:02:59.840]  We did have the highest bid when you take into account the family's concessions here.
+[00:03:00.159 --> 00:03:05.920]  They made a concerted effort to make this the best and highest bid for everybody involved.
+[00:03:06.479 --> 00:03:08.560]  So we're very excited to take that over.
+[00:03:08.640 --> 00:03:10.879]  And look, it's Alex Jones.
+[00:03:11.840 --> 00:03:16.640]  If he just handled this graciously and moved away, that would be the funniest part of this whole situation.
+[00:03:16.960 --> 00:03:19.280]  Obviously, that is not something that he's going to do in the situation.
+[00:03:19.520 --> 00:03:20.879]  So you're confident this is going to go through?
+[00:03:21.280 --> 00:03:21.439]  Absolutely.
+[00:03:21.920 --> 00:03:26.000]  Was there hope that buying his site might be able to block him from causing more harm?
+[00:03:26.319 --> 00:03:30.879]  I mean, any means of causing Pruenin from causing more harm ought to be explored.
+[00:03:30.960 --> 00:03:35.599]  But no, I think the important part here was to take the brand and use it for good.
+[00:03:35.920 --> 00:03:40.960]  Any means of causing Pruenin from causing more harm ought to be explored.
+[00:03:41.280 --> 00:03:42.000]  What would you control?
+[00:03:42.240 --> 00:03:44.240]  I mean, I really would like to control Infowars.
+[00:03:46.000 --> 00:03:47.439]  No, that's a good answer.
+[00:03:48.400 --> 00:03:49.439]  Alex Jones.
+[00:03:56.679 --> 00:03:57.918]  How would you describe him?
+[00:03:58.080 --> 00:04:00.480]  He's a hugely influential conspiracy theorist.
+[00:04:00.640 --> 00:04:02.640]  His ravings are untethered from reality.
+[00:04:02.719 --> 00:04:06.240]  It's a gnostic piece of work, but I think he's also a displaying windbag.
+[00:04:06.560 --> 00:04:08.240]  He's not right in the head.
+[00:04:11.760 --> 00:04:13.520]  I'm very praise free speech.
+[00:04:13.760 --> 00:04:16.000]  And the word dangerous is used far too liberally.
+[00:04:16.319 --> 00:04:18.000]  In his case, I think it's actually justified.
+[00:04:18.319 --> 00:04:21.040]  Could he be a threat to American democracy?
+[00:04:21.520 --> 00:04:24.000]  Everyone thinks he's a crazy motherfucker and they never heard him talk.
+[00:04:24.319 --> 00:04:25.360]  They think he's just nuts.
+[00:04:25.520 --> 00:04:26.240]  And he is crazy.
+[00:04:26.400 --> 00:04:26.639]  He is.
+[00:04:26.960 --> 00:04:31.759]  But you've got to be crazy to stand in front of the womb, put your ass on the line, and say the things he's saying.
+[00:04:32.080 --> 00:04:33.199]  So you got to be a little crazy.
+[00:04:33.280 --> 00:04:33.920]  It's like a rockstar.
+[00:04:34.080 --> 00:04:34.480]  Acts a roller.
+[00:04:34.560 --> 00:04:35.199]  Oh, he's crazy.
+[00:04:35.439 --> 00:04:36.720]  Yeah, he's acts a fucking rook.
+[00:04:37.120 --> 00:04:38.800]  There is a war for your mind.
+[00:04:39.040 --> 00:04:40.639]  Information is to unlock.
+[00:04:40.879 --> 00:04:41.920]  Information warfare.
+[00:04:42.960 --> 00:04:48.720]  I come to you with a spring on my staff, a song in my heart, emotionally and spiritually refreshed.
+[00:04:48.960 --> 00:04:55.519]  Because you know how, as humans, we have to accept the fact that sometimes bad things happen to good people.
+[00:04:56.160 --> 00:05:01.600]  Well, by the grace of God, sometimes bad things happen to Alex Jones.
+[00:05:01.920 --> 00:05:03.280]  That's a good thing.
+[00:05:03.600 --> 00:05:08.720]  The despicable and ridiculous Alex Jones deserves every minute of torture.
+[00:05:09.040 --> 00:05:10.000]  Woo!
+[00:05:10.639 --> 00:05:14.800]  I don't like giving people like Alex Jones a platform, but what do you do?
+[00:05:14.879 --> 00:05:15.280]  He's out there.
+[00:05:15.439 --> 00:05:21.439]  Tucker Culso continues to fall over Jones, calling him one of the most important truth tellers in America today.
+[00:05:21.759 --> 00:05:24.080]  What does it mean for the future of InfoWars?
+[00:05:24.319 --> 00:05:25.120]  InfoWars.com.
+[00:05:25.759 --> 00:05:26.879]  This is InfoWars, right?
+[00:05:27.120 --> 00:05:30.720]  I just think everybody wants to know: will he be shut down?
+[00:05:31.360 --> 00:05:34.000]  This verdict shuts down Alex Jones.
+[00:05:34.320 --> 00:05:34.639]  Good.
+[00:05:34.879 --> 00:05:36.800]  I guess the good guys just won the InfoWars.
+[00:05:37.120 --> 00:05:39.280]  He is the number one threat to these people.
+[00:05:39.680 --> 00:05:42.000]  Take the bullhorn away.
+[00:05:42.560 --> 00:05:51.759]  You know, kicked us off the internet, tried to ban our IP, got banks to cancel us, lawsuits, censorship, investigations from the FBI.
+[00:05:51.840 --> 00:05:53.439]  I mean, everything has been thrown at us.
+[00:05:53.680 --> 00:05:54.800]  Take him out.
+[00:05:55.120 --> 00:05:58.400]  Make certain he can't rebuild the platform.
+[00:05:58.720 --> 00:06:00.240]  That's what matters.
+[00:06:00.560 --> 00:06:05.360]  I hope that we never see someone like him again.
+[00:06:05.840 --> 00:06:07.360]  Infowars.com lives.
+[00:06:07.680 --> 00:06:14.399]  People can come to my show every day, 11 a.m. Central, and they can hear what I'm actually saying, peers, versus what you're trying to put in my mouth.
+[00:06:14.720 --> 00:06:19.759]  You got God's warriors coming together like the SWAT team of free thought.
+[00:06:20.320 --> 00:06:25.120]  It has become more than ever a litmus test as to whether you get what's going on in the world or not.
+[00:06:25.440 --> 00:06:26.720]  This is InfoWars, right?
+[00:06:26.960 --> 00:06:34.720]  If you don't get what Alex Jones represents, if you can't recognize that Alex Jones is the real deal, you don't get anything.
+[00:06:34.960 --> 00:06:37.519]  We're going to give this information on InfoWars.
+[00:06:37.759 --> 00:06:41.040]  So no concept of the wider perspective here.
+[00:06:41.200 --> 00:06:50.240]  If you still can't see through the lies that are telling you that Alex Jones is somehow not who he says he is, you still can't get it.
+[00:06:50.399 --> 00:06:59.040]  You've been fighting this battle for a long time, Alex, and we just got to salute you as a Christian and as American because you paved the way to make braver soldiers like us today.
+[00:06:59.280 --> 00:07:02.399]  This is about good versus evil and God fighting the devil.
+[00:07:02.639 --> 00:07:03.840]  You got to pick a side now.
+[00:07:04.320 --> 00:07:05.040]  InfoWarriors.
+[00:07:05.280 --> 00:07:09.600]  All we ever do is promote human freedom of every race, color, and creed.
+[00:07:09.759 --> 00:07:14.240]  Our message is really imperative for everyone to understand, like this is the way out.
+[00:07:14.480 --> 00:07:22.720]  It's about understanding that every single human being has a right to live their life the way they want, unmolested and uncontrolled by those with more power than them.
+[00:07:22.960 --> 00:07:38.320]  So no matter what they say about us, no matter how they want to portray us, just know that InfoWars really represents something totally unique, totally special, and an existential threat to the most vicious, evil, totalitarian, and importantly, miserable people on the earth.
+[00:07:38.560 --> 00:07:41.840]  Who is the number one player in all of this?
+[00:07:42.080 --> 00:07:47.360]  Who is the number one symbol of alternative media and internet content?
+[00:07:47.519 --> 00:07:49.519]  It is the legend that is Alex Jones.
+[00:07:49.840 --> 00:07:51.200]  And you were fighting on the front line.
+[00:07:51.280 --> 00:07:52.000]  And now we're here with you.
+[00:07:52.080 --> 00:07:56.320]  You got some other superheroes, part of the Avenger movie, Fighting for Christ, and free speech.
+[00:07:56.800 --> 00:07:59.440]  Folks, we really are going to save this country.
+[00:07:59.680 --> 00:08:02.080]  We really are going to save this planet on InfoWars.
+[00:08:02.160 --> 00:08:03.520]  Think about that for a second.
+[00:08:07.120 --> 00:08:08.320]  You're going to remember Alex Jones.
+[00:08:08.480 --> 00:08:10.160]  They're going to remember InfoWars.
+[00:08:12.400 --> 00:08:18.880]  Joining me to my right, the guy who started this whole thing off many, many years ago, almost 30 years ago.
+[00:08:19.360 --> 00:08:20.000]  Only 31 years.
+[00:08:20.160 --> 00:08:20.480]  31 years.
+[00:08:20.800 --> 00:08:21.520]  He's 28 years old.
+[00:08:21.760 --> 00:08:22.080]  Yeah.
+[00:08:22.640 --> 00:08:24.560]  Alex Jones needs no introduction.
+[00:08:24.880 --> 00:08:35.280]  And I talked to him yesterday because we were going to do a report on this because today is actually the one-year anniversary of when at about 20 minutes from now, one year ago, they actually cut our stream.
+[00:08:35.360 --> 00:08:36.480]  Maybe it was about 25 minutes.
+[00:08:37.520 --> 00:08:38.320]  They cut the internet off.
+[00:08:38.400 --> 00:08:38.880]  They cut everything off.
+[00:08:39.280 --> 00:08:40.160]  They refused to leave the building again.
+[00:08:40.560 --> 00:08:43.600]  The white screen that said, oh, you can no longer visit InfoWars.
+[00:08:43.840 --> 00:08:46.320]  So they just preemptively took everything over without a judge.
+[00:08:46.560 --> 00:08:47.520]  To the Justice Department.
+[00:08:47.760 --> 00:08:48.160]  Right, right.
+[00:08:48.720 --> 00:08:50.080]  And again, they didn't even have a court order.
+[00:08:50.160 --> 00:08:58.560]  And remember, in May, six months before that, eight months, whatever it was, they had armed guards come here with no court order and say, kick us out.
+[00:08:58.800 --> 00:09:02.240]  A criminal security company go, yeah, I got a woman saying she's with the Justice Department.
+[00:09:02.400 --> 00:09:04.880]  It's just a, quote, trustee in the bankruptcy department.
+[00:09:04.960 --> 00:09:06.880]  It's not even like an agent or a prosecutor.
+[00:09:07.200 --> 00:09:08.400]  And we know who her name was.
+[00:09:08.720 --> 00:09:11.600]  And she's ordering us to kick you out of the building.
+[00:09:11.760 --> 00:09:13.200]  Now, that was May 31st.
+[00:09:13.840 --> 00:09:16.240]  And remember, I didn't stick cameras in the guard's face.
+[00:09:16.880 --> 00:09:19.120]  And some listeners are like, come on, this isn't really happening.
+[00:09:19.440 --> 00:09:20.160]  Then we go to court.
+[00:09:20.240 --> 00:09:21.120]  They admit they all did it.
+[00:09:21.200 --> 00:09:22.080]  It was all over the news.
+[00:09:22.640 --> 00:09:27.360]  A week later, the judge fires the U.S. trustee, fires the CRO.
+[00:09:28.720 --> 00:09:29.840]  And that's a whole nother story.
+[00:09:30.080 --> 00:09:33.120]  We've had to make like 20-something reports on each piece of that.
+[00:09:33.440 --> 00:09:41.040]  The U.S. trustee's lawyer, attractive blonde lady, pull up her name.
+[00:09:41.360 --> 00:09:48.080]  She was dating Judge Jones, the head Southern District of Texas bankruptcy judge, head federal judge in the district.
+[00:09:48.400 --> 00:09:55.760]  And he was giving her $7,8 million in business to her business while she lived with him and ruling on her cases.
+[00:09:56.000 --> 00:09:56.240]  Right.
+[00:09:56.480 --> 00:09:59.360]  So we didn't know they were under Justice Department investigation the whole time.
+[00:10:00.480 --> 00:10:05.680]  And so all his cases, or most of them got transferred to Judge Lopez, is he took that over.
+[00:10:06.000 --> 00:10:08.400]  And we're not saying he's corrupt.
+[00:10:08.720 --> 00:10:10.160]  The point is that is the nest.
+[00:10:10.400 --> 00:10:15.120]  So the woman from the Justice Department, trustee, you know, you do Zoom with her.
+[00:10:15.200 --> 00:10:19.760]  She has the U.S. SEAL behind her, like Chris Murray, the last one that got appointed.
+[00:10:20.000 --> 00:10:23.360]  And then he did the fake auction and got caught and all that.
+[00:10:24.000 --> 00:10:25.440]  This is just to give you a small piece of this.
+[00:10:25.520 --> 00:10:29.280]  It's a very small freak of the news, new news, just to give you an idea of the magnitude.
+[00:10:29.920 --> 00:10:32.080]  She's the one telling armed security.
+[00:10:32.720 --> 00:10:35.520]  I mean, literally, basically a hijacking in my view.
+[00:10:35.920 --> 00:10:45.280]  I mean, it's color of law, official oppression, conspiracy against rights, trying to bluff a private security company to kick us out of the building on a Friday afternoon.
+[00:10:45.920 --> 00:10:50.960]  It came out later in December last year that she was under investigation.
+[00:10:51.120 --> 00:10:56.720]  They were deposed by the real DOJ, by the official one, and there was a huge ongoing still criminal investigation.
+[00:10:56.960 --> 00:11:03.280]  So while she's under investigation by the DOJ, she's saying, I'm the DOJ to arm guards, kick us out.
+[00:11:03.440 --> 00:11:04.320]  I'm saying I want a court order.
+[00:11:04.400 --> 00:11:04.800]  I'm not leaving.
+[00:11:05.040 --> 00:11:05.840]  Of course, I was right.
+[00:11:06.080 --> 00:11:08.160]  So there was that giant fiasco.
+[00:11:09.120 --> 00:11:11.200]  Then the judge orders an auction, highest bidder.
+[00:11:11.680 --> 00:11:12.640]  They don't have the auction.
+[00:11:13.040 --> 00:11:20.640]  Basically give it to the Democrats and Bloomberg Finance Group, Everytown Gun Confiscation Group, and the Onion as their front group.
+[00:11:21.680 --> 00:11:24.480]  And they had censored at MSNBC.
+[00:11:25.920 --> 00:11:27.520]  So those are just two snapshots.
+[00:11:27.680 --> 00:11:34.320]  Since then, we've learned the DOJ funded the whole thing, ran it over the years, coordinated the trials where I was already found guilty.
+[00:11:34.960 --> 00:11:37.440]  I never did anything that they said I did.
+[00:11:37.680 --> 00:11:39.200]  And it just gets crazier and crazier.
+[00:11:39.280 --> 00:11:44.320]  Gavin Oblemis, the CIA slash FBI agent, gets caught on tape admitting they couldn't find anything criminals.
+[00:11:44.560 --> 00:11:49.520]  They went and created the Sandy Hook hoax that I did all these things I didn't do.
+[00:11:49.680 --> 00:11:50.640]  That's the real hoax there.
+[00:11:50.720 --> 00:11:54.400]  I believe it happened before they were sued me, Adam Lanza, and the whole rest of it.
+[00:11:56.000 --> 00:12:00.240]  Now, now that leads us up to the new developments that are gigantic.
+[00:12:00.560 --> 00:12:12.240]  Rob is doing an investigation for the law firms that have already filed lawsuits, but to file massive civil rights violation of due process, process violations.
+[00:12:12.320 --> 00:12:13.440]  That doesn't sound like a sexy name.
+[00:12:13.519 --> 00:12:14.080]  That's a big deal.
+[00:12:14.160 --> 00:12:15.440]  That's rigging things.
+[00:12:16.399 --> 00:12:17.680]  Conspiracy against rights.
+[00:12:17.759 --> 00:12:18.800]  I mean, we have them dead to rights.
+[00:12:18.879 --> 00:12:19.519]  We've deposed them.
+[00:12:19.600 --> 00:12:20.399]  We have their emails.
+[00:12:20.720 --> 00:12:25.040]  How they're like, yeah, we're not going to let Alex Jones, people that like him will keep him on the air ever buying force.
+[00:12:25.200 --> 00:12:27.360]  So that, I mean, they're just caught doing fake auctions.
+[00:12:27.759 --> 00:12:28.560]  And they don't want money.
+[00:12:28.800 --> 00:12:32.000]  And I can tell you, this has been kicked out of Lopez's court now.
+[00:12:32.080 --> 00:12:34.480]  He finally kicked it out, even though he'd been blocking them for a while.
+[00:12:34.800 --> 00:12:40.399]  When I didn't even know about this, and it's going to break soon, there wasn't just the DOJ stuff going on with that.
+[00:12:40.480 --> 00:12:46.160]  You heard about them sending stuff to the head FBI agent in Connecticut that admitted he went and created all this with the FBI.
+[00:12:46.480 --> 00:12:46.800]  Okay.
+[00:12:47.440 --> 00:12:58.320]  Not just that individual separate from Oblemis, but there's another investigation going on with what happened in the bankruptcy court with Chris Murray and these people.
+[00:12:58.639 --> 00:13:04.240]  And so now we've learned from journalists in D.C. that showed me the information, like the actual stuff going on.
+[00:13:04.320 --> 00:13:08.639]  I have to stop there that the DOJ showed them, but said, you know, just wait.
+[00:13:08.720 --> 00:13:11.360]  This is going to come out and just let Alex know about this.
+[00:13:12.480 --> 00:13:14.400]  And it's not the task force people think.
+[00:13:15.120 --> 00:13:16.960]  There's quite a few good groups up there now.
+[00:13:17.279 --> 00:13:26.000]  And then I talked to an FBI, a high-level informant yesterday that just met with the FBI and D.C. on a totally separate matter that is just unbelievable.
+[00:13:26.080 --> 00:13:38.080]  And this breaks, but we came up in it again in a secret CIA, FBI server farm and at a CIA base on the East Coast.
+[00:13:38.960 --> 00:13:44.080]  And in the investigation, they found out that you get this.
+[00:13:46.639 --> 00:13:49.360]  Norm Pattis didn't accidentally ever send that stuff to them.
+[00:13:50.160 --> 00:13:50.480]  No.
+[00:13:52.400 --> 00:13:53.440]  That's, yeah, it was.
+[00:13:54.560 --> 00:13:57.120]  So this is just all coming up.
+[00:13:57.440 --> 00:13:58.560]  It was delivered on a bow tie.
+[00:13:58.879 --> 00:14:01.600]  Well, well, you know how this stuff works.
+[00:14:02.240 --> 00:14:04.960]  We've happened to businesses we know where people get into your email.
+[00:14:05.039 --> 00:14:05.680]  It looks like you.
+[00:14:06.720 --> 00:14:08.320]  But then you get into somebody's servers.
+[00:14:08.400 --> 00:14:09.759]  You get into the email as if they're them.
+[00:14:10.000 --> 00:14:11.360]  You add it into a thing and then send it.
+[00:14:11.600 --> 00:14:13.360]  I mean, we're not saying any of the plaintiffs or any of them.
+[00:14:13.600 --> 00:14:17.360]  This was just that we know out of this CIA base that that was doing it.
+[00:14:17.680 --> 00:14:18.560]  Whoever was doing it.
+[00:14:18.960 --> 00:14:20.400]  Our friends at the CIA.
+[00:14:21.279 --> 00:14:24.480]  So more and more of this is just coming.
+[00:14:24.879 --> 00:14:27.360]  There's no way they wrote Jeffrey Epstein emails either and inserted those.
+[00:14:27.519 --> 00:14:28.240]  There's no way that happened.
+[00:14:28.480 --> 00:14:28.560]  Right.
+[00:14:28.720 --> 00:14:31.200]  Well, I mean, well, here's another thing.
+[00:14:31.519 --> 00:14:36.400]  Remember, they get all our emails like five, six years ago during discovery.
+[00:14:36.720 --> 00:14:39.360]  Anything with Sandy Hook, dozens of search terms.
+[00:14:39.680 --> 00:14:44.080]  We give them all the unopened emails and then they find magic hidden links to child porn.
+[00:14:44.720 --> 00:14:48.400]  So they can then run the headline that we sent child porn to the Sandy Hook families.
+[00:14:48.480 --> 00:14:49.519]  No, they sued us.
+[00:14:49.680 --> 00:14:52.879]  The judge said, give us unopened emails, 300-something thousand of them.
+[00:14:53.200 --> 00:14:59.360]  They get them, then forensically scan them, find hidden links and unopened emails, run headlines that I'm sending out child porn.
+[00:14:59.519 --> 00:15:02.800]  And to the FBI's Credit Connecticut, they gave us a letter saying, no, you're the victim of it.
+[00:15:03.440 --> 00:15:04.800]  So at least they did that.
+[00:15:05.039 --> 00:15:05.680]  I'm damn right.
+[00:15:05.759 --> 00:15:06.879]  We're a victim of it.
+[00:15:07.248 --> 00:15:09.888]  So you're going for hours, folks.
+[00:15:09.968 --> 00:15:13.248]  That's the problem of this is having gotten to the new information.
+[00:15:13.568 --> 00:15:16.048]  So there's just a few little tidbits.
+[00:15:16.368 --> 00:15:18.768]  What I just told you is maybe 10%, okay?
+[00:15:19.328 --> 00:15:34.368]  And there's other wilder stuff that I've not been asked to tell anybody at this point about what went on with the previous trustees and the previous CRO that is just unbelievable.
+[00:15:34.688 --> 00:15:38.848]  I mean, we're talking about, I'm just, I wish I could tell you.
+[00:15:39.168 --> 00:16:00.368]  So they don't care, though, after they got embarrassingly caught in a fake auction, after they learn their own, you know, the DOJ is looking into them, after all this stuff happens, they're just barreling forward thinking that if they can get InfoWars now and still give it to the Onion in Bloomberg, and they've been doing interviews, as you know, we've played them, saying if there's, if you were God for today, if there was one thing you could do in the world, what would it be?
+[00:16:00.688 --> 00:16:02.128]  I want InfoWars.
+[00:16:02.448 --> 00:16:08.528]  And they say to misrepresent us, to pose as us and put out disinfo in my name.
+[00:16:08.848 --> 00:16:16.128]  And they told the federal court when this came up, they're trying to say they own my name last June, the June 14th hearing, they did a filing.
+[00:16:16.288 --> 00:16:19.968]  Bloomberg picked it up saying the 13th Amendment against slavery does not apply to Alex Jones.
+[00:16:20.048 --> 00:16:20.928]  He's a special circumstance.
+[00:16:21.328 --> 00:16:22.288]  They didn't describe why.
+[00:16:22.608 --> 00:16:23.968]  So they say, we're going to own his name.
+[00:16:24.048 --> 00:16:25.728]  We're going to say we're him.
+[00:16:26.688 --> 00:16:28.048]  And we're going to say outrageous stuff.
+[00:16:28.128 --> 00:16:32.528]  They literally want to own my identity and wear my skin to misrepresent me.
+[00:16:32.608 --> 00:16:33.568]  That's the key to censorship.
+[00:16:33.728 --> 00:16:35.728]  They don't just censor you folks when you're prominent.
+[00:16:35.888 --> 00:16:37.168]  They then misrepresent you.
+[00:16:37.408 --> 00:16:39.408]  They're like political skinwalkers, essentially.
+[00:16:39.648 --> 00:16:40.608]  Yes, shapeshifters.
+[00:16:40.768 --> 00:16:42.048]  It's like the thing.
+[00:16:42.368 --> 00:16:44.368]  And remember, they said Charlie got killed.
+[00:16:44.448 --> 00:16:51.408]  The Onion said, oh, we're now going to act like we're him and say things in his words and then not even say it's satire.
+[00:16:51.728 --> 00:16:51.968]  Right.
+[00:16:52.288 --> 00:16:54.128]  You're just supposed to know that because it says the onion.
+[00:16:54.848 --> 00:16:56.448]  It's not AI because we made this.
+[00:16:56.928 --> 00:16:58.288]  You know, so you can't say it's AI.
+[00:16:58.528 --> 00:17:00.768]  No, no, we produced this and we're saying this is what Charlie.
+[00:17:01.248 --> 00:17:08.208]  So that's the whole strategy now is what they call ethereal messaging, not subliminal, ethereal.
+[00:17:08.528 --> 00:17:12.368]  Look how many times you see on Google or CNN a headline on the front page that says something outrageous.
+[00:17:12.448 --> 00:17:14.368]  When you click it, that's not even in the article or the headline.
+[00:17:16.048 --> 00:17:18.128]  And then that's ethereal.
+[00:17:18.448 --> 00:17:21.088]  That's what that term in psychological warfare is called.
+[00:17:21.408 --> 00:17:24.528]  So just, folks, this is so unbelievable.
+[00:17:24.608 --> 00:17:27.408]  So we got a lot of clips and not a lot of time to get there.
+[00:17:28.128 --> 00:17:29.567]  Here's the new information.
+[00:17:31.088 --> 00:17:37.088]  Rob Dew, because what's all to new, was for these lawsuits we're preparing, was going through all this for the law firms.
+[00:17:37.408 --> 00:17:45.327]  And he found even more outrageous stuff of them on national TV saying their mission any means necessary to take us out on and on and on.
+[00:17:45.408 --> 00:17:49.008]  They're going to misrepresent us and say they're us.
+[00:17:49.327 --> 00:17:51.968]  I mean, this is 100% in a real court.
+[00:17:52.128 --> 00:17:53.408]  They are, okay?
+[00:17:54.048 --> 00:17:56.768]  Their only hope is to shut down the new operation that's coming out.
+[00:17:56.847 --> 00:17:58.128]  So there's not money for the legal battles.
+[00:17:58.288 --> 00:18:00.688]  Well, we got all the sponsors, all the backers lined up.
+[00:18:01.008 --> 00:18:02.128]  They understand that.
+[00:18:02.688 --> 00:18:07.327]  They understand that it's total war and we're on the offense here.
+[00:18:07.408 --> 00:18:11.488]  So that's why when you support us, the auctionstore.com, it goes to the new Alex Jones network, keep us on air.
+[00:18:11.567 --> 00:18:14.688]  It's still keeping Infowars on air and it's funding all this fight.
+[00:18:15.008 --> 00:18:19.168]  So we're winning, just like America is, but we haven't won the war yet.
+[00:18:19.488 --> 00:18:34.288]  So this now ties into Elijah Schaefer, who got sued over the weekend, popular talk show host for posting a, and I showed this yesterday in the lawsuit, but we're going to shot right here, for posting a photo of Kash Patel and his girlfriend.
+[00:18:34.528 --> 00:18:35.168]  Here it is right here.
+[00:18:35.248 --> 00:18:36.048]  You can pull it up on X.
+[00:18:36.208 --> 00:18:59.567]  I posted this on X. Of him and his girlfriend did not did not even say that she was an Israeli agent, but they say in the lawsuit, because he's criticized Israel before, they want his whole company and they want him off the air and $5 million.
+[00:18:59.968 --> 00:19:04.288]  They actually say that and they say because he did microaggressions.
+[00:19:04.448 --> 00:19:06.128]  They actually used leftist terms.
+[00:19:06.528 --> 00:19:12.528]  This is Kash Patel's foundation law firm, FBI law firm, the one he uses to sue everybody.
+[00:19:13.488 --> 00:19:18.128]  And this is the FBI director, really through his girlfriend, suing people.
+[00:19:18.288 --> 00:19:21.808]  They're also suing FBI whistleblower Kyle Serafin.
+[00:19:21.888 --> 00:19:22.368]  Here's the photo.
+[00:19:22.688 --> 00:19:23.968]  That's all he did was that.
+[00:19:24.848 --> 00:19:31.408]  It is absolutely total bonkerland, but this is Todd Blanche.
+[00:19:32.048 --> 00:19:41.888]  And it's also come out from FBI agents and other suits that Kash Patel tells them to go out and sue people, just like they got the chief counsel in Connecticut to sue me.
+[00:19:42.528 --> 00:19:52.928]  And he went out, I never said his name, and he went out and got the, quote, families and Koskoff law firm with the former federal prosecutor there that was running it, Chris Maddie, to do this.
+[00:19:53.248 --> 00:19:55.488]  Bill, I just want to just orient the jury.
+[00:19:55.808 --> 00:20:03.408]  Am I correct that on December 14, 2012, you were a member of the FBI SWAT team in Connecticut that responded to the Sandy School?
+[00:20:03.568 --> 00:20:03.888]  Yes, sir.
+[00:20:04.048 --> 00:20:05.488]  And you're also a plaintiff in this case?
+[00:20:05.648 --> 00:20:05.808]  Yes.
+[00:20:06.208 --> 00:20:06.448]  Okay.
+[00:20:07.968 --> 00:20:13.168]  Bill, why don't we start by having you tell the jury a little bit about yourself?
+[00:20:14.128 --> 00:20:19.968]  Oh, and I should also say, you're not here in your capacity as an FBI agent, correct?
+[00:20:20.208 --> 00:20:22.848]  No, to clarify, people keep saying I'm retired.
+[00:20:23.088 --> 00:20:23.728]  I'm not retired.
+[00:20:23.888 --> 00:20:24.448]  You're not retired.
+[00:20:24.608 --> 00:20:24.928]  No, sir.
+[00:20:25.088 --> 00:20:25.248]  Right.
+[00:20:25.568 --> 00:20:29.168]  But I'm here in my personal capacity, but I am an FBI agent.
+[00:20:29.328 --> 00:20:30.768]  I'm here in my personal capacity.
+[00:20:31.008 --> 00:20:31.328]  Okay.
+[00:20:32.208 --> 00:20:40.448]  Tell the jury the role that integrity and professionalism plays both in your job as an FBI agent and as a SWAT team member.
+[00:20:41.248 --> 00:20:46.448]  As an FBI agent, if you don't have integrity, you can't do your job.
+[00:20:48.448 --> 00:20:53.568]  Everything we do is based on our integrity.
+[00:20:54.128 --> 00:20:57.808]  You have to have integrity to survive in the problem.
+[00:21:01.008 --> 00:21:03.648]  What was your position at the FBI?
+[00:21:04.608 --> 00:21:21.488]  So in 2012, I would have been working out of the Meriden Resident Agency, which is part of New Haven Division, and I was working public corruption and civil rights matters.
+[00:21:23.648 --> 00:21:24.768]  In January, were you.
+[00:21:25.648 --> 00:21:27.408]  Did you assume a new position?
+[00:21:32.208 --> 00:21:40.448]  I was put into a position they called Chief Division Counsel, which is the head attorney for that FBI division.
+[00:21:40.608 --> 00:21:44.608]  You get legal counsel to the leadership of the division.
+[00:21:44.928 --> 00:21:49.328]  I was put in that position temporarily, and then about a month later, I was appointed to that position.
+[00:21:50.288 --> 00:21:55.088]  So you were the top lawyer providing advice to the FBI in Connecticut?
+[00:21:55.648 --> 00:21:56.608]  In-house, yes, sir.
+[00:21:56.768 --> 00:21:57.088]  In-house.
+[00:21:57.328 --> 00:21:57.888]  Yes, sir.
+[00:21:58.208 --> 00:22:05.088]  And like any crisis that we all deal with in our lives, I guess you have to just have to deal with it.
+[00:22:05.248 --> 00:22:06.288]  But how do you deal with it?
+[00:22:06.448 --> 00:22:07.328]  That's what I'm asking you.
+[00:22:09.408 --> 00:22:11.008]  What steps did you take if any?
+[00:22:11.648 --> 00:22:13.568]  Well, I tried to get help.
+[00:22:13.728 --> 00:22:15.408]  I tried to get the bureau to help me.
+[00:22:16.288 --> 00:22:22.208]  And then, you know, I called the agents association to see if they could help me.
+[00:22:22.528 --> 00:22:27.728]  And that ended up, you know, it didn't result in anything.
+[00:22:27.888 --> 00:22:29.568]  They basically just gave me the runaround.
+[00:22:29.888 --> 00:22:35.728]  And then finally, you know, the only person that ever even listened was Mr. Koscoff.
+[00:22:39.328 --> 00:22:43.488]  He was gentlemen and gracious enough to listen to me, and that's why we're here.
+[00:22:43.728 --> 00:22:44.688]  Is there going to be a waiver?
+[00:22:45.328 --> 00:22:52.208]  In addition to the stuff online about you being an actor, have you received threats yourself?
+[00:22:52.368 --> 00:22:52.928]  Yes, sir.
+[00:22:53.168 --> 00:22:54.448]  Tell the jury about that.
+[00:22:55.968 --> 00:23:13.498]  Probably beginning in, I'll give you multiple examples, but probably beginning in 2015, there was a guy from New London, Connecticut, who was so obsessed with Mr. Wheeler and I that he...
+[00:23:13.498 --> 00:23:15.038]  Objection to the characterization of him.
+[00:23:15.248 --> 00:23:15.728]  What did he see?
+[00:23:15.807 --> 00:23:16.608]  What did he hear?
+[00:23:17.648 --> 00:23:18.208]  It's the same.
+[00:23:22.288 --> 00:23:29.248]  You were explaining the nature of the threat that you understood it to come from, a gentleman in New London?
+[00:23:29.488 --> 00:23:29.648]  Yes.
+[00:23:31.168 --> 00:23:34.528]  And what was the nature of the threat that was directed at you?
+[00:23:34.847 --> 00:23:48.448]  He went on for months, and he would call, along with others, would call my extension in New Haven and leave like violent, threatening messages.
+[00:23:49.408 --> 00:23:52.048]  You're not Bill Aldenberg, you're David Wheeler.
+[00:23:52.608 --> 00:23:54.288]  You're not an FBI agent.
+[00:23:56.128 --> 00:24:05.408]  And he ended up, he talked, this guy from New London talked to a couple agents in New Haven who were so concerned about his behavior, they came and saw him.
+[00:24:05.567 --> 00:24:06.847]  They said, you really have to be careful.
+[00:24:07.008 --> 00:24:08.847]  This guy sounds like he could do something.
+[00:24:10.128 --> 00:24:13.968]  And Mr. Santiago, this guy's name was John Santiago.
+[00:24:16.128 --> 00:24:23.807]  Could you even try to calculate or quantify the number of threats and harassing behavior you could account?
+[00:24:25.248 --> 00:24:27.567]  It probably would be tough to quantify, sir.
+[00:24:27.888 --> 00:24:34.048]  It would probably be tough to give it a number, but it's significant, huge.
+[00:24:34.688 --> 00:24:38.608]  When's the first time you watched a video of Mr. Haldig on Mr. Jones' show?
+[00:24:39.248 --> 00:24:44.528]  I would be guessing, sir, but I would say approximately like 2016.
+[00:24:44.847 --> 00:24:46.048]  Where were you when you saw that?
+[00:24:46.288 --> 00:24:49.248]  I was sitting in my office on the second floor at FBI New Haven.
+[00:24:49.488 --> 00:24:51.968]  You didn't file a suit at that point in 2016?
+[00:24:52.288 --> 00:24:54.528]  No, at that point I couldn't get anybody to help me.
+[00:24:55.087 --> 00:24:55.888]  You were looking?
+[00:24:56.528 --> 00:25:04.368]  I was, by then, I'm pretty certain by 2016, I had contacted the Agents Association.
+[00:25:04.528 --> 00:25:05.408]  I had been looking for people.
+[00:25:05.567 --> 00:25:08.208]  I've been asking the U.S. Attorney's Office to help me.
+[00:25:08.368 --> 00:25:11.087]  I'd have been asking the FBI New Haven to help me.
+[00:25:11.168 --> 00:25:12.448]  So yes, I was looking for help.
+[00:25:12.928 --> 00:25:14.928]  How many times did Jones call you?
+[00:25:15.968 --> 00:25:17.248]  He didn't call me, sir.
+[00:25:18.208 --> 00:25:22.448]  Did you ever see this photograph 289 on InfoWars?
+[00:25:23.968 --> 00:25:25.168]  I didn't know, sir.
+[00:25:25.488 --> 00:25:27.888]  Do you know whether he ever talked about you on Infowars?
+[00:25:28.128 --> 00:25:28.288]  I don't.
+[00:25:28.608 --> 00:25:29.488]  I don't know.
+[00:25:29.807 --> 00:25:31.968]  So was Mr. Santiago ever arrested?
+[00:25:32.288 --> 00:25:32.608]  No.
+[00:25:33.248 --> 00:25:37.248]  You are an FBI agent responsible for enforcing federal law?
+[00:25:37.488 --> 00:25:37.728]  Yes.
+[00:25:37.968 --> 00:25:42.768]  It is a federal law to use interstate communication to threat another person, correct?
+[00:25:43.008 --> 00:25:43.248]  Yes.
+[00:25:43.408 --> 00:25:45.807]  Was anyone ever arrested for threatening you online?
+[00:25:46.048 --> 00:25:46.368]  No.
+[00:25:46.688 --> 00:25:54.847]  Tell the jury the role that integrity and professionalism plays both in your job as an FBI agent and as a SWAT team member.
+[00:25:55.648 --> 00:26:00.847]  As an FBI agent, if you don't have integrity, you can't do your job.
+[00:26:02.847 --> 00:26:07.968]  Everything we do is based on our integrity.
+[00:26:08.528 --> 00:26:12.208]  You have to have integrity to survive in the job.
+[00:26:13.248 --> 00:26:16.768]  So it's the same story over and over and over again.
+[00:26:16.928 --> 00:26:19.648]  And this guy wins $100 and something million dollars that I don't have.
+[00:26:19.968 --> 00:26:20.688]  I never said his name.
+[00:26:20.768 --> 00:26:21.567]  The crew never said his name.
+[00:26:21.648 --> 00:26:21.968]  Any of this.
+[00:26:22.048 --> 00:26:23.008]  This is the level of crazy.
+[00:26:23.168 --> 00:26:39.008]  So that's the model now of lawfare is the old FBI and now the Democrats, the new FBI, with Todd Blanche, Democrat lawyer of the Soviet District of New York, former prosecutor, going after everybody with FBI agents.
+[00:26:39.088 --> 00:26:41.408]  So now you go become an FBI agent.
+[00:26:42.048 --> 00:26:44.528]  So you can sue people that have done nothing wrong.
+[00:26:44.847 --> 00:26:47.088]  And it's a whole new franchise business model.
+[00:26:47.248 --> 00:26:52.208]  And the FBI and the CIA behind the scenes know which courts to go to, know which networks to go to.
+[00:26:52.288 --> 00:26:59.888]  They've got these court societies all over for federal and state where they all go to cocktail parties and it's like lodges.
+[00:26:59.968 --> 00:27:01.648]  They have hotel rooms, everything, you name it.
+[00:27:01.807 --> 00:27:02.368]  And they brag.
+[00:27:02.448 --> 00:27:04.048]  When you come here, you get access to everyone.
+[00:27:04.128 --> 00:27:07.168]  You get access to all the businesses, all the plaintiffs, all the things.
+[00:27:07.408 --> 00:27:10.768]  You can talk off the record.
+[00:27:11.088 --> 00:27:11.888]  All the kickbacks.
+[00:27:12.048 --> 00:27:15.488]  I mean, they advertise that this is where you engage in this.
+[00:27:15.807 --> 00:27:16.688]  So this is the model.
+[00:27:16.768 --> 00:27:23.328]  A bunch of lawyers, prosecutors, judges, and PR people all getting together.
+[00:27:24.048 --> 00:27:27.328]  And they've graduated more lawyers the last 40 years in the whole history of the United States.
+[00:27:27.648 --> 00:27:29.968]  And this is taking over society.
+[00:27:30.288 --> 00:27:31.408]  Okay, this is the model.
+[00:27:31.648 --> 00:27:33.248]  This isn't going anywhere.
+[00:27:33.567 --> 00:27:42.128]  This is total weaponization of the courts at levels never before seen anywhere with the media and HBO producing it, you know, all of it.
+[00:27:43.008 --> 00:27:45.408]  So now the new information, we'll have to go a little bit to the next segment here.
+[00:27:45.728 --> 00:27:48.448]  I've got to go to my broadcast at 11, but this is just so massive.
+[00:27:49.567 --> 00:27:50.608]  It's so important.
+[00:27:50.928 --> 00:27:56.528]  And then you found a lot more clips, even worse than the previous ones and all the things that they've done.
+[00:27:57.168 --> 00:28:02.848]  And then now you've got Tucker Carlson's new documentary dropping of how they totally covered up Crooks and how they know he was an operative.
+[00:28:03.008 --> 00:28:04.448]  And now there was no internet data on him.
+[00:28:04.528 --> 00:28:07.327]  That's totally impossible and no metadata on his phones, even though they have it.
+[00:28:07.648 --> 00:28:09.568]  And now they're coming after Tucker for that.
+[00:28:09.888 --> 00:28:16.208]  And then Massey says they've talked to the high-level whistleblowers that are being targeted for exposing the identity of the pipe bomber.
+[00:28:16.288 --> 00:28:18.368]  That's poorly a federal agent, now CIA.
+[00:28:19.408 --> 00:28:20.208]  See what's happening here?
+[00:28:20.608 --> 00:28:22.128]  And then Cash is in there covering that up.
+[00:28:22.288 --> 00:28:23.248]  I'm not happy about this.
+[00:28:23.408 --> 00:28:24.528]  I didn't want to attack Kash Patel.
+[00:28:24.768 --> 00:28:25.807]  I wanted to believe in him.
+[00:28:26.368 --> 00:28:28.288]  But obviously, he's super compromised.
+[00:28:28.608 --> 00:28:34.608]  Bongino is an attack dog behind the scenes, all over the place, going after journalists that even question Charlie Kirk.
+[00:28:34.688 --> 00:28:36.128]  I mean, very well-known ones.
+[00:28:36.608 --> 00:28:37.728]  He calls him yelling at him.
+[00:28:38.208 --> 00:28:38.608]  We were there.
+[00:28:38.768 --> 00:28:40.208]  We're getting told about it in Maine.
+[00:28:40.848 --> 00:28:41.168]  Same thing.
+[00:28:41.248 --> 00:28:49.408]  Massey said, boom, Bongino called him and also sent him a letter he published saying, hey, basically, don't look into this.
+[00:28:50.048 --> 00:28:54.688]  Oh, no, that whistleblower telling you that this is the pipe bomber or that we're persecuting him, even though they have proof.
+[00:28:54.848 --> 00:28:56.048]  They're full of it.
+[00:28:56.368 --> 00:28:59.648]  Just like, listen, you can trust me.
+[00:28:59.807 --> 00:29:01.568]  I was a Secret Service agent.
+[00:29:02.528 --> 00:29:04.288]  Jeffrey Epstein killed himself.
+[00:29:04.608 --> 00:29:05.168]  You can trust me.
+[00:29:05.327 --> 00:29:06.768]  Crooks acted alone.
+[00:29:07.088 --> 00:29:07.728]  You can trust me.
+[00:29:07.888 --> 00:29:09.408]  Nothing going on with Kurt.
+[00:29:10.048 --> 00:29:23.327]  And I talked to people that were in the cabinet meeting and later broke months after I broke it that Cash Pell was screaming at Tulsi Gabbard saying, your office of national intelligence was created by Congress from 9-11 to share information with the FBI.
+[00:29:23.648 --> 00:29:26.608]  We don't want you looking into any accomplices, domestic or foreign, on Kurt.
+[00:29:26.848 --> 00:29:38.128]  And I broke that back in mid-September, like a week and a half after, and I got it from high-level White House sources and I confirmed with others that were there that they said, we don't want accomplices.
+[00:29:38.288 --> 00:29:38.928]  This wasn't Trump.
+[00:29:39.008 --> 00:29:43.168]  I mean, people at the White House heard this when they were having DOJ meetings.
+[00:29:44.048 --> 00:29:45.728]  We're going with the lone gunman.
+[00:29:45.968 --> 00:29:50.048]  We're not really going after the accomplices because Trump had said, I want the Trantifa.
+[00:29:50.128 --> 00:29:52.688]  I want the six trannies that said Charlie will be dead tomorrow.
+[00:29:52.928 --> 00:29:53.888]  I want them SWAT teamed.
+[00:29:53.968 --> 00:29:54.608]  I want them arrested.
+[00:29:54.848 --> 00:29:58.128]  And the word went out, no, we're not doing what the big guy wants as usual.
+[00:29:58.768 --> 00:30:00.848]  We're going with this story and that.
+[00:30:01.168 --> 00:30:11.008]  And then two days after I came out with that, Kash Patel comes out and says, oh, no, we're looking at all the angles and we're looking at multiple shooters.
+[00:30:11.648 --> 00:30:13.488]  And Dan Bongino, I sent you guys a clip.
+[00:30:13.568 --> 00:30:14.128]  I didn't see it on my list.
+[00:30:14.208 --> 00:30:15.728]  It's like a 15-minute clip.
+[00:30:16.368 --> 00:30:17.728]  Pull that up for me.
+[00:30:18.928 --> 00:30:20.128]  I'll send it again if you don't have it.
+[00:30:20.208 --> 00:30:21.488]  I shouldn't see it on my list.
+[00:30:22.128 --> 00:30:23.327]  Or just go to X and type in.
+[00:30:23.408 --> 00:30:26.448]  Bongino says they're looking at the crowd helping the shooter.
+[00:30:26.768 --> 00:30:28.528]  Well, you say you want a conspiracy.
+[00:30:28.768 --> 00:30:29.008]  Yeah.
+[00:30:29.248 --> 00:30:31.488]  They're like, yay, yay, cheering.
+[00:30:31.568 --> 00:30:32.768]  They're not scared when it happens.
+[00:30:33.088 --> 00:30:37.008]  Two people say they killed him and said we did it as a diversion for the shooter.
+[00:30:37.327 --> 00:30:40.048]  Yeah, there's your conspiracy right there.
+[00:30:41.968 --> 00:30:43.968]  And it's crickets on that.
+[00:30:45.888 --> 00:30:52.848]  Absolute, total, and complete crickets.
+[00:30:57.248 --> 00:30:58.128]  So, yeah.
+[00:30:59.728 --> 00:31:01.888]  It doesn't look like a cover-up.
+[00:31:02.528 --> 00:31:04.608]  It is a cover-up, a cover-up of what?
+[00:31:04.768 --> 00:31:06.128]  I'm not exactly sure.
+[00:31:06.448 --> 00:31:09.408]  And then, of course, it all came out a few weeks ago, exactly as I said.
+[00:31:09.648 --> 00:31:13.648]  I mean, these people are like bad, bad, bad.
+[00:31:13.968 --> 00:31:18.448]  And everybody else is scared of them because they say they're thin-skinned and they'll come after us.
+[00:31:18.608 --> 00:31:20.448]  Well, that's what I do is I go after people.
+[00:31:20.768 --> 00:31:29.488]  I mean, I can't sit here with all this overwhelming evidence of people being bad and being the Legion of Doom when they're supposed to be, you know, with the Justice League or whatever you call it.
+[00:31:29.648 --> 00:31:30.848]  I mean, I just got to call it.
+[00:31:31.168 --> 00:31:38.368]  Well, what's crazy is Bongino and Cash were going around on podcasts and Bongiono's own podcast talking about how they were going to change things.
+[00:31:38.528 --> 00:31:41.008]  They were going to fix these problems that were broken.
+[00:31:41.168 --> 00:31:42.608]  They were going to go after these people.
+[00:31:42.928 --> 00:31:44.688]  And now they're doing, they're just falling right in line.
+[00:31:44.928 --> 00:31:47.728]  Well, Cash remembers said we need to get rid of the FBI building in D.C.
+[00:31:47.888 --> 00:31:48.688]  It's mainly intelligence.
+[00:31:49.328 --> 00:31:51.248]  Because the FBI shouldn't be involved in all this intelligence.
+[00:31:51.488 --> 00:31:52.848]  It shouldn't be 60% intelligence.
+[00:31:52.928 --> 00:31:53.648]  It should be mainly 10%.
+[00:31:53.888 --> 00:31:54.768]  And that's only criminal.
+[00:31:55.008 --> 00:32:00.848]  We should get our information from the National Office of National Intelligence and the subgroups and the threat fusion centers.
+[00:32:01.168 --> 00:32:11.088]  And now he's publicly telling Congress and others, no, I don't want these intelligence agencies that have this data looking at anything inside the U.S. because they don't want to be looked at.
+[00:32:11.328 --> 00:32:13.168]  Because Trump's using Tulsi Gabbard.
+[00:32:13.248 --> 00:32:21.568]  That's how he's getting all the stuff on Crossfire Hurricane and on Arctic Frost and getting them because it's all there because they've been storing it.
+[00:32:21.728 --> 00:32:24.848]  And he's got people literally he installed in working against him.
+[00:32:25.328 --> 00:32:25.968]  And exactly.
+[00:32:26.368 --> 00:32:28.128]  And they've got warrants for all this.
+[00:32:28.448 --> 00:32:33.168]  So they're inside all of Jack Smith's communications, inside all their crap, and they've got them.
+[00:32:33.328 --> 00:32:37.968]  They're handing it out to prosecutors and the prosecutors are resigning because they're scared or they're deep staters.
+[00:32:38.128 --> 00:32:40.288]  So they're having to fill those things in.
+[00:32:40.368 --> 00:32:41.008]  But here's the difference.
+[00:32:41.168 --> 00:32:42.768]  The deep state knows Trump's moving.
+[00:32:43.008 --> 00:32:45.568]  And that's why we've already seen three big indictments and a lot more about to happen.
+[00:32:45.728 --> 00:32:48.768]  But that's what makes the deep state so dangerous is because they know we're closing in.
+[00:32:49.088 --> 00:32:50.848]  But here's the deal.
+[00:32:51.808 --> 00:32:59.728]  With Infowar's case, and it came out in Arctic Frost that Jack Smith was targeting all my crew and me specifically to be shut down.
+[00:33:00.048 --> 00:33:01.328]  And they found nothing, of course.
+[00:33:01.648 --> 00:33:04.608]  And they were going through all our communications and everything else without warrants.
+[00:33:04.768 --> 00:33:08.608]  It's totally illegal, using civil cases to get the information.
+[00:33:09.248 --> 00:33:10.928]  That's where we are right now.
+[00:33:11.488 --> 00:33:13.488]  This is a smoking gun case.
+[00:33:13.808 --> 00:33:19.088]  And that's why Ed Martin was interested in it and was digging into it is because they were very sloppy.
+[00:33:19.408 --> 00:33:22.448]  They were extremely sloppy with us.
+[00:33:23.248 --> 00:33:26.688]  And so they didn't cover their tracks very well.
+[00:33:26.768 --> 00:33:31.808]  And then Todd Blanch comes out and kills one of the investigations and says, Alex Jones is fringe.
+[00:33:31.888 --> 00:33:32.608]  We shouldn't help him.
+[00:33:32.928 --> 00:33:33.648]  ABC News.
+[00:33:33.888 --> 00:33:34.688]  Wall Street Journal.
+[00:33:35.008 --> 00:33:40.128]  So he's literally showing his Democrat Party instincts that, I mean, I could be a horrible person.
+[00:33:40.448 --> 00:33:44.128]  I don't deserve to have my rights violated like this, but I didn't even do the things they said.
+[00:33:44.368 --> 00:33:45.728]  They raised all this money off me.
+[00:33:45.888 --> 00:33:52.528]  So they need to get control of this place so they can misrepresent me and so they can try to turn it around and say, look, we finally did get it.
+[00:33:52.688 --> 00:33:53.568]  See it was legitimate.
+[00:33:53.728 --> 00:33:54.928]  Our auction was legitimate.
+[00:33:55.168 --> 00:33:55.728]  All the rest of that.
+[00:33:55.888 --> 00:34:01.008]  And they have a state receiver appointed under Judge Gwer Gamble who ran the show trial for HBO.
+[00:34:01.328 --> 00:34:05.008]  And then they've been in here in the building last three weeks in here categorizing stuff.
+[00:34:05.248 --> 00:34:07.328]  We don't know they can shut us down next week, next month.
+[00:34:07.888 --> 00:34:09.168]  I might be mean to the receiver.
+[00:34:09.248 --> 00:34:10.848]  It's just a court-pointed deal.
+[00:34:11.328 --> 00:34:13.328]  I'm not being mean to the guys that are here from the auction.
+[00:34:13.408 --> 00:34:14.448]  They say they're going to have another auction.
+[00:34:14.608 --> 00:34:16.288]  You know, that's going to be staged probably.
+[00:34:16.448 --> 00:34:19.728]  I'm not saying they will, but that's how the plaintiffs for the judge will do it.
+[00:34:20.048 --> 00:34:24.208]  Because Lopez, federal judge, had no part of it and said this is bull crap.
+[00:34:24.368 --> 00:34:26.608]  And you didn't have an auction with Gamble.
+[00:34:26.768 --> 00:34:27.648]  I mean, this one will do anything.
+[00:34:27.728 --> 00:34:27.968]  Oh, yeah.
+[00:34:28.048 --> 00:34:29.568]  The judge who defaulted you first, by the way.
+[00:34:29.728 --> 00:34:30.448]  Yes, yes, yes.
+[00:34:30.688 --> 00:34:30.928]  Exactly.
+[00:34:31.008 --> 00:34:32.768]  So they're closing in on us.
+[00:34:33.088 --> 00:34:36.608]  Yeah, we've lasted a lot of rounds, but all I'm just saying is this is outrageous.
+[00:34:36.688 --> 00:34:38.768]  And these new clips, well, let's start getting to the clips.
+[00:34:38.848 --> 00:34:39.728]  These are really, really important.
+[00:34:40.288 --> 00:34:45.008]  I think we ought to just start with the first one, and it's in the longer version, but let's just play clip number five again.
+[00:34:45.168 --> 00:34:47.648]  We played this earlier today about how any means necessary, they have to.
+[00:34:47.968 --> 00:34:48.608]  Tell folks who this is.
+[00:34:48.848 --> 00:34:53.888]  Yeah, this is, let's see, this is Jordan LaFleur, the executive editor of The Onion.
+[00:34:54.128 --> 00:34:58.848]  He's got balding with a beard, and there he is, and he's got these weird eyes out.
+[00:34:59.008 --> 00:35:03.888]  He's looking up and down and stuff, but any means of preventing him from causing more harm need to be explored, is what he says.
+[00:35:03.968 --> 00:35:04.368]  That's his question.
+[00:35:05.088 --> 00:35:06.208]  Then they say they want money.
+[00:35:06.368 --> 00:35:07.408]  Oh, he won't give us money.
+[00:35:07.568 --> 00:35:10.128]  Why they want to destroy the means of the money when I never did anything to him?
+[00:35:10.448 --> 00:35:11.888]  See, that's another deception of the press.
+[00:35:11.968 --> 00:35:12.448]  Go ahead, please.
+[00:35:12.608 --> 00:35:13.808]  Yeah, here's the clip.
+[00:35:14.368 --> 00:35:18.528]  Was there hope that buying his site might be able to block him from causing more harm?
+[00:35:18.848 --> 00:35:23.408]  I mean, any means of causing pronunciation from Cousin Moore harm ought to be explored.
+[00:35:23.488 --> 00:35:28.048]  But no, I think the important part here was to take the brand and use it for good.
+[00:35:28.688 --> 00:35:29.808]  Is there a longer clip you said?
+[00:35:30.288 --> 00:35:32.288]  Well, this is the one that I think is just more important.
+[00:35:32.608 --> 00:35:37.808]  I've got a whole longer clip of it, but this one, any means of preventing him from causing more harm need to be explored.
+[00:35:38.048 --> 00:35:43.008]  They're basically saying, whatever we want to do, whatever bam is called by any means necessary.
+[00:35:43.248 --> 00:35:56.208]  So it's the same mindset of violence, subterfuge, stealing, planning stuff on you, anything that remember what the MSNBC censored and the head of the Onion said.
+[00:35:56.528 --> 00:36:01.168]  Stephanie Louis goes, well, how could you have a lower bid that's secret win and it be a real auction?
+[00:36:01.648 --> 00:36:02.768]  He says, it's Alex Jones.
+[00:36:02.928 --> 00:36:03.088]  Come on.
+[00:36:03.248 --> 00:36:03.408]  Yeah.
+[00:36:03.728 --> 00:36:04.128]  I mean, come on.
+[00:36:04.288 --> 00:36:04.608]  We don't have to.
+[00:36:04.848 --> 00:36:05.808]  I mean, it's Alex Jones.
+[00:36:06.128 --> 00:36:07.088]  Open season, baby.
+[00:36:07.408 --> 00:36:15.488]  Overnight, the judge in charge of this put a hold on your purchase, raising questions about the process, raising questions about transparency in the bidding process.
+[00:36:15.808 --> 00:36:16.848]  Yeah, look, we won the bid.
+[00:36:18.128 --> 00:36:19.968]  We own Inforas and we are very excited about it.
+[00:36:20.128 --> 00:36:21.728]  Is it true that you didn't have the highest bid?
+[00:36:23.808 --> 00:36:27.648]  We did have the highest bid when you take into account the family's concessions here.
+[00:36:27.968 --> 00:36:33.648]  They made a concerted effort to make this the best and highest bid for everybody involved.
+[00:36:34.288 --> 00:36:36.288]  So we're very excited to take that over.
+[00:36:36.448 --> 00:36:38.528]  And look, it's Alex Jones.
+[00:36:39.568 --> 00:36:44.528]  If he just handled this graciously and moved away, that would be the funniest part of this whole situation.
+[00:36:44.848 --> 00:36:47.008]  And I think we should go, and we'll play more of this later.
+[00:36:47.088 --> 00:36:53.328]  It's a longer clip, but the start of the Jake Tapper clip is interesting too, where they say they're going to pave you over and they show the blank screen.
+[00:36:53.488 --> 00:36:55.248]  He goes, oops, Alex Jones is gone.
+[00:36:55.568 --> 00:36:56.688]  So let's go to that one.
+[00:36:56.848 --> 00:37:01.648]  This is the one with Jake Tapper on The Onion Takeover Clip 3.
+[00:37:02.528 --> 00:37:06.848]  Our law and justice lead, where the story itself serves a kind of poetic justice.
+[00:37:07.008 --> 00:37:23.968]  The Onion, the satirical website, a newspaper, The Onion has taken over the website, InfoWars, of Alex Jones, the very platform that Jones used to spread horrific conspiracy theories, including those really awful false claims about the Sandy Hook shooting being not real.
+[00:37:24.528 --> 00:37:34.288]  Those conspiracy theories led to tormenting people, Jones' fans, tormenting the parents of the people murdered in that horrific shooting.
+[00:37:34.608 --> 00:37:37.088]  Online abuse, they were trying to mourn their children's death.
+[00:37:37.328 --> 00:37:38.368]  Some of them had to move.
+[00:37:38.688 --> 00:37:47.808]  Eight of the Sandy Hook families who were maliciously targeted by Alex Jones conspiracies actually backed The Onions' bid, securing this victory in their long fight for accountability.
+[00:37:47.968 --> 00:37:57.328]  Jones responded on social media today saying this: I don't know what's going to happen, but I'm going to be here until they come in here and turn the lights off.
+[00:37:57.968 --> 00:37:58.928]  Lights off, buddy.
+[00:37:59.088 --> 00:37:59.968]  The website's shut down.
+[00:38:00.128 --> 00:38:01.568]  This is what happens when you search for the site.
+[00:38:01.728 --> 00:38:03.328]  Quote, unavailable till further notice.
+[00:38:03.488 --> 00:38:05.088]  With insights into that, further notice.
+[00:38:05.248 --> 00:38:13.888]  Two of the leaders behind it all, Ben Collins, CEO of The Onion, and John Feinblack, president of Every Town for Gun Safety, an organization works closely with the many of the sites.
+[00:38:14.208 --> 00:38:17.088]  Let's go to break because these are clips because nobody watches CNN.
+[00:38:17.648 --> 00:38:22.448]  These are clips when we come back that only their tiny audience saw, but these are the perpetrators.
+[00:38:22.528 --> 00:38:23.488]  These are the bad guys.
+[00:38:24.128 --> 00:38:31.168]  And here, we'll come back and see what they said a year ago today, totally discredited, totally exposed.
+[00:38:31.248 --> 00:38:33.168]  You just heard a small part of what's been going on.
+[00:38:33.408 --> 00:38:35.088]  But notice what Tapper kept saying.
+[00:38:35.408 --> 00:38:37.968]  All that stuff was put in pleadings where I was already found guilty.
+[00:38:38.048 --> 00:38:39.488]  They never showed any evidence.
+[00:38:39.808 --> 00:38:41.568]  None of it was true, any of it.
+[00:38:41.888 --> 00:38:46.688]  And then they just say it that my followers did all this and people did all this.
+[00:38:47.248 --> 00:38:47.648]  Totally.
+[00:38:47.808 --> 00:38:49.408]  And then we ask, who are the followers?
+[00:38:50.048 --> 00:38:51.248]  They could never say, well, who told you?
+[00:38:51.408 --> 00:38:51.888]  I don't know.
+[00:38:52.208 --> 00:38:54.208]  It was rumors of rumors of rumors.
+[00:38:54.368 --> 00:38:55.728]  And the judge would shut it down.
+[00:38:56.048 --> 00:38:57.888]  She only had a little bit of a fake trial.
+[00:38:58.048 --> 00:39:01.728]  We're already guilty, but a little bit to make it look like for TV it was real.
+[00:39:02.048 --> 00:39:04.208]  But every time we started exposing it, they'd shut it down.
+[00:39:04.528 --> 00:39:06.208]  We'll be right back with more of this.
+[00:39:06.368 --> 00:39:07.968]  This is really, really important.
+[00:39:08.288 --> 00:39:13.248]  But bottom line, ladies and gentlemen, they're closing in on us, but they're stepping into a bear trap.
+[00:39:13.568 --> 00:39:21.168]  Well, barring a miracle, InfoWars, the website, the studio will be shut down somewhere in or around January 1st, 2026.
+[00:39:21.408 --> 00:39:23.008]  But regardless, the InfoWar lives on.
+[00:39:23.328 --> 00:39:35.568]  But InfoWarsStore.com, the legendary site that literally funded the InfoWar because of your great support for so many great products, has gotten two final shipments in of Bodies Ultimate Turmeric Formula and Ultimate Fish Oil.
+[00:39:35.808 --> 00:39:38.288]  Both are the highest quality, the best out there.
+[00:39:38.528 --> 00:39:39.648]  They're fan favorites.
+[00:39:39.968 --> 00:39:43.168]  And right now, they're 40% off until they sell out.
+[00:39:43.408 --> 00:39:52.448]  So this is probably, I say about a 90% chance, your last chance to get Bodies Ultimate Turmeric Formula and Ultimate Fish Oil at InfowarStore.com.
+[00:39:52.688 --> 00:39:55.408]  But don't worry, the InfoWar will continue with Yale Shops Network.
+[00:39:55.568 --> 00:39:57.568]  It will continue with all the other work we're doing.
+[00:39:57.888 --> 00:40:05.648]  But right now, if you want to get these legendary products, the last time you can, get them exclusively at InfoWarStore.com.
+[00:40:05.888 --> 00:40:07.808]  Again, they're both 40% off for a limited time.
+[00:40:07.968 --> 00:40:08.688]  So take action now.
+[00:40:08.848 --> 00:40:10.208]  Infowarstore.com.
+[00:40:13.728 --> 00:40:15.648]  Final segment here on the American Journal.
+[00:40:15.728 --> 00:40:16.928]  I'm joined with Alex Jones.
+[00:40:17.088 --> 00:40:24.768]  We were going over the latest in this Onion trying to take over InfoWars with the DOJ assisting and just other.
+[00:40:25.328 --> 00:40:27.328]  I mean, it just gets insane the more you look at it.
+[00:40:27.488 --> 00:40:35.088]  And I've been looking at this for years and we're finding new clips of them the day we're celebrating the one-year anniversary of our closure, which didn't happen.
+[00:40:35.168 --> 00:40:35.568]  We're still here.
+[00:40:35.888 --> 00:40:36.768]  And you're the worst part.
+[00:40:36.928 --> 00:40:37.728]  Oh, we're going to destroy them.
+[00:40:37.808 --> 00:40:38.288]  We're going to pave over them.
+[00:40:38.368 --> 00:40:39.648]  Oh, yeah, we're going to pave over them.
+[00:40:40.048 --> 00:40:44.048]  We've got the head sensor over at MSNBC now working for The Onion.
+[00:40:44.848 --> 00:40:45.408]  You do a great job.
+[00:40:45.808 --> 00:40:48.688]  I'm going to get out of here so you can sum this up because you've researched for the lawyers.
+[00:40:48.768 --> 00:40:49.808]  You know more about this than I do.
+[00:40:50.128 --> 00:40:57.168]  Rob Dew knows more than all the lawyers combined, me, because he's been the guy during the fight that had to organize all this stuff the last six, seven years.
+[00:40:57.408 --> 00:40:58.608]  I mean, a lot of stuff.
+[00:40:58.848 --> 00:40:59.648]  And I want to commend you.
+[00:40:59.968 --> 00:41:04.368]  So I'm going to let you finish up, but I want to just say this in summation myself before we get to all this.
+[00:41:05.648 --> 00:41:06.688]  I'm a happy warrior.
+[00:41:06.928 --> 00:41:09.168]  I'm lucky that they were unable to ever indict me.
+[00:41:09.248 --> 00:41:09.648]  They sure tried.
+[00:41:09.808 --> 00:41:10.608]  I'm lucky they haven't killed me.
+[00:41:10.768 --> 00:41:11.888]  I'm lucky I haven't been Charlie Kirk.
+[00:41:12.048 --> 00:41:13.328]  So thank you all for keeping us in the fight.
+[00:41:13.408 --> 00:41:14.368]  This is all our shared fight together.
+[00:41:14.448 --> 00:41:15.728]  And I love you, Lizards, viewers.
+[00:41:15.888 --> 00:41:18.608]  I love the crew and all the great work they've done and putting up with me.
+[00:41:18.768 --> 00:41:19.408]  I love you, Rob.
+[00:41:19.488 --> 00:41:20.448]  I'm really your brother.
+[00:41:21.088 --> 00:41:24.848]  And we are all in the brotherhood and sisterhood of liberty and freedom under Christ.
+[00:41:24.928 --> 00:41:27.088]  And I just want to commend and thank Ollie from the bottom of my heart.
+[00:41:27.328 --> 00:41:28.288]  I want to say this to Evil.
+[00:41:28.448 --> 00:41:29.248]  We're never giving up.
+[00:41:29.328 --> 00:41:30.048]  We're never quitting.
+[00:41:30.288 --> 00:41:35.088]  And you notice the longer this goes, the more comes out about you, the more you get exposed.
+[00:41:35.168 --> 00:41:39.648]  And in the court of public opinion, 90 plus percent of the comments, even on YouTube, not just X, are against you.
+[00:41:39.888 --> 00:41:41.808]  The public knows a lot of this.
+[00:41:42.128 --> 00:41:42.288]  Okay.
+[00:41:42.928 --> 00:41:51.808]  And the bottom line is Todd Blanche, Democrat lawyer, Ben Trump's lawyer, so he trusted him, has been up there blocking everything.
+[00:41:52.448 --> 00:41:55.168]  And that is from every sector in the DOJ.
+[00:41:55.488 --> 00:41:56.848]  He is super bad.
+[00:41:57.168 --> 00:41:59.728]  And I even got reached out to a few days ago about, oh, be nice.
+[00:41:59.808 --> 00:42:01.488]  You know, maybe Todd Blanche wants to meet with you.
+[00:42:01.648 --> 00:42:03.088]  He's really a friend.
+[00:42:03.408 --> 00:42:05.808]  And that's what he can tell Trump, no, no, I'm being nice.
+[00:42:06.128 --> 00:42:06.768]  This is what they do.
+[00:42:06.848 --> 00:42:12.368]  They're totally two-faced and they're getting major heat, but not just off what they've done to InfoWars.
+[00:42:12.768 --> 00:42:13.968]  They're doing it to everybody.
+[00:42:14.768 --> 00:42:23.408]  And now Kash Patel, it's a big scandal, is going around through his FBI law firm, his foundation, suing people for nothing.
+[00:42:23.728 --> 00:42:26.928]  So this is the same system, the same thing.
+[00:42:27.248 --> 00:42:31.648]  So I guarantee you, big sectors of the DOJ are still investigating Trump.
+[00:42:31.968 --> 00:42:39.888]  They've still got, they totally had stay behind people confirmed with Arctic Frost, the rest of it, you know, and then after that, and Trump's first admin.
+[00:42:39.968 --> 00:42:41.248]  So this is a big problem.
+[00:42:41.568 --> 00:42:43.808]  InfoWars is just a canary in the coal mine.
+[00:42:44.128 --> 00:42:51.248]  And these people, make sure you play the clip again, too, where the Onion idiot, the Bloomberg front guy says, oh, the one thing I want in the world is InfoWars.
+[00:42:51.888 --> 00:42:53.728]  And they're closing in.
+[00:42:53.888 --> 00:42:54.048]  Okay.
+[00:42:54.608 --> 00:42:57.648]  And if they get it, that's fine because it's just a name and it's a studio.
+[00:42:57.728 --> 00:42:58.847]  The InfoWar belongs to you.
+[00:42:58.928 --> 00:43:05.728]  It's a generic term, but it'll be about total harassment, misrepresenting us, and the fight will just intensify.
+[00:43:05.807 --> 00:43:06.608]  But we're not giving up.
+[00:43:06.768 --> 00:43:07.968]  We're not pulling any punches.
+[00:43:08.208 --> 00:43:09.568]  We're not taking a dive here.
+[00:43:09.807 --> 00:43:13.728]  And it's been your support that has held us through all of this.
+[00:43:13.968 --> 00:43:34.847]  And the 25 million we've spent in seven, eight years battling back against the they filed last year in federal court that all the legal fees, including the Maine Democrat Party law firm Paul Weiss against Infowars and myself, has been $322 million.
+[00:43:36.128 --> 00:43:38.368]  $322 million spent.
+[00:43:38.528 --> 00:43:39.488]  That was a year ago.
+[00:43:39.807 --> 00:43:43.327]  So with $25 million, that's what we used to do the accounting air state came in.
+[00:43:45.088 --> 00:43:46.368]  And the lawyers were okay before.
+[00:43:46.528 --> 00:43:47.728]  They should know what they were getting into.
+[00:43:48.208 --> 00:43:50.048]  People understand how this all worked at that point.
+[00:43:50.368 --> 00:43:55.488]  But I really got veterans star lawyers who are tough and are willing to be sanctioned.
+[00:43:55.807 --> 00:43:56.768]  And they're awake now, too.
+[00:43:57.088 --> 00:43:58.608]  They're like, wow, this is real.
+[00:43:58.928 --> 00:44:02.847]  You know, this is everything you've said is now we're seeing it in real time happening.
+[00:44:03.168 --> 00:44:04.448]  So I think it's really shook them.
+[00:44:04.768 --> 00:44:05.648]  They've said it shook them.
+[00:44:05.807 --> 00:44:06.048]  Yeah.
+[00:44:06.368 --> 00:44:12.528]  And now they've got people on their law firms that aren't even billing us and they're just working on their obsessed with it now.
+[00:44:13.168 --> 00:44:14.128]  This is the right thing to do.
+[00:44:14.448 --> 00:44:15.648]  Well, it's real tyranny.
+[00:44:15.807 --> 00:44:18.128]  I mean, we've been suing them and deposing them all over the country.
+[00:44:18.288 --> 00:44:25.168]  I mean, the stuff I can't tell you, folks, we've had people give us information from the inside that feel bad about this.
+[00:44:26.368 --> 00:44:28.768]  We've even had somebody haven't reached back out to do that.
+[00:44:29.648 --> 00:44:30.847]  But I mean, this is bad.
+[00:44:31.008 --> 00:44:34.928]  And if they think getting this will legitimize all the stuff they've done, it just makes it 10 times worse.
+[00:44:35.248 --> 00:44:37.008]  I know that's how God works mysterious ways.
+[00:44:37.807 --> 00:44:41.968]  But so, Rob, let's start the Jake Tapper clip from the beginning so it's congruent.
+[00:44:42.128 --> 00:44:42.288]  Okay.
+[00:44:42.448 --> 00:44:45.807]  And then you just go ahead and take over and I'll be on my broadcast at 23 minutes.
+[00:44:45.968 --> 00:44:51.408]  And then we're going to take all this you've done today live, edit it down, add the clips, more of the documents for things I just said.
+[00:44:51.568 --> 00:44:57.968]  So you'll see the proof of, wait, the U.S. Trustee of the Justice Department had a relationship with a federal judge over cases.
+[00:44:58.048 --> 00:44:59.248]  He gave her millions of dollars.
+[00:44:59.568 --> 00:45:04.928]  And then while she was under criminal investigation, she called and tried to shut us down in mail last year with no court order.
+[00:45:05.327 --> 00:45:06.928]  That's DOJ, folks.
+[00:45:07.248 --> 00:45:12.448]  And they even bragged, the former CRO to the security, head security guy, others.
+[00:45:12.608 --> 00:45:14.448]  Well, we got together with the plaintiff society.
+[00:45:14.608 --> 00:45:15.408]  It's just time to shut it down.
+[00:45:15.888 --> 00:45:19.088]  Because I was starting to speak out against it because I learned more of this.
+[00:45:19.568 --> 00:45:23.888]  And so they're like, well, yeah, we know the judge says it's a bankruptcy and you're going to sell it and stay on the air.
+[00:45:24.128 --> 00:45:24.608]  Nope.
+[00:45:24.928 --> 00:45:26.448]  We made the decision you're off the air.
+[00:45:27.168 --> 00:45:29.648]  And we're with the Justice Department, so shut his ass off.
+[00:45:29.807 --> 00:45:30.688]  No court order.
+[00:45:31.008 --> 00:45:33.088]  I mean, this is serious crap.
+[00:45:33.408 --> 00:45:39.728]  This is, I mean, if I said I own something and showed up with armed guards with no court order, I mean, I'd be in federal prison.
+[00:45:39.968 --> 00:45:41.568]  I mean, they got a name for that.
+[00:45:41.888 --> 00:45:43.408]  That's official oppression.
+[00:45:43.728 --> 00:45:45.648]  That's a false imprisonment.
+[00:45:46.288 --> 00:45:56.448]  That's what it's called when a cop off duty or outside of his prerogative, you know, you've seen this where the cop pulls over the hot chick and tells her he's got to go have drinks with her or whatever or worse.
+[00:45:57.807 --> 00:45:58.928]  That's official oppression.
+[00:45:59.088 --> 00:46:05.327]  That's the other term is false imprisonment.
+[00:46:05.648 --> 00:46:09.008]  And I mean, this is what you call it, hijacking, highwaymen.
+[00:46:09.888 --> 00:46:12.847]  But thank God this armed security is like, yeah, actually, there needs to be an order.
+[00:46:13.168 --> 00:46:14.368]  I was like, yeah, I'm calling the police.
+[00:46:14.448 --> 00:46:15.568]  It was like five o'clock in the afternoon.
+[00:46:15.888 --> 00:46:17.008]  Remember, I slept up here a few days.
+[00:46:17.168 --> 00:46:17.408]  Oh, yeah.
+[00:46:17.568 --> 00:46:20.448]  And I said their next move will be they'll try to sit in another private security firm.
+[00:46:20.688 --> 00:46:22.208]  And sure as hell, they did.
+[00:46:23.088 --> 00:46:23.408]  Yep.
+[00:46:23.648 --> 00:46:27.888]  But that security firm was smart enough to make calls to the other security firm to find out what's going on because it sounded weird to them.
+[00:46:27.968 --> 00:46:28.048]  What?
+[00:46:28.368 --> 00:46:29.168]  Okay, what's the order?
+[00:46:29.327 --> 00:46:30.688]  Well, no, you just go in.
+[00:46:31.248 --> 00:46:31.888]  We're just telling you.
+[00:46:32.128 --> 00:46:32.768]  We're just telling you.
+[00:46:33.008 --> 00:46:33.327]  You understand?
+[00:46:33.408 --> 00:46:34.448]  D-O-J, bitch.
+[00:46:34.928 --> 00:46:36.208]  And they were stinking.
+[00:46:36.528 --> 00:46:37.408]  They were employees.
+[00:46:37.488 --> 00:46:39.008]  They're like, don't even bother coming in next week.
+[00:46:39.088 --> 00:46:40.208]  You're going to be shut down.
+[00:46:40.528 --> 00:46:41.088]  All this stuff.
+[00:46:41.248 --> 00:46:43.968]  It's just like, well, wait, how do we shut down?
+[00:46:44.208 --> 00:46:46.208]  Like, we're supposed to have a plan to continue to go on.
+[00:46:46.448 --> 00:46:48.048]  And that's separate from the fake auction.
+[00:46:48.928 --> 00:46:50.928]  The fake auction is like Act Two of that.
+[00:46:51.408 --> 00:46:52.048]  That's in November.
+[00:46:52.208 --> 00:46:53.008]  This is in May.
+[00:46:53.807 --> 00:46:56.367]  I mean, these people are just, and we haven't told you the war stuff yet.
+[00:46:56.448 --> 00:46:58.288]  We're holding that ace of spades back.
+[00:46:59.248 --> 00:47:00.128]  It's incredible.
+[00:47:00.448 --> 00:47:03.088]  Just wait till they shut this place down and we bring out the ace of spades.
+[00:47:03.248 --> 00:47:03.408]  Right.
+[00:47:03.728 --> 00:47:09.568]  Because it's even more powerful than they got caught in some bad, bad stuff.
+[00:47:10.208 --> 00:47:12.208]  And just because you think Todd Blanche is protecting you?
+[00:47:12.448 --> 00:47:13.408]  No, sir.
+[00:47:14.048 --> 00:47:15.008]  No, sir.
+[00:47:16.208 --> 00:47:18.367]  And President Trump has taken an interest in this.
+[00:47:18.528 --> 00:47:21.807]  So, and there's a huge Epstein stuff exploding exactly as I said it would.
+[00:47:21.887 --> 00:47:22.608]  I'll be covering that, Rob.
+[00:47:22.688 --> 00:47:23.088]  Do take over.
+[00:47:23.327 --> 00:47:23.488]  Yep.
+[00:47:23.728 --> 00:47:23.887]  All right.
+[00:47:23.968 --> 00:47:32.608]  Well, let's go back to, we'll start with the Jake Tapper clip at the top again, where he celebrates the closure of InfoWars and with a fake closure because we were back on air the next day.
+[00:47:33.168 --> 00:47:39.568]  So we're going to go to that and we'll get to the clip where The Onion CEO says we're going to pave over the InfoWars universe.
+[00:47:39.887 --> 00:47:44.608]  And then how they're going to take that and reassess it and do parodies.
+[00:47:44.928 --> 00:47:47.488]  And then we're going to get to The Onion's executive editor, too.
+[00:47:47.568 --> 00:47:49.728]  And then I got a couple phone calls I'll get to at the very end.
+[00:47:49.887 --> 00:47:50.847]  So you guys just hang tight.
+[00:47:51.008 --> 00:47:52.288]  Let's go to that clip with Tapper.
+[00:47:52.688 --> 00:47:57.327]  Turn out to our law and justice lead where the story itself serves a kind of poetic justice.
+[00:47:57.488 --> 00:48:14.688]  The Onion, the satirical website and newspaper, The Onion has taken over the website, InfoWars, of Alex Jones, the very platform that Jones used to spread horrific conspiracy theories, including those really awful false claims about the Sandy Hook shooting being not real.
+[00:48:15.008 --> 00:48:24.768]  Those conspiracy theories led to tormenting people, Jones' fans, tormenting the parents of the people murdered in that horrific shooting.
+[00:48:25.088 --> 00:48:25.887]  Online abuse.
+[00:48:25.968 --> 00:48:27.648]  They were trying to mourn their children's death.
+[00:48:27.807 --> 00:48:28.847]  Some of them had to move.
+[00:48:29.168 --> 00:48:38.288]  Eight of the Sandy Hook families who were maliciously targeted by Alex Jones conspiracies actually backed The Onions bid, securing this victory in their long fight for accountability.
+[00:48:38.448 --> 00:48:41.488]  Jones responded on social media today saying this.
+[00:48:43.088 --> 00:48:47.887]  I don't know what's going to happen, but I'm going to be here till they come in there and turn the lights off.
+[00:48:48.528 --> 00:48:49.408]  Lights off, buddy.
+[00:48:49.568 --> 00:48:50.528]  The website's shut down.
+[00:48:50.608 --> 00:48:52.048]  This is what happens when you search for the site.
+[00:48:52.208 --> 00:48:53.807]  Quote, unavailable until further notice.
+[00:48:53.968 --> 00:49:07.488]  With insights into that further notice, two of the leaders behind it all, Ben Collins, CEO of The Onion, and John Feinblack, president of Every Town for Gun Safety, an organization works closely with many of the Sandy Hook families to prevent future such tragedies.
+[00:49:07.648 --> 00:49:10.288]  So Ben, what is your plan for the site?
+[00:49:10.768 --> 00:49:15.088]  We're going to take it and take the universe that Alex created and just pave it over.
+[00:49:15.248 --> 00:49:38.048]  We're going to create a new world where hopefully in a couple of years, if you think of Infowars, you'll either think of this day where we pulled off this very ridiculous joke where we're able to purchase InfoWars as is, or you'll think of this new site and we're going to go after all the conditions that Alex Jones creates to sell his supplements and do all of those things.
+[00:49:38.367 --> 00:49:40.688]  I think, Jake, you know, we're all on social media.
+[00:49:40.768 --> 00:49:42.528]  We're all on TikTok and Instagram.
+[00:49:42.688 --> 00:49:48.448]  And there are a million little Alex Joneses out there, each selling their own supplement or making you drink raw milk or something.
+[00:49:48.688 --> 00:49:51.568]  They're trying to get you afraid of something and they're trying to sell you the solution.
+[00:49:51.887 --> 00:49:54.928]  And our new website is going to tackle exactly that.
+[00:49:55.568 --> 00:50:01.168]  And once we get it in our control, which is hopefully very soon, you guys can see what we have cooked up.
+[00:50:01.488 --> 00:50:11.968]  So John, tell us what it's like for the families who lost their kids, had to deal with Alex Jones lying about the shooting, his fans and supporters tormenting them.
+[00:50:12.288 --> 00:50:16.208]  And what's your response to Alex Jones saying he's going to be there till the lights are turned off?
+[00:50:16.528 --> 00:50:23.648]  Well, look, I think that we all know that Alex Jones visited unspeakable harm to the Sandy Hook families.
+[00:50:23.728 --> 00:50:31.168]  And from our point of view, if we could give them one ounce of satisfaction, one ounce of restitution, this was worth it to us.
+[00:50:31.408 --> 00:50:40.048]  And look, some people think that the alliance between Every Town and The Onion is strange bedfellows.
+[00:50:40.367 --> 00:50:41.728]  We think just the opposite.
+[00:50:42.048 --> 00:50:47.648]  Look, at our fingertips, every town's got the facts and the research and the stories and the data.
+[00:50:48.208 --> 00:50:56.447]  What The Onion brings is a creative way using the medium of satire and humor to reach new audiences.
+[00:50:56.847 --> 00:50:59.007]  And that's how you fight misinformation.
+[00:50:59.327 --> 00:51:00.927]  That's how you fight fear.
+[00:51:01.248 --> 00:51:06.288]  And Ben, you used to cover conspiracy theorists and misinformation at NBC News.
+[00:51:06.847 --> 00:51:14.127]  You've witnessed firsthand the direct impact of these destructive lies and toxic falsehoods.
+[00:51:14.768 --> 00:51:24.847]  So in addition to this fun media moment against an obvious bad guy, what is this like for you as somebody who used to fight disinformation?
+[00:51:25.168 --> 00:51:30.527]  Yeah, I mean, obviously it feels good, but I think in general, people need a little bit of hope right now.
+[00:51:30.847 --> 00:51:33.728]  People need the idea that a good thing can happen.
+[00:51:34.208 --> 00:51:49.168]  And, you know, Alex has made, and people like him and the general ecosystem that he's created have made it so the families in these situations don't even appear to be anything other than characters in his universe.
+[00:51:49.487 --> 00:51:53.168]  And what's great about this is the families can say, actually, you know, we're human beings.
+[00:51:53.248 --> 00:51:54.607]  We have senses of humor.
+[00:51:54.927 --> 00:51:58.288]  And this is a big cosmic joke to play on Alex Jones.
+[00:51:58.367 --> 00:52:00.288]  This is a big cosmic joke to play in that whole world.
+[00:52:00.847 --> 00:52:09.807]  The Onion, which is known for making fun of everybody in the world, has purchased Infowars from him at a Storage Wars style auction.
+[00:52:10.127 --> 00:52:11.807]  And boy, does that feel good.
+[00:52:11.887 --> 00:52:17.407]  And hopefully if you're a Sandy Hook family right now, there is a bit of cosmic justice happening here.
+[00:52:17.967 --> 00:52:18.927]  That's why we did this thing.
+[00:52:19.087 --> 00:52:20.688]  And we want people to feel that hope too.
+[00:52:20.847 --> 00:52:23.487]  We want people to feel like, hey, a good thing can possibly happen.
+[00:52:23.648 --> 00:52:24.688]  How can we pay this forward?
+[00:52:25.007 --> 00:52:29.007]  And John, the acquisition, obviously deeply symbolic for the families who backed the bed.
+[00:52:29.807 --> 00:52:34.927]  But are you concerned Alex Jones will simply find and make a new platform?
+[00:52:35.487 --> 00:52:43.728]  Look, I think that what our job right now, right in front of us, is to fight fear and fight misinformation.
+[00:52:44.047 --> 00:52:48.367]  And by writing the new chapter of InfoWars, that's exactly what we're doing.
+[00:52:48.688 --> 00:52:52.527]  And that is, as you say, Jake, poetic justice.
+[00:52:52.688 --> 00:52:54.768]  I would call it karmic justice.
+[00:52:55.087 --> 00:52:59.648]  All right, Ben Collins and John Feinblatt, thanks to you and congratulations to you.
+[00:52:59.807 --> 00:53:07.967]  And most importantly, congratulations to the Sandy Hook families for this moment of justice in this dark, dark world.
+[00:53:08.288 --> 00:53:16.527]  So it does make, it is perfect bedfellows for a group like The Onion who wants to literally traffic in disinformation and call it satire.
+[00:53:17.007 --> 00:53:19.887]  That's what they want to do, in my opinion.
+[00:53:20.208 --> 00:53:21.168]  They want to do that.
+[00:53:21.648 --> 00:53:32.688]  And then you have John Feinblatt, head of Every Town for Gun Safety, basically going, yeah, and we want to grab people's guns because, you know, if somebody gets shot, it's not the fault of the shooter.
+[00:53:32.768 --> 00:53:34.527]  It's the fault of the gun.
+[00:53:34.847 --> 00:53:37.327]  Let's go to this other clip we found.
+[00:53:37.487 --> 00:53:38.847]  And this happened a few days after.
+[00:53:38.927 --> 00:53:41.407]  This was dated November 19th, 2024.
+[00:53:41.728 --> 00:53:49.168]  So they're still in that mindset that they're going to own InfoWars at that time because we hadn't had the December, I think it was December 10th or 11th when we had the hearing.
+[00:53:49.327 --> 00:53:58.288]  It might have gone from the 10th into the 11th because he finally made his ruling late in the night on the on whether this auction was real or not.
+[00:53:58.447 --> 00:54:03.007]  And the judge ended up ruling it wasn't a real auction because the highest bidder didn't win it and cash is king.
+[00:54:03.087 --> 00:54:10.367]  And they had some weird algorithm that they're like, well, they're going to get rid of some of their judgment that they hadn't even received yet.
+[00:54:10.607 --> 00:54:15.887]  They're going to vacate that in order to give that to The Onion so they can have enough money to buy this.
+[00:54:16.288 --> 00:54:17.087]  It's convoluted.
+[00:54:17.168 --> 00:54:19.168]  I can't even explain it right because it doesn't make sense.
+[00:54:19.327 --> 00:54:20.367]  It's not logical.
+[00:54:20.688 --> 00:54:21.648]  So here we are.
+[00:54:21.887 --> 00:54:23.487]  This is from PBS.
+[00:54:23.967 --> 00:54:27.007]  And, you know, this is what they were so happy they were going to get rid of us.
+[00:54:27.087 --> 00:54:28.607]  And we're still here a year later.
+[00:54:29.248 --> 00:54:32.367]  It is number one, clip one.
+[00:54:33.007 --> 00:54:39.248]  Satirical news site, The Onion, is buying InfoWars, the website founded by conspiracy theorist Alex Jones.
+[00:54:39.407 --> 00:54:41.487]  And no, it's not a joke.
+[00:54:41.728 --> 00:54:50.927]  The purchase happened in a bankruptcy auction held after Jones was ordered to pay $1.5 billion in a defamation lawsuit brought by families of Sandy Hook victims.
+[00:54:51.168 --> 00:54:54.847]  But Jones and company are fighting back, claiming fraud and collusion.
+[00:54:55.168 --> 00:54:59.248]  Joining us now with more is Jordan LaFleur, executive editor of The Onion.
+[00:54:59.407 --> 00:55:00.208]  Welcome to Chicago tonight.
+[00:55:00.288 --> 00:55:00.847]  Thank you for joining us.
+[00:55:01.008 --> 00:55:01.568]  Thanks for having me.
+[00:55:01.728 --> 00:55:03.728]  So why did The Onion want to buy Infowars?
+[00:55:04.048 --> 00:55:04.367]  Why not?
+[00:55:04.608 --> 00:55:07.728]  I mean, it was just such a rare opportunity.
+[00:55:08.048 --> 00:55:18.447]  And, you know, internally, when we became aware that it was a possibility, we just immediately latched onto the idea that it would be the funniest possible thing that we could do.
+[00:55:19.088 --> 00:55:23.568]  We are resourced appropriately, we are eager, and I think it's just going to be the funniest thing ever.
+[00:55:23.887 --> 00:55:25.407]  What is the plan for the website then?
+[00:55:25.648 --> 00:55:28.528]  Well, I mean, it's in need of a new coat of pain, I'll tell you that.
+[00:55:29.407 --> 00:55:33.568]  You know, obviously, supporting it as is is not on the roadmap.
+[00:55:34.208 --> 00:55:41.807]  It is just a house of lies and fear-mongering, and we think it would be better served by something other than that.
+[00:55:42.528 --> 00:55:48.288]  So we intend to satirize and parody the larger ecosystem of myths and disinformation.
+[00:55:48.608 --> 00:55:52.048]  So what kind of, I mean, The Onion is known for its headlines.
+[00:55:52.288 --> 00:55:58.048]  What can we kind of expect from InfoWars by The Onion website?
+[00:55:59.248 --> 00:56:00.927]  I mean, we're having meetings on this just today.
+[00:56:01.088 --> 00:56:06.048]  I think the best way that I would phrase it is that The Onion is known to be more of an institutional voice.
+[00:56:06.288 --> 00:56:10.288]  That's kind of a monolith, faceless organization.
+[00:56:11.248 --> 00:56:19.088]  One thing that's exciting for me creatively and for the whole team is that InfoWars will give us the opportunity to speak in the voice of particular characters.
+[00:56:19.407 --> 00:56:27.088]  And so, you know, there will be a whole host, a litany of characters that we can use to parody the existing site.
+[00:56:27.327 --> 00:56:32.048]  Characters who's thinking and speaking might be something like Alex Jones and those who listen to him.
+[00:56:32.288 --> 00:56:39.008]  Yes, utterly unhinged, fear-mongering, and ultimately just an attempt to sell you ineffective brain pills.
+[00:56:39.887 --> 00:56:45.887]  So Alex Jones, he's still finding a way to peddle his, you know, his conspiracy theorists without owning InfoWars.
+[00:56:45.967 --> 00:56:48.447]  He has said that he's got a new thing all set up and ready to go.
+[00:56:48.927 --> 00:56:53.088]  Was there hope that buying his site might be able to block him from causing more harm?
+[00:56:53.407 --> 00:56:57.887]  I mean, any means of Prunin from causing more harm ought to be explored.
+[00:56:57.967 --> 00:57:02.608]  But no, I think the important part here was to take the brand and use it for good.
+[00:57:03.168 --> 00:57:13.807]  You know, it's a man of his constitution that we knew would be impossible to silence utterly, but we look forward to using the brand for something other than he would have liked.
+[00:57:14.288 --> 00:57:17.648]  As we mentioned, InfoWars and other of Jones' assets, they're being liquidated.
+[00:57:17.807 --> 00:57:31.248]  He had to file for bankruptcy so that he could pay the defamation case to the victims of Sandy Hook because he is known for being the person who pushed the falsehood that the Sandy Hook elementary school shooting in Connecticut was a quote-unquote hoax.
+[00:57:32.048 --> 00:57:36.367]  Talk about a little bit what The Onion is doing though, actually, to push gun reform.
+[00:57:36.688 --> 00:57:37.168]  Absolutely.
+[00:57:37.327 --> 00:57:40.128]  I mean, we have a history with this.
+[00:57:40.447 --> 00:57:47.008]  One of our most effective pieces of satire in the 13 years that I've been at The Onion is a headline that people might be familiar with.
+[00:57:47.248 --> 00:57:51.728]  It's No Way to Prevent This as the only nation where this regularly happens.
+[00:57:52.048 --> 00:57:56.768]  And unfortunately, we've had to publish that 37 times in the aftermath of mass shootings.
+[00:57:57.648 --> 00:58:01.327]  And so we have a history in this realm and an unfortunate one.
+[00:58:01.887 --> 00:58:13.568]  So the opportunity to work with every town to continue to further awareness of gun violence and how to prevent it is just a very rare opportunity for us and one we're looking forward to.
+[00:58:13.807 --> 00:58:15.407]  Of course, you're referring to Every Town for Gun Safety.
+[00:58:15.807 --> 00:58:16.048]  That's right.
+[00:58:16.128 --> 00:58:16.768]  Thank you so much, James.
+[00:58:17.008 --> 00:58:17.168]  Yes.
+[00:58:17.648 --> 00:58:23.488]  So this news, it follows, again, the presidential election, Donald Trump being named president-elect again.
+[00:58:24.048 --> 00:58:31.327]  Trump and Jones have ties, and Vice President-elect JD Vance has even called Jones a truth teller.
+[00:58:31.648 --> 00:58:34.447]  How are you planning on covering a second Trump term?
+[00:58:34.768 --> 00:58:35.327]  Oh boy.
+[00:58:36.208 --> 00:58:37.807]  I don't want to gloss it over.
+[00:58:37.967 --> 00:58:39.088]  It will, in fact, be difficult.
+[00:58:39.567 --> 00:58:43.407]  Donald Trump is a difficult figure to satirize.
+[00:58:43.728 --> 00:58:52.527]  One of the comedic tools that we frequently use is heightening, and it's difficult to heighten from such a place of bombast and untruth.
+[00:58:52.847 --> 00:58:56.047]  And so it's akin to covering a hurricane.
+[00:58:57.728 --> 00:59:05.567]  I think we focus on it's important to monitor where the hurricane is and the wind direction and whether it's an F2 or F3.
+[00:59:05.887 --> 00:59:15.248]  But we are going to focus on the aftermath, the casualties, and what he lays waste to and how he's affecting real people.
+[00:59:15.567 --> 00:59:18.447]  You mentioned heightening is a tool that you use in comedy.
+[00:59:18.688 --> 00:59:19.407]  I don't know what that is.
+[00:59:19.967 --> 00:59:20.447]  What does that mean?
+[00:59:20.768 --> 00:59:25.327]  Oh, when you take a basic premise that people understand, and essentially it's exaggeration.
+[00:59:25.487 --> 00:59:28.527]  And it's just how we one path to a punchline.
+[00:59:28.847 --> 00:59:31.728]  And why is he difficult to satirize?
+[00:59:32.047 --> 00:59:36.047]  Well, because, I mean, the things that he says and does are just so utterly ridiculous.
+[00:59:36.288 --> 00:59:41.168]  Just on the face of it, I mean, the simple way to put it is that it reads as satirical on the face of it.
+[00:59:41.487 --> 00:59:49.327]  And so to use something so heightened, to use my own word again, when it starts from such a heightened place, it's a difficult jumping off point.
+[00:59:49.647 --> 00:59:55.007]  Why do you think political satire is such a powerful tool when calling out misinformation and political figures?
+[00:59:55.487 --> 00:59:56.527]  It can be a powerful tool.
+[00:59:56.688 --> 01:00:05.007]  I think it is most effective as a balm or a salve to people who are watching the world and feeling uncertain, feeling angry.
+[01:00:05.327 --> 01:00:12.927]  I think the most receptive audiences or the most important audiences for satire is the emperor who's wearing no clothes.
+[01:00:13.007 --> 01:00:18.208]  We're trying to call it the emperor, and we're trying to let people know that there are people who realize it.
+[01:00:18.527 --> 01:00:27.087]  I don't know that it is the most effective tool to change hearts and minds, but I do think it's an effective tool to let people know that there are people watching and people who understand what's happening.
+[01:00:27.807 --> 01:00:36.367]  As we mentioned, a company affiliated with Jones' website that sells supplements has asked the bankruptcy judge to disqualify your bid claiming fraud and collusion.
+[01:00:36.607 --> 01:00:40.527]  Are you worried about this bid being held up because of this suit?
+[01:00:41.887 --> 01:00:43.887]  I am supremely confident in our bid.
+[01:00:44.127 --> 01:00:47.807]  I think it should come as no surprise that this is what Alex Jones is doing.
+[01:00:48.768 --> 01:00:54.927]  What I have found surprising is the credulousness that a lot of traditional media has reported these events with.
+[01:00:55.248 --> 01:01:04.607]  I think he gets a couple of lawyers to generate a legal document and you get a bunch of reporters responding to it as though it's equally impactful as genuine legal action.
+[01:01:04.847 --> 01:01:06.208]  It is utterly ridiculous.
+[01:01:07.087 --> 01:01:09.648]  What do you think satire can do that traditional news can't?
+[01:01:09.967 --> 01:01:13.167]  I think we can call a spade a spade, even though it's through the lens of a joke.
+[01:01:13.327 --> 01:01:18.447]  I think a lot of people are rightfully skeptical of traditional media.
+[01:01:18.768 --> 01:01:29.167]  I think traditional media can be a little mealy-mouthed when they're evaluating controversial topics and political figures who have no concern for the truth.
+[01:01:29.487 --> 01:01:38.607]  We do it through the lens of humor and jokes, but we can call people out more directly in a way that is more impactful and people are more likely to retain.
+[01:01:39.407 --> 01:01:40.607]  New InfoWars.
+[01:01:41.167 --> 01:01:42.367]  What can we expect?
+[01:01:42.607 --> 01:01:45.327]  We've talked about that a little bit, but when will it be live?
+[01:01:45.728 --> 01:01:46.768]  Is the URL?
+[01:01:46.847 --> 01:01:47.887]  Will that be the same, I imagine?
+[01:01:48.288 --> 01:01:50.367]  Yes, we absolutely intend to retain the URL.
+[01:01:50.527 --> 01:01:57.007]  We want to lean on the current branding just to make it all the more painful for those who have affinity for the current version.
+[01:01:58.288 --> 01:02:01.487]  But hopefully January we have something to show the world.
+[01:02:01.887 --> 01:02:06.047]  It might be an incremental launch, but we will be ready in some form or fashion in the new year.
+[01:02:06.367 --> 01:02:11.567]  Okay, any other big plans for branching out from there since a lot of InfoWars was a video?
+[01:02:12.927 --> 01:02:14.768]  I think that's enough new plans for one little team.
+[01:02:17.007 --> 01:02:22.847]  But the paper is an ongoing concern and people ought to consider subscribing to it to support the larger endeavor.
+[01:02:23.167 --> 01:02:27.407]  The dollars that go towards those memberships and subscription allow us to do insane things like this.
+[01:02:27.728 --> 01:02:30.527]  And the more members we get, the more we can do.
+[01:02:30.847 --> 01:02:31.007]  Okay.
+[01:02:31.167 --> 01:02:32.688]  Jordan LaFleur, thank you for joining us.
+[01:02:32.768 --> 01:02:33.087]  Good to see you.
+[01:02:33.248 --> 01:02:33.728]  You as well.
+[01:02:33.807 --> 01:02:34.288]  Thank you so much.
+[01:02:34.768 --> 01:02:36.208]  There's nothing about humor in there.
+[01:02:36.367 --> 01:02:39.487]  It's about how do we destroy people from talking.
+[01:02:39.648 --> 01:02:42.447]  And he talks about doing things in different characters.
+[01:02:42.768 --> 01:02:42.927]  Okay.
+[01:02:43.168 --> 01:02:57.807]  We had the Ben Collins said, you know, we're going to take Charlie Kirk and we're going to create new messages that he might have said or that he could have said in the future or that, but not that he said, but we're going to attribute that to Charlie Kirk so we can steal his identity.
+[01:02:58.128 --> 01:02:59.007]  There's one right there.
+[01:02:59.248 --> 01:03:01.248]  Charlie Kirk in his own words.
+[01:03:02.847 --> 01:03:09.967]  We honor the right-wing activists by making up quotes that sound much better given the moment.
+[01:03:10.288 --> 01:03:11.007]  See that?
+[01:03:11.327 --> 01:03:12.447]  The Onion Magazine.
+[01:03:12.607 --> 01:03:13.967]  You see what they're going to do?
+[01:03:15.567 --> 01:03:18.447]  But you can't do that unless you silence people.
+[01:03:19.087 --> 01:03:20.847]  And that's why we're not going to be silenced.
+[01:03:21.168 --> 01:03:24.047]  We're going to keep talking and we're going to be that counterpoint.
+[01:03:24.367 --> 01:03:27.648]  We've been granted access back onto the X platform.
+[01:03:27.967 --> 01:03:28.927]  That's been a huge success.
+[01:03:29.087 --> 01:03:29.728]  You know, they hate that.
+[01:03:29.887 --> 01:03:34.208]  They hate because they can't sit there and go, oh, now you can't speak and we're going to speak for you.
+[01:03:34.367 --> 01:03:35.728]  They cannot do that.
+[01:03:36.047 --> 01:03:44.527]  I ask that with your verdict, you not only take Alex Jones' platform that he talks about away.
+[01:03:45.168 --> 01:03:49.327]  I ask that you make certain he can't rebuild the platform.
+[01:03:49.648 --> 01:03:50.768]  That's what matters.
+[01:03:51.087 --> 01:03:52.128]  That is punishment.
+[01:03:52.447 --> 01:03:53.567]  That is deterrence.
+[01:03:54.047 --> 01:04:00.047]  There's going to be a large set of plaintiffs who are going to be dividing up the corpse of Infowars in the bankruptcy estate.
+[01:04:00.208 --> 01:04:03.967]  And over the course of that process, that could get very, very dangerous for Mr. Jones.
+[01:04:04.288 --> 01:04:07.007]  But we will be at it as long as it takes.
+[01:04:07.327 --> 01:04:17.168]  And if you're out there right now and you're one of Alex Jones' audience members and you're considering giving him money, I just want you to know that based on the jury's verdict today, it's not a very good bet.
+[01:04:17.728 --> 01:04:22.447]  I hope that we never see someone like him again.
+[01:04:23.087 --> 01:04:25.648]  I hope that with your verdict, he can go away.
+[01:04:25.967 --> 01:04:27.728]  But the money is not even really the question for me.
+[01:04:28.047 --> 01:04:33.007]  The question is, will this suit be successful at stopping him from being on the national stage?
+[01:04:33.327 --> 01:04:37.248]  The incredibly positive health effects of methylene blue are well documented.
+[01:04:37.487 --> 01:04:39.087]  RFK Jr. has promoted it.
+[01:04:39.248 --> 01:04:40.128]  He takes it daily.
+[01:04:40.367 --> 01:04:43.168]  But I got to tell you, I had taken it seven years ago.
+[01:04:43.567 --> 01:04:45.007]  My medical doctor recommended it.
+[01:04:45.248 --> 01:04:47.567]  He said, just get a USP brand that means medical grade.
+[01:04:47.648 --> 01:04:48.688]  I bought it on Amazon.
+[01:04:49.007 --> 01:04:50.208]  Had almost no effect.
+[01:04:50.527 --> 01:05:00.208]  But when our sponsor, Big Lee, at the AlexonStore.com, came out with theirs eight months ago, made in Florida by a literal laboratory, it blew me away and changed my life.
+[01:05:00.367 --> 01:05:03.807]  The clarity, the focus, the energy with no letdown has been insane.
+[01:05:04.047 --> 01:05:14.608]  And the last eight months, you've seen everybody from Roseanne Barr to you name it, take the product and just have absolutely insane clarity and energy effects, generally in about 30 minutes.
+[01:05:14.768 --> 01:05:15.407]  That's incredible.
+[01:05:15.648 --> 01:05:19.887]  But everybody that I know that's taken it, that I've checked back with, has long-term effects.
+[01:05:20.047 --> 01:05:22.127]  And the first few weeks and months just build up.
+[01:05:22.367 --> 01:05:25.327]  Better workouts, better clarity, better sleep, better focus.
+[01:05:25.487 --> 01:05:27.087]  It's simply insane.
+[01:05:27.407 --> 01:05:29.327]  Experience what Patrick Byrne experienced.
+[01:05:29.648 --> 01:05:31.807]  Experience what Stuart Rhodes experienced.
+[01:05:32.127 --> 01:05:42.047]  Experience what all these other individuals experienced when they took this incredible product in capsules and the liquid at thealxjonstore.com.
+[01:05:42.288 --> 01:05:50.927]  And then when you experience it, tell your friends and family about it and tell them about the broadcast so they don't just get this great product and the great effects, they also find the truth.
+[01:05:51.087 --> 01:05:52.927]  This is a 360 win for everyone.
+[01:05:53.248 --> 01:05:55.248]  I can feel a definite, like an energy spike.
+[01:05:55.407 --> 01:05:55.887]  Feels pretty good.
+[01:05:56.127 --> 01:05:57.168]  That is what it feels like.
+[01:05:57.407 --> 01:05:59.007]  My brain's going really fast.
+[01:05:59.327 --> 01:06:03.728]  It clears the brain fog where you're actually able to focus more clearly.
+[01:06:04.288 --> 01:06:07.087]  I do notice that it does seem to give me more mental energy.
+[01:06:07.407 --> 01:06:08.208]  I feel lighter.
+[01:06:08.367 --> 01:06:09.168]  It's really interesting.
+[01:06:09.487 --> 01:06:10.768]  I almost like feel smarter.
+[01:06:11.087 --> 01:06:11.327]  Yeah!
+[01:06:13.967 --> 01:06:16.288]  You better start drinking that methylene blue, son.
+[01:06:16.447 --> 01:06:20.288]  But it's not just our in-studio guests that have taken it and blown away, all of them.
+[01:06:20.608 --> 01:06:21.567]  It's the callers.
+[01:06:21.728 --> 01:06:22.688]  It's the listeners.
+[01:06:22.768 --> 01:06:24.447]  It's a mailman from Rhode Island.
+[01:06:24.688 --> 01:06:30.688]  Here's just a small sampling of the testimonials of our callers and listeners when they took ultramethylene blue.
+[01:06:31.007 --> 01:06:37.168]  Have shared the methylene blue with my crew, and everybody has really noticed the effect.
+[01:06:37.407 --> 01:06:38.367]  I was in a wheelchair.
+[01:06:38.527 --> 01:06:41.168]  That methylene blue, I knew what that did for me.
+[01:06:41.487 --> 01:06:46.128]  I knew that it got me up and walking again, and I was having seizures about it.
+[01:06:46.367 --> 01:06:48.768]  This is the best product you guys have ever had.
+[01:06:49.087 --> 01:06:50.047]  I feel like I'm 25.
+[01:06:50.288 --> 01:06:50.688]  Incredible.
+[01:06:50.927 --> 01:06:52.688]  Best product that I've purchased so far.
+[01:06:52.927 --> 01:06:58.847]  We only sell supplements that are documented to absolutely blow people away because we want you to have a great effect.
+[01:06:59.007 --> 01:07:00.688]  So you come back and get it again and again.
+[01:07:01.007 --> 01:07:02.288]  And it's so good for you.
+[01:07:02.608 --> 01:07:13.007]  So experience what our guests, our families, our friends have experienced themselves by getting ultramethylene blue in capsules and in tincture, discounted right now at thealyshowstore.com.

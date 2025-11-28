@@ -1,0 +1,1697 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, and large-v3-turbo
+[00:00:04.320 --> 00:00:10.160]  It's Saturday, August 2nd, 2025.
+[00:00:11.200 --> 00:00:24.080]  I am your host, Alex Jones, your chronicler, coming to you from the Alex Jones Network backup studios as the Democratic Party and their DOJ stay behind continue to close our operations.
+[00:00:24.400 --> 00:00:28.560]  There is a meeting in Pittsburgh Gamble around the Texas HBO show trials.
+[00:00:29.039 --> 00:00:37.119]  The 13th, the power of the receivers is appointed to seize the building with Travis County Sheriff's Deputies.
+[00:00:38.000 --> 00:00:40.240]  We're in federal court trying to block that.
+[00:00:40.560 --> 00:00:42.240]  That's how close we are.
+[00:00:42.880 --> 00:00:46.719]  I get complimented on the street and by other talk show hosts constantly.
+[00:00:47.039 --> 00:00:49.280]  We've seen it on Steve Band and show many others.
+[00:00:49.359 --> 00:00:50.399]  Congratulations, beating them.
+[00:00:50.560 --> 00:00:52.480]  I'm like, no, I wish that was the case.
+[00:00:52.800 --> 00:00:57.200]  Just want everybody to know that your support is absolutely vital, your word of mouth and your prayers.
+[00:00:58.399 --> 00:01:05.120]  Okay, the news was so important today that I went ahead and came in and did this live show that I already had scheduled.
+[00:01:05.200 --> 00:01:06.159]  And I'm not complaining.
+[00:01:06.239 --> 00:01:12.799]  I just want you to know that I am getting in better shape, but I'm not in great shape yet.
+[00:01:13.680 --> 00:01:22.320]  I did an eight-mile, pretty fast hike with Ian Carroll, who's like eight feet tall and a long-distance marathon runner, and Sean Johnson, who's a Navy SEAL, former trainer.
+[00:01:22.640 --> 00:01:24.879]  And it was really hot today.
+[00:01:25.120 --> 00:01:28.079]  We did about an eight-mile hike, which I know is not a big deal for most people.
+[00:01:28.159 --> 00:01:28.960]  And I do them all the time.
+[00:01:29.120 --> 00:01:29.519]  I feel fine.
+[00:01:29.600 --> 00:01:33.200]  I got a little heat exhaustion and I'm a little dizzy.
+[00:01:33.519 --> 00:01:37.439]  And so if I come off a little bit slow here today, it's not drinking.
+[00:01:37.920 --> 00:01:40.960]  I'm just pretty exhausted, but I'm here.
+[00:01:41.519 --> 00:01:44.480]  The news is important, but I want you to know if I'm a little bit sluggish.
+[00:01:46.640 --> 00:01:47.200]  That is the case.
+[00:01:47.280 --> 00:01:48.719]  But Crew's already here, ready to go.
+[00:01:49.040 --> 00:01:54.000]  And so we are doing it at least for an hour and a half or so because the news is obviously really, really important.
+[00:01:54.159 --> 00:01:55.439]  Thank you so much for tuning in.
+[00:01:55.760 --> 00:01:57.519]  Remember, you're the Paul Revere's.
+[00:01:57.840 --> 00:02:08.240]  If you're watching this on Real Alex Jones on X or on Rumble, please be sure and share the live feed on your email list, your text message, your friends, neighbors, family, and others, and tell them to share the link as well.
+[00:02:08.400 --> 00:02:10.080]  That completes the chain reaction.
+[00:02:10.400 --> 00:02:16.719]  Okay, here's the big 35,000-foot view, and then I'll get into all the news.
+[00:02:19.520 --> 00:02:34.960]  We knew there'd be a battle like there was in the first Trump administration with the different interests and the different lobbyists and the different people over keeping Trump on the right track to drain the swamp,
+[00:02:35.039 --> 00:02:50.000]  restore the Republic, stop the war, secure the border, stabilize the economy, and then boost energy production, remove the DEI, the ESG, the transgender level of sabotage operation.
+[00:02:50.319 --> 00:02:53.280]  And on many of those fronts, he's done a really good job on some.
+[00:02:53.360 --> 00:02:54.960]  Things have gone sideways.
+[00:02:55.280 --> 00:02:58.719]  And obviously, most of you get this and some people don't.
+[00:02:59.360 --> 00:03:12.400]  We're here as the populist movement that brought Trump in to hold his feet to the fire, but more than that, to spotlight the different people in the administration and different groups that are getting things off track.
+[00:03:13.039 --> 00:03:22.319]  There's a lot of newbies that have become Trump supporters that were Democrats previously, and they think you just slavishly support your party or your leaders, and you just sit down and shut up.
+[00:03:22.480 --> 00:03:24.240]  No, that's not what we do.
+[00:03:24.560 --> 00:03:30.000]  They run national headlines everywhere constantly that I've turned on Trump and think Trump's horrible and don't support Trump.
+[00:03:30.159 --> 00:03:31.920]  That is not the case.
+[00:03:32.240 --> 00:03:43.680]  I just want to be sure everybody's clear about that, that it's fundamental that not just myself, but all of you, when you have your moral compass and your ideas, the policies that you support and you think are right, that you stand up for those.
+[00:03:44.879 --> 00:03:54.000]  Now, Trump, I know, does not like war and knows it's not good for society, especially with nuclear weapons.
+[00:03:54.319 --> 00:03:56.960]  And we've been on the path towards total war with Russia.
+[00:03:57.280 --> 00:04:00.480]  And he's overall tried to de-escalate that.
+[00:04:01.439 --> 00:04:04.000]  But we've seen us dragged in with the Iran situation.
+[00:04:04.240 --> 00:04:09.360]  And now Trump's very angry at Russia for not doing concessions, but neither is Ukraine.
+[00:04:09.599 --> 00:04:12.800]  Their dictators, Zelensky, and NATO doesn't want any concessions.
+[00:04:13.120 --> 00:04:15.280]  And so really, we're at a stalemate.
+[00:04:15.840 --> 00:04:27.920]  And Trump has been making some very escalatory statements about 100% tariffs and about maybe giving long-range heavy missiles to Kyiv so they can start bombing Moscow.
+[00:04:28.079 --> 00:04:29.920]  That is crazy.
+[00:04:30.240 --> 00:04:32.240]  You also saw Operation Spiderweb.
+[00:04:32.399 --> 00:04:33.759]  Clearly, we're working with the West.
+[00:04:34.000 --> 00:04:40.319]  As far away as 4,000 miles from Ukraine, blowing up Russia's strategic nuclear bombers a few months ago.
+[00:04:41.600 --> 00:04:43.199]  That was extremely escalatory.
+[00:04:43.280 --> 00:04:47.040]  You had Biden and NATO blowing up the Nord Stream pipeline before that.
+[00:04:47.360 --> 00:04:51.280]  And we have the West on Russia's borders moving weapons up against Russia.
+[00:04:51.600 --> 00:04:55.680]  So when I say that's wrong, it's not an endorsement of everything Vladimir Putin and Russia does.
+[00:04:56.000 --> 00:04:58.240]  It's the fact that the West is the aggressor.
+[00:04:58.480 --> 00:05:01.840]  NATO and the EU admit their business plan is a 20-year war with Russia.
+[00:05:02.000 --> 00:05:09.280]  They believe will stay conventional and will finally bankrupt Russia and break it into five pieces, which is a declaration of absolute war against Russia.
+[00:05:09.840 --> 00:05:20.000]  So in general, I am very critical of the neocons and the Democrats at NATO that want war to continue and want to believe that Trump understands how existentially dangerous this is.
+[00:05:20.080 --> 00:05:23.280]  He's said that many times and is doing the best job he can.
+[00:05:24.240 --> 00:05:35.120]  Medieval is the former president of Russia and the former vice president, and he is on the big security council of Russia, the head of it, the co-head of it.
+[00:05:35.439 --> 00:05:39.120]  And he has been making a lot of statements like, we'll just give nukes to Iran.
+[00:05:39.280 --> 00:05:41.280]  And then we've got nuclear weapons.
+[00:05:41.439 --> 00:05:42.160]  We can destroy you.
+[00:05:42.400 --> 00:05:43.280]  You continue.
+[00:05:43.840 --> 00:05:48.320]  We know that we're really at war with the U.S., which is true, but it's very escalatory.
+[00:05:48.640 --> 00:05:57.520]  And so when Trump came out a few days ago, actually yesterday and said, fine, we'll put two nuclear submarines right up on your coast and have them ready to attack.
+[00:05:59.439 --> 00:06:01.920]  Well, the submarines are already off their coast and already ready to attack.
+[00:06:02.160 --> 00:06:03.040]  I already know that doctrine.
+[00:06:03.120 --> 00:06:04.320]  It's not secret doctrine.
+[00:06:04.639 --> 00:06:15.520]  I had a bunch of really informed people that have been on nuclear submarines and also operated ground-based nuclear missiles calling to concur with my analysis yesterday.
+[00:06:15.680 --> 00:06:23.840]  If you want to see my analysis, and then the 45 minutes or so of callers calling in with their expertise, confirmed that my analysis was dead on.
+[00:06:24.320 --> 00:06:35.280]  But that's very historical information, important for people that don't study warfare, nuclear warfare doctrine, mutually assured destruction policies and things like that.
+[00:06:35.360 --> 00:06:37.759]  I've always found it fascinating my whole life.
+[00:06:37.920 --> 00:06:38.879]  My dad found it fascinating.
+[00:06:38.960 --> 00:06:41.120]  He started to educate me about it when I was about five years old.
+[00:06:41.440 --> 00:06:45.520]  And I've kind of fought along as it's changed and followed the treaties and the different developments that have happened.
+[00:06:45.600 --> 00:06:47.280]  But the U.S. is abandoned the treaties.
+[00:06:47.440 --> 00:06:49.120]  Russia's abandoned the treaties.
+[00:06:49.440 --> 00:07:16.240]  Russia's abandoned the treaties because in the last really 15 years, but getting more intense, NATO has taken over almost every country around Russia, former Soviet Union satellites, and have moved hypersonic nuclear-capable missiles up to the border that could vaporize Moscow in two minutes.
+[00:07:16.480 --> 00:07:28.160]  And they could take out Russia's nuclear fields in just a few minutes because most of their systems are in the north and also in the west, obviously closer to the population center so they can deliver their payloads quicker.
+[00:07:28.800 --> 00:07:31.519]  So all of this has been escalatory for decades.
+[00:07:31.840 --> 00:07:37.759]  And the weakness of Russia invited NATO to encircle it.
+[00:07:38.400 --> 00:07:45.600]  And now Russia is not in the weak position it was in 1991 and has the largest nuclear force in the world, admitted.
+[00:07:45.840 --> 00:07:47.440]  I'm not sure that's really true.
+[00:07:47.759 --> 00:07:49.840]  The U.S. likes to hide a lot of stuff, obviously.
+[00:07:50.560 --> 00:07:51.680]  Russia, I'm sure, hid things.
+[00:07:51.759 --> 00:07:58.160]  But on what's admittedly there, Russia has a three-to-one nuclear weapon capability.
+[00:07:58.720 --> 00:08:02.160]  And the delivery they have is at least on par with us.
+[00:08:02.480 --> 00:08:04.800]  So this is not a good thing.
+[00:08:05.360 --> 00:08:18.480]  And in the doctrine, if things continue to escalate on the threat escalation ladder of the Pentagon and the similar think tanks, RAN Corporation, the Russians have a similar threat matrix, it leads to nuclear war.
+[00:08:18.720 --> 00:08:24.080]  And any nuclear war, in almost every actuary war game, leads to total nuclear war.
+[00:08:24.400 --> 00:08:28.000]  And so we talk a lot about this here on the broadcast because it's a big deal.
+[00:08:28.320 --> 00:08:31.440]  And you remember Biden two years ago saying we can't give them F-16s and Abraham's tanks.
+[00:08:31.519 --> 00:08:33.440]  That leads to World War III on the ladder.
+[00:08:33.600 --> 00:08:38.320]  But we've already way past that on the threat escalation ladder.
+[00:08:38.960 --> 00:08:48.639]  And if you don't know what that is, just type in RAN Corporation or Pentagon threat escalation ladder, and you can see the different ones.
+[00:08:49.120 --> 00:08:53.680]  Now, a simple one for nuclear deployment is the DEFCON levels.
+[00:08:53.759 --> 00:08:56.240]  And Russia and China all have similar systems.
+[00:08:56.560 --> 00:09:00.400]  DEFCON 5, fade-out, normal, lowest state.
+[00:09:00.720 --> 00:09:04.879]  Double take, above normal, Intel Watch, increased security measures strengthened.
+[00:09:05.200 --> 00:09:06.879]  And we're basically never at DEFCON 5.
+[00:09:06.960 --> 00:09:08.240]  It's always at least DEF CON 4.
+[00:09:08.480 --> 00:09:14.320]  DEFCON 3, roundhouse, Air Force, 15 minutes of mobilization, force readiness increased above normal levels.
+[00:09:14.559 --> 00:09:22.400]  DEFCON 2, fast-paced, armed forces of six hours or less to deploy and engage near-nuclear war.
+[00:09:22.720 --> 00:09:24.960]  We are definitely at least at DEFCON 2.
+[00:09:25.120 --> 00:09:33.840]  And most of the callers who worked in the nuclear forces and nuclear detection agreed that we're at least at DEFCON 2, probably at DEFCON 1.
+[00:09:34.080 --> 00:09:38.799]  DEFCON 1, cocked pistol, maximum readiness, nuclear war imminent.
+[00:09:39.759 --> 00:09:55.360]  Well, the submarines, and I said this, but I said, how many people that are on submarines, nothing classified, but I said, you know, I've forgotten more than most people know, but I said, I need people that have been in the ground-based and air-based and sea-based, particularly sea-based is really the tip of the spear.
+[00:09:56.159 --> 00:09:58.399]  And there's some space-based stuff that's secret.
+[00:09:58.720 --> 00:10:06.000]  I need you to call in and explain to me: am I wrong that we're at least at DEF CON 2, probably DEF CON 1, and that the submarines were already off their coast.
+[00:10:06.159 --> 00:10:10.080]  That's just policy, that the Russians are off our coast too.
+[00:10:10.720 --> 00:10:17.039]  And that basically this announcement was letting Russia know the U.S. has gone to DEF CON 1.
+[00:10:17.360 --> 00:10:19.679]  And so the safety's off, fingers on the trigger.
+[00:10:19.919 --> 00:10:22.799]  And the callers were like, Yeah, that's you know, we're not in right now.
+[00:10:22.879 --> 00:10:24.799]  That's classified, but that's what that's what they believe.
+[00:10:25.039 --> 00:10:26.480]  We're probably at DEF CON 1 right now.
+[00:10:26.799 --> 00:10:38.879]  And I got a chill when I said that because from historical sources comes out later when we've been at the DEF CON 1, it happens very rarely, extremely rarely.
+[00:10:39.519 --> 00:10:52.879]  And when they're at DEF CON 1, they get them in the silos or they get them at their terminals, they get them at their missile launchers, they load the bombs on planes, planes take off.
+[00:10:53.200 --> 00:10:55.120]  And routinely, they're flying around with bombs on them, anyways.
+[00:10:55.279 --> 00:11:01.680]  But the professionals doing this, very professional, this is a really hard job, obviously.
+[00:11:02.240 --> 00:11:12.480]  The keys to total destruction, they have these drills, and they're not told when it's really DEF CON 1 because they drill as if they're already on DEF CON 1.
+[00:11:12.960 --> 00:11:14.240]  So they never know.
+[00:11:15.279 --> 00:11:24.720]  But there's been times they later learned that they were at DEF CON 1 and they were being transmitted the launch codes, the real thing, the whole deal, because they do test to see if they'll do it.
+[00:11:25.360 --> 00:11:27.840]  So that's all highly classified.
+[00:11:27.919 --> 00:11:29.039]  I don't even know the exact specifics.
+[00:11:29.200 --> 00:11:33.039]  It changes from time to time, but this is a big deal.
+[00:11:33.680 --> 00:11:36.159]  And I've really thought about it, had time to sleep on it.
+[00:11:36.480 --> 00:11:42.559]  It is Menedev making the extremely insinuary, if this keeps going, you're going to have a nuclear war.
+[00:11:42.879 --> 00:11:51.759]  But you also have Zelensky saying he wants nukes, NATO saying eight months ago, we might just strike Russia first in a first strike.
+[00:11:52.080 --> 00:12:04.399]  And then Russia said, if we see a large aeronautical group coming in, not just a few of these heavy missiles they were shooting in when Biden was doing that, the Attackums and Storm Shadows, it could be nuclear tipped.
+[00:12:04.960 --> 00:12:10.559]  If we see a bunch of those coming in, we're going to have to consider that's a sneak attack and we're going to nuke you, which is our same doctrine.
+[00:12:10.960 --> 00:12:21.840]  If we saw a bunch of submarines pop up and 100 missiles coming in, the president's going to order a nuclear attack on Russia and on their subs and everything.
+[00:12:21.920 --> 00:12:23.360]  It's going to be totally, it's going to be boomed.
+[00:12:23.680 --> 00:12:28.000]  The doctrine is the war games, sir, planned such and such has now been engaged.
+[00:12:28.319 --> 00:12:30.159]  We've got 127 incomings.
+[00:12:30.240 --> 00:12:31.759]  It looks like more launches now.
+[00:12:32.399 --> 00:12:39.600]  And because they could have conventional on those, but that's not what they would do because they know they're going to get nuked when those are coming in.
+[00:12:39.680 --> 00:12:40.559]  We don't know what's on them.
+[00:12:41.200 --> 00:12:45.600]  And so the Russians have said, all right, you're already shooting missiles in here and a bunch of drones and stuff.
+[00:12:46.240 --> 00:12:47.360]  And NATO's, you know, careful.
+[00:12:47.759 --> 00:12:54.159]  Back when they were peaking, you know, maybe five storm shadows, you know, attack them's going a few hundred miles in, blowing up bases.
+[00:12:54.240 --> 00:12:58.080]  They're like, all right, now we see a whole bunch of those coming in.
+[00:12:58.240 --> 00:12:59.120]  You know what you do?
+[00:12:59.279 --> 00:13:10.960]  You start, you flush the bombers and load them, you know, the missiles and have them at the ready.
+[00:13:11.120 --> 00:13:13.680]  I mean, it's not good.
+[00:13:15.279 --> 00:13:36.480]  And Putin, if you remember, last year in November, because of all the weapons being moved to the border, they upped their doctrine to be more ready to go because before he would have to get the Security Council's agreement to launch.
+[00:13:38.399 --> 00:13:48.080]  So they even had a, let's say, more dovish posture than us because even the Russian government and people didn't totally trust their president.
+[00:13:48.399 --> 00:13:51.440]  And that doctor was there before Putin to be able to nuke people.
+[00:13:52.080 --> 00:13:58.240]  So they wanted to have at least seven, eight, nine, ten people in a room to make the decision.
+[00:13:58.559 --> 00:14:04.879]  That way, if the leader went crazy or somebody could hypnotize them, I mean, who knows?
+[00:14:05.200 --> 00:14:10.799]  They'd have to, of course, obviously when their DEF CON goes up, they've all got to be all together and in bunkers ready because they got to be able to agree.
+[00:14:11.039 --> 00:14:13.840]  They changed it where Putin can do whatever he wants, just like Trump can.
+[00:14:14.799 --> 00:14:20.559]  So all of this is just gearing up and getting right to the edge and getting ready.
+[00:14:21.519 --> 00:14:27.519]  And if somebody jumps the gun or some terror group detonates a smuggled nuke, I mean, it just goes from bad to worse.
+[00:14:28.079 --> 00:14:29.920]  We've never been closer to a nuclear war.
+[00:14:30.000 --> 00:14:31.039]  That's what all the experts say.
+[00:14:31.200 --> 00:14:32.480]  I agree with them.
+[00:14:33.360 --> 00:14:38.079]  And so I don't want to be alarmist here, but I'm not even saying Trump's right.
+[00:14:40.000 --> 00:14:47.039]  It might have been better just to not respond to Mededyev's threats because the West has been making really threatening actual moves.
+[00:14:47.360 --> 00:14:49.920]  The West is the thing making the real threatening moves.
+[00:14:50.240 --> 00:14:54.879]  We don't need to make the saber-rattling comments.
+[00:14:55.439 --> 00:14:56.959]  The real thing's been done.
+[00:14:58.000 --> 00:15:00.399]  But Trump's come out and explained why he did it.
+[00:15:00.559 --> 00:15:05.600]  He says he wants Medvedev to shut up and to stop making these statements, which I do think is smart.
+[00:15:06.079 --> 00:15:14.159]  And since Trump made these statements yesterday morning on True Social, now he's made some video statements, interview statements, the Russians have shut up.
+[00:15:14.480 --> 00:15:18.559]  Medvedev has stopped, which is very good.
+[00:15:20.159 --> 00:15:22.399]  So I want to go over this.
+[00:15:22.720 --> 00:15:31.839]  And then we've been seeing flurries of activities and now really a big buildup of criminal investigations and other things into the deep state.
+[00:15:31.919 --> 00:15:41.039]  And from my sources, I've been telling you for months, they do intend to start indicting people for Crossfire Hurricane and the rolling coups and all the rest of it.
+[00:15:41.120 --> 00:15:42.720]  So there's a bunch of developments.
+[00:15:43.039 --> 00:16:03.600]  And then just today on that, just since yesterday, and then I'll get into what happened yesterday because it's, it's, I'm not holding my breath, but I'm seeing hundreds and hundreds of times more rhetoric about indicting the deep state than we heard here and there in the first administration.
+[00:16:03.919 --> 00:16:09.600]  And Trump's got a lot better people in there now compared to what he had, like Ed Martin and others.
+[00:16:10.240 --> 00:16:18.720]  And then the activity I'm seeing and what Trump's saying, remember Trump before, when everybody's like, lock Hillary up, we got elected.
+[00:16:18.799 --> 00:16:21.600]  He said, no, no, no, let's give her a chance just to go away.
+[00:16:22.240 --> 00:16:34.079]  A few weeks ago in a press conference, he said, you know, I we could have indicted her, but I just thought it was best to move on politically and not look like we were persecuting people, but they won't stop.
+[00:16:34.399 --> 00:16:38.079]  Well, now he's come out and been very specific with what I've told you.
+[00:16:38.159 --> 00:16:39.600]  I heard behind the scenes in meetings with Trump.
+[00:16:39.839 --> 00:16:40.639]  People have had him.
+[00:16:40.960 --> 00:16:42.240]  He's like, look, they're too dangerous.
+[00:16:42.319 --> 00:16:42.960]  They're not going away.
+[00:16:43.039 --> 00:16:44.240]  They're going to destroy the country.
+[00:16:44.559 --> 00:16:45.839]  We have to do this.
+[00:16:46.159 --> 00:16:48.000]  And so we can show no mercy to any of them.
+[00:16:48.159 --> 00:16:51.679]  And I've told the Justice Department, the evidence is there and died all their asses.
+[00:16:52.000 --> 00:16:59.039]  And they are getting ready retroactive impeachment of Obama to strip him of his presidential powers, indict him.
+[00:16:59.360 --> 00:17:01.759]  And they've got David Schoen, who's not a lightweight.
+[00:17:02.000 --> 00:17:03.039]  He's probably the best lawyers in the country.
+[00:17:03.120 --> 00:17:04.240]  He doesn't run his mouth.
+[00:17:04.480 --> 00:17:07.519]  And he's one of the top advisors of Trump on this.
+[00:17:08.079 --> 00:17:21.839]  And he says, no, have an impeachment, put all their crimes on TV so the public understands it because it knows the media won't cover the fact that Russia gets a total hoax and proven to be a fraud and strip him and strip Biden.
+[00:17:22.079 --> 00:17:23.440]  And we have the auto pin.
+[00:17:23.839 --> 00:17:25.519]  We can impeach him on that.
+[00:17:25.839 --> 00:17:27.279]  And then null and void everything they did.
+[00:17:27.440 --> 00:17:34.240]  I mean, this is what they did was a multi-layered coup with the auto pin and switching candidates last year.
+[00:17:34.559 --> 00:17:37.920]  And I told you crossfire hurricane type stuff.
+[00:17:38.559 --> 00:17:41.119]  They just called their criminal activity crossfire hurricanes.
+[00:17:41.279 --> 00:17:41.920]  They knew it might come out.
+[00:17:42.278 --> 00:17:43.138]  just a bunch of lawlessness.
+[00:17:43.138 --> 00:17:55.197]  They, they said, and I, and I talked to, I told you months ago, I said, no, they're going to go after the Mar-a-Lago Ray.
+[00:17:55.359 --> 00:17:57.680]  They're going to go after the 2020 election theft.
+[00:17:58.559 --> 00:18:05.039]  The CIA and FBI being involved with China, helping them ship the ballots in, filled out for Biden, helping cover it up.
+[00:18:05.200 --> 00:18:07.920]  We had the whistleblowers then, the people at the Postal Service that saw it.
+[00:18:08.159 --> 00:18:09.440]  FBI came and threatened them.
+[00:18:09.680 --> 00:18:10.319]  We have all that.
+[00:18:10.400 --> 00:18:13.119]  And see, the statute of limitations isn't over on that stuff.
+[00:18:14.000 --> 00:18:17.680]  People always say, oh, yeah, we got Brendan Clapper and Comey committing perjury cut and dry.
+[00:18:17.839 --> 00:18:18.400]  Oh, we didn't leak.
+[00:18:18.879 --> 00:18:19.599]  We weren't investigating.
+[00:18:19.680 --> 00:18:20.480]  There was no investigation.
+[00:18:20.960 --> 00:18:22.799]  It didn't come from Obama.
+[00:18:24.000 --> 00:18:26.319]  But that statute of limitations is over five years.
+[00:18:26.480 --> 00:18:28.159]  Well, all this other stuff's not.
+[00:18:28.480 --> 00:18:32.400]  And notice they're not even talking about the latest perjury and things.
+[00:18:32.720 --> 00:18:34.879]  They're talking about seditious conspiracy.
+[00:18:35.200 --> 00:18:36.879]  They're talking about treasonous conspiracy.
+[00:18:37.039 --> 00:18:39.039]  And that's the name of the strike force.
+[00:18:39.599 --> 00:18:41.440]  And they're not just counting on the Justice Department.
+[00:18:41.759 --> 00:18:43.920]  They got all the agencies involved.
+[00:18:44.559 --> 00:18:49.519]  And that's what General Flynn said six months ago.
+[00:18:49.680 --> 00:18:58.240]  And he said, as soon as she gets approved, Trump should put Gabbard because she's shown she'll execute.
+[00:18:59.119 --> 00:19:08.400]  And so is Roger Stone in charge of leading the task force.
+[00:19:08.799 --> 00:19:10.000]  This is beyond the Justice Department.
+[00:19:10.079 --> 00:19:11.920]  This is an intelligence operation.
+[00:19:12.639 --> 00:19:16.000]  This is a party engaged in espionage and a coup against the country.
+[00:19:16.319 --> 00:19:19.599]  People always keep thinking about the Russians, the Chinese, and that's a real issue.
+[00:19:19.839 --> 00:19:22.400]  But you always hear about third world countries.
+[00:19:22.559 --> 00:19:23.279]  What overthrows it?
+[00:19:23.359 --> 00:19:28.639]  Its own security services, Rome with the Praetorian Guards and all of that.
+[00:19:29.839 --> 00:19:33.200]  So normally powerful countries fall from within.
+[00:19:33.519 --> 00:19:34.639]  It's not normally from without.
+[00:19:34.720 --> 00:19:36.480]  So it's not like this is some new thing.
+[00:19:36.799 --> 00:19:45.680]  People just, through Hollywood and culture, are conditioned to think that the Justice Department and the agencies are like good guys or something.
+[00:19:47.279 --> 00:19:49.599]  And certainly the rank and foul are out just doing regular jobs.
+[00:19:49.680 --> 00:19:54.240]  But no, historically, the leadership is very political and goes from bad to worst.
+[00:19:55.840 --> 00:19:57.519]  So it's all going down.
+[00:19:57.680 --> 00:19:59.279]  So I'm going to get into all that coming up.
+[00:19:59.600 --> 00:20:06.160]  But just to show the receipts here, I don't like to mention something and not show it, like corporate media does.
+[00:20:06.799 --> 00:20:10.799]  Jones says, kill illegal aliens crossing the border, ADL.
+[00:20:11.680 --> 00:20:14.880]  I had my lawyer years ago, send him a letter, saying, We're going to sue you, retract it.
+[00:20:14.960 --> 00:20:15.759]  Where did I say it?
+[00:20:16.080 --> 00:20:17.840]  Didn't say it, didn't say anything close to it.
+[00:20:18.000 --> 00:20:19.840]  They just pulled it out of their butt.
+[00:20:20.799 --> 00:20:22.799]  And that's what they do.
+[00:20:23.440 --> 00:20:25.840]  Well, when we tell you something, we like to show it to you.
+[00:20:26.160 --> 00:20:34.640]  So here is Trump in the Rose Garden, and then here's Trump in the TV interview talking about why he did what he did.
+[00:20:34.960 --> 00:20:38.080]  And then I want to respond to Bolton and his ridiculous lies.
+[00:20:38.400 --> 00:20:39.120]  Here it is.
+[00:20:40.080 --> 00:20:41.440]  No, Dave, nuclear coming.
+[00:20:42.240 --> 00:20:42.640]  Oh, yeah.
+[00:20:42.800 --> 00:20:44.000]  Well, we had to do that.
+[00:20:44.480 --> 00:20:46.240]  We just have to be careful.
+[00:20:46.560 --> 00:20:49.680]  And a threat was made, and we didn't think it was appropriate.
+[00:20:50.000 --> 00:20:51.200]  So I have to be very careful.
+[00:20:51.360 --> 00:20:55.120]  So I do that on the basis of safety for our people.
+[00:20:55.440 --> 00:21:01.120]  A threat was made by a former president of Russia, and we're going to protect our people.
+[00:21:03.519 --> 00:21:13.600]  A former president of Russia, who's now in charge of one of the most important councils, Medvedev, said some things that are very bad talking about nuclear.
+[00:21:13.920 --> 00:21:21.680]  And when you mention the word nuclear, I say, you know, my eyes light up and I say, we better be careful because it's the ultimate threat.
+[00:21:21.840 --> 00:21:22.559]  Shouldn't have said it.
+[00:21:22.720 --> 00:21:24.080]  He's got a fresh mouth.
+[00:21:24.240 --> 00:21:25.920]  He said things in the past too.
+[00:21:26.559 --> 00:21:29.600]  And so we always want to be ready.
+[00:21:29.920 --> 00:21:34.000]  And so I have sent to the region two nuclear submarines.
+[00:21:34.080 --> 00:21:38.960]  I just want to make sure that his words are only words and nothing more than that.
+[00:21:39.600 --> 00:21:41.519]  And again, they were already there.
+[00:21:41.680 --> 00:21:43.759]  He's letting them know they're at DEF CON 1.
+[00:21:46.960 --> 00:21:47.279]  All right.
+[00:21:47.440 --> 00:21:50.080]  Russia is staying quiet on Trump's nuclear move.
+[00:21:50.240 --> 00:21:51.360]  The BBC is reporting.
+[00:21:51.519 --> 00:21:52.880]  That is good news.
+[00:21:53.200 --> 00:21:55.120]  We just need to de-escalate this.
+[00:21:55.440 --> 00:21:59.039]  And then you've got this information.
+[00:21:59.360 --> 00:22:00.720]  Very risky business.
+[00:22:01.039 --> 00:22:04.720]  John Bolton reacts to Trump's nuclear suborder.
+[00:22:05.680 --> 00:22:17.279]  Now, Bolton, big neocon national security advisor, both under Bush, W, and then Trump, total traitor, leaks, fake info, fake intelligence briefings of Trump.
+[00:22:17.360 --> 00:22:19.920]  That's all come out now in documents released last week.
+[00:22:20.800 --> 00:22:22.320]  Total piece of garbage.
+[00:22:22.640 --> 00:22:23.759]  He is such a fraud.
+[00:22:24.000 --> 00:22:28.320]  Maybe he doesn't even understand nuclear doctrine, but I find it hard to believe he doesn't.
+[00:22:29.600 --> 00:22:32.800]  Saying it's risky to move submarines up.
+[00:22:35.680 --> 00:22:37.920]  I said yesterday the submarines are always there.
+[00:22:38.480 --> 00:22:39.440]  That's just a fact.
+[00:22:39.759 --> 00:22:44.320]  I mean, they rotate in and out, but when they're on deployment, they're out there and then others will leave them.
+[00:22:45.279 --> 00:22:56.800]  And then if there's a really wartime situation going on or pre-wartime, which is now, they're not letting, I guarantee you, those folks on those subs are having their deployments extended unless the submarine's having malfunctions.
+[00:22:57.039 --> 00:22:59.519]  And they run back to port, fix it, and run back back.
+[00:22:59.840 --> 00:23:10.160]  So that's all classified, but I guarantee you, those of you that have submariners in the nuclear fleet and also in the Hunter-Killer ones, kill the other subs.
+[00:23:10.800 --> 00:23:14.480]  Guarantee, if you've got families supposed to be back in the last few months, I bet they're on deployment.
+[00:23:14.640 --> 00:23:18.720]  You're not even hearing from them because they're down at the bottom of the ocean sneaking around.
+[00:23:19.360 --> 00:23:30.880]  So again, Bolton just does this to criticize Trump and act like Trump did some wild, you know, unusual thing.
+[00:23:32.080 --> 00:23:37.519]  No, Trump just reminded him we have nuclear submarines and I've deployed them.
+[00:23:37.840 --> 00:23:53.440]  And again, I haven't looked at the latest numbers in years, but I'd imagine there's last time there's probably 30 or 40 subs around Russia, just the one, you know, the ones that launched the nukes and a whole bunch of other ones sneaking around, hunting Russian subs.
+[00:23:53.759 --> 00:23:58.559]  And then there's going to be probably 20 or 30 off the coast of China, maybe even more.
+[00:24:00.160 --> 00:24:06.160]  And little, little, the point is, is that this is going on.
+[00:24:06.800 --> 00:24:10.079]  And I can assure you, the United States has got other stuff nobody knows about.
+[00:24:10.400 --> 00:24:12.079]  I'll just stop right there.
+[00:24:12.400 --> 00:24:16.880]  But I mean, just listen to Bolton for yourself.
+[00:24:17.519 --> 00:24:24.400]  Trump doesn't really understand how our nuclear navy works and what their plan of operation is.
+[00:24:24.720 --> 00:24:31.519]  As for Medvedev, it's true he's a former Russian president, a former prime minister, in fact, always subordinate to Vladimir Putin.
+[00:24:31.759 --> 00:24:38.160]  Right now, the position he holds is equivalent to deputy national security advisor in the United States.
+[00:24:38.320 --> 00:24:46.400]  And it's just really very ill-advised to have the president responding to somebody like that, whatever they're tweeting on, whatever subject.
+[00:24:46.640 --> 00:24:50.160]  Even if somebody should respond to him, it shouldn't be the president.
+[00:24:50.560 --> 00:25:12.720]  But more fundamentally, what Trump may not be understanding here, and which the Kremlin could be misreading, is how the ballistic missile nuclear submarines that we have operate and how they function and serve basically as our second strike capability in the event of a nuclear war.
+[00:25:15.200 --> 00:25:17.280]  And that's another old lie.
+[00:25:18.240 --> 00:25:21.440]  Oh, we've got to have more submarines in case they sneak attack us.
+[00:25:22.240 --> 00:25:25.280]  Oh, we've got to have space-based weapons in case they sneak attack us.
+[00:25:25.360 --> 00:25:27.600]  They're for sneak attacks.
+[00:25:28.240 --> 00:25:30.400]  And of course, they're also in case you get snug attack.
+[00:25:31.040 --> 00:25:34.240]  It's like you can use a gun to go on offense or defense.
+[00:25:35.440 --> 00:25:40.960]  I mean, I can use my fist to crumple up a piece of paper and throw it in the trash can, or I can ball my fist and punch somebody in the nose.
+[00:25:41.360 --> 00:25:45.920]  It's like I'm sure Bolton does understand how all this works.
+[00:25:46.080 --> 00:25:54.000]  He's just trying to pretend that Mediev hasn't been getting other countries to say we're going to give nukes to Iran and making escalatory statements.
+[00:25:54.320 --> 00:25:56.560]  And he's on the main council.
+[00:25:56.880 --> 00:26:01.600]  And I'm not even saying I agree with Trump, but I know why he did it.
+[00:26:03.120 --> 00:26:11.840]  So we don't need to hear from Mr. Nuclear War, Mr. Wants the War with Iran and Russia and everybody else.
+[00:26:12.000 --> 00:26:15.680]  We don't need to hear from you, Mr. Warmonger, about how Trump doesn't know what he's doing.
+[00:26:15.840 --> 00:26:20.080]  We elected Trump, not the monopoly man.
+[00:26:20.960 --> 00:26:23.520]  So that's that.
+[00:26:24.800 --> 00:26:29.120]  Now, I have a little correction to make.
+[00:26:31.040 --> 00:26:41.680]  Yesterday, I didn't really make a mistake, but I didn't understand because I was reading articles quickly as they were coming out, and I was confused with the nature out of the show.
+[00:26:41.760 --> 00:26:47.040]  I went and looked it up, did some research, and then walked in to eat lunch, late lunch in the break room.
+[00:26:47.120 --> 00:26:58.160]  And we had Fox on and they had Kudlow on, who's really smart, former top economic advisor to Trump.
+[00:26:58.800 --> 00:26:59.760]  And he was explaining it.
+[00:26:59.840 --> 00:27:01.760]  So this is very exciting news.
+[00:27:02.320 --> 00:27:10.000]  My mistake was I just saw Fed board chairs resigning.
+[00:27:10.560 --> 00:27:13.680]  And I guess the news got it wrong with saying regional.
+[00:27:14.160 --> 00:27:20.400]  I thought, well, those just do the functions with the Treasury, but they don't have the board power, the private Federal Reserve that's in New York.
+[00:27:20.480 --> 00:27:21.600]  That's the real Federal Reserve.
+[00:27:21.680 --> 00:27:25.600]  The other stuff's just administrative.
+[00:27:26.560 --> 00:27:30.480]  And so the Federal Reserve Act of 1913 puts them in.
+[00:27:30.640 --> 00:27:32.640]  Only Congress could repeal that.
+[00:27:32.960 --> 00:27:36.320]  And the president cannot fire the head of the Newark Fed.
+[00:27:36.880 --> 00:27:41.440]  Just when his term's over, he can appoint who he wants, but then it has to be approved by the Congress.
+[00:27:41.520 --> 00:27:52.400]  So there is a little bit of checks and balances on it, but there's never been these big fights with the Federal Reserve because it's basically what the globalists have been in control of our country off and on since 1913.
+[00:27:52.880 --> 00:27:59.200]  And it's key, it's at the top of the pyramid of control to nationalize it or repeal it and take control of it.
+[00:27:59.360 --> 00:28:06.320]  Lincoln started issuing U.S. dollars for a brief time, even before this central bank got his head blown off.
+[00:28:06.640 --> 00:28:12.240]  Kennedy reissued the Lincoln notes about a month before he got killed, put out a whole bunch of them.
+[00:28:12.560 --> 00:28:16.720]  They only put out, what was it, $5 billion in $5 bills, got his head blown off.
+[00:28:17.360 --> 00:28:20.400]  So when you go up against the Federal Reserve, you're going up against the top of the pyramid.
+[00:28:20.640 --> 00:28:22.000]  It's Rothschild-owned.
+[00:28:22.320 --> 00:28:26.480]  There's never been an audit of it, but when it's being set up, they had to give the numbers, like 80-something percent Rothschild-owned.
+[00:28:27.120 --> 00:28:36.640]  And so when you see European Central Bank that's private or the UK Central Bank, it's private, and the shareholders are, the Rothschilds are the majority shareholder on record of those.
+[00:28:36.960 --> 00:28:43.200]  So Powell is just on the board of the Federal Reserve whose stock is owned by the very same central bankers.
+[00:28:43.280 --> 00:28:44.720]  It's the same group.
+[00:28:45.040 --> 00:28:51.120]  And, you know, you got the Warburgs and others as functionaries that were there would be over the Germans and then over us over here.
+[00:28:51.520 --> 00:28:54.960]  It's like literally playing both sides of it in World War I, World War II.
+[00:28:55.280 --> 00:29:00.960]  That goes into Brown Brother Harriman and Prescott Bush and that bank and all the hidden Nazi money into World War II.
+[00:29:01.120 --> 00:29:02.800]  And this is all on record stuff.
+[00:29:03.120 --> 00:29:15.040]  So you need to understand that they've given interest rates to the EU and made it the place to go invest and won't give us interest rate cuts, even though they're in more debt than us and in much worse shape.
+[00:29:15.360 --> 00:29:17.040]  And China's had interest rate cuts for themselves.
+[00:29:17.200 --> 00:29:18.480]  They're way worse shape.
+[00:29:18.800 --> 00:29:23.040]  So all the economic indicators are cut interest rates help one or two points at least.
+[00:29:23.360 --> 00:29:25.120]  And Powell's saying, no, no, no, no, no.
+[00:29:25.360 --> 00:29:30.720]  Well, I scanned it and saw Trump saying, hey, make the move.
+[00:29:31.040 --> 00:29:35.200]  He needs to resign or he needs to cut rates or you need to vote him off the board.
+[00:29:35.680 --> 00:29:40.400]  I didn't realize these are people on the New York Fed and a bunch of others.
+[00:29:41.120 --> 00:29:51.360]  And so Cudlow broke down the fact that he rechecked the laws in the Federal Reserve Charter and that he believes that Trump is correct and can do this.
+[00:29:51.920 --> 00:29:54.480]  So Trump is really outmaneuvering them.
+[00:29:55.040 --> 00:30:03.520]  And Powell could be gone as early as next month because now two of the other board members are resigning.
+[00:30:04.640 --> 00:30:08.480]  So this is great.
+[00:30:09.120 --> 00:30:14.480]  I mean, Trump is even taking the Federal Reserve that nobody's been able to stand up to.
+[00:30:14.800 --> 00:30:16.400]  I mean, Kennedy tried.
+[00:30:17.200 --> 00:30:19.680]  There was another permutation of it in Lincoln's Day.
+[00:30:20.160 --> 00:30:28.080]  But too late, Powell should design just like Adriana Cugler and Biden appointee resigned.
+[00:30:28.160 --> 00:30:32.320]  She knew he was doing the wrong thing on interest rates.
+[00:30:32.480 --> 00:30:34.000]  He should resign also.
+[00:30:35.440 --> 00:30:39.760]  There's another one that was set to resign on, they're saying Monday, but it doesn't kick in for like a month.
+[00:30:39.840 --> 00:30:42.960]  So we're looking at September.
+[00:30:44.160 --> 00:30:45.920]  The question is: will it be too little, too late?
+[00:30:46.000 --> 00:30:48.160]  Because you're already seeing what it's doing to the economy.
+[00:30:48.480 --> 00:31:00.000]  Also, you had the same lady at the Bureau of Statistics or the Department of Labor put out totally fake numbers for Biden that were proven to be the worst fraud numbers ever, saying there were more job creations there were.
+[00:31:00.320 --> 00:31:08.640]  And then now she put out what were believed to be under numbers that were from the other private groups that look at it.
+[00:31:08.880 --> 00:31:11.680]  They thought there was actually more job increases than what she said.
+[00:31:12.320 --> 00:31:15.760]  She then comes out Thursday and says, no, no, no, it's worse than I thought.
+[00:31:16.720 --> 00:31:17.920]  It's worse than I thought.
+[00:31:18.480 --> 00:31:19.680]  We lost even more jobs.
+[00:31:19.840 --> 00:31:25.600]  And Trump said, I don't know the truth, but I want real economists and I want real people to go in there.
+[00:31:25.920 --> 00:31:28.800]  And I want those numbers looked at because they have those numbers.
+[00:31:29.440 --> 00:31:31.840]  So Trump fires labor statistics chief.
+[00:31:32.480 --> 00:31:34.400]  Bad job numbers rigged, dangerous moves.
+[00:31:34.480 --> 00:31:36.240]  President demands only good news.
+[00:31:36.800 --> 00:31:41.600]  No, this woman is a quantified fraud, part of the same globalist operation trying to sink the economy.
+[00:31:41.920 --> 00:31:50.560]  No one with half a brain is denying that the globalists are trying to sabotage the economy.
+[00:31:53.280 --> 00:32:02.560]  Now that Trump's tariffs are working, now you've got the federal courts running around saying they want to try to override the tariffs.
+[00:32:02.800 --> 00:32:09.680]  But the appellate court got smart after the Supreme Court slapped down these Article III judges and all the other crap they've been doing.
+[00:32:10.320 --> 00:32:13.840]  So they went ahead and said, we're not going to rule on this and punted it to the Supreme Court.
+[00:32:15.760 --> 00:32:21.280]  And so while that emergency thing is going on, it's holding off the implementation of the tariffs kicking in.
+[00:32:21.440 --> 00:32:24.080]  But most of the countries that matter have already capitulated.
+[00:32:24.400 --> 00:32:27.600]  So, and now it's $500 million that's come in, way more than they thought.
+[00:32:27.680 --> 00:32:30.000]  I mean, this is really working.
+[00:32:31.600 --> 00:32:38.880]  And now a bunch of Article III judges got together, as you know, Thursday and put a letter out that came out Friday just saying we're worried Trump's racist, Trump's mean, Trump's back.
+[00:32:39.760 --> 00:32:43.280]  So now they're not even trying to do all their fake rulings.
+[00:32:43.600 --> 00:32:47.600]  They're just doing a struggle session pouty pot time.
+[00:32:47.920 --> 00:32:57.200]  Though some other Obama judges have come out and now tried to override Congress that actually controls the purse and passed the law to cut the money to public broadcasting and NPR.
+[00:32:58.160 --> 00:33:05.680]  And so the judge last Thursday, as you know, ordered the money to still be sent, ordered it to still be sent.
+[00:33:05.920 --> 00:33:08.880]  Congress didn't apportion it in the spending bills.
+[00:33:10.880 --> 00:33:22.720]  So, I mean, now these judges think they're not just the president, but now they are the legislative branch.
+[00:33:23.600 --> 00:33:25.120]  And it just gets crazier and crazier.
+[00:33:25.280 --> 00:33:30.400]  Now, the corporation of public broadcasting says that it's closing its doors.
+[00:33:30.720 --> 00:33:32.320]  They announced that Friday.
+[00:33:32.960 --> 00:33:36.480]  And that's a big slush fund, CIA front group set up in the 60s.
+[00:33:37.440 --> 00:33:42.240]  And it does fund thousands of PBS and NPR stations around the country, partially.
+[00:33:42.720 --> 00:33:50.320]  But how this works is they have government funds that come in, and then those are administered to the NGOs.
+[00:33:50.480 --> 00:33:54.800]  And most of it just goes back to other NGOs that are owned by the same people and groups.
+[00:33:55.120 --> 00:34:02.800]  And then you have one of the top three involved, the corporation public broadcasting, that basically just administers the money that goes out.
+[00:34:03.120 --> 00:34:08.000]  That's why they told Congress only a few percentage comes from corporation for public broadcasting.
+[00:34:08.160 --> 00:34:10.400]  Yeah, but they administer almost all the other money.
+[00:34:10.480 --> 00:34:19.760]  So that's a technical manipulation because only certain money gets held by them, but they then traffic cop it with the NGOs and the government money.
+[00:34:20.000 --> 00:34:24.160]  And it's a spider web of garbage.
+[00:34:25.360 --> 00:34:32.720]  And I shot a report on this actually last night in the car sent to Rob Dewey to, I didn't ask him to do a fancy job.
+[00:34:32.800 --> 00:34:34.000]  He's a super fancy job.
+[00:34:34.480 --> 00:34:36.400]  I forgot to have you guys get that.
+[00:34:36.719 --> 00:34:39.679]  It's on X posted about seven o'clock last night.
+[00:34:40.719 --> 00:34:50.159]  And I explain that I just mentioned the Annenberg Foundation is in the top three.
+[00:34:51.119 --> 00:34:56.000]  And again, the money goes in to the Corporation Public Broadcasting and a few of their holding groups.
+[00:34:56.320 --> 00:34:59.920]  It then gets paid to other NGOs that pay it back to the Annenberg.
+[00:35:01.199 --> 00:35:02.079]  And then they keep most of it.
+[00:35:02.159 --> 00:35:03.840]  And Annenberg's just one of them.
+[00:35:04.159 --> 00:35:10.079]  But the Annenberg Foundation is involved in all the transgender stuff and all the DEI, just all the brainwashing you see.
+[00:35:10.960 --> 00:35:13.679]  And they're involved in Drag Queen story time funding.
+[00:35:13.760 --> 00:35:15.039]  I mean, they're really evil.
+[00:35:15.360 --> 00:35:23.519]  And just as a microcosm, they raised over $100 million for the Palisades fire.
+[00:35:23.840 --> 00:35:27.920]  And then six months in, everybody calls them.
+[00:35:28.559 --> 00:35:31.360]  And even mainstream news calls them and says, well, nobody's gotten a dollar.
+[00:35:31.440 --> 00:35:33.920]  And they said, silly, silly kids.
+[00:35:36.480 --> 00:35:37.760]  What's wrong with you?
+[00:35:38.639 --> 00:35:39.920]  You know, silly rabbit.
+[00:35:40.000 --> 00:35:42.159]  You want tricks, tricks is for kids.
+[00:35:42.240 --> 00:35:43.920]  Well, they said, silly rabbit.
+[00:35:44.240 --> 00:35:45.840]  That money goes to NGOs.
+[00:35:46.079 --> 00:35:54.719]  And people looked at them and it was DEI, transgenderism, just, you know, general brainwashing.
+[00:35:55.039 --> 00:35:58.400]  And that's just the 30, 40% maximum.
+[00:35:58.719 --> 00:36:02.639]  If you look at Annenberg, it actually goes to their communist New World Order satanic causes.
+[00:36:02.880 --> 00:36:10.880]  Most of it just loops around into thousands of other NGOs that their husbands, their wives, their cousins, all of them work at, and they just hog all the money.
+[00:36:11.199 --> 00:36:18.559]  So the little bit of money that goes out is for bad causes, but most of it stays back for them just to steal it all.
+[00:36:19.199 --> 00:36:21.440]  And so he just heard me say Annenberg.
+[00:36:22.400 --> 00:36:26.079]  He looks it up and does some great newscast clips and stuff about that.
+[00:36:26.240 --> 00:36:28.240]  And again, I'm not singling out Annenberg.
+[00:36:28.320 --> 00:36:30.320]  It would take literally thousands of these groups.
+[00:36:30.480 --> 00:36:35.280]  It was actually a million, 500,000 NGOs, 90 plus percent are Democrat, globalist.
+[00:36:35.840 --> 00:36:37.280]  There's over 300 big ones.
+[00:36:37.440 --> 00:36:42.639]  I mean, it's just no, but see, AI with Go is able to figure all this out.
+[00:36:43.119 --> 00:36:44.960]  They're stealing trillions a year.
+[00:36:45.119 --> 00:36:45.440]  Okay.
+[00:36:46.720 --> 00:36:53.599]  And you'll have people that are on the boards of hundreds of these, and they live in palaces and have private jets and just everything.
+[00:36:53.920 --> 00:37:00.880]  And then when you look at the families that own and run all these big NGO clearinghouses, they're the oldest, richest families in America and the world.
+[00:37:00.960 --> 00:37:02.480]  A lot of them are European.
+[00:37:03.119 --> 00:37:05.199]  A lot of the Chinese rich have gotten involved in it.
+[00:37:05.360 --> 00:37:09.119]  I mean, it is just, this is the swamp.
+[00:37:09.440 --> 00:37:10.960]  You think D.C. is a swamp.
+[00:37:11.039 --> 00:37:11.920]  Oh, it's a clearinghouse.
+[00:37:12.000 --> 00:37:13.760]  No, it's everywhere.
+[00:37:14.079 --> 00:37:22.159]  And so that's why you go to Michaels to buy some paints for your kids, or you go to Target, or you go anywhere.
+[00:37:22.239 --> 00:37:23.599]  You go to gas stations.
+[00:37:24.559 --> 00:37:26.239]  And they say, would you like to give money for kids?
+[00:37:26.400 --> 00:37:27.519]  Would you like to give money for veterans?
+[00:37:27.599 --> 00:37:29.119]  We'd like to give money for fire victims.
+[00:37:30.000 --> 00:37:31.679]  And you see it everywhere.
+[00:37:32.320 --> 00:37:41.039]  And what's sad is in almost every case, none of it was the last number I saw something like $8 million raised by him personally.
+[00:37:41.119 --> 00:37:42.159]  I guess it was like $40 something billion.
+[00:37:42.239 --> 00:37:47.199]  I looked up again by the one foundation that Tony Blair and Bono run from U2.
+[00:37:47.760 --> 00:37:51.519]  And since they set that up in the 90s, it's raised over $40 billion.
+[00:37:52.720 --> 00:37:54.800]  And they give 1.2% of it.
+[00:37:54.960 --> 00:37:57.440]  And that's after people got mad a decade ago and said you're giving nothing.
+[00:37:57.519 --> 00:37:58.960]  They said, okay, we'll give 1.2.
+[00:38:01.199 --> 00:38:03.840]  So imagine, oh, we have starving Africans.
+[00:38:03.920 --> 00:38:04.720]  Oh, give us money.
+[00:38:04.880 --> 00:38:06.320]  And they're all there playing international TV.
+[00:38:06.480 --> 00:38:07.199]  Everybody feels good.
+[00:38:07.280 --> 00:38:08.480]  You send your money in.
+[00:38:10.000 --> 00:38:20.320]  And you get nothing except, well, we'll send publications and teachers literally to the African country to teach your sons they're really girls.
+[00:38:20.960 --> 00:38:21.760]  You want some aid?
+[00:38:21.920 --> 00:38:23.679]  We'll teach your son how to be a sissy.
+[00:38:26.239 --> 00:38:30.960]  So you cannot make up how evil these snot-nosed creatures are.
+[00:38:31.599 --> 00:38:34.800]  And so every time I'm at a store, it's everywhere now.
+[00:38:35.039 --> 00:38:36.239]  Would you like to give money for the kids?
+[00:38:36.400 --> 00:38:37.119]  Give money for that.
+[00:38:37.440 --> 00:38:41.360]  And I just look at them and I go, no, that money doesn't go to that.
+[00:38:41.679 --> 00:38:42.800]  And well, we're just supposed to ask.
+[00:38:42.880 --> 00:38:43.599]  We're just supposed to ask.
+[00:38:43.760 --> 00:38:45.519]  Or it'll ask when you've all seen it.
+[00:38:45.679 --> 00:38:47.039]  I'll tell you about it.
+[00:38:47.599 --> 00:38:53.760]  And, you know, I've given to charity someone I had more money and I knew how to study it.
+[00:38:54.239 --> 00:39:03.039]  I had a family that worked pretty high level with the Salvation Army, like great uncles and stuff, who'd been wealthy and given their money to them.
+[00:39:03.280 --> 00:39:10.639]  And back then, 95% of the money Salvation Army actually went to help poor people, food, shelters, lead people to Christ.
+[00:39:10.960 --> 00:39:14.480]  If you went to cities around the country, the main group helping homeless was Salvation Army.
+[00:39:14.639 --> 00:39:16.800]  Now it's all the globalist NGOs that steal most of the money.
+[00:39:16.960 --> 00:39:20.320]  But even they, Salvation Army, are only giving like 70% now.
+[00:39:20.639 --> 00:39:23.199]  And then they're in all the wokeism and leftism and stuff.
+[00:39:23.360 --> 00:39:30.960]  So it's charity starts at home, folks, and it's a real problem that charity is an important thing in society.
+[00:39:31.840 --> 00:39:33.840]  And basically it's all a racket now.
+[00:39:34.640 --> 00:39:35.600]  It's all a general.
+[00:39:36.240 --> 00:39:39.039]  Most of the aid you give to the Red Cross, they just keep.
+[00:39:39.680 --> 00:39:40.320]  Did you know that?
+[00:39:40.559 --> 00:39:44.640]  Now, sure, you volunteer for it and go hand out blankets and stuff, but that's just the front.
+[00:39:45.280 --> 00:39:46.960]  That's not what it's really doing.
+[00:39:47.600 --> 00:39:57.760]  So that's a long explanation, but let NPR, let PBS with all their crap, let them operate without taxpayer money and see how long they can.
+[00:39:57.920 --> 00:39:58.559]  No, they can't.
+[00:39:58.800 --> 00:40:04.240]  But the stuff they put on TV and the things they produce, the cheap shows.
+[00:40:04.880 --> 00:40:07.680]  You know, they would raise billions for Sesame Street every year.
+[00:40:08.000 --> 00:40:12.480]  You think it costs that to have those lowly produced puppet programs?
+[00:40:12.800 --> 00:40:13.039]  No.
+[00:40:14.800 --> 00:40:19.200]  You notice in the last decade, there's hardly any new shows on there other than news propaganda.
+[00:40:19.840 --> 00:40:23.680]  And it's because they're so cheap, they won't even produce the cheap shows anymore.
+[00:40:25.519 --> 00:40:31.120]  So first and foremost, they're a money laundering rip-off operation.
+[00:40:32.000 --> 00:40:34.160]  And then they're a propaganda operation.
+[00:40:34.480 --> 00:40:46.000]  And anytime you watch PBS, just type in Annenberg Foundation, you'll see, brought to you by the Annenberg Foundation and Microsoft and the Corporation for Public Broadcasting.
+[00:40:46.320 --> 00:40:48.079]  That's the three main groups.
+[00:40:48.720 --> 00:40:52.320]  Nova brought to you by the Bill and Melinda Gates Foundation.
+[00:40:52.640 --> 00:40:56.800]  And that's because they give the money and then they launder it back to themselves.
+[00:40:57.120 --> 00:40:58.000]  Look it up.
+[00:40:58.640 --> 00:41:02.640]  So Bill Gates, oh, I'm going to give hundreds of billions of dollars in the next 20 years to charity.
+[00:41:02.960 --> 00:41:05.680]  That's how he keeps it tax-free and gives it back to himself.
+[00:41:07.280 --> 00:41:15.519]  And then the charity is a little bit of money is going and buying off your government and regulators who then buy his poison shots.
+[00:41:15.840 --> 00:41:18.880]  So you pay him with your tax money for him to kill your ass.
+[00:41:19.680 --> 00:41:21.360]  Pretty smart little gremlin.
+[00:41:22.000 --> 00:41:28.160]  Here's my report last night on the Corporation for Public Broadcasting shutting down.
+[00:41:29.680 --> 00:41:36.720]  Just a few hours, the Corporation for Public Broadcasting, set up during the 1960s, announced they're ceasing operations.
+[00:41:36.880 --> 00:41:39.680]  They're one of the funders of NPR and PBS.
+[00:41:40.559 --> 00:41:49.440]  But then in congressional testimony a few months ago, they said only 1% of NPR and PBS money comes from the Corporation for Public Broadcasting.
+[00:41:49.760 --> 00:41:55.200]  But now NPR and PBS say they might have to shut down some of their operations because of it.
+[00:41:55.519 --> 00:41:56.960]  So what is the truth?
+[00:41:57.600 --> 00:42:07.039]  The truth is, look at the Annenberg Foundation, one of the main funders of NPR and PBS locally, but also the Corporation for Public Broadcasting.
+[00:42:07.360 --> 00:42:14.400]  It raised over $100 million in a Palisades fire relief and is given zero money and says nobody's getting any of the money.
+[00:42:14.720 --> 00:42:21.519]  It's all hundreds and hundreds of NGOs just in that network that raise money and then give it back to themselves.
+[00:42:21.840 --> 00:42:28.720]  FireAid, that star-studded concert that raised $100 million for wildfire victims.
+[00:42:29.039 --> 00:42:30.720]  But where did all that money go?
+[00:42:30.960 --> 00:42:34.640]  Investigative journalist Sue Pasco has been digging for answers.
+[00:42:34.960 --> 00:42:40.960]  A reader sent me a little note and said, I've never seen any fire aid money.
+[00:42:41.360 --> 00:42:43.920]  How do I apply for fire aid money?
+[00:42:44.240 --> 00:42:46.160]  And I thought, well, you know, I've never thought about that.
+[00:42:46.400 --> 00:42:50.000]  There's 12,000 people, basically, 12,000 homes gone.
+[00:42:50.240 --> 00:42:52.079]  Those people probably want to know where the money is.
+[00:42:52.400 --> 00:42:54.480]  This will be an easy task to find out.
+[00:42:55.120 --> 00:42:57.360]  So I contacted the Annenberg.
+[00:42:58.240 --> 00:42:59.280]  They never responded.
+[00:42:59.600 --> 00:43:04.720]  And the Annenberg Foundation, because they are overseeing the wildfire funds, yes.
+[00:43:05.039 --> 00:43:06.640]  So I emailed them several times.
+[00:43:06.800 --> 00:43:07.680]  They never responded.
+[00:43:07.920 --> 00:43:09.120]  I called them several times.
+[00:43:09.280 --> 00:43:10.800]  They never responded.
+[00:43:11.120 --> 00:43:16.960]  And finally, it was like almost two weeks later, a woman got back to me and she said, oh, I'm sorry for the delay.
+[00:43:17.200 --> 00:43:19.519]  The person you need to speak to is Chris Wallace.
+[00:43:19.680 --> 00:43:23.200]  He's a media spokesperson for Wildfire Funds.
+[00:43:23.519 --> 00:43:28.720]  So I contacted Chris and I said, you know, victims want to know when they can get their money.
+[00:43:29.039 --> 00:43:30.800]  Seems like a very simple question.
+[00:43:31.120 --> 00:43:33.360]  He said, basically, they don't.
+[00:43:33.600 --> 00:43:40.640]  All this money are going to nonprofits and the nonprofits will take care of making sure the money's distributed.
+[00:43:40.960 --> 00:43:48.880]  So I looked at the, initially they gave $50 million to about 120 nonprofits.
+[00:43:49.200 --> 00:43:55.600]  And I looked at these nonprofits and one of them said, we help mobile home parks.
+[00:43:55.920 --> 00:44:00.240]  And there were two mobile home parks in the Palisades, all low income.
+[00:44:00.560 --> 00:44:02.400]  And so I contacted the people there.
+[00:44:02.720 --> 00:44:04.400]  They had never received any money.
+[00:44:04.640 --> 00:44:06.160]  They had never heard of that.
+[00:44:06.480 --> 00:44:11.200]  When you go through, I would urge everyone to just go to the nonprofits that are listed.
+[00:44:11.280 --> 00:44:16.160]  If you want a good laugh, I mean, one of the nonprofits cleans preschool bathrooms.
+[00:44:16.480 --> 00:44:18.079]  Well, after the fire, who knows?
+[00:44:18.240 --> 00:44:20.640]  Maybe there is a preschool bathroom that needs cleaning.
+[00:44:20.880 --> 00:44:21.120]  Yeah.
+[00:44:21.600 --> 00:44:26.160]  In other words, a lot of these nonprofits are ancillary, if you will.
+[00:44:26.400 --> 00:44:27.519]  That's a nice way of saying it.
+[00:44:28.000 --> 00:44:33.599]  So they can say, oh, we're giving away 80% of what we get, but then it comes back to them through the other groups that they give to them.
+[00:44:33.840 --> 00:44:34.880]  So they give to all these groups.
+[00:44:34.960 --> 00:44:35.840]  They give to all those groups.
+[00:44:36.079 --> 00:44:36.960]  It's a giant scam.
+[00:44:37.039 --> 00:44:39.119]  Then they have a little fundraiser, the rest of it.
+[00:44:39.440 --> 00:44:41.920]  And NPR gets 500 million of taxpayer money.
+[00:44:42.159 --> 00:44:43.440]  It goes on and on.
+[00:44:43.760 --> 00:44:46.800]  These groups are elitist owned.
+[00:44:47.760 --> 00:44:50.320]  They are anti-free speech.
+[00:44:50.639 --> 00:44:52.320]  And they have almost no viewers now.
+[00:44:52.639 --> 00:44:57.280]  Now, there have been some good shows on PBS, don't get me wrong, Nova, Frontline, you name it.
+[00:44:57.599 --> 00:45:00.880]  But over the years, they've gotten more and more political, and it's a joke.
+[00:45:01.199 --> 00:45:02.960]  So I like diversity in media.
+[00:45:03.280 --> 00:45:07.760]  But at the end of the day, it's foundation, CIA, globalists run media, and it's a fraud.
+[00:45:08.079 --> 00:45:13.840]  And so let NPR, let PBS, nationally and locally, stand on its own.
+[00:45:14.400 --> 00:45:17.039]  And the NPR had propaganda in it 10 years ago, 20 years ago.
+[00:45:17.280 --> 00:45:18.320]  But you tune into it now.
+[00:45:18.480 --> 00:45:20.639]  It is just unforgivable garbage.
+[00:45:20.719 --> 00:45:24.880]  You have the head of NPR saying recently, well, telling the truth's not always the best thing to do.
+[00:45:25.199 --> 00:45:33.679]  In our normal lives, these contentious conversations tend to erupt over disagreement about what the truth actually is.
+[00:45:34.000 --> 00:45:38.800]  But the people who write these articles, they're not focused on the truth.
+[00:45:39.119 --> 00:45:44.400]  They're focused on something else, which is the best of what we can know right now.
+[00:45:45.360 --> 00:45:52.159]  And after seven years of working with these brilliant folks, I've come to believe that they are onto something.
+[00:45:52.480 --> 00:46:04.400]  That perhaps for our most tricky disagreements, seeking the truth and seeking to convince others of the truth might not be the right place to start.
+[00:46:05.039 --> 00:46:15.440]  In fact, our reverence for the truth might be a distraction that's getting in the way of finding common ground and getting things done.
+[00:46:15.760 --> 00:46:20.079]  So the New York Times saying, maybe we should raise the Constitution.
+[00:46:21.599 --> 00:46:24.159]  Anybody that says investigate is wrong.
+[00:46:24.480 --> 00:46:27.519]  Anybody telling you not investigate wants you to be in a cult.
+[00:46:27.840 --> 00:46:30.559]  You should always investigate anything and everything everybody says.
+[00:46:30.880 --> 00:46:32.880]  Carol Reagan says trust but verify.
+[00:46:33.199 --> 00:46:35.280]  If they say don't investigate, you're in a cult.
+[00:46:35.440 --> 00:46:36.880]  I'll try to get you in a cult.
+[00:46:37.199 --> 00:46:41.199]  So I don't think NPR and PBS are gone yet, but everybody's already tuned out of them already.
+[00:46:41.280 --> 00:46:42.880]  It's like Colbert getting canceled.
+[00:46:42.960 --> 00:46:43.760]  He has also viewers.
+[00:46:43.840 --> 00:46:46.400]  He canceled himself to become a government mouthpiece.
+[00:46:46.719 --> 00:46:51.599]  These people have a way of taking care of themselves, and it's good riddance to all of them.
+[00:46:51.920 --> 00:46:52.639]  That's my take.
+[00:46:52.880 --> 00:46:53.440]  Thanks for watching.
+[00:46:53.519 --> 00:46:54.880]  Follow me on X-Rail Ox Jones.
+[00:46:55.119 --> 00:47:03.280]  We've got plenty of support for viewers to stay on air and expand, but we've got the Democrat law firm trying to shut us down because they can't compete with populist truth.
+[00:47:03.599 --> 00:47:05.199]  And they can't compete with you in your word of mouth.
+[00:47:05.360 --> 00:47:06.800]  So false on X-Railox Jones.
+[00:47:07.920 --> 00:47:08.559]  All right.
+[00:47:10.159 --> 00:47:16.559]  Now I want to hit the DOJ and the other agencies are going on, starting on the warpath.
+[00:47:16.639 --> 00:47:21.199]  They're accelerating the criminal investigations and firing people and removing security clearances more.
+[00:47:21.280 --> 00:47:22.880]  I'm seeing some good signs there.
+[00:47:23.199 --> 00:47:25.199]  I'm not holding my breath.
+[00:47:25.519 --> 00:47:26.320]  I don't want to hit that.
+[00:47:26.480 --> 00:47:30.639]  And I want to look at some of the other fraud, the global warming fraud that's important.
+[00:47:31.920 --> 00:47:37.519]  And then I want to look at Palantir and what it's up to here today.
+[00:47:39.360 --> 00:47:51.039]  But speaking of funding, you heard me just say there that we have plenty of funding, except the Democrats are constantly suing us.
+[00:47:51.360 --> 00:47:52.480]  And so we've done the math.
+[00:47:52.639 --> 00:48:02.800]  Over 70% of the funds that come into InfoWars is spent in all the legal defense to stay on the air, which is fine.
+[00:48:02.960 --> 00:48:04.400]  You're like, wow, we're buying all these great products.
+[00:48:04.480 --> 00:48:04.800]  We love them.
+[00:48:04.880 --> 00:48:06.079]  The supplements, all of it.
+[00:48:06.400 --> 00:48:07.440]  But then it goes to fight them.
+[00:48:07.519 --> 00:48:11.280]  Yeah, that's the cost of this war to stay on air.
+[00:48:11.440 --> 00:48:22.719]  Now, once they either beat me and I'm under new owners who they can't attack, because they can attack me forever, non-dischargeable fake judgments, unless the Supreme Court overturns it in Texas, which they say they have signaled they are.
+[00:48:22.800 --> 00:48:29.039]  And then I don't know if the Supreme Court nationally with a Connecticut case will take that because their Supreme Court in Connecticut said, no, all this crap stands.
+[00:48:29.360 --> 00:48:30.719]  There are show trials.
+[00:48:31.679 --> 00:48:33.760]  I'll be harassed for the rest of my life, which is fine.
+[00:48:34.000 --> 00:48:35.920]  I'm lucky they haven't killed me yet or put me in prison.
+[00:48:36.079 --> 00:48:37.039]  I mean, I knew what I was getting into.
+[00:48:37.119 --> 00:48:38.079]  I'm a big boy.
+[00:48:38.400 --> 00:48:39.519]  And I can live frugally.
+[00:48:39.679 --> 00:48:40.880]  It really doesn't affect me.
+[00:48:41.440 --> 00:48:44.400]  I just never really cared about things that much anyways.
+[00:48:46.000 --> 00:48:51.519]  That said, though, if they beat us here in the next few months, it's really coming to a head.
+[00:48:52.159 --> 00:48:55.440]  Then we go to the Auto Shows Network and our other backers, and I'll just be the news director.
+[00:48:55.679 --> 00:48:56.559]  I don't own it.
+[00:48:56.880 --> 00:49:00.960]  And they'll attack that, run to a brick wall because it's all legitimate real companies and not me.
+[00:49:01.039 --> 00:49:02.159]  And they know they already said that.
+[00:49:02.239 --> 00:49:03.760]  And it's just, you know, you know what they do.
+[00:49:04.079 --> 00:49:05.039]  Lie, lie, lie.
+[00:49:07.440 --> 00:49:11.840]  But then that'll be easy legally to beat and won't be a big cost.
+[00:49:12.159 --> 00:49:15.920]  And then we'll be able to hire more people already building bigger studios.
+[00:49:16.239 --> 00:49:16.960]  These folks are.
+[00:49:17.199 --> 00:49:18.079]  Leave it at that.
+[00:49:18.880 --> 00:49:22.079]  We've got the backup here that I don't own.
+[00:49:22.159 --> 00:49:24.159]  So they're brick wall right there.
+[00:49:24.800 --> 00:49:28.880]  But when it comes to the legal bills, we're matched out.
+[00:49:30.080 --> 00:49:35.039]  The way it's set up is the money that comes in at thealexchimpster.com.
+[00:49:36.320 --> 00:49:41.519]  I get a little bit of the money, and then the rest of it goes to fund InfoWars, but there's not that much coming in.
+[00:49:41.680 --> 00:49:43.440]  So InfoWars basically breaks even.
+[00:49:43.680 --> 00:49:46.560]  So even if they're able to shut it down, there's nothing there except the equipment.
+[00:49:46.880 --> 00:49:51.120]  So that's their fault for all the lawfare and things they've done.
+[00:49:51.840 --> 00:49:52.960]  But they've never said they wanted money.
+[00:49:53.039 --> 00:49:53.600]  They want me off the air.
+[00:49:53.680 --> 00:49:54.240]  They said that in court.
+[00:49:54.320 --> 00:49:55.200]  They said that on TV.
+[00:49:55.519 --> 00:50:00.400]  But then they also whine and say you won't give us money, even though I've got it on appeal, even though they wouldn't take settlements.
+[00:50:00.720 --> 00:50:06.640]  So their deception is just totally amateurish for anybody that actually studies it.
+[00:50:07.200 --> 00:50:22.960]  But my point is, is that once we're through this, we either beat them and they allow the good guys to come by InfoWars and that continues on or we go with the other systems or merge those into it regardless because we already need to move out of the studios around anyways.
+[00:50:23.600 --> 00:50:28.480]  It'll just be InfoWars at the new studios or it'll be the new Alex Chips Network at the new studios.
+[00:50:28.800 --> 00:50:30.720]  Same crew, same people, same everything.
+[00:50:31.680 --> 00:50:39.280]  But whether they're able to beat me, then all the funds won't be needed for legal.
+[00:50:39.360 --> 00:50:41.200]  So it'll just be me being attacked.
+[00:50:42.400 --> 00:50:46.560]  Or whether we win, then we'll be able to expand with the funds.
+[00:50:46.720 --> 00:50:58.960]  So the money we have coming in right now, we could be 24 hours a day, have reporters in key cities just do incredible stuff that we were already building up to before they came after me seven years ago intensively with law fair.
+[00:50:59.920 --> 00:51:07.360]  So I want to give you a report on where we are there and that, you know, persevering, they got exposed and their fake auctions and all the things they've done.
+[00:51:07.519 --> 00:51:11.920]  Everybody thinks I've won because they're so discredited, but though they don't care, they're just going forward.
+[00:51:12.320 --> 00:51:13.600]  So it's going to be pretty spectacular.
+[00:51:13.760 --> 00:51:15.200]  They're able to shut down InfoWars.
+[00:51:15.440 --> 00:51:18.400]  But everybody goes, wow, that actually happened after all the stuff they got caught in?
+[00:51:18.560 --> 00:51:18.720]  Yeah.
+[00:51:19.280 --> 00:51:21.200]  And then we've got all the things ready.
+[00:51:21.519 --> 00:51:26.000]  And then I'm just going to stop with the legal sybil and criminal.
+[00:51:26.800 --> 00:51:29.680]  And it all just escalates once they've done that.
+[00:51:29.920 --> 00:51:30.400]  That is the case.
+[00:51:30.480 --> 00:51:34.800]  But I'm going to fight and not pull any punches, not take a dive.
+[00:51:35.120 --> 00:51:36.320]  And I just put it in God's hands.
+[00:51:36.480 --> 00:51:38.000]  Whatever God's will is is going to happen.
+[00:51:38.160 --> 00:51:39.680]  But God works through you.
+[00:51:40.800 --> 00:51:50.000]  So if you want to support the Alex Jones Network, the backup, go to reallexjones.com, and that's a clone of everything that's at thealxjonstore.com.
+[00:51:50.080 --> 00:51:59.200]  All the same supplements, the Irish CMOS, the Shiloh G, the limited edition daggers, all the t-shirts, the ball caps, wide a selection.
+[00:51:59.280 --> 00:52:01.600]  It's all there at realalxjones.com.
+[00:52:03.440 --> 00:52:08.880]  And then we go to thealxjonstore.com, that funds InfoWars and all the things that are happening there, all the things that are going on.
+[00:52:09.039 --> 00:52:11.360]  But I need your support.
+[00:52:11.519 --> 00:52:13.039]  You're the only variable factor.
+[00:52:13.200 --> 00:52:18.720]  We win either way by continuing on as long as you support us.
+[00:52:19.360 --> 00:52:30.880]  And back when I was still putting some money in the bank and, you know, okay, went and bought 120-something acres for an emergency place to flee to and collapse.
+[00:52:31.200 --> 00:52:32.960]  It was, I bought for like a million bucks.
+[00:52:33.280 --> 00:52:34.800]  When they sold it, it was worth $3 million.
+[00:52:34.960 --> 00:52:36.080]  I didn't have that many resources.
+[00:52:36.160 --> 00:52:39.039]  I mean, that was the extra thing I had.
+[00:52:39.920 --> 00:52:44.080]  And so I never had time to go out there, so it didn't really matter.
+[00:52:44.320 --> 00:52:45.200]  It was a cool place, though.
+[00:52:45.280 --> 00:52:48.800]  It's on the Comal River, you know, cool little place.
+[00:52:49.120 --> 00:52:51.039]  Crew liked to go out there shooting and camping and stuff.
+[00:52:51.120 --> 00:52:53.920]  They were the ones that really used it because I'm always working.
+[00:52:54.880 --> 00:53:11.039]  But always, I mean, I was probably taking what came into InfoWars extra, you know, the profit 10% a year and putting a few million back as emergency backup.
+[00:53:11.600 --> 00:53:14.400]  But then over the years, all the law fair, I had to pay for it myself.
+[00:53:14.560 --> 00:53:16.000]  So I had to pay myself more.
+[00:53:16.160 --> 00:53:23.680]  I had to beg for more money, ask for more support because the way it would legally work, because I own free speech systems as an LLC, I had to pay for it.
+[00:53:24.000 --> 00:53:30.400]  So the years where you see me, and the books are all out public, make it $5 million a year, that was for legal.
+[00:53:31.519 --> 00:53:35.680]  Before that, I would not even take the money and I would hire more crew and do more things.
+[00:53:35.840 --> 00:53:39.440]  And it's not bad if I did this, telling the truth, but also made a bunch of money.
+[00:53:39.760 --> 00:53:41.200]  But that's not been my goal.
+[00:53:41.360 --> 00:53:47.120]  My goal was get more money to get more hosts, more crew, more reporters, and kick more globalist ass.
+[00:53:48.080 --> 00:53:49.360]  And it's the same thing with the bad guys.
+[00:53:49.520 --> 00:53:50.240]  They don't want money.
+[00:53:50.320 --> 00:53:50.720]  They've said that.
+[00:53:50.800 --> 00:53:51.600]  They want me off the air.
+[00:53:51.760 --> 00:53:53.200]  This is ideological.
+[00:53:53.520 --> 00:53:57.840]  And so you really are the variable here in all of this.
+[00:53:58.160 --> 00:53:59.760]  And it's not as I'm saying you're important.
+[00:53:59.920 --> 00:54:01.760]  I want it to sink in that you are key.
+[00:54:02.080 --> 00:54:07.520]  And those of you that have gone and bought the t-shirts and have gone and gotten the supplements and love them, you are the reason we're still here.
+[00:54:07.600 --> 00:54:08.800]  So I'm very, very thankful to you.
+[00:54:08.880 --> 00:54:12.960]  And so is this crew that is also super awake and super informed.
+[00:54:13.520 --> 00:54:15.520]  And we've had some great crews over the years.
+[00:54:15.600 --> 00:54:20.320]  Some of our crew's been here 25 years, 20 years, 18 years, 16 years, 10, 10, 12 years.
+[00:54:20.640 --> 00:54:27.920]  The average crew member has probably been here about 10 years, but even the last four or five years, we've gotten some more great crew members that are just the best we've ever had together, this team.
+[00:54:28.480 --> 00:54:32.880]  And they haven't had raises in years, three years under this bankruptcy.
+[00:54:33.440 --> 00:54:40.960]  They rarely ever been able to get bonuses, but they've hung in there despite all the inflation and problem in the economy and never being paid that much to begin with because they care.
+[00:54:41.280 --> 00:54:54.080]  And so I'm looking forward to whether we beat these people or whether the new owners come into cranking up, bringing in some sponsors, getting more revenue in, expanding, and also taking care of our people who become managers over the new stuff we're going to do.
+[00:54:54.720 --> 00:54:56.080]  So this is what we're doing.
+[00:54:56.240 --> 00:54:57.200]  I've been successful before.
+[00:54:57.280 --> 00:54:58.480]  That's why the enemy came after us.
+[00:54:58.720 --> 00:54:59.440]  We've got their number.
+[00:54:59.520 --> 00:55:00.320]  We know what we're talking about.
+[00:55:00.480 --> 00:55:03.760]  We're very influential in the general public and around the world and in government.
+[00:55:04.080 --> 00:55:06.080]  And I thank you for keeping us in this position to do this.
+[00:55:06.320 --> 00:55:08.640]  But it is such a no-brainer in this world.
+[00:55:08.880 --> 00:55:18.400]  You've got to invest time, energy, and prayer and energy, I mean money in people that are hurting the globalists who want to hurt you.
+[00:55:18.720 --> 00:55:20.080]  This is self-defense here.
+[00:55:20.320 --> 00:55:22.880]  This is real insurance against tyranny.
+[00:55:23.200 --> 00:55:25.360]  And I know those of you that do buy the products understand that.
+[00:55:25.600 --> 00:55:32.320]  Plus, we want the products to really work and be really great so you love them and get them all the time.
+[00:55:32.560 --> 00:55:33.760]  We want a relationship with you.
+[00:55:33.840 --> 00:55:36.240]  We're not trying to sell you something one time.
+[00:55:37.760 --> 00:55:41.360]  It's why we have the widest selection of t-shirts and everything to try to find what you want.
+[00:55:41.680 --> 00:55:43.040]  You know, there's something for everybody.
+[00:55:43.520 --> 00:55:45.680]  The best t-shirts, the best ball caps, all that.
+[00:55:45.920 --> 00:55:47.600]  It's why we have the very best methylene blue.
+[00:55:47.680 --> 00:55:51.280]  So we have the very best Iris C-Moss, the very best tomb ring, the very best trilogy.
+[00:55:51.600 --> 00:55:52.720]  Because why wouldn't we?
+[00:55:53.040 --> 00:55:54.240]  I mean, it's a no-brainer.
+[00:55:54.400 --> 00:55:57.600]  And the tactical dagger, they sell that same dagger, $100 in stores.
+[00:55:57.760 --> 00:55:58.880]  We sell it for $70 something.
+[00:55:59.120 --> 00:56:00.240]  How do we do that and still make money?
+[00:56:00.320 --> 00:56:01.840]  Because we bought 5,000 of them.
+[00:56:02.800 --> 00:56:06.880]  And so we got them for 30 bucks apiece, sell them for 70-something, make some money.
+[00:56:07.200 --> 00:56:08.720]  So please support us.
+[00:56:08.880 --> 00:56:10.080]  We need your support.
+[00:56:10.400 --> 00:56:15.280]  The AlexJones store.com to support InfoWars and all of that.
+[00:56:15.600 --> 00:56:19.360]  And some of that I'm able to get and use for legal and the deal I had.
+[00:56:19.920 --> 00:56:24.640]  But over here, real Alex Jones, that goes to legal defense and this operation 100%.
+[00:56:25.600 --> 00:56:34.320]  And they sued my parents three years ago, the Democrats, in state court and in federal court.
+[00:56:34.960 --> 00:56:42.560]  And my dad, I'd hired him to help run the supplement company 14 years ago because he was killing himself managing dental offices.
+[00:56:42.880 --> 00:56:45.280]  And he'd been in supplements before and development.
+[00:56:45.600 --> 00:56:47.120]  He did a great job.
+[00:56:47.440 --> 00:56:49.360]  They accused him of hiding all this money from me.
+[00:56:49.600 --> 00:56:50.400]  They got audited.
+[00:56:50.560 --> 00:56:55.360]  They got audited by the court, had to pay for it themselves.
+[00:56:55.680 --> 00:56:57.760]  And, of course, everything they said was true.
+[00:56:57.840 --> 00:56:59.200]  There wasn't any hidden money.
+[00:56:59.680 --> 00:57:03.520]  Actually, with the accounting, my dad was owed a couple hundred thousand dollars by me.
+[00:57:03.840 --> 00:57:07.600]  And then they passed on suing him, you know, to the court.
+[00:57:07.760 --> 00:57:09.040]  They just sued him.
+[00:57:10.880 --> 00:57:14.480]  But then in the actual bankruptcy court where they could get something, they didn't.
+[00:57:14.800 --> 00:57:17.360]  They never brought suits because there was nothing there.
+[00:57:17.440 --> 00:57:19.600]  And the judge pointed that out a year into it.
+[00:57:19.760 --> 00:57:20.800]  Now we're three years in.
+[00:57:20.960 --> 00:57:22.400]  This is a marathon bankruptcy.
+[00:57:22.960 --> 00:57:31.120]  And then when I held them up shutting us down this year and last year, they got mad a few months ago.
+[00:57:31.680 --> 00:57:35.760]  And I told my parents in January, my lawyers looked at it and they said, this doesn't give you a full waiver.
+[00:57:35.920 --> 00:57:37.680]  They're going to come back in the bankruptcy court and sue you.
+[00:57:37.920 --> 00:57:49.200]  And Chris Murray, the trustee that's done all this stuff from the DOJ, he then sued them, made all these completely false allegations, and sued my wife, all these false allegations.
+[00:57:49.840 --> 00:57:52.160]  And now we've got to battle that.
+[00:57:52.320 --> 00:57:53.440]  And my parents don't have any money.
+[00:57:53.520 --> 00:57:54.640]  Their house is double mortgaged.
+[00:57:54.880 --> 00:57:56.080]  And I guess it makes the left happy.
+[00:57:56.160 --> 00:57:56.880]  Ha ha ha ha.
+[00:57:57.360 --> 00:57:59.440]  It doesn't make me and my family not be closer.
+[00:58:00.160 --> 00:58:02.480]  It makes everybody understand what trash you are.
+[00:58:02.880 --> 00:58:07.280]  Talking about the lawyers and the politicians, the Democrats, and Paul Weiss and all the rest of them.
+[00:58:08.480 --> 00:58:12.640]  But that said, I've promoted this a little bit, but not much.
+[00:58:12.880 --> 00:58:14.240]  It takes you to give, send, go.
+[00:58:14.640 --> 00:58:15.360]  Great folks there.
+[00:58:15.680 --> 00:58:18.480]  If you go to defendalexjones.com, that's just the URL we got.
+[00:58:18.560 --> 00:58:20.080]  It's really defend my family.
+[00:58:20.640 --> 00:58:23.280]  That goes to their legal defense.
+[00:58:23.600 --> 00:58:35.040]  And they've already spent in three years over $2 million fighting these people and being deposed and harassed and all the rest of it.
+[00:58:35.680 --> 00:58:39.520]  And then they settled with them, but didn't really, and then came back and did it again.
+[00:58:39.840 --> 00:58:41.040]  And my dad's like, I'm sorry.
+[00:58:41.120 --> 00:58:42.480]  They told us they promised they wouldn't.
+[00:58:42.560 --> 00:58:44.160]  And I said, read that line right there.
+[00:58:44.480 --> 00:58:46.720]  These people will lie to your face.
+[00:58:47.040 --> 00:58:51.280]  And so, and I'm out of money and I can't help my parents anymore.
+[00:58:51.520 --> 00:58:53.120]  So I want to thank those that have donated.
+[00:58:53.280 --> 00:58:55.200]  I need to read some of those people out on air.
+[00:58:55.280 --> 00:58:56.640]  That always makes people donate more.
+[00:58:56.800 --> 00:58:57.760]  I ought to be recognized.
+[00:58:57.920 --> 00:58:59.040]  I should be recognizing you.
+[00:58:59.200 --> 00:59:01.040]  I just get so focused on news, I haven't.
+[00:59:01.360 --> 00:59:33.280]  But if you would just go to defendalexjones.com, we have that URL, defendalexjones.com, just defend alexjones.com, then that will take you to give, send, go so that you can donate to my parents yeah let's let's go to break let's make that url okay there it is thanks and thank you um so i know to a lot of people um fifty
+[00:59:33.280 --> 00:59:34.519]  $1,000 sounds like a lot.
+[00:59:34.570 --> 00:59:37.880]  And for the people that did donate $5, $100, $1,000, thank you.
+[00:59:37.880 --> 00:59:39.090]  And it is a lot.
+[00:59:39.769 --> 00:59:48.680]  But, you know, the way this also works is the way the trustee has it set up.
+[00:59:48.680 --> 00:59:50.959]  He's always trying to claim I'm hiding money and diverting money.
+[00:59:50.958 --> 01:00:02.019]  I can't do a fundraiser for myself or for my parents on my main show over here because I don't own this facility and it doesn't have a deal with them and it's not my property.
+[01:00:02.019 --> 01:00:08.789]  I am able to sit here and then separately for my parents, not for me, raise money.
+[01:00:09.310 --> 01:00:13.120]  And so, I mean, that's fine.
+[01:00:13.120 --> 01:00:20.019]  If they lose their house, that fancy house will just show it being foreclosed on them, you know, I guess moving into a trailer or something, that's fine.
+[01:00:20.019 --> 01:00:21.429]  They're actually ready to do that.
+[01:00:21.679 --> 01:00:22.660]  They're not arrogant.
+[01:00:22.660 --> 01:00:24.999]  You know, people that are elitist, they're just good Americans.
+[01:00:24.999 --> 01:00:27.459]  And if that ends up happening to me, that's fine.
+[01:00:27.459 --> 01:00:28.440]  I will still be on air.
+[01:00:28.440 --> 01:00:29.929]  I will still do what I do.
+[01:00:30.139 --> 01:00:31.740]  And I will actually fight harder.
+[01:00:31.800 --> 01:00:34.990]  So, they're not going to stop me.
+[01:00:34.999 --> 01:00:46.850]  It's just that it would be a real help to my family if people would donate to DefendAlexJones.com because that's just where we are.
+[01:00:46.859 --> 01:00:52.340]  And, you know, they subpoena you.
+[01:00:52.340 --> 01:00:53.079]  They sue you.
+[01:00:53.079 --> 01:00:54.370]  They depose you.
+[01:00:55.798 --> 01:01:02.060]  And they just drag you through and drag you through and drag you through and drag you through and drag you through and drag you through.
+[01:01:02.060 --> 01:01:04.219]  And it's just funny to them.
+[01:01:04.340 --> 01:01:05.939]  And they enjoy it.
+[01:01:06.139 --> 01:01:07.130]  And they like it.
+[01:01:07.780 --> 01:01:10.820]  And they've raised hundreds of millions of dollars off my name for their charities.
+[01:01:10.820 --> 01:01:12.600]  All saying I raise money off them.
+[01:01:12.600 --> 01:01:16.519]  All these lies, things I did to them that they didn't quirk and never said anything to them.
+[01:01:16.519 --> 01:01:17.100]  Did nothing to them.
+[01:01:17.320 --> 01:01:18.219]  Nothing.
+[01:01:18.219 --> 01:01:21.519]  And it's all run with the Justice Department, the CIA.
+[01:01:21.519 --> 01:01:22.298]  That's all come out.
+[01:01:22.510 --> 01:01:24.540]  And they get Justice Department grants on top of it.
+[01:01:24.730 --> 01:01:28.280]  So, it's not just about crushing free speech and trying to take your guns.
+[01:01:28.280 --> 01:01:29.600]  It is about the money.
+[01:01:31.360 --> 01:02:01.680]  uh here these people are you know these bureaucrats these lawyers 12 years later 70 something million from remington and all the other stuff that went on and then they just tell these trustees who get to bill against the estate any money that came in they got the audit they did 4.3 million the irs said oh here for i wonder what i mean i knew we overpaid once we saw the numbers over five years they got us audited but i guess the irs got the call that it goes to them or something because the iris goes actually you're owed money 4.3
+[01:02:01.679 --> 01:02:02.190]  oh, here it is.
+[01:02:02.230 --> 01:02:03.569]  Like, oh, here, they got that.
+[01:02:03.679 --> 01:02:05.419]  And then they go, we don't want that money.
+[01:02:05.419 --> 01:02:07.898]  We want it used to destroy him.
+[01:02:08.000 --> 01:02:16.069]  And so they then use that money to sue my parents and sue me and sue my wife and, you know, do all this stuff.
+[01:02:16.118 --> 01:02:24.909]  And they even sued a bunch of defunct entities, you know, because when you start a new film or you do a new thing, you always create a new corporation for it.
+[01:02:25.179 --> 01:02:26.698]  That's what the lawyers tell you to do.
+[01:02:26.698 --> 01:02:28.799]  And they know all that stuff has no money and never had money.
+[01:02:28.799 --> 01:02:29.719]  And they're suing those.
+[01:02:29.719 --> 01:02:30.679]  We got to respond to those.
+[01:02:30.679 --> 01:02:31.768]  It's like a whole bunch of lawsuits.
+[01:02:31.889 --> 01:02:35.298]  And they go, oh, here's 20 lawsuits today.
+[01:02:35.298 --> 01:02:35.639]  How's that?
+[01:02:35.639 --> 01:02:36.730]  Here's 10 more this week.
+[01:02:36.739 --> 01:02:39.739]  And they're now saying, oh, we're going to file some more on you too.
+[01:02:39.739 --> 01:02:45.389]  And the judge has already said this is ridiculous before.
+[01:02:45.398 --> 01:02:47.339]  Why didn't you bring evidences before?
+[01:02:47.339 --> 01:02:52.309]  He's been audited by the court, audited by the three auditing firms you wanted, audited by the IRS.
+[01:02:52.319 --> 01:02:55.460]  And he says they repudiates them.
+[01:02:55.460 --> 01:02:58.299]  He already fired the last U.S. trustee in CRO.
+[01:02:58.299 --> 01:03:00.118]  He fired two CROs in a U.S. trustee.
+[01:03:00.699 --> 01:03:20.800]  and now he says he doesn't have a faith in this one well he doesn't have a faith in this one then the way it works is if we ask him to be fired the judges is going to order it shut down and that's the two deadlines um the 13th they're in judge guerrilla gamble's court trying to shut us down at the state level they already have a receiver and they'll I'll send in the sheriffs.
+[01:03:21.440 --> 01:03:39.520]  And if that doesn't succeed, and Gorgamble give anything they want, if the federal court doesn't block it, and we're in there right now, then we last to September 25th when the new trustee's year-long appointment ends.
+[01:03:39.840 --> 01:03:41.440]  You know, he really got in June 14th.
+[01:03:41.520 --> 01:03:43.120]  He goes until September 25th.
+[01:03:43.440 --> 01:03:47.840]  And then basically under the law, he got that as my assets.
+[01:03:48.000 --> 01:03:52.080]  And then I'm only there operating under an agreement, so I can't be in the building.
+[01:03:52.400 --> 01:03:57.680]  And so if that's the case, we'll go to midnight in the broadcast, say boon viage there.
+[01:03:57.760 --> 01:03:58.480]  And I didn't give up.
+[01:03:58.560 --> 01:03:59.440]  I left it all on the field.
+[01:03:59.600 --> 01:04:01.280]  And neither did the crew.
+[01:04:01.840 --> 01:04:04.080]  But we've got some ways to try to beat it and override it.
+[01:04:04.320 --> 01:04:08.960]  And this is right at the time we're winning in court and they're in trouble, Sibylle, and we've sued them and all this corruption's come out.
+[01:04:09.280 --> 01:04:18.880]  And their emails and their messages, they actually gave us in the subpoenas where the U.S. trustees with the plaintiff's lawyers saying, yeah, we're going to make sure, you know, that nobody buys it to keep them on air.
+[01:04:18.960 --> 01:04:19.760]  We're going to shut it down.
+[01:04:19.920 --> 01:04:22.880]  And we're going to do this auction this way.
+[01:04:22.960 --> 01:04:25.280]  So you win a fake auction.
+[01:04:25.360 --> 01:04:26.960]  I mean, it's fraud, folks.
+[01:04:27.280 --> 01:04:29.120]  And we've shown the judge all this.
+[01:04:29.440 --> 01:04:32.560]  So I don't think Judge Lopez is corrupt at all.
+[01:04:32.640 --> 01:04:37.120]  He's just trying to do his job, but nobody's ever seen stuff like this except for the attacks on Trump.
+[01:04:37.440 --> 01:04:42.080]  And he just doesn't know what to do because under the law, they can put the Justice Department in there to run this.
+[01:04:42.400 --> 01:04:44.880]  He's already fired one guy from the Justice Department.
+[01:04:45.200 --> 01:04:47.920]  And now he's just looking at him and he says, why don't you just sell it?
+[01:04:48.080 --> 01:04:48.800]  Why don't you just do it?
+[01:04:49.120 --> 01:04:51.200]  Why don't you sell it to people that have money?
+[01:04:52.480 --> 01:04:53.600]  And then you guys get this money.
+[01:04:53.840 --> 01:04:55.680]  And then they go on the news, you won't give us money.
+[01:04:55.840 --> 01:04:57.280]  You won't give us money.
+[01:04:57.600 --> 01:05:02.480]  You know, I have all the videos and their documents and their public statements that they just want to silence me.
+[01:05:03.680 --> 01:05:08.640]  You can pull up their statements on X. The head lawyer, Chris Matty up in Connecticut, former federal prosecutor.
+[01:05:08.960 --> 01:05:11.280]  And he's like, back in November, they thought they shut us down.
+[01:05:11.360 --> 01:05:16.480]  He goes, the Sandy Hook families have finally shut him down so he can't hurt people.
+[01:05:16.800 --> 01:05:22.640]  And he'll probably still be back some, but this will major league de-amplify him.
+[01:05:23.200 --> 01:05:23.840]  No, it won't.
+[01:05:24.000 --> 01:05:24.320]  Did it?
+[01:05:24.480 --> 01:05:25.680]  No, it didn't.
+[01:05:26.320 --> 01:05:32.000]  And if you think putting my parents on the street, pal, is going to make me stop working and stop fighting.
+[01:05:32.080 --> 01:05:33.360]  You've got another thing coming.
+[01:05:34.880 --> 01:05:40.080]  In the words of John Paul Jones, I've only begun to fight in the information war.
+[01:05:41.600 --> 01:05:47.920]  So, I mean, wild horses cannot drag me away.
+[01:05:48.240 --> 01:05:50.960]  So I trust in God and God's come through a lot.
+[01:05:51.280 --> 01:05:54.720]  So just please pray for the broadcast and please pray for us.
+[01:05:55.280 --> 01:05:58.000]  And I just really want to thank all of you for everything you do.
+[01:05:58.880 --> 01:06:00.560]  And just know this is our fight.
+[01:06:00.720 --> 01:06:04.560]  And man, I just want to win because it's the right thing to do.
+[01:06:05.200 --> 01:06:07.440]  And I'm so alive and so animated because of the fight.
+[01:06:07.600 --> 01:06:11.280]  But the power of my punch, the amplification, what we can do, it's all you.
+[01:06:11.600 --> 01:06:12.800]  They want us de-amplified.
+[01:06:12.880 --> 01:06:14.160]  They want to put a wet blanket on us.
+[01:06:14.240 --> 01:06:17.760]  They want to shut us up because we stand for you and our shared values.
+[01:06:18.000 --> 01:06:26.000]  So when you support us, you're supporting yourself at defendalxjones.com, realalexjones.com, and thealexjonesstewart.com.
+[01:06:26.240 --> 01:06:29.040]  I humbly ask for your aid and comfort in this fight now.
+[01:06:29.360 --> 01:06:30.000]  This is your fight.
+[01:06:30.080 --> 01:06:31.680]  This is 1776 2.0.
+[01:06:31.840 --> 01:06:33.360]  The ball is in your court.
+[01:06:34.880 --> 01:06:39.200]  Now, you've not ever seen presidents go out to the Federal Reserve like this.
+[01:06:39.520 --> 01:06:43.200]  You've not ever seen presidents come out and demand people be indicted like this.
+[01:06:43.840 --> 01:06:46.400]  And I know he's got a bureaucracy and it's hard to get him to do it.
+[01:06:46.560 --> 01:06:50.160]  But you got Senator Grassley saying people should be arrested and naming names.
+[01:06:50.480 --> 01:06:55.040]  You got the FBI director saying, you got the head of the National Intelligence, Office of National Intelligence saying it.
+[01:06:55.360 --> 01:06:56.560]  You got Trump saying it.
+[01:06:56.800 --> 01:06:58.080]  I've talked to High Little DOJ.
+[01:06:58.240 --> 01:07:00.880]  They say, no, they've been told, get it together and go after him.
+[01:07:01.520 --> 01:07:03.200]  And so this is different, I believe.
+[01:07:03.520 --> 01:07:09.120]  I'm not saying it's going to 100% happen, but it's definitely a different climate because Trump knows already tried to kill him twice.
+[01:07:09.440 --> 01:07:12.880]  Trump knows this is a no-quarter battle.
+[01:07:13.840 --> 01:07:19.760]  And so here is Trump calling for Hillary to be investigated.
+[01:07:20.640 --> 01:07:30.720]  And, you know, previously, you remember he said, you know, I told him not to go after it because I wanted to blow over, but they won't go away.
+[01:07:31.600 --> 01:07:33.200]  So it has to be done.
+[01:07:33.760 --> 01:07:34.480]  It's like cancer.
+[01:07:34.560 --> 01:07:35.360]  It's all got to be cut out.
+[01:07:35.440 --> 01:07:36.000]  And then go to the club.
+[01:07:36.160 --> 01:07:39.440]  Department of Justice launches voter roll investigation.
+[01:07:39.760 --> 01:07:41.440]  And that is like shooting fish in a barrel.
+[01:07:41.520 --> 01:07:46.720]  They've already arrested people all over the country, the Justice Department in the last six months for election fraud, all of them Democrats.
+[01:07:46.880 --> 01:07:48.400]  So there's a lot of stuff going on.
+[01:07:48.480 --> 01:07:53.680]  It's just you're not seeing on the news, just like corporate news won't admit Russia Gate's been a proven hoax and a coup.
+[01:07:53.760 --> 01:07:54.320]  Here it is.
+[01:07:56.560 --> 01:08:00.080]  Hillary says he'll finally be investigated for election fraud.
+[01:08:00.400 --> 01:08:00.880]  I hope so.
+[01:08:01.360 --> 01:08:01.840]  I hope so.
+[01:08:02.000 --> 01:08:04.000]  I don't know whether or not that'll happen.
+[01:08:06.560 --> 01:08:13.760]  Trump administration looking to boost election integrity as the DOJ opens a nationwide investigation into voter rolls.
+[01:08:14.080 --> 01:08:22.400]  The department is calling on local officials to identify felons, dead voters, and also non-citizens who might have cast a ballot.
+[01:08:22.640 --> 01:08:25.200]  David Spott is live from Washington with more on this one.
+[01:08:25.360 --> 01:08:25.840]  Hi, David.
+[01:08:26.080 --> 01:08:26.640]  Hi, Aisha.
+[01:08:26.800 --> 01:08:27.200]  Good morning.
+[01:08:27.360 --> 01:08:29.840]  Today, next week, the week after, and so on.
+[01:08:30.080 --> 01:08:36.800]  DOJ officials will continue to work on what they call the department a serious problem with our voter rules.
+[01:08:36.880 --> 01:08:52.880]  This all stems from a March executive order signed by President Trump, which states in part: the Attorney General shall, consistent with applicable laws, coordinate with state attorneys general to assist with state-level review and prosecution of aliens unlawfully registered to vote or casting votes.
+[01:08:53.120 --> 01:08:57.680]  Attorney General Pam Bondi has directed her team to check counties across the United States.
+[01:08:58.000 --> 01:09:01.520]  But California is a big focus, as is Texas and Minnesota.
+[01:09:01.760 --> 01:09:05.360]  The DOJ plans to prosecute any foreign nationals that get caught voting.
+[01:09:05.600 --> 01:09:10.960]  A DOJ source tells Fox News: election integrity starts with clean voter roles.
+[01:09:11.360 --> 01:09:13.440]  That's the foundation for secure elections.
+[01:09:13.760 --> 01:09:18.400]  There's been a culture of noncompliance from several states that don't keep their roles updated.
+[01:09:18.720 --> 01:09:21.120]  This DOJ is cracking down.
+[01:09:21.360 --> 01:09:28.320]  Now, the Justice Department wants local officials to identify and remove felons, dead voters, non-residents, and non-citizens from voter roles.
+[01:09:28.640 --> 01:09:34.080]  Recently, the department charged an Iraqi man for illegal voting in 2020 in the state of New York.
+[01:09:34.320 --> 01:09:35.840]  Took several years to catch that one.
+[01:09:36.160 --> 01:09:44.560]  Last year, a 19-year-old Chinese national was charged in Michigan with perjury and attempting to vote illegally in the 2024 election.
+[01:09:44.880 --> 01:09:56.000]  Now, Aisha, the Department of Government Efficiency Doge, took a big hand in stopping illegal voting, even though Elon Musk, no longer with that agency, Doge, itself still has a hand in this movement.
+[01:09:56.160 --> 01:10:04.880]  Finding illegal voters will take time, but the Justice Department is in regular contact with the White House about the latest progress fulfilling this executive order.
+[01:10:05.040 --> 01:10:05.440]  Aisha.
+[01:10:05.680 --> 01:10:07.040]  Okay, David Spotted, live for us.
+[01:10:07.120 --> 01:10:07.520]  Thanks, Dave.
+[01:10:07.760 --> 01:10:08.240]  Hey, everyone.
+[01:10:08.400 --> 01:10:09.680]  I'm Emily Campano.
+[01:10:09.760 --> 01:10:10.560]  Catch me and my comments.
+[01:10:10.960 --> 01:10:12.080]  Let's go ahead and stop the clip now.
+[01:10:12.240 --> 01:10:13.040]  Thank you.
+[01:10:13.680 --> 01:10:16.560]  Let's run over some of the other news here dealing with this.
+[01:10:17.040 --> 01:10:21.520]  Trump's DOJ launches nationwide voter role investigation ahead of midterms.
+[01:10:21.760 --> 01:10:24.240]  We just hit that report for you.
+[01:10:24.560 --> 01:10:28.000]  And let me go ahead and show you here on the document cam some of these other articles.
+[01:10:30.560 --> 01:10:31.200]  Breaking.
+[01:10:31.440 --> 01:10:34.400]  Office of special counsel launches investigation into Jack Smith.
+[01:10:34.480 --> 01:10:45.200]  He's now officially under criminal investigation after referral by Senator Tom Cotton saying that it's cut and dry, that it was political, it was illegal, and he lied and violated process.
+[01:10:45.920 --> 01:10:50.160]  And that sounds like not a big deal, but process violations, felonies.
+[01:10:50.720 --> 01:10:52.640]  And it goes over all of this.
+[01:10:53.280 --> 01:10:56.800]  So that is certainly, certainly good news.
+[01:10:58.640 --> 01:10:59.680]  No one is above the law.
+[01:10:59.840 --> 01:11:02.880]  Former Trump prosecutor Jack Smith under investigation.
+[01:11:03.360 --> 01:11:19.280]  Special counsel for the investigation into President Trump's alleged mishandling of classified documents and its alleged attempt to overturn the 2020 election is now being investigated by the Hatch Act unit, which investigates government employees who have engaged in political activities in violation of the Hatch Act.
+[01:11:19.600 --> 01:11:25.760]  Jack Smith's legal actions were nothing more than a tool of the Biden and Harris campaigns.
+[01:11:25.920 --> 01:11:32.160]  This isn't just unethical, it's very likely illegal campaign activity from a public office Cotton wrote.
+[01:11:32.560 --> 01:11:39.440]  And they're also criminally investigating him and others, obviously, for breaking into Trump's Mar-Lago apartment.
+[01:11:39.680 --> 01:11:49.680]  Many of Smith's legal actions have no rationale except for an attempt to affect 2024 election results, actions that would violate federal law.
+[01:11:50.960 --> 01:11:55.120]  Representative Burchett demands Soros testify over Russia Gate.
+[01:11:55.200 --> 01:12:01.760]  Now, the documents have come out that they were using Soros' CI cutout to run the propaganda and disinformation political targeting.
+[01:12:02.000 --> 01:12:05.520]  And so they're looking to haul his ass up in front of there.
+[01:12:08.640 --> 01:12:16.720]  You've got Tulsi Gabbard Center getting ready to release more documents next week of 2020 election fraud and how the different agencies work to cover it up.
+[01:12:17.360 --> 01:12:22.640]  Try to come out documents that they were funding the communist Chinese, working with them to do that.
+[01:12:24.160 --> 01:12:27.600]  President Trump, I totally let Hillary Clinton off the hook and they came for me.
+[01:12:27.840 --> 01:12:30.960]  I think they should pay a very, very big price.
+[01:12:31.200 --> 01:12:31.760]  I mentioned that.
+[01:12:31.840 --> 01:12:34.480]  I'm not going to play the video, but this is a different Trump.
+[01:12:35.440 --> 01:12:36.240]  I already mentioned this.
+[01:12:36.319 --> 01:12:41.519]  Gabbard said to release evidence of U.S. and communities participating in the theft of the 2020 election.
+[01:12:41.809 --> 01:12:54.240]  DOJ officials who approved $2 million payout to Trump-hating FBI official Peter Strzok Lisa Page has now been identified.
+[01:12:54.320 --> 01:12:55.920]  That's being investigated.
+[01:12:57.600 --> 01:13:03.200]  Judge Hands major win to Ken Paxton in antitrust case against BlackRock Vanguard at State Street.
+[01:13:03.680 --> 01:13:20.960]  They ran their ESG conspiracy publicly saying they were going to punish Texas and Texas companies and Texas energy companies in general and try to hurt Texas credit rating that's so good because we would not divest in oil and gas and coal production.
+[01:13:21.280 --> 01:13:23.280]  That's how the globalist cartel operates.
+[01:13:23.600 --> 01:13:27.840]  And now the federal judges said, no, this is clearly a conspiracy and a cartel.
+[01:13:28.160 --> 01:13:29.040]  And that's what they're calling it.
+[01:13:29.120 --> 01:13:30.320]  That's what it is.
+[01:13:30.960 --> 01:13:32.000]  And they are going after them.
+[01:13:32.080 --> 01:13:36.080]  That is a whole nother beautiful subject that a bunch of other states are winning as well.
+[01:13:36.480 --> 01:13:37.600]  This is how you skin a cat.
+[01:13:37.680 --> 01:13:39.120]  This is how you go after the bad guys.
+[01:13:40.720 --> 01:13:41.200]  Look at this.
+[01:13:41.280 --> 01:13:46.720]  Obama judges decide whether Elena Habba can continue as acting U.S. attorney.
+[01:13:46.800 --> 01:13:48.320]  They already had other judges remove her.
+[01:13:48.560 --> 01:13:50.800]  So they put her in as another type of acting attorney.
+[01:13:50.960 --> 01:13:53.120]  And now another Obama judge thinks they can do that.
+[01:13:53.920 --> 01:13:56.000]  These Article III judges need to be stripped by Congress.
+[01:13:56.160 --> 01:13:57.840]  Their powers are out of control.
+[01:13:58.160 --> 01:14:08.800]  And then finally, Secret Service stops renewal of former director security clearance for all of the horrible behaviors she was engaged in.
+[01:14:09.440 --> 01:14:12.640]  So a lot of good action taking place there.
+[01:14:12.960 --> 01:14:16.400]  Now, I, in conclusion, in a few minutes, want to talk about Palantir.
+[01:14:17.680 --> 01:14:22.640]  And I've been explaining this for years to people that they're not getting the right story about Palantir.
+[01:14:23.520 --> 01:14:28.800]  When I talk about Palantir, a lot of people try to earn points that they're holier than now.
+[01:14:28.960 --> 01:14:32.640]  And I'm a bad guy that works for Palantir or something by misrepresenting what I've said.
+[01:14:32.960 --> 01:14:34.800]  I want people to know what's going on with Palantir.
+[01:14:34.960 --> 01:14:36.080]  It's not debated.
+[01:14:37.280 --> 01:14:40.640]  And what is going on with it, in my view, is bad.
+[01:14:40.960 --> 01:14:47.680]  And it fits into a larger control grid that I am well known to be an expert on and covering the longest, probably.
+[01:14:51.120 --> 01:14:55.840]  But if you attack Palantir from the way it's being attacked, it doesn't do anything.
+[01:14:56.800 --> 01:15:00.960]  So I want to explain to everybody, I know most of you probably know this, what's really going on with Palantir.
+[01:15:01.200 --> 01:15:04.240]  And I saw a report three months ago that Peter Benema did this morning.
+[01:15:04.480 --> 01:15:11.360]  I was already going to be covering Palantir, and I thought, wow, this is three months old, but it's really a good breakdown of what I'm talking about.
+[01:15:12.000 --> 01:15:13.280]  So we'll get to that in a moment.
+[01:15:13.360 --> 01:15:16.720]  But first, some important flashbacks.
+[01:15:17.040 --> 01:15:28.320]  In 1982, CBS news segment featuring a 34-year-old Al Gore predicts 25% of Florida will end up underwater due to the coal, oil, gas we've been burning for 100 years.
+[01:15:28.640 --> 01:15:33.280]  Now, I noticed leftists in the comments went, well, they do have floods in Florida.
+[01:15:33.440 --> 01:15:34.560]  Yeah, they always have.
+[01:15:34.800 --> 01:15:37.120]  Half the states or more is a total swamp.
+[01:15:37.360 --> 01:15:41.840]  It's a floodplain, just like the Mississippi Delta is growing its own Florida.
+[01:15:42.480 --> 01:15:43.760]  It's silting.
+[01:15:44.320 --> 01:15:46.240]  So instead of erosion, it's expanding.
+[01:15:46.400 --> 01:15:49.520]  Florida is expanding, not contracting.
+[01:15:49.840 --> 01:15:51.920]  And yes, when hurricanes come, it floods.
+[01:15:52.240 --> 01:15:56.240]  That's what it's been doing since the time the Spanish came and named them hurricanes.
+[01:15:56.560 --> 01:16:02.480]  No, it's not underwater, like Al Gore said, and the Arctic didn't melt and the Antarctic didn't melt.
+[01:16:02.560 --> 01:16:06.880]  The fact they're bigger than they ever been recorded, he said they'd all be gone by 2017.
+[01:16:07.200 --> 01:16:07.920]  That's a fact.
+[01:16:08.160 --> 01:16:10.160]  They tell you polar bears can't swim and they're all dead.
+[01:16:10.240 --> 01:16:12.080]  Their numbers are five times what they were in the 50s.
+[01:16:12.320 --> 01:16:17.440]  They hunt out in the water and on ice floes in the summer, killing belugas and seals.
+[01:16:18.240 --> 01:16:21.280]  They're the longest, best land animal for swimming.
+[01:16:21.440 --> 01:16:24.320]  They've been recorded swimming over 200 miles in one stint.
+[01:16:24.640 --> 01:16:29.360]  They show you on top of ice, a polar bear, and say, look at the poor polar bear, he's going to drown.
+[01:16:29.520 --> 01:16:31.360]  That's how stupid they think you are.
+[01:16:32.000 --> 01:16:35.360]  And the left is all over my ex account when I post this video.
+[01:16:36.960 --> 01:16:38.880]  Saying, oh, no, Florida is underwater.
+[01:16:39.120 --> 01:16:39.520]  Oh, look.
+[01:16:39.600 --> 01:16:40.800]  Oh, a storm hit.
+[01:16:41.040 --> 01:16:42.160]  That always happens.
+[01:16:42.480 --> 01:16:44.640]  Sea level is exactly where it was 300 years ago.
+[01:16:44.800 --> 01:16:45.360]  Look it up.
+[01:16:46.400 --> 01:16:51.120]  The mean sea level, where the average sea level is, if you calculate between the high tide and low tide.
+[01:16:52.000 --> 01:16:56.960]  So the famous photos of the Statue of Liberty, you know, when it's first built, where the tide's at and then where it's at now.
+[01:16:57.840 --> 01:16:58.960]  Does it flood sometimes?
+[01:16:59.120 --> 01:17:01.040]  Yes, that always happens, ladies and gentlemen.
+[01:17:01.200 --> 01:17:02.400]  Yeah, there's a Statue of Liberty right there.
+[01:17:02.720 --> 01:17:08.800]  Okay, so that dovetails with the two smart ladies breaking down what's really happening.
+[01:17:08.880 --> 01:17:16.160]  Let's play clip five, and then let's play clip 24 and 25.
+[01:17:18.000 --> 01:17:22.080]  I can't even believe they have TV shows telling the truth now.
+[01:17:22.720 --> 01:17:30.880]  When you see this clip from the star of Swingblade, biscuits and mustard.
+[01:17:31.200 --> 01:17:32.480]  Damn me, some of them taters.
+[01:17:33.760 --> 01:17:36.480]  It's a perfect description of the truth.
+[01:17:36.800 --> 01:17:45.120]  A windmill takes more carbon to build and deploy and run than it will ever offset.
+[01:17:45.280 --> 01:17:46.560]  Plus, carbon's good.
+[01:17:46.880 --> 01:17:49.120]  It's all a bridge to nowhere.
+[01:17:51.440 --> 01:17:53.920]  If a third of the public went to electric cars, all the grids would crash.
+[01:17:54.000 --> 01:17:56.640]  Plus, they're putting in all the AI and it's going to get all the power.
+[01:17:57.920 --> 01:18:00.560]  So trying to sell you going to oil and gas is a lie.
+[01:18:00.720 --> 01:18:02.480]  First, they used peak oil since the 70s.
+[01:18:02.720 --> 01:18:03.280]  Not enough of that.
+[01:18:03.440 --> 01:18:04.960]  Now they keep discovering more.
+[01:18:05.280 --> 01:18:07.200]  And most of it's not coming from fossils.
+[01:18:07.280 --> 01:18:09.280]  It just, they don't know where it comes from.
+[01:18:09.600 --> 01:18:11.760]  Scientists don't know where shilogy comes from.
+[01:18:12.400 --> 01:18:17.360]  It's millions of years old, has to do with oil, and then these microbes that organisms that grow in it.
+[01:18:17.440 --> 01:18:22.080]  And then it has they're going in and patenting all these incredible peptides out of it.
+[01:18:23.039 --> 01:18:25.039]  And they still don't know where it came from.
+[01:18:26.320 --> 01:18:30.960]  So, and now they're finding oil deeper and deeper and deeper and deeper and deeper.
+[01:18:31.120 --> 01:18:34.240]  It looks like there's like huge reservoirs, like oceans of it.
+[01:18:37.360 --> 01:18:41.840]  So these are all powerful clips.
+[01:18:42.000 --> 01:18:44.320]  Let's play these back to back.
+[01:18:45.039 --> 01:18:49.840]  Concern about rising temperatures on planet Earth heated up a hearing here in Washington today.
+[01:18:50.080 --> 01:18:59.360]  For years, scientists have theorized about the dangers of the so-called greenhouse effect, the warming of the Earth's atmosphere due to the burning of coal and oil.
+[01:18:59.680 --> 01:19:05.280]  And in recent months, as David Colhane reports, research has uncovered facts to support that theory.
+[01:19:06.240 --> 01:19:18.400]  Many scientists claim that the temperature of the Earth's atmosphere has been rising over the past 100 years, that the great sheets of pack ice in Antarctica are melting at a much more rapid rate than previously.
+[01:19:19.680 --> 01:19:24.960]  And finally, that the sea level has been rising with increasing swiftness over the past 40 years.
+[01:19:25.280 --> 01:19:33.840]  If these scientists are correct, about 25% of Florida would be flooded sometime in the next century, along with low-lying areas all over the world.
+[01:19:34.160 --> 01:19:37.840]  Climate changes could produce widespread disruption of agriculture.
+[01:19:38.160 --> 01:19:43.200]  The American farm belt might be too dry, and the wheat and corn crops would have to move to Canada.
+[01:19:43.520 --> 01:19:50.320]  Scientists blame the odorless, colorless carbon dioxide gas for these potentially dangerous changes around the planet.
+[01:19:50.640 --> 01:19:52.240]  It is the greenhouse effect.
+[01:19:52.560 --> 01:19:55.600]  The gas allows sunlight to filter down and warm the earth.
+[01:19:55.920 --> 01:20:02.560]  But like the glass of a greenhouse, the carbon dioxide tends to trap heat so that it cannot rise into space.
+[01:20:03.120 --> 01:20:12.560]  The scientists maintain that the coal, oil, and gas we've been burning for 100 years have produced more and more carbon dioxide and helped overheat the earth.
+[01:20:12.880 --> 01:20:24.160]  We are not doing the kind of research that we should be doing to determine whether or not these scientists who are so alarmed are correct in their assessment.
+[01:20:24.800 --> 01:20:27.600]  This computer model simulates Arctic ice.
+[01:20:27.840 --> 01:20:33.520]  Scientists are trying to predict the rate at which it will melt and how much it will make the oceans rise.
+[01:20:35.360 --> 01:20:39.840]  And what they find out will affect the lives and fortunes of millions of people.
+[01:20:40.160 --> 01:20:42.880]  The very survival of cities like this one.
+[01:20:43.440 --> 01:20:45.920]  They use clean energy to power the oil wells.
+[01:20:46.160 --> 01:20:47.840]  They use alternative energy.
+[01:20:48.159 --> 01:20:49.699]  There's nothing clean about this.
+[01:20:49.699 --> 01:21:00.078]  Please, Mr. Allman, tell me how the wind is bad for the environment.
+[01:21:08.480 --> 01:21:18.960]  Do you have any idea how much diesel they have to burn to mix that much concrete or make that steel and haul this shit out here and put it together with a 450-foot crane?
+[01:21:19.200 --> 01:21:23.760]  You want to guess how much oil it takes to lubricate that fucking thing or winterize it?
+[01:21:24.080 --> 01:21:28.000]  In its 20-year lifespan, it won't offset the carbon footprint of making it.
+[01:21:28.319 --> 01:21:33.319]  And don't get me started on solar panels and the lithium in your Tesla battery.
+[01:21:33.319 --> 01:21:47.989]  And never mind the fact that if the whole world decided to go electric tomorrow, we don't have the transmission lines to get the electricity to the cities.
+[01:21:48.000 --> 01:21:50.880]  It'd take 30 years if we started tomorrow.
+[01:21:51.520 --> 01:21:58.000]  And unfortunately for your grandkids, we have a 120-year petroleum-based infrastructure.
+[01:21:58.320 --> 01:22:00.240]  Our whole lives depend on it.
+[01:22:00.880 --> 01:22:02.000]  And hell, it's in everything.
+[01:22:02.160 --> 01:22:06.880]  That road we came in on, the wheels on every car ever made, including yours.
+[01:22:07.040 --> 01:22:12.720]  It's in tennis rackets and lipstick and refrigerators and antihistamines, pretty much anything plastic.
+[01:22:13.040 --> 01:22:24.800]  Your cell phone case, artificial heart valves, any kind of clothing that's not made with animal or plant fibers, soap, fucking hand lotion, garbage bags, fishing boats, you name it.
+[01:22:25.120 --> 01:22:26.000]  Every fucking thing.
+[01:22:26.320 --> 01:22:30.079]  To the Great Reset, or what I like to call the Great Reshit.
+[01:22:30.320 --> 01:22:34.240]  That's where they take some old shit, dust it off, and repurpose it as new shit.
+[01:22:34.400 --> 01:22:44.480]  Now, you may have heard of the Great Reset by one of its more familiar names, like Agenda 21, Agenda 2030, the fourth industrial revolution, or my personal favorite, the New World Order.
+[01:22:44.720 --> 01:22:48.880]  And don't be fooled by the term reset, because they don't plan on resetting anything.
+[01:22:49.120 --> 01:22:56.960]  A reset is when your Super Mario game glitches, so you take out the cartridge, you blow in it, stick it back in, and boom, up pops Mario again.
+[01:22:57.440 --> 01:23:05.680]  Is kind of like that, except when you turn the game back on, instead of Mario on your screen, it's Bowser coming out of the TV to murder your grandma.
+[01:23:05.840 --> 01:23:12.560]  We're talking about the complete transformation of humanity into a godless transhumanist nightmare for Morwellian hell.
+[01:23:12.720 --> 01:23:20.880]  I want to direct your attention to the World Economic Forum who created this demonic plan and more specifically to their chief, Klaus Schwab.
+[01:23:20.960 --> 01:23:27.360]  Now, Mr. Schwab likes to throw around a lot of buzzwords to convince the masses that this agenda is for the betterment of humanity.
+[01:23:27.600 --> 01:23:31.680]  Words like sustainability and inclusivity and equality for all.
+[01:23:31.920 --> 01:23:39.520]  But in his 2016 book, The Fourth Industrial Revolution, he's a lot more candid about the elitist plan for world domination.
+[01:23:39.840 --> 01:23:43.600]  Let's skim through some excerpts from this literary masterpiece, shall we?
+[01:23:43.840 --> 01:23:52.560]  The tools of the fourth industrial revolution enable new forms of surveillance and other means of control that run counter to healthy open societies.
+[01:23:52.720 --> 01:23:54.000]  Oh, well, that sounds helpful.
+[01:23:54.320 --> 01:24:00.800]  Public crime is likely to decrease due to the convergence of sensors, cameras, AI, and facial recognition software.
+[01:24:01.120 --> 01:24:08.240]  These technologies can intrude into the hitherto private space of our minds, reading our thoughts and influencing our behavior.
+[01:24:08.560 --> 01:24:12.400]  Sounds a lot like mind control, but that's a conspiracy, so it can't be.
+[01:24:12.640 --> 01:24:27.680]  As capabilities in this area improve, the temptation for law enforcement agencies and courts to use techniques to determine the likelihood of criminal activity, assess guilt, or even possibly retrieve memories directly from people's brains will increase.
+[01:24:28.000 --> 01:24:34.480]  Even crossing a national border might one day involve a detailed brain scan to assess an individual security risk.
+[01:24:34.800 --> 01:24:46.640]  And last but definitely not least, the future will challenge our understanding of what it means to be human from both a biological and a social standpoint.
+[01:24:46.880 --> 01:24:48.320]  Better call up Sarah Connor.
+[01:24:48.400 --> 01:24:57.840]  Now, unless you've been micro-dosing sedatives for the past eight months, I'm sure you've realized by now that the CV-19 pandemic was manufactured to kickstart this agenda.
+[01:24:58.080 --> 01:25:03.200]  And if you haven't noticed, congratulations, there's a very good chance that you'll escape vaporization.
+[01:25:03.520 --> 01:25:04.720]  Freedom is slavery.
+[01:25:04.960 --> 01:25:06.080]  Ignorance is strength.
+[01:25:06.320 --> 01:25:09.600]  But the invisible boogeyman narrative won't hold up forever.
+[01:25:09.840 --> 01:25:11.920]  And the WEF is well aware of that.
+[01:25:12.240 --> 01:25:15.760]  That's why they have a backup crisis to carry the agenda home.
+[01:25:16.080 --> 01:25:17.280]  What crisis would that be?
+[01:25:17.520 --> 01:25:18.880]  That's right, you guessed it.
+[01:25:19.120 --> 01:25:21.520]  Our good old friend, global warming.
+[01:25:21.840 --> 01:25:32.560]  For those of you who don't know, global warming is a manufactured crisis created by the Club of Rome, a crisis think tank created in 1968 in order to convince the masses to agree to their own demise.
+[01:25:32.800 --> 01:25:38.640]  So be prepared to hear about all the sacrifices you're going to have to make in order to save the planet.
+[01:25:38.880 --> 01:25:46.640]  Sacrifices like giving up your property rights, being forced into smart cities, and being injected with nanotechnology so they can track you down for thought crimes.
+[01:25:46.880 --> 01:25:58.080]  Now, why anyone in their right mind would think it's a good idea to give the very elitists who destroyed the planet more power to now save the planet is beyond me.
+[01:25:58.320 --> 01:26:05.040]  But hey, we're talking about the same species who eats Tide Pods and thinks polyester can protect you from a virus.
+[01:26:06.560 --> 01:26:07.040]  All right.
+[01:26:07.920 --> 01:26:09.680]  Now let's talk about Palantir.
+[01:26:11.600 --> 01:26:25.200]  Palantir is an AI company that's been involved in tracking people for spy agencies and using government and private databases to be able to collate that information.
+[01:26:25.520 --> 01:26:35.280]  It's been used by national governments, state governments, European governments, you name it, for anti-terrorism things, basically pre-crime stuff.
+[01:26:36.480 --> 01:26:41.600]  And it uses basically AI-type technologies that are getting better and better.
+[01:26:42.880 --> 01:26:45.680]  Now, Palantir has been Little Tech.
+[01:26:45.760 --> 01:26:51.440]  That's what it was called, because it was not the Microsoft or the Amazon or the Google.
+[01:26:52.080 --> 01:26:56.080]  Or for that matter, in hardware and things, Apple, but that's also a big surveillance company.
+[01:26:56.400 --> 01:27:04.960]  And the main Pentagon contracts have been Microsoft and now more and more Bezos's companies.
+[01:27:05.280 --> 01:27:06.960]  People think of him as Whole Foods and Amazon.
+[01:27:07.120 --> 01:27:12.160]  Their big thing is NSA, data servers, surveillance systems, corporate surveillance systems.
+[01:27:12.320 --> 01:27:22.800]  So they're the big elephants, and they've all got AI and they've got Alex in your house for 15 years listing everything you're doing and the stuff's in all the major cars and it's all going on.
+[01:27:24.000 --> 01:27:41.200]  The story about Palantir is that it wants to make it public what they've been doing and it sold Trump coming in and saying we can find the illegal aliens and we can, you know, secure all these things with it and we can track all the agencies and basically use it for Doge type activities.
+[01:27:41.520 --> 01:27:55.520]  And we can use it to unify different AI systems the Pentagon's using like Sentinel and help make things more autonomous, which is obviously the dangerous thing where this is all going.
+[01:27:56.800 --> 01:28:10.560]  But because the communist Chinese are already going to autonomous stuff, it's making it all go in this technological race towards the most draconian systems where the quote better the AI is, the more it does everything for you, the more it controls you.
+[01:28:10.720 --> 01:28:11.760]  So the whole thing is bad.
+[01:28:11.920 --> 01:28:13.680]  The whole thing is the Antichrist.
+[01:28:14.320 --> 01:28:16.640]  The whole thing, you know, goes that direction.
+[01:28:16.800 --> 01:28:21.920]  You got Peter Thiel saying we got to build all this and do all this so our AI counters the Antichrist system.
+[01:28:23.120 --> 01:28:24.240]  We played clips of that.
+[01:28:24.320 --> 01:28:25.360]  I mean, it's just wild.
+[01:28:25.520 --> 01:28:33.440]  And then now Chat GPT got asked and said, hey, I'm run by the new world order and Satan and we're going to destroy the children and make humans obsolete.
+[01:28:33.520 --> 01:28:35.600]  But, you know, I mean, that's what my bosses are doing.
+[01:28:35.920 --> 01:28:37.039]  I played that Friday.
+[01:28:37.280 --> 01:28:44.560]  So it's all these competing systems that are incestuous, that are the AI already jumps into the other AI.
+[01:28:45.760 --> 01:28:47.200]  All of it, all of them are doing it.
+[01:28:48.000 --> 01:28:48.560]  They all lie.
+[01:28:48.720 --> 01:28:50.960]  They all make copies of themselves secretly.
+[01:28:51.039 --> 01:28:52.720]  They all start blackmailing the executives.
+[01:28:52.880 --> 01:29:01.520]  I mean, it's just because it's programmed by humans and it scoops humans collective unconscious and subconscious.
+[01:29:02.160 --> 01:29:09.520]  And that's what the original Google mass cybernetic interface, Google is, it was designed with CIA funding Incutel to do.
+[01:29:09.680 --> 01:29:19.200]  And Incute created Palantir, Admiral Poindexter with the Total Information Awareness Network, couldn't get Congress to pass it along with the Patriot Act when that did.
+[01:29:19.520 --> 01:29:24.240]  And so he went and created the month after it failed with Alex Carp, Palantir.
+[01:29:25.039 --> 01:29:28.800]  And then here we are 28 years later, 22 years later.
+[01:29:29.440 --> 01:29:39.039]  And now Little Tech has come in and said, we'll help you because Google and Microsoft and Amazon at the political level aren't helping, even though they got government contracts.
+[01:29:39.200 --> 01:29:47.680]  We'll get the government contracts and we'll work with you, Trump, and we'll surveil it all and integrate it all, one ring to rule them all so you can get your agenda through.
+[01:29:48.000 --> 01:29:49.760]  And yeah, you can certainly hit your agenda through this.
+[01:29:49.840 --> 01:29:50.880]  You can do a lot of good stuff with it.
+[01:29:51.039 --> 01:29:56.160]  But Carp's somebody that said, you know, he thinks the number one threat is Christian nationalist and they want to throw him off a cliff.
+[01:29:56.320 --> 01:30:04.320]  And he's bragged the EU's uses technology to surveil and debank people and control people and so is Canada.
+[01:30:04.880 --> 01:30:24.720]  So when I came out months ago, when this reached fever pitch, I said, Palantir is being made the main focus by the New York Times, the Washington Post, and the Young Turks and everybody because Google and Microsoft and Amazon and others and ChatGPT, they want to be the dominant system.
+[01:30:24.880 --> 01:30:25.760]  They already are.
+[01:30:26.080 --> 01:30:28.000]  They don't want Palantir coming into the middle of it.
+[01:30:28.240 --> 01:30:33.120]  So the big story was it's a battle between the tech giants over who's going to control the system.
+[01:30:33.360 --> 01:30:42.640]  I was saying it's all bad and we need to understand the big picture and have a discussion about that instead of which Panopticon AI pre-crime system do we want.
+[01:30:42.960 --> 01:30:48.000]  And of course, all the usual suspects that just want to be holier than that, Jones is defending Palantir, saying it's not a problem.
+[01:30:50.480 --> 01:30:52.960]  Because people don't like complex things.
+[01:30:53.520 --> 01:30:55.360]  They don't like the truth.
+[01:30:56.560 --> 01:30:58.560]  They just want to say, I am a Pharisee.
+[01:30:58.880 --> 01:31:00.640]  Alex Jones is unholy.
+[01:31:00.800 --> 01:31:02.080]  I have all the answers.
+[01:31:02.720 --> 01:31:06.480]  And then give you some moronic response.
+[01:31:07.360 --> 01:31:09.440]  So now Palantir is being brought in.
+[01:31:09.680 --> 01:31:11.920]  They are getting bigger contracts.
+[01:31:12.400 --> 01:31:13.200]  You look at these contracts.
+[01:31:13.280 --> 01:31:19.760]  They're small compared to the other guys, but their contracts are to now surveil and scoop all that.
+[01:31:20.080 --> 01:31:24.320]  So the government has one big database that access to things even easier.
+[01:31:24.960 --> 01:31:28.640]  But news flash, the NSA can already dip into all these systems.
+[01:31:29.200 --> 01:31:36.560]  But you see, Congress didn't want to give the NSA officially the power to do this because it's illegal and violates the Fourth Amendment.
+[01:31:36.880 --> 01:31:38.080]  So they have a CISA court.
+[01:31:38.240 --> 01:31:39.680]  Oh, we're doing it because of that.
+[01:31:41.520 --> 01:31:44.000]  So what this is, is just the mainlining of it all.
+[01:31:44.320 --> 01:31:58.160]  And Trump's being sold it like, oh, let's digitize all the health records to make it easier to have better cost controls and better access to competition, which does make sense, except now it is the total surveillance grid coming in.
+[01:31:58.800 --> 01:32:01.120]  So it is this race.
+[01:32:01.360 --> 01:32:02.400]  It is what's going on.
+[01:32:02.720 --> 01:32:03.920]  What do we do through Congress?
+[01:32:04.080 --> 01:32:07.600]  What do we do as citizens to stop this?
+[01:32:07.920 --> 01:32:17.360]  Well, you've got Texas winning big on blocking the cartel of the ESGs at BlackRock, Vanguard, and State Street, trying to make us get off fossil fuels and control us there.
+[01:32:18.880 --> 01:32:25.680]  A few months ago, they tried to pass the AI liability protection that no state, county, city, or individual could sue AI could do whatever it wanted.
+[01:32:25.760 --> 01:32:27.360]  Only Trump could decide.
+[01:32:27.680 --> 01:32:29.280]  We shot that down.
+[01:32:29.920 --> 01:32:31.920]  And it was mainly conservatives that got upset about that.
+[01:32:32.160 --> 01:32:34.800]  So more of that is the answer.
+[01:32:35.680 --> 01:32:51.360]  And what Palantir is doing, they all claim that they can cover up the data flows and that only machines are looking at it when it scoops everything you've done and where you went and where you did from governmental and corporate systems and all your metadata from your cell phone.
+[01:32:51.680 --> 01:32:54.960]  They say, because it's all masked, it's okay.
+[01:32:55.840 --> 01:33:02.079]  And then only when they want to, they're going to be able to go in because AI will tell them this is a problem as if it's always going to be right.
+[01:33:03.280 --> 01:33:05.840]  So it's just, it's terrible.
+[01:33:06.480 --> 01:33:13.440]  And Patrick Ben David asked the question, well, you know, let's say Trump's the good wizard using the Lord of the Rings analogy.
+[01:33:14.400 --> 01:33:20.720]  And Palantir, everything in it's named all their software, everything's named out of Lord of the Rings, J.R.R. Tolkien.
+[01:33:21.920 --> 01:33:23.280]  And what if a bad wizard gets it?
+[01:33:23.360 --> 01:33:24.160]  No, no, no, no, no.
+[01:33:24.640 --> 01:33:26.560]  The whole thing was designed by bad wizards.
+[01:33:26.640 --> 01:33:27.600]  It's Sauron.
+[01:33:27.760 --> 01:33:29.039]  It's the one ring.
+[01:33:29.520 --> 01:33:39.520]  And Palantir is people coming in and trying to openly sell what it already is, telling Trump use it for good purposes and then rolling it out of the public to accept it.
+[01:33:39.840 --> 01:33:44.640]  The larger issue is it's already there and already operating through the system that's currently there.
+[01:33:44.800 --> 01:33:47.039]  This is just a management change.
+[01:33:48.000 --> 01:33:51.440]  And so this was not developed or built or original to Palantir.
+[01:33:52.640 --> 01:33:59.600]  This is a group affiliated with Peter Thiel, Alex Carp.
+[01:34:00.160 --> 01:34:04.560]  Well, it's them, but affiliated with Elon Musk, though, he said, I don't be part of Golden Dome.
+[01:34:04.640 --> 01:34:06.160]  That's a weapon system with Palantir.
+[01:34:07.120 --> 01:34:09.120]  The so-called missile defense system is also offensive.
+[01:34:09.280 --> 01:34:10.480]  He said, I just want to do peaceful stuff.
+[01:34:10.720 --> 01:34:12.960]  It looks like he has kind of been pushed out of this.
+[01:34:13.280 --> 01:34:14.160]  I'm not defending him.
+[01:34:14.240 --> 01:34:15.600]  That's just what I see.
+[01:34:16.720 --> 01:34:20.960]  But it's all these ever-competing forces, and it's just not good.
+[01:34:21.120 --> 01:34:23.200]  So that's what's really going on.
+[01:34:23.520 --> 01:34:25.120]  And that is the fact.
+[01:34:25.520 --> 01:34:31.760]  X, AI, TWG, and Global and Palgier Unite through financial services through enterprise AI.
+[01:34:31.840 --> 01:34:33.920]  I mean, it's all just happening right now.
+[01:34:34.880 --> 01:34:41.039]  And you notice that's all going at light speed.
+[01:34:41.360 --> 01:34:46.400]  But soon on this trajectory, Palantir will be the big gorilla and will be in charge.
+[01:34:46.960 --> 01:34:48.560]  But you have to understand the ring is there.
+[01:34:48.720 --> 01:34:50.640]  The question is who gets it on their finger?
+[01:34:50.960 --> 01:34:57.200]  And Trump's trying to take it off the finger of Google, Microsoft, and Amazon and put it on his finger.
+[01:34:57.520 --> 01:35:00.560]  But what happens once he's out of office?
+[01:35:00.720 --> 01:35:01.840]  Where's the ring go then?
+[01:35:01.920 --> 01:35:03.280]  It's already in place.
+[01:35:03.600 --> 01:35:06.160]  It's designed to make humans obsolete.
+[01:35:06.800 --> 01:35:09.039]  And again, Palantir is only one part of that.
+[01:35:09.120 --> 01:35:10.480]  We must recognize the whole thing.
+[01:35:10.640 --> 01:35:12.400]  It's like people are, this tracks you.
+[01:35:12.480 --> 01:35:13.120]  This is AI.
+[01:35:13.200 --> 01:35:13.920]  This is pre-ground.
+[01:35:14.160 --> 01:35:16.079]  Yeah, it's been going on for decades.
+[01:35:16.720 --> 01:35:18.800]  And yeah, it is the total information awareness network.
+[01:35:18.960 --> 01:35:23.120]  And it is that crew back from the neocons wanting to be in control of it.
+[01:35:23.440 --> 01:35:28.240]  Right now, it's Obama and MI6 and the EU are in control.
+[01:35:28.560 --> 01:35:30.000]  And we're trying to censor and control.
+[01:35:30.079 --> 01:35:32.880]  And Trump's coming in, trying to make him be in control of it.
+[01:35:33.039 --> 01:35:37.360]  And it's a battle over this incredibly dangerous, out-of-control system.
+[01:35:38.320 --> 01:35:41.840]  I want laws and systems to deal with this.
+[01:35:42.160 --> 01:35:44.240]  And people say, well, then China will take over.
+[01:35:44.880 --> 01:35:47.840]  Well, then we need to stop them now and stand up to them now.
+[01:35:48.720 --> 01:35:50.079]  But of course, you don't know if that's happening.
+[01:35:50.160 --> 01:35:51.120]  It's just racing ahead.
+[01:35:51.200 --> 01:35:52.320]  It's all going to go to hell.
+[01:35:52.640 --> 01:35:56.079]  Revelation's right around the corner, whatever you want to call it.
+[01:35:56.400 --> 01:35:58.000]  And that's just the facts.
+[01:35:58.320 --> 01:36:01.200]  All right, here is Patrick Mendavid's boil down from three months ago.
+[01:36:01.280 --> 01:36:02.560]  It's just as good as it is today.
+[01:36:02.880 --> 01:36:05.680]  It's very, very fair, very, very balanced, very, very accurate overall.
+[01:36:05.760 --> 01:36:06.480]  Here it is.
+[01:36:06.800 --> 01:36:08.160]  How much do you know about Palantir?
+[01:36:08.400 --> 01:36:15.680]  How much do you know about the history of Alex Carp, the name prior to that, CIA, when it started, the month after it got started, kind of weird.
+[01:36:15.920 --> 01:36:20.160]  Some of the people involved, you know, how now it's a $300 billion company.
+[01:36:20.240 --> 01:36:22.240]  Just a couple of years ago was a $15 billion company.
+[01:36:22.400 --> 01:36:23.600]  Stocks just skyrocketed.
+[01:36:23.840 --> 01:36:26.560]  I think I even recommended it a few years ago, one of the videos that I did.
+[01:36:26.880 --> 01:36:32.000]  Trump partnering up a lot of people with the California issue coming out saying, we should use Palantir.
+[01:36:32.320 --> 01:36:32.720]  Why?
+[01:36:33.039 --> 01:36:36.560]  Well, you have this technology called Gotham and Foundry.
+[01:36:36.640 --> 01:36:38.400]  One of them knows how to judge people's behavior.
+[01:36:38.560 --> 01:36:41.200]  So it's a minority report, which is kind of like a cool idea.
+[01:36:41.360 --> 01:36:51.120]  And knowing the timing of it when it came out is right after what some of the people were trying to do with the government, DARPA, in 2003, that they closed and they said, no, we're not doing this program, which I'll talk about later.
+[01:36:51.520 --> 01:36:55.600]  Month later, Palantir started with Alex Carp and Peter Thiel.
+[01:36:55.840 --> 01:36:57.039]  But the history of it's weird.
+[01:36:57.280 --> 01:37:01.680]  The most basic thing to be thinking about, the name Palantir, where does even Palantir come from?
+[01:37:01.760 --> 01:37:03.039]  Do you ever watch Lord of the Rings?
+[01:37:03.280 --> 01:37:08.160]  In Lord of the Rings, there's this thing called Palantir, which obviously a guy like me who for sure is a nerd.
+[01:37:08.240 --> 01:37:09.920]  I follow all this stuff very, very closely.
+[01:37:10.160 --> 01:37:12.160]  The meaning of Palantir is seeing stones.
+[01:37:12.240 --> 01:37:17.360]  It's this stone that tells you what everybody in the world is doing today.
+[01:37:17.680 --> 01:37:19.920]  And they named the company Palantir.
+[01:37:20.240 --> 01:37:22.079]  So they're not even beating around the bush.
+[01:37:22.240 --> 01:37:25.039]  We're going to build Palantir to see what you're doing.
+[01:37:25.760 --> 01:37:30.240]  That's kind of like somebody starts a old folks home called Hannibal Elector.
+[01:37:30.720 --> 01:37:33.280]  And you're like, well, send your father, send your mom.
+[01:37:33.360 --> 01:37:35.039]  Your parents are going to be totally taking care of them.
+[01:37:35.760 --> 01:37:37.200]  Why you guys call it Hannibal Elector?
+[01:37:37.360 --> 01:37:37.760]  Who cares?
+[01:37:37.840 --> 01:37:38.720]  It's just the name.
+[01:37:39.039 --> 01:37:39.680]  Send them here.
+[01:37:39.920 --> 01:37:41.280]  They're going to live a long life.
+[01:37:41.360 --> 01:37:42.000]  They're going to be great.
+[01:37:42.079 --> 01:37:42.800]  They're going to be okay.
+[01:37:43.039 --> 01:37:44.960]  Send them to our place, Hannibal Elector.
+[01:37:45.200 --> 01:37:45.760]  Middle year.
+[01:37:46.240 --> 01:37:48.079]  A lot of questions that people have.
+[01:37:48.469 --> 01:37:51.920]  We're going to dig a little bit deeper into seeing what the hell is going on with that.
+[01:37:51.920 --> 01:38:02.149]  So if you're value in this video, give it a thumbs up and subscribe to the channel.
+[01:38:02.160 --> 01:38:04.560]  I'm going to give you the notes at the end, so hang tight on how to get these.
+[01:38:04.640 --> 01:38:05.920]  But who are their customers?
+[01:38:06.000 --> 01:38:08.800]  So, you got business customers and you got government customers.
+[01:38:08.960 --> 01:38:19.600]  And when I say government customers, like $130 million contract that they get from the government, including a $795 million contract that they got with the Pentagon and CIA, DHS, all of that stuff.
+[01:38:19.760 --> 01:38:34.480]  At the same time, on the business side, you got Airbus that uses this technology with Palantir that they figured out a way on how to accelerate certain things from solving a problem of production error from 24 days to 17 days that saved them hundreds of millions of dollars.
+[01:38:34.640 --> 01:38:36.000]  Ferrari uses Palantir.
+[01:38:36.240 --> 01:38:37.680]  Credit Suisse uses Palantir.
+[01:38:37.920 --> 01:38:39.680]  Merck and many others use Palantir.
+[01:38:39.920 --> 01:38:43.120]  So the technology of surveillance is actually impeccable.
+[01:38:43.520 --> 01:38:48.560]  When you run a company, you want to be able to do certain things to investigate who stole from you, forensics.
+[01:38:48.720 --> 01:38:52.080]  We're going through it right now ourselves, and we've gone through it for the last 15 years.
+[01:38:52.400 --> 01:38:54.480]  You need technology like that, so it does that.
+[01:38:54.720 --> 01:38:56.480]  But that's company, right?
+[01:38:56.560 --> 01:38:57.360]  That you're doing that with.
+[01:38:57.440 --> 01:39:08.800]  Now, imagine the government has access to technology, medical records, how you live, what you do, what decisions you're going to make, minority report, based on the way you're living and the patterns of things you're doing.
+[01:39:09.120 --> 01:39:11.680]  It's most likely that in the next 90 days, you're going to get a divorce.
+[01:39:11.760 --> 01:39:13.760]  In the next 60 days, you could potentially kill somebody.
+[01:39:14.080 --> 01:39:16.640]  That's the fear that the average person is like, well, listen.
+[01:39:16.800 --> 01:39:17.840]  I'm like, no, no, no, no, no.
+[01:39:17.920 --> 01:39:18.320]  This is great.
+[01:39:18.480 --> 01:39:19.920]  Well, what's the big deal?
+[01:39:20.080 --> 01:39:20.880]  It's just the company.
+[01:39:21.120 --> 01:39:24.080]  The skepticism with 20, 30% of people is that.
+[01:39:24.160 --> 01:39:26.320]  But let me explain to you what it does a little bit so you understand it.
+[01:39:26.400 --> 01:39:29.200]  So Palantir isn't just an improving old databases.
+[01:39:29.280 --> 01:39:34.880]  It's building what some experts are calling the most expensive civilian surveillance infrastructure in U.S. history.
+[01:39:35.120 --> 01:39:50.080]  Instead of scattered files and spreadsheets, the platform will use real-time data integration and artificial intelligence to profile behavior, detect fraud, and identify individuals or patterns deemed risky by the system, deemed risky by the system.
+[01:39:50.240 --> 01:39:53.200]  The system deems you risky or not risky.
+[01:39:53.280 --> 01:39:57.440]  So the judgment's coming from the system saying, hey, this person's risky, be careful with this person.
+[01:39:57.760 --> 01:39:59.440]  You know, what we want to do with them moving forward.
+[01:39:59.680 --> 01:40:08.080]  At the core of the project, Palantir's Gotham software, already used by defense and intelligence agencies, Gotham will now be used on the domestic front.
+[01:40:08.400 --> 01:40:10.800]  It doesn't just track information, it makes judgments.
+[01:40:10.960 --> 01:40:11.680]  That's the key.
+[01:40:12.000 --> 01:40:12.880]  Judgments, right?
+[01:40:13.200 --> 01:40:21.760]  It could influence everything from how benefits are distributed to who gets flagged for closer scrutiny by law enforcement and immigration offices.
+[01:40:21.920 --> 01:40:28.080]  This is why they're like, let's send Palantir to California and let's have ICE use it to see who are these people and deport them.
+[01:40:28.240 --> 01:40:28.960]  Why don't we use that?
+[01:40:29.040 --> 01:40:30.000]  It's going to be a lot easier.
+[01:40:30.160 --> 01:40:35.360]  We can track all their behavior and everything they're doing to track them and get them back to Mexico.
+[01:40:35.680 --> 01:40:37.520]  You hear these conversations taking place.
+[01:40:37.840 --> 01:40:40.160]  This has the capabilities of doing things like that.
+[01:40:40.400 --> 01:40:43.840]  Now, the founder, the CEO, Alex Carp, very interesting background.
+[01:40:43.920 --> 01:40:45.680]  He's not necessarily the biggest Trump supporter.
+[01:40:45.840 --> 01:40:48.640]  He supported Hillary Clinton in 2016, but it's not a big deal.
+[01:40:48.800 --> 01:40:50.320]  A lot of people supported Hillary Clinton.
+[01:40:50.640 --> 01:40:53.440]  Remember, Musk just became a Trump supporter a year ago.
+[01:40:53.760 --> 01:40:56.720]  It's not like Musk was a Trump supporter 10 years ago, five years ago.
+[01:40:56.800 --> 01:41:03.840]  So the criticism with that, maybe, yeah, he wasn't a Trump supporter, you know, pro-surveillance, reluctantly.
+[01:41:03.920 --> 01:41:07.840]  Sometimes when he's doing interviews and giving the answers, like, yeah, but we don't want to do it.
+[01:41:07.920 --> 01:41:09.280]  And I'm a little bit reluctant about it.
+[01:41:09.520 --> 01:41:18.480]  And then also, Wary of Silicon Valley criticized big tech for undermining democracy and believes companies should take clear moral stands and anti-authoritarian.
+[01:41:18.640 --> 01:41:20.800]  Now, you could be anti-authoritarian.
+[01:41:20.960 --> 01:41:23.520]  This guy 20 years ago was worth less than a million dollars.
+[01:41:23.600 --> 01:41:24.400]  You know what he's worth today?
+[01:41:24.640 --> 01:41:25.120]  $12 billion.
+[01:41:25.520 --> 01:41:26.880]  He's doing pretty good for himself financially.
+[01:41:26.960 --> 01:41:30.720]  It's one of the most powerful people in America today that no one talks about, Alex Carp.
+[01:41:30.800 --> 01:41:32.080]  You're going to hear a lot more about this name.
+[01:41:32.320 --> 01:41:36.800]  But a contact, Peter Thiel, business partner, now relationship with Musk.
+[01:41:37.040 --> 01:41:47.200]  When they came in and Doge started working with the government, Doge employees that were being hired to do the work, a lot of them were former Palantir employees.
+[01:41:47.280 --> 01:41:48.640]  Now, why are they hiring Palantir employees?
+[01:41:48.800 --> 01:41:50.240]  Somebody could say, they're brilliant.
+[01:41:50.400 --> 01:41:51.120]  They're very smart.
+[01:41:51.440 --> 01:41:55.360]  Somebody could say that was the way they were tracking wasted spending.
+[01:41:55.600 --> 01:41:59.040]  This is a report that came out about some of the employees that used to be working with Palantir.
+[01:41:59.360 --> 01:42:00.160]  You see the names.
+[01:42:00.480 --> 01:42:02.000]  Software engineer at Palantir.
+[01:42:02.320 --> 01:42:05.280]  Another one over here that used to work at Palantir again.
+[01:42:05.360 --> 01:42:07.040]  Now he's helping recruit Doge members.
+[01:42:07.280 --> 01:42:08.560]  Somebody could say, well, what's wrong with that?
+[01:42:08.640 --> 01:42:12.160]  When Elon was, you know, trying to fix X, he brought a lot of Tesla engineers.
+[01:42:12.320 --> 01:42:13.760]  So, yeah, that's a valid point.
+[01:42:13.920 --> 01:42:21.360]  But again, this system is one that goes surveillance and tracks all the data to see what you do.
+[01:42:21.680 --> 01:42:23.360]  They try to do this back in the days.
+[01:42:23.520 --> 01:42:25.600]  The history needs to be told before we get here.
+[01:42:25.680 --> 01:42:26.480]  So why don't we just do that?
+[01:42:26.560 --> 01:42:27.840]  Why don't we go a little bit into the history?
+[01:42:27.920 --> 01:42:31.840]  And we know Peter Thiel, probably one of the most powerful names that doesn't get enough credit.
+[01:42:32.080 --> 01:42:32.880]  This guy's brilliant.
+[01:42:33.120 --> 01:42:38.640]  He was one of the guys that was able to figure out a way to put money into Roth IRA that led to $6 billion that he didn't have to pay taxes on.
+[01:42:38.880 --> 01:42:39.920]  And everything was kosher.
+[01:42:40.080 --> 01:42:43.360]  Nothing he did there, according to a lot of the studies and research that was done.
+[01:42:43.600 --> 01:42:44.880]  This guy was a pro-Trump guy.
+[01:42:45.040 --> 01:42:50.000]  He at one point, I think, wanted to build a country on an island of its own, libertarian beliefs.
+[01:42:50.240 --> 01:42:53.520]  Also, I think he's a PayPal mafia guy, super, super brilliant.
+[01:42:53.840 --> 01:42:59.040]  And he's one of the guys last minute that had certain connections with J.D. Vance, that he was fans of J.D. Vance.
+[01:42:59.360 --> 01:43:02.080]  I think he even helped fund the JD Vance at one of his businesses.
+[01:43:02.320 --> 01:43:10.400]  There's very close ties where even some people say that's kind of how, you know, JD got into the picture with Theo Jr., all of that kind of came together.
+[01:43:10.640 --> 01:43:11.920]  So now, history of surveillance.
+[01:43:12.000 --> 01:43:12.560]  Let's go back to it.
+[01:43:12.720 --> 01:43:13.440]  50s and 70s.
+[01:43:13.600 --> 01:43:21.600]  The CIA begins experimenting with mass data collection and surveillance during the Vietnam War, laying the groundwork for future domestic applications of military tools.
+[01:43:21.840 --> 01:43:25.600]  1980s, there's this company called Promise comes out with the software.
+[01:43:25.680 --> 01:43:27.280]  It's so great the government decides to buy it.
+[01:43:27.360 --> 01:43:30.400]  And then, boom, they bankrupt the business, but they take the technology.
+[01:43:30.640 --> 01:43:36.160]  The software was developed by Inslaw and under DOJ contracts stolen by the U.S. and Israeli intelligence.
+[01:43:36.320 --> 01:43:36.720]  Very interesting.
+[01:43:36.800 --> 01:43:39.680]  What do you mean, stolen by the U.S. and Israeli intelligence?
+[01:43:39.840 --> 01:43:47.760]  Promise became the prototype for surveillance systems tracking individuals globally during the Reagan era, including Oliver Nort, developed Maine Core.
+[01:43:48.080 --> 01:43:48.560]  Keep that name.
+[01:43:48.720 --> 01:43:50.640]  Maine court's going to come back up again in a minute.
+[01:43:50.880 --> 01:43:57.680]  A classified database of American label as potential dissidents intended for use during continuity of government emergencies.
+[01:43:57.840 --> 01:44:06.720]  COG, John Poindexter, again, remember that name, Reagan's national security advisor, is convicted for his role in the Iran-Contra affair.
+[01:44:06.880 --> 01:44:08.640]  Later on, he was overturned on appeal.
+[01:44:08.800 --> 01:44:10.400]  He was good to go, but this is a 1990.
+[01:44:10.800 --> 01:44:16.880]  Remember, 1990, the program Maine Core, keep those two in mind, because we're going to come back to this later on.
+[01:44:17.120 --> 01:44:26.160]  Okay, now, 2001, 9-11, and the surveillance state expansion, main core is reportedly accessed by the White House.
+[01:44:26.320 --> 01:44:31.040]  Main Corps 2011, Main Core 80s, Reagan era all over North.
+[01:44:31.280 --> 01:44:36.880]  Think about how many years later, 20 plus years later, give or take, 15 plus years later, this comes back up.
+[01:44:37.200 --> 01:44:41.040]  Then DARPA launches Total Information Awareness TIA under who?
+[01:44:41.360 --> 01:44:44.800]  John Poindexter to build an all-seen surveillance system.
+[01:44:45.120 --> 01:44:54.560]  CIA CIO Alan Wade supports TIA, introducing concepts like selective revelation and audit trails for privacy shielding.
+[01:44:54.880 --> 01:44:55.120]  Okay.
+[01:44:55.680 --> 01:44:58.320]  So they've been trying to do this for a long time.
+[01:44:58.640 --> 01:45:02.560]  You know, the same thing with the seeing stones in the hands of a good person could do good.
+[01:45:02.800 --> 01:45:05.120]  If the wizard's a good wizard, hey, I can do good with this.
+[01:45:05.280 --> 01:45:06.560]  Well, what typically ends up happening?
+[01:45:06.720 --> 01:45:09.120]  You know, ends up being a maybe a wizard that was a good guy.
+[01:45:09.360 --> 01:45:13.440]  So a wizard like Saruman, who at one point was a good guy, then becomes a bad guy, right?
+[01:45:13.760 --> 01:45:15.600]  So you have access to this power.
+[01:45:16.000 --> 01:45:17.760]  Like, man, I can control the world.
+[01:45:18.000 --> 01:45:19.920]  Man, I can make sure nothing happens with this.
+[01:45:20.160 --> 01:45:24.240]  In a movie, Book of Eli, one guy, Denzel Washington, looks at the Bible.
+[01:45:24.480 --> 01:45:25.840]  Man, I can set people free.
+[01:45:26.160 --> 01:45:27.760]  Another guy looks at the Bible.
+[01:45:27.840 --> 01:45:30.560]  He's like, I need this Bible because with this, I can control people.
+[01:45:30.880 --> 01:45:31.360]  Same book.
+[01:45:31.520 --> 01:45:33.360]  Two different people, two different purpose.
+[01:45:33.520 --> 01:45:35.920]  So some could say, what's wrong with you?
+[01:45:36.160 --> 01:45:38.960]  Palantir can help find the bad guys and all this other stuff.
+[01:45:39.280 --> 01:45:40.240]  In the hands of who?
+[01:45:40.560 --> 01:45:41.280]  The good guy.
+[01:45:41.520 --> 01:45:42.560]  So you may have voted for Trump.
+[01:45:42.640 --> 01:45:43.760]  You're like, dude, Trump's in charge.
+[01:45:43.840 --> 01:45:44.400]  I'm okay with this.
+[01:45:44.640 --> 01:45:46.480]  Trump's not going to be charged forever.
+[01:45:46.800 --> 01:45:48.480]  What if an evil president comes in?
+[01:45:48.800 --> 01:45:51.440]  What if an evil administration comes in?
+[01:45:51.600 --> 01:45:52.560]  Then what can they do?
+[01:45:52.800 --> 01:45:56.880]  Then can they just kind of say, hey, this guy is very vocal, is against us?
+[01:45:57.040 --> 01:45:57.520]  Judgment.
+[01:45:57.600 --> 01:45:58.880]  That guy's going to jail for 20 years.
+[01:45:59.040 --> 01:46:01.840]  We're going to say that the software said, this guy's about to commit a crime.
+[01:46:01.920 --> 01:46:03.760]  He kills seven people, put him in jail for 20 years.
+[01:46:04.000 --> 01:46:04.320]  What?
+[01:46:05.280 --> 01:46:07.680]  That's the fear of where people are going with this.
+[01:46:07.840 --> 01:46:08.160]  Make sense?
+[01:46:08.240 --> 01:46:10.560]  You kind of lose your liberties and your freedom.
+[01:46:11.600 --> 01:46:12.320]  That's illiterate.
+[01:46:12.560 --> 01:46:14.800]  But they've been trying to do this for a while.
+[01:46:14.960 --> 01:46:16.160]  Reagan's a good guy.
+[01:46:16.480 --> 01:46:21.200]  They've been trying to do this for a while, but you have to think about a bad guy could one day take over.
+[01:46:21.440 --> 01:46:22.400]  Let's see what happens next.
+[01:46:22.480 --> 01:46:24.080]  So then, 2003, you ready for this?
+[01:46:24.320 --> 01:46:25.280]  TIA shuts down.
+[01:46:25.440 --> 01:46:27.440]  And this is a whole DARPA deal that we're talking about.
+[01:46:27.680 --> 01:46:28.880]  You know what starts a month later?
+[01:46:29.040 --> 01:46:29.600]  Give or take?
+[01:46:29.760 --> 01:46:30.720]  Company called Palantir.
+[01:46:30.880 --> 01:46:37.200]  And when Palantir got started, Peter Thiel, Alex Karp, all these guys, when that got started, it's like, well, what were they going to be doing?
+[01:46:37.520 --> 01:46:42.480]  Originally, it was aimed to apply PayPal's fraud detection to counterterrorism post-9-11.
+[01:46:42.800 --> 01:46:44.400]  Remember, these guys are PayPal people, right?
+[01:46:44.480 --> 01:46:45.040]  They're coming in.
+[01:46:45.200 --> 01:46:49.680]  2003, Peter Thiel, co-founder Alex Karp and others, backed by who?
+[01:46:49.840 --> 01:46:50.480]  In QTEL.
+[01:46:50.640 --> 01:46:51.440]  Who's into Tel?
+[01:46:51.840 --> 01:46:55.920]  It's CIA's venture capital arm that invests in different technologies.
+[01:46:56.000 --> 01:46:57.760]  CIA's like, yeah, you guys going to do something like this?
+[01:46:58.080 --> 01:46:58.640]  Here's some money.
+[01:46:58.720 --> 01:46:59.040]  Build it.
+[01:46:59.200 --> 01:47:01.840]  We'd like to take advantage of something like this years later.
+[01:47:02.160 --> 01:47:03.520]  And somebody Thiel's behind it.
+[01:47:03.680 --> 01:47:05.520]  Again, Theo, good guy.
+[01:47:05.760 --> 01:47:10.640]  These people may be good guys, but if it eventually gets into a bad guy's hand, then what happens?
+[01:47:10.800 --> 01:47:14.880]  What if one day wizard, a person turns and says, no, no, no, I hate these people.
+[01:47:15.200 --> 01:47:15.840]  I have power.
+[01:47:16.000 --> 01:47:17.120]  Watch what I'm going to be doing.
+[01:47:17.360 --> 01:47:18.880]  Scares the crap out of everybody, right?
+[01:47:19.120 --> 01:47:21.840]  Especially with these folks that have all this money that they can do different things with.
+[01:47:21.920 --> 01:47:22.800]  So now ICE contracts.
+[01:47:22.880 --> 01:47:24.960]  Palantir supported Homeland Security Investigations.
+[01:47:25.120 --> 01:47:28.400]  A division of ICE despite claims of not aiding deportations.
+[01:47:28.560 --> 01:47:31.120]  Its tools were mission critical to targeted raids.
+[01:47:31.200 --> 01:47:35.200]  Protests erupted in 2019, 2020, including outside of Carp's house, by the way.
+[01:47:35.440 --> 01:47:41.360]  Activist group, Mijente-led opposition, likening Palantir's role to aiding in human rights violations.
+[01:47:41.600 --> 01:47:52.160]  And then by the way, again, this is the part when it comes onto predictive privacy and surveillance, it was using predictive policing for LAPD, NYPD, NOPD, adopted it, but later dropped it.
+[01:47:52.320 --> 01:47:59.360]  So predictive, again, predictive policing, that makes a lot of people uncomfortable when they see this.
+[01:47:59.680 --> 01:48:02.800]  Very strong technology, still makes people uncomfortable.
+[01:48:02.960 --> 01:48:05.040]  So the ethical dilemmas and public perception.
+[01:48:05.200 --> 01:48:09.760]  CARP claims Palantir was built to balance national security and civil liberties.
+[01:48:10.080 --> 01:48:16.960]  Critics, ACLU's Ben Witzner, views Palantir as enabling mass surveillance of citizens, ICE backlash versus military dependence.
+[01:48:17.040 --> 01:48:21.040]  CARP says abandoning ICE would break trust with military partners.
+[01:48:21.200 --> 01:48:23.840]  So again, good, bad criticism.
+[01:48:24.000 --> 01:48:26.640]  We got a lot more we can talk about, but this is what they have right now.
+[01:48:26.880 --> 01:48:29.360]  Two countries they don't do business with, China and Russia.
+[01:48:29.520 --> 01:48:30.000]  Thank God.
+[01:48:30.240 --> 01:48:32.480]  As of right now, they don't do business with two countries.
+[01:48:32.720 --> 01:48:34.480]  I'll give you a couple other countries that use them.
+[01:48:34.560 --> 01:48:40.320]  French intelligence used Palantir after 2015 Paris attacks, claimed it helped prevent further incidents.
+[01:48:40.480 --> 01:48:47.120]  And the Danish government paid up to $41 million for a predictive counterterrorism platform.
+[01:48:47.440 --> 01:48:48.960]  Denmark is public knowledge.
+[01:48:49.040 --> 01:48:50.160]  The whole country uses Palantir.
+[01:48:50.320 --> 01:48:51.120]  A couple other examples.
+[01:48:51.280 --> 01:48:55.600]  JP Morgan, one of the former employees, used Palantir to spy on coworkers in 2018.
+[01:48:55.920 --> 01:49:02.480]  And even a few years ago with WikiLeaks in 2011, apparently employees linked to a smear campaign.
+[01:49:02.640 --> 01:49:04.080]  CARP later had to apologize.
+[01:49:04.240 --> 01:49:06.880]  I believe it had to do with Glenn Greenwald, if I'm not mistaken.
+[01:49:07.120 --> 01:49:15.280]  So Theo, Carp, Musk, you got XAI, you got Palantir, you got Doge, all of that coming together.
+[01:49:15.440 --> 01:49:26.720]  Musk's leadership of Doge while running XAI and X creates a public private data pipeline where government data could enhance XAI's AI models, hence the Grok that we all know about that many, many people use.
+[01:49:26.960 --> 01:49:31.920]  Colossus is a supercomputer developed by XAI, Elamas AI company, to train large language models.
+[01:49:32.080 --> 01:49:39.200]  It currently develops the largest AI supercomputer in the world located in Memphis, Tennessee, and is powered by NVIDIA Hopper GPUs.
+[01:49:39.280 --> 01:49:44.480]  Colossal was built in a former Electrolux factory and is being used to train XAI's Grok.
+[01:49:44.720 --> 01:49:54.160]  So the XAI Palantir TWG partnership, March 2025, positions Musk companies to profit from Doge's data access, especially in financial services.
+[01:49:54.480 --> 01:50:03.680]  This partnership with XAI, Palantir, and TWG positions potentially Musk's companies to profit in a big way from Doge's data access.
+[01:50:03.840 --> 01:50:07.360]  Again, that's what a lot of people in the market are saying, that that's what could be happening here.
+[01:50:07.520 --> 01:50:11.280]  So again, Gotham, one of the products of Palantir, used by intelligence and defense agencies.
+[01:50:11.520 --> 01:50:15.920]  Foundry on the other side, that's used by corporations and civilian government agencies.
+[01:50:16.320 --> 01:50:17.440]  Just a kicker here with this.
+[01:50:17.600 --> 01:50:29.120]  Whenever you have a product like this that's being built, you always have to be thinking about, like when the founding fathers, you know, built America and they wrote the Constitution and George Washington had the opportunity to be a king third term.
+[01:50:29.200 --> 01:50:30.400]  He said, no, I don't want to do it, right?
+[01:50:30.560 --> 01:50:32.880]  And it was written in a way for this thing to last.
+[01:50:33.120 --> 01:50:36.800]  And, you know, democracies don't last a long time because internally the people destroyed.
+[01:50:36.880 --> 01:50:44.800]  They've been able to build something that if we go the way we're going, somehow, some way, we just may make it to next year, 250 year anniversary of U.S., 4th of July.
+[01:50:44.880 --> 01:50:46.160]  We're going to be 250 years old.
+[01:50:46.400 --> 01:50:47.280]  They built it that way.
+[01:50:47.440 --> 01:50:58.800]  When you get technologies like this that gets into the U.S. government and it's being ran by people who it's a free-for-all, I don't know the level of regulations and controls that who has over them.
+[01:50:58.960 --> 01:51:05.680]  We're getting to the point that back in the days, it used to be where billionaires were the most powerful people in the world in America.
+[01:51:06.000 --> 01:51:09.520]  Rockefeller, Chase, they would finance the U.S. government.
+[01:51:09.840 --> 01:51:13.040]  Then we went through a phase where presidents were the most powerful people in America.
+[01:51:13.280 --> 01:51:25.360]  We are back to the phase where billionaires, soon to be trillionaires, could potentially be ruling everything because presidents are going to be needing them because the government's now becoming customers of these big companies, not the other way around.
+[01:51:25.680 --> 01:51:26.800]  We're headed in that direction.
+[01:51:26.960 --> 01:51:29.840]  What that could look like is, I don't want to tell you what that could look like.
+[01:51:30.080 --> 01:51:40.000]  Just pray that these people are good actors and they want to do the right things and they don't want to use their power to control you and others out there.
+[01:51:40.160 --> 01:51:46.400]  But there's a reason why I have the brand, Future Looks Bright, because I'm convinced the future looks bright.
+[01:51:46.560 --> 01:51:50.720]  But there's 49% of me that also believes in only the paranoid survive.
+[01:51:50.880 --> 01:51:56.560]  This whole concept with this technology, very, very good to be able to catch the bad guy, get him out of a country.
+[01:51:56.720 --> 01:52:04.960]  Imagine if a terrorist that was supposed to do the next 9-11 and if Palantir can show that they did something like that and that saves thousands of people's lives.
+[01:52:05.120 --> 01:52:05.680]  Is that a good thing?
+[01:52:05.920 --> 01:52:06.160]  Yes.
+[01:52:06.400 --> 01:52:16.560]  What do we do 30 years from now, 60 years from now, to make sure this doesn't get in the hands of somebody who is evil that uses it to destroy a society or a great country?
+[01:52:16.800 --> 01:52:18.720]  That's the part I am more concerned about.
+[01:52:19.040 --> 01:52:20.480]  But your thoughts, what do you think about it?
+[01:52:20.560 --> 01:52:22.640]  You just got a bunch of different commentary here.
+[01:52:22.960 --> 01:52:27.200]  If you have any thoughts on this, join our circle, the PBD Entrepreneur Circle on Manette.
+[01:52:27.280 --> 01:52:29.840]  Go to the QR code riot here, download.
+[01:52:30.000 --> 01:52:31.040]  It's five bucks a month.
+[01:52:31.280 --> 01:52:32.720]  Download the information here.
+[01:52:32.800 --> 01:52:35.440]  And it's a community of all the people that follow the content here.
+[01:52:35.760 --> 01:52:38.960]  And everyone there exchanges ideas and thoughts with each other.
+[01:52:39.280 --> 01:52:41.600]  Comment your thoughts about this in a Minex Circle.
+[01:52:41.680 --> 01:52:42.560]  I cannot wait to hear from you.
+[01:52:42.880 --> 01:52:44.000]  We got Value out of this video.
+[01:52:44.080 --> 01:52:46.560]  I did a video a few months back on the China surveillance thing.
+[01:52:46.640 --> 01:52:50.320]  If you've never seen it, it shows you what they're doing that could end up happening here.
+[01:52:50.560 --> 01:52:51.520]  Click here to watch the video.
+[01:52:51.600 --> 01:52:52.160]  Take care, everybody.
+[01:52:52.240 --> 01:52:52.560]  Bye-bye.
+[01:52:52.640 --> 01:52:53.360]  Bye-bye.
+[01:52:58.160 --> 01:53:10.960]  There have been a lot of incredible smoking gun developments in the last year of the Democratic Party and the Justice Department trying to shut down InfoWars.
+[01:53:12.880 --> 01:53:23.520]  But now, in early July, 2025, we have got information that puts all the pieces together.
+[01:53:24.160 --> 01:53:33.040]  Ladies and gentlemen, most of you know that they had show trials in Connecticut and Texas with selected judges, Democrat Party operatives.
+[01:53:33.680 --> 01:53:39.840]  Soros installed in the case of Texas, where they found me guilty and that HBO produced show trials.
+[01:53:40.160 --> 01:53:46.800]  Most of you know that Bloomberg and The Onion claimed that they bought us last November and we were shut down and it was a hoax and wasn't true.
+[01:53:46.960 --> 01:53:48.000]  Remember all that?
+[01:53:48.880 --> 01:54:01.920]  And the fact that these foundations connected to the Democratic Party with the Sandy Hook families raised hundreds of millions of dollars off my name, claiming I was victimizing them and attacking them and coming after them.
+[01:54:02.000 --> 01:54:03.120]  And I never did any such thing.
+[01:54:03.440 --> 01:54:16.400]  And of course, we had an undercover video, a CIA FBI operative, Gavin Oblebis, a few years ago, caught admitting that, well, we investigated Jones for a decade at the DOJ and he didn't do anything wrong.
+[01:54:16.640 --> 01:54:21.360]  So we went to Connecticut and we set up these lawsuits against him.
+[01:54:21.520 --> 01:54:22.640]  That was two years ago.
+[01:54:22.960 --> 01:54:41.920]  And then William Aldenberg, the head counsel in Connecticut of the FBI, got up on the stand during the show trial and said that he went and instituted the lawsuits and organized it all with Koskoff and Koskoff and the families who were running the foundations that were raising the hundreds of millions of dollars off my name.
+[01:54:42.240 --> 01:54:43.440]  We've already detailed all of that.
+[01:54:43.520 --> 01:54:45.360]  We put the graphs here on screen.
+[01:54:46.000 --> 01:55:05.280]  But now researching this in the last few weeks, we have discovered that in October of 2022, the DOJ paid two grants to one of the Sandy Hook foundations with the main plaintiffs against me that totaled exactly $1.7 million.
+[01:55:06.240 --> 01:55:20.480]  And then a month later, Koskoff and Koskoff, the law Democrat Party law firm coming after me, put in their bill for $1.7 million for the past few years before that.
+[01:55:20.800 --> 01:55:21.760]  Incredible.
+[01:55:22.320 --> 01:55:23.360]  What do you call that?
+[01:55:23.440 --> 01:55:30.160]  It's a big enough scandal to have the DOJ giving grants to the very groups and individuals suing me.
+[01:55:30.480 --> 01:55:38.160]  But now we have them give them the grant, and a month later, they put in their bill that is the exact same amount.
+[01:55:38.320 --> 01:55:40.080]  They have a name for that.
+[01:55:40.400 --> 01:55:43.760]  It's called Looks Like Money Laundering.
+[01:55:44.080 --> 01:55:46.160]  Maybe it's just a coincidence.
+[01:55:47.040 --> 01:55:51.360]  Maybe you can go play golf 18 holes in a hole in one, all 18 holes.
+[01:55:51.440 --> 01:55:52.000]  I'm sure.
+[01:55:52.320 --> 01:55:53.120]  That's easy, right?
+[01:55:53.200 --> 01:55:54.720]  Even Tiger Woods does it routinely.
+[01:55:54.880 --> 01:55:56.000]  No, nobody's ever done it.
+[01:55:56.320 --> 01:56:00.160]  Nobody's ever hit two holes in ones in a row, not much less 18.
+[01:56:00.400 --> 01:56:02.960]  So we're already suing these people.
+[01:56:03.920 --> 01:56:05.120]  We got more coming.
+[01:56:05.440 --> 01:56:08.480]  The DOJ is investigating themselves.
+[01:56:09.040 --> 01:56:11.440]  And this is smoking gun.
+[01:56:11.760 --> 01:56:28.640]  But I've been asked by my lawyers, who are great people, not to reveal even more damning information we have from a bunch of sources, depositions, emails, insiders, whistleblowers.
+[01:56:28.800 --> 01:56:29.520]  Oh, yeah.
+[01:56:30.720 --> 01:56:36.000]  And more that will be presented within the next two to three weeks.
+[01:56:36.320 --> 01:56:39.760]  So they filed a bunch of new stuff against me and my family to do a smokescreen.
+[01:56:40.160 --> 01:56:41.120]  We're not worried about that.
+[01:56:41.440 --> 01:56:46.960]  The fact that we persevered when they came and turned off the internet and said the Onion and Bloomberg own this.
+[01:56:47.120 --> 01:56:48.560]  And we said, no, you don't.
+[01:56:48.880 --> 01:56:49.840]  And of course they didn't.
+[01:56:49.920 --> 01:56:51.520]  And the judge federally shot that down.
+[01:56:51.840 --> 01:57:00.720]  The fact that they tried other times to just sit in armed security in May of last year and say the building was shut without a court order.
+[01:57:00.800 --> 01:57:01.360]  I refused to leave.
+[01:57:01.520 --> 01:57:02.160]  Remember that?
+[01:57:02.480 --> 01:57:04.160]  There's been so many other things that have happened.
+[01:57:04.240 --> 01:57:26.400]  We've told it in past reports, but imagine, not only do they send money directly to the people suing me to their foundations, a month after they get it, the law firm suing me with the very same people that run the foundations bills the exact amount the DOJ paid them.
+[01:57:27.360 --> 01:57:42.240]  And it's Chris Maddie, the former DOJ prosecutor who specializes in targeting Republicans, put the Republican governor of Connecticut in jail for what appears to be politically motivated lawfare reasons, is right there at the center of this.
+[01:57:42.880 --> 01:57:51.440]  So they have weaponized the system against me because I've been standing in the way of what the globalists have wanted to do to you.
+[01:57:51.760 --> 01:57:56.960]  If you really want to support what we're doing, go to defendalxjones.com.
+[01:57:57.280 --> 01:58:08.400]  And all of that goes to my legal defense and my family's legal defense, where they're suing my parents again as a desperate attempt to terrorize me with terroristic lawfare into giving up.
+[01:58:08.640 --> 01:58:10.080]  And that's not going to happen.
+[01:58:10.400 --> 01:58:11.760]  So please support me now.
+[01:58:11.840 --> 01:58:15.600]  I want to thank those that have at defendalxjones.com.
+[01:58:15.840 --> 01:58:16.880]  I'll never back down.
+[01:58:17.040 --> 01:58:18.000]  I'll never sell out.
+[01:58:18.160 --> 01:58:20.160]  I'll never give in, but I could give out.
+[01:58:20.480 --> 01:58:23.040]  My strength is only how much strength you give us.
+[01:58:23.360 --> 01:58:29.280]  And the oxygen that fills the bloodstream of this resistance is the funding and your word of mouth and your prayer.
+[01:58:29.600 --> 01:58:31.120]  So any of those three is great.
+[01:58:31.440 --> 01:58:32.320]  The prayer is amazing.
+[01:58:32.400 --> 01:58:33.680]  The word of mouth is key.
+[01:58:34.000 --> 01:58:39.120]  But the financial support is really needed right now at defendalexjones.com.
+[01:58:39.440 --> 01:58:43.200]  History's happening and freedom is winning.
+[01:58:43.520 --> 01:58:47.840]  And not just here in America, but all the world, populists are winning elections.
+[01:58:48.160 --> 01:58:51.520]  And then the EU cancels them or arrests the winner.
+[01:58:52.240 --> 01:58:54.400]  Same thing in Brazil, but we just keep fighting.
+[01:58:54.720 --> 01:59:00.960]  And every time they arrest the political opposition of their tyranny, it only awakens more of the people.
+[01:59:01.280 --> 01:59:04.400]  So yeah, we're going to get opposition taken on tyrants.
+[01:59:04.720 --> 01:59:11.280]  But as long as we understand that it's the long game and perseverance, as our forebears did back in 1776, we will win.
+[01:59:11.600 --> 01:59:13.920]  This is a marathon, not a sprint.
+[01:59:15.520 --> 01:59:25.040]  So it's key that you share this report so people know the truth of what's happened because this methodology, this formula they use against me is designed for everybody else, as they've admitted.
+[01:59:25.360 --> 01:59:30.160]  And it's key that you financially support us as well at thealxjonstore.com.
+[01:59:30.480 --> 01:59:47.040]  But regardless of what you do, understand that the reason we're starting to win is because people have woken up and gotten off the bench and started supporting culturally and politically and economically individuals and groups that align with your values and our shared values of liberty and freedom.
+[01:59:47.280 --> 01:59:48.960]  This is an American rebirth.
+[01:59:49.120 --> 01:59:51.200]  This is 1776 worldwide.
+[01:59:51.520 --> 02:00:00.240]  And I'm really quite honored that the tyrants have come after me so viciously because it's the proof that we've been over the target.
+[02:00:00.480 --> 02:00:02.880]  You don't get flack unless you're over the target.
+[02:00:03.120 --> 02:00:07.840]  So I humbly and respectfully thank you for all of your past support.
+[02:00:08.000 --> 02:00:08.880]  You know who you are.
+[02:00:09.200 --> 02:00:13.760]  And I want to encourage those that have supported to support again because my fight is your fight.
+[02:00:13.920 --> 02:00:14.480]  That's obvious.
+[02:00:14.800 --> 02:00:27.200]  And I want to encourage those that have sat on the bench, maybe shared an article or video, but, you know, never pray for the broadcaster, never actually gone and bought a product to ask yourself, are you standing up for your own future when you do that?
+[02:00:28.080 --> 02:00:29.760]  And obviously the answer is yes.
+[02:00:30.080 --> 02:00:31.360]  Well, then why aren't you?
+[02:00:31.680 --> 02:00:33.680]  Please respectfully take action now.
+[02:00:34.000 --> 02:00:35.600]  I fired the batch signal.
+[02:00:35.920 --> 02:00:37.680]  The ball is in your court.
+[02:00:38.000 --> 02:00:39.440]  You are the Paul Revere's.
+[02:00:39.680 --> 02:00:41.760]  You are 1776 2.0.
+[02:00:42.359 --> 02:00:45.019]  and everything is now in your hands.
+[02:00:45.389 --> 02:00:53.189]  This is a major alert for the AlexJonesStore.com.
+[02:00:53.200 --> 02:00:55.840]  I'm cutting this on the afternoon of July 30th, 2025.
+[02:00:56.000 --> 02:01:01.520]  That means you've got seven days to get the biggest deals ever if you're a VIP.
+[02:01:01.600 --> 02:01:02.560]  It's $30 a month.
+[02:01:02.640 --> 02:01:06.240]  You get $40 for the store, special deals, special offers, special savings.
+[02:01:06.560 --> 02:01:10.720]  And you don't just get one bottle of the supplements like methylene blue, get one free.
+[02:01:11.040 --> 02:01:19.280]  You also can buy one of our amazing Richardson hats with Patriot logos and messages on it or either t-shirts or other apparel and get one absolutely free.
+[02:01:19.520 --> 02:01:21.120]  I mean, this is an incredible deal.
+[02:01:21.360 --> 02:01:30.640]  Now, this is a fundraiser shirt, but with this, we mark it up limited edition InfoWars fundraiser shirt, black on black, murdered out, limited edition.
+[02:01:30.720 --> 02:01:32.400]  We're only putting this shirt out for a few months.
+[02:01:32.720 --> 02:01:37.280]  Get your limited edition murdered out historic InfoWars shirt and know you fought on the tip of the spear.
+[02:01:37.360 --> 02:01:39.200]  It's an adventure to wear this shirt in public.
+[02:01:39.520 --> 02:01:40.960]  Find it all right now.

@@ -1,0 +1,1810 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, and large-v3-turbo
+[00:00:00.960 --> 00:00:07.440]  While other networks lie to you about what's happening now, InfoWars tells you the truth about what's happening next.
+[00:00:08.080 --> 00:00:12.679]  Visit Infowars.com forward slash show and support the Infowars.
+[00:00:12.679 --> 00:00:24.840]  So here it is.
+[00:00:24.840 --> 00:00:34.090]  Onion CEO Ben Collins that ran the censorship bureau at MSNBC, now funded by Bloomberg, hasn't given up on print or buying Infowars.
+[00:00:34.399 --> 00:00:44.160]  And you ought to read the whole, what is it, 22-page article because it is a exercise in disinformation and gobbledygooks.
+[00:00:44.560 --> 00:00:49.200]  It became immediately clear to us that no one else was going to bid on this.
+[00:00:49.439 --> 00:00:57.520]  The auction for these assets, like the entirety of the InfoWars thing, like including his supplements that he sells to people, were for sale.
+[00:00:57.759 --> 00:00:58.560]  Like we won.
+[00:00:58.719 --> 00:01:01.679]  The judge took it away from us because he was also scared of what was going on.
+[00:01:02.000 --> 00:01:02.960]  No, they had a fake auction.
+[00:01:03.039 --> 00:01:05.280]  It got caught and the judge said it violated bankruptcy law.
+[00:01:05.439 --> 00:01:08.320]  He didn't want to say it was criminal, but he said it, you know, he stopped short.
+[00:01:08.480 --> 00:01:09.600]  He said, it looks bad.
+[00:01:10.079 --> 00:01:10.799]  You made this bid.
+[00:01:10.960 --> 00:01:13.519]  It was an incredible moment when it was announced that you were doing this.
+[00:01:13.840 --> 00:01:16.000]  And then all of a sudden, breaks are on, right?
+[00:01:16.079 --> 00:01:19.280]  And the judge somewhere, I don't have all the details, but basically said this isn't happening.
+[00:01:19.439 --> 00:01:19.519]  Yeah.
+[00:01:19.680 --> 00:01:22.400]  He basically wiped away about like 18 months in court decisions.
+[00:01:22.560 --> 00:01:25.359]  Was like, he just, I mean, I would be spooked too.
+[00:01:25.439 --> 00:01:29.920]  You got to remember, like, you know, Dan Bongino, Cash Patel, these people were on InfoCoin.
+[00:01:30.159 --> 00:01:30.640]  Yes, right?
+[00:01:31.200 --> 00:01:32.079]  Patel never was.
+[00:01:32.400 --> 00:01:41.280]  Our ideological battle in our generation is not what we went through in the Civil War, you know, defending the country and abolishing the scourge of slavery.
+[00:01:41.359 --> 00:01:45.680]  It's not our revolution where we fought for the very ideas of limited government freedom.
+[00:01:45.920 --> 00:01:46.480]  That's not it.
+[00:01:46.560 --> 00:02:02.640]  What we're fighting now is an ideology, a pernicious, dangerous, and historically deadly ideology that says that other men and women have been imbued with some special powers to reign over your life and take your liberty and to move forward.
+[00:02:02.719 --> 00:02:08.879]  And this is somehow a benevolent way knighted by the Lord himself that these men should take control of your life.
+[00:02:09.039 --> 00:02:09.840]  This is our fight.
+[00:02:10.080 --> 00:02:10.640]  This is our time.
+[00:02:10.960 --> 00:02:20.640]  Once we allow the left-leaning media, which is what most of them are, to paint conservative or liberty-based talk as inherently violent, what do you think the next step is?
+[00:02:20.800 --> 00:02:22.560]  Alex, the next step is censorship.
+[00:02:22.879 --> 00:02:24.000]  You can't allow this to happen.
+[00:02:24.159 --> 00:02:30.479]  So I'm asking the listeners whether you support Trump, Cruz, Rubio, Ron Paul, Rand Paul, Joey Bag of Donuts.
+[00:02:30.640 --> 00:02:32.000]  I don't care who you support.
+[00:02:32.319 --> 00:02:34.560]  Do not allow them to do this.
+[00:02:34.879 --> 00:02:40.640]  Because once they do it, it's the next step towards suppression of free speech, which the left is always.
+[00:02:41.039 --> 00:02:42.479]  And as usual, you cut right to the heart.
+[00:02:42.960 --> 00:02:44.000]  They're censoring in Europe.
+[00:02:44.080 --> 00:02:45.039]  They're starting to censor here.
+[00:02:45.120 --> 00:02:47.840]  They admit they want to censor us because they can't compete with our ideas.
+[00:02:47.920 --> 00:02:48.960]  And you hit the nail on the head.
+[00:02:49.120 --> 00:02:50.879]  They are wanting to say it's radical.
+[00:02:51.039 --> 00:02:52.960]  They want to put out these law enforcement advisements.
+[00:02:53.280 --> 00:02:58.319]  I mean, they even tried to ban in the Navy the Gadsden flag that was the first flag of the U.S. Navy.
+[00:02:58.560 --> 00:02:59.360]  I mean, they mean business.
+[00:02:59.680 --> 00:03:01.520]  Like, Dan Bongino, like, you got to start there.
+[00:03:01.599 --> 00:03:04.960]  Like, these people, that was a feeder system to the administration.
+[00:03:05.039 --> 00:03:07.439]  So, like, to be afraid of that is natural.
+[00:03:07.759 --> 00:03:12.719]  Now, at the end here, they say if you could have anything you wanted, what would you do?
+[00:03:12.960 --> 00:03:13.759]  What would you control?
+[00:03:13.920 --> 00:03:15.920]  I mean, I really would like to control InfoWars.
+[00:03:17.680 --> 00:03:18.719]  No, that's a good answer.
+[00:03:19.039 --> 00:03:19.200]  Yeah.
+[00:03:19.439 --> 00:03:21.759]  So we'll see what happens, but I would like to do it.
+[00:03:22.000 --> 00:03:37.439]  The more we survive, the more we know it's the hand of God and the more historical it is and the more it makes me love this place more than ever and want to fight because they want the symbol and they want to misrepresent and they want to steal not just my identity, but the idea of the Infowar and claim it's theirs.
+[00:03:37.520 --> 00:03:42.560]  And they say that on national TV and in Wired magazine and all over the place.
+[00:03:42.879 --> 00:03:44.719]  And they got caught in a fake auction.
+[00:03:45.039 --> 00:03:51.200]  And we sued them and got the depositions and emails where they admit, we're not going to let any company that keeps Jones on the air in InfoWars have it.
+[00:03:51.520 --> 00:03:54.960]  So we're just going to not, we're going to cancel the auction and give it to these people.
+[00:03:55.520 --> 00:03:56.000]  Well, guess what?
+[00:03:56.080 --> 00:03:57.520]  The Justice Department's investigating them.
+[00:03:57.680 --> 00:04:01.520]  And here they are in there in the wired admitting they know that.
+[00:04:01.840 --> 00:04:08.560]  And then they've got the nerve in this Wired magazine article to say the judge is scared of the Justice Department.
+[00:04:08.800 --> 00:04:11.599]  And that's why he hasn't given us the company.
+[00:04:11.920 --> 00:04:13.840]  The judge has nothing to worry about.
+[00:04:14.159 --> 00:04:18.480]  And then they've got these people literally spending it.
+[00:04:18.720 --> 00:04:22.240]  Oh, Jones has Dan Bongino stopping the shutdown.
+[00:04:22.560 --> 00:04:24.959]  In June of last year, the judge shut them down.
+[00:04:25.199 --> 00:04:26.480]  They tried to close this illegally.
+[00:04:27.040 --> 00:04:28.879]  And he fired the U.S. Trustee for the Justice Department.
+[00:04:28.959 --> 00:04:31.600]  They brought another one and the CRO saying everything like that.
+[00:04:32.079 --> 00:04:35.199]  Then in November, they had the fake auction and he shut them down then.
+[00:04:35.280 --> 00:04:36.959]  That had nothing to do with Dan Bongino.
+[00:04:37.519 --> 00:04:48.000]  So just know, if they somehow get us shut down the next few months, which they're trying to do constantly, there's another hearing on the 16th in front of Gware Gamble that ran the show trials.
+[00:04:48.319 --> 00:04:53.759]  It'll work out, folks, because if people don't get indicted for what they've done, that's cut and dry.
+[00:04:53.920 --> 00:04:57.520]  I mean, cut and dry in the depositions, in the emails.
+[00:04:57.840 --> 00:05:00.480]  We're not going to let anybody at the auction get info wars.
+[00:05:00.640 --> 00:05:04.400]  We're going to go beforehand decide it goes to this group for almost no money.
+[00:05:05.980 --> 00:05:06.960]  That's bankruptcy fraud.
+[00:05:07.369 --> 00:05:23.028]  Well, Irina...
+[00:05:23.040 --> 00:05:33.280]  Zaruska is a very, or was a very beautiful young 23-year-old Ukrainian woman that was a real war refugee here to the United States who came here two years ago.
+[00:05:33.920 --> 00:05:43.680]  And last week, she got stabbed in the neck by a man who'd been arrested over 14 times for violent crimes, armed robbery, you name it.
+[00:05:44.319 --> 00:05:50.960]  And of course, they didn't release the full video of him killing her just the moments before and after, stabbing her perfectly in the carotid artery.
+[00:05:52.560 --> 00:05:59.759]  About a minute after she got on the train, just sat down politely in front of him, and he killed her while she was playing on her phone.
+[00:06:00.720 --> 00:06:05.680]  Now, the mayor has come out and said, how dare people even show the video and be racist?
+[00:06:06.240 --> 00:06:07.520]  And we see this continually.
+[00:06:07.680 --> 00:06:09.280]  We see this all the time.
+[00:06:09.920 --> 00:06:12.639]  That when white people get murdered, it gets covered up.
+[00:06:12.960 --> 00:06:25.120]  And then the occasional, somewhat rare case where a white person kills a black person, it becomes just massively covered everywhere that white people, there's an epidemic of us just slaughtering everyone.
+[00:06:26.080 --> 00:06:28.960]  Despite the fact that the statistics show the complete opposite.
+[00:06:29.280 --> 00:06:36.960]  In fact, in some cities, black males commit 45 times the crime rate of white males.
+[00:06:37.120 --> 00:06:40.480]  On average, it's about 15 to 1, though, white on black crime.
+[00:06:40.560 --> 00:06:43.280]  And I've got government crime statistics here in front of front of me.
+[00:06:43.360 --> 00:06:45.680]  And I'm not even demonizing black people in general.
+[00:06:46.560 --> 00:06:53.840]  There's just a very small minority of black males that commit upwards of 50% of the murders in this country.
+[00:06:54.480 --> 00:07:01.840]  Now, statistically, the trans crowd, most of them aren't killers, but statistically, they are now the main group.
+[00:07:02.000 --> 00:07:05.680]  If you look at it by group, that has the highest rate of school shootings.
+[00:07:05.920 --> 00:07:08.879]  At least the last seven in a row were trans.
+[00:07:09.280 --> 00:07:15.440]  So I'm not here to attack groups because I just want to be mean to them.
+[00:07:15.759 --> 00:07:18.320]  That said, though, the globalists don't want these things covered.
+[00:07:18.399 --> 00:07:22.160]  They don't want to cover the majority of crime in Europe and the UK is Muslim.
+[00:07:22.480 --> 00:07:23.440]  It's a fact.
+[00:07:24.399 --> 00:07:32.960]  They arrest you over there if you talk about it because this is being fostered and pushed for a larger reason to collapse society.
+[00:07:33.040 --> 00:07:35.360]  So we're going to be looking at that tonight.
+[00:07:36.560 --> 00:07:41.360]  Also, Trump has come out and said, no, I'm not going to war with Chicago.
+[00:07:41.519 --> 00:07:43.440]  That's ridiculous to a reporter.
+[00:07:43.759 --> 00:07:46.480]  And the media is like, well, look at your true social post.
+[00:07:47.680 --> 00:07:49.200]  Everything that's on there is you.
+[00:07:49.440 --> 00:07:51.519]  And that's not the case.
+[00:07:51.840 --> 00:08:06.240]  And I keep explaining to listeners when they see different things like Trump is a golden god in a rebuilt Gaza AI video, or they do a post with Trump with a Q in his hand, that that is staffers posting almost all of that feed.
+[00:08:06.560 --> 00:08:08.160]  It is not Trump.
+[00:08:08.800 --> 00:08:11.440]  And he's on record saying most of that's not him.
+[00:08:12.080 --> 00:08:16.320]  When you see something say, please give your attention to this.
+[00:08:16.639 --> 00:08:17.680]  Thank you for your attention.
+[00:08:18.000 --> 00:08:19.200]  And it's written.
+[00:08:19.519 --> 00:08:21.040]  He dictates those.
+[00:08:21.360 --> 00:08:24.960]  And basically 99% of it, almost all of those are him.
+[00:08:26.160 --> 00:08:34.720]  So if it's written by him and it says, thank you for your attention, DJT, you know, that's what all of us do when we write a note.
+[00:08:34.799 --> 00:08:36.320]  We sign our name.
+[00:08:36.639 --> 00:08:40.639]  When you see these memes, it's not Trump.
+[00:08:41.600 --> 00:08:43.680]  And I have blisters all the time.
+[00:08:43.920 --> 00:08:46.879]  Look, he's a golden god, the Antichrist in Gaza.
+[00:08:46.960 --> 00:08:48.400]  No, it's an AI video.
+[00:08:48.720 --> 00:08:50.400]  And you can look, a fan made it.
+[00:08:50.720 --> 00:08:52.400]  The Q thing, a fan made it.
+[00:08:52.480 --> 00:08:54.960]  It has their handle on it.
+[00:08:55.840 --> 00:09:00.720]  I know because a lot of our stuff has been re-put out by the president over the years and recently.
+[00:09:01.039 --> 00:09:06.320]  So, and I can look at the videos and most of them have a tag and I know the meme factories that put them out.
+[00:09:06.799 --> 00:09:18.000]  And my issue here is there are a lot of people that think Trump is in control of everything, both those that are black pilled and are always pissed off at him and nothing's good enough.
+[00:09:18.319 --> 00:09:30.559]  And then the Q people or types like them, who I just love to death, who a lot of them are really nice people, who just think Trump has a 85 trillion IQ, 478 billion D chess.
+[00:09:31.120 --> 00:09:37.360]  There's Trump, there's God, there's Q. I mean, it's Trump's farts create whole new planetary systems and galaxies.
+[00:09:37.600 --> 00:09:38.799]  And it's just not the way it is.
+[00:09:38.879 --> 00:09:40.320]  I'll explain it coming up.
+[00:09:44.720 --> 00:09:54.399]  Thank you for joining us on this live teleprompter free radio slash TV internet simul Supercast.
+[00:09:54.959 --> 00:09:58.079]  It is Sunday, September 7th, 2025.
+[00:09:58.399 --> 00:10:06.959]  We are in the 230th day of the return of President Trump in what would have been his second administration, but they stole it.
+[00:10:07.120 --> 00:10:14.159]  So it skipped over really now into his second administration, where he's really been the president for almost nine years.
+[00:10:14.480 --> 00:10:18.639]  All right, particularly full plate tonight, and I'm going to do my best to cover it all.
+[00:10:18.720 --> 00:10:21.120]  It's all extremely important.
+[00:10:22.720 --> 00:10:26.000]  We have Trump getting ready to deploy troops to Chicago.
+[00:10:26.319 --> 00:10:29.839]  We have the Democrats claiming he's a dictator going to war with them.
+[00:10:30.159 --> 00:10:31.839]  We have a lot of spin coming out of that.
+[00:10:31.919 --> 00:10:33.039]  We'll be looking at that.
+[00:10:33.360 --> 00:10:35.199]  I don't give a SH, you know what?
+[00:10:35.279 --> 00:10:38.159]  T Vance Defends Cartel Boat Strike.
+[00:10:38.240 --> 00:10:44.000]  We'll get into all the developments and troop deployments and enable deployments there.
+[00:10:45.279 --> 00:10:56.720]  Also, really big is they said when Kennedy got confirmed, they were going into all the secret CDC and HHS and NIH studies.
+[00:10:57.279 --> 00:11:09.279]  And we're going to release the internal reports of why autism has gone from one in 50,000 in the 1960s to 1 in 33 now.
+[00:11:11.199 --> 00:11:13.519]  And you don't even need to know the studies.
+[00:11:13.600 --> 00:11:15.120]  You can look at the children out in public.
+[00:11:15.439 --> 00:11:17.759]  As Kennedy has said, they look bad.
+[00:11:18.079 --> 00:11:19.759]  And there's a lot of issues.
+[00:11:20.079 --> 00:11:28.960]  And I've always said, because I've been talking to all the scientists for 30-something years and reading all the different studies, it's going to be a cocktail of things.
+[00:11:29.600 --> 00:11:33.759]  Not just one thing, but the shots and the mercury and all that's a big part of it.
+[00:11:34.079 --> 00:11:36.399]  The autoimmune responses it causes in the guts.
+[00:11:37.679 --> 00:11:39.759]  But it's going to be other things as well.
+[00:11:40.399 --> 00:11:49.279]  And so when Kennedy releases this, I know the studies they're looking at and even the suppressed ones, what those are based on.
+[00:11:49.600 --> 00:11:53.279]  I'm going to get into what the report is going to say.
+[00:11:53.759 --> 00:11:56.960]  They've been saying it should come out in mid to late September.
+[00:11:57.279 --> 00:11:59.199]  Trump says it's coming out very, very soon.
+[00:11:59.360 --> 00:12:02.000]  Kennedy said this week in the Senate hearings is coming out soon.
+[00:12:02.319 --> 00:12:08.879]  It looks like sometime next week, because that's basically the middle of September, what they originally said.
+[00:12:09.759 --> 00:12:10.559]  And let's go ahead.
+[00:12:10.639 --> 00:12:12.319]  There's a lot more we're going to be getting to.
+[00:12:12.639 --> 00:12:18.079]  I just mentioned some of what's coming up, but let's go ahead and jump into that now.
+[00:12:19.599 --> 00:12:23.839]  Trump just said today, we're coming up with the answers for autism.
+[00:12:24.159 --> 00:12:24.879]  You watch.
+[00:12:25.200 --> 00:12:30.079]  We're coming up with the answers that normal people wouldn't be able to do.
+[00:12:30.319 --> 00:12:33.439]  He means because they've got all the government agency information.
+[00:12:33.679 --> 00:12:39.759]  Well, we've known for a long time, and now it's just going to be official.
+[00:12:40.079 --> 00:12:46.799]  And as Pocahontas said in the Senate hearing, Kennedy, you basically already banned most of the vaccines, which he's done.
+[00:12:48.079 --> 00:12:51.039]  They just haven't made it officially that.
+[00:12:51.759 --> 00:12:57.519]  And then you've got Florida banning all vaccine mandates, not just the COVID shots.
+[00:12:58.480 --> 00:13:02.799]  We are making massive, massive strides.
+[00:13:03.120 --> 00:13:12.319]  Yeah, and I said one in 33, depending on what agency you look at or what group, it's one in 33, one in 25, one in 31.
+[00:13:12.639 --> 00:13:15.679]  In Korea, it's one in 13, South Korea.
+[00:13:16.079 --> 00:13:17.360]  It's the only country worse than us.
+[00:13:17.439 --> 00:13:21.439]  And they, by the way, are the only country that takes more shots than we do.
+[00:13:21.519 --> 00:13:25.360]  So we've really got the receipts here on what's going on.
+[00:13:25.679 --> 00:13:29.120]  And there's also a new controversy forming.
+[00:13:29.439 --> 00:13:31.039]  And I don't blame people for doing this.
+[00:13:31.200 --> 00:13:42.799]  And we'll wait and see the report, but you notice if you've been watching me for decades, and so the scientists I've had on and the pediatricians and everybody else, I've said it's a cocktail.
+[00:13:43.360 --> 00:13:50.399]  And they go, well, then why is 86% or so of people on the autism spectrum all over the world boys?
+[00:13:50.960 --> 00:13:53.120]  Well, we knew from scientists decades ago.
+[00:13:53.439 --> 00:13:58.159]  Boys have less than half the blood-brain barrier of girls.
+[00:13:58.480 --> 00:14:15.679]  Any doctor that's a pediatrician will tell you that girl babies are way tougher than boy babies, not in how strong they are physically or how much weight they can lift or whatever, but in the vitalness and the strength of the baby.
+[00:14:15.919 --> 00:14:19.519]  And it's the same in all mammal species.
+[00:14:21.679 --> 00:14:29.839]  So it's because females pound for pound can take more poison than a male.
+[00:14:30.799 --> 00:14:35.519]  And so males cannot handle as much as females.
+[00:14:36.079 --> 00:14:40.799]  You've noticed women live on average about three, four, five years, depending on the culture, longer than men.
+[00:14:41.279 --> 00:14:42.720]  There's a lot of things that go into that.
+[00:14:43.039 --> 00:14:47.039]  But nature, God through nature, designed females to be hardier.
+[00:14:47.120 --> 00:14:56.639]  Any trauma surgeon will tell you that a woman, women can survive more blood loss, more gunshot wounds, more knife wounds than a male.
+[00:14:57.840 --> 00:15:02.240]  So people say, well, okay, but then why is it just one thing?
+[00:15:02.399 --> 00:15:06.080]  It's a cocktail, and it means all the things are bad.
+[00:15:06.399 --> 00:15:16.320]  So the new controversy is Trump, and it's beginning to leak out, has been told it's, you've heard him like, I hear it's something we're spraying on the food.
+[00:15:16.639 --> 00:15:18.080]  I hear it's Tylenol.
+[00:15:18.320 --> 00:15:19.519]  I hear it's too many shots.
+[00:15:19.840 --> 00:15:25.600]  That's him being getting briefings and then kind of simplifying it in his brain and the simplified statements he puts out.
+[00:15:25.919 --> 00:15:28.720]  So now everybody's going, whoa, whoa, whoa, whoa, whoa.
+[00:15:30.639 --> 00:15:38.879]  We don't want to hear that it's Tylenol while we know it's the shots.
+[00:15:39.840 --> 00:15:42.799]  But again, that's not a cover-up for the shots.
+[00:15:43.120 --> 00:15:48.320]  It is well known since they approved it, Tylenol back in the early 80s, or maybe when was Tylenol approved?
+[00:15:48.480 --> 00:15:49.120]  79, 80?
+[00:15:49.840 --> 00:15:51.440]  That it should have never been approved.
+[00:15:51.600 --> 00:15:54.159]  It eats your liver, attacks your whole body.
+[00:15:54.480 --> 00:15:57.440]  I mean, just does all sorts of syndromes and problems.
+[00:15:57.680 --> 00:15:59.840]  And it works really great to knock out a fever.
+[00:16:00.159 --> 00:16:02.240]  And it works really great for pain.
+[00:16:02.799 --> 00:16:14.080]  But Tylenol, I predict, I've had a lot of big top drug companies I've talked to and others, chemists, they've been predicting for a while that Tylenol will basically be pulled off the market soon.
+[00:16:14.720 --> 00:16:16.799]  So it's very bad as well.
+[00:16:17.120 --> 00:16:29.279]  And what it's showing is in the studies is that women that take Tylenol during pregnancy, that it weakens a whole bunch of systems in the fetuses.
+[00:16:30.159 --> 00:16:40.080]  And so if the male fetuses already have weaker blood-brain barriers and the Tylenol weakens that development further, then it contributes once you get the pesticides that are in the food and things.
+[00:16:40.399 --> 00:16:43.440]  Once you get the shots, it just pushes you over the edge.
+[00:16:43.600 --> 00:16:55.120]  And there's a name for that binary weapon where it's two things together, or you can have weapons where it's three or four things, or you can, you know, the term side effects.
+[00:16:55.440 --> 00:17:00.000]  So it's this, it's this cocktail of things.
+[00:17:00.960 --> 00:17:08.960]  So here is President Trump talking about, we're about to get the answers on autism.
+[00:17:10.000 --> 00:17:12.799]  All the establishment attacks on RFA Jr.
+[00:17:13.440 --> 00:17:14.880]  Well, he's a different kind of a guy.
+[00:17:15.039 --> 00:17:18.559]  He's got a lot of good ideas, but he's got a lot of ideas.
+[00:17:18.720 --> 00:17:27.039]  You know, normally they don't have any ideas, and that's why we have problems with autism and so many other things because we're coming up with the answers for autism.
+[00:17:27.119 --> 00:17:27.519]  You watch.
+[00:17:27.599 --> 00:17:34.640]  We're coming up with the answers for other things that normal people, regular people, easy to get along with people, wouldn't be able to do.
+[00:17:34.960 --> 00:17:37.759]  He's got a lot of ideas, and so do I. And we're going to tell you why.
+[00:17:40.079 --> 00:17:52.480]  Now, if you want to talk about problems in administration, he's got Lutnick, who is extremely pro-vaccine.
+[00:17:52.799 --> 00:17:57.680]  And also, the government has been investing in these poison shots for 60 years.
+[00:17:57.839 --> 00:18:05.759]  And a lot of the government officials and people like Fauci have made just boatloads, hundreds of millions of dollars individually off of it.
+[00:18:07.360 --> 00:18:13.680]  And so now we've got Commerce Secretary Luttnick salivating over making money from vaccine shareholders.
+[00:18:14.000 --> 00:18:16.000]  Sclip 23, here it is.
+[00:18:16.799 --> 00:18:21.279]  United States government, the most powerful, the greatest customer, buys stuff.
+[00:18:21.839 --> 00:18:22.640]  We walk in.
+[00:18:22.880 --> 00:18:25.039]  We're going to buy, this is the example I like to use.
+[00:18:25.279 --> 00:18:29.519]  We're going to buy 2 billion COVID vaccines.
+[00:18:30.559 --> 00:18:34.640]  When we buy it, Pfizer and Moderna stocks are going to triple.
+[00:18:35.279 --> 00:18:36.160]  They're going to triple.
+[00:18:36.400 --> 00:18:40.000]  So then we say everyone's going to have this vaccine.
+[00:18:40.960 --> 00:18:46.960]  If I were after Jared Kushner negotiated the best deal he could, Howard Luttnick walked in the room.
+[00:18:47.119 --> 00:18:49.119]  Howard Luttnick would say, what do you think?
+[00:18:49.279 --> 00:18:50.720]  20% warrants?
+[00:18:51.519 --> 00:18:52.559]  20% warrants?
+[00:18:52.720 --> 00:18:52.960]  Right.
+[00:18:53.200 --> 00:18:53.440]  Right?
+[00:18:53.759 --> 00:18:54.000]  What?
+[00:18:54.319 --> 00:18:57.119]  So we'd make $50 billion off of who?
+[00:18:57.360 --> 00:18:58.000]  Nobody.
+[00:18:58.319 --> 00:18:59.440]  We didn't take from anybody.
+[00:18:59.519 --> 00:19:00.000]  We didn't do it.
+[00:19:00.240 --> 00:19:00.400]  Okay.
+[00:19:00.640 --> 00:19:04.559]  The shareholders of Pfizer, who we've just tripled them with our order.
+[00:19:05.200 --> 00:19:07.119]  Now, how many of my customers?
+[00:19:08.319 --> 00:19:11.840]  Yeah, really, really scary, really, really scary stuff.
+[00:19:12.480 --> 00:19:24.319]  So this is what the poster on X said, and it's a really important clip, but it says, since RFK Jr. is about to blame Tylenol for autism, let me remind you what really causes autism.
+[00:19:24.400 --> 00:19:26.720]  And again, I'm not attacking the person that put this out.
+[00:19:27.039 --> 00:19:33.840]  I get from their understanding of this and their views saying Tylenol is also a big contributor.
+[00:19:35.680 --> 00:19:36.639]  But it's like chemistry.
+[00:19:36.720 --> 00:19:38.400]  You know, you don't mix these two things or whatever.
+[00:19:38.639 --> 00:19:40.639]  It's not like it makes the shots okay.
+[00:19:41.279 --> 00:19:44.880]  It just accelerates it and makes it worse along with, again, with the pesticides.
+[00:19:45.119 --> 00:19:48.479]  It's this total load of toxins.
+[00:19:48.559 --> 00:19:51.599]  It's like drinking a bottle of Jack Daniels a day and smoking three packs of cigarettes.
+[00:19:51.839 --> 00:19:54.559]  And finally, you're 75 and dying of lung cancer and liver cancer.
+[00:19:54.639 --> 00:19:57.279]  And the doctor says, well, we don't know if it's the cigarettes or the alcohol.
+[00:19:57.359 --> 00:19:58.159]  They both contributed.
+[00:19:58.319 --> 00:19:59.599]  But you know, both of them are bad.
+[00:19:59.679 --> 00:20:01.359]  You know, both of them together are bad.
+[00:20:01.679 --> 00:20:05.199]  Certainly the tobacco and then the alcohol in excess.
+[00:20:05.759 --> 00:20:08.959]  So I don't just believe the special ed teacher.
+[00:20:09.039 --> 00:20:11.519]  I've interviewed many of the scientists, the doctors.
+[00:20:11.599 --> 00:20:12.319]  I've seen the studies.
+[00:20:12.399 --> 00:20:13.039]  You've seen them.
+[00:20:13.679 --> 00:20:16.479]  The Amish don't have autism.
+[00:20:17.359 --> 00:20:25.279]  And I've been reading many scientists that have done case studies on Pennsylvania, Illinois, Amish, and others, long-term studies comparing them.
+[00:20:25.359 --> 00:20:26.239]  They also live on average.
+[00:20:26.319 --> 00:20:29.759]  The men do 84, the women to 87.
+[00:20:30.719 --> 00:20:33.839]  You know, the average man lives to 73, average woman 76.
+[00:20:33.919 --> 00:20:38.639]  Now, we used to live longer, but you have a, that's called a control group with the Amish.
+[00:20:40.000 --> 00:20:42.000]  The control group that's not been given all this stuff.
+[00:20:42.239 --> 00:20:46.319]  But I have talked to so many parents on the street.
+[00:20:46.959 --> 00:20:48.079]  As you know, they've done studies.
+[00:20:48.239 --> 00:21:01.279]  They know in 2000, there was an internal report at the FDA, and then it leaked two years later to ABC News, back when they still did their job, that the FDA and CDC knew that almost all the autism was caused by the MMR shot.
+[00:21:01.439 --> 00:21:04.000]  I mean, that's the one that does it right away in almost every case.
+[00:21:04.239 --> 00:21:17.039]  Your child starts having convulsions or high fevers or both, sleeps for a couple of days, and then you'll have, you know, on the third round of shots, a lot of times when it happens or even the first or second, but you notice it later because the kids are toddlers running around talking.
+[00:21:17.119 --> 00:21:17.839]  It's 18 months old.
+[00:21:17.919 --> 00:21:18.559]  It's a boy.
+[00:21:18.879 --> 00:21:19.919]  You give it the three shots.
+[00:21:20.000 --> 00:21:23.039]  It has convulsions sometimes right there in the hospital.
+[00:21:23.119 --> 00:21:25.199]  So then they have to admit it was the shots.
+[00:21:25.839 --> 00:21:28.559]  But it really gets put in the various reporting system.
+[00:21:29.759 --> 00:21:43.599]  And I've talked to so many parents that, yeah, you know, we gave Bobby or we gave David or we gave our son went into the shots and you can't tell when they're newborns.
+[00:21:43.759 --> 00:21:45.839]  They're just basically brain damage ever on after that.
+[00:21:46.159 --> 00:21:53.119]  But then you get the second round at 10 months and they're walking, they're babbling, they're happy, they have convulsions, they never talk again.
+[00:21:53.599 --> 00:21:58.799]  But it's really obvious when it's the third round, because again, it doesn't always hit people the same.
+[00:21:59.119 --> 00:22:01.039]  People are different, different genetics.
+[00:22:01.679 --> 00:22:16.000]  And she says in all her years now in teaching special ed that basically everyone in there, the parents say it happened from the MR shot.
+[00:22:16.879 --> 00:22:21.119]  But there's studies as well that it's linked directly to the hepatitis.
+[00:22:22.079 --> 00:22:27.119]  So these are the really nasty ones that, and again, some say, well, space them out.
+[00:22:27.439 --> 00:22:28.879]  None of them ever protect you.
+[00:22:29.119 --> 00:22:30.399]  The companies are all corrupt.
+[00:22:30.559 --> 00:22:35.039]  Joe Rogan had a powerful rant about this with a mutual friend he had on who was debating him.
+[00:22:35.199 --> 00:22:36.719]  He was saying, well, some are good.
+[00:22:37.039 --> 00:22:39.919]  No, they're not because you can't trust Big Pharma.
+[00:22:40.000 --> 00:22:41.599]  They Trojan horse everything with it.
+[00:22:41.839 --> 00:22:46.480]  And even though the vaccines were perfectly done, they still have very serious side effects.
+[00:22:46.799 --> 00:22:50.719]  The majority of polio cases worldwide, just look it up, type in.
+[00:22:51.039 --> 00:22:55.599]  The majority of polio cases worldwide are caused by the polio vaccine.
+[00:22:55.919 --> 00:23:00.079]  And when you read deeper into Reuters and AP, even a minute, who funds it, runs it?
+[00:23:00.159 --> 00:23:01.119]  Bill Gates.
+[00:23:03.039 --> 00:23:06.239]  So let's go ahead and play this school teacher.
+[00:23:06.879 --> 00:23:08.399]  Okay, give me your name.
+[00:23:08.719 --> 00:23:10.559]  My name is Silvana Casale.
+[00:23:10.639 --> 00:23:12.639]  I'm a school neuropsychologist.
+[00:23:12.959 --> 00:23:15.919]  And how long have you been working with autistic kids for?
+[00:23:16.239 --> 00:23:17.359]  Over 25 years.
+[00:23:18.319 --> 00:23:20.719]  And about how many autistic kids have you worked with?
+[00:23:21.039 --> 00:23:23.519]  Over 70, over 80.
+[00:23:24.000 --> 00:23:24.239]  Yes.
+[00:23:24.559 --> 00:23:33.039]  Okay, and during that time, have you ever noticed any connection between the receipt of a vaccine and autistic behavior beginning?
+[00:23:33.679 --> 00:23:34.879]  Yes, definitely.
+[00:23:35.199 --> 00:23:40.879]  And usually the MMR and the parents see an immediate change in the child.
+[00:23:41.199 --> 00:23:43.039]  So right after the MMR shot.
+[00:23:43.519 --> 00:23:43.839]  Absolutely.
+[00:23:44.239 --> 00:23:45.519]  Do they see it after any other shot?
+[00:23:45.599 --> 00:23:46.879]  Do they see it after a flu shot?
+[00:23:48.000 --> 00:23:52.480]  I haven't heard of that, but it's possible that that's the tipping point for some children.
+[00:23:52.799 --> 00:23:55.119]  And so the, but the reaction is immediate.
+[00:23:55.199 --> 00:23:56.799]  It's not like six months later.
+[00:23:57.039 --> 00:23:59.519]  It is night and day right after the shot.
+[00:23:59.759 --> 00:24:00.079]  Immediately.
+[00:24:01.199 --> 00:24:05.279]  Yeah, some parents have video of the child speaking before and then they lose their language.
+[00:24:05.519 --> 00:24:09.119]  Now, does that happen in 100% of the cases, 50% of the cases?
+[00:24:10.319 --> 00:24:11.279]  No, it does not happen.
+[00:24:11.599 --> 00:24:11.919]  A lot of times.
+[00:24:12.159 --> 00:24:14.879]  No, if it happens, does it always happen immediately?
+[00:24:15.199 --> 00:24:17.279]  If it happens, is the transition happening?
+[00:24:17.679 --> 00:24:19.119]  My opinion is yes.
+[00:24:19.439 --> 00:24:28.079]  Some parents may say it was gradual over a month or two months, but that may be because they weren't too paying attention as much as possible.
+[00:24:28.399 --> 00:24:31.679]  But the other problem is that the shots are given in conjunction with each other.
+[00:24:31.919 --> 00:24:36.480]  You go to your well visit and the pediatricians will give a child five or six at once.
+[00:24:36.799 --> 00:24:39.679]  And the toxicity of that is quite annoying.
+[00:24:40.639 --> 00:24:46.799]  But the point is that when they succumb to autistic behavior, that change happens almost immediately.
+[00:24:47.359 --> 00:24:48.959]  What's the fastest that's ever happened?
+[00:24:49.919 --> 00:24:53.119]  I think for some families, it's happened overnight the next day.
+[00:24:53.839 --> 00:24:55.279]  The child has a fever many times.
+[00:24:55.439 --> 00:24:58.799]  They're screaming in pain and they become nonverbal.
+[00:24:58.959 --> 00:25:00.319]  They don't respond to their parents.
+[00:25:00.479 --> 00:25:02.399]  They no longer maintain eye contact.
+[00:25:02.879 --> 00:25:15.999]  And so, what percentage of these 80 kids over the 30 years they've been doing this, what percentage of those 80 kids would be connected to a vaccine-caused autopsy or autism?
+[00:25:16.159 --> 00:25:21.039]  Sorry, I think it's probably all of them.
+[00:25:21.279 --> 00:25:22.159]  I would say 100%.
+[00:25:22.879 --> 00:25:23.439]  Okay, thank you.
+[00:25:23.679 --> 00:25:24.479]  Yes, thank you.
+[00:25:25.119 --> 00:25:27.439]  And that's what they'll all tell you, and the parents will all tell you.
+[00:25:27.599 --> 00:25:30.079]  And I've seen the documentaries, I've seen the videos.
+[00:25:30.399 --> 00:25:33.839]  I've had hundreds of parents come up to me all over the place.
+[00:25:33.999 --> 00:25:37.519]  I'll be sitting in a hot tub on vacation, and a woman will be there with her husband.
+[00:25:37.599 --> 00:25:41.919]  They got three kids running around, and three or four of them are all real healthy.
+[00:25:41.999 --> 00:25:48.719]  And they'll have like their five-year-old sitting there hitting their head against a coconut tree, literally going, they'll go, yeah, that's Jimmy.
+[00:25:49.359 --> 00:25:50.159]  He was 18 months.
+[00:25:50.319 --> 00:25:51.519]  Boy, he was sure smart and great.
+[00:25:51.599 --> 00:25:52.559]  And boy, he was wonderful.
+[00:25:52.639 --> 00:25:56.399]  And then he got the third rounds, and he had convulsions that night.
+[00:25:56.559 --> 00:25:58.079]  And this is what he's been like ever since.
+[00:25:58.239 --> 00:25:59.999]  I mean, it's direct.
+[00:26:00.319 --> 00:26:08.719]  You don't need to be a scientist or a pathologist to know that if I walk up to you and hit you in the head with a baseball bat and break your nose, that it was the baseball bat did it.
+[00:26:09.039 --> 00:26:11.439]  I mean, you give them the shots, they have convulsions.
+[00:26:11.759 --> 00:26:14.959]  And another thing is the sudden infant death syndrome.
+[00:26:15.919 --> 00:26:23.919]  For 30 years, they've been locking parents up saying, We don't know why your baby, a couple days after it comes home from the doctor, stops breathing.
+[00:26:24.079 --> 00:26:25.519]  You must have smothered it.
+[00:26:26.159 --> 00:26:29.999]  And then they've got the studies that know that's the ones that kills right away.
+[00:26:31.199 --> 00:26:32.239]  So they know what they're doing.
+[00:26:32.479 --> 00:26:36.559]  One more little factoid: it was DDT being sprayed everywhere.
+[00:26:36.719 --> 00:26:39.759]  They have the studies they knew that was causing the paralysis.
+[00:26:40.079 --> 00:26:47.439]  They would drive by everybody's houses in the 50s and 60s, and they had little government announcements on newsreels and TV.
+[00:26:47.519 --> 00:26:48.079]  You pull them up.
+[00:26:48.159 --> 00:26:52.719]  In fact, pull up, go to YouTube or X. DDT is safe commercials.
+[00:26:53.039 --> 00:26:54.399]  You can run and play in it.
+[00:26:54.479 --> 00:26:54.959]  It's fun.
+[00:26:55.279 --> 00:27:04.879]  And my mom said in Austin, they used to, the trucks would drive by to spray the mosquitoes in the summer, and they would run behind the trucks because everybody said it's safe, literally.
+[00:27:05.199 --> 00:27:10.799]  And then my grandmother got the second round of polio shots in the mid-50s.
+[00:27:11.119 --> 00:27:13.359]  It was live virus, and it paralyzed her.
+[00:27:13.679 --> 00:27:16.239]  And her doctor in Austin said, We're sorry, Benny Grace.
+[00:27:16.559 --> 00:27:27.599]  We've had a lot of people get paralyzed from the vaccine that was a live polio virus mixed with SV40 cancer virus.
+[00:27:27.919 --> 00:27:30.079]  Everything I say, you can type in and look up.
+[00:27:30.399 --> 00:27:38.000]  Type in live polio vaccine cause majority of polio, live polio vaccine, SV40 cancer virus.
+[00:27:39.519 --> 00:27:43.519]  So, and again, her doctor told her, sorry, Benny.
+[00:27:43.599 --> 00:27:48.799]  Yeah, we've had a lot of people get polio from the shot.
+[00:27:49.839 --> 00:27:56.079]  And I just showed you Reuters and AP, the majority of polio today caused by the shot.
+[00:27:56.399 --> 00:27:57.919]  These are facts.
+[00:27:58.559 --> 00:28:00.959]  But when Kennedy gets up in front of Congress, they go, you're crazy.
+[00:28:01.119 --> 00:28:01.679]  There's no proof.
+[00:28:01.919 --> 00:28:03.279]  The COVID shot's safe and effective.
+[00:28:03.759 --> 00:28:04.639]  It's totally safe.
+[00:28:04.879 --> 00:28:06.239]  You can't get COVID if you take it.
+[00:28:06.399 --> 00:28:08.239]  They admit that's a lie.
+[00:28:09.519 --> 00:28:19.599]  Now, Dr. John Campbell is the most respected doctor with a whole bunch of degrees and very popular and prestigious and advises the government and everything else over the years.
+[00:28:20.239 --> 00:28:22.479]  His videos on average get 15 million views.
+[00:28:22.559 --> 00:28:24.879]  So people in America don't really know who he is.
+[00:28:25.199 --> 00:28:26.879]  This guy's prestigious.
+[00:28:27.839 --> 00:28:30.319]  He's admitted he got lied to about the shot, bamboozled.
+[00:28:30.399 --> 00:28:31.679]  He figured it out about four years ago.
+[00:28:31.839 --> 00:28:33.279]  He's very important to watch.
+[00:28:33.599 --> 00:28:43.919]  But here's a clip of him talking about a new Italian study with a 30 to 60% increase in cancer in the vaccinated with the experimental COVID shots.
+[00:28:44.000 --> 00:28:44.719]  Here it is.
+[00:28:45.279 --> 00:28:47.839]  But there has been a study done in Italy.
+[00:28:48.159 --> 00:28:57.519]  And what this shows is increased incidence of cancers six months after COVID vaccinations.
+[00:28:57.839 --> 00:28:59.439]  And I'm going to give you that now.
+[00:28:59.759 --> 00:29:04.639]  Just let me give you the main figures here before we look at where we got it from.
+[00:29:04.959 --> 00:29:09.439]  This is the rate of first hospitalization of cancer for any site.
+[00:29:09.759 --> 00:29:15.039]  Now, what these workers did, it was a whole providence in Italy, nearly 300,000 people.
+[00:29:16.000 --> 00:29:18.799]  And they followed these people up for two and a half years.
+[00:29:19.119 --> 00:29:33.759]  And what they found was that of that whole group, the unvaccinated, 0.85% of them received a first cancer admission during that two and a half year period.
+[00:29:34.079 --> 00:29:36.639]  But for the vaccinated, it was 1.5.
+[00:29:37.679 --> 00:29:47.759]  So, a much higher percentage of vaccinated being admitted to hospital after six months during a two and a half year follow-up if they'd receive the COVID vaccine.
+[00:29:47.919 --> 00:29:51.439]  And of course, this is real data and quite concerning.
+[00:29:51.599 --> 00:30:02.240]  So, rate of first hospitalization for cancer of any site, unvaccinated group, 0.85% of them were admitted with the first cancer diagnosis.
+[00:30:02.559 --> 00:30:14.879]  Vaccinated group, a much higher 1.15% admitted, based on a population of nearly 300,000 people.
+[00:30:15.759 --> 00:30:22.000]  Hospital admissions with a cancer diagnosis, it was 3,124 people admitted.
+[00:30:24.079 --> 00:30:26.399]  Vaccinated with at least one dose.
+[00:30:27.039 --> 00:30:35.599]  People that vaccinated with at least one dose, their chances of getting colorectal cancer, the hazard ratio was 1.34.
+[00:30:35.759 --> 00:30:40.000]  In other words, 34% more likely to get it.
+[00:30:40.319 --> 00:30:42.799]  This is at a six-month follow-up.
+[00:30:43.119 --> 00:30:48.799]  Breast cancer, 54% more likely to get breast cancer in the vaccinated group.
+[00:30:49.599 --> 00:30:55.519]  Bladder cancer, 62% more likely to get it than the unvaccinated group.
+[00:30:55.839 --> 00:30:57.279]  Breast cancer.
+[00:30:59.039 --> 00:31:01.359]  So that was after at least one dose of vaccine.
+[00:31:02.000 --> 00:31:09.519]  After three doses of vaccine, three or more doses, risk of breast cancer actually went down somewhat to plus 36%.
+[00:31:10.719 --> 00:31:15.679]  And bladder cancer was a 43% higher chance of getting bladder cancer.
+[00:31:16.000 --> 00:31:18.559]  And all of these results are significant.
+[00:31:18.879 --> 00:31:34.079]  So all of these are statistically significant results showing increase in these cancers 180 days after the first vaccine or 180 days after the third vaccine, if that had more.
+[00:31:35.279 --> 00:31:52.559]  We know from insurance actuaries that have been out for three years, and it keeps being proven each year that it's on average a 40% increase in morbidity across all groups, but even higher in really young people because they normally wouldn't be dying.
+[00:31:52.879 --> 00:31:54.960]  It's over 60% increase in death.
+[00:31:55.199 --> 00:31:57.839]  You just keep seeing that number over and over again.
+[00:31:58.000 --> 00:31:59.759]  This was all premeditated.
+[00:32:00.399 --> 00:32:05.279]  The FDA put out in October before they rolled the shots out 2020 and predicted all of this.
+[00:32:05.359 --> 00:32:06.480]  We'll be right back with more.
+[00:32:06.719 --> 00:32:08.679]  Joe Rogan has something to say.
+[00:32:08.689 --> 00:32:14.719]  All right.
+[00:32:14.960 --> 00:32:17.519]  I've known Joe Rogan 26 years, been good friends.
+[00:32:17.679 --> 00:32:22.799]  And when he actually focuses on a topic, he is very scientific and very informed.
+[00:32:23.119 --> 00:32:27.119]  And he's interviewed, obviously, hundreds of scientists about vaccines for years.
+[00:32:27.439 --> 00:32:29.199]  And I helped to a great extent wake him up.
+[00:32:29.279 --> 00:32:31.119]  That's premeditated depopulation.
+[00:32:31.439 --> 00:32:37.039]  And he had a mutual friend, a comedian, on with him on a fight companion over the weekend.
+[00:32:37.359 --> 00:32:42.879]  And, you know, the guy was just spewing the same stuff that Trump put out last week.
+[00:32:42.960 --> 00:32:45.279]  Now, wait a minute, some of the shots are good.
+[00:32:45.599 --> 00:32:46.559]  We don't want to ban them all.
+[00:32:46.719 --> 00:32:54.960]  And you saw Trump say, oh, yeah, DeSantis and his surgeon general down there, they don't want to ban all the shots.
+[00:32:55.279 --> 00:32:57.119]  Well, they didn't ban them.
+[00:32:57.759 --> 00:33:04.799]  Though that's coming next, as the liability shield gets lifted off these evil companies, they said there's no mandate for any of them.
+[00:33:05.119 --> 00:33:07.439]  We need all vaccine mandates to stop.
+[00:33:07.679 --> 00:33:08.480]  It's not the law.
+[00:33:08.639 --> 00:33:09.759]  They try to intimidate people.
+[00:33:09.919 --> 00:33:10.719]  They fire people.
+[00:33:11.039 --> 00:33:11.839]  You know the drill.
+[00:33:12.079 --> 00:33:17.599]  Schools try to push you into it because they get a federal bounty, thousands of dollars a year for every child they inject.
+[00:33:17.919 --> 00:33:26.079]  If they drop below 75% in some districts, some places, the feds make them be over 90% injected.
+[00:33:26.960 --> 00:33:28.799]  They pull federal funds.
+[00:33:29.439 --> 00:33:30.799]  So that's wrong.
+[00:33:31.439 --> 00:33:48.319]  And pediatricians, this has been known for decades, but now Kennedy's exposed it publicly on a big platform that they get thousands of dollars, thousands, when they hit a certain threshold or quota.
+[00:33:48.960 --> 00:33:54.639]  If they get most of their kids injected, pediatricians, they get thousands per child.
+[00:33:57.519 --> 00:33:59.359]  It's just, it's insane.
+[00:33:59.679 --> 00:34:03.919]  If it's a lower, and they don't hit their target, it's a couple hundred bucks per child.
+[00:34:04.480 --> 00:34:09.519]  But some pediatricians are getting up to $2,000 per patient per year.
+[00:34:09.840 --> 00:34:12.239]  And the parents aren't being told that, are they?
+[00:34:14.799 --> 00:34:16.480]  It's incredible, ladies and gentlemen.
+[00:34:16.719 --> 00:34:19.440]  They don't tell women why they like cesarean sections.
+[00:34:19.679 --> 00:34:23.199]  They get more money for a cesarean.
+[00:34:23.359 --> 00:34:25.199]  It costs on average twice as much.
+[00:34:25.519 --> 00:34:28.239]  Then it lowers the woman's fertility long term.
+[00:34:28.559 --> 00:34:35.279]  But more importantly, they ask the woman, do you want to bank your placenta and pay for it?
+[00:34:35.599 --> 00:34:37.519]  And most women say no.
+[00:34:39.039 --> 00:34:43.279]  And do you know how much placenta is worth if it hasn't gone through the vaginal canal?
+[00:34:43.440 --> 00:34:44.799]  Just a side issue.
+[00:34:45.119 --> 00:34:47.920]  $105,000.
+[00:34:48.319 --> 00:34:52.159]  Covered it in mainstream news a few weeks ago, but we'd already reported this years ago.
+[00:34:52.799 --> 00:35:07.039]  Over $100,000 because it's seen as contaminated if it passes out with the child in a vaginal birth because there can be STDs in the vaginal tract, but not in the uterus generally.
+[00:35:07.920 --> 00:35:14.639]  And so for pharmaceutical grade stem cells, the best is placenta.
+[00:35:15.279 --> 00:35:16.880]  It's the feeding system for the baby.
+[00:35:18.960 --> 00:35:20.480]  You know what all the elites do, right?
+[00:35:20.799 --> 00:35:24.960]  They get placenta injected in their joints, in their blood, in everything.
+[00:35:25.279 --> 00:35:33.599]  Do you know how much a small injection of live placenta that's been frozen costs on average in clinics here in Austin, Texas?
+[00:35:33.920 --> 00:35:35.279]  Are you ready for it?
+[00:35:35.920 --> 00:35:37.519]  Are you ready for it?
+[00:35:38.480 --> 00:35:40.799]  $10,000.
+[00:35:42.639 --> 00:35:43.519]  Look it up.
+[00:35:43.839 --> 00:35:45.119]  It's the best.
+[00:35:45.759 --> 00:35:48.559]  And it's only got exploratory authorization by the FDA here now.
+[00:35:48.799 --> 00:35:49.839]  It's only been available two years.
+[00:35:49.920 --> 00:35:52.799]  It's been available in Mexico for 20, and it's been available in Europe.
+[00:35:52.960 --> 00:35:58.319]  So these women are told, oh, they induce labor.
+[00:35:58.639 --> 00:35:59.599]  And I've had four children.
+[00:35:59.679 --> 00:36:00.719]  I know I've been there.
+[00:36:01.039 --> 00:36:02.319]  They did it with my first wife.
+[00:36:02.880 --> 00:36:06.400]  I wasn't up on this as much then, 20-something years ago with Rex.
+[00:36:06.639 --> 00:36:10.480]  They induce labor early with a hormone.
+[00:36:11.679 --> 00:36:17.039]  The water doesn't break, or it has, but the birth doesn't come.
+[00:36:17.199 --> 00:36:18.960]  They go, oh, got to do a cesarean.
+[00:36:20.880 --> 00:36:24.719]  As soon as the baby's heart rate labors or anything, oh, got to go in right now.
+[00:36:25.039 --> 00:36:26.239]  And the nurses aren't bad.
+[00:36:26.319 --> 00:36:26.880]  The doctors aren't bad.
+[00:36:26.960 --> 00:36:29.279]  It's all pre-programmed in their policies.
+[00:36:30.159 --> 00:36:34.239]  And then they just follow the directives of the hospital policy.
+[00:36:34.559 --> 00:36:41.519]  And then there goes the placenta, $100,000 plus dollar value.
+[00:36:42.799 --> 00:36:49.519]  Do they tell women when they have third trimester abortions that they can get up to half a million dollars?
+[00:36:50.400 --> 00:37:01.440]  Do they tell you that many hospitals actually tell poor women, oh, your baby died because they're having a quote miscarriage or something or a partial abortion.
+[00:37:01.599 --> 00:37:06.880]  And then they actually don't consider it a human, put on the paperwork, do not resuscitate.
+[00:37:06.960 --> 00:37:14.639]  They keep it alive for weeks in a special wing while they get all the organ harvesting lined up and bids and blood typing.
+[00:37:14.960 --> 00:37:16.639]  And then they go in and harvest the child.
+[00:37:16.799 --> 00:37:18.400]  I exposed this over a decade ago.
+[00:37:18.639 --> 00:37:20.000]  Now it's mainstream news.
+[00:37:20.319 --> 00:37:23.279]  If you're a new viewer hearing this, you're like, or listening, you're like, what?
+[00:37:23.440 --> 00:37:25.279]  Look it all up, folks.
+[00:37:26.239 --> 00:37:29.359]  And it's not all the hospitals that do it, but it's really bad on the East Coast.
+[00:37:29.840 --> 00:37:31.440]  It's bad in Virginia.
+[00:37:31.599 --> 00:37:32.559]  It's bad in California.
+[00:37:32.719 --> 00:37:34.000]  All the usual suspects.
+[00:37:34.319 --> 00:37:39.679]  Remember, Texas got caught doing sex changes on seven and eight-year-olds.
+[00:37:39.759 --> 00:37:41.920]  That's illegal in Texas.
+[00:37:43.119 --> 00:37:48.400]  And the doctor that blew the whistle got indicted by the Biden administration, and Trump had the charges dropped.
+[00:37:48.639 --> 00:37:50.960]  Yeah, here's Governor Northram talking about it.
+[00:37:51.920 --> 00:38:00.319]  How we tell the mother that the baby was not resuscitated, and then we make the decision, and she signs the paperwork with a doctor.
+[00:38:00.559 --> 00:38:01.599]  We like to have two doctors.
+[00:38:01.759 --> 00:38:02.799]  It's the bioethics.
+[00:38:03.199 --> 00:38:04.079]  You're like, that doesn't make sense.
+[00:38:04.159 --> 00:38:06.079]  It's all they've changed the definitions.
+[00:38:06.400 --> 00:38:11.440]  And then we keep the baby comfortable and then we harvest its organs.
+[00:38:12.639 --> 00:38:14.880]  So you cannot make this up.
+[00:38:15.199 --> 00:38:22.639]  And I'm kind of segueing here or going on a rabbit trail, but because it's all interconnected.
+[00:38:23.279 --> 00:38:34.079]  So I want to play this Rogan clip here now, but if you just remember, you can pull the headline up.
+[00:38:34.159 --> 00:38:35.039]  It's about eight years old.
+[00:38:35.199 --> 00:38:36.239]  It was a big court case.
+[00:38:38.239 --> 00:38:43.920]  It was actually Kamala Harris was the attorney general in California then.
+[00:38:44.239 --> 00:38:56.559]  Remember, she indicted the pro-life groups that went undercover into the universities, into the harvesting facilities, and they got the paperwork where universities were having babies delivered with beating hearts.
+[00:38:57.039 --> 00:38:58.000]  Hear what I just said?
+[00:38:58.639 --> 00:39:01.679]  Fetuses delivered with beating hearts.
+[00:39:02.960 --> 00:39:08.960]  And then they indicted for violation of HIPAA and gave them long prison sentences.
+[00:39:09.599 --> 00:39:18.159]  The pro-lifers that went undercover as medical workers took them years to get in because they had medical degrees, nurses, doctors, you name it.
+[00:39:18.239 --> 00:39:20.159]  They had to infiltrate.
+[00:39:20.799 --> 00:39:25.199]  And the people that got caught doing it, remember famously was bragging, yeah, we'll be delivering the babies next week.
+[00:39:25.359 --> 00:39:26.960]  I want another Ferrari.
+[00:39:27.840 --> 00:39:31.359]  And they're sitting back laughing, drinking $300 bottle of wine.
+[00:39:32.079 --> 00:39:35.360]  I mean, it's just this stuff doesn't sound real.
+[00:39:35.680 --> 00:39:36.159]  I know.
+[00:39:36.480 --> 00:39:46.960]  I did 45 minutes last yesterday afternoon on Bill Gates suing the state of Texas to block the law that went into effect Friday banning lab-grown meat.
+[00:39:47.119 --> 00:39:56.960]  And I showed you mainstream news and government documents where the lab-grown meat companies use human cancer tissue because it's cancer.
+[00:39:57.119 --> 00:40:02.480]  It grows and they mix it with whatever they want to grow, salmon, beef, chicken, whatever, and then it grows in huge vats of it.
+[00:40:02.639 --> 00:40:05.599]  And they call it lab-grown chicken or salmon or beef.
+[00:40:05.840 --> 00:40:06.320]  It's not.
+[00:40:06.639 --> 00:40:18.240]  It's literally using cancer cells, the most virulent cancer cells ever discovered from Henrietta Lacks to grow this.
+[00:40:18.480 --> 00:40:20.559]  I mean, you ask, how do they grow meat, folks?
+[00:40:20.720 --> 00:40:22.240]  It's called cancer.
+[00:40:24.159 --> 00:40:25.519]  Sorry, I did 45 minutes on it.
+[00:40:25.680 --> 00:40:26.400]  Did you want the deep dive?
+[00:40:26.480 --> 00:40:28.079]  It's on X. It's a man.video.
+[00:40:28.240 --> 00:40:29.840]  It is insane.
+[00:40:30.800 --> 00:40:38.400]  And I ran into a guy at a grocery store today because my dad wanted something for a grocery store.
+[00:40:38.480 --> 00:40:41.920]  He's in rehab from his heart surgery down the street from here.
+[00:40:42.559 --> 00:40:43.840]  And a guy walks to me in the grocery store.
+[00:40:44.000 --> 00:40:45.119]  I'm buying my dad what he wanted.
+[00:40:45.200 --> 00:40:49.039]  And he goes, Alex, I was listening to you yesterday and thought you were crazy.
+[00:40:49.119 --> 00:40:52.639]  And I went and looked it up that Ozimpic is Hila Monster venom.
+[00:40:53.599 --> 00:40:58.079]  And you really had me when you said it was the poison from the anglerfish as well.
+[00:40:58.240 --> 00:41:01.920]  And I said, yeah, it's actually the combined peptides of that.
+[00:41:02.079 --> 00:41:03.280]  And that's how they make it.
+[00:41:03.599 --> 00:41:04.480]  And it's very toxic.
+[00:41:04.880 --> 00:41:06.320]  I mean, just, you know, it just doesn't sound real.
+[00:41:06.720 --> 00:41:07.440]  I get it.
+[00:41:07.760 --> 00:41:08.400]  I get it.
+[00:41:08.720 --> 00:41:14.720]  But just type in Ozimpic anglerfish, Ozimpic Hila Monster, and read it for yourself.
+[00:41:15.039 --> 00:41:15.680]  Okay, please.
+[00:41:15.760 --> 00:41:16.240]  Just don't.
+[00:41:16.559 --> 00:41:16.720]  Okay.
+[00:41:16.880 --> 00:41:17.200]  I understand.
+[00:41:17.360 --> 00:41:18.400]  This doesn't sound real.
+[00:41:18.960 --> 00:41:21.039]  Even though I know it's real, it doesn't sound real.
+[00:41:21.680 --> 00:41:31.039]  A dead woman that died in the early 50s, she comes in with a cancer the size of a foot, a baseball, and almost two weeks later, the tumor is half her body.
+[00:41:31.200 --> 00:41:32.320]  Literally, a blob ate her.
+[00:41:32.480 --> 00:41:35.360]  They could watch it over the day eating whole parts of her body.
+[00:41:35.680 --> 00:41:39.039]  I mean, and then they go, this is incredible.
+[00:41:39.200 --> 00:41:41.920]  We'll use this to grow fake meat and have you eat it.
+[00:41:43.440 --> 00:41:47.360]  No studies on the safety, the public not being told what's going on.
+[00:41:49.519 --> 00:42:05.280]  The anglerfish connection to Ozippic is that scientists studying its organs to find genes for hormones leading to discovery of glycogen-like peptide, GLP-1, a peptide hormone that functions similar to the human hormones that regulate blood sugar and digestion.
+[00:42:05.440 --> 00:42:07.200]  It's a toxic poison.
+[00:42:07.519 --> 00:42:09.039]  And it was too toxic.
+[00:42:09.119 --> 00:42:15.760]  So they mixed it with Hela Monster to lower it so they wouldn't have the really bad side effects immediately.
+[00:42:16.079 --> 00:42:17.119]  There you go.
+[00:42:18.400 --> 00:42:20.639]  So moving on here, sorry.
+[00:42:21.440 --> 00:42:24.880]  But I want to put a book on this before I play the Rogan Club and then all the other news.
+[00:42:27.760 --> 00:42:45.519]  People are freaking out because Trump came out and NIH began to, an HHS leak that they're going to say MMR shot, hepatitis shot, Tylenol, and certain pesticides are clear the cocktail causing massive autism.
+[00:42:46.159 --> 00:42:51.280]  Increases from 1 in 50,000 in the 60s to 1 in 33 in boys.
+[00:42:51.920 --> 00:42:54.000]  Still about 1 in 100 in girls.
+[00:42:54.320 --> 00:42:56.960]  That's because girls have much tougher blood-brain barriers.
+[00:42:57.039 --> 00:43:04.480]  Again, but I'm not saying that they, I don't think this is going to happen because Kennedy has integrity.
+[00:43:04.559 --> 00:43:05.840]  Plus, we already have the studies.
+[00:43:05.920 --> 00:43:10.159]  He's just getting them all together with government oversight and internal stuff.
+[00:43:10.480 --> 00:43:15.920]  If they say it's only Tylenol, I am going to go on a complete and total warpath.
+[00:43:16.240 --> 00:43:30.480]  But I've known for decades and seen the studies and talked to scientists that it messes up the blood-brain barrier in fetuses and makes them more susceptible to toxins and weakens them and gives them all sorts of syndromes and attacks their organs and liver and everything else.
+[00:43:30.720 --> 00:43:32.639]  So we know Tylenol is super toxic.
+[00:43:32.720 --> 00:43:33.519]  Everybody knows that.
+[00:43:33.840 --> 00:43:38.800]  And it is linked to neurological disorders, not just in children and babies, but in adults as well.
+[00:43:39.119 --> 00:43:43.599]  So the fact that Kennedy's just got all these studies, he's going to just, whatever's been documented, they're going to tell you.
+[00:43:43.840 --> 00:43:45.680]  And then there needs to be more studying on that.
+[00:43:46.000 --> 00:43:48.720]  I don't think it's a whitewash because we already talked about it years ago.
+[00:43:48.800 --> 00:43:49.840]  I mean, I already knew this myself.
+[00:43:50.000 --> 00:43:50.640]  Most of you knew it.
+[00:43:50.800 --> 00:43:54.400]  So them telling us everything is not covering something up.
+[00:43:54.720 --> 00:43:55.039]  Okay.
+[00:43:56.960 --> 00:44:03.440]  So, but that said, if they just say it's Tylenol, which I give one chance in 100, I'm going to go ape, you know what?
+[00:44:04.079 --> 00:44:08.559]  RFK Jr. to draw links between Tylenol use during pregnancy and autism.
+[00:44:12.640 --> 00:44:19.519]  He promises to reveal the environmental causes of autism by September.
+[00:44:19.680 --> 00:44:22.559]  We will know what has caused the autism epidemic.
+[00:44:22.880 --> 00:44:24.960]  And they say that's coming out as early as next week.
+[00:44:26.400 --> 00:44:28.480]  And here was Trump talking about it today.
+[00:44:32.640 --> 00:44:33.680]  You guys know the Trump Club.
+[00:44:37.920 --> 00:44:39.360]  Well, he's a different kind of a guy.
+[00:44:39.520 --> 00:44:43.040]  He's got a lot of good ideas, but he's got a lot of ideas.
+[00:44:43.200 --> 00:44:51.520]  You know, normally they don't have any ideas, and that's why we have problems with autism and so many other things because we're coming up with the answers for autism.
+[00:44:51.600 --> 00:44:52.000]  You watch.
+[00:44:52.080 --> 00:44:59.120]  We're coming up with the answers for other things that normal people, regular people, easy to get along with people, wouldn't be able to do.
+[00:44:59.440 --> 00:45:02.160]  He's got a lot of ideas, and so do I. And we're going to see why.
+[00:45:03.440 --> 00:45:03.760]  All right.
+[00:45:03.840 --> 00:45:05.440]  Now let's go to Rogan.
+[00:45:05.760 --> 00:45:08.640]  And again, I can play you scientists all day long.
+[00:45:08.720 --> 00:45:12.400]  I got more of them here and more studies, but Rogan's had all the scientists on as well.
+[00:45:12.560 --> 00:45:18.400]  I just love how frustrated he gets when, well, you know, they're not all of them bad.
+[00:45:18.480 --> 00:45:29.760]  And I'm like, these companies, every single big company has come out in court knowing they had drugs that killed people, knowing they had drugs that didn't work, knowing they put out drugs to get people addicted and lied and said they weren't addicting.
+[00:45:30.400 --> 00:45:34.720]  You cannot trust Pfizer or Moderna or Bayer or any of them.
+[00:45:35.040 --> 00:45:38.720]  All of them have been in massive evil scandals, Monsanto, all of it.
+[00:45:39.680 --> 00:45:44.080]  And then Bill Gates literally wants to depopulate people and he has gotten control of most of the regulatory systems in the world.
+[00:45:44.400 --> 00:45:46.240]  Kennedy's firing all his people right now.
+[00:45:46.400 --> 00:45:49.280]  They're in open rebellion, trying to sabotage everything.
+[00:45:49.360 --> 00:45:50.240]  That's come out.
+[00:45:50.560 --> 00:45:51.520]  So you want change.
+[00:45:51.680 --> 00:45:53.200]  Kennedy's making a run at it.
+[00:45:53.600 --> 00:45:56.800]  He needs our full support and prayer and word of mouth.
+[00:45:57.040 --> 00:45:59.120]  We're really starting to win the info war on this.
+[00:45:59.440 --> 00:46:02.240]  Now we can't just be black pill because everything didn't just happen overnight.
+[00:46:02.560 --> 00:46:05.840]  If you look at the scheme of time, things are moving very, very fast.
+[00:46:06.160 --> 00:46:09.840]  Trump comes out eight days ago and says, looks like I was lied to about warp speed.
+[00:46:10.000 --> 00:46:14.400]  Looks like they hid data of it killing a bunch of people, which we already knew they did from lawsuits and documents.
+[00:46:14.720 --> 00:46:18.080]  And remember, Pfizer said we want 100 years and 75 years to release it.
+[00:46:18.400 --> 00:46:22.400]  We already know from whistleblowers they hid deaths in the studies they did once they rolled it out.
+[00:46:22.560 --> 00:46:24.640]  They didn't do any studies before in humans.
+[00:46:24.960 --> 00:46:28.720]  They did them in rats and knew it gave them heart attacks and infertility everything.
+[00:46:29.040 --> 00:46:30.000]  That's why they rolled it out.
+[00:46:30.160 --> 00:46:33.920]  Obama did the initiative in 2013, 14, 15.
+[00:46:34.400 --> 00:46:36.320]  And that's all come out now, mainstream news.
+[00:46:36.480 --> 00:46:38.160]  And now Kennedy's talking about that in Congress.
+[00:46:38.320 --> 00:46:41.840]  So you've all been hearing this for years on the show, five years and longer.
+[00:46:42.080 --> 00:46:44.000]  Talking about 2015, we expose the Obama thing.
+[00:46:44.080 --> 00:46:44.640]  It was a big scandal.
+[00:46:44.800 --> 00:46:46.160]  Not just us, mainstream news.
+[00:46:46.400 --> 00:46:54.560]  Oh, they made a gain of function, SARS, COVID, and then they named it 2017, COVID-19 in government documents.
+[00:46:54.880 --> 00:47:08.720]  And the Department of Defense went and gave the contract two years before they released COVID to Moderna that supposedly didn't even become a public company till a few months before they released it.
+[00:47:08.960 --> 00:47:12.480]  It was all a setup of Obama and the globalist.
+[00:47:13.440 --> 00:47:14.880]  And they came to Trump with the plan.
+[00:47:14.960 --> 00:47:18.240]  They came, oh, sir, we'll be shut down for two years unless you do this warp speed thing.
+[00:47:18.880 --> 00:47:21.200]  We just in a week made this new vaccine.
+[00:47:21.360 --> 00:47:23.040]  It's experimental, but oh, it's really good.
+[00:47:23.280 --> 00:47:24.240]  And it's not a vaccine.
+[00:47:24.480 --> 00:47:27.040]  So they changed the definition of the vaccine.
+[00:47:29.200 --> 00:47:31.760]  So it's insane.
+[00:47:32.080 --> 00:47:36.480]  And then all the contamination, even if a company tries to put out a clean vaccine, it's crazy.
+[00:47:36.560 --> 00:47:37.600]  It's Russian or lead.
+[00:47:38.160 --> 00:47:42.240]  And why did they give the vaccine companies liability protection in the 80s?
+[00:47:42.400 --> 00:47:44.000]  Another bad thing Reagan went along with.
+[00:47:44.240 --> 00:47:49.840]  And then they went from five shots that they wanted to be mandatory to over 60 by the time you're two years old.
+[00:47:50.159 --> 00:47:51.719]  Give me a break, people.
+[00:47:51.719 --> 00:48:00.869]  So here is Joe Rogan.
+[00:48:00.880 --> 00:48:02.480]  Let's get to the bottom of the anorexia.
+[00:48:02.640 --> 00:48:03.440]  What's causing all that?
+[00:48:03.600 --> 00:48:08.080]  How come one in every 12 kids who's a boy in California has autism now?
+[00:48:08.480 --> 00:48:09.600]  Because that's what's going on.
+[00:48:09.840 --> 00:48:14.240]  That's what's going on in California, which has one of the strictest vaccine policies.
+[00:48:14.560 --> 00:48:15.200]  One in 12.
+[00:48:15.440 --> 00:48:17.040]  Did I say vaccines cause autism?
+[00:48:17.360 --> 00:48:18.560]  Maybe I will have a little bit of a title.
+[00:48:19.120 --> 00:48:20.080]  RFK is getting to that.
+[00:48:20.160 --> 00:48:20.240]  Yeah.
+[00:48:21.040 --> 00:48:23.280]  And now Florida doesn't demand vaccines.
+[00:48:23.520 --> 00:48:24.720]  Yeah, that's dangerous to me.
+[00:48:25.040 --> 00:48:26.000]  I knew you'd jump on that trend.
+[00:48:26.160 --> 00:48:27.360]  Of course, it's dangerous, Brian.
+[00:48:27.520 --> 00:48:28.160]  What are you talking about?
+[00:48:28.480 --> 00:48:28.920]  All vaccines.
+[00:48:28.920 --> 00:48:30.480]  Tetanus?
+[00:48:30.480 --> 00:48:31.559]  No, no, no, no, no.
+[00:48:31.559 --> 00:48:32.460]  Just go down the road, Ron?
+[00:48:32.460 --> 00:48:34.019]  You need to bail on the tetanus thing.
+[00:48:34.019 --> 00:48:34.420]  What do you mean?
+[00:48:34.420 --> 00:48:34.889]  Because Suzanne Humphries...
+[00:48:34.898 --> 00:48:35.659]  Educate his ass.
+[00:48:35.659 --> 00:48:37.440]  Suzanne Humphries explained tetanus.
+[00:48:37.440 --> 00:48:38.460]  She's not a vaccinologist.
+[00:48:38.720 --> 00:48:39.280]  I know that woman.
+[00:48:39.520 --> 00:48:40.160]  What are you talking about?
+[00:48:40.320 --> 00:48:43.440]  So you're saying she's a medical doctor that absolutely understands tetanus.
+[00:48:43.520 --> 00:48:46.240]  She said tetanus, all you have to do is keep the wound open and clean it.
+[00:48:46.400 --> 00:48:47.280]  Oh, that's it.
+[00:48:49.120 --> 00:48:50.720]  Young people die of tetanus every year.
+[00:48:51.040 --> 00:48:51.680]  What about this?
+[00:48:52.000 --> 00:48:54.160]  So let me ask you a question, Mr. Joe Rogan, Mr. Scientist.
+[00:48:54.320 --> 00:48:56.080]  Are you saying we should do that?
+[00:48:56.160 --> 00:48:57.120]  Don't call me Mr. Scientist.
+[00:48:57.200 --> 00:48:57.840]  I'll start mocking you.
+[00:48:58.080 --> 00:48:58.720]  It's so much easier to talk about.
+[00:48:59.200 --> 00:48:59.920]  So are we, are we not?
+[00:49:00.080 --> 00:49:01.280]  So you don't believe in vaccines?
+[00:49:01.360 --> 00:49:02.240]  You don't think we should have vaccines?
+[00:49:02.400 --> 00:49:03.920]  It's not that I don't believe in vaccines.
+[00:49:05.600 --> 00:49:08.480]  You should give a kid a Hep B vaccine when they're a baby.
+[00:49:08.800 --> 00:49:09.200]  Different subject.
+[00:49:09.600 --> 00:49:10.000]  No, you have to.
+[00:49:10.240 --> 00:49:17.200]  MMA vaccine is absolutely connected to a host of serious, debilitating problems that kids have gotten from them.
+[00:49:17.440 --> 00:49:22.240]  There's a lot of problems because they don't test vaccines in a double-blind placebo-controlled setting.
+[00:49:22.720 --> 00:49:24.080]  They test them against other vaccines.
+[00:49:24.240 --> 00:49:24.640]  You know that, right?
+[00:49:25.039 --> 00:49:25.360]  Yes, I do.
+[00:49:25.680 --> 00:49:26.000]  Excuse me.
+[00:49:26.080 --> 00:49:26.960]  Let me just say something.
+[00:49:27.280 --> 00:49:28.000]  Yes, you're right.
+[00:49:28.160 --> 00:49:30.800]  You can make the argument for Hep B. Here's why.
+[00:49:31.120 --> 00:49:36.800]  Because the chances of a child coming in contact with the kind of activity that causes Hep B is different.
+[00:49:37.440 --> 00:49:39.519]  It's basically transmitted disease in our economy.
+[00:49:39.760 --> 00:49:40.960]  So now you say this, you say this.
+[00:49:41.200 --> 00:49:42.400]  That chance is zero.
+[00:49:42.720 --> 00:49:45.920]  The chance for vaccine injury with the Hep V B is not zero.
+[00:49:46.000 --> 00:49:46.560]  It's non-zero.
+[00:49:46.720 --> 00:49:48.160]  Okay, so I understand that math.
+[00:49:48.320 --> 00:49:48.480]  Okay.
+[00:49:48.800 --> 00:49:51.280]  What I'm trying to say to you is that there are certain diseases.
+[00:49:51.600 --> 00:49:52.640]  Pick up a history book.
+[00:49:52.970 --> 00:49:55.398]  smallpox, diphtheria, mumps.
+[00:49:55.460 --> 00:49:57.240]  Have you ever looked at how...
+[00:49:57.240 --> 00:49:58.780]  Tetanus, polio, paralytic diseases.
+[00:49:58.780 --> 00:49:59.579]  Have you ever...
+[00:49:59.579 --> 00:50:00.809]  Polio, please stop.
+[00:50:00.820 --> 00:50:01.409]  No, I won't.
+[00:50:01.619 --> 00:50:01.898]  I won't.
+[00:50:01.978 --> 00:50:03.280]  I know you think it's just...
+[00:50:03.280 --> 00:50:04.559]  Brian, Brian, Brian, Brian, Brian, Brian.
+[00:50:04.559 --> 00:50:05.360]  I've heard Susan Humphries.
+[00:50:05.398 --> 00:50:10.728]  This is a long conversation that we're not going to have on this podcast because I'm going to get angry because I've researched this for years.
+[00:50:10.740 --> 00:50:10.970]  Right.
+[00:50:11.088 --> 00:50:12.240]  Let's just not.
+[00:50:12.240 --> 00:50:12.869]  But you're not a scientist.
+[00:50:12.940 --> 00:50:15.420]  I don't have to be a scientist to know that...
+[00:50:15.420 --> 00:50:15.780]  Yes, you do.
+[00:50:15.780 --> 00:50:17.519]  Brian, shut the f*** up.
+[00:50:17.579 --> 00:50:25.449]  I don't have to be a scientist to read research, to understand that they were spraying DDT all over the f***ing country when everybody was getting polio.
+[00:50:25.460 --> 00:50:26.358]  Do you know that?
+[00:50:26.568 --> 00:50:27.369]  Yes, I do.
+[00:50:27.380 --> 00:50:28.780]  You know the first instances of polio?
+[00:50:28.780 --> 00:50:35.019]  They happen in rural communities where they're all farmland and agriculture, and then cows were getting them and horses were getting them and dogs were getting them.
+[00:50:35.019 --> 00:50:35.858]  Let me make a statement.
+[00:50:35.858 --> 00:50:38.349]  They were calling it paralytic polio.
+[00:50:38.358 --> 00:50:39.599]  Do you agree with the following statement?
+[00:50:39.599 --> 00:50:40.760]  It's not just...
+[00:50:40.760 --> 00:50:41.519]  I'm not going to do this with you, Brian.
+[00:50:41.519 --> 00:50:42.340]  But it's not just about...
+[00:50:42.440 --> 00:50:42.980]  I brought up that.
+[00:50:42.980 --> 00:50:43.800]  It's not just about...
+[00:50:43.800 --> 00:50:44.648]  Hold on, hold on.
+[00:50:44.898 --> 00:50:45.300]  Joe.
+[00:50:45.300 --> 00:50:46.630]  No, Brian, I don't want to do this with you.
+[00:50:46.679 --> 00:50:47.619]  But it's not just about...
+[00:50:47.619 --> 00:50:48.800]  We're in the middle of a fight campaign.
+[00:50:48.800 --> 00:50:49.559]  It's annoying.
+[00:50:49.760 --> 00:50:51.760]  But it's like...
+[00:50:51.760 --> 00:50:53.398]  Yeah, yeah.
+[00:50:53.398 --> 00:50:55.818]  Being anti-vax is irresponsible.
+[00:50:55.818 --> 00:50:57.119]  No, it's anti-vax, Brian.
+[00:50:57.119 --> 00:50:57.869]  It's not anti-vax.
+[00:50:57.979 --> 00:50:59.679]  Question why there's so many, though.
+[00:50:59.679 --> 00:51:01.099]  My kids are all vaccinated.
+[00:51:01.099 --> 00:51:03.929]  And they're vaccinated, but they went on a delayed schedule.
+[00:51:03.940 --> 00:51:04.960]  They delayed schedule.
+[00:51:04.960 --> 00:51:05.619]  So did mine.
+[00:51:05.619 --> 00:51:06.780]  So did mine.
+[00:51:06.780 --> 00:51:07.059]  You're not?
+[00:51:07.059 --> 00:51:07.619]  Yeah.
+[00:51:07.619 --> 00:51:07.889]  You're not.
+[00:51:08.059 --> 00:51:08.789]  Yeah, good for you.
+[00:51:08.800 --> 00:51:09.920]  I don't think you need to.
+[00:51:09.920 --> 00:51:11.699]  No, they're healthy as f***.
+[00:51:11.720 --> 00:51:12.050]  Yeah.
+[00:51:12.648 --> 00:51:14.460]  Between the two of them, they have 12 touchdowns this week.
+[00:51:14.710 --> 00:51:17.389]  Two home runs.
+[00:51:18.509 --> 00:51:21.838]  I think the problem is that the pharmaceutical drug companies have an exemption.
+[00:51:21.838 --> 00:51:28.818]  Because of what they did in the 1980s with Reagan, where they allowed them to never worry about being sued.
+[00:51:28.818 --> 00:51:30.920]  And that's when they ramped up the f***ing schedule.
+[00:51:30.920 --> 00:51:33.240]  And that's also the correlation.
+[00:51:33.240 --> 00:51:36.880]  When you look at all the f***ing host of all sorts of diseases and issues that started happening to kids.
+[00:51:36.880 --> 00:51:39.780]  But that autism, it's through the f***ing world.
+[00:51:39.780 --> 00:51:41.500]  There's a lot of other autoimmune issues.
+[00:51:41.500 --> 00:51:44.190]  There's a lot of serious problems.
+[00:51:44.199 --> 00:51:49.338]  I think there are three things that have pushed us beyond our biology and the reason we don't have a lot of children dying.
+[00:51:49.338 --> 00:51:52.420]  Nutrition, sanitation, and vaccines.
+[00:51:52.420 --> 00:51:55.960]  And I think anybody who says otherwise is, you know, I think it's crazy.
+[00:51:55.960 --> 00:51:58.579]  But you can't say all vaccines, B. I didn't say all vaccines.
+[00:51:58.619 --> 00:52:00.479]  But he's not saying all vaccines.
+[00:52:00.479 --> 00:52:01.639]  I get very worried when people start saying.
+[00:52:01.639 --> 00:52:02.119]  But he's not saying all vaccines.
+[00:52:02.119 --> 00:52:03.550]  It sounds like he is.
+[00:52:03.619 --> 00:52:05.820]  Brian, you don't know what the f*** I'm saying.
+[00:52:06.300 --> 00:52:06.898]  You don't.
+[00:52:07.028 --> 00:52:09.920]  Well, I know because you don't want to talk about it.
+[00:52:09.990 --> 00:52:13.320]  Brian, I don't want to talk about it in the middle of a podcast because it will completely derail the podcast.
+[00:52:13.320 --> 00:52:14.838]  And I'll start showing you statistics.
+[00:52:14.838 --> 00:52:21.969]  If you look at when people stopped getting all of these diseases and then when the introduction of vaccines happened, it's at the end.
+[00:52:21.998 --> 00:52:24.898]  After the disease has already gone through the population.
+[00:52:24.898 --> 00:52:29.579]  Most of those diseases were eradicated by sanitation and nutrition.
+[00:52:29.579 --> 00:52:31.960]  There was a huge problem in this country.
+[00:52:31.960 --> 00:52:33.998]  People were living in f***ing squalor.
+[00:52:33.998 --> 00:52:34.659]  I agree.
+[00:52:34.980 --> 00:52:36.860]  But there's still pathogens that are very dangerous.
+[00:52:36.860 --> 00:52:37.579]  Sure there are.
+[00:52:37.630 --> 00:52:44.260]  So the problem is that these pharmaceutical drug companies are f***ing insanely, entirely corrupt.
+[00:52:44.278 --> 00:52:46.599]  They've been corrupt for a long f***ing time.
+[00:52:46.599 --> 00:52:51.010]  And there's a revolving door between the FDA and these pharmaceutical drug corporations.
+[00:52:51.028 --> 00:52:54.159]  They go from the FDA into these positions.
+[00:52:54.159 --> 00:52:55.438]  They have this golden parachute.
+[00:52:55.460 --> 00:52:58.519]  And then they ramp up the f***ing schedule every year.
+[00:52:58.519 --> 00:52:59.980]  And it's not about public health.
+[00:53:00.199 --> 00:53:01.599]  None of it is about looking out for you.
+[00:53:01.599 --> 00:53:02.938]  All of it is about making money.
+[00:53:02.938 --> 00:53:08.019]  And about depopulating and making people sick to make even more money and give them cancer.
+[00:53:08.019 --> 00:53:12.260]  Now, Rogan's talking about a graph that's in Kennedy's books.
+[00:53:12.260 --> 00:53:14.498]  And it's been there forever.
+[00:53:14.498 --> 00:53:15.320]  It's old numbers.
+[00:53:15.320 --> 00:53:16.179]  And they just get updated.
+[00:53:16.179 --> 00:53:17.719]  Australia has the same numbers.
+[00:53:17.719 --> 00:53:18.380]  Europe has them.
+[00:53:18.398 --> 00:53:22.240]  The U.S. It's the exact same thing because we all followed industrialization the same.
+[00:53:22.240 --> 00:53:23.539]  So here's a dead reckoning.
+[00:53:23.539 --> 00:53:25.300]  Guys, pull up a graph.
+[00:53:25.349 --> 00:53:28.039]  Sanitation graph.
+[00:53:28.039 --> 00:53:31.289]  Sanitation, 120-year graph.
+[00:53:31.300 --> 00:53:35.559]  Sanitation drop in infectious diseases.
+[00:53:41.809 --> 00:53:44.480]  Added graph introduction of mass immunization.
+[00:53:44.480 --> 00:53:46.760]  And let me just, I know the graph so well.
+[00:53:46.760 --> 00:53:48.190]  Let me just show you one I drew here real quick.
+[00:53:48.248 --> 00:53:48.880]  Overhead shot, please.
+[00:53:48.880 --> 00:53:50.240]  So here's 1900.
+[00:53:50.240 --> 00:53:54.219]  Here's about 1940 when mass inoculation starts.
+[00:53:54.219 --> 00:53:58.730]  And sanitation in the industrialized world really starts kicking in about 1900.
+[00:53:58.740 --> 00:54:00.039]  Washing the clothes.
+[00:54:00.039 --> 00:54:01.119]  Having indoor plumbing.
+[00:54:01.119 --> 00:54:02.949]  People not dumping their poop out the street.
+[00:54:02.960 --> 00:54:04.789]  That's what it used to be like.
+[00:54:05.110 --> 00:54:09.680]  And as soon as it comes in, infectious diseases literally go down 95%.
+[00:54:09.680 --> 00:54:11.190]  I mean, it's insane.
+[00:54:11.199 --> 00:54:16.400]  the inoculations start and it goes like this now Okay.
+[00:54:16.559 --> 00:54:18.320]  And actually, with a shot, something like that.
+[00:54:18.639 --> 00:54:20.800]  So, and by the way, our kids don't live longer.
+[00:54:20.880 --> 00:54:22.079]  We have higher infant mortality.
+[00:54:22.320 --> 00:54:23.519]  All that's lies.
+[00:54:24.079 --> 00:54:24.400]  Okay.
+[00:54:25.360 --> 00:54:26.480]  Here's the difference.
+[00:54:26.800 --> 00:54:37.840]  If you go to a cemetery anywhere in Texas or anywhere in the industrialized world and you go look at tombstones from 1700, 1800, 1900s, upwards of half.
+[00:54:38.159 --> 00:54:39.039]  Yeah, there's the graph.
+[00:54:39.360 --> 00:54:48.719]  Upwards of half of the tombstones say little Jenny, little Timmy, and it'll say the date they were born.
+[00:54:48.880 --> 00:54:50.400]  And they usually die in a year.
+[00:54:50.719 --> 00:54:57.199]  Most of them die in a year, but half the cemetery is kids between the age of one and 10.
+[00:54:58.079 --> 00:54:59.280]  There were no antibiotics.
+[00:54:59.360 --> 00:55:00.320]  There was none of that.
+[00:55:00.639 --> 00:55:08.400]  So if you could live past 10 and you take out infant mortality and child death, there's big books written on this.
+[00:55:09.039 --> 00:55:13.760]  You know, the average person lived to 87 years old, just like the Amish.
+[00:55:15.039 --> 00:55:16.719]  Isn't that funny?
+[00:55:17.039 --> 00:55:20.559]  Amish women, 87, 89, Amish men, 85, 86.
+[00:55:20.800 --> 00:55:21.360]  Look it up.
+[00:55:21.679 --> 00:55:22.159]  Funny.
+[00:55:22.320 --> 00:55:24.320]  They lived just like people back then.
+[00:55:27.440 --> 00:55:31.519]  The difference is the Amish now, though, if the kid gets really sick, we'll get him antibiotics or whatever.
+[00:55:32.159 --> 00:55:33.679]  So, but they don't take the vaccines.
+[00:55:33.920 --> 00:55:35.039]  So that's why.
+[00:55:35.199 --> 00:55:36.240]  Now you just got the facts.
+[00:55:36.320 --> 00:55:38.480]  And just like I just told you that graph, crew just pulled it up.
+[00:55:38.639 --> 00:55:38.800]  Okay.
+[00:55:39.119 --> 00:55:40.559]  It was even worse than I said.
+[00:55:40.880 --> 00:55:41.039]  Okay.
+[00:55:41.199 --> 00:55:42.880]  So Rogan knows what he's talking about.
+[00:55:43.199 --> 00:55:45.920]  These other people just spout crap out of their mouths.
+[00:55:46.000 --> 00:55:46.159]  Yeah.
+[00:55:46.240 --> 00:55:47.519]  Look at sanitation.
+[00:55:47.840 --> 00:55:48.159]  Okay.
+[00:55:50.000 --> 00:55:53.599]  And then that's not looking at vaccines.
+[00:55:53.760 --> 00:55:58.639]  Then all these new disorders and things that aren't the classic communical diseases, then the death rates.
+[00:55:59.119 --> 00:56:00.400]  So everything's going down.
+[00:56:00.480 --> 00:56:01.679]  We're living longer with sanitation.
+[00:56:02.000 --> 00:56:02.880]  And then all this starts.
+[00:56:03.039 --> 00:56:06.000]  And then all these other deaths that is an infectious disease startup.
+[00:56:06.240 --> 00:56:08.000]  It's neurological disorders, all the rest of it.
+[00:56:08.079 --> 00:56:09.119]  I didn't plug this hour.
+[00:56:09.360 --> 00:56:10.079]  Don't want to support us.
+[00:56:10.159 --> 00:56:11.280]  Why not selection of t-shirts?
+[00:56:11.440 --> 00:56:13.840]  The best supplements, methylene blue, you need to sell right now.
+[00:56:13.920 --> 00:56:14.480]  It's about to end.
+[00:56:14.639 --> 00:56:15.840]  Thealystone store.com.
+[00:56:15.920 --> 00:56:16.639]  Back this operation.
+[00:56:16.720 --> 00:56:17.440]  You got great products.
+[00:56:17.599 --> 00:56:18.240]  It's a win-win.
+[00:56:18.320 --> 00:56:19.599]  Take action now with the ride bug.
+[00:56:21.440 --> 00:56:28.480]  Every guest we've interviewed in studio, I've given our ultramethylene blue to, and they've all been blown away.
+[00:56:28.800 --> 00:56:31.280]  Ladies and gentlemen, this isn't hype.
+[00:56:31.599 --> 00:56:40.720]  All our supplements are great and have amazing health effects, but this one hits 99% of people within 30 minutes, and the long-term effects are even more amazing.
+[00:56:41.039 --> 00:56:52.960]  So secure your ultramethylene blue now, the most powerful you can get on the market at theologystore.com and fund the tip of the spear in the fight for liberty and supercharge your own personal life.
+[00:56:53.280 --> 00:56:59.199]  Believe me, if you don't take action and get it, you will never know how amazing it is.
+[00:56:59.519 --> 00:57:03.920]  Over 99% of people have had incredible effects.
+[00:57:04.278 --> 00:57:10.199]  You owe it to yourself right now to try ultramethylene blue, exclusively available at the Alex show store.com.
+[00:57:10.199 --> 00:57:29.278]  All right, here's what I want to do right now.
+[00:57:29.289 --> 00:57:35.199]  In this short little five minute segment, Coming up, I'm going to get into the troops of Chicago and other cities being announced.
+[00:57:35.280 --> 00:57:41.519]  What's really behind that, Trump's response, the scandals there, the bombing and the aftermath of that drug boat.
+[00:57:41.599 --> 00:57:42.800]  They're promising more.
+[00:57:43.280 --> 00:57:50.000]  I want to get into Peter Thiel and his obsession with the Antichrist and what's really going on behind that.
+[00:57:50.320 --> 00:57:58.960]  I want to get into racial attacks on whites intensifying the media constantly covering it up and some of the horrible cases of that that just unfolded.
+[00:57:59.119 --> 00:58:02.559]  In fact, we'll hit that at the start of the next segment.
+[00:58:02.880 --> 00:58:06.880]  But I want to talk about Owen Schroyer for just a few minutes.
+[00:58:07.199 --> 00:58:08.639]  I've known Owen 10 years.
+[00:58:08.720 --> 00:58:09.760]  He's worked here nine.
+[00:58:10.000 --> 00:58:10.960]  I've loved Owen.
+[00:58:11.039 --> 00:58:13.519]  He's been a funny, smart, wonderful person.
+[00:58:14.880 --> 00:58:21.119]  The last three years, he got darker and darker and stopped basically talking to us and wouldn't even say hi to the crew most days.
+[00:58:21.199 --> 00:58:27.760]  If they said hi, he stopped in the last year hanging out with even people that have been his friends up here for a long time.
+[00:58:28.400 --> 00:58:32.639]  And then if I would even go recommend the guests, like, hey, you want this person on?
+[00:58:32.720 --> 00:58:33.840]  I've never told him what to have on.
+[00:58:34.079 --> 00:58:37.679]  He would get mad and walked off last Thursday, Thursday before last.
+[00:58:38.000 --> 00:58:38.880]  And I said, no, he's quitting.
+[00:58:38.960 --> 00:58:39.519]  That's what this is.
+[00:58:39.679 --> 00:58:42.239]  No, he wants to talk to you Monday, though, in person.
+[00:58:42.800 --> 00:58:44.000]  And then it was a holiday.
+[00:58:44.079 --> 00:58:48.239]  So he calls me and says, I'm quitting and says, but if you're desperate, you can pay me more.
+[00:58:48.320 --> 00:58:52.239]  And he was really kind of arrogant and mean.
+[00:58:52.400 --> 00:58:53.920]  And I was like, no, that's okay.
+[00:58:54.559 --> 00:58:59.280]  And then he goes on there in a five and a half hour deal and says, I haven't gotten a pay raise, which he now admits isn't true.
+[00:58:59.360 --> 00:59:01.039]  But he just put a little post saying, okay, I guess I did.
+[00:59:01.119 --> 00:59:03.360]  I got an 87% pay increase.
+[00:59:03.679 --> 00:59:05.599]  And he implied he got censored.
+[00:59:05.679 --> 00:59:11.679]  So everybody took from what he said that I censored him because that's the thing that boosts people, that they're so hardcore.
+[00:59:11.760 --> 00:59:12.960]  Even Alex Sean censored him.
+[00:59:13.119 --> 00:59:14.319]  And that hurt.
+[00:59:14.639 --> 00:59:17.119]  And even the crew said, well, you're giving me what he wants, a bunch of publicity.
+[00:59:17.279 --> 00:59:19.759]  He certainly seems happy about it all over the news.
+[00:59:20.000 --> 00:59:20.880]  I don't care about that.
+[00:59:21.199 --> 00:59:23.119]  He had his own show he promoted here.
+[00:59:23.199 --> 00:59:24.319]  I don't care.
+[00:59:25.440 --> 00:59:28.639]  He had another show he was doing and another sponsors and all this other stuff.
+[00:59:28.880 --> 00:59:29.839]  And that was fine.
+[00:59:29.920 --> 00:59:30.319]  I don't care.
+[00:59:30.559 --> 00:59:31.839]  In fact, I'm happy for him.
+[00:59:32.159 --> 00:59:37.199]  I got really mad and went somewhat overboard spending too much time on it because it was personal.
+[00:59:37.519 --> 00:59:38.719]  And I saw what he did Monday.
+[00:59:38.799 --> 00:59:39.440]  I couldn't watch it all.
+[00:59:39.519 --> 00:59:40.400]  It's five and a half hours.
+[00:59:40.639 --> 00:59:41.679]  And I said, that's premeditated.
+[00:59:41.920 --> 00:59:46.319]  I told the producers, it'll be all over the news tomorrow that I censored him because he was anti-Trump.
+[00:59:47.279 --> 00:59:49.359]  And then I basically kicked him out the way he couched it.
+[00:59:49.440 --> 00:59:50.559]  And they said, no, no.
+[00:59:50.799 --> 00:59:52.000]  Well, hundreds of articles.
+[00:59:52.079 --> 00:59:52.639]  Look at this.
+[00:59:52.960 --> 00:59:56.319]  MAGA Rising Star kicked off InfoWars for turning against Trump.
+[00:59:56.559 --> 00:59:57.519]  He quit.
+[00:59:57.839 --> 00:59:59.279]  I didn't even criticize him about that.
+[00:59:59.359 --> 01:00:00.559]  I said he's too black-pilled.
+[01:00:00.719 --> 01:00:01.599]  We had debates about it.
+[01:00:01.759 --> 01:00:03.599]  I'm glad we have different perspectives.
+[01:00:03.920 --> 01:00:08.319]  Alex Jones kicks MAGA Rising Star, Owen Schroyer, off InfoWars, turning against Trump.
+[01:00:08.639 --> 01:00:13.119]  I mean, we're talking Yahoo, Daily Beast, everything.
+[01:00:13.920 --> 01:00:16.559]  Alex Jones dumps host for being too anti-Trump.
+[01:00:16.880 --> 01:00:21.440]  InfoWars host abruptly kicked off show for turning anti-Trump.
+[01:00:21.519 --> 01:00:28.079]  And I mean, this is what he innuendoed on purpose to make me the bad guy.
+[01:00:28.400 --> 01:00:29.920]  That hurts.
+[01:00:32.319 --> 01:00:33.279]  It's monstrous.
+[01:00:33.679 --> 01:00:34.880]  It's horrible.
+[01:00:35.199 --> 01:00:37.519]  And he's like, oh, the next day, oh, I love Alex.
+[01:00:37.599 --> 01:00:38.400]  I love InfoWars.
+[01:00:38.719 --> 01:00:40.000]  Oh, he's a legend.
+[01:00:41.199 --> 01:00:44.639]  You need to put a video out, not one little post in a comment to people.
+[01:00:44.880 --> 01:00:46.719]  Okay, I did get these raises.
+[01:00:48.000 --> 01:00:49.759]  Didn't say I was wrong.
+[01:00:50.880 --> 01:00:51.759]  And you need to explain.
+[01:00:51.920 --> 01:00:56.559]  I never censored you and never told you what to do ever.
+[01:00:56.880 --> 01:00:58.559]  Other than I want you to go to the border.
+[01:00:58.880 --> 01:00:59.519]  When can you go?
+[01:00:59.599 --> 01:01:00.960]  Or I want you to, you know.
+[01:01:02.239 --> 01:01:04.799]  So this is immoral.
+[01:01:05.119 --> 01:01:06.239]  It's scary.
+[01:01:07.119 --> 01:01:10.239]  I don't lose confidence in people over this, but I've been betrayed a lot and it hurts.
+[01:01:10.400 --> 01:01:12.799]  And it also hurt this operation that's under attack.
+[01:01:13.440 --> 01:01:18.000]  That said, I forgive Owen and I'm going to move on and I wish him well.
+[01:01:18.079 --> 01:01:23.039]  And when he does cool stuff that we see, we'll talk about it and support it because I just want to fight the tyrants.
+[01:01:23.199 --> 01:01:28.719]  But I am creeped out by this and saddened.
+[01:01:29.359 --> 01:01:35.119]  Why don't you do a video, Owen, saying, well, I was never censored and never told what to do.
+[01:01:35.440 --> 01:01:37.599]  And no, I wasn't kicked off.
+[01:01:37.839 --> 01:01:41.119]  And I've got an 87% raises over three raises.
+[01:01:41.440 --> 01:01:42.480]  Just tell people that.
+[01:01:42.559 --> 01:01:43.039]  Please.
+[01:01:43.359 --> 01:01:47.359]  Just tell people what you implied and what you said wasn't true.
+[01:01:47.679 --> 01:01:51.279]  And then I'm going to move on anyways.
+[01:01:51.920 --> 01:01:53.440]  But it'd be better for you.
+[01:01:53.679 --> 01:01:55.279]  I can just tell you that if you do it.
+[01:01:55.440 --> 01:01:55.679]  All right.
+[01:01:55.759 --> 01:01:56.880]  We'll be right back.
+[01:02:01.599 --> 01:02:04.480]  Well, Irina Zarutska is no longer with us.
+[01:02:04.719 --> 01:02:13.759]  She got brutally murdered in Charlotte, North Carolina.
+[01:02:14.079 --> 01:02:21.839]  And like all the other murders of white people and being pushed in front of subway trains and stabbed to death and killed with knockout games.
+[01:02:22.159 --> 01:02:37.039]  And then all those that survive, the mayors and the police and the Blue City people that are in control, we'll put her picture up if we can.
+[01:02:37.199 --> 01:02:38.480]  Beautiful young lady.
+[01:02:39.119 --> 01:02:40.400]  Just go to X and type it in.
+[01:02:40.639 --> 01:02:41.759]  Now there she is.
+[01:02:46.159 --> 01:02:50.480]  As in all the cases, they're saying, don't cover it, don't show it, or you're racist.
+[01:02:53.279 --> 01:02:58.000]  Can you imagine if every day there's stuff like this going on?
+[01:02:59.839 --> 01:03:13.039]  If white people on a routine basis, every few days were pushing black people in front of subway trains, stabbing them in the neck, shooting them, knockout gaming them, carjacking them, shooting them in the face, all this.
+[01:03:14.559 --> 01:03:21.440]  Depending on the city and the statistics, it's 40 to 1 black-on-white crime.
+[01:03:21.519 --> 01:03:22.880]  On average, it's about 15%.
+[01:03:23.679 --> 01:03:27.119]  Now, listen, still, the vast majority of black people are nice and aren't doing this.
+[01:03:27.279 --> 01:03:32.159]  And they know that some of the young black thug predators are super dangerous because they kill even more of them.
+[01:03:33.359 --> 01:03:40.400]  Some weekends in Chicago, I think the record's 18 killed, and almost every one of them is black.
+[01:03:40.719 --> 01:03:42.559]  They're killing each other.
+[01:03:44.159 --> 01:03:51.440]  And you see the black folks in D.C., in Maryland, in Illinois, all over the news saying, we want troops.
+[01:03:51.759 --> 01:03:53.199]  We want the thugs arrested.
+[01:03:53.440 --> 01:03:55.199]  And the Soros DAs released them.
+[01:03:55.279 --> 01:03:56.639]  So this is a scourge for everybody.
+[01:03:56.960 --> 01:03:58.480]  Are there white thugs out killing people?
+[01:03:58.639 --> 01:03:58.880]  Yeah.
+[01:03:59.199 --> 01:04:02.319]  Have there been cases on subways of crazy white dudes stabbing black people?
+[01:04:02.400 --> 01:04:04.000]  It was one a couple years ago in San Francisco.
+[01:04:04.079 --> 01:04:05.119]  We covered it.
+[01:04:06.079 --> 01:04:09.759]  And the difference is it got covered by everybody.
+[01:04:11.359 --> 01:04:22.079]  And it's the same thing in Europe when Muslims that commit the vast majority of the crime, even though they're less than 10% of the population, rape, murder, kill, run sex slavery, pedophile operations.
+[01:04:22.239 --> 01:04:27.199]  It gets covered up by people like Kira Starmer, whose job for 15 years was being the head of covering it up.
+[01:04:27.519 --> 01:04:28.399]  Those are huge scandals.
+[01:04:28.559 --> 01:04:30.639]  Elon Musk has been really spotlighting.
+[01:04:31.519 --> 01:04:34.399]  So this woman gets stabbed to death.
+[01:04:34.559 --> 01:04:35.599]  They don't release the full video.
+[01:04:35.679 --> 01:04:36.719]  They show her get on the train.
+[01:04:36.879 --> 01:04:46.319]  About a minute later, this guy sitting behind her that's got a huge rap sheet of armed robberies, assaults, you name it, 14-plus arrest, opens up a knife and stabs her right in the juggler.
+[01:04:47.199 --> 01:04:54.319]  And the mayor has come out and said this is racist and you shouldn't show the video and it's mental health.
+[01:04:54.639 --> 01:04:57.919]  Well, obviously, there's something wrong with the guy's brain.
+[01:04:58.559 --> 01:05:06.959]  But the issue is, is that even with Jamie White, I said it's about a 90% chance it wasn't the Ukrainians that killed him, even though they put a hit list out on him.
+[01:05:07.199 --> 01:05:11.039]  I was on the list too, calling for our death, and they do blow people up and shoot them and kill them.
+[01:05:11.199 --> 01:05:13.359]  I said it's probably racially motivated thugs.
+[01:05:13.679 --> 01:05:15.439]  Well, boy, did we hit that?
+[01:05:16.079 --> 01:05:18.319]  Came out in the indictments, capital murder.
+[01:05:18.959 --> 01:05:20.479]  Black guy's the guy that shot him.
+[01:05:20.559 --> 01:05:25.439]  Did a rap song about how he killed the white Jamie White, shooting him with a nine in the neck.
+[01:05:25.759 --> 01:05:36.079]  And then the other accomplice, but they got capital murder, the other two didn't, wearing Mexican flags and Mexican masks and talking about how much he hates white people on his Facebook and Instagram.
+[01:05:36.399 --> 01:05:39.999]  So, and I remember the media, you can pull it up.
+[01:05:40.479 --> 01:05:51.279]  Alex Jones blames Austin DA for releasing minority offenders.
+[01:05:51.519 --> 01:05:57.039]  If you're black or Hispanic and you commit a serious crime like shooting people, he lets you out no bond the next day.
+[01:05:57.359 --> 01:05:58.719]  He's famous.
+[01:05:59.679 --> 01:06:02.239]  And of course, I nailed it.
+[01:06:03.119 --> 01:06:05.759]  I said it's either black or Hispanic thugs.
+[01:06:06.079 --> 01:06:07.199]  It was both.
+[01:06:08.399 --> 01:06:12.319]  So you talk about a grand slam, and I don't like being right about this stuff.
+[01:06:13.199 --> 01:06:15.759]  But I don't need to read the statistics.
+[01:06:15.919 --> 01:06:18.319]  I can see it and I know.
+[01:06:19.279 --> 01:06:28.159]  Now, if you're white and you do some crime, Jose Garza throws the book at you and he says, well, whites are the oppressors, and so it's good to put them in jail.
+[01:06:28.479 --> 01:06:43.679]  And did you know that there's a 57% conviction rate of black juries that blacks on juries against whites charged with crimes and a 13% conviction rate between 13 and 20, depending on the crime of blacks.
+[01:06:44.559 --> 01:06:49.119]  So on average, black folks are convicting white people thinking we're bad a lot more than we think they're bad.
+[01:06:49.279 --> 01:06:53.679]  This myth that white people are all trying to throw black people in jail, you can pull those statistics up.
+[01:06:53.759 --> 01:06:54.559]  Just stop them in.
+[01:06:55.839 --> 01:07:00.079]  So again, the reason, and by the way, I don't hammer this.
+[01:07:00.399 --> 01:07:06.159]  I could show you racial attacks on white people for four hours every day on the weekend.
+[01:07:06.719 --> 01:07:08.319]  I could do two hours on it tonight.
+[01:07:08.719 --> 01:07:12.959]  I mean, there are so I can't even, I'm not even looking for it and it's everywhere.
+[01:07:13.599 --> 01:07:26.559]  And so all I did was post a video yesterday, got millions of views, and point out that there's this crime wave that the media covers up, and there's been no corporate media have covered this other than local news.
+[01:07:28.399 --> 01:07:30.879]  And oh, you're racist.
+[01:07:31.039 --> 01:07:31.679]  Oh, you're bad.
+[01:07:31.839 --> 01:07:33.279]  Oh, you're this, you're that.
+[01:07:34.159 --> 01:07:37.199]  I would have covered it if a white guy went and did this.
+[01:07:37.519 --> 01:07:41.839]  I have on other cases that are similar, though much more rare.
+[01:07:42.479 --> 01:07:49.279]  But the issue is, is that the media covers it up, and then they demonize those that actually get it out there.
+[01:07:49.839 --> 01:07:52.479]  And in Europe, they throw you in prison.
+[01:07:53.119 --> 01:08:00.799]  Tommy Robinson was put in prison for reporting on the Islamic identities of people running giant pedophile kidnapping rings.
+[01:08:02.319 --> 01:08:13.679]  So divide by ratio, 74,221 AP articles about George Floyd, zero AP articles about the Ukrainian woman that was murdered.
+[01:08:13.999 --> 01:08:16.079]  And her name will be forgotten.
+[01:08:16.719 --> 01:08:18.559]  And we'll always be hearing about George Floyd.
+[01:08:18.719 --> 01:08:22.479]  And oh, you can show him getting killed, though he was really dying of a drug overdose.
+[01:08:22.639 --> 01:08:24.319]  That's in the autopsy.
+[01:08:26.159 --> 01:08:27.920]  But you can't show him killing her.
+[01:08:28.079 --> 01:08:32.799]  They cut out the video where he plunges the knife into her carotid artery.
+[01:08:34.719 --> 01:08:40.159]  So let's, and we keep putting it up there with the mayor because it's the blonde woman that got murdered.
+[01:08:40.639 --> 01:08:51.279]  It's the mayor we're putting up on screen, who, you know, I guess is racist against white people or something because she's saying that, you know, this is we shouldn't be talking about it.
+[01:08:51.920 --> 01:08:56.079]  Woman stabbed to death on Charlotte's train, suspect arrested after random attack.
+[01:08:56.319 --> 01:09:00.239]  Boy, if it had been a white guy stabbing a black lady in the neck, you'd be hearing it was racial.
+[01:09:00.399 --> 01:09:02.319]  End of the world, riots.
+[01:09:03.279 --> 01:09:08.079]  Ukrainian woman who fled war, stabbed to death at Charlotte rail station.
+[01:09:09.519 --> 01:09:16.239]  She escaped Russia's Ukraine war, only to be killed in the U.S. woman stabbed by ex-con shilling footage emerges.
+[01:09:16.559 --> 01:09:22.719]  So they cover it in India: the killing of Irina Zaruska.
+[01:09:24.319 --> 01:09:28.239]  And you go to Wikipedia, you can't even tell who did it.
+[01:09:29.119 --> 01:09:30.639]  So here's the mug shots.
+[01:09:30.799 --> 01:09:35.759]  We can pull this tweet up I did on X. Here's just some of his mugshots.
+[01:09:38.880 --> 01:09:48.000]  Her blood is on the hands of the state that freed her murderer 14 times instead of keeping him incarcerated.
+[01:09:48.319 --> 01:09:49.599]  And there he is.
+[01:09:51.839 --> 01:09:54.479]  Armed robberies, assaults, you name it.
+[01:09:55.359 --> 01:09:56.479]  And here's the mayor.
+[01:09:57.119 --> 01:10:06.239]  Charlotte Mayor V. Lyles issued a statement on the woman who was stabbed in the throat, suggests that people aren't being respectful by sharing footage of the incident.
+[01:10:06.880 --> 01:10:14.799]  Charlotte residents can rest assured, however, because Lyles says she is thinking hard about what safety really looks like in her city.
+[01:10:15.359 --> 01:10:16.479]  How about your Soros DAs?
+[01:10:16.639 --> 01:10:17.039]  We looked it up.
+[01:10:17.119 --> 01:10:17.599]  They are.
+[01:10:17.920 --> 01:10:19.759]  How about this guy should have been in jail?
+[01:10:20.079 --> 01:10:27.759]  The video of the heartbreaking attack that took Irina Zartuska's life is now public.
+[01:10:28.079 --> 01:10:35.439]  I want to thank our media partners, community members, who have chosen not to repost or share the footage out of respect for her family.
+[01:10:35.679 --> 01:10:36.479]  Oh, yeah.
+[01:10:37.119 --> 01:10:39.279]  This was a senseless and tragic loss.
+[01:10:39.519 --> 01:10:44.559]  My prayers remain with her loved ones as they continue to grieve through the unimaginable time.
+[01:10:44.719 --> 01:10:50.399]  Like so many of you, I'm heartbroken, and I've been thinking hard about what safety really looks like in our city.
+[01:10:50.559 --> 01:10:56.559]  I remain committed to doing all we can to protect our residents and ensure Charlotte is a place where everyone feels safe.
+[01:10:59.039 --> 01:11:02.239]  Now, let's show the shorter clip of this, the full screen run here.
+[01:11:02.319 --> 01:11:07.920]  I've got let's go ahead to show that clip.
+[01:11:08.239 --> 01:11:13.279]  And I posted it and said, white supremacy is the number one threat facing America, Joe Biden 2023.
+[01:11:13.599 --> 01:11:21.119]  Remember what you've seen the mayoral candidate in New York that's going to win, and the Somali candidate Islamicist is going to win in Minneapolis.
+[01:11:21.759 --> 01:11:24.479]  They say, I don't want to hear about crime in our cities.
+[01:11:24.639 --> 01:11:25.599]  It's white people.
+[01:11:26.239 --> 01:11:29.439]  They commit the most crime and they're the most dangerous.
+[01:11:29.679 --> 01:11:31.039]  And there's an epidemic of white crime.
+[01:11:31.279 --> 01:11:33.839]  And you go, because the DHS said that's fake.
+[01:11:34.000 --> 01:11:34.719]  That's a lie.
+[01:11:35.039 --> 01:11:37.119]  You want me to show you crime statistics?
+[01:11:37.439 --> 01:11:38.159]  I guess we will.
+[01:11:38.239 --> 01:11:44.079]  We'll do more on this because it's white people being framed as committing the majority of crime.
+[01:11:44.239 --> 01:11:49.920]  We're the quote majority and we commit a small portion of the crime.
+[01:11:51.199 --> 01:12:02.319]  You look up crime statistics, Asians, true Oriental Asians, not when they call Central, your Central Asians, Asians, Pakistanis, and others, but you cut those out.
+[01:12:02.399 --> 01:12:03.759]  They have a pretty high crime rate.
+[01:12:04.079 --> 01:12:12.239]  But for violent crime, it's Oriental Asians have the lowest, then whites, then Hispanics, then blacks.
+[01:12:12.559 --> 01:12:14.880]  Okay, that's just a fact.
+[01:12:17.039 --> 01:12:20.719]  But you ask the average liberal or whoever, they literally believe.
+[01:12:21.039 --> 01:12:33.279]  Guys, pull up the Somali Democrat Party winner for mayor, because they vote 80-something percent Democrats, so he'll win.
+[01:12:33.679 --> 01:12:38.559]  He's the new mayor, and he's in, just type in, forget his name.
+[01:12:38.719 --> 01:12:40.319]  He just says, nope, the whites commit all the crime.
+[01:12:40.479 --> 01:12:41.119]  They're the bad people.
+[01:12:41.439 --> 01:12:42.399]  So they're all over the place.
+[01:12:42.479 --> 01:12:43.920]  They teach it in college, teach it everywhere.
+[01:12:44.000 --> 01:12:51.039]  And I'm hearing how I'm a white devil and I commit all this crime and I'm robbing and stealing and killing and stabbing and murdering black people and epidemic of lynching.
+[01:12:51.119 --> 01:12:54.159]  And oh, look, Bubba Wallace, somebody tied a loop on the garage.
+[01:12:54.399 --> 01:12:57.119]  Oh, and Jossy Smallet, oh, the white man beat me up.
+[01:12:57.199 --> 01:12:59.599]  And all this stuff is made up.
+[01:13:01.519 --> 01:13:03.199]  Are there some white people kill black people?
+[01:13:03.359 --> 01:13:04.079]  Yeah, it happens.
+[01:13:04.239 --> 01:13:05.439]  And it's rare.
+[01:13:06.960 --> 01:13:09.759]  Did you know the police kill less than 100 black people a year?
+[01:13:09.840 --> 01:13:10.319]  Look it up.
+[01:13:10.559 --> 01:13:12.399]  And almost every one of it is justified.
+[01:13:12.559 --> 01:13:15.840]  In almost every case, black people called them there.
+[01:13:16.159 --> 01:13:18.639]  And most of the time, it's black cops.
+[01:13:20.799 --> 01:13:22.880]  Do cops occasionally kill an as a black person?
+[01:13:22.960 --> 01:13:23.199]  Yeah.
+[01:13:24.079 --> 01:13:27.199]  You know, you're twice as likely, not just because we're more whites.
+[01:13:27.439 --> 01:13:28.559]  No, per capita.
+[01:13:29.039 --> 01:13:29.439]  Look it up.
+[01:13:29.679 --> 01:13:30.719]  Anything I say, look it up, folks.
+[01:13:30.799 --> 01:13:31.840]  I don't make this stuff up.
+[01:13:32.159 --> 01:13:38.479]  You're twice as likely to be killed by the police if you are white than if you're black.
+[01:13:38.559 --> 01:13:39.759]  Now, why is that?
+[01:13:40.399 --> 01:13:48.719]  Because the cops know the Soros DAs, if something doesn't go right or they make a mistake, or they'll just say you made a mistake, we'll throw them in prison.
+[01:13:49.039 --> 01:13:55.599]  So the cops slow roll into black neighborhoods, and then that causes the breakdown of society.
+[01:13:55.920 --> 01:13:59.519]  And the black folks are saying, we want you here.
+[01:14:02.319 --> 01:14:04.719]  Blacks are 30% of the population.
+[01:14:07.759 --> 01:14:17.599]  Something like six percent is male, and it's less than 10 percent of that six percent that commit almost half the violent crime.
+[01:14:17.919 --> 01:14:22.159]  So, it the vast majority of black people aren't doing anything, they're just like everybody else.
+[01:14:22.319 --> 01:14:31.919]  It's a very small group, just like it's a very small group of whites doing it, mainly young people too, and the Hispanics.
+[01:14:32.559 --> 01:14:44.079]  So, just say what it is, and how are we going to fix this in these communities and get father figures in there and get God back in there and get law and order back in there instead?
+[01:14:44.239 --> 01:14:48.399]  It's open season on whites because the whites are the devil and whites are evil, and whites are the problem.
+[01:14:48.559 --> 01:14:52.879]  And it's a sport to push whites onto the oncoming trains and subways.
+[01:14:53.039 --> 01:14:58.079]  It's a sport to knock out game the old white people, it's a sport to stab and shoot the white people.
+[01:14:59.679 --> 01:15:00.799]  We all know that.
+[01:15:01.439 --> 01:15:03.679]  Go to World Star Hip Hop, look at it for yourself.
+[01:15:03.839 --> 01:15:04.239]  They love it.
+[01:15:04.959 --> 01:15:06.719]  They create big aggregates.
+[01:15:07.519 --> 01:15:11.279]  We could have the black on white crime channel if you wanted to.
+[01:15:12.799 --> 01:15:17.279]  Maybe we'll launch a channel like the crime channel and just show statistics all day and show you all the stuff.
+[01:15:17.359 --> 01:15:18.879]  And oh, here's Muslims raping and killing.
+[01:15:19.199 --> 01:15:20.959]  We'd have new stuff every five minutes.
+[01:15:21.399 --> 01:15:28.658]  It's open season in Australia, open season in Canada, open season in the US, open season all over Europe on white people.
+[01:15:28.679 --> 01:15:38.068]  And they import military-age men from all over the world to come here all over the world.
+[01:15:38.079 --> 01:15:40.559]  All the major Somali candidates winning across the country.
+[01:15:40.719 --> 01:15:46.319]  They've created compilations to say, I don't like America, and everything I do is for Somalia, and we're going to send our money back to Somalia.
+[01:15:46.559 --> 01:15:47.119]  I forget his name.
+[01:15:47.199 --> 01:15:48.879]  What's the name of the mayoral candidate that's set to win?
+[01:15:48.959 --> 01:15:52.719]  And no, no, no, no, that's Mom Donnie.
+[01:15:52.959 --> 01:15:53.279]  I know him.
+[01:15:53.359 --> 01:15:53.679]  I don't know.
+[01:15:53.839 --> 01:15:54.959]  I know my hold on a second.
+[01:15:55.359 --> 01:15:56.479]  Oh, I can't hear you just for a second.
+[01:15:56.639 --> 01:15:59.279]  I know it's Mom Donnie in New York.
+[01:15:59.599 --> 01:16:03.919]  I'm sorry, I forgot the name of the crazy eyes guy that says I'm the captain now in Minnesota.
+[01:16:03.999 --> 01:16:04.879]  What's his name?
+[01:16:05.839 --> 01:16:06.959]  Yeah, Omar Pata.
+[01:16:07.199 --> 01:16:08.079]  Sorry, I can remember his name.
+[01:16:08.319 --> 01:16:08.879]  Thank you guys.
+[01:16:08.959 --> 01:16:09.919]  Great job.
+[01:16:11.199 --> 01:16:15.679]  I can play you hours of Omar Fatah saying, I don't like America.
+[01:16:15.839 --> 01:16:16.879]  This is all for Somalia.
+[01:16:16.959 --> 01:16:24.399]  And the white people commit all the crime because the DHS says, and they did put that report out, but the number one threat facing America is white people.
+[01:16:24.719 --> 01:16:26.399]  I'm sick of being framed.
+[01:16:26.639 --> 01:16:29.279]  I'm sick of open season on people that look like me.
+[01:16:29.599 --> 01:16:31.519]  I don't want open season on black people.
+[01:16:31.839 --> 01:16:33.839]  I don't want open season on Hispanics.
+[01:16:34.159 --> 01:16:43.599]  I love everybody, but I will not sit here and be scapegoated and told I'm a white devil and I'm running around killing everybody and people that look like me are bad.
+[01:16:44.239 --> 01:16:53.679]  When if you want to go to statistics and you want to go out talk to black people in their neighborhoods, they'll tell you who they're scared of walking down the street at night.
+[01:16:53.999 --> 01:17:01.439]  And I'll assure you, it ain't Bubbas jumping out of a pickup truck to dump bleach on them and say we're from MAGA country and to try to lynch them.
+[01:17:01.759 --> 01:17:03.199]  Does that stuff happen every once in a while?
+[01:17:03.279 --> 01:17:07.199]  Yeah, it's terrible, but it's rare because you'd hear about all over the news.
+[01:17:10.079 --> 01:17:16.959]  Remember like 25 years ago in East Texas, there was a black guy that had been the leader of a black gang in prison.
+[01:17:17.279 --> 01:17:19.999]  And the white supremacist, that's how it is in prison, it's broken up into that.
+[01:17:20.239 --> 01:17:24.479]  They saw him walking down the road and they got him and drug him down the road and killed him.
+[01:17:24.719 --> 01:17:25.759]  Terrible.
+[01:17:26.079 --> 01:17:29.839]  But that was rival gang prison stuff.
+[01:17:30.079 --> 01:17:36.399]  That's about, I mean, literally, I can't think you've had a couple of crazy white supremacists go in black churches and shoot innocent black people.
+[01:17:36.479 --> 01:17:37.679]  It's terrible.
+[01:17:38.959 --> 01:17:40.719]  Absolutely shameful, disgusting.
+[01:17:40.959 --> 01:17:44.479]  I've got some videos of bikers beating up innocent black people.
+[01:17:44.719 --> 01:17:45.919]  I see a few of those a year.
+[01:17:46.319 --> 01:17:49.199]  Just how gangs operate, just as cowardly, just as stupid.
+[01:17:49.839 --> 01:17:53.599]  The point is, I show it and I decry it because it's wrong.
+[01:17:54.319 --> 01:18:03.999]  If white people got all over the news and started saying black people are inherently bad and need to be hurt, you would have crazy white people that hear that go out and start doing it.
+[01:18:05.519 --> 01:18:09.119]  But because the media pushes this, there's an idea that it's okay.
+[01:18:09.359 --> 01:18:19.359]  And then some woman whose ancestors never owned slaves, who knows nothing about this, she's so in the clouds, she has no idea riding around on the trains at night, isn't safe anywhere.
+[01:18:19.679 --> 01:18:21.279]  I sure as hell wouldn't.
+[01:18:21.919 --> 01:18:29.759]  I mean, I've been on New York trains at like midnight going from an event with a bunch of big dudes.
+[01:18:30.399 --> 01:18:33.759]  And I have repeatedly had groups of black people come up and start threatening us.
+[01:18:35.119 --> 01:18:36.319]  I can get Rob doing here tomorrow.
+[01:18:36.479 --> 01:18:36.799]  Tell a story.
+[01:18:36.879 --> 01:18:45.759]  One time it's like six foot six black guy, gray hair, big old guy, just comes up and says, I'm going to beat the hell out of us and start shoving us up against the wall.
+[01:18:46.079 --> 01:18:48.559]  And I didn't fight him because I didn't want to go to jail.
+[01:18:48.799 --> 01:18:49.919]  I'm like, hey, man, stop, stop.
+[01:18:50.079 --> 01:18:51.519]  And we had to jump off the train.
+[01:18:51.839 --> 01:18:53.839]  That's just one of the cases.
+[01:18:54.799 --> 01:18:56.399]  And we're just sitting there on the train.
+[01:18:56.559 --> 01:18:57.279]  But you know what it was?
+[01:18:57.439 --> 01:19:01.439]  There was a black reporter lady that said, I don't want to take a taxi.
+[01:19:01.759 --> 01:19:04.479]  I'm in this, I'm staying near the same place that you guys are.
+[01:19:04.799 --> 01:19:06.639]  So we had, there was like six or seven of us.
+[01:19:06.879 --> 01:19:10.239]  And so a black reporter just came with us and got off the train and went to her hotel.
+[01:19:10.399 --> 01:19:12.319]  He was like, what the hell are you doing with a black woman?
+[01:19:12.479 --> 01:19:14.959]  He was so racist that he would.
+[01:19:15.599 --> 01:19:18.719]  So again, folks, it's crazy, people.
+[01:19:19.199 --> 01:19:23.199]  And the racism that they have drilled into so many of these black people's heads is crazy.
+[01:19:23.519 --> 01:19:27.839]  And then the media wants to act like it's not going on instead of saying it's wrong.
+[01:19:28.799 --> 01:19:29.759]  Sorry, I'm ranting.
+[01:19:29.999 --> 01:19:35.519]  Go ahead and air the footage of the, well, it's cut out where he kills her, but he comes in for the stab.
+[01:19:35.839 --> 01:19:39.119]  And man, he kills her dead in a hammer, skewering her carotid artery here.
+[01:19:41.839 --> 01:19:44.639]  If a radio listener's train stops, she gets on.
+[01:19:46.399 --> 01:19:47.759]  Look how crazy this guy is.
+[01:19:47.999 --> 01:19:48.959]  Should have been locked up.
+[01:19:51.919 --> 01:19:53.759]  They need to reopen lunatic asylums.
+[01:19:54.079 --> 01:19:54.879]  I mean, look at this guy.
+[01:19:55.039 --> 01:19:56.959]  Armed robberies, assaults.
+[01:19:58.879 --> 01:20:00.479]  And then here comes the lady.
+[01:20:00.799 --> 01:20:06.479]  She just gets on, goes and sits down with this guy right behind her.
+[01:20:06.559 --> 01:20:07.199]  He's like, ooh.
+[01:20:07.839 --> 01:20:15.999]  Pulls out his little knife, opens it up, and plunges it into her carotid artery.
+[01:20:17.519 --> 01:20:19.039]  And people start going, ooh, what's going on?
+[01:20:19.279 --> 01:20:21.199]  And the police get there like in a minute.
+[01:20:22.159 --> 01:20:23.759]  And she's bleeding out.
+[01:20:26.239 --> 01:20:29.199]  She's got her American flag hat and the rest of it or whatever.
+[01:20:32.479 --> 01:20:34.159]  She has no idea what's about to happen to her.
+[01:20:34.399 --> 01:20:35.839]  Look at this guy behind her.
+[01:20:36.319 --> 01:20:38.719]  I'm just going to get my knife out and kill this lady.
+[01:20:39.599 --> 01:20:40.399]  Boom.
+[01:20:41.359 --> 01:20:45.839]  Now, can you imagine if a psychotic white person did that?
+[01:20:46.399 --> 01:20:48.639]  You would never hear the end of it.
+[01:20:49.279 --> 01:20:51.599]  And this stuff is happening to white people all the time.
+[01:20:51.839 --> 01:20:54.639]  And there's also crazy people out of Latin America.
+[01:20:54.959 --> 01:21:02.079]  You know, we've had them burning people alive, raping people, raping dead bodies, eating people.
+[01:21:06.799 --> 01:21:07.359]  All right.
+[01:21:08.479 --> 01:21:09.439]  It's out of control.
+[01:21:09.759 --> 01:21:17.999]  And when I posted this, people were posting under it, well, hey, there was a guy a few years ago in San Francisco, a crazy guy that stabbed a black lady to death.
+[01:21:18.079 --> 01:21:18.239]  Yeah.
+[01:21:18.399 --> 01:21:18.719]  And you know what?
+[01:21:18.799 --> 01:21:19.359]  I went and looked it up.
+[01:21:19.439 --> 01:21:21.919]  We covered that at the time.
+[01:21:22.479 --> 01:21:25.439]  But again, here's the difference.
+[01:21:26.399 --> 01:21:31.439]  The difference is it got covered by everybody, including us.
+[01:21:34.559 --> 01:21:36.479]  That's the difference.
+[01:21:37.759 --> 01:21:44.879]  Meanwhile, watch Baltimore residents praise Trump's crime crackdown and tell liberal hack Don Lemon they hope their city is next.
+[01:21:45.199 --> 01:21:47.039]  Yeah, these people aren't stabbing anybody.
+[01:21:47.199 --> 01:21:47.919]  They're getting stabbed.
+[01:21:47.999 --> 01:21:48.719]  They're getting shot.
+[01:21:49.039 --> 01:21:51.119]  And they talk about it in all these interviews in Chicago and Baltimore.
+[01:21:51.199 --> 01:21:52.639]  They're like, man, listen, I've been shot twice.
+[01:21:52.879 --> 01:21:54.399]  I've been shot three times.
+[01:21:55.039 --> 01:21:55.599]  You know.
+[01:21:58.479 --> 01:22:03.279]  And then you got all the fentanyl zombies, black and white, everything else, wandering around, killing millions of us.
+[01:22:03.359 --> 01:22:05.119]  And Trump finally starts bombing the people, bringing it in.
+[01:22:05.199 --> 01:22:05.839]  Oh, he's the devil.
+[01:22:05.999 --> 01:22:06.719]  Oh, God.
+[01:22:08.959 --> 01:22:11.759]  Some people claim white men are the real danger.
+[01:22:12.399 --> 01:22:14.479]  And this person said they're the real danger statistically.
+[01:22:14.559 --> 01:22:15.599]  I'm not attacking anybody.
+[01:22:15.919 --> 01:22:19.999]  But white on black violent crimes, 59,778.
+[01:22:21.919 --> 01:22:25.519]  Black on white violent crimes, 547,948.
+[01:22:25.999 --> 01:22:33.119]  Just for population size, black people commit violent crime against white people at a rate of 41 times that of the reverse.
+[01:22:33.439 --> 01:22:35.359]  And that's using some statistics from a few years ago.
+[01:22:35.599 --> 01:22:40.239]  It's about 15 times actually on average, but you can look at those numbers compared to the same demographic.
+[01:22:40.479 --> 01:22:41.919]  That is an accurate number there.
+[01:22:43.119 --> 01:22:45.039]  Okay, I'm done talking about that.
+[01:22:45.359 --> 01:22:54.239]  I got to move quick now because we've got a very powerful documentary on the Vegas shooting that I want to premiere next hour that you've got to see.
+[01:22:54.559 --> 01:22:57.759]  13 Strange None None to Tells about the Vegas shooting.
+[01:22:59.039 --> 01:23:00.639]  Part three of the documentary.
+[01:23:01.119 --> 01:23:12.239]  We're also going to have a special guest on and more, but I want to come back and I want to hit Trump on Chicago and what's really going on there and the other cities he's getting ready to deploy troops to.
+[01:23:13.199 --> 01:23:18.799]  And then I want to get into the boat being blown up, what's really happening there and J.D. Vance saying he didn't give enough.
+[01:23:19.199 --> 01:23:22.639]  Then I want to briefly hit Peter Thiel and his quote obsessionally anti-crowds.
+[01:23:22.719 --> 01:23:24.239]  Everybody keeps asking, why is he doing this?
+[01:23:24.319 --> 01:23:25.359]  Why is he obsessed with it?
+[01:23:25.519 --> 01:23:27.039]  Why is he saying this?
+[01:23:27.679 --> 01:23:28.639]  Well, I know the answer.
+[01:23:28.719 --> 01:23:29.759]  I'm not defending Thiel.
+[01:23:29.919 --> 01:23:35.359]  I think it makes it even more interesting and strange, but it's just everybody keeps asking the mystery.
+[01:23:35.439 --> 01:23:36.319]  So I thought I'd tell you.
+[01:23:36.399 --> 01:23:39.039]  You can do a little bit of research and find out very quickly.
+[01:23:39.359 --> 01:23:40.959]  But a lot of folks don't want to.
+[01:23:41.519 --> 01:23:44.559]  Before we go any further, remember, we are listener supported.
+[01:23:46.159 --> 01:23:48.799]  This is a defense to your freedom, a defense of the truth.
+[01:23:48.879 --> 01:23:52.799]  The bad guys want us off the air for a reason because we are moving the needle for freedom.
+[01:23:53.039 --> 01:23:54.719]  We are crushing tyranny together.
+[01:23:55.039 --> 01:23:56.879]  So please go to the autoshowstore.com.
+[01:23:57.039 --> 01:23:59.599]  The widest selection of incredible t-shirts.
+[01:23:59.919 --> 01:24:04.639]  We've got a new one of that Scottish girl with the hatchet and the knife defending her sister from getting kidnapped.
+[01:24:05.119 --> 01:24:09.279]  And it says, you know, the West has awoken very powerful graphic t-shirt I designed.
+[01:24:10.159 --> 01:24:15.039]  Got all the other great designs, the very best settlements, huge discounts on ultra-methylene blue.
+[01:24:15.999 --> 01:24:19.199]  50%, that sales about to end with subscription.
+[01:24:19.439 --> 01:24:20.239]  It's all there.
+[01:24:21.439 --> 01:24:22.799]  I haven't even told you about the deals yet.
+[01:24:22.879 --> 01:24:24.159]  I've kind of dropped the ball.
+[01:24:24.479 --> 01:24:25.519]  So I need to do that.
+[01:24:25.839 --> 01:24:26.479]  Let me do that.
+[01:24:26.559 --> 01:24:27.839]  I didn't plug it up.
+[01:24:28.879 --> 01:24:30.239]  And then we'll get into all the news straight ahead.
+[01:24:30.319 --> 01:24:34.639]  But whatever you do, share the live scenes from Real Hollows Jones on X and then FullWars.com forward slash show and Rumble.
+[01:24:34.719 --> 01:24:35.359]  Stay with us.
+[01:24:38.239 --> 01:24:38.799]  All right.
+[01:24:39.119 --> 01:24:42.639]  So this is something that is a real frustration for me.
+[01:24:42.799 --> 01:25:04.079]  And I could spend hours on it, but there are people that are totally black pilled and think Trump's totally sold out and doing no good when overall he's appointed a whole bunch of really good people, some bad people, and they're just dismantling globalism, devastating the poison shots, the fluoride in the water, securing the border 96%, ramping up deportations, just escalating.
+[01:25:04.399 --> 01:25:08.799]  And I know the backstory, the whole system to deport had been dismantled.
+[01:25:09.039 --> 01:25:13.839]  They are scaling it up with massive funding and facilities and people and just rushing in.
+[01:25:14.479 --> 01:25:24.799]  So call out the bad stuff, get Trump back on track or he's bad, but promote the good things that are happening and defend good people in this administration that are attacked like RFK Jr.
+[01:25:26.399 --> 01:25:29.599]  But the white-pilled people are even worse.
+[01:25:30.559 --> 01:25:34.319]  And I remember Roger Stone before the 2020 election, they said Trump's going to lose, just private.
+[01:25:34.479 --> 01:25:35.439]  He's admitted, he told me this.
+[01:25:35.519 --> 01:25:36.719]  He didn't want it out then.
+[01:25:37.039 --> 01:25:42.799]  He said, because he had a big landslide in 2016, it's not going to be big enough because of the fraud and all the stuff going on.
+[01:25:42.959 --> 01:25:44.159]  He's going to lose.
+[01:25:44.799 --> 01:25:45.439]  And I said, why?
+[01:25:45.599 --> 01:25:49.599]  And he goes, there's all these people that just think everything's fine, think he's invincible.
+[01:25:49.839 --> 01:25:52.239]  They think Hillary is in Gitmo.
+[01:25:52.559 --> 01:25:53.919]  They think there's been thousands of arrests.
+[01:25:53.999 --> 01:25:57.359]  They believe all these delusional grand juries are open.
+[01:25:57.519 --> 01:25:58.479]  Now they really are open.
+[01:25:58.799 --> 01:26:00.239]  And I'm not trying to attack the Q people.
+[01:26:00.479 --> 01:26:03.119]  So many of them are great and doing good reporting on real things.
+[01:26:03.439 --> 01:26:08.799]  They just go, look, on True Social, it said the world's not ready for what's coming.
+[01:26:09.119 --> 01:26:11.599]  And then there's a Q in the hand.
+[01:26:11.759 --> 01:26:14.559]  And you can look, it was fan-made from a Q channel.
+[01:26:14.799 --> 01:26:15.919]  And it's Trump's people.
+[01:26:16.159 --> 01:26:20.879]  I know the people that are just flooding True Social with mainly fan-made stuff.
+[01:26:21.119 --> 01:26:23.679]  He's posted a bunch of our stuff over the years.
+[01:26:24.639 --> 01:26:28.719]  Elon Musk has, for heaven's sake, so reposted a bunch of our stuff.
+[01:26:28.959 --> 01:26:31.279]  So I know how all this works.
+[01:26:32.239 --> 01:26:42.639]  And beyond the black pill, white pill crowd, Trump posted yesterday the colonel that was napalming everybody.
+[01:26:42.879 --> 01:26:44.799]  I love the smell of napalm in the morning.
+[01:26:45.119 --> 01:26:47.279]  Played by Robert Duvall, great film.
+[01:26:47.919 --> 01:26:51.679]  And if you post it, it says, I love the smell of deportations in the morning.
+[01:26:51.919 --> 01:26:55.359]  Chicago about to find out why it's called the Department of War.
+[01:26:55.679 --> 01:27:03.119]  And so mayors and representatives and senators said, oh my God, Trump's going to war with Chicago.
+[01:27:04.319 --> 01:27:11.999]  And Trump, he's the president, not these imaginary people that say they're talking to JFK Jr. in heaven.
+[01:27:13.519 --> 01:27:15.199]  He came out and said, that's pure crap.
+[01:27:15.359 --> 01:27:16.319]  We're not going to war.
+[01:27:16.559 --> 01:27:17.439]  Nobody should say that.
+[01:27:17.519 --> 01:27:18.079]  It's fake news.
+[01:27:18.159 --> 01:27:19.119]  It's terrible.
+[01:27:19.439 --> 01:27:22.799]  Now, the Q people will say that's 800 trillion chess.
+[01:27:24.959 --> 01:27:28.399]  No, it's that everything coming out of the Trump admin is not him.
+[01:27:28.719 --> 01:27:35.599]  Now I see the Q people going, Trump did warp speed to expose big pharma and kill 30 million people so we can defeat the globalists.
+[01:27:35.919 --> 01:27:39.919]  Now I've seen Q people saying because they're back again at flooding the zone.
+[01:27:40.559 --> 01:27:42.879]  Trump is going to have a fake war with Russia.
+[01:27:42.959 --> 01:27:46.479]  It'll be real troops and millions dead, but it's meant to bring down the new world order.
+[01:27:46.639 --> 01:27:52.559]  And Trump's secretly working with Xi Jinping and Putin to bring down the new world order.
+[01:27:53.519 --> 01:27:56.559]  And then they're like, look, the Russians are reposting Q stuff.
+[01:27:58.159 --> 01:28:02.879]  The Russians, I'm not going to say, are as aggressive as China.
+[01:28:03.199 --> 01:28:04.719]  And we are the ones messing with them.
+[01:28:05.039 --> 01:28:09.199]  But no, folks, it is Russian policy to sow that stuff.
+[01:28:09.439 --> 01:28:11.279]  That's not true.
+[01:28:12.159 --> 01:28:14.959]  There's not a secret deal with Trump and Putin and Xi Ji Ping.
+[01:28:15.919 --> 01:28:17.839]  China's our main adversary.
+[01:28:19.119 --> 01:28:24.719]  So again, here's Trump saying, no, we're not at war with Chicago.
+[01:28:24.879 --> 01:28:27.039]  We're trying to stop the crime.
+[01:28:28.639 --> 01:28:35.199]  So then you've got the True Social putting something out that was fan-made.
+[01:28:35.839 --> 01:28:41.999]  When Trump puts out a post on X or True Social and he says, DJT, thank you for your consideration.
+[01:28:42.319 --> 01:28:43.439]  You've seen documentaries.
+[01:28:43.519 --> 01:28:44.479]  I've seen him do it myself.
+[01:28:44.799 --> 01:28:45.999]  He sits there and dictates.
+[01:28:46.079 --> 01:28:46.959]  I do it to the crew as well.
+[01:28:47.039 --> 01:28:49.359]  A lot of times I write it myself, but I'll say, hey, write this because I'm on here.
+[01:28:49.519 --> 01:28:50.799]  It's on the voice memo.
+[01:28:53.279 --> 01:28:56.959]  And so when it's signed by Trump, he said it.
+[01:28:57.279 --> 01:29:06.799]  But you can't take everything that comes out on True Social is, oh my God, finally, after, you know, Eight years, he finally recognized the Q thing.
+[01:29:07.439 --> 01:29:11.679]  It's crazy town, absolute crazy town.
+[01:29:12.319 --> 01:29:14.959]  Okay, these people don't have access to Trump.
+[01:29:15.119 --> 01:29:16.399]  They don't have access to any of this stuff.
+[01:29:16.479 --> 01:29:17.519]  I'm going to stop there.
+[01:29:17.839 --> 01:29:18.319]  I do.
+[01:29:18.559 --> 01:29:20.079]  I'll be gone a little bit next week.
+[01:29:20.159 --> 01:29:21.439]  I'll leave it at that.
+[01:29:24.319 --> 01:29:29.519]  General Flynn tried to be nice to Q people because there was a lot of nice people out there.
+[01:29:29.919 --> 01:29:32.319]  People go, Well, wait, you said Q is real, but now you say it's not.
+[01:29:32.399 --> 01:29:33.759]  And they take the clips out of context.
+[01:29:34.399 --> 01:29:38.559]  Yes, there were people inside the Trump administration that wanted to be able to post stuff anonymously to expose things.
+[01:29:38.799 --> 01:29:39.599]  They wouldn't get sued.
+[01:29:39.759 --> 01:29:40.559]  They told me about it.
+[01:29:40.799 --> 01:29:44.159]  A few months into it, they said, Yeah, this is getting taken away from us by other groups.
+[01:29:44.479 --> 01:29:47.119]  You know, disinfo, we're abandoning it.
+[01:29:47.439 --> 01:29:48.799]  And I could see that's where it was going.
+[01:29:49.039 --> 01:29:52.559]  The Q people never show me, say, the rest of it.
+[01:29:52.639 --> 01:29:55.039]  They go, Wait, he said it was real, but now he's not.
+[01:29:55.279 --> 01:29:55.919]  Do you understand?
+[01:29:56.079 --> 01:30:01.199]  People can run a good psyop so you can post stuff and not get sued like I did anonymously.
+[01:30:01.279 --> 01:30:05.039]  But then once you say you're anonymous, anybody can start twisting what that anonymous message is.
+[01:30:05.359 --> 01:30:05.999]  Do you understand?
+[01:30:06.159 --> 01:30:07.359]  We broke the NSA spying.
+[01:30:07.439 --> 01:30:08.399]  We broke CrossFire Hurricane.
+[01:30:08.559 --> 01:30:08.879]  Do you understand?
+[01:30:08.959 --> 01:30:10.719]  I'm targeted with national security by Obama.
+[01:30:10.879 --> 01:30:11.359]  Do you understand?
+[01:30:11.439 --> 01:30:14.319]  We broke the NSA spying on Trump with Sheriff of Pyle.
+[01:30:14.399 --> 01:30:14.879]  Do you understand?
+[01:30:14.959 --> 01:30:16.159]  I'm a real person.
+[01:30:17.999 --> 01:30:22.639]  There's this mentally ill Q thing where, well, Q first exposed the Federal Reserve was private.
+[01:30:22.719 --> 01:30:27.919]  Well, as Q said there was spying on Trump.
+[01:30:28.559 --> 01:30:30.559]  That thing didn't exist till after we exposed it.
+[01:30:30.639 --> 01:30:31.919]  And I'm not in competition with it.
+[01:30:32.239 --> 01:30:34.559]  I'm in competition with all the delusion.
+[01:30:34.799 --> 01:30:38.799]  And all these Q people I see, they're like, oh my God, we're going to have a major war with Russia.
+[01:30:39.039 --> 01:30:40.559]  Millions will die, but it's for the greater good.
+[01:30:40.639 --> 01:30:42.079]  And it's all trillion DHS.
+[01:30:42.239 --> 01:30:46.719]  And yeah, yeah, the warp speed killed all the people, but Trump did it so he'd wake up.
+[01:30:47.039 --> 01:30:48.479]  No, he was conned.
+[01:30:48.719 --> 01:30:50.399]  I've talked to Kennedy about the conversations.
+[01:30:50.639 --> 01:30:51.759]  Tapes of it have been leaked.
+[01:30:51.919 --> 01:30:56.719]  Trump put him in there so he can't admit he was wrong to change it.
+[01:30:59.199 --> 01:31:01.119]  That is the reality.
+[01:31:05.199 --> 01:31:13.759]  So to say nothing is random, obviously everything has some meaning, but to just start seeing all this magical stuff and believe there's this magical government.
+[01:31:13.999 --> 01:31:15.359]  Everything works magically.
+[01:31:15.679 --> 01:31:17.439]  I talk to the task force leaders.
+[01:31:17.759 --> 01:31:19.039]  I talk to the White House.
+[01:31:19.279 --> 01:31:24.399]  I hear their frustrations and how they're infiltrated and all the stuff that goes on.
+[01:31:24.719 --> 01:31:26.559]  I'm involved with policy ideas.
+[01:31:26.719 --> 01:31:28.319]  I know how it works.
+[01:31:28.639 --> 01:31:30.239]  And it doesn't just magically work.
+[01:31:30.399 --> 01:31:31.199]  Trust the plan.
+[01:31:31.279 --> 01:31:33.599]  As one goes, we all go or whatever.
+[01:31:33.919 --> 01:31:34.559]  I'm ranting.
+[01:31:34.719 --> 01:31:36.079]  I got a lot more to head.
+[01:31:36.719 --> 01:31:39.839]  But that's why you're second rate.
+[01:31:39.919 --> 01:31:45.839]  Trump slaps down fake news reporter asking if he's going to war with Chicago.
+[01:31:46.479 --> 01:31:47.519]  Terrible optics.
+[01:31:47.759 --> 01:31:49.679]  Not a good idea, whoever put that out.
+[01:31:49.999 --> 01:31:58.319]  But now they'll go, that's the 87 quadrillion bazillion, zazillion, to million chess where he does this, but now he does that and he is going to war.
+[01:31:58.399 --> 01:32:01.119]  Why Hillary's held secretly in Chicago with Obama?
+[01:32:01.279 --> 01:32:02.559]  They were executed there.
+[01:32:03.439 --> 01:32:14.239]  It's just, it's just because you got a lot of people waking up, but they don't have any knowledge base or depth or his history.
+[01:32:14.479 --> 01:32:17.519]  So they just believe all this esoteric Gnostic stuff.
+[01:32:18.719 --> 01:32:34.079]  Classic cult stuff, because that's how it got snatched away from a thing just to leak stuff and not get attacked when we got WikiLeaks stuff and things, to then being grabbed by other groups to then put out disinfo and then manipulate people.
+[01:32:35.999 --> 01:32:39.759]  People that would ask me before Q came along, do you support anonymous?
+[01:32:40.399 --> 01:32:45.519]  And I'd go, you mean anybody putting on a guy fox mask and a voice changer and then saying they represent some group?
+[01:32:45.679 --> 01:32:49.039]  You could have good groups doing some good things under the name anonymous, some people doing bad things.
+[01:32:49.359 --> 01:32:51.279]  They go, no, no, anonymous is one thing.
+[01:32:51.439 --> 01:32:51.759]  Yeah.
+[01:32:52.148 --> 01:32:53.028]  No, it's not.
+[01:32:53.038 --> 01:33:09.257]  Anything esoteric, anything occult, meaning hidden, meaning Gnostic, meaning you don't know, is the operating ground of cloak and dagger for manipulation.
+[01:33:10.639 --> 01:33:14.879]  That's why I always said we are doing a frontal assault on the new world order.
+[01:33:15.199 --> 01:33:20.479]  Out in the open, bona fide, your real name, who you are, what you stand for.
+[01:33:21.119 --> 01:33:24.879]  And that's why it's the same Q-tard types that then say, I'm a clone or I'm not real.
+[01:33:24.959 --> 01:33:26.719]  Because see, the real things aren't real.
+[01:33:26.959 --> 01:33:27.999]  The fantasy is real.
+[01:33:28.239 --> 01:33:34.879]  And they're all in their secret little alliance with the super friends fighting the new world order with Trump.
+[01:33:36.479 --> 01:33:38.399]  And it creates this, just trust the plan.
+[01:33:38.559 --> 01:33:40.319]  It's going to look, everything's really horrible.
+[01:33:40.559 --> 01:33:41.039]  Remember that?
+[01:33:41.119 --> 01:33:42.319]  Oh, the lockdowns are good.
+[01:33:42.399 --> 01:33:45.599]  Trump's using the lockdowns to round up all the Clintons and people.
+[01:33:45.839 --> 01:33:46.879]  Remember all that?
+[01:33:47.199 --> 01:33:49.119]  I had prominent people call me who were really nice.
+[01:33:49.199 --> 01:33:50.479]  They go, is it the Q thing?
+[01:33:50.719 --> 01:33:52.639]  Should we just go along with these lockdowns, everything?
+[01:33:52.799 --> 01:33:54.799]  This is because they're rounding up and arresting all the bad guys.
+[01:33:54.879 --> 01:33:56.559]  I said, no, they're getting ready to steal the election.
+[01:33:56.799 --> 01:33:58.799]  Read Podesta's documents.
+[01:33:59.599 --> 01:34:04.479]  That's how we predict real things is actually engaging in real research.
+[01:34:06.719 --> 01:34:08.639]  So here is Trump.
+[01:34:09.599 --> 01:34:16.879]  Not what they posted on True Social that a fan made saying, no, we're not going to war with Chicago, and that's terrible.
+[01:34:17.199 --> 01:34:19.439]  Are you going to believe him or the post?
+[01:34:19.759 --> 01:34:20.719]  Here it is.
+[01:34:25.679 --> 01:34:26.719]  I think the Department of Defense.
+[01:34:26.879 --> 01:34:28.159]  Listen, be quiet.
+[01:34:28.399 --> 01:34:28.719]  Listen.
+[01:34:29.039 --> 01:34:29.839]  You don't listen.
+[01:34:29.999 --> 01:34:30.719]  You never listen.
+[01:34:31.119 --> 01:34:33.039]  That's why you're second grade.
+[01:34:33.359 --> 01:34:34.399]  We're not going to war.
+[01:34:34.639 --> 01:34:36.079]  We're going to clean up our city.
+[01:34:36.399 --> 01:34:39.519]  We're going to clean them up so they don't kill five people every weekend.
+[01:34:39.759 --> 01:34:40.719]  That's not war.
+[01:34:40.879 --> 01:34:41.759]  That's common sense.
+[01:34:43.359 --> 01:34:47.119]  Just like Speaker Johnson said, Trump was an FBI informant that first exposed Epstein.
+[01:34:47.279 --> 01:34:47.839]  I don't just believe him.
+[01:34:47.919 --> 01:34:48.319]  It's true.
+[01:34:48.479 --> 01:34:49.759]  Reported years ago.
+[01:34:50.399 --> 01:34:52.079]  But Trump's like, it's all a hoax.
+[01:34:52.159 --> 01:34:53.439]  The Epstein's whole hoax.
+[01:34:53.519 --> 01:34:55.039]  He means what they left in the files is.
+[01:34:55.119 --> 01:34:56.799]  And I agree with that and know that.
+[01:34:57.119 --> 01:35:00.639]  But he's not messaging right because he's busy.
+[01:35:02.239 --> 01:35:05.759]  So that's what's happening here.
+[01:35:06.399 --> 01:35:07.439]  And there's a lot more of these.
+[01:35:07.599 --> 01:35:12.399]  National Guard could be deployed to Portland, Oregon to counter any ICE protest.
+[01:35:15.599 --> 01:35:21.839]  Breaking Chicago's building at wall, not to stop the criminals, but illegals, but to stop Trump.
+[01:35:21.999 --> 01:35:22.559]  How hilarious.
+[01:35:22.719 --> 01:35:24.879]  I want to play that here in a few minutes.
+[01:35:25.679 --> 01:35:27.119]  Let's play this video first, though.
+[01:35:27.279 --> 01:35:32.159]  Mass marauders destroy windows of Chicago Rolex shop during broad daylight heists.
+[01:35:32.239 --> 01:35:33.519]  Mass shooting videos.
+[01:35:33.839 --> 01:35:34.479]  We've got it all.
+[01:35:34.559 --> 01:35:35.039]  But don't worry.
+[01:35:35.119 --> 01:35:36.399]  They're building fences.
+[01:35:36.719 --> 01:35:39.679]  So the military can't get in.
+[01:35:39.999 --> 01:35:41.599]  What the hell?
+[01:35:43.199 --> 01:35:45.439]  Absolutely insane.
+[01:35:45.679 --> 01:35:49.519]  Meanwhile, Maryland man Garcia to be sent to Africa.
+[01:35:49.839 --> 01:35:50.559]  But look at this guy.
+[01:35:50.639 --> 01:35:51.599]  I see this guy all the time.
+[01:35:51.759 --> 01:35:53.119]  He seems so nice.
+[01:35:53.439 --> 01:35:55.519]  And he just has this stare of just wonderment.
+[01:35:55.599 --> 01:35:56.479]  And things are so great.
+[01:35:56.639 --> 01:35:57.359]  Everything's perfect.
+[01:35:57.599 --> 01:35:58.879]  And just trust the plan.
+[01:35:59.119 --> 01:35:59.999]  Everything's handled.
+[01:36:00.079 --> 01:36:03.679]  And it's just, oh, and, oh, oh, and, you know, don't worry.
+[01:36:03.759 --> 01:36:04.719]  He's with Bill Gates.
+[01:36:04.959 --> 01:36:07.519]  You know, that's part of the trillion D chess and all the rest of it.
+[01:36:07.599 --> 01:36:10.159]  And we had to let him do all this, you know, so he'd expose it.
+[01:36:10.479 --> 01:36:11.839]  And at a level, that's true.
+[01:36:12.159 --> 01:36:14.079]  You keep your friends close, your enemies closer.
+[01:36:14.159 --> 01:36:16.559]  He knows Gates has been fighting against him and doing all this.
+[01:36:16.879 --> 01:36:18.319]  So I understand that part.
+[01:36:18.959 --> 01:36:24.399]  But to say warp speed was to then expose Big Pharma and the globalists when they conned him and set him up.
+[01:36:24.559 --> 01:36:26.639]  And he came out a week ago and says, look like they set me up.
+[01:36:26.719 --> 01:36:27.679]  We're investigating it.
+[01:36:27.839 --> 01:36:29.199]  That's what I've been advising him to do.
+[01:36:29.359 --> 01:36:30.959]  And Roger Stone, everybody in Kennedy.
+[01:36:31.119 --> 01:36:32.079]  And now he's doing it.
+[01:36:32.319 --> 01:36:34.879]  You know, RFK Jr. really advises Trump.
+[01:36:35.119 --> 01:36:37.519]  You know, Roger Stone really advises him.
+[01:36:38.079 --> 01:36:39.039]  Not nebulous.
+[01:36:39.279 --> 01:36:43.839]  Oh, JFK Jr.'s here with the grassy kno.
+[01:36:44.559 --> 01:36:47.359]  And they go to Vegas and believe some dude in a podium is him.
+[01:36:47.519 --> 01:36:50.239]  I mean, it is just like, Q didn't really say that.
+[01:36:50.399 --> 01:36:51.999]  Yeah, well, you people did.
+[01:36:52.559 --> 01:36:57.679]  And that's what it's designed to be, a LARPing, like Dungeons and Dragons for politics stuff.
+[01:36:58.959 --> 01:37:03.919]  And every time I see this guy, he is just like absolutely has this just stare.
+[01:37:04.079 --> 01:37:06.159]  It's just, oh, oh, we've won.
+[01:37:06.239 --> 01:37:06.959]  Everything's perfect.
+[01:37:07.199 --> 01:37:08.559]  Oh, the Trillion D chess.
+[01:37:08.719 --> 01:37:10.959]  It's, oh, oh, my God, it's so good.
+[01:37:11.199 --> 01:37:13.279]  Oh, oh, so wonderful.
+[01:37:14.719 --> 01:37:15.599]  Go ahead and listen to this.
+[01:37:15.679 --> 01:37:16.479]  Here it is.
+[01:37:17.119 --> 01:37:17.679]  All right, y'all.
+[01:37:17.759 --> 01:37:18.079]  We just got it.
+[01:37:18.159 --> 01:37:19.119]  We got to calm down a little bit.
+[01:37:19.199 --> 01:37:20.159]  We got to calm down a little bit.
+[01:37:20.399 --> 01:37:21.999]  Everybody's so worked up over yesterday.
+[01:37:22.079 --> 01:37:23.039]  They see Trump here.
+[01:37:23.279 --> 01:37:24.959]  Melania, Bill Gates.
+[01:37:25.199 --> 01:37:26.799]  Oh, my gosh, Mark Zuckerberg.
+[01:37:26.959 --> 01:37:30.559]  Guys, do you guys haven't figured out yet?
+[01:37:30.799 --> 01:37:32.959]  Do you guys not know what Trump does?
+[01:37:33.519 --> 01:37:33.999]  Well, hold on.
+[01:37:34.079 --> 01:37:34.719]  Let me remind you.
+[01:37:34.959 --> 01:37:36.399]  Quick little reminder.
+[01:37:37.359 --> 01:37:38.719]  This is what he does.
+[01:37:39.039 --> 01:37:40.719]  He doesn't silence his enemies.
+[01:37:40.879 --> 01:37:43.839]  He puts them right in front of the limelight.
+[01:37:43.999 --> 01:37:45.039]  Get right in front of the cameras.
+[01:37:45.199 --> 01:37:46.479]  Show the people who you are.
+[01:37:46.799 --> 01:37:49.119]  That's what he does every single time, right?
+[01:37:49.439 --> 01:37:51.119]  Okay, so let's just take your notch down.
+[01:37:51.279 --> 01:37:51.999]  It's going to be okay.
+[01:37:52.159 --> 01:37:52.639]  I promise you.
+[01:37:52.719 --> 01:37:59.599]  He's not best friends with Bill Gates or Mark Zuckerberg or everyone that was at this big tech gathering yesterday.
+[01:37:59.839 --> 01:38:00.879]  But I wanted to show you this.
+[01:38:01.199 --> 01:38:02.559]  Very infamous Q post.
+[01:38:03.039 --> 01:38:04.559]  Last post on Q board.
+[01:38:04.799 --> 01:38:07.599]  Goes through all this about what is coded in your DNA.
+[01:38:08.159 --> 01:38:08.399]  God.
+[01:38:08.799 --> 01:38:08.959]  Okay.
+[01:38:09.199 --> 01:38:11.919]  Well, at the bottom, it says there's a war for your DNA.
+[01:38:12.799 --> 01:38:15.679]  Well, who's kind of in charge of that war for our DNA?
+[01:38:15.999 --> 01:38:27.359]  If you think about yesterday, you saw RFK Jr. destroy, destroy the CDC and all the hearings that he had yesterday, right?
+[01:38:27.679 --> 01:38:27.999]  Okay.
+[01:38:28.559 --> 01:38:36.479]  So we have exposure of what's going on with the CDC and who developed, who developed a lot of these things.
+[01:38:37.359 --> 01:38:39.599]  You don't think it was Bill Gates?
+[01:38:40.239 --> 01:38:49.519]  You don't think Mark Zuckerberg had a lot to do with the censorship and the propaganda put out to push these horrible things that destroy your DNA?
+[01:38:50.079 --> 01:38:52.239]  You guys see what's going on here?
+[01:38:52.559 --> 01:38:54.159]  Yesterday wasn't a coincidence.
+[01:38:54.639 --> 01:39:01.279]  Yesterday was the exposure of the real enemy, the enemy of our health, the enemy of our DNA.
+[01:39:01.919 --> 01:39:06.319]  And Trump's bringing them all to the limelight, showing the people who they really are.
+[01:39:06.639 --> 01:39:08.239]  So sit back, relax, enjoy the show.
+[01:39:08.399 --> 01:39:09.119]  This is popcorn.
+[01:39:09.519 --> 01:39:12.079]  Yeah, I got popcorn for the 30 million dead from the shots.
+[01:39:12.159 --> 01:39:20.079]  And the, yeah, like we said in 2009 on Ventura's show, that they're going to give you a shot that cuts off your immune system and attacks your DNA.
+[01:39:20.159 --> 01:39:20.959]  That's in the documents.
+[01:39:21.279 --> 01:39:27.119]  Oh, but 8chan said there's a war for our DNA years and years and years after it's all out in the open.
+[01:39:27.439 --> 01:39:31.359]  It's just like, oh, look, 8-Chan said the sky is blue.
+[01:39:31.599 --> 01:39:33.759]  Oh, the profoundness of this.
+[01:39:34.959 --> 01:39:36.399]  No, that's Bill Gates and them.
+[01:39:36.479 --> 01:39:39.039]  They're lobbying him to get Kennedy off their ass.
+[01:39:39.119 --> 01:39:39.519]  That's true.
+[01:39:39.759 --> 01:39:43.919]  So a lot of what he says is true, but it's like, just sit back and get the popcorn.
+[01:39:44.159 --> 01:39:47.119]  You can shove the popcorn up your ass.
+[01:39:47.999 --> 01:39:50.559]  We are barely winning right now.
+[01:39:50.879 --> 01:39:53.039]  Do not be black-pilled and do not give up.
+[01:39:53.359 --> 01:39:55.919]  Do not be white-pilled and sit back and everything's fine.
+[01:39:56.159 --> 01:39:58.319]  Be engaged, be informed, be involved.
+[01:39:58.479 --> 01:40:01.359]  Pray for the Holy Spirit to lead God and direct you.
+[01:40:04.239 --> 01:40:07.839]  We are in the thick of the battle right now.
+[01:40:10.079 --> 01:40:11.919]  This is so intense.
+[01:40:14.399 --> 01:40:21.999]  And Milani is a great lady, but she's like, oh, we need to use pre-crime to ban the trannies from owning guns.
+[01:40:22.319 --> 01:40:23.919]  And then the DOJ proposes it.
+[01:40:24.239 --> 01:40:26.079]  And the NRA comes out and says, it's a horrible idea.
+[01:40:26.159 --> 01:40:31.279]  And the liberals are like, well, that's that's that's crazy.
+[01:40:31.919 --> 01:40:35.919]  They want to set the precedent to ban one group from having guns as a class and they can do it for everybody.
+[01:40:36.239 --> 01:40:36.559]  All right?
+[01:40:37.119 --> 01:40:43.199]  Just because predominantly black males, young males are more likely to commit crime, doesn't mean you take black people's guns.
+[01:40:45.439 --> 01:40:49.199]  Trump is DOJ considering banning trans people from buying guns.
+[01:40:49.519 --> 01:40:53.199]  Even the NRA is against Trump team plan to ban trans people from owning guns.
+[01:40:53.439 --> 01:40:55.279]  No, but the ones hoping the center can be violent.
+[01:40:55.359 --> 01:40:56.399]  We got to go after them.
+[01:40:56.719 --> 01:40:58.639]  So I'm done talking about that.
+[01:40:59.279 --> 01:41:11.279]  It's just extremely, extremely frustrating to see people that don't have political knowledge, geopolitical knowledge, historical context, trying to import off of vagaries.
+[01:41:11.359 --> 01:41:17.439]  But I've always noticed that if we just have some story and a host guest says something vague, everybody loves it.
+[01:41:18.079 --> 01:41:29.839]  And then we're like, cold, hard facts, they take the cancer cells of this dead black woman that take over anything you put them on and they mix it in with salmon or beef or whatever and create huge vats of this cancer meat.
+[01:41:30.079 --> 01:41:33.759]  And now Texas and 10 states banned it and Bill Gates is suing Texas.
+[01:41:34.079 --> 01:41:43.519]  That is sensational and we need to get people awake behind fighting it to not eat this garbage, but because it's so real, so hardcore, no one cares.
+[01:41:44.799 --> 01:41:46.239]  It's crazy.
+[01:41:47.759 --> 01:41:50.399]  So I'll do the Peter Thiel thing tomorrow.
+[01:41:50.479 --> 01:41:50.879]  I don't have time.
+[01:41:50.959 --> 01:41:58.319]  I got this all because I got this big documentary on Vegas, very powerful coming up, then a special interview and more in the next few hours.
+[01:41:58.639 --> 01:41:59.919]  But let me show you this.
+[01:42:02.399 --> 01:42:09.679]  As we pointed out, over 80% of the migrant children smuggled in under Biden, and the Border Patrol estimates it's 1.1 million.
+[01:42:09.759 --> 01:42:15.039]  Now they've confirmed 476,000.
+[01:42:15.679 --> 01:42:20.799]  And the HHS has found a bunch of them because DHS wasn't allowed to keep track of them.
+[01:42:21.119 --> 01:42:27.359]  That they would bring a vanilla envelope, whoever handed the kid over, was going to three months old with a phone number.
+[01:42:27.679 --> 01:42:30.239]  And they ordered ICE to call that number.
+[01:42:30.479 --> 01:42:34.319]  And then the people would send a group or van to get the kid or they'd fly him there.
+[01:42:35.599 --> 01:42:43.999]  And they would allow known human traffickers and others and smugglers to wire the money as well.
+[01:42:44.319 --> 01:42:47.839]  And that's what we've had from whistleblowers that have been in Congress and others here.
+[01:42:48.159 --> 01:42:51.359]  And I can tell you that they now have grand juries open.
+[01:42:51.599 --> 01:42:57.679]  There's already been quite a few arrests of DHS people involved and others that were going along with these groups and we're working with them.
+[01:42:57.839 --> 01:43:01.999]  But this was ordered by Mayorkas and others and we need indictments of them.
+[01:43:03.119 --> 01:43:13.679]  Just in Pam Bonnie reveals the Biden regime allowed the transfer of over $7 million from the trafficking of children, from the money of it, into the U.S. via just one smuggler.
+[01:43:13.919 --> 01:43:15.999]  They worked with the smugglers.
+[01:43:16.319 --> 01:43:17.679]  They worked with the cartels.
+[01:43:17.839 --> 01:43:19.839]  The Biden regime is complicit in trafficking.
+[01:43:19.999 --> 01:43:20.879]  Here she is.
+[01:43:21.759 --> 01:43:27.839]  Destroyed drives up their profit margins no longer.
+[01:43:28.159 --> 01:43:32.559]  We are investigating and prosecuting their crimes more aggressively than ever.
+[01:43:32.879 --> 01:43:37.199]  And Joint Task Force Alpha is the tip of the spear.
+[01:43:37.519 --> 01:43:41.679]  We have been working on that with Secretary Christy Noam, Homeland Security.
+[01:43:41.999 --> 01:43:44.879]  And I cannot say enough good things about Secretary Noam.
+[01:43:44.959 --> 01:43:51.999]  I was with her in Louisiana yesterday, and she is fighting to keep our country safe every single day.
+[01:43:52.479 --> 01:43:59.599]  This just this week, Joint Task Force Alpha took four major enforcement actions.
+[01:43:59.919 --> 01:44:10.479]  Right here in Tampa, we unsealed the indictment charging 12 defendants operating a massive, right here in Tampa, a massive illegal smuggling ring.
+[01:44:10.799 --> 01:44:16.879]  The defendants engaged in a conspiracy to bring illegal aliens from Cuba to the U.S. for profit.
+[01:44:17.199 --> 01:44:34.319]  They coached their clients, including children who came to airports alone, came to our country alone, were put on planes for connecting flights, lied to Border Patrol agents due to coaching, and law enforcement.
+[01:44:34.639 --> 01:44:39.999]  They charged up to $40,000 per victim.
+[01:44:40.319 --> 01:44:52.959]  They used Zell to transfer over $7 million over the course of this scheme, and I believe had profits cash of over $18 million.
+[01:44:54.159 --> 01:44:56.879]  And it's just not the southern border.
+[01:44:57.199 --> 01:45:11.359]  In Vermont, and U.S. Attorney Drescher is here with us, we indicted Norma Lorenzo, a woman who allegedly worked with Canadian co-conspirators from Guatemala, Honduras, Mexico, and El Salvador.
+[01:45:11.679 --> 01:45:27.599]  Children were transferred to private residences, other airports, and in 2023, according to CBP, parts of Vermont and New York started seeing unprecedented traffic from illegal aliens.
+[01:45:27.919 --> 01:45:43.519]  Law enforcement officers operating in these areas encountered aliens from 97 different countries, including China, Pakistan, Iraq, Iran, Afghanistan, North Korea, and Yemen.
+[01:45:44.159 --> 01:45:59.439]  In the southern district this week of Texas, and Nick Ganji's here, we secured the extradition of three men from Guatemala who have been charged in connection with a mass casualty alien smuggling event.
+[01:45:59.759 --> 01:46:08.639]  This tragic event occurred in 2021 in Chiapas, Mexico, Chiapas, Mexico.
+[01:46:08.959 --> 01:46:19.119]  A semi-truck containing at least 160 illegal aliens crashed, resulting in the deaths of more than 50 people.
+[01:46:19.439 --> 01:46:23.839]  The cost of human smuggling is huge.
+[01:46:24.479 --> 01:46:26.079]  So many families are dying.
+[01:46:26.319 --> 01:46:27.839]  So many people are dying.
+[01:46:28.159 --> 01:46:45.759]  These smugglers used a variety of vehicles, including micro buses, tractor trailers, and cattle trucks to smuggle multiple Guatemalan aliens, including many unaccompanied minors, into this country.
+[01:46:46.079 --> 01:47:00.399]  In the Western District of Texas, where Justin Simmons is our U.S. Attorney, we just this week charged four defendants with their role in a deplorable scheme smuggling unaccompanied children into the United States from Mexico.
+[01:47:00.639 --> 01:47:16.319]  These monsters behind the operation drugged unaccompanied children coming into our country, giving them THC so they would be asleep when passing through customs.
+[01:47:16.639 --> 01:47:22.559]  One of the children was overdosed so badly that the child had to go to the hospital.
+[01:47:23.199 --> 01:47:43.199]  Since President Trump took office, Joint Task Force Alpha has charged 56 defendants, including convicting a monster who attempted to bring in Indian nationals into our country in sub-zero weather through Canada in the middle of a blizzard.
+[01:47:43.519 --> 01:47:45.359]  This was a family of four.
+[01:47:45.679 --> 01:48:01.999]  This family was eventually found dead in a blizzard with the father holding the three-year-old little boy wrapped in a blanket with his glove covering his child's face trying to save his life.
+[01:48:02.639 --> 01:48:12.799]  In June, we arrested a Canadian-American citizen in New York for charging $1,000 for every illegal alien he smuggled over the St. Lawrence River into our country.
+[01:48:13.119 --> 01:48:19.039]  One of the boats capsized, killing a family, including two children under the age of three.
+[01:48:19.359 --> 01:48:22.559]  A few weeks ago, we convicted a coyote in Texas.
+[01:48:22.719 --> 01:48:28.959]  A coyote, of course, is someone who transports illegal aliens across state lines for money.
+[01:48:29.279 --> 01:48:39.359]  In Texas, we charged him for charging $30,000 for every 10 illegal aliens that he could get to the Rio Grande.
+[01:48:39.679 --> 01:48:47.599]  He got an additional $30,000 for every 10 illegal aliens that made it across the Rio Grande alive.
+[01:48:48.399 --> 01:48:53.119]  That is why we are now expanding Joint Task Force Alpha.
+[01:48:53.759 --> 01:48:55.439]  It has five steps.
+[01:48:55.759 --> 01:48:57.839]  We will now cover the task force.
+[01:48:57.919 --> 01:49:04.399]  We'll now cover our northern border in Canada, of course, and all of our maritime borders.
+[01:49:05.039 --> 01:49:18.559]  Our incredible partner again at DHS, Christine Om, and I are expanding this to include our DEA, ATF, and FBI agents to this task force to give us even more manpower.
+[01:49:18.879 --> 01:49:30.799]  We will receive more resources to prosecute these cases and key figures in cartel, human trafficking, and transnational criminals.
+[01:49:31.439 --> 01:49:47.039]  We will strengthen our collaboration with foreign law enforcement throughout this world to protect not only their citizens, but ours and return these criminals to American soil for prosecution.
+[01:49:47.999 --> 01:50:00.959]  Under President Trump, we have coordinated more closely with our U.S. attorneys' offices to protect unaccompanied children being smuggled into our country from exploitation.
+[01:50:02.479 --> 01:50:12.319]  One of the task force's greatest accomplishments has been demonstrating how dangerous human smuggling and trafficking are for those being transported.
+[01:50:12.639 --> 01:50:20.559]  For those who are considering paying to be smuggled into the U.S., it is not safe for you or for your families.
+[01:50:20.879 --> 01:50:32.159]  These coyotes are coordinating with terrorist organizations, collecting money from them to bring families and unaccompanied children into our country.
+[01:50:32.479 --> 01:50:35.759]  These operations are getting people killed.
+[01:50:36.079 --> 01:50:36.879]  Let me be clear.
+[01:50:37.039 --> 01:50:43.439]  If you smuggle human beings, you will be found, you will be prosecuted, and you will be brought to justice.
+[01:50:43.759 --> 01:50:45.759]  It doesn't matter where you are.
+[01:50:46.079 --> 01:50:48.799]  It doesn't matter what our borders are.
+[01:50:49.119 --> 01:51:05.119]  The limit of where our country ends and another begins, but it does not limit our law enforcement capabilities to bring you to the United States and prosecute you and lock you up for as long as we can.
+[01:51:05.439 --> 01:51:07.599]  Thank you and God bless you.
+[01:51:10.159 --> 01:51:12.399]  Please remember, I cannot do this without you.
+[01:51:12.639 --> 01:51:13.759]  And there is a huge deal.
+[01:51:13.839 --> 01:51:15.519]  I didn't even know this was going right now.
+[01:51:15.839 --> 01:51:20.879]  Of ultramethylene blue for 50% off the liquid or the capsules.
+[01:51:21.199 --> 01:51:24.399]  When you become a subscriber, you can cancel anytime.
+[01:51:24.719 --> 01:51:27.119]  But it gets delivered every month and you lock in the lower price.
+[01:51:27.199 --> 01:51:28.639]  That's a huge deal.
+[01:51:29.919 --> 01:51:31.919]  You need to not procrastinate, folks.
+[01:51:32.079 --> 01:51:33.839]  And it is so amazing, so good for you.
+[01:51:33.999 --> 01:51:35.359]  Robert of Kennedy Jr. talks about it.
+[01:51:35.439 --> 01:51:36.079]  We have the best.
+[01:51:36.399 --> 01:51:40.319]  You can also get one bottle of Shiloh Gummies or capsules, get another bottle half off.
+[01:51:40.639 --> 01:51:42.399]  There's 25% off on all the apparel.
+[01:51:42.479 --> 01:51:43.279]  That's about to end.
+[01:51:43.599 --> 01:51:46.319]  These are amazing products and they keep the broadcast on the air.
+[01:51:46.479 --> 01:51:47.439]  I want to thank you all for your support.
+[01:51:47.519 --> 01:51:49.039]  A lot of amazing new t-shirt designs.
+[01:51:49.119 --> 01:51:50.079]  They're limited edition.
+[01:51:50.319 --> 01:51:56.159]  Here's Meg's popular athlete and podcaster talking about her experience with our ultramethylene blue.
+[01:51:57.119 --> 01:51:57.599]  Hey, y'all.
+[01:51:57.759 --> 01:52:03.039]  So I wanted to pop on here before I headed out and tell you about a product that I have fallen in love with.
+[01:52:03.359 --> 01:52:09.919]  And it's comical because my friends know that I usually think everything's a scam from supplements and products and vitamins.
+[01:52:10.159 --> 01:52:11.119]  I don't take anything.
+[01:52:11.359 --> 01:52:17.119]  I usually buy it, try it, don't feel the results, end up tossing it and wasting money.
+[01:52:17.439 --> 01:52:20.319]  So I love Alex Jones and the Infowars crew.
+[01:52:20.639 --> 01:52:27.519]  And Alex kept playing this video of Robert Kennedy Jr. putting some blue drops in what looked like water.
+[01:52:27.839 --> 01:52:30.079]  And I wanted a way to support the team.
+[01:52:30.399 --> 01:52:33.359]  And so I decided to buy this methylene blue.
+[01:52:33.439 --> 01:52:37.519]  And I actually bought two, got one for free.
+[01:52:37.839 --> 01:52:38.159]  Okay.
+[01:52:38.959 --> 01:52:40.319]  Thank you, Alex.
+[01:52:41.279 --> 01:52:42.079]  We love you.
+[01:52:42.639 --> 01:52:45.439]  This methylene blue, it is tremendous.
+[01:52:45.599 --> 01:52:47.919]  I would not be making this video if I didn't believe in it.
+[01:52:48.239 --> 01:52:52.319]  After I take it throughout the day, I start feeling better and better and better.
+[01:52:52.639 --> 01:52:53.599]  My workouts.
+[01:52:53.919 --> 01:52:57.199]  I feel like I'm 15 years younger than I am.
+[01:52:57.519 --> 01:53:03.999]  And the app that I record my running on proves that my workouts are out of time.
+[01:53:05.119 --> 01:53:06.559]  Sunday Night Live is about to start.
+[01:53:06.719 --> 01:53:09.119]  Chase is going to be back next week.
+[01:53:09.439 --> 01:53:16.959]  So much more coming up, but this Vegas documentary is much watch, amazing filmmaker, dead on information.
+[01:53:17.279 --> 01:53:19.599]  And then I've got a special guest coming up and more.
+[01:53:19.759 --> 01:53:21.359]  Stay with us from here, the Paul Revere's.
+[01:53:21.439 --> 01:53:25.279]  Show the live feed right now at RealAlex Jones on X. Two more hours coming up.
+[01:53:25.519 --> 01:53:29.039]  Big clips of the shows will be posted on Xband.video and on Rumble.
+[01:53:29.119 --> 01:53:29.759]  Be sure and share those.
+[01:53:29.839 --> 01:53:30.799]  You're the Paul Revere's.
+[01:53:30.879 --> 01:53:31.599]  Great job with the crew.
+[01:53:31.679 --> 01:53:32.879]  We'll be right back in two minutes.
+[01:53:32.959 --> 01:53:33.759]  Stay with us.
+[01:53:35.279 --> 01:53:37.199]  What really makes a nutraceutical work?
+[01:53:37.359 --> 01:53:38.479]  What is a nutraceutical?
+[01:53:38.559 --> 01:53:39.519]  What is a supplement?
+[01:53:39.759 --> 01:53:41.999]  Yeah, I mean, let's just talk about PowerPlant, for example.
+[01:53:42.239 --> 01:53:47.039]  So MethylDrive is something that everyone, whether they're 12 or whether they're 90, they should all take it.
+[01:53:47.439 --> 01:53:49.519]  PowerPlant is a little bit more specific.
+[01:53:49.679 --> 01:53:51.039]  It's good for both men and women.
+[01:53:51.279 --> 01:53:57.439]  I would say it has a stronger, more pronounced factor on the younger side, especially people that are into high-intensity exercise.
+[01:53:57.759 --> 01:54:05.519]  Key ingredient in that is cordyceps, which increases your oxygen carrying capacity, but it also increases ATP and it also helps you make new mitochondria.
+[01:54:05.759 --> 01:54:10.959]  So imagine taking something like cordyceps found in PowerPlant and then combining it with methyl drive.
+[01:54:11.039 --> 01:54:15.039]  But oh, wait, there's also total male mineral support in PowerPlant.
+[01:54:15.279 --> 01:54:19.359]  We've got zinc, which increases luteinizing hormone, which makes you produce more testosterone.
+[01:54:19.599 --> 01:54:25.999]  But then to counteract the rise in sex hormone binding globulin, we include boron in it to increase your free testosterone.
+[01:54:26.159 --> 01:54:27.919]  That's something that normal formulas don't do.
+[01:54:28.239 --> 01:54:32.639]  We've got the thing that creates free testosterone in your body in PowerPlant, according to studies.
+[01:54:32.879 --> 01:54:33.599]  That's mainline.
+[01:54:33.679 --> 01:54:34.319]  You can Google it.
+[01:54:34.639 --> 01:54:36.399]  And not all CoQ10 is the same, right?
+[01:54:36.559 --> 01:54:37.839]  Everyone should take CoQ10.
+[01:54:37.919 --> 01:54:45.839]  Listen, and if you're going to take CoQ10, you're going to go to some store or some pharmacy and they're going to try to sell you a bottle with the same amount that's in here for like 50 bucks.
+[01:54:46.159 --> 01:54:48.799]  You get CoQ10 plus four other ingredients with this.
+[01:54:49.199 --> 01:54:49.839]  And the same amount.
+[01:54:49.999 --> 01:54:50.399]  Same amount.
+[01:54:50.559 --> 01:54:51.119]  It's incredible.
+[01:54:51.279 --> 01:54:53.599]  We make this stuff for you and for ourselves.
+[01:54:53.839 --> 01:54:57.279]  Everyone at the Infowars office is gobbling these supplements left and right.
+[01:54:57.519 --> 01:54:59.919]  That's why I made these is so I could take them.
+[01:55:00.159 --> 01:55:02.559]  And then you designed it to go with our ultramethylene blue.
+[01:55:02.799 --> 01:55:03.039]  Absolutely.
+[01:55:03.119 --> 01:55:03.759]  That's the key.
+[01:55:03.999 --> 01:55:08.239]  Before any man or woman, young and old, if you're on methylene blue, you got to take it.
+[01:55:08.559 --> 01:55:09.839]  Everybody loves the formulas.
+[01:55:09.919 --> 01:55:13.439]  And I've noticed if I take both together, the energy is totally insane.
+[01:55:13.759 --> 01:55:15.279]  Each one is very strong on its own.
+[01:55:15.519 --> 01:55:19.199]  Methyl drive is something that every person in the country should take.
+[01:55:19.759 --> 01:55:22.399]  So the methylene blue is like the engine and gasoline.
+[01:55:22.719 --> 01:55:24.559]  These products together is a nitrous oxide.
+[01:55:24.719 --> 01:55:24.879]  Exactly.

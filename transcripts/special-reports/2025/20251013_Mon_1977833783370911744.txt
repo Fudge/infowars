@@ -1,0 +1,1 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, and large-v3-turbo

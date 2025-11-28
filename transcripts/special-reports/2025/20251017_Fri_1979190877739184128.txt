@@ -1,0 +1,12 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, and large-v3-turbo
+[00:00:01.280 --> 00:00:02.960]  Hell yeah, bro.
+[00:00:05.120 --> 00:00:11.040]  All right, today is your last chance to win the Corvette on the AlexJones store.com.
+[00:00:11.359 --> 00:00:13.040]  50x entries.
+[00:00:13.359 --> 00:00:18.559]  We got a J6er in there right now, peeling out 56 entries right now on the AlexJonesStore.com.
+[00:00:18.800 --> 00:00:21.199]  Your last chance to win this incredible machine.
+[00:00:21.519 --> 00:00:22.480]  Look at this.
+[00:00:22.800 --> 00:00:23.600]  Oh, yeah.
+[00:00:25.120 --> 00:00:26.879]  Go to the AlexJonesStore.com right now.
+[00:00:26.960 --> 00:00:30.879]  Get a free bottle of nitric boost with every order and win this Corvette.
+[00:00:30.960 --> 00:00:32.160]  Your last chance is today.
+[00:00:32.480 --> 00:00:33.119]  Get it right now.

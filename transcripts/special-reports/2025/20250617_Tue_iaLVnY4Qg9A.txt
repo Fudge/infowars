@@ -1,0 +1,1728 @@
+# Transcription model: large-v3-turbo, custom faster_whisper
+[00:00:00.000 --> 00:00:04.259]  Speaking of war, I'm going to ask you what everybody is wondering.
+[00:00:04.620 --> 00:00:08.640]  Everybody that's going to be tuning in wants to know what you think about what's going on.
+[00:00:08.740 --> 00:00:10.230]  Are we going to World War III?
+[00:00:26.229 --> 00:00:31.410]  Today's guest on episode four needs no introduction, but I'm going to introduce him anyways.
+[00:00:31.750 --> 00:00:33.450]  He's my good friend, Alex Jones.
+[00:00:34.210 --> 00:00:35.670]  Thank you for coming on the show, Alex.
+[00:00:35.929 --> 00:00:37.509]  Sean, it's great to be here with you, buddy.
+[00:00:38.570 --> 00:00:39.670]  You look great, by the way.
+[00:00:40.149 --> 00:00:40.969]  Well, thanks to you.
+[00:00:42.530 --> 00:00:47.030]  You and Joe Rogan challenged me, what, 10, 11 months ago to stop being a fat ass.
+[00:00:47.270 --> 00:00:47.670]  Mm-hmm.
+[00:00:48.030 --> 00:00:52.509]  So, just for those that, I mean, really, I'm so new to the scene.
+[00:00:52.810 --> 00:00:59.149]  Everybody's like, who the fuck is this guy, Sean Johnson, and how the fuck does he have Alex Jones sitting across from him on his fourth episode?
+[00:00:59.509 --> 00:01:08.930]  Well, me and Alex started working out September 1st of last year, and since then, he's lost almost 70 pounds, over 65 pounds.
+[00:01:08.930 --> 00:01:12.989]  He's nearly dropped 70 pounds, and we work out every single morning together.
+[00:01:14.010 --> 00:01:17.469]  Two hours at least every single morning, me and Alex are in the gym.
+[00:01:17.870 --> 00:01:21.230]  Or we're hiking or we're in the sauna or the cold plunge.
+[00:01:21.730 --> 00:01:31.989]  And honestly, like from an instructor, like a fitness instructor perspective, he's one of the best clients you could possibly get because he shows up motivated every single day.
+[00:01:32.209 --> 00:01:35.010]  And sometimes I have to steer him to keep him focused.
+[00:01:35.769 --> 00:01:41.250]  But as far as a client, you can't ask for a better client.
+[00:01:41.430 --> 00:01:42.430]  So good job.
+[00:01:42.430 --> 00:01:43.349]  I'm very proud of you.
+[00:01:43.669 --> 00:01:47.368]  Well, you've done great too, Sean, and you also...
+[00:01:49.890 --> 00:01:57.650]  Anybody that says this is the way, in anything I've noticed, it's a cult and they're trying to territorialize what they're doing.
+[00:01:57.930 --> 00:02:03.090]  But you, it's this full spectrum, all the different schools of thought all integrated together.
+[00:02:03.209 --> 00:02:03.790]  It's amazing.
+[00:02:03.969 --> 00:02:06.829]  And the nutrition advice, the intermittent fasting.
+[00:02:07.349 --> 00:02:11.150]  We started September 1st of 2024.
+[00:02:11.509 --> 00:02:12.949]  So what is that, 10, 11 months?
+[00:02:15.639 --> 00:02:18.979]  I guess that's like 10 months or less.
+[00:02:19.379 --> 00:02:20.080]  What are we in?
+[00:02:20.199 --> 00:02:21.620]  We're in fifth month?
+[00:02:21.740 --> 00:02:23.080]  No, we're in the sixth month right now.
+[00:02:23.099 --> 00:02:25.500]  So plus three, carry that one.
+[00:02:25.740 --> 00:02:25.860]  Yeah.
+[00:02:26.259 --> 00:02:27.759]  We're at about nine months.
+[00:02:27.840 --> 00:02:28.960]  Wow, I keep saying longer.
+[00:02:29.139 --> 00:02:29.460]  I know.
+[00:02:29.719 --> 00:02:30.319]  Nine months?
+[00:02:30.379 --> 00:02:30.539]  Yeah.
+[00:02:31.099 --> 00:02:37.590]  And I've been in my doctor that I get checkups from, and, you know, they've done my body fat index and all that.
+[00:02:37.599 --> 00:02:41.020]  And they predict, I mean, they think I probably gained 15 pounds of muscle.
+[00:02:41.039 --> 00:02:48.379]  So if I've lost weight, That means we got an 80-pound differential.
+[00:02:48.620 --> 00:02:50.419]  So really, that's 80 pounds of fat.
+[00:02:50.740 --> 00:02:51.240]  80 pounds.
+[00:02:51.360 --> 00:02:51.860]  80 pounds.
+[00:02:51.960 --> 00:02:56.460]  And I still want to go to another 10. You know, the issue is I had so many injuries.
+[00:02:56.460 --> 00:03:01.759]  I have no Achilles because I just waited in blue 12 years ago, and it finally is completely gone.
+[00:03:02.159 --> 00:03:05.639]  So I do that, and I just train myself to walk on it.
+[00:03:06.139 --> 00:03:09.740]  And then I have, of course, rips in my left shoulder, old tears.
+[00:03:09.780 --> 00:03:11.159]  I've had that checked and scanned.
+[00:03:11.829 --> 00:03:14.150]  Just recently, and they're like, yeah, how are you doing this?
+[00:03:15.229 --> 00:03:22.449]  One deep and one right here, and then a bicep tendon tear that I had to get fixed five years ago, but I didn't realize it was torn up at the top, too.
+[00:03:22.870 --> 00:03:24.349]  So I've got some pretty serious injuries.
+[00:03:24.449 --> 00:03:28.270]  That's why we couldn't really do a lot of upper body the first three, four, five months.
+[00:03:28.349 --> 00:03:31.090]  But you said, hey, listen, if you're not going to get surgery, you said you probably should.
+[00:03:32.129 --> 00:03:33.349]  Everything you said was dead on.
+[00:03:33.490 --> 00:03:35.169]  You said you should then just go ahead and just work it out.
+[00:03:35.188 --> 00:03:37.728]  in my experience, it'll probably come back.
+[00:03:37.728 --> 00:03:47.080]  And so now I can actually do, you know, some basic, um, Because when I was younger, I quit working out when I was about 21 because I got into radio and TV and stuff.
+[00:03:47.159 --> 00:03:52.599]  I was so busy, I just went from working out every day and was in really good shape back then to not working out really ever other than here and there.
+[00:03:53.020 --> 00:03:55.879]  And that's how I slowly got fatter and fatter and more out of shape.
+[00:03:56.620 --> 00:04:02.199]  But back then, I could bench press 400 pounds, squat 600.
+[00:04:02.439 --> 00:04:03.939]  I mean, I was in really good shape naturally.
+[00:04:04.520 --> 00:04:12.800]  And then coming back, if you remember nine months ago or so, I mean, I was, I think you said, like, one of the most unhealthy, out-of-shape people you've ever trained.
+[00:04:12.960 --> 00:04:13.099]  Yeah.
+[00:04:13.560 --> 00:04:14.900]  But I was dedicated.
+[00:04:14.900 --> 00:04:16.740]  You just incrementally built me up.
+[00:04:16.860 --> 00:04:19.720]  And some days we did two-a-days where we'd work out and do a hike.
+[00:04:20.720 --> 00:04:22.399]  But the biggest thing was intermittent fasting.
+[00:04:22.560 --> 00:04:28.019]  I mean, I lost, it's got to be 20 pounds the first month and a half, just intermittent fasting.
+[00:04:28.519 --> 00:04:30.100]  It was exactly what you told me.
+[00:04:30.199 --> 00:04:32.139]  You said, first few days, you're going to be grumpy.
+[00:04:32.139 --> 00:04:33.879]  You might even get dizzy, drink a lot of water.
+[00:04:33.879 --> 00:04:34.759]  You're going to feel like crap.
+[00:04:35.117 --> 00:04:36.449]  But you said, just...
+[00:04:37.600 --> 00:04:40.879]  You can do what Joe does, where he eats a little bit of fruit and some protein early in the morning.
+[00:04:41.360 --> 00:04:44.019]  And then he doesn't eat until about 7 at night, and that's it.
+[00:04:44.160 --> 00:04:45.240]  That's like a double fast.
+[00:04:45.439 --> 00:04:50.160]  Or you can eat between, say, noon and like 6 or 7 o 'clock.
+[00:04:50.259 --> 00:04:56.740]  Well, I decided to do it between 3 and 8. And I religiously did it for at least the first six months.
+[00:04:57.399 --> 00:05:00.139]  And that's when it just, boom, came off.
+[00:05:00.300 --> 00:05:05.639]  And then now, most days, I don't eat until about 2. But I don't, you know, sometimes the weekend, you know.
+[00:05:06.189 --> 00:05:07.850]  I'll take my kids to breakfast or whatever.
+[00:05:08.389 --> 00:05:09.850]  Or, you know, some days I do cheat days.
+[00:05:09.970 --> 00:05:14.250]  But now, I just, but two days into it, I felt terrible.
+[00:05:14.550 --> 00:05:17.069]  Three days into it, suddenly I had all this energy, felt great.
+[00:05:17.230 --> 00:05:20.250]  And like a month into it, it'd be three o 'clock, I'd be off the air.
+[00:05:20.529 --> 00:05:23.649]  I had to make myself want to even eat.
+[00:05:23.970 --> 00:05:27.370]  And then you were like, hey, you're losing weight a little too fast.
+[00:05:27.930 --> 00:05:29.529]  Make sure you get more protein.
+[00:05:29.870 --> 00:05:31.810]  Make sure you eat a lot during that window.
+[00:05:31.810 --> 00:05:32.529]  So I did that.
+[00:05:32.670 --> 00:05:33.769]  So I tried to put muscle on it first.
+[00:05:34.399 --> 00:05:35.480]  You know, it really came off.
+[00:05:35.620 --> 00:05:36.420]  I even lost some muscle.
+[00:05:37.019 --> 00:05:42.000]  But now that I'm really following what you said, I mean, I'm not trying to get big, and I'm getting big.
+[00:05:42.639 --> 00:05:44.420]  I don't want to get, like, super yoked.
+[00:05:44.480 --> 00:05:45.699]  I want to be lean and mean.
+[00:05:45.720 --> 00:05:48.360]  But it's amazing.
+[00:05:48.639 --> 00:05:55.620]  Well, one of the first things I do when, you know, new clients come to me is I ask them, what sports did you play back in high school?
+[00:05:55.980 --> 00:05:56.339]  Right?
+[00:05:56.560 --> 00:06:00.860]  Because I can learn a lot about somebody's body type based off of what they did in high school.
+[00:06:01.199 --> 00:06:02.779]  Whether they were a wrestler.
+[00:06:02.779 --> 00:06:04.579]  That tells me a lot about them.
+[00:06:04.939 --> 00:06:06.079]  A football player.
+[00:06:06.240 --> 00:06:06.839]  A track star.
+[00:06:07.379 --> 00:06:12.480]  A lot of times when we're young, that's when you see what you're good at.
+[00:06:12.560 --> 00:06:13.399]  What your body's good at.
+[00:06:13.480 --> 00:06:17.899]  The school systems, the athletic programs are very good at identifying what you're good at.
+[00:06:18.360 --> 00:06:21.620]  Then we become adults and it slips away.
+[00:06:21.860 --> 00:06:24.360]  Then you start to lose testosterone.
+[00:06:24.360 --> 00:06:26.480]  You start to lose motivation.
+[00:06:26.860 --> 00:06:27.339]  Drive.
+[00:06:29.439 --> 00:06:35.120]  Usually, typically, everybody will go through this period of their life where it's like there's nobody there to push them.
+[00:06:35.279 --> 00:06:38.759]  There's nobody there to hold them accountable and make them show up to practice.
+[00:06:39.019 --> 00:06:39.699]  And there's no motivation.
+[00:06:39.699 --> 00:06:40.779]  You're not trying to get laid.
+[00:06:40.779 --> 00:06:43.040]  You're not trying to get a girlfriend, whatever.
+[00:06:43.399 --> 00:06:48.060]  So it's like you get married, you have kids, and then everything just drops off the map.
+[00:06:48.389 --> 00:06:55.280]  So then there comes a point in their kind of like early, maybe mid to late thirties where they're like, Oh fuck.
+[00:06:55.300 --> 00:06:56.100]  Right.
+[00:06:56.100 --> 00:06:58.650]  And they're trying to reestablish.
+[00:07:01.579 --> 00:07:02.420]  And I did the same thing.
+[00:07:02.560 --> 00:07:09.459]  When I hit about 35, I'd gained about 40 pounds compared to like the 80 to 90 that I was overweight last year.
+[00:07:10.300 --> 00:07:22.939]  And I started trying to get back to swimming, trying to get back to the gym, but I never got habituated to it because from football and from all the sports I did, track, and I wasn't like a track star.
+[00:07:23.040 --> 00:07:25.720]  I could have traded better, but I was pretty good.
+[00:07:26.640 --> 00:07:30.120]  I got addicted to working out in high school and then after.
+[00:07:30.339 --> 00:07:46.139]  And then as soon as I got really successful in business and media, I was just so busy working late hours and I was editing and making documentary films on top of it, doing a TV show, radio show, all this at like 21. I just suddenly, I worked out at the YMCA then down on Town Lake, beautiful facility.
+[00:07:46.480 --> 00:07:50.480]  And I just was like, I was in there for like two hours and I looked like a Calvin Klein model.
+[00:07:50.910 --> 00:07:54.709]  But I had all these business and all these calls, and I remember walking out of there and never coming back.
+[00:07:54.889 --> 00:07:58.170]  And then I went years, like four or five years not even going to a gym again.
+[00:07:58.329 --> 00:08:03.110]  It was like suddenly I lost the addiction because now I'm back being addicted.
+[00:08:03.329 --> 00:08:05.589]  Like somebody's like, hey, we worked out 14 days in a row.
+[00:08:05.709 --> 00:08:06.350]  Let's take a day off.
+[00:08:06.430 --> 00:08:07.069]  You need to take a couple.
+[00:08:07.129 --> 00:08:08.050]  And I'm like, no, I don't want to.
+[00:08:08.350 --> 00:08:13.389]  So what's great for people to understand is you've just got to get the endorphins, and everybody's the same, folks.
+[00:08:13.449 --> 00:08:16.629]  You've just got to get into it, go through the pain, through hating.
+[00:08:17.110 --> 00:08:22.480]  But with me, I mean, within us working out, Two, three months, I hit the addiction point.
+[00:08:22.860 --> 00:08:31.439]  And now the addiction point is, I'm like, man, I'm supposed to go pick my, you know, eight-year-old up from camp and, you know, take her here and there.
+[00:08:31.459 --> 00:08:32.659]  And I'm like, I'm going to take her for a hike.
+[00:08:32.779 --> 00:08:37.200]  Or I'm like, oh, here I'm going to hand her off, you know, to the nanny.
+[00:08:38.200 --> 00:08:44.779]  I'm going to go, you know, in the garage and, like, do 500 setups and a bunch of push-ups.
+[00:08:44.940 --> 00:08:47.159]  I mean, but that's a healthy thing.
+[00:08:47.159 --> 00:08:48.659]  So I've now reached the addiction point.
+[00:08:49.120 --> 00:08:55.759]  And how would you say, since we've started this process, it's coming up on a year now, how would you say it's changed your life?
+[00:08:56.000 --> 00:08:57.419]  Well, it's only nine months, really.
+[00:08:57.899 --> 00:09:05.499]  Yeah, but how would you say, how have you noticed this affecting your day-to-day, your stress levels, right, with everything going on in your world?
+[00:09:05.519 --> 00:09:17.548]  I don't know a single person on this planet that has more, maybe Elon Musk, maybe Donald Trump, but other than those two, I don't know anybody else in the world that has as much going on in their lives.
+[00:09:19.338 --> 00:09:23.937]  How would you say that working out every single morning has affected that?
+[00:09:28.340 --> 00:09:32.080]  And so I got into fighting tyranny knowing I could get put in prison or killed.
+[00:09:32.080 --> 00:09:36.779]  So I already expected all that signing up for what I did for the battle for the Take Back America.
+[00:09:36.940 --> 00:09:37.820]  And that's the real war.
+[00:09:38.120 --> 00:09:39.879]  So I've never felt sorry for myself.
+[00:09:40.059 --> 00:09:41.639]  I've expected even worse things to happen.
+[00:09:41.940 --> 00:09:44.440]  So it's kind of already pre-baked in.
+[00:09:58.490 --> 00:10:06.029]  And now when I get hit with big attacks, literally within 30 minutes, I process it.
+[00:10:06.809 --> 00:10:09.769]  It still hits me a little bit, like, why am I being attacked?
+[00:10:09.929 --> 00:10:11.309]  These people are asking me I didn't do what they're saying.
+[00:10:11.389 --> 00:10:13.269]  You know, just today, a bunch of stuff came in, a big attack.
+[00:10:13.629 --> 00:10:20.419]  But within like 10 minutes, I was already, like, actually liking it and ready for the new challenge and enjoying it.
+[00:10:20.740 --> 00:10:27.340]  And back when I was fried a year ago, you know, it would take me a day to process and, like, get over a new attack.
+[00:10:27.559 --> 00:10:28.759]  And now 10 minutes.
+[00:10:29.820 --> 00:10:31.720]  So it's that which doesn't kill.
+[00:10:31.720 --> 00:10:32.460]  It only makes you stronger.
+[00:10:32.539 --> 00:10:33.940]  And within 30 minutes, I'm loving it.
+[00:10:34.100 --> 00:10:36.279]  I'm already figuring out how I'm going to totally defeat the enemy.
+[00:10:36.720 --> 00:10:40.519]  So it's because as above, so below.
+[00:10:40.700 --> 00:10:41.740]  Just your body.
+[00:10:43.140 --> 00:10:47.980]  Your physical muscles, your sinew, your bones, all of that's connected to your spinal cord, your brain.
+[00:10:48.100 --> 00:10:49.539]  It's all one operating system.
+[00:10:49.779 --> 00:11:00.539]  And so what I found is working out and getting in shape and eating healthier has boosted my overall mental acuity massively.
+[00:11:01.159 --> 00:11:04.759]  I feel crisper and more focused when I was like 20 years old.
+[00:11:04.919 --> 00:11:09.679]  It's the most important faculty in your life that a lot of people don't prioritize, right?
+[00:11:09.899 --> 00:11:11.559]  I have my best epiphanies.
+[00:11:12.000 --> 00:11:15.899]  Like an hour into it, 60, 70, 80 minute workout with you, you know, dick draggers we do.
+[00:11:16.340 --> 00:11:26.460]  And like when my blood is rushing and we're doing a workout where there's no rest, and all of a sudden while I'm working, I have all these ideas exploding because all that oxygen, all that blood's going in there, all those endorphins, and I'm just like high as a kite.
+[00:11:27.259 --> 00:11:28.039]  I love it.
+[00:11:28.500 --> 00:11:29.340]  That's so awesome.
+[00:11:29.539 --> 00:11:29.720]  Yeah.
+[00:11:29.840 --> 00:11:31.700]  I'm glad that you're getting to experience it.
+[00:11:31.980 --> 00:11:34.019]  You know, like you're what, 51 now?
+[00:11:34.360 --> 00:11:35.440]  51 years old.
+[00:11:35.440 --> 00:11:38.419]  I feel better when I was in great shape at 20. Yeah.
+[00:11:53.940 --> 00:11:55.159]  You're an early bird too, right?
+[00:11:55.259 --> 00:11:56.240]  What time do you get up every morning?
+[00:11:56.739 --> 00:12:00.399]  I mean, I overslept today to about 6, but I usually get about 4.30.
+[00:12:00.700 --> 00:12:01.500]  Yeah, about 4.30.
+[00:12:01.659 --> 00:12:04.419]  Yeah, because I get text messages from you about 4 o 'clock.
+[00:12:05.159 --> 00:12:07.460]  I'm like rolling over like, what?
+[00:12:08.820 --> 00:12:14.100]  Yeah, the problem is even if I stay out late or whatever, you know, here and there, it doesn't matter.
+[00:12:14.220 --> 00:12:16.759]  Even if I go to bed at 1, I still have to get up at like 5. Yeah.
+[00:12:17.100 --> 00:12:18.820]  Oh, God, it's 2 a.m.
+[00:12:18.820 --> 00:12:19.899]  I've been out doing some stuff.
+[00:12:20.500 --> 00:12:22.200]  I'm going to set the alarm for 6 a.m.
+[00:12:22.240 --> 00:12:23.500]  Have you always been like that?
+[00:12:23.840 --> 00:12:25.240]  Like getting up that early?
+[00:12:25.440 --> 00:12:25.539]  Four?
+[00:12:27.399 --> 00:12:31.860]  When I was super fat and fried, I was sleeping about 6, 6.30.
+[00:12:32.379 --> 00:12:34.279]  But now I don't even need as much sleep.
+[00:12:34.480 --> 00:12:35.940]  I used to like six, seven hours.
+[00:12:36.500 --> 00:12:37.340]  Four or five is good now.
+[00:12:38.299 --> 00:12:38.700]  Yeah.
+[00:12:39.200 --> 00:12:40.200]  Something about that too.
+[00:12:40.340 --> 00:12:42.679]  There's like a window in there, like four to five hours.
+[00:12:42.679 --> 00:12:44.279]  If I get that, I feel great.
+[00:12:44.519 --> 00:12:48.039]  But then if I get like six to seven, I feel like I can't wake.
+[00:12:48.200 --> 00:12:49.160]  I'm still asleep.
+[00:12:50.809 --> 00:12:55.409]  Like, I feel like I got bad sleep at six to seven, but from four to five, somewhere in that window, I feel great.
+[00:12:55.750 --> 00:13:02.409]  A lot of that is you might have, there's different studies, depends on the person's physiology, but you might go deeper and your body wants to stay in rest mode.
+[00:13:02.629 --> 00:13:04.330]  So it's kind of telling you, hey, you know.
+[00:13:05.049 --> 00:13:05.610]  Makes sense.
+[00:13:05.690 --> 00:13:08.029]  Because you're in war mode all the time, going really hard.
+[00:13:08.350 --> 00:13:09.649]  I mean, hell, you work out two, three times a day.
+[00:13:09.710 --> 00:13:12.090]  You don't just train me and then you got all these businesses and stuff.
+[00:13:12.230 --> 00:13:12.629]  I know.
+[00:13:12.629 --> 00:13:13.289]  I'm going hard.
+[00:13:13.409 --> 00:13:14.269]  I got to go hard, though.
+[00:13:14.450 --> 00:13:15.549]  This is that time right now.
+[00:13:16.090 --> 00:13:17.269]  But speaking of war.
+[00:13:18.120 --> 00:13:20.539]  I'm going to ask you what everybody is wondering.
+[00:13:20.840 --> 00:13:24.919]  Everybody that's going to be tuning in wants to know what you think about what's going on.
+[00:13:24.980 --> 00:13:25.899]  Are we going to World War III?
+[00:13:26.639 --> 00:13:27.419]  Be honest.
+[00:13:29.379 --> 00:13:44.700]  By the think tanks and the military planning organizations, both corporate and governmental, they all agree we're in World War IV.
+[00:13:46.409 --> 00:13:47.870]  So these are all technical terms.
+[00:13:48.090 --> 00:13:54.870]  If you don't read what the Rand Corporation says or what the Russians say or what the Pentagon says, but this is in the Army War College and, you know, all the thinking.
+[00:13:55.070 --> 00:13:57.489]  The Cold War was seen as the Third World War.
+[00:13:57.489 --> 00:14:07.470]  And it was an asymmetrical beginning of fifth generational warfare, economic propaganda, information war, terrorism, some kinetic.
+[00:14:07.470 --> 00:14:12.920]  And then out of that...
+[00:14:16.960 --> 00:14:18.559]  Academically, people can look that up.
+[00:14:19.299 --> 00:14:46.460]  And when you have major power blocks that can project global power, military, economic, cultural, lined up against other power blocks that can do the same, and then you have major kinetic multiple conflicts with the same adversaries using that as proxy war or hybrid war, Then that is the definition of a world war.
+[00:14:46.960 --> 00:14:57.879]  And so I said back in December of last year, I said within a week, because I could see it all lined up, I said you will see major academics and world leaders announce that we are in a new world war.
+[00:14:58.259 --> 00:15:00.200]  And you notice they call it a new world war.
+[00:15:00.279 --> 00:15:01.200]  It's not World War III.
+[00:15:01.279 --> 00:15:03.879]  Everybody thought of World War III as a big nuclear war with the Russians.
+[00:15:04.038 --> 00:15:05.999]  That's kind of the idea they have.
+[00:15:05.999 --> 00:15:17.090]  But an actual military Most people think of military training as kind of the door kickers and people flying F-16s and drone operators and tank drivers and, you know, Navy SEALs and all that.
+[00:15:17.149 --> 00:15:21.230]  And that's the boots on the ground, you know, the final phase of total war.
+[00:15:21.649 --> 00:15:22.889]  But everything's a war.
+[00:15:23.370 --> 00:15:36.750]  And so most of the military planning and the money and everything is actually into the cyber and the satellites and the connectivity and the control systems and is in doctrinal threat escalation ladders.
+[00:15:37.409 --> 00:15:52.250]  And so at that level, again, most people, where you are in the world, they think of military soldiers and sailors and actual physical kinetic battle.
+[00:15:52.370 --> 00:15:59.570]  but that's one layer to it where the rubber meets the road of actually occupying something in classic kinetic.
+[00:15:59.570 --> 00:16:15.470]  But as for, I don't know, And then you've got to know who the different blocks are, the different power structures.
+[00:16:15.730 --> 00:16:20.690]  And so we're in the Fourth World War right now.
+[00:16:21.169 --> 00:16:24.549]  The average person doesn't even know who the alliances are, who the players are.
+[00:16:25.370 --> 00:16:41.090]  And so Israel, going after Iran's nuclear program, It's part of a long-term strategic plan that's several decades old, really 30 years old, to take down all of those regimes.
+[00:16:41.889 --> 00:16:46.289]  And they finally took down Syria about seven months ago.
+[00:16:47.230 --> 00:16:50.850]  And then now there's the taking down of Iran.
+[00:16:51.710 --> 00:16:58.789]  And the United States is being not sucked directly into it.
+[00:16:58.850 --> 00:17:00.169]  The United States already provided the weapons.
+[00:17:01.620 --> 00:17:03.720]  Heavily involved in all the intelligence and the guidance.
+[00:17:04.059 --> 00:17:11.740]  It was the U.S., you know, from the destroyers, their Mediterranean, shooting down most of those missiles that were, you know, in the last few days running down on Israel.
+[00:17:13.200 --> 00:17:18.119]  That's terrifying that you say we skipped right over World War III and went straight to World War IV.
+[00:17:18.119 --> 00:17:23.720]  Who was it that gave the quote that said, I don't know what World War III will be fought with, but World War IV.
+[00:17:23.940 --> 00:17:24.880]  Do you remember that quote?
+[00:17:24.960 --> 00:17:25.519]  Albert Einstein.
+[00:17:25.799 --> 00:17:26.559]  Yeah, what did he say?
+[00:17:26.740 --> 00:17:27.579]  Do you remember how it goes?
+[00:17:27.579 --> 00:17:31.450]  Yeah, he said...
+[00:17:35.660 --> 00:17:39.720]  He said that, I think it was in the 50s, they were developing the nukes and the hydrogen bombs and all that stuff.
+[00:17:39.900 --> 00:17:46.980]  He said, I don't know what World War III will be fought with, but I know that World War IV will be fought with sticks and stones.
+[00:17:48.059 --> 00:17:48.779]  That's terrifying.
+[00:17:49.700 --> 00:17:50.880]  That's very sentient.
+[00:17:51.380 --> 00:17:53.240]  And people should see the movie Oppenheimer.
+[00:17:53.380 --> 00:17:56.099]  It's pretty accurate and powerful dealing with all that.
+[00:17:58.289 --> 00:18:01.769]  Again, everybody thought of World War III as Russians nuclear.
+[00:18:02.130 --> 00:18:04.109]  So the general public has that idea.
+[00:18:04.170 --> 00:18:06.650]  That's what that means when you say World War III.
+[00:18:06.829 --> 00:18:08.410]  But that's over.
+[00:18:08.809 --> 00:18:13.549]  We're now in World War IV, and World War IV is much hotter, way more kinetic.
+[00:18:14.538 --> 00:18:20.249]  And you got a million dead Russians and wounded on the Russian side, probably more than that with the Ukrainians.
+[00:18:20.249 --> 00:18:28.158]  And that's the biggest battles since Russia.
+[00:18:28.160 --> 00:18:28.880]  World War II.
+[00:18:30.579 --> 00:18:37.680]  And you could say Korea was just as bad for actual, just straight up big armies clashing into each other.
+[00:18:38.000 --> 00:18:42.200]  And it's now basically moved into a high-tech form of trench warfare, World War I, 2.0.
+[00:18:43.319 --> 00:18:46.519]  And that's what the Pentagon, the Russians call it that too.
+[00:18:47.440 --> 00:18:52.680]  Every war is really called a, since the 60s in McNamara, it's called a laboratory or a war game.
+[00:18:53.000 --> 00:18:53.359]  Yeah.
+[00:18:54.250 --> 00:18:59.009]  So real wars are called war games or theater laboratory testing events.
+[00:18:59.730 --> 00:19:02.990]  And so all of it is just an ongoing system.
+[00:19:03.589 --> 00:19:12.710]  And the issue is, is Iran does have sleeper cells all over the West that make Al-Qaeda and ISIS look like amateurs.
+[00:19:14.470 --> 00:19:23.390]  The Shiites are, you know, hands down, when dealing with the different Muslim sects, are per capita the most professional and dangerous and fanatical.
+[00:19:23.740 --> 00:19:32.160]  You know, you've dealt with a lot of the people, you know, but obviously in Afghanistan, that's the other main sect of it, but that's one of the other more competent groups.
+[00:19:32.279 --> 00:19:42.380]  But they have people all over the place, and they have said that they will use asymmetrical warfare against us.
+[00:19:45.500 --> 00:19:51.119]  But Putin has, in the last few days, told the Iranians they need to put up the white flag.
+[00:19:51.980 --> 00:19:52.460]  Really?
+[00:19:52.460 --> 00:20:06.119]  Because, yeah, if they don't get up the nuclear program, then Israel's going to continue to bombard them, and then if any U.S. targets get hit by the Iranians, then the United States is going to come fully into that.
+[00:20:06.778 --> 00:20:14.077]  And, you know, the CIA and the U.S. funded Saddam Hussein in the 80s to attack Iran.
+[00:20:14.077 --> 00:20:17.718]  A couple million Iranians died, about a million Iraqis, and that was...
+[00:20:19.500 --> 00:20:21.019]  And trench warfare, all that.
+[00:20:21.440 --> 00:20:24.759]  And the Iranians didn't give up in that.
+[00:20:25.640 --> 00:20:28.200]  And it's three times the size of Iraq.
+[00:20:28.940 --> 00:20:32.460]  So it's a big problem.
+[00:20:33.140 --> 00:20:35.000]  And you need to say, are you for Israel?
+[00:20:35.000 --> 00:20:38.339]  Are you for the Iranians?
+[00:20:38.700 --> 00:20:40.519]  I mean, obviously, I don't like the Mullahs.
+[00:20:41.220 --> 00:20:42.779]  I know the history of the Mullahs.
+[00:20:42.859 --> 00:20:44.180]  It's fantastically bizarre.
+[00:20:46.750 --> 00:20:48.289]  They're not even Persians.
+[00:20:50.190 --> 00:20:52.230]  They're from Saudi Arabia.
+[00:20:52.490 --> 00:20:55.910]  So the regime that's running Iran is not even Persian.
+[00:20:56.390 --> 00:21:02.910]  Well, yeah, some of them are married, but the Shiites are less than 19% of Islam.
+[00:21:05.950 --> 00:21:13.970]  And then you've got about 79% is Wahhabis.
+[00:21:14.500 --> 00:21:16.079]  And that's what's based out of Saudi Arabia.
+[00:21:16.220 --> 00:21:19.619]  But Muhammad, 1,500 years ago, was in Mecca.
+[00:21:20.359 --> 00:21:22.799]  He was a warlord and a slaver, everything else.
+[00:21:22.980 --> 00:21:27.640]  And he kind of took Judaism and Christianity and Zohar Asterism, a bunch of other stuff, and just kind of mixed it into a book.
+[00:21:28.039 --> 00:21:29.859]  And it said, by the way, I'm the prophet.
+[00:21:29.980 --> 00:21:31.119]  Now you're going to invade and take over.
+[00:21:31.660 --> 00:21:34.799]  And within 100 years of him being dead, they'd already taken over the whole Middle East.
+[00:21:36.519 --> 00:21:41.480]  And then there was a big fight a few years later.
+[00:21:42.159 --> 00:21:46.000]  The Shiites were saying, no, you've got to be a cleric.
+[00:21:46.119 --> 00:21:47.099]  You've got to be related to Muhammad.
+[00:21:48.500 --> 00:21:55.059]  And the Mohammedists were smarter, and they said, no, anybody that can be inspired by God could speak and preach.
+[00:21:55.420 --> 00:21:56.799]  So more people wanted to be in that.
+[00:21:56.839 --> 00:21:58.319]  That's a bigger church, easier to get into.
+[00:21:58.619 --> 00:21:59.940]  Because they already dominated the area.
+[00:22:00.119 --> 00:22:01.339]  Well, they had their own civil war.
+[00:22:01.940 --> 00:22:10.359]  And so there was a big civil war with people that were related to Muhammad, and they ended up being mainly in eastern Iraq.
+[00:22:10.829 --> 00:22:16.710]  And then running kind of the mountains of Iran because the Wahhabis basically drove them out and beat them.
+[00:22:16.890 --> 00:22:19.710]  So they've had that fight going on for over a thousand years.
+[00:22:20.930 --> 00:22:28.410]  But if you look at all the leadership of Iran, the clerics, the generals, they're all cousins and stuff.
+[00:22:28.569 --> 00:22:30.230]  And they all look basically the same.
+[00:22:30.369 --> 00:22:32.670]  You look at the Persians, they don't look a lot like them.
+[00:22:33.589 --> 00:22:38.009]  And it's because they're literally a royal genetic dynasty.
+[00:22:39.930 --> 00:22:41.009]  From one man.
+[00:22:41.250 --> 00:22:43.289]  So it's a religious kingdom.
+[00:22:43.630 --> 00:22:46.250]  And so that's why it's the Islamic State of Iran.
+[00:22:46.470 --> 00:22:54.750]  And so you have the clerics that rule, the mullahs that rule as a genetic dynasty of Muhammad.
+[00:22:55.230 --> 00:23:01.890]  And they all basically appoint whoever is in the bread and the bloodlines to be the most of Muhammad.
+[00:23:03.849 --> 00:23:05.630]  I mean, that's just wild.
+[00:23:05.890 --> 00:23:14.769]  So in Iran, you have a country where I've been seeing tons of videos with large gatherings of Iranians celebrating as the missiles were coming in.
+[00:23:15.829 --> 00:23:16.829]  What would you say?
+[00:23:17.009 --> 00:23:21.809]  Because there's a lot of people out there that are saying, like, you just said 17%, right?
+[00:23:22.269 --> 00:23:24.049]  18, 19%, whatever they do.
+[00:23:24.269 --> 00:23:28.970]  So is that indicative of, like, the country and how they feel about the regime that's running things in Iran?
+[00:23:31.050 --> 00:23:40.009]  Yes, see, I mean, the Iranians, the Persians are one of the oldest, I mean, they're like mathematics, Arabic, all of it comes from them.
+[00:23:40.990 --> 00:23:48.089]  And so, I mean, Judaism, so much of what Judaism follows is actually out of that.
+[00:23:48.369 --> 00:23:52.410]  I mean, if you actually look at the two things, it's like Judaism adopts a lot of that.
+[00:23:52.509 --> 00:23:53.890]  I mean, it's one of the oldest cultures in the world.
+[00:23:54.750 --> 00:23:57.750]  And that whole area was not Islamic.
+[00:23:58.109 --> 00:23:59.269]  Muslims have just been invading.
+[00:23:59.720 --> 00:24:01.480]  Like India used to be three times bigger.
+[00:24:01.880 --> 00:24:04.619]  It used to be Pakistan, Afghanistan, all that stuff.
+[00:24:04.799 --> 00:24:06.420]  And then they quote Aryans.
+[00:24:06.599 --> 00:24:07.480]  That's where Hitler got the idea.
+[00:24:07.579 --> 00:24:08.099]  It means Iran.
+[00:24:08.380 --> 00:24:11.579]  That's what comes from that area is the Persians.
+[00:24:12.440 --> 00:24:18.440]  And you famously got them going and trying to take Greece and their empire and the Battle of 300, all that.
+[00:24:18.500 --> 00:24:22.119]  That's what was with that Persian empire.
+[00:24:23.180 --> 00:24:24.640]  And they conquered Jerusalem.
+[00:24:24.640 --> 00:24:26.200]  I mean, all sorts of stuff.
+[00:24:27.299 --> 00:24:44.799]  When you look at the Persians, in 1953, see, if you ask who's the good guys and who's the bad guys, they had Mohammed Mosedek, who wasn't even a Muslim, who was trained in the West and was modernizing Persia, which was already modern.
+[00:24:45.539 --> 00:24:54.079]  And then what's BP today, the British oil company, wanted all the money from their oil.
+[00:24:54.200 --> 00:24:55.440]  And he said, no, no, we'll give you half.
+[00:24:55.810 --> 00:24:58.170]  So they overthrew him using a bunch of jihadis.
+[00:24:58.289 --> 00:24:59.690]  Then they double-crossed them.
+[00:25:00.150 --> 00:25:04.410]  And then they put in the Shah, who was part of the royal bloodline from the dynasty before.
+[00:25:04.549 --> 00:25:11.349]  And then when he wanted to modernize and not be controlled by the West, even though he was pro-West, wasn't even Islamic, they kicked him out.
+[00:25:11.450 --> 00:25:18.569]  And then, wink, wink, had Iran-Contra, where the CIA put the Mullahs and the Ayatollah Khomeini in power.
+[00:25:18.789 --> 00:25:20.609]  Doesn't mean that he works for them.
+[00:25:20.730 --> 00:25:20.970]  No, no.
+[00:25:21.089 --> 00:25:23.230]  But they brought them from Paris and put them in there.
+[00:25:23.740 --> 00:25:25.640]  Then they capture all of our people.
+[00:25:25.960 --> 00:25:27.359]  They overrun the embassy.
+[00:25:27.740 --> 00:25:29.960]  That's the CIA doing that to embarrass Jimmy Carter.
+[00:25:30.759 --> 00:25:35.440]  And then the day Reagan's elected, you know, then they go, oh, we're going to release the hostages now.
+[00:25:35.579 --> 00:25:45.579]  And that was a deal for Iran to give a bunch of weapons to the Contras to fight communists in Latin America.
+[00:25:45.880 --> 00:25:51.960]  And you ask, well, how would the Muslims have or how would the Shiites come in and take over all these weapons?
+[00:25:53.169 --> 00:25:56.349]  Iran had, like, that's why most of their weapons are U.S. weapons even today.
+[00:25:56.369 --> 00:25:57.210]  They've just upkept them.
+[00:25:57.369 --> 00:25:58.970]  The helicopters, the jets, all that.
+[00:25:59.049 --> 00:26:03.809]  It was all U.S. weapons and tow missiles and, I mean, tens of thousands of them and everything else.
+[00:26:04.250 --> 00:26:11.269]  And so Congress wasn't letting the CIA and Reagan give those weapons to the Contras.
+[00:26:11.470 --> 00:26:12.309]  So they said, that's fine.
+[00:26:12.349 --> 00:26:13.490]  We've got a whole bunch more weapons over there.
+[00:26:14.009 --> 00:26:15.549]  We'll just resupply with those.
+[00:26:15.910 --> 00:26:20.730]  Just like Congress wasn't going to fund any more overthrowing Assad in Syria.
+[00:26:21.150 --> 00:26:26.490]  So we had the withdrawal in Afghanistan and left 80-something million dollars of weapons.
+[00:26:26.750 --> 00:26:28.670]  Well, those were then used to overthrow Assad.
+[00:26:29.450 --> 00:26:31.630]  So that's how the deep state works.
+[00:26:31.789 --> 00:26:33.250]  Oh, Congress won't give us the funds?
+[00:26:33.589 --> 00:26:34.630]  Well, they've got deals.
+[00:26:34.730 --> 00:26:37.009]  All these countries have huge weapons caches that are theirs.
+[00:26:37.750 --> 00:26:39.809]  And then they can always move that to a test.
+[00:26:39.930 --> 00:26:41.690]  So people ask, am I for Israel?
+[00:26:41.809 --> 00:26:43.289]  I don't want Israel blown off the map.
+[00:26:43.849 --> 00:26:48.069]  I'm not into this whole trendy thing of just thinking, you know, if I slip out a banana pill, Jews did it.
+[00:26:48.440 --> 00:26:51.700]  But also, you know, Israel's done some corrupt things, manipulates our government, and back and forth.
+[00:26:51.839 --> 00:26:53.059]  It's just like any of these big corrupt governments.
+[00:26:53.220 --> 00:26:55.400]  It's not off-limits to criticize them.
+[00:26:55.799 --> 00:26:57.980]  But people ask, well, you're for Israel or you're for Iran?
+[00:26:58.940 --> 00:27:08.700]  I'm against the CIA in 1953 in Operation Ajax, overthrowing Mohammed Mosedek, who was pro-America and, like, a liberal, I mean, like, real liberal, like, freedom, all that stuff.
+[00:27:09.599 --> 00:27:14.680]  Then they put the shawl in, overthrow him, help the Shiites get in.
+[00:27:15.460 --> 00:27:17.200]  Now here we are 46 years later.
+[00:27:17.720 --> 00:27:19.359]  So that's a long way to answer your question.
+[00:27:19.680 --> 00:27:27.779]  The Iranians, who are really, the Persians are very smart people, and they've got internal studies and polls.
+[00:27:27.900 --> 00:27:29.519]  Upwards of 60% hate the government.
+[00:27:30.480 --> 00:27:40.519]  If you look at Iran before the Islamists took it over in 1979, I mean, it's good-looking women in bikinis, rock and roll music, Coca-Cola, blue jeans, and Jack Daniels.
+[00:27:41.380 --> 00:27:46.000]  And, I mean, the Muslims were not even, there were a lot of Muslims there, but they were not running things.
+[00:27:47.240 --> 00:27:50.559]  But you can get the Muslims to vote in one block or do what you say.
+[00:27:50.759 --> 00:27:51.640]  It wasn't voting.
+[00:27:51.740 --> 00:27:52.240]  They took over.
+[00:27:52.859 --> 00:27:55.259]  But they just came in and took over.
+[00:27:55.750 --> 00:28:05.519]  Because at the end of the day, the West and Israel as well don't want competent, successful people in the area on average.
+[00:28:05.519 --> 00:28:13.809]  That's why in 1979, Israel admits they founded Hamas because they didn't like the Palestinian people.
+[00:28:19.069 --> 00:28:20.410]  And they went, no, you don't.
+[00:28:20.490 --> 00:28:22.170]  Here's this group, jihadis.
+[00:28:24.109 --> 00:28:26.329]  Yeah, those old videos are kind of crazy.
+[00:28:26.930 --> 00:28:31.930]  Back in the day, you would see people water skiing at the beach.
+[00:28:32.710 --> 00:28:35.250]  There's no headdress.
+[00:28:35.368 --> 00:28:35.808]  There's nothing.
+[00:28:40.460 --> 00:28:40.740]  Exactly.
+[00:28:40.900 --> 00:28:43.079]  And so was Lebanon, mainly.
+[00:28:43.279 --> 00:28:44.019]  I mean, all of it.
+[00:28:44.160 --> 00:28:45.279]  It was like the French Riviera.
+[00:28:45.519 --> 00:28:45.660]  Yeah.
+[00:28:45.920 --> 00:28:47.940]  And the West went in.
+[00:28:48.259 --> 00:28:49.480]  They looked so happy, too, didn't they?
+[00:28:49.660 --> 00:28:50.059]  They were.
+[00:28:50.480 --> 00:28:51.119]  They were.
+[00:28:51.259 --> 00:29:01.460]  And the thing is, is that, I mean, the Middle East and that whole area before Muhammad, you know, had its issues.
+[00:29:01.460 --> 00:29:03.600]  and just like the West and slavery and things.
+[00:29:03.600 --> 00:29:05.990]  But it was...
+[00:29:07.319 --> 00:29:08.680]  And a lot of civilization we have comes out.
+[00:29:08.799 --> 00:29:09.900]  It's not like those people are stupid.
+[00:29:10.960 --> 00:29:16.460]  But they put a literal slave-trading guy that raided caravans that came out of the east.
+[00:29:16.640 --> 00:29:17.900]  That's crossroads there in Mecca.
+[00:29:19.059 --> 00:29:20.539]  That's the founder of this.
+[00:29:21.140 --> 00:29:28.779]  And so despite that and all the conquests of the Muslims and hundreds of attacks in the West, the Crusades were a response to that.
+[00:29:29.960 --> 00:29:32.839]  Liberal media kind of just starts with the Crusades and tells you why there were Crusades.
+[00:29:32.980 --> 00:29:35.140]  Like most of Spain got taken over 500 years by the Muslims.
+[00:29:35.690 --> 00:29:43.210]  And but but since then, there have been some reform in Islam and it saw the West and everything was like trying to come in.
+[00:29:43.609 --> 00:29:53.329]  And then the CIA and MI6 and later the Mossad, they came in and literally funded and planted the worst jihadis you can imagine.
+[00:29:53.529 --> 00:29:55.309]  So people are asking, am I for Israel against it?
+[00:29:55.369 --> 00:29:56.769]  I'm not against Israel existing.
+[00:29:57.649 --> 00:29:59.829]  I don't even blame Israel totally for this.
+[00:30:00.048 --> 00:30:06.788]  This was a plan of the British intelligence and U.S. intelligence, but Israel does a really good job going through with it and is their own boss.
+[00:30:06.788 --> 00:30:08.317]  But there's certainly a partner in this.
+[00:30:08.327 --> 00:30:28.769]  It's just everybody that wants to then just be totally for Israel needs to understand that when Trump was president-elect, Israel, Turkey, and NATO, with all those weapons out of Afghanistan, overthrew Assad, who compared – They call him brutal murder and all that stuff.
+[00:30:28.890 --> 00:30:29.670]  Most of that's made up.
+[00:30:29.849 --> 00:30:30.569]  He was a dictator.
+[00:30:30.569 --> 00:30:31.470]  That's the system there.
+[00:30:32.009 --> 00:30:34.970]  Well, now they put the world leader of Al-Qaeda in charge.
+[00:30:35.250 --> 00:30:37.329]  And Trump met with him a few months ago in Saudi Arabia.
+[00:30:37.410 --> 00:30:39.650]  And everybody was like, well, he's a tough guy, but he was there.
+[00:30:39.809 --> 00:30:44.849]  Now he's slaughtering the Christians, the Muslim minorities that aren't in his Wahhabist sect.
+[00:30:46.170 --> 00:30:48.750]  And so it's very, very sick.
+[00:30:49.240 --> 00:30:52.059]  And so, you know, we're fighting radical Islam.
+[00:30:52.240 --> 00:30:53.599]  We're fighting for civilization.
+[00:30:54.720 --> 00:31:07.799]  The Israelis had field hospitals for Al-Qaeda, and we're giving them the weapons in the south, and then Turkey, you know, to the north and the west, and NATO.
+[00:31:08.119 --> 00:31:12.480]  And so they all ganged up, in fact, for 17 years trying to overthrow Syria, didn't it?
+[00:31:12.839 --> 00:31:15.039]  Some people say, well, again, whose side are you on?
+[00:31:15.059 --> 00:31:16.220]  It's not like a football game, folks.
+[00:31:19.069 --> 00:31:22.589]  This is, you have to make your own decision about what this is.
+[00:31:22.990 --> 00:31:38.250]  So did I cry when, you know, some of the military tyrants, I mean, in Iran, if a woman tries to go out and not wear a headscarf, and if she protests, they'll give them the death penalty.
+[00:31:38.349 --> 00:31:43.849]  They have big mass executions every week where they have industrial cranes and they can put it around your neck and just haul your ass up.
+[00:31:44.079 --> 00:31:44.720]  Strangle you.
+[00:31:44.819 --> 00:31:46.759]  They don't do the classic drop you and break your neck.
+[00:31:46.920 --> 00:31:48.400]  No, they let you twitch for a long time.
+[00:31:48.740 --> 00:31:51.660]  And they just line up women and just hang them.
+[00:31:55.200 --> 00:32:00.240]  But I understand that the Iranian Persian people are great people and they're under this oppression.
+[00:32:00.240 --> 00:32:09.150]  But that doesn't give Israel then the green light to, you know, sit there and preeminent.
+[00:32:13.059 --> 00:32:14.039]  It's all just sick.
+[00:32:14.279 --> 00:32:14.720]  It's complicated.
+[00:32:14.900 --> 00:32:25.240]  But again, it wouldn't have happened if the CIA with British intelligence in 53 and 79 hadn't done regime change of people that were pro-Western.
+[00:32:25.359 --> 00:32:26.220]  They're like, no, no, no.
+[00:32:26.380 --> 00:32:28.279]  We got our vote and our people get the money.
+[00:32:28.440 --> 00:32:30.200]  And no, you can have half the oil money.
+[00:32:30.319 --> 00:32:31.140]  This is our oil.
+[00:32:31.319 --> 00:32:32.859]  And so why does that make sense?
+[00:32:33.000 --> 00:32:37.140]  Like if you were, I mean, you look at everything from a 30,000 foot view, right?
+[00:32:37.690 --> 00:32:38.609]  I used to be a SEAL.
+[00:32:38.809 --> 00:32:39.750]  I was boots on the ground.
+[00:32:40.170 --> 00:32:43.609]  You're up here looking at the macro version of what's going on, right?
+[00:32:44.869 --> 00:32:46.750]  What is their endgame with this?
+[00:32:46.890 --> 00:32:49.269]  Why do they want to keep instability in the Middle East?
+[00:32:49.369 --> 00:32:50.170]  Is it a chessboard?
+[00:32:51.490 --> 00:32:52.990]  Well, that's exactly what they call it.
+[00:32:53.789 --> 00:32:59.089]  In fact, we were hiking the other day, and you said, you know, it seems like a chessboard, like Iran and Afghanistan are in the middle of it.
+[00:32:59.289 --> 00:33:00.369]  Perfect pieces.
+[00:33:00.609 --> 00:33:05.690]  If anybody who's ever played chess, there's certain positions on the board that you want to keep.
+[00:33:05.829 --> 00:33:10.730]  You want to hold for as long as you can because it changes the whole dynamics of the entire game.
+[00:33:12.150 --> 00:33:13.029]  Well, that's it.
+[00:33:13.190 --> 00:33:18.730]  And I said, well, yes, there's a book written 20 years ago by Zbigniew Brzezinski called The Grand Chess Board.
+[00:33:19.529 --> 00:33:24.789]  And he was the big international foreign policy guru in the Carter administration.
+[00:33:24.990 --> 00:33:27.809]  And even though Carter was removed, his plans continued on.
+[00:33:28.339 --> 00:33:29.180]  Through that.
+[00:33:29.680 --> 00:33:32.920]  And he says to encircle Russia and finally take out Russia.
+[00:33:33.279 --> 00:33:38.700]  You've got to have all the pieces right there in Central Asia and right in the middle of Afghanistan and then Iran.
+[00:33:39.740 --> 00:33:42.500]  And that's exactly what they're doing.
+[00:33:42.740 --> 00:33:46.859]  So they are destabilizing that because that's the crossroads of the world.
+[00:33:47.298 --> 00:33:52.887]  So the West has a pretext to stay there, move in military forces there and occupy that.
+[00:33:53.177 --> 00:34:17.750]  And if you want to occupy it, And they don't work for the West, but they're going to do what they're going to do, so the West will continually set them up, and then I guarantee in a year, maybe even sooner, we'll be attacking Syria again to remove the guy we just put in, and they'll just think everybody forgot that.
+[00:34:18.269 --> 00:34:18.969]  That's sick.
+[00:34:19.429 --> 00:34:23.449]  I mean, that's kind of like planned obsolescence.
+[00:34:23.960 --> 00:34:25.980]  They can make light bulbs that last 30 years.
+[00:34:26.199 --> 00:34:26.320]  Easy.
+[00:34:26.619 --> 00:34:28.260]  For like 5 cents more.
+[00:34:29.360 --> 00:34:30.239]  You can look it up.
+[00:34:33.219 --> 00:34:36.099]  But they make them where they last a year, so you've got to buy more.
+[00:34:36.659 --> 00:34:38.260]  And that's planned obsolescence.
+[00:34:38.400 --> 00:34:38.539]  Right.
+[00:34:38.800 --> 00:34:40.300]  That's what I'm picturing, right?
+[00:34:40.420 --> 00:34:49.179]  If you look at this thing from a strategic chessboard perspective, if I have a certain piece that's unstable at any time, I know I can go and take it.
+[00:34:49.300 --> 00:34:49.599]  Right?
+[00:34:49.659 --> 00:34:50.219]  It's vulnerable.
+[00:34:50.840 --> 00:34:53.440]  So you'll let them sit there and they'll mesh back and forth.
+[00:34:53.460 --> 00:34:55.159]  You can rearrange that piece.
+[00:34:55.320 --> 00:34:57.840]  You can put different leadership on that piece on the board.
+[00:34:58.260 --> 00:35:05.619]  But at any time, if, say, World War IV was to break out, then you could literally just, like, that's our spot.
+[00:35:06.420 --> 00:35:09.000]  They don't have any control over that spot.
+[00:35:09.539 --> 00:35:13.778]  it, we're purposely keeping it like weak, right?
+[00:35:13.778 --> 00:35:14.718]  You don't want that.
+[00:35:14.718 --> 00:35:36.079]  And again, Whereas if you have a Renaissance culture, you inform the public, you have real human projects that bring people together, and then when people get out of hand and there's a real war, and you have peace through strength, you deal with them.
+[00:35:36.489 --> 00:35:44.750]  But once you have this attitude of making people weak and you're stabilizing them so they're controllable, what do you think cutting off U.S. energy is and having fuzzy math in schools, 2 plus 2 equals 10?
+[00:35:45.269 --> 00:35:48.190]  And it's the same project to make us weak and unstable.
+[00:35:48.409 --> 00:35:56.170]  And to fund Black Lives Matter and anti-fund communists and fentanyl and to train kids not to work and universal basic incomes.
+[00:35:56.329 --> 00:36:05.650]  And you go read the actual documents and COVID and lockdowns and all this is to train us that we're non-essential and we're bad and we're weak and man-made climate change.
+[00:36:05.989 --> 00:36:07.010]  There's no futures.
+[00:36:07.170 --> 00:36:07.829]  We don't have kids.
+[00:36:07.889 --> 00:36:09.170]  They're breaking our will.
+[00:36:09.510 --> 00:36:14.939]  And they admit that's what they're doing because they want a bunch of dumbed down people they can control.
+[00:36:15.000 --> 00:36:30.539]  And so for me, And so people can then make their own decisions about that.
+[00:36:30.679 --> 00:36:36.719]  Instead, people address things as this piece or that piece or this simple or this side or that side.
+[00:36:36.900 --> 00:36:40.019]  And I'm like, hey, do you see the larger game?
+[00:36:40.199 --> 00:36:45.480]  You can even go read books written by the top strategists doing this and they brag about it.
+[00:36:46.659 --> 00:37:04.820]  And in one of his books that I read like 30 years ago, Brzezinski said, I didn't have Pol Pot kill, I mean, I didn't kill a third of the Cambodian population to keep communism from taking it over.
+[00:37:05.860 --> 00:37:08.320]  I just put in Pol Pot and gave him the money to do it.
+[00:37:09.420 --> 00:37:13.739]  And to the globalists, they all really respect Brzezinski because he had a high death toll.
+[00:37:14.199 --> 00:37:20.480]  He made statements before he died at the CFR about, you know, it's just easier to kill everybody now.
+[00:37:20.579 --> 00:37:21.739]  We're not going to be able to brainwash people anymore.
+[00:37:21.800 --> 00:37:22.880]  We just need to kill most people.
+[00:37:23.099 --> 00:37:24.019]  That's a scary thing, right?
+[00:37:24.179 --> 00:37:24.579]  Yeah.
+[00:37:24.579 --> 00:37:26.119]  But here's...
+[00:37:33.500 --> 00:37:38.980]  So you put whole pot in that's basically communism next level?
+[00:37:39.679 --> 00:37:41.539]  If you had glasses, they killed you.
+[00:37:41.969 --> 00:37:43.429]  And that's the ultimate class system.
+[00:37:43.769 --> 00:37:47.269]  They wanted, like, French Revolution, nothing but dumbed-down people.
+[00:37:48.949 --> 00:37:51.929]  And then, of course, Pol Pot got shuffled off.
+[00:37:53.489 --> 00:37:54.869]  And then look at Vietnam today.
+[00:37:55.250 --> 00:37:56.590]  They wanted to come in.
+[00:37:57.010 --> 00:38:02.829]  Ho Chi Minh, at the end of World War II, didn't want to be communist and actually wanted an industrial deal and wanted to come into America.
+[00:38:02.829 --> 00:38:08.449]  And they said, no, we're rebuffing you and let them have a civil war with the French.
+[00:38:08.710 --> 00:38:09.909]  China is what it was called then.
+[00:38:14.840 --> 00:38:15.940]  Americans didn't know about it.
+[00:38:16.019 --> 00:38:18.940]  So in 1964, we staged the Gulf of Tonkin attack on our ships.
+[00:38:19.019 --> 00:38:21.440]  That never happened to get fully into that conflict.
+[00:38:22.320 --> 00:38:22.940]  Undeclared war.
+[00:38:23.460 --> 00:38:24.539]  Another police action.
+[00:38:24.699 --> 00:38:27.480]  But again, oh, no, no, no.
+[00:38:28.139 --> 00:38:30.320]  But notice, they always wanted that.
+[00:38:30.420 --> 00:38:34.760]  So as soon as they got deals, now they're one of the fastest growing economies and love capitalism.
+[00:38:35.369 --> 00:38:38.170]  And they still have a communist system running it, but that's being phased out.
+[00:38:38.289 --> 00:38:41.070]  And now they're our big ally against China, along with South Korea.
+[00:38:41.250 --> 00:38:44.070]  So they wanted that deal in 1950.
+[00:38:44.769 --> 00:38:47.889]  And they're like, no, you don't get that deal, because we're going to have a nice little war with you.
+[00:38:48.690 --> 00:38:50.309]  And all that was was a laboratory.
+[00:38:50.510 --> 00:38:51.349]  All it was was a war game.
+[00:38:51.489 --> 00:38:55.670]  All it was was a place for McNamara to dump trillions of dollars into themselves.
+[00:38:56.670 --> 00:39:06.050]  And the argument is, by having these snacks, these wars, You know, we just continue to control the world, but it's not we that's doing it.
+[00:39:06.190 --> 00:39:20.269]  And the very same elites that are doing this and see these other people as expendable, they really hate the original American spirit of individualism and freedom and self-sufficiency, and that's why you see we're the most unhealthy, the most dumbed down, the most attacked.
+[00:39:20.710 --> 00:39:27.070]  Fluoride in the water, thousands of food dyes, deadly chemicals that are banned everywhere else, atrazine banned around the world, but not here.
+[00:39:27.230 --> 00:39:29.190]  That's why we have the lowest IQ now.
+[00:39:30.960 --> 00:39:36.019]  Lowest test scores in the industrial world, number 40 out of 40. Why our live expectancies are plunging?
+[00:39:36.119 --> 00:39:42.019]  We've been targeted for destruction by this globalist cartel that's been using America to control the world.
+[00:39:42.099 --> 00:39:47.519]  Where do you think this globalist cartel, the leadership, the ranks among it, where do you think they come from?
+[00:39:49.880 --> 00:39:51.460]  People always ask, who are they?
+[00:39:51.659 --> 00:39:56.019]  I mean, it's more of a philosophy of tyranny.
+[00:39:56.280 --> 00:39:58.539]  So you've got people that are in the globalist system.
+[00:39:59.070 --> 00:40:06.369]  Because they were trained and brought up in it, who were Chinese, who were Jewish, who were German, who were Mexican, who were South African.
+[00:40:06.550 --> 00:40:07.630]  It doesn't matter.
+[00:40:08.369 --> 00:40:09.489]  It's just an idea.
+[00:40:09.769 --> 00:40:23.030]  Well, it's a long story, but the British Empire was the dominant world force up until World War I, and it controlled the most money, the most industry, and the most land.
+[00:40:24.010 --> 00:40:36.239]  And as it got more and more opposition, they publicly stated, They were going to set up Royal Institute of International Affairs roundtable groups in countries around the world and give them different local names.
+[00:40:36.400 --> 00:40:41.559]  Ours was set up in 1921 called the Council on Foreign Relations and at Pratt House in New York.
+[00:40:41.719 --> 00:40:48.940]  And it recruited the politicians, political leaders and gave them basically access to British Empire, money and operations, which was everything.
+[00:40:49.119 --> 00:40:53.780]  Tea, coffee, opium, cocaine, textiles, chemicals.
+[00:40:54.099 --> 00:40:55.099]  I mean, you name it.
+[00:40:55.260 --> 00:40:57.019]  The real power of the British Empire was economic.
+[00:40:57.369 --> 00:41:03.309]  And it's corporations that were in councils that would combine their forces under the crown and their operations.
+[00:41:03.610 --> 00:41:06.809]  And so they decided to, Cecil Rhodes talked about this.
+[00:41:07.110 --> 00:41:17.150]  He had an African country named after him and was the diamond king and worked for the royal family and was given all their top awards.
+[00:41:17.269 --> 00:41:25.309]  And he developed the globalist system about 130 years ago, the plan to have the British Empire take its flag down everywhere.
+[00:41:26.780 --> 00:41:30.920]  Own everything, control everything behind the scenes through these corporate roundtable groups.
+[00:41:31.400 --> 00:41:34.139]  So I wouldn't say the British Empire today runs it all.
+[00:41:35.719 --> 00:41:53.500]  In his three-volume series, The History of the English-Speaking Peoples, Winston Churchill, excellent, explains the whole process, the British Empire, going back to its beginnings and what it came out of into the Revolutionary War we had with it and then into the 20th century.
+[00:41:53.880 --> 00:42:02.539]  And he explains that After World War I, the British Empire was overextended and had already started to re-merge with the United States.
+[00:42:02.719 --> 00:42:13.760]  But basically, after World War I, the special relationship, that's what they call it, came into the U.S. Empire that had officially pretty much been set up in the War of 1898 with Spain.
+[00:42:15.799 --> 00:42:19.420]  William McKinley, and we blew up the main, and I have Adam Harbour to blame it on them.
+[00:42:19.539 --> 00:42:21.239]  Same thing called Patagon, same story over and over again.
+[00:42:21.820 --> 00:42:25.480]  And look for a false flag suit and be blamed on Iran to just fully obliterate them.
+[00:42:27.840 --> 00:42:29.139]  So they follow these patterns.
+[00:42:29.280 --> 00:42:30.619]  So you ask who it is.
+[00:42:30.739 --> 00:42:34.699]  The structure is the British Empire merged with the United States.
+[00:42:35.380 --> 00:42:43.940]  But that was after World War I. You still have the old European elites, even though they were intermarried and Saxe-Coburg, Gotha, Habsburgs, with the British royal family.
+[00:42:44.400 --> 00:42:45.739]  It's not the royal family that runs it.
+[00:42:45.840 --> 00:42:47.199]  It's the bureaucracy and all that around it.
+[00:42:49.639 --> 00:42:56.420]  They then, and this is a whole history of this, Carol Quigley was the head of Georgetown Political Science, Bill Clinton's top mentor.
+[00:42:56.679 --> 00:42:58.760]  He wrote Tragedy and Hope, 1100 pages long.
+[00:42:58.860 --> 00:43:01.639]  It was only meant for academics, but copies of it got out and reprinted.
+[00:43:01.699 --> 00:43:02.480]  He admitted it was real.
+[00:43:02.659 --> 00:43:07.920]  He explains this whole history, too, in that book up until the late 60s when the book was published.
+[00:43:08.840 --> 00:43:20.829]  But long story short, Now they needed to obliterate Europe so they could set up a European Union.
+[00:43:21.630 --> 00:43:29.409]  But to do that, they needed to get the Austrian-Hungarian Empire that had been broken up until World War I somehow back.
+[00:43:29.750 --> 00:43:40.849]  And so they just financed some different revolutionary groups in Germany after World War I, and they put a lot of really bad tariffs and sanctions on Germany, the Versailles Treaty.
+[00:43:41.230 --> 00:43:43.949]  For reparations, they can never pay back because of the interest.
+[00:43:44.389 --> 00:43:49.710]  And then they financed Hitler and the militarists.
+[00:43:51.090 --> 00:43:53.650]  And the West said he was the best.
+[00:43:53.829 --> 00:43:58.969]  And the Time Magazine, the New York Times, for decades, they rock-starred him, gave him unlimited funding.
+[00:43:58.969 --> 00:44:01.250]  But he didn't work for them, but he took it.
+[00:44:01.590 --> 00:44:02.849]  Then they built him up.
+[00:44:03.389 --> 00:44:08.710]  Then they signed a secret peace treaty between Neville Chamberlain.
+[00:44:09.130 --> 00:44:12.909]  Adolf Hitler and Rudolf Hess, the Weissfuehrer.
+[00:44:13.230 --> 00:44:16.190]  And they had a deal for Hitler to be able to invade Europe.
+[00:44:16.710 --> 00:44:19.750]  England would pull back, act like they were not involved.
+[00:44:20.610 --> 00:44:26.030]  And then Edward VIII, the King of England, would be set on the throne of the European Union.
+[00:44:27.889 --> 00:44:32.989]  And instead, it was such a high-level double-cross that Edward VIII got double-crossed because he was German.
+[00:44:33.570 --> 00:44:37.650]  And they double-crossed the Nazis.
+[00:44:38.329 --> 00:44:45.050]  And then Rudolf Hess flew personally over and jumped out over the palace with a parachute in the treaty.
+[00:44:45.409 --> 00:44:47.869]  Thought he would, you know, talk about it.
+[00:44:47.989 --> 00:44:49.809]  They locked him in the tower for the rest of his life.
+[00:44:50.269 --> 00:44:52.369]  But this was all declassified in the 70s.
+[00:44:52.949 --> 00:44:55.769]  So it's like, oh, Hitler good, Hitler bad.
+[00:44:56.130 --> 00:44:56.670]  No, no.
+[00:44:56.969 --> 00:44:59.929]  Hitler was bad, did a lot of bad stuff.
+[00:44:59.989 --> 00:45:02.389]  But the point was, he was literally a wind-up toy.
+[00:45:02.630 --> 00:45:04.050]  Just like the Ayatollahs.
+[00:45:04.539 --> 00:45:10.260]  Just like they just put al-Qaeda in charge of Syria, and they just put it in to knock it down, put it in.
+[00:45:10.360 --> 00:45:14.199]  Same game being played over and over and over.
+[00:45:14.340 --> 00:45:33.840]  And British intelligence, you know, had the wives and everything was infiltrated from the beginning of the Nazis, embedded with them, with their German double agents, and had the Enigma Code and knew all what the Nazis were doing the whole time, knew all their plans, but let them win and let them expand and let them sink all the ships and wouldn't save any of the people.
+[00:45:34.239 --> 00:45:36.679]  Because they were just waiting to use it for when they were ready.
+[00:45:37.139 --> 00:45:40.559]  Once they got the whole world to line up behind the British Empire as the victim.
+[00:45:41.099 --> 00:45:44.840]  So the sophistication of the evil is just staggering.
+[00:45:46.440 --> 00:45:51.280]  So now people know about the globalists and the Rothschilds and all that.
+[00:45:51.960 --> 00:45:57.960]  So they think, well, if what we were told about World War II was a lie, well, then Hitler must be good.
+[00:45:58.519 --> 00:46:02.860]  He has the sharp Hugo Boss outfits and all that stuff that was so attractive to people.
+[00:46:03.599 --> 00:46:04.900]  But no, he was a loser.
+[00:46:05.300 --> 00:46:16.559]  He was totally set up, totally psychologically profiled, and totally just walked right into their trap and got 24 million Germans killed.
+[00:46:18.099 --> 00:46:20.760]  That's one of those ones where maybe we let this one go too far.
+[00:46:21.920 --> 00:46:22.280]  Yeah.
+[00:46:22.679 --> 00:46:29.039]  Well, what's crazy is at an academic level, PhD level, I mean, there's Pulitzer Prize-winning books on World War II that are basically in the middle of this.
+[00:46:29.739 --> 00:46:31.559]  It's fat, but you never see it on History Channel.
+[00:46:31.960 --> 00:46:34.320]  It's not in the pop culture stuff about Nazis.
+[00:46:34.699 --> 00:46:37.840]  When you think about Nazis, it's Inglourious Basterds or something.
+[00:46:38.280 --> 00:46:40.079]  They're the bad guys and we're the good guys.
+[00:46:40.260 --> 00:46:49.480]  And it's like, no, the West created that Frankenstein and set it loose so they could be the saviors and get the villagers to go burn down Frankenstein Castle.
+[00:46:50.300 --> 00:46:53.380]  And so it's the same thing.
+[00:46:53.460 --> 00:46:54.179]  Oh, are you for Iran?
+[00:46:54.260 --> 00:46:55.360]  No, I hate those movies.
+[00:46:55.760 --> 00:46:56.920]  But who put them in there?
+[00:46:57.039 --> 00:46:58.519]  See, it's a fact.
+[00:46:58.840 --> 00:47:03.440]  And it's the same story over and over and over and over and over again.
+[00:47:04.440 --> 00:47:10.760]  And, I mean, there's a movie that came out like 10 years ago called The King or King.
+[00:47:11.500 --> 00:47:13.320]  And it's got the actor that's in Dune.
+[00:47:13.699 --> 00:47:17.250]  I forget, but the point is that's, Yeah, yeah, yeah.
+[00:47:19.280 --> 00:47:20.860]  That's based on a true story.
+[00:47:23.139 --> 00:47:24.280]  I forget how many hundred.
+[00:47:24.400 --> 00:47:34.519]  It was like 600 years ago, whatever it was, but we're, That's a great movie, by the way.
+[00:47:34.639 --> 00:47:35.539]  I know which one you're talking about.
+[00:47:36.260 --> 00:47:37.059]  It's called King?
+[00:47:38.320 --> 00:47:38.920]  The King?
+[00:47:39.300 --> 00:47:39.800]  I think you're, yeah.
+[00:47:40.039 --> 00:47:41.420]  But, Jamie, pull that up.
+[00:47:42.280 --> 00:47:43.099]  Brock, pull that up.
+[00:47:43.579 --> 00:47:44.280]  Brock's Grok.
+[00:47:44.420 --> 00:47:45.219]  Yeah, Brock's Grok.
+[00:47:45.219 --> 00:47:45.820]  Brock's the new Grok.
+[00:47:46.109 --> 00:47:50.099]  So, but it wasn't just that dynasty.
+[00:47:50.099 --> 00:47:55.838]  It's so accurate how the other...
+[00:47:58.869 --> 00:47:59.469]  It's all true story.
+[00:48:00.090 --> 00:48:03.909]  And then the advisors are controlling him with disinformation.
+[00:48:04.309 --> 00:48:07.409]  That's how they do presidents today, the CIA briefings.
+[00:48:07.750 --> 00:48:14.050]  But he's got his first cousins over there, the king of France.
+[00:48:15.180 --> 00:48:22.809]  And they're basically just going to have a war to unify their countries and stop their own uprisings.
+[00:48:22.809 --> 00:48:23.190]  Right.
+[00:48:23.190 --> 00:48:24.729]  And there are so many...
+[00:48:31.750 --> 00:48:32.750]  That's called the king, yeah.
+[00:48:33.590 --> 00:48:42.769]  And, I mean, so that's, because again, William the Conqueror, a little less than a thousand years ago, is the big Viking king that had taken over Europe.
+[00:48:43.110 --> 00:48:53.570]  And he goes in, takes over the bureaucracy in France, that kind of some of the vestiges of the bureaucracy of Rome left during the Dark Ages after Rome had fallen in 410.
+[00:48:54.500 --> 00:48:59.079]  When Alaric sacked Rome, but that's a side issue.
+[00:48:59.280 --> 00:49:00.420]  There's a lot of history where Alaric connects.
+[00:49:00.820 --> 00:49:13.980]  The point is that you have the Norman that come in and take over England, and so it's all the same royal bloodline, and it's literally just the same family fighting with itself.
+[00:49:14.420 --> 00:49:17.278]  And most of the time, it's literally staged.
+[00:49:17.278 --> 00:49:23.070]  I mean, your armies are going off and killing each other, and this is all going on, but...
+[00:49:25.219 --> 00:49:29.119]  Because normally you've got the Welsh and the Scots and the Irish.
+[00:49:29.300 --> 00:49:30.500]  You've got the Britis.
+[00:49:30.679 --> 00:49:31.719]  That's where Britain comes from.
+[00:49:31.719 --> 00:49:32.880]  It's that tribe right there in the south.
+[00:49:33.340 --> 00:49:37.300]  And how do you get them all to stop doing this and to pay their taxes?
+[00:49:37.539 --> 00:49:38.059]  Unite them.
+[00:49:38.619 --> 00:49:38.780]  Yeah.
+[00:49:39.079 --> 00:49:42.340]  And so anytime you had uprisings on both sides of the channel, there's a war.
+[00:49:43.400 --> 00:49:49.400]  And that's why Herman Von Rumpi, about 15 years ago, the head of the unelected EU dictatorship, himself royalty.
+[00:49:50.190 --> 00:49:54.050]  Well, he's given away the crown, but he owns Luxembourg, King Luxembourg.
+[00:49:55.429 --> 00:50:00.829]  They had a couple countries that figured out, we never voted to be in the EU bureaucracy, the EU Commission.
+[00:50:00.829 --> 00:50:04.449]  It was a trade deal, but how is it canceling elections and running our countries?
+[00:50:05.369 --> 00:50:08.030]  So multiple countries were voting to leave the EU.
+[00:50:08.489 --> 00:50:12.769]  And von Rupi said, you're not leaving, we'll just have a war with Russia.
+[00:50:13.829 --> 00:50:15.309]  And people are like, what does that mean?
+[00:50:15.429 --> 00:50:17.289]  Well, because NATO will just start a war in time at once.
+[00:50:17.949 --> 00:50:20.530]  Anytime they want, they control those countries all around Russia.
+[00:50:20.690 --> 00:50:22.530]  They'll just have them start attacking the Russians.
+[00:50:22.650 --> 00:50:23.570]  And that's what Ukraine did.
+[00:50:24.210 --> 00:50:26.550]  And then here comes the Russians.
+[00:50:26.730 --> 00:50:30.429]  I mean, it's absolutely sick.
+[00:50:30.510 --> 00:50:33.070]  And it goes on and on and on and on and on and on.
+[00:50:33.110 --> 00:50:36.409]  So it's the same trick, same trick, same trick, same trick, same trick.
+[00:50:36.670 --> 00:50:40.429]  And we're just stuck in this loop, that never-ending loop of war.
+[00:50:41.090 --> 00:50:45.349]  And everybody gets riled up, just like what just happened yesterday, the day before now.
+[00:50:45.750 --> 00:50:46.150]  Right.
+[00:50:46.809 --> 00:50:50.969]  Literally, I'm walking around and everybody's asking me, I wonder what Alex is going to say about this.
+[00:50:51.130 --> 00:50:57.530]  Because everybody, I had friends DMing me and texting me like, dude, is there going to be a draft for this?
+[00:50:58.110 --> 00:51:00.449]  They're so good at getting everybody riled up.
+[00:51:01.090 --> 00:51:04.630]  It's all part of World War IV, so it's all part of the same escalating conflict.
+[00:51:04.869 --> 00:51:12.909]  So it's a Rand Corporation threat escalation ladder that they came out with in the 50s that's been adopted by all the countries in the world because it's a really good gauge.
+[00:51:12.909 --> 00:51:22.289]  It goes from like 1 to 43. And 43 is total nuclear war, total commitment, tens of thousands of warheads going off, nuclear winter, civilization ending.
+[00:51:22.489 --> 00:51:24.949]  And we're already in the mid-30s.
+[00:51:25.050 --> 00:51:32.070]  And then once you go up to that escalation ladder, each side keeps escalating, then you're there.
+[00:51:32.689 --> 00:51:37.539]  And so you've got Iran, China, North Korea, and Russia allied on their axis.
+[00:51:37.548 --> 00:51:39.768]  And then you've got...
+[00:51:57.840 --> 00:52:06.539]  And NATO and the EU, which is literally the unelected commission, and most people on the commission are the former royalty of Europe.
+[00:52:06.800 --> 00:52:07.940]  It's literally the kings are back.
+[00:52:08.320 --> 00:52:10.619]  The old Hitler plan, but just under a new model.
+[00:52:11.079 --> 00:52:13.599]  Because Hitler was going to put Edward VIII on the throne of Europe.
+[00:52:14.280 --> 00:52:16.059]  Put it back under absolute monarchy.
+[00:52:17.639 --> 00:52:22.599]  So they're saying their business plan in the EU and NATO is a 30-year war with Russia.
+[00:52:22.739 --> 00:52:24.260]  They believe it'll never go nuclear.
+[00:52:24.480 --> 00:52:25.780]  They believe it'll bankrupt Russia.
+[00:52:25.920 --> 00:52:26.920]  They're ready to go 30 years.
+[00:52:27.079 --> 00:52:29.300]  And then they're going to, quote, break Russia up in five parts.
+[00:52:29.300 --> 00:52:30.219]  That's their new business model.
+[00:52:30.579 --> 00:52:32.079]  So it's always the same war.
+[00:52:32.159 --> 00:52:33.619]  Napoleon going into Russia.
+[00:52:33.820 --> 00:52:35.039]  Hitler going into Russia.
+[00:52:35.550 --> 00:52:36.170]  Get Russia!
+[00:52:37.409 --> 00:52:41.869]  Because it's three times the size of all the rest of Europe, at least.
+[00:52:42.010 --> 00:52:43.889]  I mean, it's bigger than the continent of Africa.
+[00:52:44.190 --> 00:52:47.670]  It's got more oil, more diamonds, more everything.
+[00:52:48.190 --> 00:52:49.010]  It's got everything.
+[00:52:49.329 --> 00:52:50.710]  I mean, it's ridiculous.
+[00:52:51.989 --> 00:52:55.070]  And it's almost untapped.
+[00:52:55.289 --> 00:52:58.210]  90% of the Russians all live just in the West, right against Europe.
+[00:52:58.639 --> 00:53:01.940]  And just, if you fly over it, you look at satellites, there's like no lights on.
+[00:53:02.079 --> 00:53:05.739]  It's just like, it's like equivalent to like six, seven Rocky Mountains out there.
+[00:53:05.840 --> 00:53:08.019]  It's just like, I mean, just unbelievable.
+[00:53:08.639 --> 00:53:09.920]  And they won it.
+[00:53:10.019 --> 00:53:11.500]  So it's all about global domination.
+[00:53:11.900 --> 00:53:15.840]  So it's been said that generals always fight the last war.
+[00:53:16.159 --> 00:53:18.019]  Well, because there is no past, present, or future.
+[00:53:18.139 --> 00:53:19.619]  It's all one moment expanding.
+[00:53:20.340 --> 00:53:22.679]  And so that's what's happening.
+[00:53:23.159 --> 00:53:25.139]  And you've had the Anglo-Saxons.
+[00:53:25.860 --> 00:53:28.300]  What's the average person that thinks they're into English history?
+[00:53:28.440 --> 00:53:29.179]  I'm an Anglo-Saxon.
+[00:53:29.480 --> 00:53:39.679]  The Anglo-Saxons are a Norse tribe out of Northern Europe that the Russians have been fighting for about a thousand years.
+[00:53:39.840 --> 00:53:41.460]  They're also fighting the Muslims that long.
+[00:53:41.639 --> 00:53:46.340]  So they've been getting attacked by the Anglo-Saxons, the same ones that William the Conqueror and all that took over England.
+[00:53:47.039 --> 00:53:49.760]  He was just the peak of that.
+[00:53:50.280 --> 00:53:56.400]  And so when the Russians talk, you hear people talking about Anglo-Saxons and the Thousand Year War and you're not going to get Russia?
+[00:53:56.460 --> 00:53:58.360]  And he's like talking directly to the Anglo-Saxons.
+[00:53:58.699 --> 00:53:59.219]  I see.
+[00:53:59.340 --> 00:54:00.760]  So Anglo-Saxons aren't even English.
+[00:54:00.920 --> 00:54:01.599]  They're not Scottish.
+[00:54:01.719 --> 00:54:02.039]  They're not Irish.
+[00:54:02.139 --> 00:54:03.179]  They're the Norse rulers.
+[00:54:03.400 --> 00:54:05.840]  So people think of Vikings pulling up on Viking ships.
+[00:54:06.420 --> 00:54:08.679]  That's just their, you know.
+[00:54:09.679 --> 00:54:12.340]  Local villages and stuff want some extra goodies, they go out and do that.
+[00:54:12.739 --> 00:54:15.380]  Vikings were mainly traders as far away as China up those rivers.
+[00:54:15.719 --> 00:54:17.280]  That's why they're flat bottom boats.
+[00:54:17.440 --> 00:54:20.760]  They dug up thousands of Vikings buried in Viking graves in northern China.
+[00:54:20.980 --> 00:54:22.039]  They were all over the world.
+[00:54:22.340 --> 00:54:26.099]  Leif Erikson was found in the Americas hundreds of years before.
+[00:54:26.239 --> 00:54:28.239]  They found Viking graves here in the U.S.?
+[00:54:28.239 --> 00:54:28.579]  Absolutely.
+[00:54:28.900 --> 00:54:32.579]  So the point is, that's just scouts of the Vikings.
+[00:54:32.800 --> 00:54:34.940]  No, the Vikings are the kings of Europe.
+[00:54:35.559 --> 00:54:38.159]  I mean, the Vikings conquered Europe after Rome fell.
+[00:54:38.349 --> 00:54:47.269]  So Rome ran Europe, and then it fell in 410 when the Visigoths, Ostrogoths, you know, conquered them, sacked them.
+[00:54:47.969 --> 00:54:52.030]  And then the church was still left limited, but then the Vikings came and hit that over.
+[00:54:52.250 --> 00:54:56.530]  And so the Russians addressed them as the Anglo-Saxons.
+[00:54:57.010 --> 00:54:58.690]  They call you Anglo-Saxon rats.
+[00:54:58.690 --> 00:54:59.389]  We're going to get you.
+[00:54:59.510 --> 00:55:01.690]  And the media's like, they're calling everyone in England a rat.
+[00:55:01.690 --> 00:55:04.750]  No, they're addressing the Anglo-Saxons who aren't even English.
+[00:55:05.989 --> 00:55:07.469]  So, you understand now?
+[00:55:07.650 --> 00:55:07.829]  Yep.
+[00:55:08.039 --> 00:55:11.639]  So, I mean, it's like Dune, which Frank Herbert was a great historian.
+[00:55:11.800 --> 00:55:14.039]  It's like House Atreides, House Arcona, and feuding.
+[00:55:14.239 --> 00:55:16.119]  And for thousands of years, they're trying to kill each other.
+[00:55:16.820 --> 00:55:19.099]  And it's just the same fight.
+[00:55:19.579 --> 00:55:23.280]  And Harkonnen gets over Atreides and says, finally, your house dies.
+[00:55:24.239 --> 00:55:26.780]  Your wife's dead, your son's dead.
+[00:55:26.940 --> 00:55:28.900]  They'll kill you and snuff you out.
+[00:55:29.369 --> 00:55:31.949]  If you read the book, it's like a thousand-year war between those families.
+[00:55:32.250 --> 00:55:33.230]  It's the same stuff.
+[00:55:33.409 --> 00:55:33.889]  It's the same thing.
+[00:55:34.130 --> 00:55:36.710]  And literally, Putin's like, House Harkonnen, we're going to get your ass.
+[00:55:37.110 --> 00:55:39.150]  And people wonder, why is this all going on?
+[00:55:39.969 --> 00:55:40.710]  Never ends.
+[00:55:41.210 --> 00:55:44.429]  Well, I think this is a good time in the podcast to pivot a little bit.
+[00:55:44.530 --> 00:55:45.630]  I didn't want to keep it all on.
+[00:55:45.730 --> 00:55:47.110]  Well, people, this is an important question.
+[00:55:47.670 --> 00:56:03.550]  People are asking, this is the most dangerous, potentially world-ending thermonuclear war scale we've ever been on, according to all the think tanks, international, Atomic scientists, you know, the doomsday clock, because it just escalates, escalates on all the war games.
+[00:56:03.690 --> 00:56:04.389]  India, Pakistan.
+[00:56:04.789 --> 00:56:05.610]  I mean, here's the detonators.
+[00:56:05.849 --> 00:56:08.090]  Russia, Ukraine's number one.
+[00:56:09.550 --> 00:56:15.289]  Now, because of this, it's Israel, Iran, because that can bring in Pakistan and India that are at odds with nuclear weapons.
+[00:56:15.429 --> 00:56:17.750]  China's in that as well.
+[00:56:18.110 --> 00:56:26.528]  So it goes Russia, Ukraine was then China, Taiwan, but now that's third now.
+[00:56:26.528 --> 00:56:27.480]  Now it's...
+[00:56:28.920 --> 00:56:29.420]  Iran, yeah.
+[00:56:29.579 --> 00:56:38.000]  So it goes Russia, Ukraine, Israel, Iran, China, Taiwan, India, Pakistan, North Korea, South Korea.
+[00:56:38.780 --> 00:56:40.000]  I mean, those are the big ones.
+[00:56:41.539 --> 00:56:43.480]  But it's closer than ever.
+[00:56:43.679 --> 00:56:45.300]  And it just escalates and escalates.
+[00:56:45.380 --> 00:56:46.960]  So people have a right to be concerned.
+[00:56:47.280 --> 00:56:49.780]  Europe is bringing back the draft, including for women, conscription.
+[00:56:50.099 --> 00:56:51.920]  They're mobilizing for total war with Russia.
+[00:56:52.139 --> 00:57:09.159]  You know, I always wondered, you know, when they were being, the military was being very inclusive with, like, LGBTQ, and they were trying to make the military very, very inclusive in bringing in all these different, you know, what used to be, like, if you were homosexual, you were not eligible to be in the military, right?
+[00:57:09.280 --> 00:57:11.800]  So people would use that back in the day to get out of the draft.
+[00:57:11.980 --> 00:57:12.920]  Be like, oh, I'm gay.
+[00:57:13.179 --> 00:57:14.599]  I don't have to go to war.
+[00:57:15.260 --> 00:57:20.380]  And I always wondered, I thought it was kind of suspicious that they were all of a sudden being very inclusive in the military.
+[00:57:20.599 --> 00:57:27.179]  And I was like, is that a precursor to a war where they don't want anybody to fucking dodge the draft?
+[00:57:27.940 --> 00:57:28.340]  100%.
+[00:57:28.340 --> 00:57:34.400]  And again, they're not going to put most of those people in any type of real combat role.
+[00:57:34.599 --> 00:57:43.440]  They want it to be a new system where everybody kind of has a uniform, even though they weigh 400 pounds, and they're now a federal agent or whatever on the ground.
+[00:57:44.179 --> 00:57:48.159]  Just kind of like any totalitarian system where they just get everybody basically into the government.
+[00:57:48.800 --> 00:57:52.679]  But they can draft you and put you into whatever position they want, basically slave labor.
+[00:57:52.960 --> 00:57:57.519]  And then it gets the left, who'd always been rightfully against a lot of war in many cases.
+[00:57:58.380 --> 00:58:04.139]  Now that they feel included, it's not so much they're going to even be conscripted, all of them, though a lot of them will be, women, particularly young women.
+[00:58:04.840 --> 00:58:08.860]  But they now feel like that they're for war because they're part of it.
+[00:58:08.880 --> 00:58:10.199]  Well, they feel they have ownership now.
+[00:58:10.260 --> 00:58:10.760]  Yes, yes.
+[00:58:10.860 --> 00:58:11.840]  They have a seat at the table.
+[00:58:12.239 --> 00:58:13.719]  You have to listen to us now.
+[00:58:13.920 --> 00:58:14.300]  Exactly.
+[00:58:14.440 --> 00:58:23.019]  Well, we've got, oh, we're going to go vaporize people with drones and kill everybody with AI-controlled autonomous drones, but it's okay because we're having our LGBT meetings.
+[00:58:23.579 --> 00:58:24.019]  Exactly.
+[00:58:24.460 --> 00:58:26.039]  Yeah, they have to listen to us now.
+[00:58:26.699 --> 00:58:30.639]  It is total, it's just, it is nothing, it's total manipulation.
+[00:58:30.738 --> 00:58:36.342]  So to shift focus of this podcast, because me and you being, We hang out every day.
+[00:58:36.380 --> 00:58:40.019]  And so I get to see a different side of Alex Jones that the rest of the world doesn't get to see.
+[00:58:40.199 --> 00:58:42.460]  So we could sit here and talk all day about all this.
+[00:58:42.659 --> 00:58:49.639]  But this is stuff that people can go onto your show and they can hear every day, all day, they could find something about this.
+[00:58:50.320 --> 00:58:56.920]  I kind of wanted to make this podcast a little bit a better opportunity for people to get to know the personal side of you.
+[00:58:57.430 --> 00:59:00.789]  We know everything that happened within the last few years.
+[00:59:00.798 --> 00:59:02.690]  We're going to leave that out for...
+[00:59:05.019 --> 00:59:07.400]  But I want to talk about everything that happened before that.
+[00:59:07.519 --> 00:59:09.739]  And then I want to talk about what's happened after that.
+[00:59:09.940 --> 00:59:17.300]  And I want to give the listeners an opportunity to see what I see, which is like peeking into your mind.
+[00:59:17.420 --> 00:59:19.420]  And like, where do you come from?
+[00:59:19.579 --> 00:59:21.599]  Because you're such a polarizing individual.
+[00:59:22.349 --> 00:59:25.429]  Like the most polarizing individual in my lifetime.
+[00:59:25.438 --> 00:59:28.409]  I've never seen somebody that's...
+[00:59:31.159 --> 00:59:33.820]  Your fans absolutely adore you.
+[00:59:34.380 --> 00:59:40.900]  Everything you say, I mean, they think you're sent from God, basically, in a lot of these people's eyes.
+[00:59:41.119 --> 00:59:42.280]  And then you have the other side.
+[00:59:42.320 --> 00:59:46.000]  And then there's this huge gap in the middle with very few people that are on the fence.
+[00:59:46.179 --> 00:59:47.597]  It's kind of like one or the other.
+[00:59:47.597 --> 00:59:56.679]  And so I think this is a great opportunity to show people and listeners, um, What was little Alex like?
+[00:59:56.840 --> 01:00:11.940]  When did you all of a sudden realize, I'm different, and I'm not going to just fall in line with the sheep and just blindly accept what mainstream media is telling me?
+[01:00:12.019 --> 01:00:13.659]  And you started to buck the system.
+[01:00:14.119 --> 01:00:17.500]  When did you notice this entering your life?
+[01:00:17.960 --> 01:00:19.980]  I was born in Dallas.
+[01:00:20.659 --> 01:00:21.840]  Went to public school.
+[01:00:22.099 --> 01:00:22.900]  Great parents.
+[01:00:23.639 --> 01:00:25.920]  My mom had a degree in psychology history.
+[01:00:26.039 --> 01:00:29.900]  My dad's a dentist and owned medical clinics and other things.
+[01:00:30.380 --> 01:00:32.340]  And was always really engaged and smart.
+[01:00:32.460 --> 01:00:36.000]  Had a lot of family that were in a lot of different industries.
+[01:00:36.880 --> 01:00:38.780]  And ranchers, farmers, you name it.
+[01:00:38.820 --> 01:00:40.300]  Spent a lot of time on the family ranch.
+[01:00:40.960 --> 01:00:50.480]  And my mom's brother, my uncle, had been a Vietnam helicopter pilot, special operations helicopter guy that delivered those guys.
+[01:00:50.579 --> 01:00:51.679]  Did a lot of clandestine stuff.
+[01:00:52.110 --> 01:00:53.230]  He was an Iran-Contra.
+[01:00:53.789 --> 01:00:55.510]  He was a pretty high-level manager.
+[01:00:56.369 --> 01:01:09.170]  And then spoke out, you know, not publicly, but, you know, about when I was a teenager, about the things he saw and things that really went on in Vietnam and then also in Central and South America.
+[01:01:09.789 --> 01:01:12.889]  He talked about the government, human trafficking, even back then.
+[01:01:13.090 --> 01:01:15.929]  And he and a bunch of the guys got out because they weren't going to be part of it.
+[01:01:16.250 --> 01:01:19.170]  He didn't even tell me all of it until he was on his deathbed about 11 years ago.
+[01:01:19.949 --> 01:01:21.289]  And it's all the stuff you see today.
+[01:01:21.828 --> 01:01:25.187]  the government shipping little kids out of Guatemala and stuff out of orphanages, things like that.
+[01:01:25.658 --> 01:01:32.088]  So I, uh, so you grew up hearing crazy stories about what the government was doing.
+[01:01:32.088 --> 01:01:42.028]  And at what point was there, I mean, was it just that or was there a certain book that you read that kind of like made you think differently about the system?
+[01:01:42.028 --> 01:01:48.288]  I mean, I just – I had no idea that I had – I mean, it wasn't just my uncle.
+[01:01:48.317 --> 01:01:56.778]  The government And so I would go to family reunions or just be around family on both sides.
+[01:01:56.778 --> 01:02:11.179]  And they'd just be sitting around, you know, like even the older guys, you know, like, Yeah, we put the Nike missiles in with the nukes in Turkey.
+[01:02:11.199 --> 01:02:16.940]  And that's why the Russians really put their intermediate range nukes in Cuba for the Cuban Missile Crisis.
+[01:02:17.239 --> 01:02:20.940]  And then we were going to and it was just all little kids are sitting there listening to this.
+[01:02:21.059 --> 01:02:23.119]  And I was just by osmosis hearing it.
+[01:02:23.519 --> 01:02:26.280]  Wasn't really even interested in it, but I was.
+[01:02:26.679 --> 01:02:28.579]  And then I was really, you know, I loved.
+[01:02:29.039 --> 01:02:33.260]  I was into sports and stuff, but I also was a bookworm, so I love comic books and science fiction.
+[01:02:33.719 --> 01:02:37.079]  And so, I mean, I was a really advanced reader for my age.
+[01:02:37.199 --> 01:02:39.599]  I was, like, high school level when I was, like, eight or nine.
+[01:02:41.420 --> 01:02:50.599]  And so, I love reading, like, Robert E. Howard, the original Conan books, you know, written in the 30s in Texas, and just loving all that.
+[01:02:51.340 --> 01:02:54.099]  And I was reading, like, H.P. Lovecraft and stuff.
+[01:02:54.920 --> 01:03:01.940]  By the time I had about 10, though, my mom had all these history books around, and some of them had pictures in them and stuff.
+[01:03:02.139 --> 01:03:10.260]  And I got addicted to history instead and stopped reading fiction pretty much entirely.
+[01:03:10.619 --> 01:03:17.039]  And then voraciously, my dad would never really, you know, if I wanted a bike, I had to go mow lawns for it.
+[01:03:17.079 --> 01:03:20.949]  if I wanted whatever, you know, I had to get a job very, very young.
+[01:03:20.958 --> 01:03:36.670]  And so, And so they had TV ads on, anybody that's 50 or so remembers this, for time-life encyclopedias, picture encyclopedias.
+[01:03:36.929 --> 01:03:39.690]  So it was for adults, but kids could read it.
+[01:03:39.789 --> 01:03:41.969]  So I would be like, I want World War I encyclopedias.
+[01:03:42.090 --> 01:03:43.949]  You get a new one like every few weeks in the mail.
+[01:03:44.489 --> 01:03:45.710]  Boom, my dad would buy it.
+[01:03:45.929 --> 01:03:47.829]  Okay, I want World War II encyclopedias.
+[01:03:47.869 --> 01:03:48.369]  I still got them.
+[01:03:48.809 --> 01:03:49.530]  I want those.
+[01:03:49.690 --> 01:03:49.849]  Boom.
+[01:03:50.389 --> 01:03:51.170]  So non-fiction.
+[01:03:51.389 --> 01:03:52.789]  I want Wall Wall West Encyclopedia.
+[01:03:52.989 --> 01:03:54.090]  All these leather-bound ones.
+[01:03:54.510 --> 01:03:57.670]  He probably bought me 30 encyclopedias.
+[01:03:57.789 --> 01:03:59.369]  My dad, the whole house was just full of books.
+[01:03:59.409 --> 01:04:00.090]  He was the same way.
+[01:04:02.010 --> 01:04:03.429]  Encyclopedia Britannica everywhere.
+[01:04:05.949 --> 01:04:12.610]  As early as I can remember, my dad would sit there on my knee just going through an encyclopedia reading to me about adult encyclopedias.
+[01:04:15.659 --> 01:04:20.980]  And he'd been involved in some secret government projects that he never really got into.
+[01:04:21.260 --> 01:04:21.980]  Can you get into that?
+[01:04:22.280 --> 01:04:29.500]  I mean, it was DARPA, MKUltra.
+[01:04:29.800 --> 01:04:31.820]  My dad was basically in MKUltra.
+[01:04:32.539 --> 01:04:34.360]  Not as a test subject, but in it.
+[01:04:35.559 --> 01:04:38.159]  That was that main project umbrella.
+[01:04:39.260 --> 01:04:40.179]  He got recruited.
+[01:04:40.300 --> 01:04:42.920]  He was 14. He was top scorers.
+[01:04:43.039 --> 01:04:44.219]  He was winning these science projects and stuff.
+[01:04:45.250 --> 01:04:52.909]  Eisenhower had started the WizKid program, but it was still ongoing when my dad was, you know, like 14 when Kennedy was in.
+[01:04:54.130 --> 01:04:58.030]  And so, and his mom was a principal and stuff in East Texas.
+[01:04:58.190 --> 01:05:00.130]  So they're like, oh yeah, this is a feeder program for NASA.
+[01:05:01.989 --> 01:05:04.369]  So your dad's mom, your grandma, was a principal.
+[01:05:04.570 --> 01:05:06.869]  Yeah, and so she was all into academic and stuff.
+[01:05:06.969 --> 01:05:09.269]  And so she would enroll him in all these things, all these projects.
+[01:05:09.289 --> 01:05:10.150]  He was giving speeches.
+[01:05:12.329 --> 01:05:13.829]  Radio show once a week in Dallas.
+[01:05:14.570 --> 01:05:16.050]  They drive up from the ranch.
+[01:05:16.230 --> 01:05:17.429]  He was anti-communist.
+[01:05:17.570 --> 01:05:18.570]  He was in the John Birch Society.
+[01:05:18.570 --> 01:05:19.409]  It was basically that.
+[01:05:19.750 --> 01:05:24.170]  And so the government went, hey, we'll enroll you in a program with NASA.
+[01:05:24.469 --> 01:05:25.530]  But it wasn't NASA.
+[01:05:25.730 --> 01:05:28.610]  And they were getting all the other big brains around the country.
+[01:05:29.190 --> 01:05:36.369]  And so at 14, he gets put in UT Plan 2. What's that, UT Plan 2?
+[01:05:36.489 --> 01:05:39.829]  Plan 2 was a project bringing high schoolers into college.
+[01:05:40.409 --> 01:05:41.650]  So UT, University of Texas?
+[01:05:41.829 --> 01:05:41.949]  Yeah.
+[01:05:42.170 --> 01:05:44.570]  And then so he told me about the first phase of it.
+[01:05:46.730 --> 01:05:48.269]  It was like, okay, you want to be at NASA?
+[01:05:48.449 --> 01:05:56.010]  Well, you're now going to be a year when you're 14, 15 in Houston at MD Anderson Cancer Research Facility.
+[01:05:56.929 --> 01:06:08.550]  And so he's in there and he's in the big quasi-classified cancer wards, terminal cancer patients, where people are signing, you know.
+[01:06:09.250 --> 01:06:12.409]  Agreements to take stuff that they know is probably lethals, raw testing.
+[01:06:13.210 --> 01:06:16.409]  And basically he was put right into the bad scientists because that's the top of this thing.
+[01:06:16.789 --> 01:06:23.489]  That's how they, and he was in there with other, you know, young people from around the country and in there assisting these scientists.
+[01:06:23.769 --> 01:06:27.010]  And I might add, I remember being a little kid, he was telling me about it.
+[01:06:27.570 --> 01:06:30.289]  And then he, after about a year of that, he said, I don't like this.
+[01:06:30.889 --> 01:06:33.789]  And so they said, okay, well, that will put you in another project.
+[01:06:35.880 --> 01:06:41.699]  And he would never tell me what those other projects were other than it was very interesting.
+[01:06:42.500 --> 01:06:49.340]  And he told me that they took him under UT when he was like 16 and said, oh, here's the secret nuclear reactors.
+[01:06:49.599 --> 01:06:50.719]  They already had computers.
+[01:06:50.900 --> 01:06:51.739]  They already had CD-ROM.
+[01:06:51.860 --> 01:06:53.880]  They already had all this stuff way advanced and everything else.
+[01:06:54.320 --> 01:06:56.239]  And then he went into some other projects.
+[01:06:56.239 --> 01:07:04.079]  And then by the time he was about 20, He said, I'm not doing this.
+[01:07:04.239 --> 01:07:10.059]  And he decided to get out and then just go get his dental degree and decided he didn't want to be part of it.
+[01:07:10.880 --> 01:07:14.380]  So I had, because he decided it was bad.
+[01:07:15.000 --> 01:07:16.099]  And whatever they had him doing.
+[01:07:16.400 --> 01:07:21.780]  And I later from other people learned about it, from other people like, oh yeah, you know what your dad was doing this.
+[01:07:22.460 --> 01:07:29.139]  And it was basically infiltrating leftist groups and a bunch of other stuff.
+[01:07:30.300 --> 01:07:31.579]  Timothy Leary type stuff.
+[01:07:31.880 --> 01:07:34.579]  Dr. Jones was plugged in from the beginning, 14?
+[01:07:35.019 --> 01:07:35.239]  Yeah.
+[01:07:35.820 --> 01:07:36.619]  Holy cow.
+[01:07:36.920 --> 01:07:37.059]  Yeah.
+[01:07:37.260 --> 01:07:38.920]  And so I was just in this environment.
+[01:07:39.179 --> 01:07:40.719]  But I was hearing all this stuff.
+[01:07:40.940 --> 01:07:43.820]  And then my mom's dad was very eccentric.
+[01:07:45.579 --> 01:07:46.219]  How so?
+[01:07:46.960 --> 01:07:53.119]  I mean, you know, he was UT football player, roommates with Tom Landry, founder of the Dallas Cowboys coach.
+[01:07:53.360 --> 01:07:56.039]  They both left UT to join the Army Air Corps together.
+[01:07:56.480 --> 01:07:59.099]  And, you know, Tom Landry used to come down to the house, all this stuff.
+[01:08:00.429 --> 01:08:04.489]  But my point was that he was dialed into a whole bunch of stuff.
+[01:08:05.030 --> 01:08:06.809]  And he was a big inventor.
+[01:08:07.369 --> 01:08:09.809]  And he had a wealthy family in Dallas.
+[01:08:10.409 --> 01:08:15.110]  And was dialed into a whole bunch of that stuff.
+[01:08:15.210 --> 01:08:17.270]  So he knew about a whole bunch.
+[01:08:17.329 --> 01:08:26.229]  So I grew up with him talking about all this other space program stuff and how the government really worked and all the rest of it.
+[01:08:26.310 --> 01:08:28.329]  And again, his son, my uncle.
+[01:08:28.750 --> 01:08:29.529]  It's very interesting.
+[01:08:29.630 --> 01:08:36.050]  He was the world champion Morse coder when he was like 16. The best Morse coder in the world.
+[01:08:36.689 --> 01:08:37.229]  What does that mean?
+[01:08:37.270 --> 01:08:38.109]  You're just super fast?
+[01:08:38.529 --> 01:08:42.550]  Well, even back then, that's how they would communicate stuff.
+[01:08:42.729 --> 01:08:46.729]  So that's what he did in Iran Contra, which is one of the deals, was the dispatches at the White House.
+[01:08:47.449 --> 01:08:50.550]  Is it comprehension of Morse code, or is it actual?
+[01:08:50.590 --> 01:08:51.810]  It's how fast you can do it.
+[01:08:52.550 --> 01:08:58.050]  But it's also, they give you new codes all the time, and that's still some of the best codes that people can't break.
+[01:08:58.590 --> 01:09:01.250]  And he was telling me they were using like revolutionary war codes and stuff.
+[01:09:01.350 --> 01:09:02.989]  They were all from 1776.
+[01:09:03.130 --> 01:09:03.810]  They were changing them up.
+[01:09:03.970 --> 01:09:05.130]  That's the problem with any of this stuff.
+[01:09:05.130 --> 01:09:06.369]  There's just trillions of data points.
+[01:09:06.470 --> 01:09:08.090]  And that's what you wanted me to talk about today.
+[01:09:08.149 --> 01:09:15.729]  I've never really told people is bigger than just all that is how my brain works and why it's hard for me to communicate things to people.
+[01:09:16.149 --> 01:09:21.670]  Because I basically, when I start talking about a subject, I have all these data points that go into how the whole thing works.
+[01:09:21.670 --> 01:09:24.149]  And then it's hard to extrapolate that with a spoken word.
+[01:09:24.720 --> 01:09:26.619]  Like, somebody can't be told about the Matrix.
+[01:09:26.779 --> 01:09:28.239]  You've got to see it, is what I'm saying.
+[01:09:28.380 --> 01:09:34.800]  So, the biggest thing was, I just grew up around all that stuff, and they weren't trying to indoctrinate me.
+[01:09:34.859 --> 01:09:36.119]  They weren't telling me what I was supposed to do.
+[01:09:36.260 --> 01:09:38.140]  They weren't saying, you should go do this, you should go do that.
+[01:09:38.819 --> 01:09:43.920]  They were all very critical, and come up there being a battle inside the government for the future of the country.
+[01:09:44.979 --> 01:09:46.198]  You were just paying attention.
+[01:09:46.198 --> 01:10:02.829]  And, yeah, and talking about all these things that by the time I was 16, 17, 18, And the centralization, the control, the police state, the surveillance, the globalism, all this stuff.
+[01:10:02.930 --> 01:10:09.630]  And so I was, by the time I was like 18, I was like, I need to, or even 17, I was like, I need to do something about this.
+[01:10:09.689 --> 01:10:10.770]  So I started listening to talk radio.
+[01:10:11.250 --> 01:10:13.430]  I was calling to talk radio shows on subjects.
+[01:10:13.699 --> 01:10:16.329]  So you were calling from your house to talk radio?
+[01:10:16.329 --> 01:10:18.028]  Yeah, and I was also...
+[01:10:21.100 --> 01:10:25.220]  And what were they talking about that was pulling you to call?
+[01:10:25.359 --> 01:10:33.699]  It was gun control and environmentalists taking large sections of property for nature preserves that we knew they were just going to steal.
+[01:10:34.159 --> 01:10:38.819]  And I just saw the globalist agenda and I was like, wow, this is the big fight for America.
+[01:10:39.550 --> 01:10:57.449]  this is the future and I've got this whole background and I guess already knew way more than most people's I read so much history and also It wasn't a business idea or I want to be famous or something.
+[01:10:57.590 --> 01:10:58.829]  It was, I need to warn people.
+[01:10:59.109 --> 01:10:59.529]  Yeah.
+[01:11:00.189 --> 01:11:01.729]  I think that's pretty apparent.
+[01:11:01.729 --> 01:11:09.048]  Even going back and watching some of your earliest films where the first time you were on camera, I mean, it doesn't take...
+[01:11:09.050 --> 01:11:31.878]  anybody can see like okay this guy has passion right it's pretty i mean even the host like you'd be on a But you could tell, I was like, this guy right here is already bigger than the host of this show.
+[01:11:32.179 --> 01:11:36.599]  Well, I was just, I just, my problem is you made the point.
+[01:11:36.609 --> 01:11:55.420]  I've known you for four years or something, we've been really good friends for about 10 months, They call it idiot savant because they're idiots in ways, but also super geniuses in others.
+[01:11:55.699 --> 01:12:05.779]  And then most people that are, you know, Aspers or whatever, and that's not what I would say I have, and those are just approximations of things, but it's something akin to that.
+[01:12:06.119 --> 01:12:11.760]  Like, I can have somebody tell me a bunch of numbers, and I can nail the number.
+[01:12:14.310 --> 01:12:16.430]  But if I try to do math, I can't do it.
+[01:12:16.869 --> 01:12:26.970]  Like last night, I had looked at a clock in about an hour and I laid down on the bed and my phone was off because I had it off.
+[01:12:27.149 --> 01:12:28.789]  So I just turned it off and it started annoying me.
+[01:12:29.189 --> 01:12:31.289]  And I just said, turn the phone on, it will be 1037.
+[01:12:32.909 --> 01:12:34.909]  Turn the phone on, 1037.
+[01:12:35.569 --> 01:12:37.170]  And I've done it on air for viewers.
+[01:12:37.369 --> 01:12:41.369]  I mean, I've done it where I say Trump will announce he's the winner at 123.
+[01:12:42.420 --> 01:12:42.819]  Seven.
+[01:12:43.000 --> 01:12:44.079]  I didn't think to say the time.
+[01:12:44.439 --> 01:12:46.079]  It's beyond autism.
+[01:12:46.420 --> 01:12:47.640]  It's beyond, it's like psychic.
+[01:12:48.020 --> 01:12:48.159]  Yeah.
+[01:12:48.659 --> 01:12:49.539]  That's what it is.
+[01:12:49.779 --> 01:12:52.739]  And so I can integrate all this information.
+[01:12:52.840 --> 01:12:54.980]  I had a photographic memory, but from alcohol.
+[01:12:54.980 --> 01:13:04.539]  And, you know, just as you get older, I had a totally photographic memory until about 40, 40, 42, 43. And it was actually great when it started to slip and go away.
+[01:13:04.539 --> 01:13:05.220]  I still have a great memory.
+[01:13:05.220 --> 01:13:13.590]  Because before any topic, any subject, I would suddenly, all this data I knew about it would just go, booz.
+[01:13:16.939 --> 01:13:18.640]  Even now, I've got to ask a question.
+[01:13:18.800 --> 01:13:19.699]  There's thousands of points.
+[01:13:20.180 --> 01:13:22.720]  I feel like I can't just tell people a one-dimensional answer.
+[01:13:23.159 --> 01:13:24.439]  Everybody's controlled by one-dimensional.
+[01:13:25.020 --> 01:13:27.359]  Most people's brains operate as one-dimensional.
+[01:13:27.760 --> 01:13:29.500]  You maybe get them to second, third-dimensional.
+[01:13:32.539 --> 01:13:36.260]  That's really the big thing.
+[01:13:36.479 --> 01:13:38.880]  I don't know what it is where I have this internal clock.
+[01:13:40.420 --> 01:13:41.680]  Like, you know, does that.
+[01:13:43.260 --> 01:13:45.100]  I mean, well, that's part of it, right?
+[01:13:45.319 --> 01:13:52.979]  Like, that's kind of like a human reaction to when your brain is overloaded with information that you are trying to get out, right?
+[01:13:53.260 --> 01:13:57.159]  Like, if you ask me a question, what are you doing today at work?
+[01:13:57.500 --> 01:14:01.619]  And I'm like, okay, I can break it down into, like, the most simplistic thing.
+[01:14:01.739 --> 01:14:04.319]  I gotta, you know, put my work clothes on.
+[01:14:04.539 --> 01:14:05.800]  I've got to drive to work.
+[01:14:05.800 --> 01:14:10.779]  I've got to sit in my truck for a little bit and then we're going to possibly go here for dinner later today.
+[01:14:11.220 --> 01:14:13.220]  I can give you a direct line path.
+[01:14:13.380 --> 01:14:19.260]  But when you're dealing with somebody that has neural divergence, you're familiar with neural divergence.
+[01:14:19.439 --> 01:14:21.060]  You could potentially have ADHD.
+[01:14:21.279 --> 01:14:22.439]  You could have autism.
+[01:14:22.659 --> 01:14:24.100]  You're on a spectrum of some sort.
+[01:14:24.380 --> 01:14:25.960]  The spectrum is very wide.
+[01:14:26.899 --> 01:14:33.079]  I think a lot of times in society we have misconceptions of people that are out there.
+[01:14:34.539 --> 01:14:37.039]  Because we don't understand what's going on in their brain.
+[01:14:37.600 --> 01:14:47.039]  And I think there's been a lot of people that have misrepresented you or maybe misjudged you because they don't understand how your brain works.
+[01:14:47.399 --> 01:14:48.300]  Does that make sense?
+[01:14:48.720 --> 01:14:51.420]  But a simple thing like, hey, what are you doing today at work?
+[01:14:51.420 --> 01:14:55.159]  I can break that down very simply because I know how to break it down simply.
+[01:14:55.279 --> 01:15:03.180]  But for people that their brain works differently like yours, where it's kind of like throwing a ton of darts at the board.
+[01:15:03.390 --> 01:15:05.069]  And you're pulling all bits of information.
+[01:15:05.069 --> 01:15:05.770]  I might do this.
+[01:15:05.869 --> 01:15:06.329]  I might do that.
+[01:15:06.390 --> 01:15:06.890]  I might do this.
+[01:15:07.069 --> 01:15:10.149]  And then trying to get that to sync up with their mouth as they're talking.
+[01:15:10.409 --> 01:15:15.130]  And while you're doing that, even though I'm excited to be doing this, I'm already thinking about all the attacks going on right now.
+[01:15:15.130 --> 01:15:15.590]  Exactly, yeah.
+[01:15:15.630 --> 01:15:19.798]  And the war, and then all the other stuff is just going...
+[01:15:21.909 --> 01:15:30.390]  But to ask about that, the general public has had the corporate media and its whole agenda and its whole other subject take things out of context.
+[01:15:31.220 --> 01:15:34.739]  To try to then demonize larger issues that they're afraid of coming out.
+[01:15:35.020 --> 01:15:41.220]  And so I realize that they take out of context what I say and try to use me as a tool against the truth by taking things out of context.
+[01:15:41.359 --> 01:15:46.819]  That's just one layer of the deception when I'm doing all of this from a place of just trying to empower humanity.
+[01:15:47.020 --> 01:15:49.939]  Because I'm an individual, but I'm also understanding we're all in a collective.
+[01:15:50.279 --> 01:15:53.158]  So I see everybody else is basically an extension of me and vice versa.
+[01:15:53.158 --> 01:15:58.139]  And so there's a lot of different reasons and things they do, but...
+[01:16:08.140 --> 01:16:09.100]  And people have to understand that.
+[01:16:09.180 --> 01:16:11.500]  Remember, they said Trump said the KKK are very fine people.
+[01:16:12.000 --> 01:16:13.859]  No, he said at Charlottesville.
+[01:16:14.560 --> 01:16:20.920]  He said, no, no, there were antivans that were bad, there were KKK that were bad, but there were also a lot of people there just to see what was going on, and people that didn't want our history taken down.
+[01:16:21.020 --> 01:16:23.340]  There were very fine people on both groups, but I do not mean the KKK.
+[01:16:23.710 --> 01:16:23.970]  Right.
+[01:16:24.069 --> 01:16:25.529]  Well, they just say, very fine people.
+[01:16:25.810 --> 01:16:27.270]  Well, they pick and choose what they want.
+[01:16:27.350 --> 01:16:31.449]  And they just say it over and over again with just this, well, it must be true.
+[01:16:31.590 --> 01:16:32.069]  It's everywhere.
+[01:16:32.369 --> 01:16:32.489]  Yeah.
+[01:16:32.750 --> 01:16:36.310]  You know, like most of the stuff people have heard about me, it never was said.
+[01:16:36.609 --> 01:16:36.750]  Yeah.
+[01:16:38.069 --> 01:16:46.729]  Well, it's a great point because, like, I mean, like you said, we've known each other for four or five years, but we didn't really become really good friends until I started training you.
+[01:16:46.970 --> 01:16:51.850]  And so I had this idea of you based off of what the media told me.
+[01:16:52.079 --> 01:16:54.920]  But also what I see on your show, right?
+[01:16:55.300 --> 01:17:00.960]  But what you see on your show is, like, it's not an act, but that's your show.
+[01:17:01.140 --> 01:17:04.260]  You're expected to show up and deliver energy, right?
+[01:17:04.479 --> 01:17:10.479]  And you're supposed to, like, you're representing the people that follow that show, right?
+[01:17:11.060 --> 01:17:16.039]  And then you see the side that the media shows, and it's like, they're against you.
+[01:17:16.188 --> 01:17:17.018]  it's pretty obvious.
+[01:17:17.179 --> 01:17:22.460]  Anybody that follows it, Well, they cherry picked him as represented.
+[01:17:22.619 --> 01:17:28.220]  But what I'm saying is, like, there's a whole entirely different side to Alex Jones that people don't get to see.
+[01:17:28.340 --> 01:17:32.640]  And that's what I'm glad we have you here and we're talking about this.
+[01:17:32.739 --> 01:17:39.779]  Because, like, the whole reason I wanted to pull this podcast together, and thank you for coming, by the way.
+[01:17:40.119 --> 01:17:43.340]  But I wanted to show the world the side of Alex that I see.
+[01:17:43.460 --> 01:17:45.859]  The side that has a gigantic heart.
+[01:17:46.459 --> 01:17:55.708]  Like, honestly, dude, there was the first time we met, might have been the first or the second time, we went down to Zilker Park, remember?
+[01:17:55.708 --> 01:18:02.429]  And they were going to be shooting a documentary, and there was camera crews there, and me and you jumped in the water, and I was like...
+[01:18:04.930 --> 01:18:05.250]  Exactly.
+[01:18:05.310 --> 01:18:11.869]  So we go down to the park and we jump in and we get out and we're about to take off.
+[01:18:12.070 --> 01:18:14.470]  And this homeless guy, I think he was from another country.
+[01:18:16.090 --> 01:18:18.689]  He comes up, and you could tell this guy pulled an all-nighter.
+[01:18:19.010 --> 01:18:20.670]  He had raggedy clothes.
+[01:18:20.670 --> 01:18:22.250]  He had dreadlocks.
+[01:18:22.609 --> 01:18:27.149]  He just looked like, for lack of a better word, dog shit.
+[01:18:27.149 --> 01:18:28.689]  He's a fucking homeless guy.
+[01:18:29.170 --> 01:18:31.329]  I mean, he comes stumbling up.
+[01:18:31.469 --> 01:18:34.248]  He even know who the fuck you were, but he engaged you in conversation.
+[01:18:34.248 --> 01:18:41.998]  And my experience being around people that are not celebrities, but like just like people that are.
+[01:18:50.100 --> 01:18:54.899]  They're usually respectful, but they'll very politely say, thanks, no thanks, I gotta go.
+[01:18:55.659 --> 01:19:00.380]  You stopped, and this is one of the first times I ever experienced you in a personal setting.
+[01:19:00.380 --> 01:19:03.359]  You stopped, and you had a 10-minute conversation with this guy.
+[01:19:04.220 --> 01:19:07.760]  And that was the first time where I was like, what the fuck?
+[01:19:07.899 --> 01:19:09.159]  I did not expect that.
+[01:19:09.840 --> 01:19:13.800]  A homeless guy in raggedy clothes, dreadlocks, dirty.
+[01:19:14.039 --> 01:19:15.420]  He hasn't showered in three weeks.
+[01:19:15.860 --> 01:19:16.720]  Slurring his words.
+[01:19:18.739 --> 01:19:19.819]  We all know what that is.
+[01:19:20.439 --> 01:19:21.300]  You stopped.
+[01:19:21.579 --> 01:19:22.180]  You engaged him.
+[01:19:22.239 --> 01:19:22.880]  Hey, what's your name?
+[01:19:23.000 --> 01:19:23.640]  Where are you from?
+[01:19:23.939 --> 01:19:25.020]  Tell me about your story.
+[01:19:25.300 --> 01:19:26.739]  For ten minutes, we stopped.
+[01:19:26.920 --> 01:19:29.840]  And everybody in the crew was sitting there going like, what is going on right now?
+[01:19:30.840 --> 01:19:35.859]  And that was the first time that I experienced Alex Jones' real personal self.
+[01:19:36.239 --> 01:19:38.399]  Where you don't judge people.
+[01:19:38.829 --> 01:19:39.210]  Right?
+[01:19:39.390 --> 01:19:43.329]  You have a gigantic heart and you give the shirt off your back to anybody that asked for it.
+[01:19:43.569 --> 01:19:46.550]  And it's like then you see the media that vilifies you.
+[01:19:47.189 --> 01:19:47.289]  Right?
+[01:19:47.630 --> 01:19:52.689]  And then I see you on camera and you're representing yourself as a certain thing.
+[01:19:52.930 --> 01:20:01.369]  And so I just think it's like special to be able to share to the world like a real personal side to you.
+[01:20:01.770 --> 01:20:02.510]  Here's the thing, Sean.
+[01:20:02.510 --> 01:20:03.590]  I don't know how you quantify.
+[01:20:04.949 --> 01:20:07.550]  Here's what happens to my four-hour-a-day show.
+[01:20:08.029 --> 01:20:10.729]  That's designed because that's the forum, Talk Radio.
+[01:20:12.689 --> 01:20:14.270]  Basically, I'm TV on Talk Radio.
+[01:20:14.270 --> 01:20:15.949]  I can show you the proof.
+[01:20:16.270 --> 01:20:19.069]  And that's where I started Talk Radio, and that's what it is.
+[01:20:19.829 --> 01:20:24.029]  I just get in there with all this news, and I want to just tell people the stuff that's going on.
+[01:20:24.149 --> 01:20:25.989]  So I try to just go through it.
+[01:20:26.289 --> 01:20:30.649]  And because I love doing podcasts, it's just different, and it's exciting.
+[01:20:30.850 --> 01:20:36.590]  I don't dislike my show, but I've been doing it for, in that format, at least 28 years.
+[01:20:37.270 --> 01:20:45.409]  And so I've been on Air 31. So to me, it's not that I even don't want to be there, but I've done it so much that it clicks in.
+[01:20:45.890 --> 01:20:49.130]  And so then I've got all this news coming in.
+[01:20:49.270 --> 01:20:51.949]  I've already got all this news I want to cover and then all this other news is coming in.
+[01:20:52.329 --> 01:20:58.750]  And then I'm just trying to do the best job I can to each little piece for whoever is interested in that information to get my take on it.
+[01:20:58.829 --> 01:21:02.229]  Because I'm so tired of seeing people kind of shallowly look at a subject.
+[01:21:02.449 --> 01:21:05.510]  So I've got to try to distill all this knowledge down as quickly as I can.
+[01:21:06.029 --> 01:21:08.130]  To give them whatever the best information is.
+[01:21:08.270 --> 01:21:09.789]  So I'm not just analyzing what the information is.
+[01:21:09.909 --> 01:21:14.649]  I'm trying to analyze how fast can I get it out to whoever this is going to hit to wake them up.
+[01:21:14.750 --> 01:21:19.859]  because upping our overall collective intelligence understanding is the opposite of what the globalists want to do.
+[01:21:19.918 --> 01:21:22.649]  So, yeah, my show is not a...
+[01:21:24.689 --> 01:21:27.869]  I mean, what clip I'm going to play is, what guests I've got on, and what questions I'm going to ask are.
+[01:21:28.090 --> 01:21:30.630]  But it's not like I'm saying, will people like this?
+[01:21:30.710 --> 01:21:31.449]  well, they like that.
+[01:21:31.659 --> 01:21:33.529]  It's mainly...
+[01:21:39.439 --> 01:21:41.439]  I'm really powering through my own show.
+[01:21:41.619 --> 01:21:41.779]  Yeah.
+[01:21:42.460 --> 01:21:48.560]  Because, quite frankly, I don't like, I mean, I have to say I don't enjoy it most of the time.
+[01:21:48.899 --> 01:21:49.000]  Yeah.
+[01:21:49.460 --> 01:21:50.680]  Other stuff I do enjoy.
+[01:21:51.479 --> 01:21:53.680]  And talking to random people on the street I enjoy.
+[01:21:54.020 --> 01:21:57.420]  Sometimes it's sad I got to go pick my kids up or got to go do something.
+[01:21:57.439 --> 01:21:58.500]  So I'm like, hey, sorry, I can't talk.
+[01:21:58.619 --> 01:22:00.000]  But no, I like talking to average people.
+[01:22:00.760 --> 01:22:02.319]  What I don't like is fake.
+[01:22:03.400 --> 01:22:08.119]  Establishment people, they can be low-level, high-level, think they've got it all, and they're on like a weird power trip.
+[01:22:08.239 --> 01:22:11.279]  You can see they're not even connected to reality.
+[01:22:11.460 --> 01:22:12.859]  They're just in their own little delusion.
+[01:22:13.478 --> 01:22:17.318]  But, you know, I don't care about some billionaire or whether it's a homeless person.
+[01:22:17.318 --> 01:22:22.007]  I mean, if they seem interesting and, you know.
+[01:22:29.310 --> 01:22:30.289]  I got away from him.
+[01:22:30.430 --> 01:22:31.390]  I wasn't going to talk to that guy.
+[01:22:31.908 --> 01:22:36.547]  Because I just immediately was, you know, he just, you know, looked aggressive and was like a zombie.
+[01:22:36.547 --> 01:22:37.728]  So it's not even really.
+[01:22:37.728 --> 01:22:40.228]  But I certainly don't.
+[01:22:40.507 --> 01:22:42.128]  I don't.
+[01:22:49.010 --> 01:22:56.430]  I'm not doing a lot of retrospect about me or where I'm going or how I'm doing or any of that.
+[01:22:57.190 --> 01:23:07.109]  I'm analyzing what I'm going to do about issues and things that are happening, good and bad, but I'm mainly outwardly focused because the outward is the inward.
+[01:23:07.250 --> 01:23:07.909]  I don't know how to explain it.
+[01:23:08.750 --> 01:23:13.289]  So I do see everybody as myself.
+[01:23:16.229 --> 01:23:25.869]  That's why people ask me questions or you guys are doing media stuff and it's almost frustrating because I see what you guys are doing and I have a lot of knowledge.
+[01:23:26.300 --> 01:23:27.680]  And it's good to do things your way or whatever.
+[01:23:27.779 --> 01:23:29.220]  It's not, I'm saying you're doing bad things.
+[01:23:29.520 --> 01:23:35.180]  It's just that I almost don't even want to start giving people advice because most people would be, oh yeah, you're doing great.
+[01:23:35.600 --> 01:23:36.260]  You're wonderful.
+[01:23:36.680 --> 01:23:37.800]  It's the fake thing.
+[01:23:37.979 --> 01:23:42.180]  I don't even want to engage something if I'm not going to tell people what I really think and actually try to help them.
+[01:23:42.739 --> 01:23:49.460]  And most people, even if they're nice people, kind of see it as helping anybody else somehow is taking away energy they have.
+[01:23:49.920 --> 01:23:51.619]  So it's hard to quantify.
+[01:23:51.619 --> 01:23:52.949]  It's just that I...
+[01:23:56.819 --> 01:23:58.140]  Like, I'd be nice to people.
+[01:23:58.199 --> 01:23:59.119]  They think, what do you want?
+[01:23:59.220 --> 01:23:59.960]  What are you trying to get?
+[01:24:00.640 --> 01:24:02.880]  And not everybody's like that, but a lot of them, they're like, what do you want?
+[01:24:02.939 --> 01:24:03.680]  Why are you being nice?
+[01:24:04.079 --> 01:24:07.659]  And I had to get older and meet mature and go, oh, that person's a sociopath.
+[01:24:08.079 --> 01:24:10.239]  Because they're judging me by the way they see the world.
+[01:24:10.600 --> 01:24:10.880]  Right.
+[01:24:11.079 --> 01:24:11.699]  Does that make sense?
+[01:24:12.288 --> 01:24:13.377]  God, that's got to be frustrating.
+[01:24:13.377 --> 01:24:16.297]  Like, well, it's really fun.
+[01:24:16.318 --> 01:24:20.759]  What gets the problem is, is that, like I said, any issue I look at.
+[01:24:23.739 --> 01:24:31.969]  And so anything I focus on creates this whole system of information and all the different ways you can look at each piece of that.
+[01:24:32.488 --> 01:24:34.298]  So it's...
+[01:24:41.510 --> 01:24:45.250]  Like, for example, in that trial, okay?
+[01:24:45.409 --> 01:24:46.970]  The last big trial.
+[01:24:47.050 --> 01:24:47.449]  Show trials.
+[01:24:47.789 --> 01:24:48.729]  Right, show trials.
+[01:24:48.869 --> 01:24:49.229]  Two of them.
+[01:24:49.470 --> 01:25:00.449]  I'm not going to name names or dates or locations for obvious reasons, but it was very apparent that certain people were upset with the way you were behaving.
+[01:25:00.590 --> 01:25:04.909]  They thought that you weren't following proper courtroom etiquette.
+[01:25:05.069 --> 01:25:10.770]  They thought that you weren't taking it serious, some would say, stuff like that.
+[01:25:10.949 --> 01:25:32.109]  So if you had an opportunity to explain yourself as to why that was happening, And based off of what we've been talking about with the neurodivergence that goes on in your mind, whether it's autism, spectrum type stuff, if it's ADHD, you have an opportunity to defend yourself to those people and to be like, listen, I'm sorry if you viewed me the wrong way.
+[01:25:32.250 --> 01:25:33.289]  That's not the way I am.
+[01:25:33.710 --> 01:25:37.170]  If you had an opportunity to explain that, how would you?
+[01:25:37.170 --> 01:25:38.109]  Sure, who would I be addressing?
+[01:25:38.109 --> 01:25:40.710]  The general public or the people that ran the show trials?
+[01:25:40.829 --> 01:25:45.130]  Anybody that was watching it or anybody that was involved in that show trial.
+[01:25:45.960 --> 01:25:49.239]  Anybody that was there that might have misjudged the way you were behaving.
+[01:25:49.680 --> 01:25:52.279]  Because the side of you that I know, that's not that.
+[01:25:52.659 --> 01:25:59.079]  And when I watch that, I'm like, that's not Alex being disrespectful to the courtroom.
+[01:25:59.570 --> 01:26:02.360]  That's just Alex because that's the way his brain works.
+[01:26:02.360 --> 01:26:07.610]  And I think you're getting mischaracterized and misjudged based off of things that are...
+[01:26:09.520 --> 01:26:10.020]  You watch that?
+[01:26:10.479 --> 01:26:10.960]  Potentially.
+[01:26:11.520 --> 01:26:13.039]  Yeah, I haven't even watched it.
+[01:26:13.199 --> 01:26:16.199]  I already read what the script was.
+[01:26:16.560 --> 01:26:17.199]  They had scripts.
+[01:26:17.420 --> 01:26:31.720]  What I'm saying is there were certain courtroom proceedings where it was televised and stuff like that where you might have came across and gave people the wrong impressions based off of the way you were behaving on the stand or whatever.
+[01:26:32.199 --> 01:26:34.819]  What I'm saying is I know you.
+[01:26:36.119 --> 01:26:37.939]  Because I know the autistic side.
+[01:26:37.939 --> 01:26:39.579]  I know the ADHD side.
+[01:26:41.360 --> 01:26:48.380]  If you had an opportunity to explain to people, okay, if I came across as a certain way sitting on a stand, this is why.
+[01:26:48.880 --> 01:26:53.560]  Well, you have to understand that the stuff they put on TV is all edited.
+[01:26:54.640 --> 01:26:57.479]  And so they present a distorted thing.
+[01:26:57.840 --> 01:27:00.140]  So I'm even responding to something that's distorted.
+[01:27:00.340 --> 01:27:05.899]  No, I completely understand that they're picking and choosing the clips that they decide to put, even if they don't align with the questions.
+[01:27:08.220 --> 01:27:11.000]  They're government officials involved trafficking kids.
+[01:27:11.300 --> 01:27:11.420]  Yeah.
+[01:27:11.619 --> 01:27:13.720]  And I'm like, you mean like the Clintons and Epstein?
+[01:27:14.199 --> 01:27:15.020]  Right, yeah, yeah, yeah.
+[01:27:15.159 --> 01:27:18.000]  And they go, oh, or, I mean, any of that.
+[01:27:18.039 --> 01:27:19.720]  I was already found guilty by those judges.
+[01:27:20.020 --> 01:27:20.119]  Yeah.
+[01:27:20.119 --> 01:27:24.079]  They're not supposed to be found guilty, and then a jury decides how guilty.
+[01:27:24.260 --> 01:27:24.619]  Yeah.
+[01:27:24.720 --> 01:27:24.880]  Literally.
+[01:27:25.220 --> 01:27:26.220]  No, no, I completely understand.
+[01:27:26.220 --> 01:27:36.300]  And then when I was in, first, I remember looking over at the judges, the first time I saw this list of things and things they were supposed to do, and I make them look over, and it's the same list.
+[01:27:36.500 --> 01:27:37.920]  It was scripted.
+[01:27:38.119 --> 01:27:38.340]  Yeah.
+[01:27:38.840 --> 01:27:48.699]  So people ask, they only had show trials where I was already found guilty, where I was ordered to be there for a theater production.
+[01:27:49.439 --> 01:27:51.720]  I mean, cameras, TV cameras, makeup, the judges.
+[01:27:51.899 --> 01:27:54.840]  It was literal high school play.
+[01:27:55.979 --> 01:28:02.859]  And you can't expect somebody when they're in a high school play that you don't want to be at to play along with the play.
+[01:28:03.920 --> 01:28:06.279]  So people are like, yeah, you've called the judge a tyrant.
+[01:28:06.399 --> 01:28:07.180]  Yeah, she's a tyrant.
+[01:28:07.340 --> 01:28:13.539]  Yeah, but what we're used to, because you're not the first case, we're used to people playing the game, right?
+[01:28:13.539 --> 01:28:24.239]  We're used to people going up on that stand, taking that seat, getting questioned, and even if they know this is all for show, we're used to people going, mm-hmm, yep.
+[01:28:24.539 --> 01:28:30.920]  Okay, so you're already guilty, and you're ordered to be at a show trial, and then you play along with it?
+[01:28:32.079 --> 01:28:33.640]  Because they're trying to save face.
+[01:28:33.819 --> 01:28:38.840]  What we saw was the real raw Alex on the stand where you're like, this is fucking dumb.
+[01:28:39.300 --> 01:28:45.060]  Like, the body language you were giving off was like, why am I here?
+[01:28:45.260 --> 01:28:52.220]  The questions that you were receiving from that lawyer, that attorney, was basically like, come on, man.
+[01:28:52.930 --> 01:28:54.289]  And it's like, I know you.
+[01:28:54.510 --> 01:28:55.440]  Well, they would do stuff like.
+[01:28:55.440 --> 01:28:57.689]  Just put stuff.
+[01:29:10.789 --> 01:29:14.729]  It came across, however, because they took weeks of stuff and edited it down to a few minutes.
+[01:29:15.529 --> 01:29:17.229]  But most people don't know that.
+[01:29:17.430 --> 01:29:18.229]  You know that.
+[01:29:18.409 --> 01:29:21.010]  The rest of us, the audience, doesn't know that.
+[01:29:21.369 --> 01:29:25.970]  If people say it came across like I didn't care, that's because it was complete distortion.
+[01:29:27.440 --> 01:29:38.380]  You can't watch a literal made-for-TV movie that someone's forced to participate in and then say it didn't look like he was into it because I knew it was fake.
+[01:29:38.600 --> 01:29:40.039]  And I sat there and said that.
+[01:29:40.159 --> 01:29:43.899]  But, of course, you never see that because they decided what you're going to see.
+[01:29:44.600 --> 01:29:53.619]  So, again, I mean, when they had those show trials, though, it completely backfired on them with the public.
+[01:29:53.899 --> 01:29:56.420]  I mean, they had to kill the comments online.
+[01:29:57.380 --> 01:30:01.100]  On the big site streaming it, because it was like 99% was like, what is this?
+[01:30:01.840 --> 01:30:07.739]  And then, so, I mean, people ask why I laughed when they had the verdict for billions of dollars.
+[01:30:07.899 --> 01:30:10.600]  I mean, I've never had, you know, $10 million.
+[01:30:11.079 --> 01:30:16.000]  It was just, it was just like, it was all just like, he made hundreds of millions of dollars off this.
+[01:30:16.140 --> 01:30:17.000]  His whole career is this.
+[01:30:17.060 --> 01:30:18.180]  Barely ever even talked about it.
+[01:30:18.460 --> 01:30:22.359]  And it was just like, all these things I did, they had no proof I ever did.
+[01:30:22.460 --> 01:30:24.460]  It was just like, on and on, he's a villain, he's a whatever.
+[01:30:24.619 --> 01:30:29.050]  And I'm just like, and then like, A bunch of the people, they had verdicts on me.
+[01:30:29.170 --> 01:30:30.949]  I never even said their name or I didn't even know who they were.
+[01:30:31.350 --> 01:30:34.989]  And it was like, $130 million for this guy, $100 million for that guy.
+[01:30:35.189 --> 01:30:36.750]  I don't have the money, so I'm laughing.
+[01:30:36.949 --> 01:30:41.250]  It's like, I mean, the analogy is, is he going to shoot me with 10 bullets or 5,000 bullets?
+[01:30:41.529 --> 01:30:44.149]  It's like, we are ordering you killed by firing squad.
+[01:30:44.149 --> 01:30:45.810]  You will be shot 1 million times.
+[01:30:46.210 --> 01:30:47.149]  And I was like, okay.
+[01:30:47.590 --> 01:30:48.930]  And then they go, that's not enough.
+[01:30:48.930 --> 01:30:50.829]  We want $2.75 trillion.
+[01:30:51.449 --> 01:30:52.649]  That's the GDP of India.
+[01:30:53.159 --> 01:30:57.279]  And it was just, like, more and more, like, da-da-da, like, scare everybody.
+[01:30:57.579 --> 01:31:04.859]  I mean, that's what this was, is like, don't question us, don't push against the system, or we will do a $2.75 trillion judgment.
+[01:31:05.260 --> 01:31:11.460]  I'm very curious, like, when all this was going on, did you ever sit down and have conversations with, like, your mom or your dad?
+[01:31:12.220 --> 01:31:14.840]  And what did they think about this?
+[01:31:14.960 --> 01:31:21.119]  Like, did you ever sit down and have conversations where they were, like, because at the end of the day, you might be a grown man, right?
+[01:31:21.550 --> 01:31:23.189]  But that's your mom's little boy.
+[01:31:23.510 --> 01:31:26.890]  And I can't imagine the mothers out there with little kids right now.
+[01:31:26.989 --> 01:31:30.710]  Maybe they have a little bit of ADHD or whatever.
+[01:31:30.710 --> 01:31:33.050]  They got them on Adderall or whatever it is.
+[01:31:33.270 --> 01:31:47.449]  And it's like, even despite saying the wrong, however you want it, whatever, at no point should a mother ever have to witness their son being exposed to the entire world.
+[01:31:47.600 --> 01:31:53.100]  World and the entire government, media, everybody just like attacking one person.
+[01:31:54.380 --> 01:31:55.859]  Like, have you ever had that?
+[01:31:56.060 --> 01:32:00.300]  Yeah, my parents were persecuted by these same people too.
+[01:32:00.399 --> 01:32:00.939]  They sued them.
+[01:32:01.979 --> 01:32:03.260]  They came after your parents too?
+[01:32:03.279 --> 01:32:04.060]  They came after my parents, yeah.
+[01:32:04.460 --> 01:32:06.380]  So our family got stronger throughout the day.
+[01:32:06.399 --> 01:32:07.300]  It was all not true.
+[01:32:07.819 --> 01:32:09.000]  How did they come after your parents?
+[01:32:10.079 --> 01:32:12.340]  My dad was a partner with me in a supplement company.
+[01:32:12.720 --> 01:32:15.840]  And so they alleged a bunch of criminal stuff and things that weren't true.
+[01:32:15.939 --> 01:32:19.000]  It all came out that wasn't true and just sued them and persecuted them to bankrupt them.
+[01:32:19.359 --> 01:32:21.000]  And it made them happier and stronger than ever.
+[01:32:21.500 --> 01:32:23.260]  And then your mom, how did she take all this?
+[01:32:26.600 --> 01:32:26.920]  Stronger.
+[01:32:27.380 --> 01:32:29.659]  She's already in great shape, worked out harder, even healthier.
+[01:32:30.000 --> 01:32:30.319]  Yeah.
+[01:32:30.520 --> 01:32:34.779]  Just said we're under attack because we're doing good work and that which doesn't kill us only makes us stronger.
+[01:32:35.650 --> 01:32:37.240]  We didn't do anything that they said.
+[01:32:37.240 --> 01:32:39.110]  We're good people, so it doesn't matter to us.
+[01:32:40.659 --> 01:32:40.899]  What?
+[01:32:41.159 --> 01:32:42.340]  Your mom's an amazing woman.
+[01:32:42.340 --> 01:32:42.640]  Oh, thanks.
+[01:32:42.680 --> 01:32:43.619]  You've been over Thanksgiving, yeah.
+[01:32:43.760 --> 01:32:44.640]  They invited us over.
+[01:32:44.720 --> 01:32:45.000]  Your mom's right, too.
+[01:32:45.300 --> 01:32:45.859]  Thank you.
+[01:32:45.939 --> 01:32:46.819]  Yeah, my mom was there.
+[01:32:46.960 --> 01:32:47.640]  Your mom was there.
+[01:32:47.819 --> 01:32:49.500]  They invited us over for Thanksgiving.
+[01:32:49.500 --> 01:32:53.579]  And my mom had just moved back from Florida, and so she doesn't really have any friends.
+[01:32:53.760 --> 01:32:56.020]  And, you know, she's kind of moving back to Austin.
+[01:32:56.039 --> 01:32:57.560]  We lived here when I was growing up.
+[01:32:57.739 --> 01:33:00.619]  But, yeah, they took us into their home.
+[01:33:00.720 --> 01:33:02.699]  And Alex's mom is one of the sweetest.
+[01:33:03.020 --> 01:33:04.420]  Women you'll ever meet.
+[01:33:05.420 --> 01:33:10.659]  She's the mom that doesn't leave the kitchen because she's trying to make everybody have such a great time.
+[01:33:11.680 --> 01:33:22.340]  She's just constantly cooking and she's using the old pots and pans and really making a really old, traditional Thanksgiving feast for everybody.
+[01:33:23.439 --> 01:33:26.680]  She's very traditional but also very smart and classy.
+[01:33:27.180 --> 01:33:27.939]  That's the thing.
+[01:33:28.038 --> 01:33:29.378]  my mother knew none of it was true.
+[01:33:29.378 --> 01:33:38.649]  And so she was like, So it's because they created some big media event to play victim and raised hundreds of millions of dollars off my name.
+[01:33:38.829 --> 01:33:39.029]  Yeah.
+[01:33:39.310 --> 01:33:40.369]  He's persecuting us.
+[01:33:40.489 --> 01:33:40.930]  We need money.
+[01:33:41.130 --> 01:33:41.869]  Hundreds of millions.
+[01:33:42.130 --> 01:33:42.250]  Yeah.
+[01:33:42.890 --> 01:33:46.810]  And so they just attached themselves to my success and then played victim.
+[01:33:47.329 --> 01:33:47.729]  Yeah.
+[01:33:47.890 --> 01:33:48.630]  And so I forgive them.
+[01:33:48.930 --> 01:33:51.630]  I mean, they're the ones that have to face God.
+[01:33:52.489 --> 01:33:54.090]  I mean, it's- That's the word.
+[01:33:54.310 --> 01:33:54.909]  That's it.
+[01:33:55.109 --> 01:33:55.409]  Yeah.
+[01:33:55.649 --> 01:33:58.430]  So I'm not mad at any of these people.
+[01:33:59.140 --> 01:34:06.079]  It's been a great learning process, and they just continue to do their thing, and more people wake up.
+[01:34:06.340 --> 01:34:12.560]  So that leads me to my last question, and then we'll wrap this up, but take me from that moment where the judge reads it off.
+[01:34:12.619 --> 01:34:14.319]  What was that night like?
+[01:34:14.439 --> 01:34:24.680]  You leave the courtroom, and you're handed down with, I mean, obviously it's two different trials, but after the second one, take me from that point where, what do you do?
+[01:34:24.760 --> 01:34:25.979]  What does that night look like?
+[01:34:25.979 --> 01:34:28.100]  You leave the courtroom going, oh, fuck.
+[01:34:30.019 --> 01:34:32.500]  I'm supposed to pay $1.5 billion.
+[01:34:34.199 --> 01:34:36.319]  What was that night when you got home?
+[01:34:36.380 --> 01:34:37.600]  What did that look like?
+[01:34:42.300 --> 01:34:58.340]  I remember like a day or so before the first verdict, I was in the morning driving to go to the courthouse, and a bicycler just came shooting across the road and almost hit him.
+[01:35:02.080 --> 01:35:05.359]  And I just immediately thought, thank God I didn't kill that bicycler.
+[01:35:06.000 --> 01:35:09.659]  I mean, we drive down the road at 80 miles an hour in these tin cans.
+[01:35:09.819 --> 01:35:11.279]  The most dangerous thing we do is drive cars.
+[01:35:11.380 --> 01:35:12.119]  It's the number one cause of death.
+[01:35:12.399 --> 01:35:12.720]  Still.
+[01:35:13.119 --> 01:35:15.060]  Below the age of 55. That's cancer and heart attacks.
+[01:35:16.380 --> 01:35:21.199]  And I have friends and family who get sick, die all the time, get cancer.
+[01:35:21.720 --> 01:35:25.800]  So having the corporate media and these people sit there and say I'm the devil.
+[01:35:26.810 --> 01:35:28.310]  Billions of dollars that doesn't exist.
+[01:35:28.649 --> 01:35:29.550]  It's just made up.
+[01:35:29.710 --> 01:35:35.289]  It'd be like saying, I mean, it's just not reality.
+[01:35:35.710 --> 01:35:39.810]  So it just, people ask how I deal with this and keep putting my boots on in the morning.
+[01:35:40.409 --> 01:35:47.130]  I mean, I, when I signed up to fight the globalists, I mean, I've had them with grand juries trying to indict me over and over again.
+[01:35:47.590 --> 01:35:49.229]  I've had them do all sorts of dirty tricks.
+[01:35:49.590 --> 01:35:53.729]  It came out with the Justice Department and the CIA and court run these attacks on me.
+[01:35:53.970 --> 01:35:55.649]  I'm just lucky they didn't kill me.
+[01:35:55.960 --> 01:35:57.779]  And if they do that, I already knew that.
+[01:35:57.880 --> 01:36:01.180]  If they kill me or set me up, put me in prison, I'm not a loser.
+[01:36:01.500 --> 01:36:02.500]  I knew what I was doing.
+[01:36:02.640 --> 01:36:03.560]  I'm where I wanted to be.
+[01:36:03.840 --> 01:36:04.880]  You're at peace with yourself.
+[01:36:05.180 --> 01:36:06.779]  I mean, I signed up for this.
+[01:36:06.939 --> 01:36:08.140]  I mean, I knew what I was getting into.
+[01:36:08.220 --> 01:36:12.159]  I've had them in board meetings and settlements and other groups.
+[01:36:12.960 --> 01:36:18.760]  Before they did all this, another arm of it wanted to meet with me and offered to buy me off and all this stuff.
+[01:36:18.880 --> 01:36:23.159]  And they also, at these other events, have told me, oh, just stop doing what you're doing and we'll drop all this.
+[01:36:23.220 --> 01:36:24.079]  I'm just like, no.
+[01:36:26.250 --> 01:36:28.489]  Because I know I'm doing the right thing and I've changed the world.
+[01:36:28.670 --> 01:36:29.909]  And I've inspired other people to change the world.
+[01:36:29.989 --> 01:36:31.250]  And I know what my real work's been.
+[01:36:31.409 --> 01:36:36.069]  And the majority of the public that watches and follows knows that.
+[01:36:36.189 --> 01:36:37.750]  And I'm gaining ground all the time.
+[01:36:38.310 --> 01:36:42.029]  So I'm the man in the arena, just like everybody else is the man in the arena.
+[01:36:42.850 --> 01:36:47.810]  And so I don't let people define me by what they claim I am.
+[01:36:47.949 --> 01:36:51.010]  That's why they want censorship, so they can shut you up.
+[01:36:51.090 --> 01:36:52.149]  And then they build a straw man.
+[01:36:52.289 --> 01:36:53.289]  They steal your identity.
+[01:36:53.720 --> 01:36:55.460]  And they build this person you're not.
+[01:36:55.579 --> 01:37:01.680]  But people now know when the corporate media is attacking somebody as much as they are me, people go, oh, this must be something else.
+[01:37:01.800 --> 01:37:03.420]  Then they actually find out what I said.
+[01:37:03.779 --> 01:37:06.159]  And then they tune in to shows I did 25, 30 years ago.
+[01:37:06.439 --> 01:37:10.079]  I mean, the shows I did 30 years ago, 25 years ago, 10 years ago are more popular now than ever.
+[01:37:10.479 --> 01:37:12.319]  I mean, hundreds of millions of views, some of them.
+[01:37:12.760 --> 01:37:14.439]  And back then they maybe had a million views.
+[01:37:14.819 --> 01:37:18.079]  And people are just like constantly finding this, finding out, wow, this all happened.
+[01:37:18.159 --> 01:37:18.619]  It's like he said.
+[01:37:18.920 --> 01:37:20.699]  He's not saying the things they said he said.
+[01:37:20.699 --> 01:37:24.588]  I mean, that's why it's...
+[01:37:30.079 --> 01:37:33.340]  And so my bigger issue is frustration.
+[01:37:33.539 --> 01:37:35.640]  I don't have enough time or energy to do all the things I want to do.
+[01:37:36.220 --> 01:37:39.460]  My main issue is that I should try to be a better dad.
+[01:37:39.539 --> 01:37:41.819]  I'm a pretty good dad overall, but there's not enough time in the day.
+[01:37:41.939 --> 01:37:42.520]  You're a great dad.
+[01:37:42.659 --> 01:37:44.000]  And you're a great dad, too.
+[01:37:44.078 --> 01:37:44.738]  I know your kids too.
+[01:37:44.738 --> 01:38:03.079]  So, so, I mean, again, I gauge things off of, I mean, Like, it doesn't even affect me.
+[01:38:04.979 --> 01:38:05.939]  You'll see the headlines.
+[01:38:06.079 --> 01:38:08.760]  Jones refuses after all these years to give them their money.
+[01:38:08.939 --> 01:38:09.800]  Well, it's all an appeal.
+[01:38:09.800 --> 01:38:11.460]  Under the law, I get it until the appeals are exhausted.
+[01:38:12.359 --> 01:38:13.699]  But that's a side issue, too.
+[01:38:13.840 --> 01:38:16.279]  I've tried to settle with all these people for more money than ever made.
+[01:38:17.400 --> 01:38:21.420]  And I told my lawyers, I said, you watch when we give them this offer they asked for, they're going to sell and refuse that too.
+[01:38:21.539 --> 01:38:22.359]  And then they did it each time.
+[01:38:22.479 --> 01:38:23.180]  They went, well, how'd you know that?
+[01:38:23.220 --> 01:38:25.439]  I said, they want to be married to me.
+[01:38:25.939 --> 01:38:31.420]  They want the standing to stay in my life and stalk me.
+[01:38:31.600 --> 01:38:32.659]  I mean, that's what this is.
+[01:38:32.819 --> 01:38:33.800]  I'm the one that stalked.
+[01:38:33.859 --> 01:38:34.600]  I never stalked them.
+[01:38:34.659 --> 01:38:35.220]  Nobody ever did.
+[01:38:35.680 --> 01:38:41.399]  I'm stalked by a franchise the Democratic Party runs of victimhood and fundraising.
+[01:38:41.869 --> 01:38:46.470]  And it was really smart to, like, massively increase their fundraising once they attacked me and did all that.
+[01:38:46.609 --> 01:38:48.869]  It goes through hundreds of millions per foundation.
+[01:38:49.149 --> 01:38:51.369]  About 500 million total that we know of in public records.
+[01:38:51.529 --> 01:38:52.029]  Off my name.
+[01:38:52.390 --> 01:38:54.029]  While they say I made my name off them.
+[01:38:54.550 --> 01:39:01.350]  But in a weird way, them attacking me and demonizing me, what they claimed actually became true because it did boost what I was actually doing.
+[01:39:01.350 --> 01:39:03.770]  In the end, people were like, wow, this guy's under attack.
+[01:39:03.869 --> 01:39:04.689]  We don't trust the system.
+[01:39:04.829 --> 01:39:05.310]  Why is it?
+[01:39:05.350 --> 01:39:06.130]  We better go listen to him.
+[01:39:06.770 --> 01:39:08.810]  So, no weapon formed against us shall prosper.
+[01:39:08.970 --> 01:39:10.050]  God takes evil for good.
+[01:39:10.900 --> 01:39:15.140]  And so I just put everything in God's hands, and I'm not a victim.
+[01:39:15.279 --> 01:39:26.800]  I chose this fight, and I had no idea the sophistication of this stuff, the PR firms, the disinfo, how it all works, how they try to give a one-dimensional thing to the public.
+[01:39:27.199 --> 01:39:28.659]  This man, bad two kids.
+[01:39:28.899 --> 01:39:31.520]  My people don't know, you know, who he is.
+[01:39:32.300 --> 01:39:36.300]  You hear that name, that place, you think Alex Jones.
+[01:39:36.840 --> 01:39:38.659]  And that's brainwashing.
+[01:39:39.289 --> 01:39:51.350]  Mal and Albright, during the Clinton administration, when they tripled the sanctions on Iraq, and Iraq's scrub brush, desert, you know, Tigris, Euphrates, some growing area, but their population had tripled since World War II.
+[01:39:52.210 --> 01:39:53.550]  They had a big boom there.
+[01:39:54.529 --> 01:39:56.949]  And, you know, rock and roll, everything they were trying to modernize.
+[01:39:57.670 --> 01:39:59.050]  Coca-Cola, Jack Daniels.
+[01:40:00.029 --> 01:40:07.229]  And in the first Gulf War, they put sanctions on them, but the Clintons tripled them to all medicine, all everything.
+[01:40:08.800 --> 01:40:10.979]  It totaled over 2 million children died.
+[01:40:11.399 --> 01:40:15.520]  But when Madeline Allbright first got talked about, it was a few million died total, but about half a million kids.
+[01:40:16.319 --> 01:40:20.100]  And the 60 Minutes reporter says, was that a good price to pay to kill half a million kids?
+[01:40:20.180 --> 01:40:21.279]  She goes, yeah, it was a good price to pay.
+[01:40:22.640 --> 01:40:23.739]  We do it again, basically.
+[01:40:24.859 --> 01:40:25.840]  But she's liberal.
+[01:40:25.960 --> 01:40:27.000]  She's a woman in power.
+[01:40:27.119 --> 01:40:28.300]  She's got an eagle brooch.
+[01:40:29.050 --> 01:40:30.909]  So it's like, oh, you know, we killed millions.
+[01:40:31.170 --> 01:40:31.569]  It's liberal.
+[01:40:31.890 --> 01:40:33.850]  And it's like, oh, she's liberal.
+[01:40:33.850 --> 01:40:34.489]  She's a woman.
+[01:40:35.029 --> 01:40:35.569]  You know?
+[01:40:35.770 --> 01:40:37.310]  So it's like, oh, God, it's so trendy.
+[01:40:37.770 --> 01:40:38.989]  Me, I killed no one.
+[01:40:39.890 --> 01:40:40.930]  And I'm the devil.
+[01:40:41.050 --> 01:40:47.210]  You know, it's like they've had, like, the Ford Pinto case killing people knowingly less money than I'm supposedly going to pay.
+[01:40:47.310 --> 01:40:48.010]  And Ford has the money.
+[01:40:48.949 --> 01:40:56.210]  You got OxyContin and that family knowing it was addictive, going to kill a bunch of people in their own corporate documents, paying out less money than I'm supposed to.
+[01:40:56.270 --> 01:40:57.090]  And they have the money.
+[01:40:57.840 --> 01:40:58.380]  You know?
+[01:40:58.760 --> 01:41:02.060]  So, I get it.
+[01:41:02.140 --> 01:41:06.359]  No, what I did that I didn't do was worse than killing millions of kids.
+[01:41:07.140 --> 01:41:09.140]  And it's worse than shipping OxyContin out.
+[01:41:09.220 --> 01:41:11.359]  It's worse than a million's dead from fentanyl.
+[01:41:11.460 --> 01:41:15.279]  And it's worse than anything in history ever done.
+[01:41:15.539 --> 01:41:16.699]  And I own it.
+[01:41:16.939 --> 01:41:18.619]  And I just want people to know, you're right.
+[01:41:18.680 --> 01:41:19.479]  I'm the bad man.
+[01:41:19.539 --> 01:41:21.479]  Like Tony Montana says in Scarface towards the end.
+[01:41:21.930 --> 01:41:24.710]  You need me to point your finger and say there's the bad man.
+[01:41:24.989 --> 01:41:26.630]  Say goodnight to the bad man.
+[01:41:26.890 --> 01:41:27.850]  So I own it.
+[01:41:27.989 --> 01:41:28.989]  I love it.
+[01:41:29.130 --> 01:41:32.949]  Because this evil, corrupt system, when it says you're the devil, people know it's the opposite.
+[01:41:33.210 --> 01:41:48.750]  So I just tell the corporate media, these people continue to say I'm Satan, continue to say I'm the great Satan, continue to say I'm the worst person in the galaxy, the worst person in the world, because I simply saw the internet questioning things, viral stuff, and talked about it a few times.
+[01:41:49.630 --> 01:41:50.029]  Great!
+[01:41:50.699 --> 01:41:56.699]  But this is how they demonize America, how they demonize families, how they demonize Christians, how they demonize veterans.
+[01:41:57.220 --> 01:41:58.659]  All Trump supporters are Nazis.
+[01:42:00.220 --> 01:42:04.119]  That has as much validity as saying Trump supporters are Nazis.
+[01:42:04.300 --> 01:42:05.180]  It's ridiculous.
+[01:42:05.560 --> 01:42:10.029]  And so I appreciate you bringing that up, Sean, but I really am just...
+[01:42:10.038 --> 01:42:13.088]  they're never going to stop coming after me.
+[01:42:13.099 --> 01:42:14.818]  I actually...
+[01:42:16.800 --> 01:42:19.199]  And it's what I expect.
+[01:42:20.359 --> 01:42:27.279]  I mean, I'm very thankful for the persecution because it has really taken our audience to a whole other level.
+[01:42:27.579 --> 01:42:34.420]  Well, I'll tell you from the outside looking in, how you do it, I don't know.
+[01:42:34.939 --> 01:42:35.939]  Like, it's amazing.
+[01:42:36.199 --> 01:42:37.279]  Well, we have to keep fighting.
+[01:42:37.460 --> 01:42:38.699]  Like, I mean, I know.
+[01:42:39.060 --> 01:42:45.359]  Regardless of what side you're on, you cannot help but respect the fact that you fucking just keep fighting.
+[01:42:45.739 --> 01:42:48.399]  I don't know where you derive that kind of strength.
+[01:42:49.539 --> 01:42:50.479]  Courage, honestly.
+[01:42:51.699 --> 01:42:54.659]  I love having you as a friend.
+[01:42:55.060 --> 01:42:57.079]  I want to thank you for coming on this podcast.
+[01:42:57.140 --> 01:42:57.600]  I appreciate you, Sean.
+[01:42:57.819 --> 01:42:59.039]  I can't wait to have you on again.
+[01:43:00.239 --> 01:43:03.600]  Honestly, I'm so glad I got to know you on a personal level.
+[01:43:03.739 --> 01:43:06.939]  And I wish everybody out there had an opportunity to really get to know you.
+[01:43:06.979 --> 01:43:12.920]  Because if they did, they would probably really change a lot of things about the way they thought about you.
+[01:43:13.110 --> 01:43:14.580]  Well, I appreciate you, Sean.
+[01:43:14.580 --> 01:43:16.840]  Overall, people are really waking up not just to...
+[01:43:18.810 --> 01:43:20.529]  Like, do you really believe all the stuff he said about Jones?
+[01:43:20.750 --> 01:43:21.750]  It's the same thing with Trump.
+[01:43:21.949 --> 01:43:25.170]  How many liberals finally went and saw the full clip where he goes, the KKK's horrible?
+[01:43:25.369 --> 01:43:25.529]  Yeah.
+[01:43:25.750 --> 01:43:27.369]  It's a magic trick, right?
+[01:43:27.550 --> 01:43:33.289]  It's a magic trick, and the audience is sitting there always trying to figure out, am I getting tricked or is this real magic?
+[01:43:33.569 --> 01:43:33.890]  Right?
+[01:43:34.310 --> 01:43:39.689]  That's the way, everything that comes out of the media's mouth, I'm like, this is a magic trick, and it's your job to figure out if it's real or not.
+[01:43:40.170 --> 01:43:40.489]  Right?
+[01:43:40.590 --> 01:43:40.890]  Well, yeah.
+[01:43:41.270 --> 01:43:44.699]  And now we have Maxi Waters saying, There's no violence.
+[01:43:44.880 --> 01:43:45.460]  There's no riots.
+[01:43:45.720 --> 01:43:46.659]  Those are fake videos.
+[01:43:46.760 --> 01:43:47.180]  You see that?
+[01:43:47.380 --> 01:43:49.690]  And you're just like, I mean...
+[01:43:52.140 --> 01:43:53.760]  And Brian Stelten said, it's an algorithm.
+[01:43:53.819 --> 01:43:54.739]  There's no violence.
+[01:43:55.260 --> 01:43:57.880]  And it's just like, I've seen it myself in Austin.
+[01:43:57.939 --> 01:43:59.159]  Yeah, the public's awake.
+[01:43:59.859 --> 01:44:00.939]  We see through everything.
+[01:44:01.100 --> 01:44:03.279]  And I think that's why they look at you as the tip of the spear.
+[01:44:03.279 --> 01:44:05.300]  Because you're taking the biggest brunt of everything.
+[01:44:06.279 --> 01:44:08.060]  Well, I've not been that important, quite frankly.
+[01:44:08.140 --> 01:44:09.079]  This is an important thing to say in closing.
+[01:44:09.079 --> 01:44:10.180]  You're more important than you think.
+[01:44:10.180 --> 01:44:11.140]  I had a big audience.
+[01:44:11.720 --> 01:44:16.600]  And it was the biggest podcast and show 2016, 17. I mean, as big as anything's ever been.
+[01:44:17.039 --> 01:44:21.760]  And so they demonized me, ran PR campaigns, came after me, deplatformed me, did all that.
+[01:44:22.039 --> 01:44:24.319]  But then because I survived, it only made me bigger.
+[01:44:24.520 --> 01:44:27.220]  So it's kind of like I'm that nail they can't hammer in.
+[01:44:27.359 --> 01:44:35.659]  But now they got Elon Musk and Tucker Carlson and Joe's completely awake and Trump and all these people that get it now.
+[01:44:36.140 --> 01:44:39.659]  So, I mean, really, I've always wanted to become obsolete.
+[01:44:40.270 --> 01:44:44.149]  Where so many people are awake to how this globalist system works and how we can dismantle it.
+[01:44:44.189 --> 01:44:45.529]  People just study how the scams work.
+[01:44:46.069 --> 01:44:52.109]  And we empower humanity and populism and get back to classic Western values and the Renaissance.
+[01:44:52.810 --> 01:44:55.369]  So I feel that's how I do it.
+[01:44:55.470 --> 01:44:56.609]  We're having giant victories.
+[01:44:56.770 --> 01:44:57.949]  We're gaining ground all the time.
+[01:44:58.310 --> 01:45:00.010]  I'm blessed that I'm not in prison or dead.
+[01:45:00.310 --> 01:45:02.369]  I mean, we went up against some really bad people.
+[01:45:02.529 --> 01:45:05.609]  But they said, no, we'll just turn him into a demon and take his identity and raise a bunch of money off of him.
+[01:45:05.649 --> 01:45:06.750]  That's how we really kill somebody.
+[01:45:06.869 --> 01:45:07.729]  We don't turn him into a martyr.
+[01:45:08.430 --> 01:45:11.250]  In the old days, they would just, you know, I'm talking about these people.
+[01:45:11.350 --> 01:45:12.909]  Every time I talk about it in general, like, oh, you're talking about us.
+[01:45:12.949 --> 01:45:13.850]  I'm not saying those people.
+[01:45:13.989 --> 01:45:17.050]  I'm saying the old systems of corruption would just kill you.
+[01:45:17.430 --> 01:45:22.890]  But now they just take your identity, silence you, and then use your identity against everybody.
+[01:45:23.430 --> 01:45:27.010]  And you got to sit there with no voice while they pretend you did all these things.
+[01:45:27.409 --> 01:45:28.930]  And so they don't just censor you.
+[01:45:29.350 --> 01:45:30.630]  They take your identity.
+[01:45:31.489 --> 01:45:32.069]  You understand?
+[01:45:32.229 --> 01:45:33.890]  And then they say you said things you never did.
+[01:45:34.170 --> 01:45:34.329]  Right.
+[01:45:34.810 --> 01:45:37.130]  If they can't silence you, they try to take your identity.
+[01:45:37.470 --> 01:45:38.090]  Yeah, exactly.
+[01:45:38.329 --> 01:45:39.310]  Well, it's worse than that.
+[01:45:39.409 --> 01:45:42.310]  I mean, they literally, like a body snatcher, take you over.
+[01:45:42.750 --> 01:45:45.609]  Like, you're still there, wherever you live, and you're still doing whatever you're doing.
+[01:45:46.390 --> 01:45:48.770]  But they don't want to just take you out of the discourse.
+[01:45:48.770 --> 01:45:55.649]  They say, like, when they had all the fake takeover and all that got reversed by the court, they said, we're going to misrepresent what he's done.
+[01:45:55.729 --> 01:45:56.470]  We're going to make fun of him.
+[01:45:57.010 --> 01:45:58.449]  And they even said, we own his name.
+[01:45:58.689 --> 01:46:00.970]  You can't do that under the Amendment Against Slavery.
+[01:46:01.250 --> 01:46:03.029]  They said, well, he's a different case in the filings.
+[01:46:03.489 --> 01:46:05.770]  They said, we're going to get his name, and we're going to be him.
+[01:46:06.650 --> 01:46:07.550]  You can't do that.
+[01:46:07.909 --> 01:46:15.369]  I mean, if you're a prince and sign your name over to Sony in an agreement, and then Sony gets it, then they can say you don't want to call yourself a prince.
+[01:46:15.510 --> 01:46:16.109]  They said, no.
+[01:46:16.270 --> 01:46:17.390]  We own Alex Jones.
+[01:46:17.529 --> 01:46:19.409]  We own his likeness.
+[01:46:19.489 --> 01:46:20.310]  We own him.
+[01:46:20.970 --> 01:46:21.829]  That's super crazy.
+[01:46:22.350 --> 01:46:23.369]  That's fucking nuts.
+[01:46:23.510 --> 01:46:25.869]  Yeah, and X had to get involved and come in and say they're going to block that.
+[01:46:27.670 --> 01:46:30.050]  Well, good for X. And I appreciate Elon coming in and doing it.
+[01:46:30.130 --> 01:46:31.949]  Yeah, well, he's defending his own system.
+[01:46:32.250 --> 01:46:34.029]  If they can get my identity.
+[01:46:34.470 --> 01:46:35.970]  This is the next level of the lawyers.
+[01:46:36.609 --> 01:46:38.050]  They admit I'm a test case.
+[01:46:38.710 --> 01:46:40.270]  Demonize me enough where, oh, that's Alex Jones.
+[01:46:40.409 --> 01:46:40.909]  We'll accept it.
+[01:46:41.970 --> 01:46:44.529]  And then they can do it with the next person, the next person, the next person.
+[01:46:46.109 --> 01:46:48.010]  Well, they keep hitting you and you keep standing.
+[01:46:48.810 --> 01:46:53.109]  And I, for one, am very glad that you do not give up the fight.
+[01:46:53.270 --> 01:46:54.310]  Well, I appreciate you, Sean.
+[01:46:54.470 --> 01:47:01.310]  As long as people support us and spread the word and find me at ReloxJonesOnX, just tune in and see what I'm actually saying, folks.
+[01:47:01.649 --> 01:47:01.829]  Yeah.
+[01:47:02.119 --> 01:47:03.760]  Do you have any predictions for the next five years?
+[01:47:03.920 --> 01:47:04.539]  We'll end it with that.
+[01:47:05.899 --> 01:47:06.640]  Come on!
+[01:47:06.840 --> 01:47:11.680]  I mean, the thing I've always wanted to do is predict bad things that are going to happen so enough people wake up to stop it.
+[01:47:12.399 --> 01:47:15.300]  And most of the things I've predicted, unfortunately, have come true.
+[01:47:15.800 --> 01:47:20.979]  They're not hard to predict that Israel was going to strike Iran or drag us into it.
+[01:47:21.380 --> 01:47:23.500]  I mean, I think our destiny is really in our hands.
+[01:47:24.739 --> 01:47:30.420]  20 years ago, it was so easy to predict what was going to happen because the globals weren't controlled, pretty much.
+[01:47:30.479 --> 01:47:31.199]  They had their agenda.
+[01:47:31.800 --> 01:47:34.720]  And they basically got everything they wanted done.
+[01:47:35.199 --> 01:47:41.520]  So it was very easy to predict what was going to happen then because they were in control.
+[01:47:41.739 --> 01:47:43.079]  Now they've lost control.
+[01:47:43.279 --> 01:47:45.840]  There's a lot of competing forces and things happening.
+[01:47:45.920 --> 01:47:52.420]  So it's harder, you know, to have big general giant predictions.
+[01:47:52.659 --> 01:47:56.720]  But buckle up because the quickening's here, the fourth turning.
+[01:47:57.220 --> 01:47:59.439]  I mean, I was able to predict Trump would win this election.
+[01:48:00.970 --> 01:48:03.489]  Popular and electoral, I was able to predict.
+[01:48:04.949 --> 01:48:06.109]  But it's not really predicting.
+[01:48:06.310 --> 01:48:15.470]  I mean, John Podesta said, if Trump wins, we're just going to destabilize and have riots and try to have the military over-respond and then trigger a civil war.
+[01:48:15.670 --> 01:48:17.649]  I mean, he's the New York Times saying that.
+[01:48:18.289 --> 01:48:20.069]  So it's not even predicting.
+[01:48:20.210 --> 01:48:21.310]  It's like they're over here saying it.
+[01:48:22.270 --> 01:48:24.090]  And, well, that's corporate media.
+[01:48:24.109 --> 01:48:24.590]  You believe them?
+[01:48:24.750 --> 01:48:28.810]  No, they'll have their policy stuff where they're telling their people what's going on and they kind of have their pop news and everything.
+[01:48:29.860 --> 01:48:31.479]  On specifics, they get their people ready.
+[01:48:31.579 --> 01:48:32.380]  They tell you what they're going to do.
+[01:48:32.739 --> 01:48:32.779]  Yeah.
+[01:48:32.939 --> 01:48:36.359]  I mean, Netanyahu's been saying he's going to take out the nuclear program of Iran forever.
+[01:48:36.619 --> 01:48:40.420]  And if Trump didn't authorize her to join him, he'd do it anyways.
+[01:48:40.680 --> 01:48:43.199]  That's alarming in and of itself, but we won't get into that.
+[01:48:43.239 --> 01:48:45.279]  And I said a week ago, I said, I think they're going to hit by the weekend.
+[01:48:45.420 --> 01:48:47.279]  And I actually missed it.
+[01:48:47.340 --> 01:48:48.020]  It was a few days earlier.
+[01:48:48.199 --> 01:48:48.460]  Yeah.
+[01:48:48.739 --> 01:48:49.720]  And I had a guest on.
+[01:48:49.779 --> 01:48:50.260]  He's a really smart guy.
+[01:48:50.260 --> 01:48:51.600]  He goes, I think it's saber-rattling.
+[01:48:51.619 --> 01:48:52.880]  I don't think Israel's really going to hit.
+[01:48:53.659 --> 01:48:56.939]  And I said, and I saw a lot of data and pieces.
+[01:48:57.199 --> 01:48:58.000]  No, it's happening.
+[01:48:58.220 --> 01:48:59.420]  I said, by Friday.
+[01:48:59.680 --> 01:49:03.960]  And that was on Wednesday, I had a guest on.
+[01:49:03.960 --> 01:49:04.939]  I go, I think they're going in.
+[01:49:05.039 --> 01:49:06.000]  I think they're going to hit them this weekend.
+[01:49:06.279 --> 01:49:09.039]  And the guest was like, ah, it's probably just saber-rattling pressure.
+[01:49:09.140 --> 01:49:10.060]  I said, eh, I don't see.
+[01:49:10.060 --> 01:49:10.880]  I see the signs.
+[01:49:11.279 --> 01:49:12.680]  Trump said, okay, Iran wants war.
+[01:49:13.399 --> 01:49:15.279]  And he said, well, I pull our people out of the embassies.
+[01:49:15.699 --> 01:49:16.479]  See, that's the thing.
+[01:49:17.079 --> 01:49:20.100]  Other politicians and people tend to do stuff for posturing.
+[01:49:20.220 --> 01:49:20.659]  Not with Trump.
+[01:49:20.979 --> 01:49:27.739]  His real power is, he actually says, you got 60 days to make this deal or you're going to get hit.
+[01:49:27.930 --> 01:49:30.829]  And then it happens on the 61st day.
+[01:49:31.670 --> 01:49:37.909]  He told North Korea, hey, you do this deal, we'll give you a bunch of investment, be nice, blah, blah, or you get this.
+[01:49:38.170 --> 01:49:41.250]  And then Kim Jong-un did enough research and said, okay, I'll do the deal.
+[01:49:42.149 --> 01:49:45.590]  So with Trump, plus you can't negotiate with other countries if you're not straight shooting.
+[01:49:46.010 --> 01:49:48.170]  And America used to do that until about the 60s.
+[01:49:48.810 --> 01:49:51.210]  Like, straight shooting's the real power, not being Machiavelli.
+[01:49:51.369 --> 01:49:52.310]  Straight shooting, straight shooting.
+[01:49:53.270 --> 01:49:53.909]  I like that.
+[01:49:55.390 --> 01:49:55.909]  Thank you.
+[01:49:56.069 --> 01:49:56.390]  Thank you.
+[01:49:56.430 --> 01:49:57.029]  Hope it was okay.
+[01:49:58.120 --> 01:50:01.359]  Well, I just found out I survived World War III, so I'm very happy.
+[01:50:02.779 --> 01:50:04.439]  Well, you were in World War III.
+[01:50:05.119 --> 01:50:05.819]  Yeah, I know.
+[01:50:06.140 --> 01:50:07.220]  That's what I just found out.
+[01:50:07.319 --> 01:50:08.420]  All these kinetic operations.
+[01:50:08.420 --> 01:50:09.279]  I love it, man.
+[01:50:09.279 --> 01:50:12.720]  I think you're fucking one of the coolest dudes I've ever known.
+[01:50:13.500 --> 01:50:14.560]  Well, you are too, Sean.
+[01:50:14.739 --> 01:50:22.420]  I got your back no matter what, and I'm sure this is going to get taken out of context, but fuck them all.
+[01:50:23.359 --> 01:50:26.119]  Those that know you best, love you.
+[01:50:27.359 --> 01:50:28.239]  Thank you so much, brother.
+[01:50:28.939 --> 01:50:30.539]  I'll see you tomorrow morning when we work out.

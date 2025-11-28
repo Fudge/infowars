@@ -1,0 +1,2339 @@
+# Transcription model: large-v3-turbo, custom faster_whisper
+[00:00:06.429 --> 00:00:07.669]  You got a tape for this?
+[00:00:07.790 --> 00:00:08.150]  Oh, yeah.
+[00:00:08.730 --> 00:00:09.690]  How do I get a copy?
+[00:00:09.690 --> 00:00:13.260]  It's done now, and Kevin will...
+[00:00:16.010 --> 00:00:17.589]  But again, that sounds ridiculous, but it's true.
+[00:00:17.670 --> 00:00:18.350]  Kevin, you've seen it.
+[00:00:18.929 --> 00:00:19.789]  I've seen it then.
+[00:00:20.050 --> 00:00:20.269]  You've seen it?
+[00:00:20.390 --> 00:00:22.370]  Well, I haven't seen George Bush kill anybody.
+[00:00:22.489 --> 00:00:25.410]  But I have a hundred news articles admitting they go in there.
+[00:00:25.589 --> 00:00:26.690]  But what did you see?
+[00:00:26.870 --> 00:00:27.410]  What did you see?
+[00:00:28.690 --> 00:00:34.880]  There's like a big camp in North California where these guys go and do these rituals, like world leaders go to do these rituals.
+[00:00:35.789 --> 00:00:36.149]  I got it.
+[00:00:36.329 --> 00:00:37.409]  But I mean, it just sounds crazy.
+[00:00:37.429 --> 00:00:38.289]  They have no security?
+[00:00:38.829 --> 00:00:40.390]  No, I snuck back to the Secret Service and everybody.
+[00:00:41.149 --> 00:00:43.487]  How the fuck did you do that?
+[00:00:45.909 --> 00:00:48.649]  There's like mountains, and it's in this gorge, but it's in the middle of nowhere.
+[00:00:48.829 --> 00:00:52.429]  And we just snuck in and then we're kind of dressed, you know, in khaki, real calm.
+[00:00:55.090 --> 00:00:57.630]  Then there's the big parking area where the gorge starts.
+[00:00:57.630 --> 00:01:01.700]  So we snuck around in the mountains into the parking area and...
+[00:01:04.951 --> 00:01:07.191]  We got questions a few times, but we were real calm.
+[00:01:07.609 --> 00:01:10.510]  Plus, we had intel from inside on different names of camps and stuff.
+[00:01:10.629 --> 00:01:14.489]  The camps are like big, long cabin mansions full of the size of the cliff.
+[00:01:15.090 --> 00:01:16.409]  And then they have like this lake.
+[00:01:16.849 --> 00:01:20.370]  At the front of it, there's this big stone owl they brought from like Babylon.
+[00:01:21.109 --> 00:01:23.290]  And they all, you know, get these robes.
+[00:01:23.409 --> 00:01:23.409]  Babylon?
+[00:01:23.769 --> 00:01:23.930]  Yeah.
+[00:01:24.109 --> 00:01:25.150]  Like the original Babylon?
+[00:01:25.230 --> 00:01:26.810]  Look, I know this all sounds like bullshit, but it's true.
+[00:01:27.049 --> 00:01:27.450]  I'm open.
+[00:01:27.569 --> 00:01:28.290]  I ask you myself.
+[00:01:28.409 --> 00:01:28.730]  I listen.
+[00:01:28.890 --> 00:01:29.769]  No, but we'll send it to you.
+[00:01:29.849 --> 00:01:30.849]  I mean, you have to see it to believe it.
+[00:01:30.959 --> 00:01:31.200]  That's it.
+[00:01:31.379 --> 00:01:32.179]  So what happens?
+[00:01:32.179 --> 00:01:36.847]  So they go through this whole ritual and talk about all this...
+[00:01:42.920 --> 00:01:44.140]  This is like all the regalia.
+[00:01:44.420 --> 00:01:45.180]  It's serious.
+[00:01:45.379 --> 00:01:49.200]  And it's leftover from a time before Christians were around when this stuff wasn't basically illegal.
+[00:01:49.819 --> 00:01:51.140]  And who was there?
+[00:01:51.819 --> 00:01:52.859]  They all go.
+[00:01:52.980 --> 00:01:54.859]  There's 2,000 elitists from all over the world.
+[00:01:54.939 --> 00:01:58.980]  Heads of Hollywood, media, banking mainly, and Republicans.
+[00:01:59.180 --> 00:02:00.880]  Arnold Schwarzenegger does that.
+[00:02:00.880 --> 00:02:07.510]  And so I'm sitting there catching this on video, but 1,500 plus people Because you call it a lake.
+[00:02:07.569 --> 00:02:09.650]  They call it a lake with just a pond in the middle of the gorge.
+[00:02:10.229 --> 00:02:10.629]  Who's that?
+[00:02:11.490 --> 00:02:12.570]  I don't know about that.
+[00:02:12.570 --> 00:02:17.459]  See, all we have confirming who goes there is the media saying, oh, there's these...
+[00:02:24.370 --> 00:02:25.090]  This is ridiculous.
+[00:02:25.349 --> 00:02:26.150]  You know, the media.
+[00:02:26.250 --> 00:02:26.710]  Right, of course.
+[00:02:26.849 --> 00:02:29.629]  And then the British media hired me to go in there because they were afraid to.
+[00:02:30.229 --> 00:02:34.129]  And so we snuck through and got the footage, and they have rights, and I have joint rights.
+[00:02:34.150 --> 00:02:37.150]  Now, what does the footage show, and how close up is it?
+[00:02:37.419 --> 00:02:39.520]  We're about 175 yards away.
+[00:02:40.060 --> 00:02:41.360]  You're zooming on it?
+[00:02:41.599 --> 00:02:43.560]  No, no, because it's hidden in a little camera right here.
+[00:02:44.000 --> 00:02:48.219]  But at the same time, here's the screen, here's the ritual going on about that big.
+[00:02:48.379 --> 00:02:50.319]  You saw George and you saw George Doug?
+[00:02:50.319 --> 00:02:51.979]  No, we know that George Bush goes there.
+[00:02:52.159 --> 00:03:01.460]  They announced on CNN a few days later that George Bush has chosen Dick Cheney as his VP running mate from Bohemian Grove.
+[00:03:01.840 --> 00:03:03.659]  So they admit they go there.
+[00:03:03.840 --> 00:03:06.699]  I'm hiding out in the woods with a camera once I get through.
+[00:03:06.729 --> 00:03:07.409]  Once I get in.
+[00:03:07.669 --> 00:03:09.490]  So I'm not like walking up going, who are you?
+[00:03:09.669 --> 00:03:10.909]  Plus, they're wearing hoods.
+[00:03:11.009 --> 00:03:11.650]  Who do you see?
+[00:03:11.650 --> 00:03:12.810]  Oh, so you don't see anybody's face.
+[00:03:12.810 --> 00:03:13.789]  It's like Eyes Wide Shut.
+[00:03:13.990 --> 00:03:15.870]  They're wearing the hoods.
+[00:03:16.189 --> 00:03:18.930]  See, that's why Hollywood puts these movies out, because they're all really involved in it.
+[00:03:19.590 --> 00:03:23.129]  And believe me, I never covered this type of crap, but the British hired me to do it.
+[00:03:23.629 --> 00:03:29.110]  And it may air on A&E next year, but they say to get it aired, they're going to have to water it down and say, oh, it's just frat fun.
+[00:03:29.550 --> 00:03:31.310]  So they're going to show it and say, it's just frat fun.
+[00:03:31.669 --> 00:03:33.629]  Now, there's a body that's bound?
+[00:03:33.830 --> 00:03:35.810]  Yes, they bring a bound body up.
+[00:03:36.579 --> 00:03:39.080]  A guy in a black hood brings it up on a boat.
+[00:03:39.199 --> 00:03:40.360]  The person's dead already?
+[00:03:40.939 --> 00:03:41.900]  You don't know if it's real.
+[00:03:41.960 --> 00:03:42.780]  They claim it's an effigy.
+[00:03:43.259 --> 00:03:44.599]  A sacrifice, an effigy.
+[00:03:44.699 --> 00:03:45.400]  They tell you that.
+[00:03:45.900 --> 00:03:54.740]  And then they take the body up there, and they burn it, and they have screams of pain come out of these loudspeakers, and everybody claps, and this weird chanting, and then it's over.
+[00:03:54.780 --> 00:03:55.800]  You have all this on tape?
+[00:03:55.960 --> 00:03:56.560]  All of it on tape.
+[00:03:56.680 --> 00:03:57.099]  It's pain, everything?
+[00:03:57.300 --> 00:03:58.479]  It's revolutionary, yep.
+[00:03:59.199 --> 00:04:00.439]  Now, is there any way to prove?
+[00:04:00.639 --> 00:04:01.620]  I mean, I'm not saying that you did the doctor.
+[00:04:01.620 --> 00:04:02.719]  We can prove they go there.
+[00:04:02.800 --> 00:04:03.400]  I mean, everybody knows they go there.
+[00:04:03.400 --> 00:04:05.539]  No, what I'm saying is that the tape, can you prove that it hasn't?
+[00:04:08.420 --> 00:04:11.919]  We have the original footage.
+[00:04:13.340 --> 00:04:15.539]  Plus, we had World of Wonder with us.
+[00:04:16.720 --> 00:04:17.959]  World of Wonder is what?
+[00:04:18.480 --> 00:04:20.579]  It's like there's only four channels in it.
+[00:04:21.779 --> 00:04:24.040]  And so they claim that's the one that's independent.
+[00:04:24.459 --> 00:04:27.920]  The other three are BBC, but it's basically BBC, but it's World of Wonder.
+[00:04:28.810 --> 00:04:31.189]  Now, how close do you get it up on this group?
+[00:04:31.310 --> 00:04:32.829]  I mean, do you see anyone's face?
+[00:04:32.970 --> 00:04:35.409]  Is it just all, everyone's totally hooded or what?
+[00:04:35.539 --> 00:04:40.829]  Well, I was saying Who did you see that you could identify?
+[00:04:42.509 --> 00:04:46.689]  I saw people that I've seen on the news and things, like the heads of corporations and stuff.
+[00:04:48.759 --> 00:04:53.220]  Caught on tape, like posters of George Bush and people, you walk by camps.
+[00:04:53.379 --> 00:04:54.899]  But I was staying away from the crowds.
+[00:04:55.019 --> 00:04:58.800]  You get inside this big 2,700 acres, you try to stay away from them.
+[00:04:59.040 --> 00:05:02.839]  And then the ritual starts, that's what we did, that night, every July 15th.
+[00:05:02.860 --> 00:05:04.459]  You can go there next year.
+[00:05:04.500 --> 00:05:09.199]  It's an hour and a half north of San Francisco, right outside the small town of Monterio, in between Occidental.
+[00:05:09.259 --> 00:05:10.120]  Well, how can I go there?
+[00:05:10.399 --> 00:05:17.519]  If you want to stick to the mountains and sneak past the Secret Service, it'll be going on at 9 o 'clock sharp on July 15th.
+[00:05:18.189 --> 00:05:19.569]  I think I got a date.
+[00:05:19.829 --> 00:05:20.329]  Yeah, no, I know.
+[00:05:21.610 --> 00:05:25.870]  What I'm saying is they're so arrogant that they do this every year at the same time.
+[00:05:25.970 --> 00:05:26.990]  But they're the Christian right.
+[00:05:27.129 --> 00:05:27.810]  They're the good Christians.
+[00:05:28.089 --> 00:05:29.410]  And they're going to get away with all this.
+[00:05:30.029 --> 00:05:30.730]  And you're right.
+[00:05:31.569 --> 00:05:33.569]  Your intro, I mean, they're all a bunch of fake presidents.
+[00:05:33.709 --> 00:05:35.750]  But seriously, I was just telling you about it because it's shocking.
+[00:05:36.009 --> 00:05:43.509]  We actually wanted to get you talking about your little intro there with the whole Kennedy thing and how it's all basically fake and how we have fake presidents.
+[00:05:43.670 --> 00:05:43.990]  That's true.
+[00:05:44.310 --> 00:05:49.779]  Listen to this, I was in, I read that book You want to read that book, Best Evidence?
+[00:05:50.199 --> 00:05:55.360]  This is the first time I had a friend of mine who was, it was one day we were smoking dope and it was in New York.
+[00:05:55.439 --> 00:06:01.439]  I had been doing comedy for a couple of years and this friend of mine had this roommate who was a musician.
+[00:06:02.029 --> 00:06:14.029]  His roommate was a musician, and he was a conspiracy theorist, and he had lived in upstate New York, and apparently there was this other guy who was a musician who had Jackie Gleason's old home.
+[00:06:14.490 --> 00:06:23.889]  And Jackie Gleason, apparently, Nixon took Jackie Gleason to see actual wreckage of a UFO that they have somewhere in Ohio, like Wright-Patterson Air Force Base.
+[00:06:24.110 --> 00:06:31.449]  Jackie Gleason, apparently, this is true and this is documentable, was fascinated by UFOs and had this actual replica of this.
+[00:06:31.450 --> 00:06:32.591]  This thing's built in this backyard.
+[00:06:32.740 --> 00:06:34.019]  And this guy bought it.
+[00:06:34.100 --> 00:06:36.360]  Whoever this musician was, I forget because I'm stoned.
+[00:06:36.680 --> 00:06:38.860]  But this guy gave me this book, Best Evidence.
+[00:06:38.980 --> 00:06:40.040]  And I didn't think anything of it.
+[00:06:40.199 --> 00:06:41.800]  And then I was working in Philadelphia.
+[00:06:42.600 --> 00:06:46.120]  And a lot of times when you work on the road, now I can bring the people I work with.
+[00:06:46.180 --> 00:06:46.899]  But back then I couldn't.
+[00:06:46.899 --> 00:06:49.759]  So I'd be like, I didn't want to hang out with some fucking asshole comedian.
+[00:06:49.800 --> 00:06:52.680]  So I'm sitting at home, or sitting in the hotel room reading this book.
+[00:06:52.800 --> 00:06:54.139]  And I pick up this Best Evidence.
+[00:06:54.220 --> 00:06:54.699]  And I start reading.
+[00:06:54.819 --> 00:06:57.060]  And I'm freaking the fuck out.
+[00:06:57.160 --> 00:06:58.040]  Because it all makes sense.
+[00:06:58.139 --> 00:06:59.600]  Because you've seen stuff similar in life.
+[00:06:59.600 --> 00:07:00.540]  Well, not only makes sense, but it makes sense.
+[00:07:00.560 --> 00:07:02.420]  Because this guy is not a conspiracy theorist.
+[00:07:02.579 --> 00:07:03.920]  This guy was a clerk.
+[00:07:04.279 --> 00:07:04.959]  He was a clerk.
+[00:07:05.160 --> 00:07:06.439]  was an accountant.
+[00:07:06.439 --> 00:07:08.850]  He was a guy who was going over the wall.
+[00:07:15.800 --> 00:07:22.360]  And then you've got Arlen Specter with his magic bullet, and today they still use him for every major huge whitewash.
+[00:07:22.619 --> 00:07:39.430]  Right, well, and they didn't even come up with the magic bullet theory until that one guy who got hit by a ricochet, and they proved it, that a bullet had hit the granite At that moment, this is like 1994 maybe, at that moment I became obsessed with the Kennedy assassination.
+[00:07:39.750 --> 00:07:45.889]  And I've read book after book after book about it, but that one book by David Lifted, Best Evidence, just freaked me out.
+[00:07:46.110 --> 00:07:48.569]  The more I'm reading into it, it shows the contradictions.
+[00:07:48.730 --> 00:07:50.290]  I mean, it's not like a guy making something up.
+[00:07:50.350 --> 00:07:51.550]  It's in the War Commission report.
+[00:07:51.829 --> 00:07:52.529]  It's everything.
+[00:07:52.730 --> 00:07:54.389]  It's showing how the casket was empty.
+[00:07:54.588 --> 00:08:00.767]  It's showing how the autopsy was totally different from Dallas than it was in Bethesda.
+[00:08:00.788 --> 00:08:02.129]  And later his brain got stolen.
+[00:08:02.129 --> 00:08:05.468]  Yeah, and his brain disappeared after the Zapruder film was released.
+[00:08:05.468 --> 00:08:06.468]  Right?
+[00:08:06.468 --> 00:08:06.918]  It's all after.
+[00:08:06.927 --> 00:08:10.108]  Because the Zapruder film was released almost ten years afterwards, right?
+[00:08:10.108 --> 00:08:10.728]  Yeah.
+[00:08:10.728 --> 00:08:12.259]  The whole thing is fucking nuts.
+[00:08:12.278 --> 00:08:13.197]  Back and to the left.
+[00:08:13.209 --> 00:08:17.148]  You watch that video and you go, "What the fuck?" I mean, anybody who watches it.
+[00:08:17.158 --> 00:08:37.149]  And then it's almost like you see a guy like the Oliver Stone film and you go, Does it make sense?
+[00:08:38.029 --> 00:08:40.590]  Any sane man, I want to know your opinion.
+[00:08:40.809 --> 00:08:45.529]  Why would a sane man who's trying to do something and expose something, why would he open himself up to criticism?
+[00:08:45.909 --> 00:08:46.970]  Okay, I'll tell you why.
+[00:08:47.190 --> 00:08:51.970]  I was talking to the British media and they said, well, this is really hot footage and it's going to be on World of Wonder.
+[00:08:52.240 --> 00:09:00.659]  We may be able to sell it to HBO, definitely Discovery Channel, because they'd already done a bunch of specials that air here as well for BBC for the USA or World of Wonder for the USA.
+[00:09:01.000 --> 00:09:02.399]  Some of those shows, you'll see that at the end.
+[00:09:02.539 --> 00:09:11.759]  They said, we're going to have to basically water this thing down and make it a joke that, well, yeah, world leaders really do dress up in these robes, but it's like flat fun.
+[00:09:12.539 --> 00:09:14.080]  It's as if they air it on A&E.
+[00:09:14.179 --> 00:09:21.840]  Yeah, and so they have to kind of, well, even in England now, they have to kind of throw in something to make it and kind of discredit it and make me look like a freak in it on top of it.
+[00:09:21.899 --> 00:09:26.700]  But that's okay, Alex, because, you know, it's going to be a big production, maybe a two-hour special.
+[00:09:27.720 --> 00:09:32.679]  So why does Oliver Stone create some fictional character to help move the story along?
+[00:09:32.820 --> 00:09:33.799]  That's the same reason.
+[00:09:33.799 --> 00:09:37.019]  When they have so much evidence, Hollywood won't let them sell it.
+[00:09:37.059 --> 00:09:39.080]  It's okay to throw it in our face a little bit.
+[00:09:39.399 --> 00:09:42.419]  But then they have to be able to pick holes in it in the media for certain people.
+[00:09:42.720 --> 00:09:44.299]  It's called desensitizing us.
+[00:09:44.500 --> 00:09:45.720]  They want to condition us.
+[00:09:45.779 --> 00:09:47.159]  They just simply say, we're not going to buy that.
+[00:09:47.320 --> 00:09:48.100]  That's going to fail.
+[00:09:48.179 --> 00:09:49.240]  We're not going to promote that.
+[00:09:49.659 --> 00:09:51.200]  I mean, that's how the whole thing's controlled.
+[00:09:51.379 --> 00:09:53.240]  But they want a little reality out there.
+[00:09:53.740 --> 00:09:55.159]  Like you mentioned the running man.
+[00:09:55.379 --> 00:09:56.860]  I mean, already they're doing crap like that.
+[00:09:57.340 --> 00:10:00.500]  Not just violent shows, but like cops conditioning us.
+[00:10:00.500 --> 00:10:02.059]  Again, that key word, acclimating us.
+[00:10:04.120 --> 00:10:06.220]  Well, they actually are doing a fugitive show.
+[00:10:06.360 --> 00:10:07.360]  It's a fake feud ship, though.
+[00:10:07.360 --> 00:10:08.528]  It's a guy who...
+[00:10:10.940 --> 00:10:14.129]  This is going to be another show on Fox, by the way.
+[00:10:17.120 --> 00:10:19.940]  His goal is to get cross-country without getting caught.
+[00:10:20.100 --> 00:10:23.100]  And what they're planning on doing is having people call in phone lines.
+[00:10:23.179 --> 00:10:26.080]  If you see this guy, they're going to make this guy look a fake fugitive.
+[00:10:26.320 --> 00:10:27.320]  They're going to have people call up.
+[00:10:27.320 --> 00:10:30.219]  That's part of training everybody to be petty enforcers.
+[00:10:30.219 --> 00:10:36.860]  Little tattletales like Nazi Germany where one in ten But is it that, or is it simply entertainment?
+[00:10:37.080 --> 00:10:39.700]  Because I know one of the guys who puts that on.
+[00:10:39.700 --> 00:10:41.430]  I know a guy who actually does.
+[00:10:45.220 --> 00:10:48.519]  But also, it still serves the same purpose.
+[00:10:48.639 --> 00:10:50.539]  And you ask, why would Oliver Stone put that in there?
+[00:10:51.120 --> 00:10:52.919]  Why would he screw the film up on purpose?
+[00:10:53.519 --> 00:10:54.440]  Did he have to?
+[00:10:54.580 --> 00:10:55.340]  Why would he weaken it?
+[00:10:55.440 --> 00:11:00.519]  Yes, from my personal experience, if you want something to be shown, you have to weaken what you're saying.
+[00:11:00.980 --> 00:11:03.409]  In the mainstream media, So you think he did it on purpose?
+[00:11:04.029 --> 00:11:05.730]  They only want to give us small doses.
+[00:11:05.990 --> 00:11:06.970]  But why didn't he say it?
+[00:11:07.110 --> 00:11:17.250]  Why didn't he come out and say, the reason why I put these fictional characters, the reason why I opened myself up to criticism by taking creative license with history is because I was forced to do that to release it.
+[00:11:17.909 --> 00:11:21.490]  I don't know Oliver Stone, and I can't say in this case that's what he's doing.
+[00:11:21.730 --> 00:11:23.590]  Has Oliver Stone ever seen any of your stuff?
+[00:11:24.110 --> 00:11:25.210]  Never said anything, no.
+[00:11:25.610 --> 00:11:27.350]  Why don't you send him to your stuff and find out what happens?
+[00:11:27.649 --> 00:11:27.809]  Yeah.
+[00:11:28.019 --> 00:11:30.109]  I think anybody who sees any of your shit is going to freak out.
+[00:11:30.109 --> 00:11:31.298]  Well, so you can't.
+[00:11:42.370 --> 00:11:46.970]  Anybody doubts me, call Kingsville, Texas, ask the black helicopters, attack them last year.
+[00:11:47.169 --> 00:11:48.330]  No, burning police stations.
+[00:11:48.590 --> 00:11:50.230]  I mean, I'm living in the twilight zone.
+[00:11:50.250 --> 00:11:52.230]  And I expect to hear that music anytime.
+[00:11:52.230 --> 00:11:54.210]  See Rod Serling walking out.
+[00:11:54.210 --> 00:11:55.389]  The world turns black and white.
+[00:11:55.389 --> 00:11:56.850]  Call Kingsville, Texas.
+[00:11:56.850 --> 00:11:57.629]  February 8th.
+[00:11:57.690 --> 00:11:59.178]  It's pretty close here on the Texas coast.
+[00:12:01.919 --> 00:12:02.820]  Burning buildings.
+[00:12:02.980 --> 00:12:04.000]  Automatic weapons fire.
+[00:12:04.340 --> 00:12:05.799]  To condition the public.
+[00:12:06.039 --> 00:12:07.019]  To shock us.
+[00:12:07.100 --> 00:12:08.000]  To test the media.
+[00:12:08.059 --> 00:12:09.500]  And to see if they had full control.
+[00:12:09.940 --> 00:12:12.179]  Call the police chief and ask if black helicopters attacked.
+[00:12:12.580 --> 00:12:13.860]  Call the mayor and ask.
+[00:12:14.120 --> 00:12:15.340]  What about San Antonio?
+[00:12:15.919 --> 00:12:18.299]  They tried to hit San Antonio and their police chief threw them out.
+[00:12:18.879 --> 00:12:20.279]  That was actually in the paper.
+[00:12:20.539 --> 00:12:22.019]  But then they came back anyways.
+[00:12:22.159 --> 00:12:23.639]  They didn't care if the police chief said no.
+[00:12:23.799 --> 00:12:25.679]  But they were testing their media grid.
+[00:12:25.840 --> 00:12:27.980]  It was only in the San Antonio Express News.
+[00:12:28.139 --> 00:12:29.340]  It didn't make it out nationwide.
+[00:12:29.679 --> 00:12:31.840]  This is your opinion on Waco, too.
+[00:12:32.779 --> 00:12:35.340]  We have the Texas Ranger Report.
+[00:12:35.500 --> 00:12:37.539]  We have General Parton, who was in Air Force Weapons Development.
+[00:12:37.779 --> 00:12:42.279]  They had a bunker in there that was really the church records vault, the original building that they built onto.
+[00:12:42.679 --> 00:12:43.460]  It was concrete.
+[00:12:43.720 --> 00:12:44.940]  They were all hiding in there.
+[00:12:45.059 --> 00:12:46.000]  There was a shape charge.
+[00:12:46.120 --> 00:12:46.820]  Blew them to pieces.
+[00:12:48.080 --> 00:12:50.120]  The FBI crime lab quit over it.
+[00:12:50.159 --> 00:12:52.559]  Dr. Frederick Whitehurst, they've been threatening his life.
+[00:12:52.960 --> 00:13:01.279]  The head of CIA foreign security who runs Delta Force operators, these secret military teams, quit when they were bragging about killing the women, machine gunning them.
+[00:13:01.790 --> 00:13:05.950]  Gene Cullen is in a Congressional safehouse right now under Senator Grassley's protection.
+[00:13:07.049 --> 00:13:09.929]  We've got evidence coming out of our ears.
+[00:13:10.509 --> 00:13:11.230]  Stacks of it.
+[00:13:11.470 --> 00:13:16.929]  But you think that this is all, someone is making people do all these things to condition them.
+[00:13:17.029 --> 00:13:21.590]  Have you ever thought that possibly it's because these people are so fucking inept and bloodthirsty and psychotic?
+[00:13:21.690 --> 00:13:23.570]  That's why they got into the military in the first place.
+[00:13:23.669 --> 00:13:24.950]  That's why they got into the ATF in the first place.
+[00:13:24.990 --> 00:13:25.970]  They used those types.
+[00:13:25.990 --> 00:13:31.049]  They let those people run amok and they fucked up that whole Waco compound and they did it.
+[00:13:31.210 --> 00:13:35.809]  Because they run out, because they're psychotic, and then people cover it up because of people above.
+[00:13:36.529 --> 00:13:39.990]  But is it possible that it's not because people are being conditioned?
+[00:13:40.029 --> 00:13:43.750]  It's just because people who are in those positions aren't sane people in the first place.
+[00:13:43.929 --> 00:13:47.509]  A sane person doesn't want to be a military guy in the ATF.
+[00:13:47.629 --> 00:13:49.929]  A sane person doesn't want to be in the FBI.
+[00:13:50.318 --> 00:13:52.308]  You have to be a little fucked up to want to do that.
+[00:13:52.308 --> 00:13:53.738]  You have to want to power.
+[00:13:55.600 --> 00:13:56.399]  Right, absolutely.
+[00:13:56.620 --> 00:14:02.240]  But do you think that those people are capable of making this massive conspiracy, or is it possible that it's just an end?
+[00:14:02.418 --> 00:14:03.239]  Well, I know this.
+[00:14:03.239 --> 00:14:04.698]  If you start reading...
+[00:14:06.450 --> 00:14:07.110]  But have you ever thought of that?
+[00:14:07.190 --> 00:14:09.250]  That instead of a giant conspiracy, they're inept.
+[00:14:09.370 --> 00:14:13.169]  and that everybody else above them who's responsible for their actions is covering up.
+[00:14:13.190 --> 00:14:14.860]  Well, I agree because...
+[00:14:16.350 --> 00:14:17.110]  It's covering up.
+[00:14:17.250 --> 00:14:18.730]  Well, it reflects on them, you're right.
+[00:14:18.850 --> 00:14:19.169]  It does.
+[00:14:19.289 --> 00:14:22.490]  But did you ever think that the establishment picks from the inept and brings them to the top?
+[00:14:22.769 --> 00:14:24.070]  Because they'll keep their mouths shut.
+[00:14:24.169 --> 00:14:24.870]  Because they're criminals.
+[00:14:25.370 --> 00:14:26.250]  And psychos.
+[00:14:26.370 --> 00:14:29.809]  If you want to read stuff, what you have to read is what the elite, the actual leader is saying.
+[00:14:30.070 --> 00:14:31.330]  Prince Bernhard of the Netherlands.
+[00:14:31.549 --> 00:14:32.269]  Well, who are these people?
+[00:14:32.549 --> 00:14:33.129]  Royalty's dead.
+[00:14:33.350 --> 00:14:34.750]  Oh yeah, they own these Dutch roll shelves.
+[00:14:35.409 --> 00:14:37.610]  They own a third of the real estate in many countries.
+[00:14:37.830 --> 00:14:38.909]  They own half of Africa.
+[00:14:38.909 --> 00:14:40.669]  They're killing people by the millions every year.
+[00:14:40.929 --> 00:14:45.809]  They got 700,000 Chinese troops under control right now in Sudan, killing all the Christians.
+[00:14:46.070 --> 00:14:46.950]  That's going on.
+[00:14:47.210 --> 00:14:48.330]  You don't hear about it on the news.
+[00:14:49.629 --> 00:14:56.129]  We always hear about how the British old family, they're dead, they're gone, they're this burnout group, make fun of the tabloids.
+[00:14:56.289 --> 00:14:57.370]  They own half of Canada.
+[00:14:58.149 --> 00:15:02.730]  So, you read their publications, like Foreign Affairs, put out by the Council on Foreign Relations, CFR.
+[00:15:03.009 --> 00:15:04.149]  It's all world government.
+[00:15:04.149 --> 00:15:05.129]  We're going to give it to you.
+[00:15:05.210 --> 00:15:07.029]  We're going to take your car in the next 20 years.
+[00:15:07.250 --> 00:15:08.809]  We're going to put you in compact cities.
+[00:15:08.970 --> 00:15:10.090]  You're going to get on those trains.
+[00:15:10.269 --> 00:15:11.309]  You're going to get on those buses.
+[00:15:11.490 --> 00:15:12.149]  They're bragging.
+[00:15:12.250 --> 00:15:13.529]  They're so arrogant and counting.
+[00:15:13.629 --> 00:15:14.529]  We won't check that out.
+[00:15:14.649 --> 00:15:16.029]  They brag about how they do this.
+[00:15:16.070 --> 00:15:16.529]  But you're right.
+[00:15:16.590 --> 00:15:20.870]  They use inept people, psychos at the bottom, because they're all compartmentalized.
+[00:15:21.049 --> 00:15:23.370]  They do what they're told, and nobody really puts it all together.
+[00:15:23.680 --> 00:15:29.289]  Well, look, I believe a lot of this is possible, and I've read a lot of things about what the actual purpose of FEMA is.
+[00:15:29.289 --> 00:15:32.409]  You know, it's the ITA.
+[00:15:32.450 --> 00:15:34.030]  Federal Emergency Management Agency.
+[00:15:34.030 --> 00:15:34.610]  But it's not.
+[00:15:34.610 --> 00:15:35.770]  I was given a police state.
+[00:15:35.799 --> 00:15:46.500]  I was given tours of concentration camps with CNN and everybody else out in California.
+[00:15:46.620 --> 00:15:49.580]  They practiced a mock takeover of Oakland last year.
+[00:15:49.840 --> 00:15:53.620]  The Marines land by the tens of thousands, foreign German troops in black uniforms.
+[00:15:53.820 --> 00:15:56.460]  And CNN and everybody else, ABC, they're just lying.
+[00:15:56.460 --> 00:15:57.240]  They're just lined up with cameras.
+[00:15:57.440 --> 00:15:58.379]  They're just lined up.
+[00:15:58.440 --> 00:16:01.820]  And I'm going, my God, they're admitting that the Marines are trained to put Americans in camps.
+[00:16:02.019 --> 00:16:05.720]  And the Marines are going, in case of a terrorist attack, we're ready to round people up and deal with them.
+[00:16:05.720 --> 00:16:08.080]  I'm sitting there videotaping the whole deal with my hands and my cameraman.
+[00:16:08.679 --> 00:16:12.000]  I go home to the hotel that night, turn it on, I'm sitting there watching it.
+[00:16:12.139 --> 00:16:14.840]  The Marines are training for earthquakes in foreign countries.
+[00:16:16.240 --> 00:16:17.120]  That's the control.
+[00:16:17.629 --> 00:16:18.470]  That's the control.
+[00:16:18.750 --> 00:16:19.409]  Think about it.
+[00:16:19.450 --> 00:16:20.769]  Look, man, I'll show you all the videos.
+[00:16:20.970 --> 00:16:22.190]  I got stuff so hardcore.
+[00:16:22.590 --> 00:16:25.870]  I got guys in black uniforms admitting they're getting ready to fight Americans.
+[00:16:26.070 --> 00:16:29.149]  Well, what you call the funny stuff that Kevin sent me freaked me out enough.
+[00:16:29.309 --> 00:16:29.830]  Oh, man.
+[00:16:31.629 --> 00:16:33.330]  Am I bullshitting about black helicopters?
+[00:16:33.570 --> 00:16:34.570]  I don't think you're bullshitting, man.
+[00:16:34.710 --> 00:16:36.830]  Do I have video of black helicopters of burning police stations?
+[00:16:37.309 --> 00:16:38.549]  Part of that's in my video.
+[00:16:39.110 --> 00:16:45.029]  Well, I mean, but I know there's so much.
+[00:16:45.129 --> 00:16:45.870]  That's another problem.
+[00:16:46.230 --> 00:16:48.570]  See, you've already scratched the surface and now gone deeper.
+[00:16:48.950 --> 00:16:51.049]  99.9% will never ask that question.
+[00:16:51.409 --> 00:16:55.549]  Once you find out about this crap, it's like, my God, man, they control everything.
+[00:16:55.870 --> 00:16:57.970]  And they're bringing everybody into this.
+[00:16:58.960 --> 00:17:01.879]  Slowly conditioning us to where we can accept more and more and then it's all over.
+[00:17:02.179 --> 00:17:04.019]  And what it's really about is you brought cloning up.
+[00:17:04.220 --> 00:17:07.599]  It won't be like the sixth day where it's real simple.
+[00:17:07.779 --> 00:17:07.799]  It's a shitty movie?
+[00:17:08.039 --> 00:17:08.259]  Huh?
+[00:17:08.420 --> 00:17:09.220]  Like it's a shitty movie?
+[00:17:09.359 --> 00:17:09.559]  Yeah.
+[00:17:09.799 --> 00:17:13.059]  Well, I mean, I thought it was alright, but I watched it last time.
+[00:17:13.440 --> 00:17:14.859]  It's fucking terrible, man.
+[00:17:15.200 --> 00:17:25.658]  Well, anyways, I like mindless action movies, but the point is, it's not like it's the sixth day where they clone you and they I like everything.
+[00:17:25.668 --> 00:17:27.519]  The point is, Whoa.
+[00:17:27.759 --> 00:17:28.440]  You like Sinbad?
+[00:17:29.180 --> 00:17:30.420]  So you like Sinbad, I gotta go.
+[00:17:30.599 --> 00:17:31.500]  No, I don't like Sinbad.
+[00:17:31.740 --> 00:17:32.680]  You don't like everything then?
+[00:17:32.819 --> 00:17:35.019]  No, I'm not gonna sit here and lie to you and tell you that I don't like that.
+[00:17:35.240 --> 00:17:35.519]  Gallagher.
+[00:17:35.859 --> 00:17:35.940]  Huh?
+[00:17:36.220 --> 00:17:36.500]  Gallagher?
+[00:17:36.740 --> 00:17:38.039]  Uh, I never really watch it.
+[00:17:38.660 --> 00:17:39.799]  What, the guy with the curly hair?
+[00:17:39.900 --> 00:17:40.740]  The guy who hits the fruit?
+[00:17:41.280 --> 00:17:42.559]  No, no, no.
+[00:17:42.680 --> 00:17:44.279]  Man, I'll tell you the truth, I work so hard.
+[00:17:44.599 --> 00:17:46.240]  No, but seriously, the point is friends.
+[00:17:46.519 --> 00:17:48.460]  He's only 26. No, but she likes friends.
+[00:17:49.779 --> 00:17:51.460]  He's too young to know who Gallagher is.
+[00:17:51.660 --> 00:17:53.420]  No, I know 26. You're 26?
+[00:17:53.539 --> 00:17:54.319]  I know I love Gallagher.
+[00:17:54.539 --> 00:17:55.559]  He's from working, man.
+[00:17:55.640 --> 00:17:58.920]  I didn't sleep two days this week.
+[00:17:59.160 --> 00:18:00.380]  I'm seven years older than you.
+[00:18:01.460 --> 00:18:03.059]  I had the same reaction.
+[00:18:03.500 --> 00:18:05.500]  I am the total same thing.
+[00:18:05.548 --> 00:18:06.500]  Tell me seriously.
+[00:18:06.539 --> 00:18:07.500]  She's got an old soul.
+[00:18:07.569 --> 00:18:10.460]  She's my knee, got a camera.
+[00:18:10.470 --> 00:18:12.670]  This is an expired driver's license.
+[00:18:12.690 --> 00:18:14.650]  I saw the whole thing where you wouldn't show the thumbprint.
+[00:18:17.990 --> 00:18:18.869]  Who's this motherfucker?
+[00:18:19.910 --> 00:18:20.390]  That's me.
+[00:18:20.549 --> 00:18:20.990]  Skinnier, man.
+[00:18:21.069 --> 00:18:21.849]  I like burnout, man.
+[00:18:22.730 --> 00:18:23.049]  Wow.
+[00:18:23.369 --> 00:18:29.890]  But anyways, what I'm trying to say is, look, I don't just make this stuff up because I couldn't get away with it.
+[00:18:30.089 --> 00:18:31.710]  I'm on about 100 radio stations, which is nothing.
+[00:18:31.829 --> 00:18:35.269]  At the same time, I can sit there for three hours a day and talk about this stuff and bring it out.
+[00:18:35.329 --> 00:18:36.349]  And I name names, everything.
+[00:18:36.349 --> 00:18:37.289]  I'm getting pretty good here.
+[00:18:41.039 --> 00:18:43.940]  I'm still freaking out that you're 26. They let me go on here.
+[00:18:44.980 --> 00:18:46.180]  Alex, tell me about human cloning.
+[00:18:46.180 --> 00:18:46.860]  I'm just babbling.
+[00:18:46.860 --> 00:18:47.560]  Go on.
+[00:18:47.560 --> 00:18:48.599]  You brought up human.
+[00:18:50.140 --> 00:18:51.000]  Oh, the cloning thing.
+[00:18:51.000 --> 00:18:51.700]  How about human cloning?
+[00:18:51.799 --> 00:18:52.839]  You brought up human cloning.
+[00:18:52.940 --> 00:18:57.460]  The race is, they're already cloning humans in England, and they admit it.
+[00:18:57.859 --> 00:18:59.880]  But they don't let them grow up.
+[00:19:00.099 --> 00:19:00.500]  See?
+[00:19:01.140 --> 00:19:04.140]  You're sitting there reading a Sunday Times of London story.
+[00:19:04.799 --> 00:19:07.140]  Because I scan the news wires for like two hours every morning.
+[00:19:07.220 --> 00:19:07.640]  So does she.
+[00:19:08.000 --> 00:19:09.420]  You know, sitting there, bam, bam, bam.
+[00:19:09.559 --> 00:19:10.140]  Real news.
+[00:19:10.339 --> 00:19:10.759]  They're looking at it.
+[00:19:10.940 --> 00:19:11.779]  All over the world.
+[00:19:12.339 --> 00:19:15.539]  And they go, the first few stories, they have now cloned humans.
+[00:19:16.200 --> 00:19:17.519]  They're in embryonic stages.
+[00:19:18.079 --> 00:19:20.279]  And then, boom, suddenly, it's stem cell research.
+[00:19:20.380 --> 00:19:21.299]  It's stem cell research.
+[00:19:21.519 --> 00:19:22.880]  They grow up to 14 days.
+[00:19:23.019 --> 00:19:23.900]  You know, we were all there once.
+[00:19:24.000 --> 00:19:24.319]  It's big.
+[00:19:24.519 --> 00:19:25.299]  Then they kill them.
+[00:19:25.519 --> 00:19:27.839]  They're about to pass along England where they can go ahead and grow up the full size.
+[00:19:28.220 --> 00:19:29.799]  That doesn't even make the news here.
+[00:19:30.019 --> 00:19:35.539]  They broke the speed of light in England and at MIT in this country three months ago times 300.
+[00:19:36.079 --> 00:19:36.960]  Wasn't that this pretty?
+[00:19:37.099 --> 00:19:38.599]  Didn't they think that was a mistake?
+[00:19:38.779 --> 00:19:38.940]  What?
+[00:19:38.980 --> 00:19:40.119]  That was a mistake in the calculations.
+[00:19:40.599 --> 00:19:47.220]  No, the idea was that they accelerate whatever particle it is and it actually goes through before the light goes through.
+[00:19:47.759 --> 00:19:52.400]  The idea is that they can send information to someone before the event actually happens.
+[00:19:52.720 --> 00:20:12.490]  And then you see the story come out later because the sun I don't have enough information in the back of my hand to bring up right now, but I understand it was a mistake in the calculation.
+[00:20:13.200 --> 00:20:14.779]  At three different major institutions.
+[00:20:15.140 --> 00:20:15.440]  Italy.
+[00:20:15.720 --> 00:20:17.019]  Was it three different major institutions?
+[00:20:17.119 --> 00:20:18.660]  I thought it was only one where they did the research.
+[00:20:18.920 --> 00:20:19.440]  No, no.
+[00:20:19.660 --> 00:20:20.320]  There was three majors.
+[00:20:20.320 --> 00:20:21.290]  See, it's...
+[00:20:22.000 --> 00:20:24.220]  But see, right before you used that argument, I understand.
+[00:20:24.220 --> 00:20:25.039]  No, I'm not using it.
+[00:20:29.839 --> 00:20:30.000]  Right.
+[00:20:30.509 --> 00:20:33.009]  Just like we cloned Dolly the sheep all three years ago.
+[00:20:33.108 --> 00:20:33.828]  I'm just telling you about it now.
+[00:20:33.828 --> 00:20:36.908]  Yeah, but isn't it possible that a scientist wanted to get notification, wanted to get...
+[00:20:36.908 --> 00:20:37.468]  They do that all the time.
+[00:20:38.388 --> 00:20:39.508]  The Cotterati, yes, they do that.
+[00:20:39.588 --> 00:20:42.270]  Acceptance for his, or funding for his My whole point is this.
+[00:20:42.270 --> 00:20:47.640]  So he releases false information or information that might be shady about...
+[00:20:49.769 --> 00:20:51.309]  But that's not even my point on that.
+[00:20:51.690 --> 00:20:54.190]  The point is there's massive scientific things happening.
+[00:20:54.410 --> 00:20:56.369]  Fifty years ago, break the speed of sound.
+[00:20:56.549 --> 00:20:57.609]  Massive news worldwide.
+[00:20:58.069 --> 00:20:59.849]  Humans always mark our progress.
+[00:21:00.460 --> 00:21:01.500]  That's part of what we do.
+[00:21:01.799 --> 00:21:03.500]  Now these huge things are happening.
+[00:21:03.819 --> 00:21:05.240]  We hardly even talk about them.
+[00:21:05.279 --> 00:21:17.039]  This is a really interesting article that I read the other day about artificial intelligence, about when people create artificial intelligence, the artificial intelligence will in turn create more potent artificial intelligence, and this will all happen within moments.
+[00:21:17.220 --> 00:21:23.059]  Within moments of the original, once initial artificial intelligence is created, it's given its own mind.
+[00:21:23.180 --> 00:21:23.200]  Geometry.
+[00:21:23.380 --> 00:21:23.500]  Right.
+[00:21:23.660 --> 00:21:26.619]  It will increase logarithmically, like immediately.
+[00:21:26.980 --> 00:21:29.500]  Like within days, within hours, within minutes, I'm not even sure.
+[00:21:29.799 --> 00:21:42.299]  But artificial intelligence will create more potent artificial intelligence, which will create better artificial intelligence, and within, like, weeks or months or whatever, it will so bypass any human thinking, because it'll have the ability to create.
+[00:21:42.400 --> 00:21:43.619]  And we won't even be able to work on it.
+[00:21:43.819 --> 00:21:45.640]  But it's a really interesting article.
+[00:21:45.980 --> 00:21:48.399]  So you're into all this stuff, and that's very unusual.
+[00:21:48.399 --> 00:21:52.439]  But the point is, why isn't this the main debate on the news?
+[00:21:52.439 --> 00:22:00.400]  This is my question about all this, is what's the benefit from the people Life extension technology.
+[00:22:00.559 --> 00:22:01.380]  That's what I'm trying to get to.
+[00:22:01.640 --> 00:22:05.880]  They have to dumb us down to the level of suboid idiots down here in our loincloth.
+[00:22:05.900 --> 00:22:11.119]  So we're not concerned that most people are in fact suboid idiots and it's not a matter of dumbing them down.
+[00:22:11.240 --> 00:22:11.819]  It's pretty easy.
+[00:22:12.160 --> 00:22:15.140]  You give them welfare, you give them beer, and you give them sitcoms.
+[00:22:15.140 --> 00:22:15.559]  That's right.
+[00:22:15.858 --> 00:22:21.519]  But I do think that there's got to be some benefit for the people that are doing this.
+[00:22:21.519 --> 00:22:28.078]  If the Egyptians would kill hundreds of thousands of people, you know, torturing them basically, to build pyramids because some quack priest...
+[00:22:28.078 --> 00:22:29.808]  Do you really believe Egyptians built pyramids?
+[00:22:29.828 --> 00:22:37.138]  The Great Pyramid of Giza has 2,300,000 stones cut so perfectly, you can't get a razor blade, which are all made before the invention of steel.
+[00:22:37.138 --> 00:22:38.158]  They had copper tools.
+[00:22:38.158 --> 00:22:38.577]  I understand that.
+[00:22:38.577 --> 00:22:41.217]  The middle stones are cut from a quarry 500 miles away.
+[00:22:41.217 --> 00:22:47.937]  You know, if you cut and place 10 stones a day, it would take you 664 years to make one pyramid.
+[00:22:47.937 --> 00:22:48.338]  I understand.
+[00:22:48.338 --> 00:22:51.397]  All points of it line east, west, north, south perfectly.
+[00:22:54.509 --> 00:22:55.049]  That was flat.
+[00:22:56.410 --> 00:22:58.589]  You really believe Egyptians built that?
+[00:22:58.970 --> 00:23:02.369]  Not only that, there's only two types of trees before the invention of the wheel.
+[00:23:04.448 --> 00:23:06.028]  No, seriously, before I can Those guys are my friends.
+[00:23:06.068 --> 00:23:10.690]  Listen, you know what you're talking about, but before I can finish your point I don't know.
+[00:23:10.849 --> 00:23:12.589]  I'm trying to extrapolate a thought.
+[00:23:12.710 --> 00:23:13.789]  They didn't even have the invention of the wheel.
+[00:23:13.890 --> 00:23:15.130]  They were wiping their ass with palm frogs.
+[00:23:16.349 --> 00:23:17.650]  You really believe that, though?
+[00:23:17.769 --> 00:23:20.930]  I can't go any further if you really believe that Egyptians built the pyramids.
+[00:23:21.108 --> 00:23:22.228]  It's ridiculous.
+[00:23:25.160 --> 00:23:25.819]  The step pyramids?
+[00:23:26.180 --> 00:23:28.000]  The later ones, pretty hard to build.
+[00:23:28.140 --> 00:23:29.339]  How about impossible?
+[00:23:29.480 --> 00:23:30.259]  How about we can't do it today?
+[00:23:30.480 --> 00:23:37.160]  How about if they took all the United States of stone quarries and tripled production and took 34 years just to get the stones?
+[00:23:37.519 --> 00:23:38.559]  34 years!
+[00:23:39.220 --> 00:23:40.200]  Copper tools!
+[00:23:41.359 --> 00:23:42.839]  500 miles away!
+[00:23:43.220 --> 00:23:43.920]  No wheel!
+[00:23:44.140 --> 00:23:46.200]  10,000 years ago, water damage!
+[00:23:46.420 --> 00:23:47.079]  This guy's a maniac.
+[00:23:47.420 --> 00:23:47.940]  He's dangerous.
+[00:23:48.440 --> 00:23:49.440]  Call the government.
+[00:23:49.440 --> 00:23:54.078]  But you know, you're not taking this thing where you're saying that they enslaved these Egyptians.
+[00:23:54.078 --> 00:23:56.080]  Here's the other problem with enslaving 100,000 Egyptians.
+[00:23:56.080 --> 00:23:59.070]  There's only like 250,000 people living in Asia back then.
+[00:23:59.090 --> 00:24:01.080]  There was only 2 million people on the planet.
+[00:24:01.080 --> 00:24:02.080]  And most of them were slaves.
+[00:24:02.080 --> 00:24:03.199]  2 million people on the planet.
+[00:24:04.630 --> 00:24:05.690]  That's why I said a couple hundred thousand.
+[00:24:06.029 --> 00:24:06.809]  It didn't happen!
+[00:24:07.009 --> 00:24:08.029]  Aliens, motherfucker!
+[00:24:08.450 --> 00:24:10.390]  Little grey guys with big black eyes!
+[00:24:10.650 --> 00:24:12.069]  You really believe?
+[00:24:16.519 --> 00:24:22.359]  How is it possible?
+[00:24:23.220 --> 00:24:24.359]  How could they have done it?
+[00:24:24.440 --> 00:24:25.279]  You tell me.
+[00:24:25.289 --> 00:24:29.180]  They give you those fucking stupid scientific experiments they do in like National Geographic.
+[00:24:29.180 --> 00:24:34.160]  Oh, we have shown that if you raise the dirt, we can move a rock 500 miles.
+[00:24:34.160 --> 00:24:37.699]  The stones from the center of the period were cut from a quarry 500 miles.
+[00:24:37.710 --> 00:24:38.569]  100 miles away.
+[00:24:38.710 --> 00:24:39.410]  That's absolutely provable.
+[00:24:39.609 --> 00:24:47.089]  Not only is that, but it's also provable, and a lot of people have speculated, that the stones or the hieroglyphics and all the things have come way after the fact.
+[00:24:47.210 --> 00:24:52.369]  The Egyptians actually found the pyramids and did stuff to them long after they were built.
+[00:24:52.529 --> 00:24:56.410]  And then tried to duplicate by the step pyramids the things that they can do.
+[00:24:56.410 --> 00:24:57.130]  And what were they built for?
+[00:24:57.150 --> 00:24:57.730]  Tried to duplicate.
+[00:24:57.910 --> 00:24:58.750]  Why did aliens build them?
+[00:24:58.970 --> 00:24:59.829]  I don't know.
+[00:24:59.930 --> 00:25:00.430]  What do I know?
+[00:25:00.529 --> 00:25:04.730]  But I do know that there are paths inside the pyramids that point to constellations.
+[00:25:04.829 --> 00:25:04.990]  Yeah.
+[00:25:05.170 --> 00:25:05.390]  Right?
+[00:25:05.880 --> 00:25:11.180]  And it aligns perfectly with the North Star and the summer solstice, all when they thought that the world was flat.
+[00:25:13.059 --> 00:25:18.859]  You really think it's chickens, these dumb motherfuckers, you know, that are fucking, they're wiping their ass with leaves, man.
+[00:25:18.880 --> 00:25:21.469]  And they didn't even have toilet paper or the wheel or anything else.
+[00:25:21.480 --> 00:25:27.870]  But yet they decided to build this perfect geometrics design, this perfect thing that can't even be duplicated.
+[00:25:27.880 --> 00:25:30.090]  In the year 2000, our electronics.
+[00:25:31.740 --> 00:25:33.000]  I don't know about Stonehenge.
+[00:25:33.099 --> 00:25:34.119]  I'm talking about the pyramids, man.
+[00:25:34.259 --> 00:25:34.779]  That was pretty technical.
+[00:25:35.259 --> 00:25:37.059]  Yeah, well, maybe they built Stonehenge.
+[00:25:37.140 --> 00:25:38.279]  I'll go with Stonehenge.
+[00:25:38.380 --> 00:25:39.160]  I'm not going to go with the pyramids.
+[00:25:39.160 --> 00:25:45.180]  Well, I hear you on all that, and just on the whole pyramid thing, I was just semantically talking about that.
+[00:25:45.339 --> 00:25:53.299]  Well, but it's not semantics, because it's all, you're using it as an analogy to describe how today leaders are enslaved.
+[00:25:53.299 --> 00:25:54.319]  So what's going to happen in the future?
+[00:25:54.559 --> 00:25:57.599]  I don't know what's going to happen in the future, but I know what happened back then.
+[00:25:57.920 --> 00:25:59.339]  Little dudes, spaceships, man.
+[00:26:01.869 --> 00:26:05.170]  There's no way Egyptians, they were fucking retarded, man.
+[00:26:05.410 --> 00:26:06.609]  They were fucking their kids.
+[00:26:06.829 --> 00:26:07.869]  They all are inbred.
+[00:26:08.329 --> 00:26:10.349]  You know, Tutankhamen was like 18 years old.
+[00:26:10.450 --> 00:26:11.529]  He was the prince.
+[00:26:11.769 --> 00:26:15.349]  You know, I mean, he was the king of all of Egypt, and he's 18 years old.
+[00:26:15.529 --> 00:26:17.269]  You really think that's an advanced civilization?
+[00:26:17.588 --> 00:26:20.608]  they're retarded well That makes no sense.
+[00:26:20.608 --> 00:26:23.058]  The whole point is, with the whole Egypt...
+[00:26:23.950 --> 00:26:26.410]  Well, you were going where they were saying the leaders enslaved the people.
+[00:26:27.888 --> 00:26:28.668]  No, no, no.
+[00:26:28.709 --> 00:26:35.569]  Why would they want it I'm more than willing to listen in to all this FEMA stuff, the black caliber topics.
+[00:26:35.809 --> 00:26:36.569]  I listen to all of it.
+[00:26:36.650 --> 00:26:37.130]  But see, that's not where I'm going.
+[00:26:37.130 --> 00:26:38.690]  But in the end, I always want to know why.
+[00:26:38.809 --> 00:26:39.250]  What's the benefit?
+[00:26:39.630 --> 00:26:39.650]  I understand.
+[00:26:40.069 --> 00:26:40.750]  Besides financial.
+[00:26:40.869 --> 00:26:41.309]  I'm going to tell you.
+[00:26:41.410 --> 00:26:41.910]  Okay, please.
+[00:26:43.759 --> 00:26:47.980]  Seriously, my whole point is just to use an analogy that people know what I'm talking about.
+[00:26:48.420 --> 00:26:52.059]  Getting out of the pyramid debate, and I agree you couldn't build some of those pyramids.
+[00:26:52.200 --> 00:26:55.259]  Even with technology we have today, they've traveled small ones and failed.
+[00:26:55.720 --> 00:26:57.259]  Little ones are 50 feet tall.
+[00:26:58.200 --> 00:27:00.630]  And I've seen all those studies that think that's a separate issue.
+[00:27:00.639 --> 00:27:05.279]  Where I was going with the pyramids is that people thought...
+[00:27:05.279 --> 00:27:06.440]  Don't fuck with me with pyramids, bro.
+[00:27:06.440 --> 00:27:07.330]  All right.
+[00:27:07.340 --> 00:27:08.639]  That's right.
+[00:27:08.639 --> 00:27:10.580]  Yes, pyramids.
+[00:27:10.700 --> 00:27:11.840]  Thanks.
+[00:27:15.150 --> 00:27:18.930]  And people are obsessed, religion, all of it is about escaping death somehow.
+[00:27:19.589 --> 00:27:25.930]  Think about the technology we're coming into where actually now you'll be able to escape it for a long time.
+[00:27:26.130 --> 00:27:32.410]  You won't be the same person anymore after brain grafts and all the rest of this garbage.
+[00:27:33.160 --> 00:27:34.119]  But you'll still be alive.
+[00:27:34.259 --> 00:27:35.400]  You'll have a lot of the same memories.
+[00:27:35.880 --> 00:27:36.019]  Okay?
+[00:27:36.279 --> 00:27:38.660]  10, 20, 30, 40 years from now, or probably even today.
+[00:27:38.900 --> 00:27:40.200]  But why would anybody want to live?
+[00:27:40.339 --> 00:27:41.579]  Why would they want to see what's next?
+[00:27:41.619 --> 00:27:43.079]  But here's the point, because they're David Rockefeller.
+[00:27:43.140 --> 00:27:43.820]  They're a piece of garbage.
+[00:27:43.820 --> 00:27:51.530]  They'll have to even further dumb people down to the point where they don't even think about the systems around them so that the embryos...
+[00:27:54.681 --> 00:27:59.301]  And believe me, when you read their reports, what they're talking about, the think tanks, that's where it's all going.
+[00:27:59.440 --> 00:28:06.920]  So the haves and the have-nots, it won't just be not having the big house and the big car and the wife with the fake tits and all of this.
+[00:28:07.079 --> 00:28:08.519]  It's going to be much bigger than that.
+[00:28:08.720 --> 00:28:11.839]  You're going to literally have people being engineered down.
+[00:28:12.279 --> 00:28:15.039]  By an enslaving class the world's never seen.
+[00:28:15.359 --> 00:28:17.420]  So basically, I'm simply talking about trying to counter that.
+[00:28:17.420 --> 00:28:19.980]  But what's the benefit of it for those people, the people that are doing that?
+[00:28:20.119 --> 00:28:23.880]  Because they won't be able to enjoy the technologies because we'll demand them.
+[00:28:23.960 --> 00:28:25.059]  It's the ultimate class enemy.
+[00:28:25.299 --> 00:28:27.059]  It's a class enemy people will fight for.
+[00:28:28.069 --> 00:28:29.230]  At levels never seen.
+[00:28:29.349 --> 00:28:33.490]  So you think that's what all this black helicopters, Waco, is all about?
+[00:28:33.690 --> 00:28:34.329]  Oh, no!
+[00:28:34.670 --> 00:28:36.509]  I mean, they just want to keep squeezing people.
+[00:28:36.809 --> 00:28:39.950]  The federal government's got now 40-plus percent of the property.
+[00:28:40.089 --> 00:28:40.990]  They want more.
+[00:28:41.170 --> 00:28:41.970]  They're taking over.
+[00:28:42.109 --> 00:28:43.710]  It's the same thing that was going on in Nazi Germany.
+[00:28:43.910 --> 00:28:44.269]  But why?
+[00:28:46.009 --> 00:28:49.609]  Because there's a massive consolidation going on in most countries.
+[00:28:50.130 --> 00:28:54.410]  One percent of people are one-tenth of a percent of one percent.
+[00:28:54.730 --> 00:28:55.630]  Almost run everything.
+[00:28:56.269 --> 00:29:01.930]  Here, there's still a middle class, there's still a lot of They don't have to.
+[00:29:02.170 --> 00:29:02.970]  No, it's not easy.
+[00:29:03.089 --> 00:29:04.269]  It's pretty easy.
+[00:29:04.430 --> 00:29:05.390]  How do they consolidate everything?
+[00:29:05.670 --> 00:29:05.809]  No one's moving.
+[00:29:05.809 --> 00:29:07.589]  No one's moving against the government.
+[00:29:07.849 --> 00:29:08.490]  No one's trying.
+[00:29:08.630 --> 00:29:12.190]  I mean, look, you get a guy like Ralph Nader who can't even get 3% of the vote.
+[00:29:12.289 --> 00:29:13.589]  He's the only guy who's vocal.
+[00:29:13.849 --> 00:29:15.869]  No one who has any money.
+[00:29:16.069 --> 00:29:17.789]  No one who has any real money is moving.
+[00:29:17.789 --> 00:29:18.529]  Well, let me ask you a question.
+[00:29:18.630 --> 00:29:18.910]  No one's trying.
+[00:29:19.109 --> 00:29:23.190]  The only way to make any kind of attack against the government is through the media.
+[00:29:23.430 --> 00:29:23.670]  Right?
+[00:29:23.829 --> 00:29:24.009]  Correct?
+[00:29:25.700 --> 00:29:27.839]  People who have money are already controlling the media.
+[00:29:28.000 --> 00:29:29.220]  They're already in a beneficial position.
+[00:29:29.380 --> 00:29:29.880]  They're already happy.
+[00:29:30.000 --> 00:29:31.000]  It's more than that.
+[00:29:31.819 --> 00:29:33.299]  Who's doing it, though, and why?
+[00:29:33.400 --> 00:29:34.119]  What's the benefit?
+[00:29:34.500 --> 00:29:36.480]  Their names are all right down to the CFR.
+[00:29:36.660 --> 00:29:38.079]  They go through their names all day long.
+[00:29:38.960 --> 00:29:40.180]  Council on Foreign Relations.
+[00:29:40.960 --> 00:29:42.019]  That's who runs the country.
+[00:29:44.839 --> 00:29:52.460]  You go read biographies put out by, say, Helmut Schmidt, the German chancellor before Helmut Kohl, now it's Gerhard Schroeder.
+[00:29:52.680 --> 00:29:59.440]  And he brags in there about Bohemian Grove, I was telling you about earlier, and he brags about world government, how they're going to micromanage our lives.
+[00:29:59.740 --> 00:30:00.980]  It's hundreds of pages long.
+[00:30:01.099 --> 00:30:02.019]  It's called Men and Powers.
+[00:30:02.589 --> 00:30:08.769]  He brags about how he's in the CFR, the Trilateral Commission, how much he loved the rituals at Bohemian Grove and tell you about them.
+[00:30:08.910 --> 00:30:15.470]  So you think that this is like a controlling animal, that all these people are involved in this and no one person has any one specific goal in mind.
+[00:30:15.529 --> 00:30:16.990]  They're all part of a giant organization.
+[00:30:16.990 --> 00:30:18.589]  Well, they get to use the organization.
+[00:30:18.730 --> 00:30:20.049]  They get to see their power expand.
+[00:30:20.390 --> 00:30:21.309]  It's generational.
+[00:30:21.990 --> 00:30:28.410]  This is like super mob, but not the stupid mob they tell us about all day just because that might have been some competition for them at one time.
+[00:30:28.410 --> 00:30:31.910]  If they're so organized, why would they want a guy like George W. to try to run the country?
+[00:30:32.900 --> 00:30:34.299]  Because they hand it on.
+[00:30:36.099 --> 00:30:37.559]  They hand it on to their kids.
+[00:30:37.579 --> 00:30:38.519]  Well, they are organized.
+[00:30:38.740 --> 00:30:39.920]  Yeah, but why not Jeb?
+[00:30:39.980 --> 00:30:42.039]  At least he can fucking structure a sentence.
+[00:30:42.519 --> 00:30:43.859]  Why George W.?
+[00:30:43.859 --> 00:30:44.940]  Subliminal.
+[00:30:45.839 --> 00:30:47.640]  Nigeria is a very important continent.
+[00:30:47.799 --> 00:30:50.460]  Why wouldn't they fucking shoot him in the back of the head after all this?
+[00:30:50.700 --> 00:30:52.779]  Why wouldn't they stop him, get him in a car accident?
+[00:30:52.940 --> 00:30:53.940]  He's an embarrassment.
+[00:30:54.259 --> 00:30:56.980]  I understand how hard it is to put food on your family.
+[00:30:56.980 --> 00:31:01.059]  This is much bigger than George Bush or Jeb Bush or Albert Gore Jr.
+[00:31:01.059 --> 00:31:05.460]  I understand, but it's to have a representative of who their puppet is for the leader of the president.
+[00:31:06.470 --> 00:31:10.009]  This whole election is a fraud to get us into a constitutional convention.
+[00:31:10.990 --> 00:31:13.329]  Voter News Services supposedly counts the votes.
+[00:31:13.529 --> 00:31:17.769]  It's a media conglomerate consortium on 34th Street in New York.
+[00:31:18.150 --> 00:31:22.529]  And they project every year, like in 92, 630, Bill Clinton's the winner.
+[00:31:22.829 --> 00:31:23.910]  Polls haven't even closed.
+[00:31:26.910 --> 00:31:29.549]  It's not how they know it, it's what they do.
+[00:31:29.829 --> 00:31:32.950]  You can go to their website, vnsusa.org.
+[00:31:34.079 --> 00:31:41.279]  Now they're being sued for projecting early in Florida before the panhandle that Central had closed.
+[00:31:41.460 --> 00:31:43.079]  And that's the conservative part of the area.
+[00:31:43.380 --> 00:31:44.099]  All of this.
+[00:31:44.200 --> 00:31:49.400]  Why won't Bush talk about how they've caught state reps, Democrats, with voting machines?
+[00:31:49.400 --> 00:31:52.000]  How they've got people on videotape punching holes out.
+[00:31:52.359 --> 00:31:52.660]  Okay?
+[00:31:53.440 --> 00:31:54.880]  People trying to screw each other.
+[00:31:55.119 --> 00:31:56.559]  Who's got people on videotape punching holes out?
+[00:31:56.559 --> 00:31:57.680]  It's in the Washington Post.
+[00:31:57.819 --> 00:31:57.960]  It's everywhere.
+[00:31:58.039 --> 00:31:59.819]  My website's got about 100 mainstream articles.
+[00:32:00.099 --> 00:32:00.480]  Washington Post?
+[00:32:00.579 --> 00:32:00.700]  Yeah.
+[00:32:00.700 --> 00:32:02.440]  They've been calling people punching holes out?
+[00:32:02.519 --> 00:32:02.839]  Yes.
+[00:32:03.670 --> 00:32:06.109]  I read the Washington Post all the time online.
+[00:32:06.549 --> 00:32:08.569]  Yeah, we had the guys on the show.
+[00:32:08.809 --> 00:32:09.710]  And what'd they say?
+[00:32:09.910 --> 00:32:12.549]  Look, the point is, see, every time I'm trying to tell you a story, you stop along the way.
+[00:32:12.630 --> 00:32:13.109]  That's fine.
+[00:32:13.269 --> 00:32:13.630]  I'm sorry.
+[00:32:13.910 --> 00:32:15.250]  No, but seriously, seriously.
+[00:32:15.430 --> 00:32:16.329]  I mean, that's an important point.
+[00:32:16.470 --> 00:32:16.849]  I understand.
+[00:32:17.349 --> 00:32:19.589]  Here's the point.
+[00:32:19.730 --> 00:32:28.150]  We've got election fraud coming out the ass by the Democrats, and we've got the Republicans doing stuff, and it's not about the Republicans and Democrats.
+[00:32:28.289 --> 00:32:29.690]  That's the way to balkanize this.
+[00:32:29.890 --> 00:32:32.309]  The scam is destabilize the country.
+[00:32:32.619 --> 00:32:37.240]  Get everybody pissed off, have this thing go on for months, and call for a constitutional convention.
+[00:32:37.400 --> 00:32:38.720]  Which would make for what?
+[00:32:38.779 --> 00:32:40.779]  They can rewrite the Bill of Rights, the Constitution.
+[00:32:41.160 --> 00:32:42.940]  all everybody wants is the popular world.
+[00:32:42.940 --> 00:32:44.460]  No, they're already...
+[00:32:44.460 --> 00:32:50.660]  All they want, but to get that to them, No, no, but the con-con.
+[00:32:50.940 --> 00:32:53.660]  They don't care if they get rid of the electoral college in a con-con.
+[00:32:53.839 --> 00:32:55.700]  They can rewrite other stuff in a con-con.
+[00:32:56.849 --> 00:32:57.730]  That's what it's about.
+[00:32:58.509 --> 00:33:00.890]  They can change anything they fucking want to do.
+[00:33:01.029 --> 00:33:03.509]  This whole fucked up election is a big conspiracy.
+[00:33:03.849 --> 00:33:05.089]  It's not even a conspiracy.
+[00:33:05.450 --> 00:33:09.750]  Why won't Bush come out and say we've caught these people with ballot boxes in their hands?
+[00:33:10.130 --> 00:33:11.049]  Think about that.
+[00:33:11.210 --> 00:33:12.470]  Why won't he defend himself?
+[00:33:12.650 --> 00:33:13.710]  Because he's a stooge.
+[00:33:13.930 --> 00:33:17.009]  They're both actors playing a part on the same team.
+[00:33:17.529 --> 00:33:18.309]  They meet.
+[00:33:18.430 --> 00:33:19.410]  They're in the CFR.
+[00:33:19.470 --> 00:33:20.789]  They're in the Bohemian Grove.
+[00:33:21.029 --> 00:33:22.349]  They're in the Trilateral Commission.
+[00:33:23.819 --> 00:33:25.480]  We run the whole planet!
+[00:33:25.660 --> 00:33:26.779]  We're gonna enslave you!
+[00:33:26.920 --> 00:33:27.740]  We know best!
+[00:33:27.900 --> 00:33:28.940]  We ship in the drugs!
+[00:33:29.200 --> 00:33:31.299]  All a conspiracy to rewrite the Constitution.
+[00:33:31.380 --> 00:33:34.339]  It's a program of slavery and total control.
+[00:33:34.519 --> 00:33:34.519]  Slavery!
+[00:33:34.920 --> 00:33:35.980]  They get off of it.
+[00:33:36.720 --> 00:33:38.519]  Don't even talk about slavery!
+[00:33:38.859 --> 00:33:39.279]  Slavery!
+[00:33:41.259 --> 00:33:43.400]  The best slaves don't know they're slaves.
+[00:33:43.640 --> 00:33:45.400]  Hey, when does this leave Don King?
+[00:33:46.059 --> 00:33:46.539]  Do what?
+[00:33:46.759 --> 00:33:48.299]  When does this leave Don King?
+[00:33:48.500 --> 00:33:49.660]  Die Kings that control everything.
+[00:33:50.000 --> 00:33:50.259]  God!
+[00:33:54.169 --> 00:33:57.069]  Yeah, Don King's just a guy they kind of like.
+[00:33:57.529 --> 00:33:59.130]  He's even, well, just about as great as they are.
+[00:33:59.130 --> 00:34:01.049]  So John, Don King's involved in all this?
+[00:34:01.170 --> 00:34:01.769]  Oh, you think it's that simple?
+[00:34:01.930 --> 00:34:02.190]  No.
+[00:34:02.789 --> 00:34:04.710]  As long as Sinbad's not involved.
+[00:34:05.058 --> 00:34:06.798]  Yeah, well, that's what the point is.
+[00:34:08.150 --> 00:34:09.550]  This whole scam works this way.
+[00:34:10.759 --> 00:34:12.380]  Some of them are in competition together.
+[00:34:12.460 --> 00:34:18.780]  There are different power structures, but they all agree on keeping us stupid, not talking about the real issues, and having their little phony fights up there.
+[00:34:19.440 --> 00:34:19.659]  Okay.
+[00:34:20.079 --> 00:34:30.500]  So the Republican Democrats are two different management teams of the New World Order bidding and fighting for control of the CEO job of Slavery Incorporated.
+[00:34:30.900 --> 00:34:31.559]  That's basically it.
+[00:34:31.559 --> 00:34:32.420]  What is this all going to happen?
+[00:34:32.940 --> 00:34:34.320]  It's happening right now.
+[00:34:34.800 --> 00:34:39.519]  The second fastest growing industry in this country is prison building.
+[00:34:39.699 --> 00:34:40.719]  They're building prisons everywhere.
+[00:34:40.900 --> 00:34:41.179]  Why?
+[00:34:41.420 --> 00:34:43.059]  Hey, they want to be friends with us.
+[00:34:43.119 --> 00:34:43.860]  We're already stupid.
+[00:34:44.219 --> 00:34:45.880]  Why do they want to put us in prison?
+[00:34:45.980 --> 00:34:47.500]  Why do they want to put everybody in prison?
+[00:34:47.739 --> 00:34:49.199]  The prisons that we have are overcrowded.
+[00:34:49.360 --> 00:34:51.059]  Oh, you're buying their propaganda now.
+[00:34:51.440 --> 00:34:52.579]  There's giant empty prisons.
+[00:34:52.599 --> 00:34:54.239]  I am not buying any of these propaganda.
+[00:34:54.460 --> 00:34:59.880]  I can take you 100 miles from here and show you lines of gigantic prisons with nobody in them.
+[00:35:00.500 --> 00:35:01.739]  Where are these prisons at?
+[00:35:01.980 --> 00:35:03.219]  All around Austin, Texas.
+[00:35:03.480 --> 00:35:04.519]  All over the country, man.
+[00:35:05.000 --> 00:35:06.280]  Huge supermax prisons.
+[00:35:06.420 --> 00:35:07.679]  Alright, well, I'm going to go to Austin soon.
+[00:35:07.780 --> 00:35:08.699]  So where are they in Austin?
+[00:35:08.880 --> 00:35:09.579]  Like around Austin?
+[00:35:09.719 --> 00:35:10.480]  Well, let me see.
+[00:35:10.519 --> 00:35:13.699]  They just shut down the big state when Wackenhut was raping all the women inside.
+[00:35:13.860 --> 00:35:14.619]  But that's not the one.
+[00:35:15.000 --> 00:35:17.480]  It's up to jail where they just killed 23 people.
+[00:35:17.639 --> 00:35:18.920]  But you've never heard about that on the news.
+[00:35:18.920 --> 00:35:20.179]  You'll hear about some guy getting beat up.
+[00:35:20.320 --> 00:35:22.820]  but not the big, you know, killing person after person.
+[00:35:22.820 --> 00:35:27.842]  I could take it just Texas is the capital of the world for prisons.
+[00:35:28.260 --> 00:35:30.179]  and capital of the world for killing people too.
+[00:35:30.190 --> 00:35:33.259]  So my point is human experimentation is...
+[00:35:33.349 --> 00:35:34.010]  No, that's not true.
+[00:35:34.150 --> 00:35:38.250]  Because China kills more people every year than any other country buying.
+[00:35:38.369 --> 00:35:38.949]  Well, they kill them.
+[00:35:39.130 --> 00:35:41.349]  More people are executed in China than anywhere.
+[00:35:41.389 --> 00:35:43.269]  And they sell their political dissidents organs.
+[00:35:43.449 --> 00:35:45.670]  And you buy some products every day, Americans.
+[00:35:46.150 --> 00:35:47.050]  And why?
+[00:35:47.389 --> 00:35:48.250]  Because they're blind.
+[00:35:50.079 --> 00:35:51.760]  That's the problem with this type of subject.
+[00:35:52.059 --> 00:35:56.739]  I don't have all the answers on this stuff, but I have researched it all, and I have videotape of much of it.
+[00:35:57.179 --> 00:36:00.900]  And I'll tell you this, Al Gore, George Bush, they're on the same team.
+[00:36:01.659 --> 00:36:02.599]  They're working.
+[00:36:02.800 --> 00:36:05.920]  But there's a real fight going on for who gets to be the front dummy.
+[00:36:07.340 --> 00:36:07.960]  That's it.
+[00:36:08.019 --> 00:36:09.860]  Who can screw, who can con people better?
+[00:36:10.039 --> 00:36:11.539]  So they are actually competing.
+[00:36:11.840 --> 00:36:14.820]  They're competing just like we're working for the same corporation.
+[00:36:14.840 --> 00:36:16.119]  We're two top guys.
+[00:36:16.219 --> 00:36:19.900]  We're competing to get the top job for the shareholders.
+[00:36:20.199 --> 00:36:22.579]  And the shareholders just sit back and let us take the heat.
+[00:36:22.860 --> 00:36:24.960]  So the competition you think is real?
+[00:36:25.099 --> 00:36:25.800]  They are competing.
+[00:36:25.900 --> 00:36:27.079]  Real at a certain level.
+[00:36:27.380 --> 00:36:29.340]  It's who can con, who can screw the public better.
+[00:36:29.500 --> 00:36:30.780]  But the vote's not real.
+[00:36:31.018 --> 00:36:33.018]  So where's the competition?
+[00:36:33.018 --> 00:36:45.480]  The competition comes in Yeah, yeah.
+[00:36:45.699 --> 00:36:46.780]  Well, that's how the globalists control it.
+[00:36:46.960 --> 00:36:49.960]  Look, you see a lot of these, say, chain fast food restaurants.
+[00:36:50.239 --> 00:36:57.820]  You go look at the shareholders, and I've done shows on this, the same damn companies own, you think it's competition, two places across the street from each other.
+[00:36:58.380 --> 00:37:03.880]  Well, maybe it's a competition because one shareholder owns a few extra shares of McDonald's than he does of Burger King.
+[00:37:03.940 --> 00:37:05.579]  But it's all Grand Metropolitan.
+[00:37:05.860 --> 00:37:07.159]  And who owns Grand Metropolitan?
+[00:37:07.460 --> 00:37:08.500]  The British royal family.
+[00:37:08.679 --> 00:37:12.280]  And what is Grand Metropolitan doing with its Pillsbury and all its other products?
+[00:37:12.460 --> 00:37:16.719]  Well, eight of Rosie O'Donnell's ten big sponsors are Grand Metropolitan.
+[00:37:17.039 --> 00:37:20.860]  And it's the Redcoats that won our guns, just like they did back in 1776.
+[00:37:21.159 --> 00:37:28.159]  Alright, well right here on the corner of West Gray there's two Starbucks across the street from each other.
+[00:37:28.159 --> 00:37:30.059]  I just want to know what they're trying to think of the world with Carl.
+[00:37:30.069 --> 00:37:31.010]  It's just being funny.
+[00:37:31.289 --> 00:37:33.050]  They keep getting my fucking money every day.
+[00:37:33.050 --> 00:37:34.869]  No, that's just an example.
+[00:37:34.869 --> 00:37:38.590]  I go left, I give that guy my money, and then I go right, I get a grande latte on the right side.
+[00:37:38.769 --> 00:37:39.010]  Exactly.
+[00:37:39.309 --> 00:37:39.590]  Hold on.
+[00:37:39.769 --> 00:37:40.670]  That's what's happening here.
+[00:37:40.730 --> 00:37:42.349]  I saw him contributing to the New World Order.
+[00:37:42.429 --> 00:37:42.989]  Yes, no.
+[00:37:43.230 --> 00:37:46.170]  My example is, you're giving phony choices.
+[00:37:46.409 --> 00:37:47.110]  You think.
+[00:37:47.599 --> 00:37:49.460]  You think, oh, there's all these different selections.
+[00:37:49.539 --> 00:37:51.819]  Look at all the different colors of this garbage I can pick from.
+[00:37:53.699 --> 00:37:54.639]  Just Starbucks coffee?
+[00:37:54.880 --> 00:37:55.199]  No, no.
+[00:37:55.320 --> 00:37:56.820]  I wasn't talking about Starbucks coffee.
+[00:37:56.980 --> 00:38:08.679]  I'm talking about Right.
+[00:38:08.880 --> 00:38:10.039]  And it's the same damn people.
+[00:38:10.039 --> 00:38:11.969]  And that's why now it becomes more.
+[00:38:17.190 --> 00:38:18.969]  I don't know the names of all these shows.
+[00:38:19.110 --> 00:38:20.449]  I don't watch them.
+[00:38:21.050 --> 00:38:21.869]  I don't watch them.
+[00:38:22.710 --> 00:38:23.590]  I don't watch much TV.
+[00:38:25.409 --> 00:38:26.630]  All I know is this.
+[00:38:27.530 --> 00:38:28.369]  All I know is this.
+[00:38:28.449 --> 00:38:29.989]  They are building concentration camps.
+[00:38:30.240 --> 00:38:33.460]  They do rest up in black and red robes and dance around and burn people on a fiery pit.
+[00:38:33.470 --> 00:38:35.219]  All I know is...
+[00:38:40.730 --> 00:38:41.550]  What did he say?
+[00:38:41.630 --> 00:38:42.210]  It's on video.
+[00:38:42.429 --> 00:38:43.769]  I mean, it sounds absurd.
+[00:38:44.289 --> 00:38:45.730]  But look, I'm open for it.
+[00:38:45.731 --> 00:38:46.530]  I went there.
+[00:38:46.532 --> 00:38:46.752]  I went there.
+[00:38:46.753 --> 00:38:47.653]  It's wrapped up.
+[00:38:47.849 --> 00:38:49.070]  I don't think so.
+[00:38:49.429 --> 00:38:51.769]  But no, it's in fact an object that's wrapped up, right?
+[00:38:51.909 --> 00:38:54.110]  You don't necessarily know that it's a body.
+[00:38:54.150 --> 00:38:55.309]  It's like eyes wide shut.
+[00:38:55.489 --> 00:38:56.630]  We didn't really kill that lady.
+[00:38:56.989 --> 00:38:57.230]  Yeah.
+[00:38:57.429 --> 00:39:00.309]  Tom Cruise really loves his wife and has sex with her, right?
+[00:39:00.550 --> 00:39:00.610]  Yeah.
+[00:39:01.349 --> 00:39:04.250]  Well, look, the point is, I mean, look.
+[00:39:05.170 --> 00:39:12.230]  Yeah, but I mean, if you don't see, if you see something bound up and that, how do you know it's not, you know, fucking sticks and shit?
+[00:39:12.409 --> 00:39:17.700]  "Gondol care!" If you don't see a body, Make merry-go-win with your bones.
+[00:39:17.789 --> 00:39:22.929]  If you don't see a body, Well, obviously it's not the guy.
+[00:39:23.269 --> 00:39:24.070]  No, no.
+[00:39:24.130 --> 00:39:25.309]  It was off loudspeaker.
+[00:39:25.369 --> 00:39:27.389]  They had a full orchestra there playing during the fun.
+[00:39:27.570 --> 00:39:27.949]  Right, okay.
+[00:39:28.150 --> 00:39:31.130]  Sounds of pain, though, obviously don't come from the guy.
+[00:39:31.170 --> 00:39:31.829]  No, they don't.
+[00:39:31.929 --> 00:39:32.449]  It was projected.
+[00:39:33.070 --> 00:39:52.639]  Even if they're not doing it, which I frankly have told people on the new film that I don't think they are, it shows the psychology that so-called Christian right people, and some Democrats go there too, and all these corporate leaders would meet, get in red and black robes and run We're going to worship Moloch of the Old Testament, which is supposedly the most evil demon.
+[00:39:53.260 --> 00:39:55.679]  And you hear them say Moloch?
+[00:39:55.940 --> 00:39:55.940]  Yeah.
+[00:39:57.460 --> 00:39:59.019]  They say they worship Moloch?
+[00:39:59.119 --> 00:40:07.159]  They say we worship Great Owl of Babylon and Goodly Tyre, and then you read the owl deity that children were thrown to in a fiery pit before it, and it was in Tyre and Babylon.
+[00:40:07.380 --> 00:40:08.039]  It's a Sumerian deity.
+[00:40:08.860 --> 00:40:10.400]  Is Gozer involved in this at all?
+[00:40:10.960 --> 00:40:12.960]  No, but the Stay Pumped Marshmallow Man is.
+[00:40:12.960 --> 00:40:16.400]  Seriously, on the whole committee.
+[00:40:18.289 --> 00:40:23.929]  Well, all I know is with Pokemon, they had to change it because 10,000 kids would have seizures every time in Japan they showed it.
+[00:40:24.380 --> 00:40:25.780]  Well, that wasn't exactly Pokemon.
+[00:40:25.920 --> 00:40:27.880]  That was a different show that they used to have.
+[00:40:28.039 --> 00:40:29.079]  Well, I've actually seen that.
+[00:40:29.099 --> 00:40:29.579]  That was Pokemon.
+[00:40:29.579 --> 00:40:31.039]  Where they show the videos.
+[00:40:31.360 --> 00:40:33.500]  It's like this fucking crazy graphic.
+[00:40:33.800 --> 00:40:35.539]  Kids would stare at it and freak out.
+[00:40:35.960 --> 00:40:36.840]  That's not Pokemon.
+[00:40:37.019 --> 00:40:37.260]  That was something different.
+[00:40:37.260 --> 00:40:37.820]  No, that was Pokemon.
+[00:40:38.000 --> 00:40:38.760]  I have the stories.
+[00:40:38.960 --> 00:40:42.019]  That was Pokemon before it hit the stakes.
+[00:40:42.139 --> 00:40:44.619]  They had to take the little monster's eyes and flash around.
+[00:40:44.679 --> 00:40:45.639]  Then they had the flashing lights.
+[00:40:46.280 --> 00:40:47.840]  But nothing to worry about.
+[00:40:48.010 --> 00:40:49.280]  All right, stop it, Bill.
+[00:40:49.280 --> 00:40:52.380]  Look, I mean, Trust me.
+[00:40:52.440 --> 00:40:53.619]  I'm so obsessed with this shit.
+[00:40:53.670 --> 00:40:54.590]  All I do is this.
+[00:40:54.730 --> 00:40:56.210]  I mean, Kevin, what's going on?
+[00:40:56.469 --> 00:40:56.929]  No, obviously.
+[00:40:57.550 --> 00:40:59.829]  No, I mean, believe me.
+[00:41:00.030 --> 00:41:03.590]  It's tiring to try to articulate because it's all so connected.
+[00:41:03.670 --> 00:41:04.650]  You sound like a schizophrenic.
+[00:41:04.690 --> 00:41:10.230]  No, but we have them in the red robes, and we have black helicopters and taxis.
+[00:41:10.769 --> 00:41:12.210]  Call Kingsville, Texas, man.
+[00:41:12.309 --> 00:41:14.369]  They'll tell you about black helicopters coming out of the sky.
+[00:41:14.650 --> 00:41:15.710]  Pull up in Kingsville.
+[00:41:15.789 --> 00:41:16.650]  It's a traffic report, man.
+[00:41:16.690 --> 00:41:17.409]  No, no, no.
+[00:41:17.670 --> 00:41:20.869]  Pull up in Kingsville and say, last year, black helicopters come out of the sky.
+[00:41:20.889 --> 00:41:21.869]  I believe there are black helicopters.
+[00:41:24.360 --> 00:41:28.420]  Well, yeah, Fort Bragg admits it.
+[00:41:28.780 --> 00:41:30.280]  They're actually kind of charcoal.
+[00:41:30.719 --> 00:41:33.500]  They're kind of charcoal black, and they're painted.
+[00:41:34.320 --> 00:41:35.960]  Your car can do the same thing.
+[00:41:36.239 --> 00:41:49.900]  Take videotape, like out of a VHS, grind it up with black paint, paint that on your car, paint that on your car, and you will have a radar-resistant vehicle, meaning it will absorb radar waves and not leave as large a signature.
+[00:41:51.099 --> 00:41:52.880]  That's the experiment, Fernando.
+[00:41:53.260 --> 00:41:54.960]  Hold on a second.
+[00:41:55.500 --> 00:42:02.639]  Because if the government is having these black helicopters, wouldn't the government be in charge of figuring out what's in what in the radar?
+[00:42:02.900 --> 00:42:04.619]  Why would the government want to hide ship from themselves?
+[00:42:05.569 --> 00:42:07.050]  No, he doesn't say they're black.
+[00:42:07.269 --> 00:42:08.409]  He's telling them about the technology.
+[00:42:08.510 --> 00:42:10.780]  No, no, no, I know, but I'm saying if they could help.
+[00:42:10.789 --> 00:42:11.349]  No, no.
+[00:42:11.349 --> 00:42:13.248]  Walter Soskowski at Fort Bragg.
+[00:42:15.590 --> 00:42:18.170]  No, I mean, he's the person that told me why they're black.
+[00:42:18.550 --> 00:42:20.409]  And your first assumption is right.
+[00:42:20.530 --> 00:42:23.070]  I mean, why is the SR-71 Blackbird black?
+[00:42:23.250 --> 00:42:24.849]  Because it flies at high altitude at night.
+[00:42:25.110 --> 00:42:27.030]  So they fly at night, mainly it's at night.
+[00:42:27.250 --> 00:42:28.789]  You know the Army's mainly move at night.
+[00:42:29.150 --> 00:42:30.130]  It's like desert storm.
+[00:42:30.409 --> 00:42:37.820]  They move at 9. Let me ask you this.
+[00:42:38.599 --> 00:42:43.960]  This is something that was in my mind in Desert Storm when they shot down the stealth bomber.
+[00:42:46.179 --> 00:42:47.400]  That was Kosovo.
+[00:42:49.400 --> 00:42:55.139]  When they shot down a stealth bomber, I said, well, why would they tell you that they shot down a stealth bomber?
+[00:42:55.320 --> 00:42:56.880]  They shot down these guys in a stealth bomber.
+[00:42:57.119 --> 00:43:00.179]  Why do you think they told the American public and broadcast them?
+[00:43:00.739 --> 00:43:01.679]  Hold on.
+[00:43:01.800 --> 00:43:03.059]  This is something I got proof of.
+[00:43:03.400 --> 00:43:07.219]  Did you know in that whole deal, do you know who the Serbs helped in World War II beat the Nazis?
+[00:43:07.480 --> 00:43:08.480]  They helped us.
+[00:43:08.480 --> 00:43:11.480]  Do you know, when Senator Inhofe came back, and I've got...
+[00:43:15.369 --> 00:43:22.849]  Then you've got the Albanians invading, making fun about the CIA, and Osama Bin Laden, who openly works for the CIA during the 1980s, he's on the rolls.
+[00:43:23.030 --> 00:43:27.329]  His family still builds all the major military bases in the Middle East for this country.
+[00:43:27.630 --> 00:43:30.130]  Now, Bin Laden is so bad, why is he still building the military bases?
+[00:43:30.309 --> 00:43:32.548]  But it goes further.
+[00:43:32.548 --> 00:43:35.478]  French and Spanish.
+[00:43:49.260 --> 00:43:51.960]  And the average person is so stupid, they just picked up one.
+[00:43:52.059 --> 00:43:53.320]  The Serbs weren't bad.
+[00:43:54.159 --> 00:43:55.559]  Was the Serbs getting killed?
+[00:43:56.750 --> 00:43:57.409]  That's proof.
+[00:43:57.630 --> 00:43:59.090]  I just thought it was very unusual.
+[00:43:59.449 --> 00:44:01.730]  When the possible thing happened, they shot down the stealth bomber.
+[00:44:02.150 --> 00:44:09.789]  When they shot down the stealth bomber, I thought it was very unusual that they would tell people that the stealth bomber was visible under cloud cover.
+[00:44:09.789 --> 00:44:10.250]  Quick answer.
+[00:44:10.369 --> 00:44:12.369]  I don't know what the hell they're doing when they pull that type of scam.
+[00:44:12.590 --> 00:44:13.070]  I agree.
+[00:44:13.210 --> 00:44:13.909]  I'm going, why are they telling us this?
+[00:44:13.909 --> 00:44:14.650]  You think it was a scam?
+[00:44:14.889 --> 00:44:17.110]  No, I really did think it was a little unusual.
+[00:44:17.329 --> 00:44:25.668]  I sat at home when I watched that thing when those guys got arrested, prisoners of war, and they explored.
+[00:44:30.889 --> 00:44:32.389]  I was like, why would they tell anybody that?
+[00:44:32.769 --> 00:44:39.449]  Well, either because they really shot one down and the Serbs were displaying happily on their satellite television.
+[00:44:41.909 --> 00:44:42.550]  C-SPAN.
+[00:44:42.730 --> 00:44:47.590]  Oh, look, we shot down a stealth fighter and they wanted to say, oh, it's not our radar resistance that doesn't work.
+[00:44:47.849 --> 00:44:49.630]  It's because they can see because of the cloud cover.
+[00:44:49.829 --> 00:44:58.250]  Or maybe because there's a fight going on in the New World Order and they want Lockheed and Martin Marietta to get in trouble because they haven't run enough ads on TV showing a guy go, look at the space shuttle.
+[00:44:58.329 --> 00:45:00.650]  I want to get biometrically scanned to buy and sell.
+[00:45:00.750 --> 00:45:01.349]  You seen that ad?
+[00:45:01.789 --> 00:45:03.010]  Oh, thumb scanning, it's fun.
+[00:45:03.329 --> 00:45:03.889]  I don't know.
+[00:45:05.349 --> 00:45:06.489]  Are you ready to thumb scan?
+[00:45:06.730 --> 00:45:07.750]  You know, they're putting them in the banks.
+[00:45:08.030 --> 00:45:08.809]  Ready to retina scan?
+[00:45:09.539 --> 00:45:11.840]  Wait until you're on a Google level unless they just turn that off.
+[00:45:12.659 --> 00:45:14.219]  Wait, oh, this cash is so outdated.
+[00:45:14.340 --> 00:45:14.940]  Let's get rid of it.
+[00:45:15.059 --> 00:45:16.760]  It'll be much easier when we can't hide something in the mattress.
+[00:45:16.760 --> 00:45:20.260]  When the Antichrist comes, it's going to be so much goddamn easier than it is now.
+[00:45:20.400 --> 00:45:20.639]  Yeah.
+[00:45:20.840 --> 00:45:23.300]  Because you can just scan your thumb and you can, boom, go on with your business.
+[00:45:23.320 --> 00:45:24.179]  Well, it's already started, though.
+[00:45:24.840 --> 00:45:25.119]  Amen.
+[00:45:25.480 --> 00:45:25.880]  Goddamn it.
+[00:45:25.900 --> 00:45:26.500]  I'm ready for it.
+[00:45:26.559 --> 00:45:27.260]  You've got a driver's license.
+[00:45:27.300 --> 00:45:28.199]  I'm sick of these fucking churches.
+[00:45:28.400 --> 00:45:29.639]  Shut them down, goddammit.
+[00:45:29.760 --> 00:45:30.840]  I know, but you've got a driver's license.
+[00:45:30.840 --> 00:45:31.659]  Let me ask you this.
+[00:45:32.000 --> 00:45:32.280]  Why?
+[00:45:32.400 --> 00:45:32.619]  Why?
+[00:45:33.070 --> 00:45:35.250]  I mean, this isn't an antichrist discussion.
+[00:45:35.250 --> 00:45:36.869]  It's a way to micromanage people.
+[00:45:37.750 --> 00:45:38.329]  I got a question.
+[00:45:40.630 --> 00:45:41.510]  You like cops and black people?
+[00:45:41.570 --> 00:45:41.949]  Absolutely.
+[00:45:42.210 --> 00:45:43.210]  like micromanic drugs.
+[00:45:43.210 --> 00:45:46.210]  Yeah, but medical drugs.
+[00:45:46.210 --> 00:45:49.389]  If you can micromanage the pussy and What about marijuana?
+[00:45:49.460 --> 00:45:54.019]  Why do you think marijuana is Well, I don't have to.
+[00:45:54.199 --> 00:45:57.579]  I mean, it's simple why they're doing this.
+[00:45:58.719 --> 00:46:01.920]  It's turn of the century, then it's, you know, the 20s.
+[00:46:03.559 --> 00:46:07.539]  For a long time, people like the Roosevelt's and others had been bringing in the legal opium.
+[00:46:07.840 --> 00:46:08.760]  And they controlled it.
+[00:46:08.780 --> 00:46:09.780]  They were the opium dons.
+[00:46:09.840 --> 00:46:13.099]  And then they made it illegal because competition was coming in against them.
+[00:46:14.480 --> 00:46:21.139]  And that was cutting into their market share, but because they ran with the police and ran things, they could actually make, they created this huge market by addiction.
+[00:46:21.380 --> 00:46:22.980]  I have to tell you about this first.
+[00:46:23.099 --> 00:46:24.199]  This is a historical fact on it.
+[00:46:24.320 --> 00:46:24.320]  Okay.
+[00:46:25.300 --> 00:46:28.079]  To, to, to them, to them.
+[00:46:29.059 --> 00:46:30.800]  Let them talk, let them talk, man.
+[00:46:30.980 --> 00:46:31.579]  No, absolutely.
+[00:46:31.940 --> 00:46:33.300]  I didn't see the guy taping.
+[00:46:33.360 --> 00:46:33.820]  That's beautiful.
+[00:46:34.800 --> 00:46:35.920]  To, to, to them.
+[00:46:36.699 --> 00:46:38.460]  Yeah, we all know you love the Antichrist now.
+[00:46:38.880 --> 00:46:39.519]  No, but seriously.
+[00:46:40.018 --> 00:46:43.058]  Jack off the goddamn antichrist and worship me, motherfucker!
+[00:46:43.058 --> 00:46:44.548]  All right, well...
+[00:46:46.320 --> 00:46:47.079]  Come on, baby.
+[00:46:47.659 --> 00:46:47.960]  Seriously.
+[00:46:48.139 --> 00:46:49.280]  Don't you know the lie?
+[00:46:49.780 --> 00:46:51.539]  That's how the Jesus freaks treat you.
+[00:46:51.840 --> 00:46:55.340]  Is he even said anything about Jesus in this whole discussion?
+[00:46:55.559 --> 00:46:56.239]  I don't think so.
+[00:46:56.239 --> 00:46:56.679]  I know.
+[00:46:56.679 --> 00:46:57.459]  So it's all great.
+[00:46:57.459 --> 00:46:58.778]  Stand it up for him.
+[00:46:58.778 --> 00:46:59.139]  It's all documented.
+[00:46:59.159 --> 00:47:00.568]  It's all on.
+[00:47:00.579 --> 00:47:01.539]  I'll tell you what, you guys.
+[00:47:01.539 --> 00:47:03.028]  If you want to open your mind and open.
+[00:47:03.039 --> 00:47:06.340]  You can go every single day to Infowars.com.
+[00:47:06.360 --> 00:47:13.320]  We updated every single day of the week with mainstream news articles from Washington Post, CNN, from 18...
+[00:47:13.320 --> 00:47:14.519]  It's a trippy website, man.
+[00:47:14.519 --> 00:47:14.920]  Go to that.
+[00:47:16.000 --> 00:47:16.780]  It's on the wires.
+[00:47:16.940 --> 00:47:17.699]  It's regular news.
+[00:47:18.460 --> 00:47:20.519]  I don't remember the question.
+[00:47:20.920 --> 00:47:21.760]  Pot illegal.
+[00:47:22.159 --> 00:47:22.599]  Why is pot illegal?
+[00:47:22.719 --> 00:47:23.559]  I'll tell you why.
+[00:47:23.900 --> 00:47:24.840]  Because this is what I always thought.
+[00:47:25.559 --> 00:47:27.480]  People that smoke pot are lazy.
+[00:47:27.679 --> 00:47:30.699]  Why not make pot legal and have people ask me.
+[00:47:33.130 --> 00:47:35.610]  At that time, you can grow cannabis anywhere.
+[00:47:35.949 --> 00:47:38.289]  And 98% of the varieties don't even get you high.
+[00:47:38.590 --> 00:47:43.469]  But it makes a better oil and it makes a better cloth than cotton.
+[00:47:43.929 --> 00:47:46.309]  And cotton can only be grown in certain areas.
+[00:47:46.530 --> 00:47:49.889]  And so DuPont and Dow Chemical financed Reefer Madness.
+[00:47:49.909 --> 00:47:50.869]  They financed the film.
+[00:47:52.000 --> 00:47:56.239]  And then Pot was made illegal as Xavier DuPont came up with a chemical composition for nylon.
+[00:47:56.480 --> 00:47:57.280]  Yeah, nylon.
+[00:47:57.639 --> 00:48:00.639]  It was a rival to that and they openly came out and blah, blah, blah.
+[00:48:00.920 --> 00:48:03.420]  So hemp was used to make rope, short nylon.
+[00:48:03.760 --> 00:48:06.900]  And hemp is still much better than cotton, still much better than nylon.
+[00:48:07.500 --> 00:48:08.360]  So why is it illegal?
+[00:48:08.629 --> 00:48:09.608]  That's why.
+[00:48:09.669 --> 00:48:20.619]  But why not make it legal just for the simple fact that it's going to, you know, That's much more key.
+[00:48:21.239 --> 00:48:21.639]  Close.
+[00:48:21.980 --> 00:48:23.940]  This man is a muckraker in the Roosevelt tradition.
+[00:48:24.900 --> 00:48:26.179]  He should be vaunted.
+[00:48:26.518 --> 00:48:27.518]  Bunted, I say.
+[00:48:27.518 --> 00:48:30.527]  Anyways, it just hits.
+[00:48:30.539 --> 00:48:33.059]  He knows all about the New World Order, guys.
+[00:48:33.059 --> 00:48:33.479]  Absolutely.
+[00:48:33.479 --> 00:48:36.689]  But the key to this whole thing is this.
+[00:48:38.519 --> 00:48:41.559]  I mean, you already know all about it.
+[00:48:41.940 --> 00:48:43.019]  Well, I know some things.
+[00:48:43.340 --> 00:48:45.219]  There are actual concentration camps.
+[00:48:45.340 --> 00:48:46.900]  They give me damn grand tours of these things.
+[00:48:46.980 --> 00:48:47.880]  That's how arrogant they are.
+[00:48:48.000 --> 00:48:49.159]  Now is their coming out time.
+[00:48:49.420 --> 00:48:51.460]  I mean, five years ago, I was on the radio talking about this.
+[00:48:51.460 --> 00:48:52.280]  It was even cooler.
+[00:48:52.380 --> 00:48:53.380]  We're here in the U.S.?
+[00:48:53.380 --> 00:48:54.559]  Concentration camps?
+[00:48:54.820 --> 00:48:55.099]  Yeah.
+[00:48:55.420 --> 00:48:57.300]  But people were all shocked and couldn't believe it.
+[00:49:01.110 --> 00:49:01.809]  They want you to know.
+[00:49:02.150 --> 00:49:03.210]  They want to scare you.
+[00:49:03.210 --> 00:49:04.480]  I mean, it's just all...
+[00:49:06.829 --> 00:49:08.269]  They weren't really hiding themselves.
+[00:49:08.489 --> 00:49:09.409]  They were all dressed in black.
+[00:49:09.690 --> 00:49:10.630]  I already pulled that one.
+[00:49:10.789 --> 00:49:15.369]  Did you see Fox tonight with all the guys in black going, we're going to get these fugitives.
+[00:49:15.449 --> 00:49:15.929]  Here they are.
+[00:49:16.030 --> 00:49:16.329]  Get them.
+[00:49:16.469 --> 00:49:17.389]  Someday I'm up there.
+[00:49:17.550 --> 00:49:18.590]  He's a child molester.
+[00:49:18.889 --> 00:49:20.630]  Of course, it's all propaganda, but they won't care.
+[00:49:21.090 --> 00:49:23.369]  Jenny's panties next after black helicopters.
+[00:49:25.559 --> 00:49:28.820]  Have you seen how many TV ads and movies and everything?
+[00:49:29.039 --> 00:49:31.619]  It's black helicopters, black helicopters, black helicopters?
+[00:49:32.340 --> 00:49:37.860]  I've heard all this stuff because I listen to the fucking Coast to Coast of Barbell or whatever that show is now.
+[00:49:39.360 --> 00:49:41.699]  Always talking about the mad sheep of the family?
+[00:49:41.860 --> 00:49:42.940]  What the fuck is that supposed to mean?
+[00:49:42.940 --> 00:49:45.480]  This is a problem with having an intelligent discussion around comedians.
+[00:49:46.480 --> 00:49:47.360]  No, it's funny.
+[00:49:47.760 --> 00:49:48.739]  Okay, I could poke some more.
+[00:49:49.840 --> 00:49:50.860]  There you go.
+[00:49:51.119 --> 00:49:58.679]  No seriously, when you see Henry Kissins you're running around with his warped covered belly hanging over his...
+[00:49:58.679 --> 00:50:00.318]  Alright I gotta take a piss please.
+[00:50:03.150 --> 00:50:03.750]  It's all over.
+[00:50:05.090 --> 00:50:07.309]  When you see him running around the woods, that's a joke.
+[00:50:10.349 --> 00:50:12.150]  I'm burnt out, man.
+[00:50:12.250 --> 00:50:12.630]  I'm tired.
+[00:50:12.789 --> 00:50:14.389]  No, no, no, no!
+[00:50:14.650 --> 00:50:15.190]  Keep going.
+[00:50:15.349 --> 00:50:16.149]  I'll be right back.
+[00:50:16.229 --> 00:50:17.259]  No, it's just.
+[00:50:18.739 --> 00:50:19.460]  It was contained in regional news.
+[00:50:19.460 --> 00:50:21.460]  It was on the local TV news.
+[00:50:21.460 --> 00:50:22.648]  Look man, see that's...
+[00:50:23.719 --> 00:50:24.619]  Because they're assholes?
+[00:50:24.780 --> 00:50:26.410]  Because they're instigators.
+[00:50:27.519 --> 00:50:29.199]  They instigate bullshit!
+[00:50:29.460 --> 00:50:33.380]  The people who come in with the big guys, the National Guard and all that.
+[00:50:33.599 --> 00:50:34.800]  Why were they put there?
+[00:50:35.059 --> 00:50:37.199]  It was a training exercise.
+[00:50:38.099 --> 00:50:38.519]  Bullshit!
+[00:50:38.759 --> 00:50:41.018]  That is so fucking bullshit!
+[00:50:41.018 --> 00:50:49.050]  This is the kind of shit that gets spread over the goddamn internet and so crazy people like you That is not happening.
+[00:50:49.110 --> 00:50:52.150]  I am the biggest instigator in the fucking country.
+[00:50:52.369 --> 00:50:53.869]  And I'm not in fucking jail.
+[00:50:54.110 --> 00:50:58.250]  I go out and say God is dead every fucking day and nobody puts me in jail.
+[00:50:58.389 --> 00:50:58.829]  That's all.
+[00:50:58.929 --> 00:50:59.710]  You're written off Nietzsche.
+[00:51:00.170 --> 00:51:00.989]  That's all happened.
+[00:51:01.409 --> 00:51:02.010]  Fuck you.
+[00:51:02.110 --> 00:51:04.170]  You don't know what the fuck you're talking about.
+[00:51:04.190 --> 00:51:06.510]  How many Jesus priests have come up to me?
+[00:51:06.530 --> 00:51:08.530]  Hey, all this fucking fake anger.
+[00:51:08.530 --> 00:51:10.530]  That dude's a...
+[00:51:10.530 --> 00:51:12.530]  That's bullshit.
+[00:51:12.530 --> 00:51:14.530]  That's a lot of fucking bullshit.
+[00:51:14.530 --> 00:51:16.530]  That's what I get.
+[00:51:16.530 --> 00:51:18.530]  That's what I get.
+[00:51:18.530 --> 00:51:20.530]  Fuck you.
+[00:51:20.530 --> 00:51:22.530]  Bitch.
+[00:51:22.530 --> 00:51:24.530]  Fuck the government.
+[00:51:24.530 --> 00:51:25.630]  The government is a...
+[00:51:25.639 --> 00:51:27.280]  It works for me, goddammit!
+[00:51:27.579 --> 00:51:28.159]  What are you so afraid of?
+[00:51:28.300 --> 00:51:29.820]  I'm not afraid of these things.
+[00:51:29.920 --> 00:51:32.420]  You associate your power with the government.
+[00:51:32.599 --> 00:51:33.679]  You just said it.
+[00:51:33.760 --> 00:51:34.719]  He just said it.
+[00:51:34.780 --> 00:51:35.360]  You see it?
+[00:51:35.639 --> 00:51:38.079]  I do not associate my power with the government.
+[00:51:38.099 --> 00:51:40.340]  I do not associate my power with the government.
+[00:51:40.679 --> 00:51:41.159]  That's the point.
+[00:51:42.559 --> 00:51:44.239]  You just said it.
+[00:51:44.280 --> 00:51:47.900]  I am not angry because fucking guys like this go up and stir shit up.
+[00:51:48.159 --> 00:51:49.099]  You're full of bullshit, man.
+[00:51:49.199 --> 00:51:50.260]  You don't know what you're talking about.
+[00:51:50.619 --> 00:51:51.480]  It upsets you?
+[00:51:51.719 --> 00:51:52.400]  No, it does not.
+[00:51:52.518 --> 00:51:55.167]  It obsesses me when people believe me for shit!
+[00:51:55.218 --> 00:51:58.718]  You proclaimed the right to stand up and say, "God is dead!" So, this is what you're doing!
+[00:51:58.718 --> 00:52:03.117]  I'm not talking about this whole fucking planet, and they don't really question me there!
+[00:52:03.117 --> 00:52:04.117]  Death is a bloodhead!
+[00:52:04.117 --> 00:52:07.117]  What are you talking about?
+[00:52:07.117 --> 00:52:08.678]  I'm not talking about this whole thing!
+[00:52:08.688 --> 00:52:18.908]  Excuse me, if it's a lie, why is it on CNN?
+[00:52:18.919 --> 00:52:20.860]  It's 1995, you guys couldn't get bread.
+[00:52:21.119 --> 00:52:21.959]  He was so dumb.
+[00:52:21.999 --> 00:52:31.559]  He was just shooting down 50. The point is, I already said this, I mean, Joe's already heard, but I mean, any alien It's not gonna get fucking shot down by fucking tinker toys.
+[00:52:32.940 --> 00:52:36.039]  It's not only that, it was in '95 when Russia was in disarray.
+[00:52:36.559 --> 00:52:37.480]  Communism was falling.
+[00:52:37.559 --> 00:52:39.559]  So are the aliens controlling the Phantom Patriot?
+[00:52:39.639 --> 00:52:40.320]  Is that what it was all about?
+[00:52:40.559 --> 00:52:42.239]  But the sausages only fly by Russia to get shot down.
+[00:52:42.500 --> 00:52:42.880]  Right, right, right.
+[00:52:43.019 --> 00:52:47.480]  No alien technology will be adopted unless it aids in the dissemination of pornography.
+[00:52:47.518 --> 00:52:54.258]  The only way any of that could be true is the aliens, like I said, could be building tinker toys or whatever and putting cockroaches in them and putting it down there so we get some technology.
+[00:52:54.277 --> 00:52:56.468]  But it's not like real, you know...
+[00:52:56.478 --> 00:52:57.738]  Putting cockroaches in tinker toys.
+[00:53:12.179 --> 00:53:16.859]  So you think that the gray aliens are just like the little robot slave.
+[00:53:16.859 --> 00:53:19.609]  The gray aliens are what the...
+[00:53:23.619 --> 00:53:29.630]  But if you listen to the people, it's a cross between It's a genetically engineered thing.
+[00:53:29.900 --> 00:53:36.599]  So they're so far advanced that their genetically engineered things are more intelligent than we do.
+[00:53:36.800 --> 00:53:39.199]  Yeah, and they're crashing them here to give us technology on purpose.
+[00:53:39.619 --> 00:53:42.380]  They just programmed one to go crash so we get some technology.
+[00:53:42.619 --> 00:53:47.739]  So they can build a matrix-like system and then come in and fully enslave us once we've used it.
+[00:53:48.179 --> 00:53:50.780]  As opposed to the partial enslavement we have today.
+[00:53:51.199 --> 00:53:52.639]  So how do they enslave us?
+[00:53:52.739 --> 00:53:54.039]  It's got to be with pussy, right?
+[00:53:54.480 --> 00:53:56.320]  Yes, actually with the breeding program.
+[00:53:56.980 --> 00:53:59.000]  That's why pussy is so good?
+[00:54:00.509 --> 00:54:00.989]  Exactly.
+[00:54:00.989 --> 00:54:03.730]  It's a very daunting program for all that we're dealing with.
+[00:54:03.889 --> 00:54:06.510]  Listen, are you Q478?
+[00:54:06.889 --> 00:54:07.550]  You are.
+[00:54:08.170 --> 00:54:11.610]  But what about every other species on the planet that's all about pussy?
+[00:54:12.150 --> 00:54:12.670]  This guy is cold.
+[00:54:13.030 --> 00:54:14.449]  You've got to take him on the road.
+[00:54:19.279 --> 00:54:22.579]  We've been re-engineered to have those animal passions.
+[00:54:22.760 --> 00:54:24.340]  We've got to do some sort of a show together.
+[00:54:25.239 --> 00:54:28.219]  Where I do like the normal human being stuff.
+[00:54:28.739 --> 00:54:31.577]  Every time I get this a conspiracy, we bring you in and just go on.
+[00:54:31.577 --> 00:54:36.750]  When you get to the Pluto portion of your routine, Oh, for Pluto?
+[00:54:37.010 --> 00:54:37.230]  Oh, really?
+[00:54:38.369 --> 00:54:40.429]  I don't know.
+[00:54:40.469 --> 00:54:42.010]  West Texas is the only one that really works.
+[00:54:42.030 --> 00:54:43.349]  Have you heard the latest idiocy, though?
+[00:54:43.449 --> 00:54:47.030]  And the feds are putting out, and I'm serious now, Planet X is going to hit us in one year.
+[00:54:47.030 --> 00:54:48.650]  As opposed to moments ago when he was.
+[00:54:48.750 --> 00:54:52.849]  Conspiracy people say that, and we're fucking fools in a year when the Planet X doesn't collide and kill everybody.
+[00:54:53.030 --> 00:54:53.389]  Who's saying that?
+[00:54:53.389 --> 00:54:55.349]  The Planet X. Oh, I get callers every day now.
+[00:54:55.449 --> 00:54:56.590]  Have you heard of Planet X?
+[00:54:56.650 --> 00:54:57.730]  The guy's got a book out.
+[00:54:57.730 --> 00:54:58.769]  Who's saying that?
+[00:54:59.289 --> 00:55:01.070]  Now the local news is carrying it.
+[00:55:01.289 --> 00:55:01.710]  We're gone.
+[00:55:01.849 --> 00:55:02.570]  We're in Alex land.
+[00:55:03.010 --> 00:55:03.409]  No, no.
+[00:55:04.480 --> 00:55:08.360]  This is the systematic disinformation program that we're all getting fed.
+[00:55:08.380 --> 00:55:09.340]  But are you saying this?
+[00:55:09.440 --> 00:55:11.460]  Is there astronomers, cosmologists who say that?
+[00:55:11.460 --> 00:55:19.820]  Yeah, NASA said you're, I mean, according to the rotation of the planets, they say, you know, mathematically it shows a pull of this larger gas giant out past Pluto.
+[00:55:20.099 --> 00:55:23.340]  Is that a version of the drug act that I never took?
+[00:55:23.539 --> 00:55:24.659]  You know what, Zacharias says it's Nibiru.
+[00:55:24.739 --> 00:55:25.300]  Yeah, Nibiru.
+[00:55:25.820 --> 00:55:32.400]  And now it's Nibiru, which is where the Anunnaki came from, with the Anunnaki are the ones who talk the Sumerians in the language.
+[00:55:33.739 --> 00:55:34.480]  You're up on it.
+[00:55:34.619 --> 00:55:37.300]  But now they're saying that it's going to collide in like one year.
+[00:55:38.000 --> 00:55:38.840]  I'm in Hollywood.
+[00:55:39.139 --> 00:55:39.739]  I get the memo.
+[00:55:40.539 --> 00:55:42.440]  When you're on television, you get the memo.
+[00:55:43.000 --> 00:55:44.539]  Is that what the Scientologist is doing?
+[00:55:44.559 --> 00:55:45.059]  No, that's it.
+[00:55:45.179 --> 00:55:46.019]  But no, they're out.
+[00:55:46.119 --> 00:55:46.519]  They're fake.
+[00:55:46.900 --> 00:55:48.860]  But I mean, now the media is saying it's coming.
+[00:55:48.980 --> 00:55:49.500]  Ooh, it's real.
+[00:55:49.539 --> 00:55:50.400]  A few stories here and there.
+[00:55:50.519 --> 00:55:53.159]  And the idiot conspiracy people pick it up and start promoting it.
+[00:55:53.219 --> 00:55:54.880]  When the planet doesn't hit us, we're all idiots.
+[00:55:55.340 --> 00:55:58.840]  And they go, see, the government's not corrupt because they say planets are colliding too.
+[00:55:58.840 --> 00:56:00.500]  But see, that doesn't make sense.
+[00:56:00.500 --> 00:56:06.902]  Because if it's a year, that means it's Do you have any idea how fucking big it would be if it was one light year away?
+[00:56:06.940 --> 00:56:07.860]  It would be enormous.
+[00:56:08.199 --> 00:56:09.480]  I'm saying it's bullshit short.
+[00:56:09.639 --> 00:56:09.639]  What?
+[00:56:09.699 --> 00:56:11.559]  Is it traveling at the speed of light?
+[00:56:12.039 --> 00:56:16.800]  You know, planets that are that big, one light year away, they're fucking huge.
+[00:56:16.800 --> 00:56:20.380]  On the astronomical scale, that would be a short distance away.
+[00:56:20.519 --> 00:56:20.780]  Yeah, exactly.
+[00:56:21.599 --> 00:56:22.689]  Exactly, that's what I'm saying.
+[00:56:22.699 --> 00:56:24.079]  If it was one light year away...
+[00:56:26.699 --> 00:56:28.840]  It would be like one quarter the size of the moon.
+[00:56:29.119 --> 00:56:29.940]  We're having a discussion.
+[00:56:30.539 --> 00:56:33.659]  If we're mapping asteroids down to the size of dimes or something.
+[00:56:33.719 --> 00:56:34.780]  I'm saying it's bullshit, yeah.
+[00:56:34.940 --> 00:56:37.059]  Is this planet supposedly traveling at the speed of light?
+[00:56:37.079 --> 00:56:43.860]  But the theories that all these people that believe that the Anunnaki came and they gave this theory to us.
+[00:56:44.679 --> 00:56:49.619]  They believe that this planet, Nubura, 3,000 to come here is that elliptical orbit.
+[00:56:50.329 --> 00:56:57.329]  straight orbit and when it comes back around the planetary pull, the gravity of it is what caused the Great Deluge.
+[00:56:57.329 --> 00:57:00.729]  But then NASA comes out and shares.
+[00:57:00.739 --> 00:57:05.489]  If they can stare at his keyboard for ten minutes.
+[00:57:05.489 --> 00:57:10.339]  But, yeah but it's not coming to fucking smash it.
+[00:57:10.339 --> 00:57:15.949]  So they're saying this planet Nibiru is very important.
+[00:57:15.959 --> 00:57:20.059]  Yeah, there's a tenth planet out there for their mathematical calculations because of the other orbits.
+[00:57:20.420 --> 00:57:25.000]  They're saying there is an elliptical orbit, and this thing does come closer every couple thousand years.
+[00:57:25.320 --> 00:57:27.320]  Well, how close can it possibly get to us?
+[00:57:27.519 --> 00:57:28.559]  I'm not saying it's true.
+[00:57:28.619 --> 00:57:29.380]  I think it's a bunch of crap.
+[00:57:29.739 --> 00:57:31.159]  I don't believe the word NASA says.
+[00:57:31.820 --> 00:57:33.119]  I'm saying NASA's insane.
+[00:57:34.300 --> 00:57:41.260]  Especially the part about us landing on the moon.
+[00:57:41.360 --> 00:57:51.420]  Fucking propaganda Especially the part About us landing On the moon I watched The more looks like He's my He's my ride You know what fucks up to me about the moon?
+[00:57:51.599 --> 00:57:53.000]  The dust from the moon party.
+[00:57:55.139 --> 00:57:57.000]  The dust for the moon, but it's small.
+[00:57:57.719 --> 00:57:59.119]  It's one-sixthly gravity.
+[00:58:00.079 --> 00:58:04.179]  The worst thing about the moon deal is we know they have the technologies, but it's a sub-profit.
+[00:58:04.300 --> 00:58:05.360]  Eventually, at some point.
+[00:58:05.460 --> 00:58:08.679]  We can't get off the Earth now, so they're going to expose the moon thing once it's real.
+[00:58:08.800 --> 00:58:09.639]  They've already done it on Fox.
+[00:58:09.840 --> 00:58:10.820]  Coming up next on Fox.
+[00:58:12.420 --> 00:58:20.420]  What they did is they released all these photos with the marks on the screen on the lens.
+[00:58:20.679 --> 00:58:22.360]  Go look, the cross is behind.
+[00:58:24.139 --> 00:58:32.900]  Well, NASA distributes these on purpose, and then Fox comes out and says, "Oh, it is fake.
+[00:58:33.179 --> 00:58:35.599]  Oh, look, there's a valid radiation belt.
+[00:58:35.599 --> 00:58:46.139]  We can never leave the Earth." They give us this illusion so they can develop the technologies out in space, and people are taught, "Oh, this is the end of it." While they know all their technology is being developed, we all stay here.
+[00:58:46.139 --> 00:58:49.128]  No, he's a psychology researcher who specializes in...
+[00:58:49.139 --> 00:58:50.139]  I like it better than they just lie.
+[00:58:50.139 --> 00:58:51.689]  That sounds better.
+[00:58:51.690 --> 00:58:54.030]  You're talking about me?
+[00:58:54.309 --> 00:58:54.630]  Really?
+[00:58:54.889 --> 00:58:57.550]  You're talking about how you acquired your iPod.
+[00:58:59.530 --> 00:59:01.309]  Single-cell electrophysiology.
+[00:59:03.489 --> 00:59:04.010]  Electroneurophysiology.
+[00:59:04.250 --> 00:59:06.250]  It was in service in '59, developed in '59.
+[00:59:06.829 --> 00:59:12.110]  There's not a whole lot of trust fund people who really go for that.
+[00:59:12.289 --> 00:59:13.070]  Or could pronounce it now.
+[00:59:14.489 --> 00:59:16.090]  So you think they absolutely can't go to the moon?
+[00:59:16.610 --> 00:59:19.809]  Yeah, but what they put on television was a thing.
+[00:59:21.039 --> 00:59:21.820]  You just love it.
+[00:59:22.400 --> 00:59:24.219]  Because they can't show us all the real stuff they've got.
+[00:59:24.400 --> 00:59:25.659]  Did somebody piss in this chair?
+[00:59:26.159 --> 00:59:26.159]  Huh?
+[00:59:29.940 --> 00:59:31.280]  You've got a problem with it?
+[00:59:31.380 --> 00:59:32.039]  I got it!
+[00:59:36.079 --> 00:59:37.900]  Well, look, I don't get into the flying saucers.
+[00:59:37.920 --> 00:59:39.360]  As opposed to the other stuff, which is all okay.
+[00:59:41.679 --> 00:59:45.539]  I get into reading an executive order on the air where they can blow all our hands off.
+[00:59:48.639 --> 00:59:49.000]  Sorry.
+[00:59:51.239 --> 00:59:52.980]  The chair had piss on it, I'm sorry.
+[00:59:53.050 --> 00:59:55.650]  Bunker government that's been in place since September 11th.
+[00:59:55.869 --> 00:59:56.909]  It was in place before.
+[00:59:57.190 --> 00:59:58.090]  But how creepy is that?
+[00:59:58.170 --> 00:59:59.309]  What's that bunker government?
+[00:59:59.449 --> 01:00:00.050]  Here's the deal.
+[01:00:00.190 --> 01:00:02.449]  You build a bunker, you get a water filter, you're a terrorist.
+[01:00:02.670 --> 01:00:04.530]  But they're massing guns, giant bunkers.
+[01:00:04.630 --> 01:00:06.550]  They have bunker complexes all over the country.
+[01:00:06.769 --> 01:00:07.630]  Fake hotels.
+[01:00:07.909 --> 01:00:10.289]  They've got them in Houston and Austin under the airport.
+[01:00:10.849 --> 01:00:14.349]  And the Capitol, they've got a huge bunker complex that's all the way to Portland.
+[01:00:14.929 --> 01:00:17.110]  And they've got speed trains all the way to Arizona.
+[01:00:17.449 --> 01:00:18.369]  This is all admitted.
+[01:00:18.610 --> 01:00:20.949]  This whole secret continuity of government is not secret.
+[01:00:21.070 --> 01:00:22.590]  it's been public for years.
+[01:00:22.640 --> 01:00:23.850]  When we talk about it, we're crazy.
+[01:00:23.850 --> 01:00:27.510]  When it's in the government documents, I mean, they put all this shit on paper.
+[01:00:27.510 --> 01:00:28.539]  None of it's secret.
+[01:00:28.550 --> 01:00:36.259]  It's just, the public has come back because they don't talk I thought that was just for getting the kids out of the state school so they put them into concentration camps.
+[01:00:36.429 --> 01:00:39.369]  Well, I told you they used the bunker system for bad experiments.
+[01:00:39.369 --> 01:00:41.268]  Like the black men at Tuskegee.
+[01:00:41.268 --> 01:00:43.199]  Would make somebody go, okay, get it.
+[01:00:43.250 --> 01:00:44.550]  Might be valid.
+[01:00:44.550 --> 01:00:46.509]  Because the government wouldn't hurt us, would they?
+[01:00:46.509 --> 01:00:52.510]  Do you really think that with television and the media in place, the way it is, Is there any way this could ever stop?
+[01:00:53.070 --> 01:01:00.230]  Is there any way, if you think that there's really a secret government that's running the world, how, if they have control of the media, could it ever be exposed or stopped?
+[01:01:00.429 --> 01:01:05.190]  Because the majority of the people don't believe anything they don't see on television or reading the newspaper.
+[01:01:05.369 --> 01:01:05.690]  You're right.
+[01:01:05.690 --> 01:01:07.010]  It's very hard to defeat this system.
+[01:01:07.070 --> 01:01:08.530]  We have to show people the manipulation.
+[01:01:09.349 --> 01:01:10.349]  Is that possible?
+[01:01:11.650 --> 01:01:12.590]  Think about it.
+[01:01:12.610 --> 01:01:15.469]  When they put something on CBS, it reaches 19 million people.
+[01:01:15.929 --> 01:01:18.650]  As they squeeze tighter and tighter, you're going to see more resistance.
+[01:01:18.959 --> 01:01:20.628]  It's just a fact.
+[01:01:20.699 --> 01:01:28.880]  But due to this technocracy And no, we may not escape it.
+[01:01:29.039 --> 01:01:30.280]  We may be totally destroyed.
+[01:01:30.619 --> 01:01:41.300]  But how is real fraud in the government, the real higher-up fraud, ever going to be exposed when people either are completely apathetic, don't care, or don't believe it because it's not on 16th.
+[01:01:41.300 --> 01:01:42.600]  Okay, let me give you an example.
+[01:01:42.600 --> 01:01:46.039]  It's in the Canadian media, the French media, the British, and...
+[01:01:47.562 --> 01:01:48.422]  Well, I understand, but no.
+[01:01:49.019 --> 01:01:50.239]  Americans are fucking lazy.
+[01:01:50.900 --> 01:01:58.199]  It's in the media that the Rothschild Bank is taking most of the Enron money, and it's in there that Bush engineered the whole September 11th attack.
+[01:01:58.380 --> 01:02:07.139]  Right, but if it's not in our media, if it's not on our four major networks, if it's not on the New York Times, how is anyone ever going to really believe it?
+[01:02:07.219 --> 01:02:08.579]  I mean, it's really flawless.
+[01:02:08.880 --> 01:02:14.059]  Actually, they're losing a lot of their market share, like you said, to the Internet, to alternative press.
+[01:02:14.510 --> 01:02:15.630]  And to these areas.
+[01:02:15.809 --> 01:02:18.590]  It's small, but it's growing so fast.
+[01:02:18.869 --> 01:02:20.349]  The Defense Department created the Internet.
+[01:02:20.550 --> 01:02:22.849]  How could the Internet end up jeopardizing their planet?
+[01:02:22.849 --> 01:02:23.789]  Well, see, that's the arrogance.
+[01:02:23.789 --> 01:02:27.510]  They're going to use it as a tracking and control grid.
+[01:02:27.690 --> 01:02:31.769]  Whenever you get people free speech for the whole world, it's a problem.
+[01:02:31.989 --> 01:02:32.489]  That's dangerous.
+[01:02:32.869 --> 01:02:36.469]  Whenever I put up a website that some guy in France can read, that's dangerous.
+[01:02:37.230 --> 01:02:37.829]  I agree.
+[01:02:38.289 --> 01:02:38.929]  It's my radio for the whole world.
+[01:02:38.929 --> 01:02:42.690]  My website gets 2 million individual visitors a week now.
+[01:02:42.969 --> 01:02:44.989]  I mean, everybody inflates, that's the actual numbers.
+[01:02:45.309 --> 01:02:46.170]  Two million a week.
+[01:02:46.349 --> 01:02:47.369]  They've got a problem.
+[01:02:47.610 --> 01:02:51.510]  That's why they're going to blow stuff up, create martial law, start blowing people like me's heads off.
+[01:02:51.710 --> 01:02:53.610]  It's going to start happening, mass death, extermination.
+[01:02:53.710 --> 01:02:54.690]  Here's my question.
+[01:02:55.869 --> 01:02:59.530]  Maybe that's why the government sent the Phantom Patriot out there.
+[01:02:59.670 --> 01:03:00.309]  Oh, I'm sorry.
+[01:03:00.389 --> 01:03:01.269]  So they can take you down.
+[01:03:01.349 --> 01:03:03.010]  Yeah, the Phantom Patriot, I believe, is the federal program, yeah.
+[01:03:03.989 --> 01:03:05.110]  Just to take you down.
+[01:03:05.409 --> 01:03:05.829]  Yeah, that's funny.
+[01:03:05.849 --> 01:03:06.909]  His purpose is just to take you down.
+[01:03:06.989 --> 01:03:08.429]  Do you want me to spend 10 minutes and explain?
+[01:03:08.449 --> 01:03:09.230]  There's no real wackos?
+[01:03:09.630 --> 01:03:11.630]  There are real wackos, but there's a lot of people.
+[01:03:11.630 --> 01:03:12.719]  How do you tell when the guy's a real guy?
+[01:03:26.190 --> 01:03:29.329]  Bring in the media and 20 newspapers come in and interview him.
+[01:03:29.389 --> 01:03:31.809]  He says, Alex Jones, Alex Jones, Alex Jones.
+[01:03:32.110 --> 01:03:32.730]  Bohemian Grove.
+[01:03:34.159 --> 01:03:35.360]  He's a McVeigh type.
+[01:03:35.519 --> 01:03:36.159]  He's an op.
+[01:03:36.360 --> 01:03:37.159]  It's a fake name.
+[01:03:37.300 --> 01:03:38.000]  The whole thing's a scam.
+[01:03:38.119 --> 01:03:38.940]  They do this all the time.
+[01:03:39.219 --> 01:03:44.079]  Did you hear the Defense Department just say last week, we're going to start lying to you for your best interest?
+[01:03:44.420 --> 01:03:45.300]  No, what they say.
+[01:03:45.579 --> 01:03:47.039]  All about, we're not going to tell you.
+[01:03:47.860 --> 01:03:49.340]  Strategic deception.
+[01:03:49.579 --> 01:03:51.079]  Oh, they're going to plant false news stories.
+[01:03:51.340 --> 01:03:52.900]  You know who runs CNN Center in Atlanta?
+[01:03:53.380 --> 01:03:53.619]  Who?
+[01:03:54.760 --> 01:03:55.460]  Ted Turner.
+[01:03:56.380 --> 01:03:57.599]  Not Ted Turner anymore.
+[01:03:57.920 --> 01:04:02.920]  For two years, Psychological Warfare Division, PSYOPs of the Army.
+[01:04:03.579 --> 01:04:07.679]  And they just announced it, and the new tactic is throwing at your face like a stone in the field.
+[01:04:07.840 --> 01:04:09.340]  Just a minor blurb two years ago.
+[01:04:09.539 --> 01:04:12.659]  Oh, the Army's taking over CNN, just to make sure everything's accurate.
+[01:04:13.539 --> 01:04:14.219]  I can show you the article.
+[01:04:14.300 --> 01:04:15.440]  Are you sure it wasn't Time Warner?
+[01:04:16.179 --> 01:04:18.679]  No, Time Warner, yeah, but they handed it over to the defense department.
+[01:04:18.760 --> 01:04:20.079]  That's who writes the scripts now.
+[01:04:20.800 --> 01:04:21.820]  That's who writes the news.
+[01:04:22.199 --> 01:04:23.920]  See, there's so much, I can't even fucking begin with.
+[01:04:23.920 --> 01:04:24.760]  Well, here's my one question.
+[01:04:24.780 --> 01:04:25.340]  Wait a minute, wait a minute.
+[01:04:25.400 --> 01:04:26.820]  Special Ops people run CNN?
+[01:04:27.019 --> 01:04:27.139]  Yeah.
+[01:04:27.360 --> 01:04:28.519]  They write the stories.
+[01:04:29.079 --> 01:04:30.780]  They type the stuff for the teleprompter.
+[01:04:31.179 --> 01:04:31.809]  No, that's a fact.
+[01:04:32.360 --> 01:04:33.410]  My apps, not special apps.
+[01:04:36.280 --> 01:04:38.059]  And you say, well, wait, the media lies.
+[01:04:38.139 --> 01:04:38.980]  Why are they telling us this?
+[01:04:39.159 --> 01:04:40.340]  No, they just calmly told you.
+[01:04:40.719 --> 01:04:41.440]  Like, it's no big deal.
+[01:04:41.519 --> 01:04:42.280]  That's the new secret.
+[01:04:42.400 --> 01:04:44.199]  Look, this story will explain everything.
+[01:04:44.420 --> 01:04:46.619]  If you want everything explained, this will explain it.
+[01:04:46.780 --> 01:04:48.239]  You talked about desistization.
+[01:04:48.900 --> 01:04:49.500]  Okay, Joe?
+[01:04:50.480 --> 01:04:51.360]  This will explain it.
+[01:04:51.659 --> 01:04:55.039]  Last year, it comes out in the BBC, the Moscow Times.
+[01:04:55.530 --> 01:04:58.869]  And a bunch of other papers, and I even saw it in one U.S. newspaper, the L.A. Times.
+[01:04:59.190 --> 01:05:00.010]  Just a little blurb.
+[01:05:00.309 --> 01:05:05.369]  Vladimir Putin last week had a press conference with Kim Jong-il, the hereditary communist dictator in North Korea.
+[01:05:05.570 --> 01:05:12.749]  He thanked him for paying a down payment on the $5.4 billion debt with 30,000 slave laborers from North Korea.
+[01:05:12.800 --> 01:05:16.019]  They were shipped via railway on the Trans-Siberian Road.
+[01:05:17.630 --> 01:05:27.369]  Yeah, but we hear in our news, the 500 stories we hear is Putin has reformed, Russia loves the children, our government loves them, Bush I saw love in his eyes, a man he can trust in his soul.
+[01:05:27.570 --> 01:05:28.289]  You heard the comments.
+[01:05:28.409 --> 01:05:29.229]  We all heard the quotes.
+[01:05:29.298 --> 01:05:33.389]  So he's like And so now, 10 years, 12 years It's like a massa.
+[01:05:33.478 --> 01:05:34.568]  Well listen, yeah.
+[01:05:35.250 --> 01:05:35.769]  I'm just trying to explain this.
+[01:05:35.989 --> 01:05:38.230]  Twelve years ago, Russia was evil.
+[01:05:38.230 --> 01:05:39.030]  They have gulags.
+[01:05:39.190 --> 01:05:45.599]  now russia is loving they have to watch with now We've now entered Double Think, Double Plus Good.
+[01:05:45.920 --> 01:05:51.280]  We've now entered 1984, where they in the open can have a press conference and say, thank you for the slaves.
+[01:05:51.440 --> 01:05:53.500]  And they just put it out and just go, that's the way it is.
+[01:05:53.619 --> 01:05:54.199]  We love you.
+[01:05:54.380 --> 01:05:55.260]  China's selling organs.
+[01:05:55.480 --> 01:05:56.460]  China's blowing up this.
+[01:05:56.579 --> 01:05:57.380]  China's killing these people.
+[01:05:57.500 --> 01:05:58.239]  They love us.
+[01:05:58.719 --> 01:05:59.780]  Oh, North Korea's a threat.
+[01:05:59.880 --> 01:06:05.219]  That's why Bush is giving them six nuclear reactors that can make 65 nuclear warheads a year from the plutonium.
+[01:06:05.839 --> 01:06:07.159]  This is what's going on.
+[01:06:07.460 --> 01:06:08.519]  Slaves in the open.
+[01:06:08.679 --> 01:06:11.259]  transferred via railway to be worked to death.
+[01:06:11.307 --> 01:06:14.659]  And the article said when they escaped Yeah, I have it all.
+[01:06:15.579 --> 01:06:17.139]  It's in the special release film.
+[01:06:17.579 --> 01:06:18.780]  In the wars.com.
+[01:06:18.900 --> 01:06:19.820]  No, man, I'm not kidding.
+[01:06:20.079 --> 01:06:21.559]  They publicly ship slaves.
+[01:06:21.699 --> 01:06:25.219]  And we just sit here and calmly, because it wasn't on the nightly news, but it's in the newspaper.
+[01:06:25.679 --> 01:06:27.519]  There's pictures of Putin up there with Kim Jong-il.
+[01:06:27.639 --> 01:06:28.599]  Thanks for the slaves.
+[01:06:29.260 --> 01:06:30.699]  He says thanks for the slaves?
+[01:06:30.820 --> 01:06:31.659]  He said thank you.
+[01:06:31.719 --> 01:06:32.659]  Why is he speaking English there?
+[01:06:34.899 --> 01:06:38.380]  Maybe the translator just wrote some crazy shit at the bottom and it wasn't really what he said.
+[01:06:38.780 --> 01:06:42.019]  No, it's an old practice for 50 years.
+[01:06:42.159 --> 01:06:43.159]  Maybe somebody just snuck in.
+[01:06:43.719 --> 01:06:45.639]  It's an old practice for actually 49 years.
+[01:06:45.659 --> 01:06:46.360]  That's his trick, dude.
+[01:06:47.099 --> 01:06:49.059]  He's translating thanks for the slaves.
+[01:06:49.300 --> 01:06:51.960]  He didn't say thanks for the slaves.
+[01:06:51.960 --> 01:06:53.960]  I meant thanks for the rubles, but I wrote slaves.
+[01:06:55.039 --> 01:06:56.320]  Ah, see, slaves.
+[01:06:56.539 --> 01:06:57.519]  Ah, no big deal.
+[01:06:58.139 --> 01:07:01.320]  It's kind of a big deal, but I thought maybe I would have heard of it.
+[01:07:01.320 --> 01:07:02.199]  Joe, here's the deal.
+[01:07:02.849 --> 01:07:03.989]  I will get you the articles.
+[01:07:04.210 --> 01:07:04.570]  Please.
+[01:07:04.869 --> 01:07:05.389]  That would be nice.
+[01:07:05.690 --> 01:07:09.090]  It's not like the skeptical inquirer or anything like that, right?
+[01:07:09.309 --> 01:07:11.570]  No, it's BBC, Moscow Times.
+[01:07:11.889 --> 01:07:12.849]  And they said slaves?
+[01:07:13.110 --> 01:07:20.650]  Well, it just said it's an old practice and they were supposed to cut back, but, you know, North Korea has to pay off its debt and all they have is slaves.
+[01:07:21.469 --> 01:07:22.958]  Come on, man.
+[01:07:23.028 --> 01:07:31.269]  Say you're shocked, but when I get to the article, you'll just kind of go, well, So that's a desensitization example.
+[01:07:31.650 --> 01:07:33.369]  Okay, so I buy everything completely.
+[01:07:33.769 --> 01:07:34.869]  What do I do about it?
+[01:07:35.440 --> 01:07:39.460]  Well, you point it out to people, and you go, uh, folks, they just announced they're shipping slaves to pay off debts.
+[01:07:39.659 --> 01:07:41.199]  No, but not just that one story.
+[01:07:41.360 --> 01:07:46.320]  I believe in the entirety of the manipulation of world events.
+[01:07:46.320 --> 01:07:48.480]  How do we...
+[01:07:48.500 --> 01:07:49.559]  You're talking about a cantilever.
+[01:07:49.559 --> 01:07:50.990]  How do we regain...
+[01:07:51.000 --> 01:07:55.349]  How do we regain control of the world's destiny?
+[01:07:55.360 --> 01:07:56.670]  See, this is what I think.
+[01:07:57.679 --> 01:07:58.739]  That's what my point was.
+[01:07:59.159 --> 01:08:07.859]  All this new world order stuff, if they control all the media, which I certainly believe they do, everybody controls, I think the government controls almost everything that gets out there in the newspapers.
+[01:08:10.440 --> 01:08:15.579]  Because there's so many things, like, there's so many obvious things you would think in the media would be more critical of the government.
+[01:08:15.739 --> 01:08:16.439]  But they're not.
+[01:08:16.600 --> 01:08:18.560]  So you've got to think the government controls the media.
+[01:08:18.659 --> 01:08:19.560]  Well, they've been caught in it.
+[01:08:19.560 --> 01:08:27.979]  If the government does control the media, and 90%, I'd say 90% of the people, if they don't see it on television or read it in the paper, they think it's bullshit.
+[01:08:29.120 --> 01:08:34.779]  So if that's the case, and 90% of the people are going to believe whatever you print, how could you ever win?
+[01:08:35.000 --> 01:08:35.710]  You can't.
+[01:08:35.890 --> 01:08:41.460]  Well, all I know is the United Nations You're right.
+[01:08:44.979 --> 01:08:46.560]  We are one day closer to victory.
+[01:08:46.840 --> 01:08:48.260]  It's 110% true.
+[01:08:48.720 --> 01:08:50.119]  And remember, drink Coca-Cola.
+[01:08:51.000 --> 01:08:57.840]  No, you know, all I know is I read the UN documents, and it's like a science fiction book.
+[01:08:58.279 --> 01:09:02.520]  All I know is, I look at what these people are doing, and it's a bunch of inbred psychopaths running the New World Order.
+[01:09:02.659 --> 01:09:07.439]  And all I know is, as this stuff gets worse, we've got to tell folks up front, so when it happens, they know who to blame.
+[01:09:07.460 --> 01:09:08.960]  Yeah, but what can we do?
+[01:09:08.960 --> 01:09:25.899]  If they control all of the media and they control all of the military and the government, And over decades they said no to it, and finally you stood up to it.
+[01:09:25.899 --> 01:09:30.279]  And the children of the elite are some That's why they're always having to kill them.
+[01:09:30.520 --> 01:09:32.079]  Kennedy came from an elite family.
+[01:09:32.340 --> 01:09:33.619]  But he resisted.
+[01:09:33.659 --> 01:09:35.859]  He signed an executive order abolishing the Federal Reserve.
+[01:09:36.020 --> 01:09:37.239]  He was going to abolish the CIA.
+[01:09:37.359 --> 01:09:38.159]  He was going to pull us out of Vietnam.
+[01:09:38.399 --> 01:09:39.359]  They blew his head off.
+[01:09:39.500 --> 01:09:42.640]  But now 80% of Americans in polls say they know the government did it.
+[01:09:42.739 --> 01:09:44.659]  So over time, the distrust increases.
+[01:09:44.939 --> 01:09:49.019]  I knew he was going to abolish the CIA, but I didn't know he was going to close down the federal bank.
+[01:09:50.560 --> 01:09:50.840]  It's a private bank.
+[01:09:51.159 --> 01:09:52.279]  Well, I know the name.
+[01:09:52.300 --> 01:09:52.560]  It's federal.
+[01:09:52.739 --> 01:09:52.939]  You're right.
+[01:09:52.979 --> 01:09:53.340]  Yeah, you're right.
+[01:09:53.439 --> 01:09:53.800]  It's a federal name.
+[01:09:53.939 --> 01:09:55.840]  He was going to absolve us of all that.
+[01:09:56.020 --> 01:09:56.760]  Yeah, exactly.
+[01:09:56.779 --> 01:09:58.819]  Executive Order 1-1-1-1-0.
+[01:09:59.060 --> 01:10:29.000]  1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1- I don't have time to read all these executive orders.
+[01:10:30.960 --> 01:10:33.680]  What's executive order number one?
+[01:10:33.920 --> 01:10:34.340]  Who put it out?
+[01:10:34.460 --> 01:10:34.859]  You know what?
+[01:10:35.000 --> 01:10:35.560]  I would do that.
+[01:10:35.800 --> 01:10:37.619]  Executive orders were not called executive orders.
+[01:10:37.619 --> 01:10:40.479]  I would just throw some crazy shit there to see if anybody's reading it.
+[01:10:40.699 --> 01:10:45.659]  The Warren Commission, like halfway through, should have been a little blurb out of Alice in Wonderland.
+[01:10:45.779 --> 01:10:46.300]  Just a chapter.
+[01:10:46.840 --> 01:10:48.260]  See if anybody's paying attention.
+[01:10:48.699 --> 01:10:50.439]  Just some crazy through-the-looking-glass shit.
+[01:10:50.600 --> 01:10:52.859]  Just do it, Jabberwocky.
+[01:10:53.039 --> 01:10:53.800]  Well, yeah, that's the point.
+[01:10:53.899 --> 01:10:54.539]  It's all BS.
+[01:10:55.470 --> 01:10:58.369]  Would it be the Pink Floyd version or the non-Pink Floyd version?
+[01:10:58.909 --> 01:11:00.010]  You gotta go with Pink Floyd.
+[01:11:00.029 --> 01:11:01.569]  Out of respect, David Gilmour.
+[01:11:01.750 --> 01:11:02.930]  Out of respect, baby.
+[01:11:03.130 --> 01:11:04.130]  Blazing guitar work.
+[01:11:04.350 --> 01:11:05.289]  Out of respect, baby.
+[01:11:05.569 --> 01:11:06.869]  Look, I could jab her all day.
+[01:11:07.029 --> 01:11:07.649]  Please, too.
+[01:11:07.788 --> 01:11:11.158]  The point is, it doesn't make any sense unless you really go over it for hours.
+[01:11:11.167 --> 01:11:12.507]  And frankly, I don't even...
+[01:11:14.590 --> 01:11:20.510]  The full scope of the New World Order is so sick and so degenerate, and it's hard to even imagine.
+[01:11:20.689 --> 01:11:21.649]  Take the Bush family.
+[01:11:22.150 --> 01:11:25.270]  The Republicans cited three times were trading with the enemy.
+[01:11:25.270 --> 01:11:31.050]  One half of Nazi steel production, actually 53%, The Bush family is worth trillions.
+[01:11:31.369 --> 01:11:34.630]  The Bush family, Bush seniors, third cousins to Queen Elizabeth, Reuters.
+[01:11:35.130 --> 01:11:41.789]  We have British world family parading around like Texans, funding Hitler, funding every other monster, BCCI with Sinan.
+[01:11:41.789 --> 01:11:42.609]  Whoa, wait, isn't Hitler dead?
+[01:11:43.090 --> 01:11:43.850]  He's dead, right?
+[01:11:44.109 --> 01:11:45.649]  Yeah, Prescott, the senator of the Bush.
+[01:11:45.989 --> 01:11:50.590]  Prescott Bush, you know, the father of the first president and the second little co-kid.
+[01:11:50.590 --> 01:11:51.729]  He was in business with Hitler.
+[01:11:53.079 --> 01:11:53.600]  10,000.
+[01:11:53.720 --> 01:11:54.500]  Oh, well, you got a lot of money.
+[01:11:54.539 --> 01:11:55.020]  Let's bet a million.
+[01:11:55.840 --> 01:11:56.880]  I can't believe you.
+[01:11:57.020 --> 01:11:57.439]  I'm not questioning you.
+[01:11:57.439 --> 01:11:58.720]  No, I know you believe me, Joe.
+[01:11:59.640 --> 01:12:00.199]  Come on, Joe.
+[01:12:00.279 --> 01:12:01.979]  It's 110% true.
+[01:12:02.000 --> 01:12:04.380]  Well, if I can make up a question, I can bet the million back.
+[01:12:05.340 --> 01:12:07.180]  Don't fuck with 110% true, man.
+[01:12:07.199 --> 01:12:07.539]  No, no, no.
+[01:12:07.960 --> 01:12:08.899]  You lose every time.
+[01:12:09.319 --> 01:12:12.260]  Funding for Hitler is brought to you by John D. and Catherine MacArthur Foundation.
+[01:12:12.640 --> 01:12:14.420]  And that's why when you listen to NPR, it's for the people.
+[01:12:14.520 --> 01:12:15.960]  That's why it's brought to you by Rockefeller.
+[01:12:16.300 --> 01:12:17.680]  But Rockefeller's not involved in your life.
+[01:12:17.720 --> 01:12:17.960]  You are.
+[01:12:19.660 --> 01:12:21.119]  Listen to NPR for an hour.
+[01:12:21.199 --> 01:12:22.819]  Rockefeller, Rockefeller, Rockefeller, Rockefeller.
+[01:12:22.960 --> 01:12:24.399]  We're liberal, as we tell you, by the way.
+[01:12:24.520 --> 01:12:26.100]  We're funded by the military-industrial complex.
+[01:12:26.659 --> 01:12:27.939]  Hand over your guns, because we love you.
+[01:12:28.199 --> 01:12:30.560]  By the way, we're buying more guns, building giant underground bunkers.
+[01:12:30.699 --> 01:12:30.859]  Hi.
+[01:12:31.439 --> 01:12:33.880]  We've got giant stores of every type of violence you can imagine.
+[01:12:33.920 --> 01:12:34.479]  We love you.
+[01:12:35.380 --> 01:12:37.380]  We're breeding race-specific viruses right now.
+[01:12:37.699 --> 01:12:40.439]  By the way, telling you you're about to be attacked any day, they'll leave your rights up.
+[01:12:40.859 --> 01:12:42.279]  You're like this 24 hours a day.
+[01:12:42.319 --> 01:12:43.659]  And we're federalizing your entire society.
+[01:12:46.220 --> 01:12:47.560]  No, I swear to you.
+[01:12:47.920 --> 01:12:50.279]  The Bushes got cited three times.
+[01:12:50.460 --> 01:12:53.960]  They ran, literally, most of the Nazi operations.
+[01:12:55.600 --> 01:12:57.659]  And they took us.
+[01:13:00.420 --> 01:13:01.699]  110% true.
+[01:13:02.500 --> 01:13:03.340]  No, listen, listen.
+[01:13:03.520 --> 01:13:05.800]  I had family who were in B-17s.
+[01:13:05.920 --> 01:13:06.539]  They weren't allowed to bomb.
+[01:13:06.960 --> 01:13:07.899]  110% true.
+[01:13:07.899 --> 01:13:08.859]  Do you work for the feds?
+[01:13:09.119 --> 01:13:10.220]  No, seriously.
+[01:13:10.579 --> 01:13:12.260]  Are you a disinformation agent?
+[01:13:12.260 --> 01:13:13.260]  Yes he is.
+[01:13:13.260 --> 01:13:14.260]  Come on.
+[01:13:14.260 --> 01:13:19.260]  I think you throw out really, really intelligent shit with crazy psychobabble.
+[01:13:19.260 --> 01:13:21.260]  And I think you do it by design.
+[01:13:21.260 --> 01:13:22.260]  You're a federal agent.
+[01:13:22.260 --> 01:13:23.260]  Joe, it doesn't matter.
+[01:13:23.260 --> 01:13:24.260]  You can go check.
+[01:13:24.260 --> 01:13:25.260]  You're a federal agent.
+[01:13:25.260 --> 01:13:29.260]  You're going to suck us into the retarded version of the New World Order.
+[01:13:29.260 --> 01:13:31.260]  We're going to go out and fight it and realize it's bullshit.
+[01:13:31.260 --> 01:13:32.260]  They're on to us.
+[01:13:32.730 --> 01:13:35.350]  That's what all that hippie cult shit was.
+[01:13:35.470 --> 01:13:36.670]  That was by conservatives.
+[01:13:36.850 --> 01:13:39.079]  They said, "Don't dry up." Don't do that shit.
+[01:13:39.539 --> 01:13:40.800]  Where's the microchip implant?
+[01:13:40.800 --> 01:13:41.380]  Figure that doesn't work.
+[01:13:41.579 --> 01:13:43.199]  Come back to Republican harder.
+[01:13:43.779 --> 01:13:45.100]  Come back harder to the right.
+[01:13:45.239 --> 01:13:47.159]  All those hippies, they all became Republicans.
+[01:13:47.840 --> 01:13:50.479]  Hippies from the 70s, they all became Republicans.
+[01:13:50.739 --> 01:13:51.720]  This is bullshit.
+[01:13:52.199 --> 01:13:53.560]  You're a fucking narc.
+[01:13:53.840 --> 01:13:55.020]  Show us your microchip.
+[01:13:55.140 --> 01:13:56.619]  Let me see your shit.
+[01:13:57.319 --> 01:13:58.460]  Let me see your papers.
+[01:13:58.600 --> 01:14:00.439]  You have to, if I expose you, you must give them up.
+[01:14:00.560 --> 01:14:01.020]  It's in the book.
+[01:14:02.640 --> 01:14:03.079]  Isn't it?
+[01:14:03.279 --> 01:14:05.180]  It's like when a hooker, are you a cop?
+[01:14:05.380 --> 01:14:06.939]  They have to say, yes, I'm a cop.
+[01:14:07.779 --> 01:14:10.800]  How stupid is that in the movies when a hooker says, are you a cop?
+[01:14:10.880 --> 01:14:11.939]  And the guy has to answer.
+[01:14:12.319 --> 01:14:12.939]  You know, here's the deal.
+[01:14:13.199 --> 01:14:14.159]  No, I'm not a cop.
+[01:14:14.319 --> 01:14:14.739]  Let me talk now.
+[01:14:14.739 --> 01:14:15.699]  Then he arrests her.
+[01:14:16.220 --> 01:14:18.340]  But now they have the disinformation thing so they can lie.
+[01:14:18.340 --> 01:14:19.300]  He said he wasn't a cop.
+[01:14:19.439 --> 01:14:20.220]  Shut up, whore!
+[01:14:20.300 --> 01:14:21.498]  Let me say something now.
+[01:14:21.498 --> 01:14:26.150]  You see, with the skill that's just been implemented here, with...
+[01:14:27.960 --> 01:14:29.239]  He's about to cop to it.
+[01:14:29.300 --> 01:14:29.640]  Hold on.
+[01:14:30.539 --> 01:14:34.680]  With serious misinformation, what I say here is all you have to do is look at the facts.
+[01:14:34.960 --> 01:14:39.060]  It's not misinformation when I say Bush's family was cited three times to trade with the enemy.
+[01:14:39.420 --> 01:14:40.220]  That's a fact.
+[01:14:40.420 --> 01:14:42.319]  And it doesn't matter what Alex Jones is.
+[01:14:42.439 --> 01:14:43.899]  You have to go check out the information.
+[01:14:44.238 --> 01:14:46.198]  Did you just talk about yourself in the third person?
+[01:14:46.358 --> 01:14:47.198]  He did.
+[01:14:48.198 --> 01:14:49.198]  You might have to miss him.
+[01:14:49.247 --> 01:14:50.198]  He is, partner.
+[01:14:50.278 --> 01:14:52.198]  That's the first thing.
+[01:14:52.259 --> 01:14:53.137]  Motherfucker.
+[01:14:53.259 --> 01:14:54.198]  That's right.
+[01:14:54.238 --> 01:14:55.198]  That's the sign of bullshit.
+[01:14:55.248 --> 01:14:57.198]  That's the first thing they teach you in the new world.
+[01:14:57.198 --> 01:14:59.198]  Talk about yourself in the third person.
+[01:14:59.287 --> 01:15:01.638]  No, okay, if Bob don't.
+[01:15:01.640 --> 01:15:04.720]  No, I'm serious.
+[01:15:05.220 --> 01:15:06.279]  Him and Ricky Henderson.
+[01:15:06.600 --> 01:15:06.960]  Exactly.
+[01:15:07.560 --> 01:15:14.039]  Is that we have to get past the psychological pain and admitting that our leaders aren't our leaders, but are our captors.
+[01:15:14.520 --> 01:15:16.399]  Dude, you're back on the fucking track.
+[01:15:16.579 --> 01:15:17.939]  We're having a good time here fucking around.
+[01:15:18.800 --> 01:15:19.859]  You lost us there.
+[01:15:20.180 --> 01:15:20.800]  You lost us, man.
+[01:15:20.979 --> 01:15:21.939]  You try to get all serious.
+[01:15:22.119 --> 01:15:23.039]  You ain't gonna fix us.
+[01:15:23.479 --> 01:15:23.640]  No.
+[01:15:23.880 --> 01:15:25.119]  Are you gonna teach us some shit?
+[01:15:25.239 --> 01:15:25.920]  You think we're paying attention?
+[01:15:25.920 --> 01:15:27.319]  What would the federal agent say?
+[01:15:27.380 --> 01:15:27.840]  Dude, dude, dude.
+[01:15:28.460 --> 01:15:29.880]  What would the federal agent say?
+[01:15:29.939 --> 01:15:31.239]  The federal agent would say there's no hope.
+[01:15:31.739 --> 01:15:34.539]  And the person telling you this stuff is really the federal agent.
+[01:15:35.079 --> 01:15:36.460]  And you're not going to fix us.
+[01:15:36.499 --> 01:15:38.039]  He's just talking about himself in the third person.
+[01:15:39.880 --> 01:15:43.399]  We are going to fix society, and we are going to fight this dehumanizing world order.
+[01:15:43.460 --> 01:15:45.378]  We're going to smash these metal mothers.
+[01:15:45.378 --> 01:15:47.029]  And we're going to get this country back.
+[01:15:47.039 --> 01:15:48.289]  We're going to have creative.
+[01:15:49.239 --> 01:15:49.739]  We're fucked.
+[01:15:50.819 --> 01:15:52.239]  He was almost ready to go off.
+[01:15:52.300 --> 01:15:52.819]  We're fucked, dude.
+[01:15:53.060 --> 01:15:53.199]  No.
+[01:15:54.199 --> 01:15:55.720]  Humanity will continue.
+[01:15:55.960 --> 01:15:56.380]  Come on, man.
+[01:15:56.380 --> 01:15:57.439]  You're wearing a wedding ring.
+[01:15:57.539 --> 01:15:58.560]  Whether or not we do anything.
+[01:15:59.279 --> 01:16:00.359]  I am wearing a wedding ring.
+[01:16:00.420 --> 01:16:01.140]  You're fucked, bro.
+[01:16:01.658 --> 01:16:02.578]  Come on, Joe.
+[01:16:03.759 --> 01:16:04.649]  I'm on the dark side.
+[01:16:04.729 --> 01:16:14.710]  I tell you what, You know, I talked about microchips years ago, and Andy Rooney's saying, take a microchip or you're with Al-Qaeda.
+[01:16:14.930 --> 01:16:15.550]  I actually said it.
+[01:16:16.170 --> 01:16:20.149]  Diane Sawyer's saying, take microchips, and the family goes, they go, why are you taking it?
+[01:16:20.170 --> 01:16:23.010]  And they go, because we love America, and we don't want Al-Qaeda to win.
+[01:16:23.520 --> 01:16:24.880]  We're taking microchips.
+[01:16:25.000 --> 01:16:25.939]  Let me ask you this.
+[01:16:26.079 --> 01:16:31.739]  What do you think about those fucking retarded commercials and they stopped airing, the ones that aired during the Super Bowl?
+[01:16:31.920 --> 01:16:34.020]  If you buy drugs, you support terrorism.
+[01:16:34.359 --> 01:16:34.619]  Exactly.
+[01:16:37.520 --> 01:16:38.399]  He goes, they got greedy.
+[01:16:38.760 --> 01:16:39.600]  That's what Doug said.
+[01:16:39.859 --> 01:16:40.680]  And I said, you know what?
+[01:16:40.699 --> 01:16:41.140]  You're right.
+[01:16:41.279 --> 01:16:45.579]  They had every fucking asshole in the world waving flags, putting them all over their cars.
+[01:16:45.579 --> 01:16:46.319]  And they said, you know what?
+[01:16:46.380 --> 01:16:47.479]  Let's go a step further.
+[01:16:48.199 --> 01:16:48.760]  You're right.
+[01:16:48.920 --> 01:16:51.420]  Let's play pot on the fucking Paris.
+[01:16:51.420 --> 01:16:55.729]  When the government, that's because everybody's example of how we can win.
+[01:16:55.829 --> 01:16:58.220]  Most Americans know hold on just a second.
+[01:16:58.220 --> 01:16:59.789]  Most Americans This is on the camera.
+[01:16:59.789 --> 01:17:01.179]  Most Americans...
+[01:17:03.750 --> 01:17:07.810]  They know the government ships in the heroin and the cocaine and the rest of it.
+[01:17:07.869 --> 01:17:13.069]  And they know they use it to get fresh souls for their prisons at 23 cents an hour building their widgets.
+[01:17:13.430 --> 01:17:17.710]  And that's why they put that on there saying, you use drugs, you're with Al-Qaeda.
+[01:17:18.109 --> 01:17:21.000]  when in truth the war on drugs is a war on your rights.
+[01:17:21.000 --> 01:17:22.000]  I just got them back.
+[01:17:22.000 --> 01:17:23.000]  I put it on my website.
+[01:17:23.000 --> 01:17:23.350]  This is real?
+[01:17:23.350 --> 01:17:24.000]  You took this yourself?
+[01:17:24.000 --> 01:17:25.000]  Yeah, I was just saying, what is it?
+[01:17:25.000 --> 01:17:28.000]  Two days after that they put something else up.
+[01:17:28.000 --> 01:17:29.000]  A car.
+[01:17:29.000 --> 01:17:31.000]  They plastered over it.
+[01:17:31.000 --> 01:17:33.000]  They're saying stuff to word stupid.
+[01:17:33.000 --> 01:17:35.000]  Look at that.
+[01:17:35.000 --> 01:17:38.000]  No, it was supposed to be blank, you know, because we put some, gave some pot spokes.
+[01:17:38.000 --> 01:17:39.000]  This is what this is.
+[01:17:39.000 --> 01:17:41.000]  And somebody, we called and signed up there and shhh.
+[01:17:41.000 --> 01:17:43.000]  That's a billboard.
+[01:17:43.029 --> 01:17:45.000]  Dude, if you scan that, send me a copy.
+[01:17:45.000 --> 01:17:46.279]  That's a billboard that was in.
+[01:17:47.090 --> 01:17:48.229]  That was a billboard that was where?
+[01:17:48.289 --> 01:17:48.829]  In East Texas?
+[01:17:48.909 --> 01:17:49.569]  No, it was here in Austin.
+[01:17:49.569 --> 01:17:51.010]  Get the whole thing back out a little bit.
+[01:17:51.270 --> 01:17:53.270]  I got the whole thing.
+[01:17:53.270 --> 01:17:59.170]  It says we gave this to pot smokers to have them figured out It's a new order.
+[01:18:00.470 --> 01:18:04.930]  We gave this billboard to pot smokers to let them write something clever on it.
+[01:18:05.090 --> 01:18:06.729]  And what they wrote is, stop the war.
+[01:18:07.229 --> 01:18:10.710]  Like they're saying that Stop the War is bad and Potsmoke is just stupid.
+[01:18:11.810 --> 01:18:12.470]  No, no, no.
+[01:18:12.569 --> 01:18:13.470]  You pick out of the field.
+[01:18:13.529 --> 01:18:14.369]  You know what I said about the editors?
+[01:18:15.529 --> 01:18:17.029]  The whole billboard is supposed to be blank.
+[01:18:17.170 --> 01:18:18.729]  Some guys got up there and spray painted.
+[01:18:18.989 --> 01:18:19.670]  Stop the War.
+[01:18:19.949 --> 01:18:22.590]  It was not originally part of the billboard.
+[01:18:22.609 --> 01:18:23.810]  They were making fun of it.
+[01:18:23.810 --> 01:18:24.890]  I saw that billboard.
+[01:18:25.250 --> 01:18:26.750]  Is that billboard right by I-35?
+[01:18:26.909 --> 01:18:27.829]  No, it was on Burn It Road.
+[01:18:28.289 --> 01:18:29.210]  Burn It Road in what?
+[01:18:29.390 --> 01:18:31.649]  Burn It Road just was Houston.
+[01:18:31.869 --> 01:18:32.409]  Houston Street.
+[01:18:32.710 --> 01:18:33.909]  That is so retarded.
+[01:18:34.310 --> 01:18:36.529]  You know how much clever shit I've come up with on Weed?
+[01:18:36.920 --> 01:18:37.979]  I know I saw that.
+[01:18:38.159 --> 01:18:40.140]  This is fucking crazy.
+[01:18:40.439 --> 01:18:41.960]  They're saying pot smokers have nothing to say.
+[01:18:42.199 --> 01:18:44.460]  Every pot smoker I know just won't shut the fuck up.
+[01:18:44.760 --> 01:18:45.500]  Listen to me.
+[01:18:45.640 --> 01:18:46.979]  I'm on pot right now.
+[01:18:47.840 --> 01:18:48.960]  I'm high on pot.
+[01:18:49.420 --> 01:18:51.180]  He's under CIA control right now.
+[01:18:51.539 --> 01:18:54.699]  They're transmitting via chip uplink right now to his brain.
+[01:18:54.939 --> 01:18:55.800]  Are you guys on the pot?
+[01:18:55.920 --> 01:18:56.840]  I'm not on the pot.
+[01:18:56.920 --> 01:18:57.319]  Unfortunately.
+[01:18:59.279 --> 01:19:00.100]  You're on the pipe?
+[01:19:00.720 --> 01:19:01.979]  Are you down with the pipe tip?
+[01:19:02.539 --> 01:19:04.060]  Come on, get the camera back over here.
+[01:19:04.720 --> 01:19:05.699]  I'm only fucking around.
+[01:19:05.800 --> 01:19:07.640]  I do not put an ounce to the Fed.
+[01:19:07.899 --> 01:19:08.359]  It's just a joke.
+[01:19:08.479 --> 01:19:09.300]  He's a good friend of mine.
+[01:19:09.359 --> 01:19:10.180]  Tell them, comrade.
+[01:19:10.340 --> 01:19:12.960]  He is fighting New World Order, and we are one step closer to victory.
+[01:19:13.159 --> 01:19:13.739]  Yes, we are.
+[01:19:13.739 --> 01:19:15.140]  Is it 110% true, Joe?
+[01:19:15.239 --> 01:19:17.699]  Oh, it's clearly 100% true, and you can find all this out.
+[01:19:17.880 --> 01:19:18.800]  110%!
+[01:19:19.199 --> 01:19:19.960]  Infowars.com.
+[01:19:19.960 --> 01:19:21.960]  That means it's really only 10% true.
+[01:19:22.500 --> 01:19:24.840]  No, it means it's overabundance.
+[01:19:25.119 --> 01:19:30.000]  So much truth at the pipeline, shipping it to your brain as it keeps exploding.
+[01:19:32.739 --> 01:19:34.100]  It's an unfair factor.
+[01:19:34.760 --> 01:19:35.000]  Yeah.
+[01:19:35.130 --> 01:19:35.970]  No, you can't do that.
+[01:19:37.670 --> 01:19:40.029]  They won't even let Joe tell a joke on that show.
+[01:19:40.609 --> 01:19:40.970]  They do.
+[01:19:42.369 --> 01:19:43.569]  Let me tell the joke on it.
+[01:19:45.350 --> 01:19:47.270]  It just doesn't make it out on the airwaves.
+[01:19:47.970 --> 01:19:49.729]  That's because the government controls your show.
+[01:19:50.369 --> 01:19:51.989]  No, but look, they're phony drug war.
+[01:19:52.130 --> 01:19:53.670]  They ship it in to create the crisis.
+[01:19:53.810 --> 01:19:54.729]  Everybody's waking up to it.
+[01:19:54.949 --> 01:19:55.970]  Again, people wake up.
+[01:19:56.050 --> 01:19:57.210]  That's why they come up with new scams.
+[01:19:57.409 --> 01:20:02.569]  We just got to totally distrust these bastards, get local control, and stop being so friggin' cynical.
+[01:20:03.109 --> 01:20:04.130]  That's how we save America.
+[01:20:04.489 --> 01:20:05.149]  That's how we get it?
+[01:20:05.289 --> 01:20:06.489]  But, dude, we're never going to save it.
+[01:20:06.590 --> 01:20:13.310]  If they control CBS, NBC, Fox, and ABC, and they control all the newspapers, how can we ever do anything?
+[01:20:13.489 --> 01:20:14.109]  Lay down, GI.
+[01:20:14.289 --> 01:20:14.750]  You'll never win.
+[01:20:14.829 --> 01:20:15.369]  There's no hope.
+[01:20:15.729 --> 01:20:16.930]  Federal agent, dude.
+[01:20:17.448 --> 01:20:23.569]  How dare you call me such a No, they don't.
+[01:20:23.770 --> 01:20:24.210]  They do.
+[01:20:24.529 --> 01:20:26.270]  Now, that's a whole other shill level.
+[01:20:26.449 --> 01:20:29.770]  See, there's whole levels of propaganda and film you have to go through.
+[01:20:30.149 --> 01:20:30.550]  Really?
+[01:20:31.100 --> 01:20:32.170]  Yes.
+[01:20:40.710 --> 01:20:41.529]  Do they still talk?
+[01:20:42.149 --> 01:20:42.590]  What?
+[01:20:42.909 --> 01:20:43.670]  Do they still talk?
+[01:20:43.909 --> 01:20:45.229]  Actually, they do meet routinely.
+[01:20:45.250 --> 01:20:48.590]  They just met earlier this year over in France for the Bilderberg Conference.
+[01:20:48.829 --> 01:20:53.229]  Wait, but Queen Elizabeth made the big stink when he kissed Queen Elizabeth on the list.
+[01:20:53.229 --> 01:20:54.210]  Jews don't control the media?
+[01:20:55.579 --> 01:20:59.500]  Every Jew that I know is, like, in television, they're all really smart and rich.
+[01:20:59.720 --> 01:21:00.720]  They're not controlling the media.
+[01:21:01.140 --> 01:21:02.920]  They're, like, producing all these shows and shit.
+[01:21:03.520 --> 01:21:04.520]  That's not real.
+[01:21:04.979 --> 01:21:07.100]  I think you're managing a Jew, isn't he?
+[01:21:07.840 --> 01:21:09.680]  Like Aaron Spelling, that kind of thing?
+[01:21:10.840 --> 01:21:13.199]  I think they're all very wealthy Jewish guys.
+[01:21:13.500 --> 01:21:14.640]  They're pretty much controlling the media.
+[01:21:14.640 --> 01:21:15.240]  I don't know.
+[01:21:15.240 --> 01:21:18.510]  I looked at my Forbes 500 list of richest people and they're not...
+[01:21:18.550 --> 01:21:19.689]  Yeah, but television people.
+[01:21:21.180 --> 01:21:22.699]  Television producers are so many.
+[01:21:22.779 --> 01:21:24.779]  I know so many Jewish guys who are television producers.
+[01:21:24.960 --> 01:21:27.319]  You don't think that that's like Jews controlling the media?
+[01:21:27.460 --> 01:21:32.560]  600 years ago in England or France, they had their pogroms.
+[01:21:33.880 --> 01:21:34.319]  Pogrom.
+[01:21:34.500 --> 01:21:34.920]  Pogroms?
+[01:21:36.579 --> 01:21:37.680]  Pilgrims control the media?
+[01:21:37.680 --> 01:21:38.460]  Exactly, yeah.
+[01:21:38.699 --> 01:21:39.300]  Pilgrims do.
+[01:21:39.520 --> 01:21:40.380]  Pilgrims control the media.
+[01:21:40.399 --> 01:21:42.140]  They would have what they call purges.
+[01:21:42.359 --> 01:21:42.979]  Now we know.
+[01:21:43.039 --> 01:21:43.760]  I'm pretty impressed.
+[01:21:43.840 --> 01:21:45.159]  It's pronounced pogrom.
+[01:21:45.520 --> 01:21:46.159]  Yeah, I know.
+[01:21:46.390 --> 01:21:47.189]  Well, we're from Texas.
+[01:21:47.629 --> 01:21:50.169]  How is pussy for violence in the New World Order?
+[01:21:50.238 --> 01:21:52.700]  They would shut up Well, you want me to answer your question?
+[01:21:52.710 --> 01:21:53.109]  Okay.
+[01:21:53.109 --> 01:21:57.609]  If you really read the Scott Isn't that the ultimate form of control?
+[01:22:00.529 --> 01:22:01.470]  Go ahead.
+[01:22:02.850 --> 01:22:03.729]  No, it's alright.
+[01:22:05.050 --> 01:22:05.829]  Joe, you go ahead.
+[01:22:06.050 --> 01:22:06.869]  No, I'm done, really.
+[01:22:07.130 --> 01:22:08.550]  No, you first.
+[01:22:08.710 --> 01:22:09.510]  Come on, pussy, man.
+[01:22:09.649 --> 01:22:10.010]  What's up?
+[01:22:10.510 --> 01:22:12.329]  What's going on with pussy in the New World Order?
+[01:22:12.350 --> 01:22:12.770]  What happens?
+[01:22:13.440 --> 01:22:15.039]  Well, yeah, they sell your product.
+[01:22:15.140 --> 01:22:16.319]  Do I still get some pussy?
+[01:22:16.500 --> 01:22:17.699]  It's like Bill Hicks said.
+[01:22:19.859 --> 01:22:23.000]  The ultimate ad is just going to be a coke hand in a woman's legs that are spread.
+[01:22:23.699 --> 01:22:25.899]  But, yeah, they use sex to control you.
+[01:22:27.340 --> 01:22:29.779]  But the advertisers are controlled by the government then?
+[01:22:30.319 --> 01:22:31.460]  I'm not even going to go there.
+[01:22:32.079 --> 01:22:32.880]  Advertisers are controlled.
+[01:22:32.880 --> 01:22:34.199]  What strata of advertisers?
+[01:22:34.340 --> 01:22:36.180]  Are you talking about at your level, like with network television?
+[01:22:36.760 --> 01:22:37.359]  I don't know.
+[01:22:37.460 --> 01:22:38.199]  I don't mean any level.
+[01:22:38.260 --> 01:22:38.800]  Of course they are.
+[01:22:39.300 --> 01:22:42.380]  When I see Fortune 500, there's like 20 companies that own that.
+[01:22:43.069 --> 01:22:44.449]  Those are all the subdivisions, yeah.
+[01:22:44.890 --> 01:22:46.390]  So there's only a handful of people.
+[01:22:46.689 --> 01:22:48.409]  Dutch royal family, British royal family.
+[01:22:50.449 --> 01:22:51.630]  What about Bill Gates?
+[01:22:52.170 --> 01:22:54.710]  Low level, he's lower middle class.
+[01:22:55.789 --> 01:22:56.229]  What?
+[01:22:58.010 --> 01:22:59.810]  Isn't he the richest man in the world?
+[01:23:00.409 --> 01:23:02.970]  No, but he's a pawn.
+[01:23:03.170 --> 01:23:06.810]  They pretend he's the richest man in the world, so all the hatred is focused towards him.
+[01:23:07.210 --> 01:23:07.630]  What?
+[01:23:08.090 --> 01:23:09.710]  Well, that's what Alex is going to say.
+[01:23:10.010 --> 01:23:11.050]  It's always been done.
+[01:23:11.229 --> 01:23:11.729]  Is that true?
+[01:23:12.289 --> 01:23:13.649]  I just look at the facts.
+[01:23:14.689 --> 01:23:18.090]  Are you a federal agent controlling Alex from afar?
+[01:23:18.090 --> 01:23:19.470]  Is this like an improv troupe?
+[01:23:19.609 --> 01:23:20.170]  No, he knows.
+[01:23:20.630 --> 01:23:21.989]  He throws out a subject.
+[01:23:22.229 --> 01:23:23.010]  He lives in Austin.
+[01:23:23.170 --> 01:23:24.149]  He's a smart guy.
+[01:23:24.449 --> 01:23:27.869]  It's like you live in the pot smoking capital of Texas and that makes you smart.
+[01:23:28.390 --> 01:23:28.710]  Exactly.
+[01:23:29.630 --> 01:23:32.609]  And you don't even smoke pot.
+[01:23:32.909 --> 01:23:33.250]  I know.
+[01:23:33.350 --> 01:23:33.909]  Another sign.
+[01:23:35.630 --> 01:23:37.510]  Yeah, I'm Alex's control agent.
+[01:23:37.569 --> 01:23:40.329]  I'm starting to wonder if, yeah, you might be a control agent for the government.
+[01:23:40.510 --> 01:23:41.189]  That's why you're here.
+[01:23:41.390 --> 01:23:44.149]  Have you ever smoked pot?
+[01:23:44.630 --> 01:23:47.369]  Yeah, about a hundred times, but over 15 years.
+[01:23:47.529 --> 01:23:48.810]  Officer Johnson, that's enough.
+[01:23:48.970 --> 01:23:49.270]  Thank you.
+[01:23:49.529 --> 01:23:50.449]  Did you smoke good pot?
+[01:23:50.909 --> 01:23:51.689]  At times.
+[01:23:51.909 --> 01:23:52.710]  And you don't want any more?
+[01:23:53.260 --> 01:23:54.020]  I think it's okay.
+[01:23:54.119 --> 01:23:55.920]  It makes me so stupid that I can't understand television.
+[01:23:56.119 --> 01:23:57.199]  You just have to realize.
+[01:23:57.899 --> 01:23:59.960]  You don't know when to stop.
+[01:24:00.500 --> 01:24:03.739]  That's the biggest abuse of pot is to take too many hits.
+[01:24:03.920 --> 01:24:04.979]  What kind of pot are you smoking?
+[01:24:05.420 --> 01:24:08.939]  The fucking shit the government drops off in the ghetto to put the black man down.
+[01:24:10.439 --> 01:24:12.719]  No, they're against marijuana because that's not a bushel.
+[01:24:12.719 --> 01:24:14.959]  No, the government doesn't like marijuana because that's a crop they don't...
+[01:24:17.340 --> 01:24:19.319]  Well, that's what I said about this Taliban thing.
+[01:24:19.520 --> 01:24:21.199]  The Taliban was controlling all the opiates.
+[01:24:21.600 --> 01:24:27.539]  Something like 90% or 94% of all the fucking heroin that got shipped to the UK was controlled by the Taliban.
+[01:24:27.760 --> 01:24:30.520]  I'm like, well, then we're the biggest heroin dealers in the world.
+[01:24:30.600 --> 01:24:31.840]  Whatever happened to the Golden Tricep?
+[01:24:32.239 --> 01:24:33.340]  There's no more Taliban.
+[01:24:33.579 --> 01:24:33.899]  They're done.
+[01:24:34.039 --> 01:24:34.720]  We control Afghanistan.
+[01:24:34.880 --> 01:24:36.819]  Well, actually, the Taliban wouldn't let them plan it.
+[01:24:36.880 --> 01:24:39.100]  Now they admit in the news they're replanting and they're shipping in.
+[01:24:39.449 --> 01:24:43.069]  Yeah, but if we're in control of Afghanistan, that means we have their supply of heroin.
+[01:24:43.079 --> 01:24:45.169]  That means a lot of dudes got to be fucking chute.
+[01:24:46.609 --> 01:24:50.430]  Did the government send him over to try to work out the drug deal and it went awry?
+[01:24:50.609 --> 01:24:51.750]  Or what was the deal with that?
+[01:24:52.649 --> 01:24:53.409]  He's just some guy.
+[01:24:54.210 --> 01:24:57.970]  He said, what is the most rebellious thing I can do?
+[01:24:58.109 --> 01:24:59.649]  He was just an unfortunate mule.
+[01:24:59.890 --> 01:25:01.409]  How do I freak mommy and daddy out?
+[01:25:01.789 --> 01:25:02.430]  That's all that was?
+[01:25:02.569 --> 01:25:02.710]  Yeah.
+[01:25:04.799 --> 01:25:06.220]  John Walker Lane.
+[01:25:06.220 --> 01:25:08.699]  What was he born of?
+[01:25:09.340 --> 01:25:09.840]  California.
+[01:25:10.680 --> 01:25:13.819]  Is he religious at all?
+[01:25:13.899 --> 01:25:14.640]  Do you have any religion?
+[01:25:15.239 --> 01:25:18.800]  Well, yeah, that was the whole angle with what they were going to do with that thing.
+[01:25:19.279 --> 01:25:26.319]  He was some religious right-wing guy, but actually he really freaked out when he was 14 when his dad left his mother and moved in with a guy.
+[01:25:26.460 --> 01:25:27.720]  But isn't that what the government told you?
+[01:25:27.779 --> 01:25:30.479]  What about the shoe bomber?
+[01:25:30.619 --> 01:25:32.500]  Shoe bomber is actually a British white guy.
+[01:25:32.578 --> 01:25:34.238]  nobody touches on that also.
+[01:25:34.238 --> 01:25:57.529]  I mean, it's just the entire thing about, Terrorism Britain was the home of terrorism?
+[01:25:59.400 --> 01:26:05.340]  According to the top experts, you know, the former chairman, the administration staff, the admirals, the former CIA chiefs, I have my radio show.
+[01:26:06.119 --> 01:26:08.479]  David Shipper's the guy that impeached Bill Clinton.
+[01:26:08.538 --> 01:26:12.298]  He's come on my show and said that George Bush is behind the terror attacks and runs the whole operation.
+[01:26:12.298 --> 01:26:12.868]  Thank you.
+[01:26:12.877 --> 01:26:16.417]  Yeah.
+[01:26:16.417 --> 01:26:20.557]  Sorry.
+[01:26:20.560 --> 01:26:22.039]  We're all kind of fast-forwarding.
+[01:26:22.319 --> 01:26:23.319]  Yeah, it's all Bush.
+[01:26:23.500 --> 01:26:23.979]  Bush did all that.
+[01:26:25.060 --> 01:26:26.579]  Bush did the 9 /11 stuff?
+[01:26:26.739 --> 01:26:26.819]  Yeah.
+[01:26:26.979 --> 01:26:28.000]  The whole thing's government-engineered.
+[01:26:28.119 --> 01:26:29.100]  Yeah, really, it sounds shocking.
+[01:26:29.380 --> 01:26:30.319]  Hitler burned the Reichstag.
+[01:26:30.619 --> 01:26:30.619]  Hitler.
+[01:26:30.779 --> 01:26:31.579]  Hitler's working on control.
+[01:26:31.760 --> 01:26:32.460]  You should go down here for Hitler.
+[01:26:33.640 --> 01:26:34.000]  1933.
+[01:26:34.739 --> 01:26:38.659]  You're saying George Bush engineered the 9 /11 attack.
+[01:26:39.439 --> 01:26:40.420]  I've been all over international media.
+[01:26:40.420 --> 01:26:41.659]  He's trying to come up to speed here.
+[01:26:42.399 --> 01:26:45.119]  I've been on radio Germany, Russia, England.
+[01:26:45.449 --> 01:26:46.670]  20 times talking about it.
+[01:26:46.890 --> 01:26:47.909]  It's in all the big newspapers.
+[01:26:48.109 --> 01:26:49.029]  It's all over Canada.
+[01:26:49.289 --> 01:26:49.890]  It's proven.
+[01:26:50.050 --> 01:26:51.010]  It's absolutely factless.
+[01:26:51.189 --> 01:26:51.489]  No, it's not proven.
+[01:26:51.489 --> 01:26:52.090]  He engineered.
+[01:26:52.250 --> 01:26:53.210]  He signed the documents.
+[01:26:53.250 --> 01:26:55.949]  He trained the terrorists at Pensacola Naval Air Base.
+[01:26:56.430 --> 01:26:58.090]  Don't get this guy started!
+[01:26:59.289 --> 01:27:00.649]  He will tear you up!
+[01:27:00.770 --> 01:27:06.149]  George Bush engineered the attacks on the World Trade Center.
+[01:27:06.750 --> 01:27:08.189]  That guy says subliminal.
+[01:27:08.409 --> 01:27:09.149]  He's a front man.
+[01:27:11.860 --> 01:27:12.819]  The brand today.
+[01:27:12.960 --> 01:27:16.399]  Look, George Bush is the red coating on the Coca-Cola can.
+[01:27:16.579 --> 01:27:17.439]  He's the brand front.
+[01:27:17.680 --> 01:27:22.319]  But back at the factory, you know, the guys at the factory, you know, the new world is on top of this game.
+[01:27:22.680 --> 01:27:24.439]  That's the A-game right there, dude.
+[01:27:24.699 --> 01:27:27.779]  You got some crazy fucking Thai cheese shit going on.
+[01:27:28.159 --> 01:27:29.020]  We're talking about the factory.
+[01:27:31.659 --> 01:27:33.600]  That's what happens when he gets in a jeep rut.
+[01:27:34.619 --> 01:27:38.180]  How did George Bush engineer the attack of a factory?
+[01:27:38.399 --> 01:27:41.319]  I have my new 1 hour and 43 minute documentary.
+[01:27:44.399 --> 01:27:46.399]  I've got my 6 second documentary.
+[01:27:46.659 --> 01:27:47.619]  No, he fucking didn't.
+[01:27:48.939 --> 01:27:50.359]  How did he fucking do that?
+[01:27:52.619 --> 01:27:53.840]  He's a fucking idiot.
+[01:27:54.979 --> 01:27:56.199]  Did he use pussy?
+[01:27:56.399 --> 01:27:58.000]  You're afraid of the consequence?
+[01:27:58.180 --> 01:28:01.980]  Did you know that they allowed the Japanese to attack Pearl Harbor?
+[01:28:01.980 --> 01:28:03.780]  That's now publicly confirmed.
+[01:28:03.780 --> 01:28:04.780]  No, they admit it.
+[01:28:04.780 --> 01:28:08.079]  They did not allow the Japanese to attack Pearl Harbor.
+[01:28:08.079 --> 01:28:10.079]  They have the actual signed documents.
+[01:28:10.079 --> 01:28:11.269]  It's been declawed.
+[01:28:11.280 --> 01:28:15.199]  I got news for you!
+[01:28:15.279 --> 01:28:17.159]  The world is round!
+[01:28:17.819 --> 01:28:21.000]  You can put me in fucking prison for saying it's round!
+[01:28:21.180 --> 01:28:24.939]  But I'm telling you, buddy, one day, everybody's gonna know it's round!
+[01:28:28.810 --> 01:28:29.689]  The world is round.
+[01:28:30.289 --> 01:28:35.250]  I'm here to tell you they want to kill you and your family for putting cancer viruses in the vaccines.
+[01:28:35.609 --> 01:28:38.289]  These mothers have been every monster you can imagine.
+[01:28:38.569 --> 01:28:40.850]  And I do this because I believe in this country.
+[01:28:40.850 --> 01:28:44.409]  And I believe in humanity and our power to create something.
+[01:28:44.689 --> 01:28:45.109]  That's right.
+[01:28:45.189 --> 01:28:46.970]  And I'm fighting total dehumanization.
+[01:28:47.170 --> 01:28:49.109]  And everything I told you is deadly serious.
+[01:28:49.510 --> 01:28:50.430]  I believe that.
+[01:28:50.489 --> 01:28:52.390]  But then escape the fact that you're wrong.
+[01:28:52.529 --> 01:28:53.210]  That's the A-game.
+[01:28:53.448 --> 01:28:55.448]  That's the A game, Fox.
+[01:28:55.448 --> 01:28:57.448]  Look at that much.
+[01:28:57.448 --> 01:28:59.448]  Lucky spider right after him.
+[01:28:59.448 --> 01:29:01.448]  That's the A game, bitch.
+[01:29:01.448 --> 01:29:02.778]  Fuck with that.
+[01:29:02.789 --> 01:29:04.369]  Take that shit to the net!
+[01:29:05.149 --> 01:29:07.090]  What's the fucking camera now?
+[01:29:07.850 --> 01:29:08.689]  That's correct.
+[01:29:08.770 --> 01:29:09.770]  That's the AD, bitch.
+[01:29:10.050 --> 01:29:10.750]  They couldn't, they couldn't.
+[01:29:10.869 --> 01:29:12.310]  George Bush can't fuck with that.
+[01:29:13.189 --> 01:29:14.890]  You better hope he stays out of politics.
+[01:29:15.470 --> 01:29:16.449]  George Bush is a freak.
+[01:29:16.710 --> 01:29:19.329]  You better hope my man stays out of politics.
+[01:29:23.329 --> 01:29:25.569]  Here's an impression of Alex in politics.
+[01:29:26.789 --> 01:29:27.529]  Right there.
+[01:29:31.239 --> 01:29:34.140]  I just told you Bush funded Hitler, and then you get it like that.
+[01:29:34.739 --> 01:29:36.020]  Hitler's just a minor pop.
+[01:29:36.220 --> 01:29:39.239]  He needed to tear Europe up and tear up the existing power structures.
+[01:29:39.420 --> 01:29:40.939]  They funded him, they put him into power.
+[01:29:41.079 --> 01:29:42.840]  The chancellor dubbed him king.
+[01:29:43.789 --> 01:29:46.210]  George Bush could not have fucking done anything.
+[01:29:46.590 --> 01:29:49.670]  He was in office fucking eight fucking months.
+[01:29:49.869 --> 01:29:49.970]  Prescott Bush.
+[01:29:50.270 --> 01:29:53.069]  With eight fucking months, he was in office.
+[01:29:53.189 --> 01:29:54.909]  How could he fucking start all that shit?
+[01:29:55.609 --> 01:30:03.130]  I'll bet you $5,000 right now that the Bush family, Prescott Bush decided three times to trade with the enemy in 1943.
+[01:30:04.710 --> 01:30:06.050]  So you don't deny that.
+[01:30:06.210 --> 01:30:07.470]  I don't give a shit if they did.
+[01:30:07.810 --> 01:30:08.409]  If it's bullshit, it's bet.
+[01:30:08.409 --> 01:30:09.590]  If it's BS, bet.
+[01:30:09.819 --> 01:30:10.399]  Fine, they did.
+[01:30:10.880 --> 01:30:13.239]  They fucking laid in bed and they fucked the enemy's ass.
+[01:30:13.359 --> 01:30:13.939]  I don't give a shit.
+[01:30:14.119 --> 01:30:17.699]  I'm saying there's no way George W. Bush funded the 9 /11.
+[01:30:17.699 --> 01:30:23.319]  And you're saying they didn't know 12 days before Pearl Harbor the actual date of the attack?
+[01:30:24.939 --> 01:30:32.420]  To say George Bush was involved in 9 /11 destroys the very country that you intend to fucking work with.
+[01:30:32.420 --> 01:30:35.039]  Hey, that little rat turd George Bush hit in America.
+[01:30:35.379 --> 01:30:37.559]  That little cokehead drunk in America.
+[01:30:37.559 --> 01:30:39.569]  My forefathers are Americans.
+[01:30:48.260 --> 01:30:50.760]  Do you know what W199i is?
+[01:30:51.199 --> 01:30:52.159]  I don't give a shit.
+[01:30:52.699 --> 01:30:55.239]  I have no idea what W199i is.
+[01:30:55.300 --> 01:30:58.159]  No, do you know what W199i is?
+[01:30:58.199 --> 01:30:59.279]  That's your locker combination.
+[01:31:03.050 --> 01:31:04.130]  It's deadly serious.
+[01:31:04.250 --> 01:31:05.989]  You better know what W1999 is.
+[01:31:06.229 --> 01:31:07.189]  Okay, here we go.
+[01:31:08.970 --> 01:31:21.270]  Two months before September 11th, George Bush signed it, ordering all FBI and defense intel officers they would be arrested under national security violation if they stopped the al-Qaeda tarot rings in Chicago, Florida, New York, and New Jersey.
+[01:31:21.770 --> 01:31:23.090]  The deputy head of the FBI.
+[01:31:23.090 --> 01:31:24.050]  Why would he fucking say that?
+[01:31:24.050 --> 01:31:26.569]  Let me give you the facts and you go check it out for yourself, bud.
+[01:31:26.630 --> 01:31:27.590]  The people watching this.
+[01:31:28.210 --> 01:31:28.569]  Continuing.
+[01:31:29.850 --> 01:31:32.109]  So aware of the camera.
+[01:31:32.250 --> 01:31:33.449]  That's the beauty of it.
+[01:31:33.670 --> 01:31:34.470]  I know, isn't that correct?
+[01:31:34.550 --> 01:31:35.510]  Zoom in on the hand.
+[01:31:35.590 --> 01:31:37.010]  I think he's giving him the middle finger.
+[01:31:37.409 --> 01:31:38.149]  That's the genius.
+[01:31:38.350 --> 01:31:40.390]  This is some Krypton blood shit right here.
+[01:31:41.289 --> 01:31:42.250]  That's the A game.
+[01:31:43.270 --> 01:31:43.850]  Where'd it go?
+[01:31:43.930 --> 01:31:46.109]  No, no, but seriously, let me finish up with this information.
+[01:31:46.210 --> 01:31:47.630]  You ask the question, let me give you the answer.
+[01:31:47.770 --> 01:31:49.949]  Please, because this is going to go out to several people.
+[01:31:51.930 --> 01:31:53.670]  Dozens of people want to know what it means by W199.
+[01:31:53.670 --> 01:31:59.229]  Everything you said is very credible, and if someone's on the fence, clearly this is going to push them over.
+[01:32:00.670 --> 01:32:02.609]  They'll be fighting the New World War.
+[01:32:03.170 --> 01:32:04.649]  Don't check W199.
+[01:32:05.449 --> 01:32:12.909]  Anyways, Deputy FBI Director John O 'Neill quit, released the document, and was dead on September 11th.
+[01:32:13.130 --> 01:32:13.449]  Okay?
+[01:32:13.829 --> 01:32:17.630]  And the documents out there, I had David Shippers on, General Park, and all these people.
+[01:32:17.850 --> 01:32:19.550]  He died on September 11th?
+[01:32:19.810 --> 01:32:22.170]  Yeah, he died on the 24th floor of the World Trade Center.
+[01:32:22.789 --> 01:32:23.890]  He had just been hired.
+[01:32:23.890 --> 01:32:24.670]  He was on the trade.
+[01:32:24.770 --> 01:32:28.850]  He had just been hired by the owners of the Trade Center right after quitting.
+[01:32:29.029 --> 01:32:30.130]  He thought it was a great deal.
+[01:32:30.170 --> 01:32:31.109]  He didn't see the full scope.
+[01:32:31.350 --> 01:32:34.310]  The Rockefeller family, along with the Port Authority, owned those towers.
+[01:32:34.550 --> 01:32:37.229]  And had just transferred it two weeks before the attack, but he'd already been hired.
+[01:32:37.390 --> 01:32:38.510]  His first day on the job.
+[01:32:38.880 --> 01:32:39.619]  He was taken out.
+[01:32:39.800 --> 01:32:41.840]  He's the guy that blew the whistle preemptively.
+[01:32:41.960 --> 01:32:43.119]  It's in the New Yorker magazine.
+[01:32:43.720 --> 01:32:45.399]  Just one of the 500 publications.
+[01:32:46.199 --> 01:32:49.760]  The New Yorker magazine, January 24th issue.
+[01:32:50.000 --> 01:32:54.439]  It has a picture of the covers of the snow landscape scene.
+[01:32:54.560 --> 01:32:55.199]  That's the cover of the magazine.
+[01:32:55.380 --> 01:32:56.989]  You see it laying around it, dental office or something.
+[01:32:57.010 --> 01:32:58.440]  You know, for somebody watching this.
+[01:33:03.680 --> 01:33:08.100]  No, but the point is, this is not BS.
+[01:33:08.670 --> 01:33:09.149]  Highlights.
+[01:33:09.470 --> 01:33:10.149]  I mean, look.
+[01:33:10.689 --> 01:33:12.930]  Nero burned Rome to blame it on his political enemies.
+[01:33:13.210 --> 01:33:14.210]  Hitler with the Reichstag.
+[01:33:14.868 --> 01:33:24.810]  Roosevelt let the Japanese attack Pearl Harbor and George Bush George Bush and bin Laden own an airport right here in Houston.
+[01:33:25.099 --> 01:33:26.339]  No, they do not.
+[01:33:28.869 --> 01:33:30.050]  They do not own a boy.
+[01:33:30.210 --> 01:33:30.729]  They do not.
+[01:33:30.969 --> 01:33:32.448]  His brother owns it.
+[01:33:32.588 --> 01:33:36.028]  His fucking brother, who lives in fucking Saudi Arabia, owns it.
+[01:33:36.118 --> 01:33:37.558]  Ben Laden's brother...
+[01:33:37.960 --> 01:33:45.159]  Bin Laden's brother died in 1989 in San Antonio, Texas.
+[01:33:45.619 --> 01:33:49.960]  And that's what you heard on the local news.
+[01:33:50.100 --> 01:33:51.800]  And the two people that run that hate that shit.
+[01:33:51.880 --> 01:33:53.420]  There's two fucking people.
+[01:33:53.500 --> 01:33:56.939]  I thought you said his brother just lived in Saudi Arabia.
+[01:33:57.159 --> 01:33:58.739]  Yes, but I can tell you where his brother died.
+[01:33:59.119 --> 01:34:01.020]  The two people own the fucking airport.
+[01:34:01.260 --> 01:34:02.020]  Hate that shit.
+[01:34:02.100 --> 01:34:03.479]  Bin Laden's brother.
+[01:34:03.680 --> 01:34:05.000]  Bin Laden's brother.
+[01:34:05.210 --> 01:34:06.649]  It's not true.
+[01:34:07.010 --> 01:34:10.229]  Those two people have been getting shit for months because of this shit.
+[01:34:10.470 --> 01:34:11.069]  Oh, Bin Laden!
+[01:34:11.890 --> 01:34:13.569]  What about the Carlisle group?
+[01:34:13.729 --> 01:34:15.090]  What about the Carlisle group?
+[01:34:15.430 --> 01:34:16.510]  There's two fucking people.
+[01:34:16.510 --> 01:34:18.069]  Bin Laden also has a brother.
+[01:34:18.170 --> 01:34:20.069]  Two fucking hillbillies from Houston, Texas.
+[01:34:20.409 --> 01:34:25.829]  Bin Laden has a brother that's a student at Harvard that's never even met him.
+[01:34:26.010 --> 01:34:27.750]  He has brothers that have never met him.
+[01:34:27.899 --> 01:34:36.340]  What about the Wall Street Journal in March, before the attacks, calling on the Bushes to get out of the Carlisle Group, the biggest defense contractor in the world?
+[01:34:36.500 --> 01:34:38.800]  See, what you just, you just fucking, you're not even fucking at it.
+[01:34:38.939 --> 01:34:40.779]  The two people that own that airport.
+[01:34:40.960 --> 01:34:42.779]  The two people that own that airport.
+[01:34:43.340 --> 01:34:44.880]  I don't know what their fucking names are.
+[01:34:44.880 --> 01:34:46.380]  You see the local propaganda pieces?
+[01:34:46.680 --> 01:34:47.920]  Bushes and Whip Bin Laden?
+[01:34:48.199 --> 01:34:49.140]  It's not true!
+[01:34:49.380 --> 01:34:53.939]  Two locals, these two people have to go through the shit that this guy fucking sells.
+[01:34:53.939 --> 01:34:54.859]  You gotta get in that camera, Rob.
+[01:34:55.159 --> 01:34:56.420]  These two poor people.
+[01:34:56.569 --> 01:35:02.250]  Get shit all the time because of this guy and people like him who swing shit like this.
+[01:35:02.430 --> 01:35:03.090]  It's not true.
+[01:35:03.350 --> 01:35:04.449]  They have nothing to do with Belop.
+[01:35:04.569 --> 01:35:05.510]  They run a little piece of shit.
+[01:35:05.670 --> 01:35:06.970]  And there's not even any Jets there.
+[01:35:07.069 --> 01:35:08.250]  They run these little prop lands.
+[01:35:08.529 --> 01:35:10.130]  You can't even learn how to play in Jets.
+[01:35:10.270 --> 01:35:11.609]  I don't even know that.
+[01:35:12.310 --> 01:35:16.850]  I just now remembered this is the same guy that tried to fight Alex once before.
+[01:35:17.130 --> 01:35:17.189]  Yeah.
+[01:35:17.710 --> 01:35:18.510]  This is problem too.
+[01:35:19.670 --> 01:35:22.310]  He's been getting licked up the whole night just waiting for this moment.
+[01:35:22.569 --> 01:35:24.130]  They can't even fucking lure me in.
+[01:35:27.730 --> 01:35:36.770]  You just said, Bin Laden and Bush own a fucking airport in Houston, Texas, and it's not even a fucking airport where you can fly planes.
+[01:35:37.170 --> 01:35:39.090]  It's a fucking crop-dusting airport.
+[01:35:39.250 --> 01:35:41.430]  Sir, I just mentioned one of their thousands of interests.
+[01:35:42.829 --> 01:35:45.510]  Since you're here in Houston, I've mentioned one of the little tidbits here.
+[01:35:45.670 --> 01:35:46.829]  Yeah, but that's fucking horseshit.
+[01:35:47.270 --> 01:35:49.369]  That's part of the fallacy of the conspiracy.
+[01:35:49.369 --> 01:35:51.430]  Your information is not correct.
+[01:35:52.090 --> 01:35:54.350]  If you have five hours, I can dispute everything you just said.
+[01:35:54.970 --> 01:35:55.369]  Sir.
+[01:35:57.680 --> 01:35:59.859]  I'm telling you, this is the type of thing.
+[01:35:59.920 --> 01:36:06.460]  This is how you take little bits of fucking bullshit, grab pieces of something that might make sense somewhere, and you put it all together.
+[01:36:06.460 --> 01:36:09.319]  Why were three of the hijackers trained at the Pensacola Naval Air Base?
+[01:36:09.420 --> 01:36:11.239]  I have no fucking idea why they're.
+[01:36:11.319 --> 01:36:15.020]  They're fucking Islamic Jesus freaks, just like the cocksuckers who got wasted in Waco.
+[01:36:15.100 --> 01:36:17.520]  And if that was the government, God fucking bless you.
+[01:36:17.760 --> 01:36:19.680]  the more Jesus freaks we waste, yeah!
+[01:36:19.680 --> 01:36:25.680]  *laughs* *laughs* What Jesus freaks without us?
+[01:36:25.680 --> 01:36:27.680]  Waco!
+[01:36:27.680 --> 01:36:29.680]  Waco!
+[01:36:29.680 --> 01:36:31.400]  We were on...
+[01:36:31.409 --> 01:36:34.449]  Well, didn't they kill a bunch of little Jesus freak kids?
+[01:36:34.810 --> 01:36:38.050]  Yeah, but those fuckers would grow up to be Jesus freak fuckers.
+[01:36:38.430 --> 01:36:43.069]  You mean the Jesus freaks that helped me change my tire?
+[01:36:43.909 --> 01:36:44.489]  Yeah, whatever.
+[01:36:44.710 --> 01:36:45.250]  I don't give a shit.
+[01:36:46.170 --> 01:36:47.390]  Yes, please tell us more.
+[01:36:47.529 --> 01:36:49.510]  If you believe in God, you're a fucking idiot.
+[01:36:49.710 --> 01:36:50.409]  That's the way it goes.
+[01:36:51.170 --> 01:36:53.149]  Wow, what a sweeping generalization.
+[01:36:54.770 --> 01:36:55.689]  Thank you very much.
+[01:36:55.689 --> 01:36:56.710]  Why don't you call it me?
+[01:36:57.090 --> 01:36:58.210]  What the fuck?
+[01:36:58.400 --> 01:36:59.210]  You say me?
+[01:36:59.210 --> 01:37:01.559]  This is why we're going to...
+[01:37:04.149 --> 01:37:05.489]  You can listen to this guy for an hour.
+[01:37:05.529 --> 01:37:06.670]  Yeah, that one is yours.
+[01:37:07.130 --> 01:37:08.310]  Double plus good.
+[01:37:09.949 --> 01:37:11.029]  Double plus good.
+[01:37:11.390 --> 01:37:11.890]  I'm tired.
+[01:37:12.869 --> 01:37:14.270]  Let me ask you this.
+[01:37:14.489 --> 01:37:15.850]  Why does this buddy believe in God?
+[01:37:15.850 --> 01:37:18.029]  Comedy jam devolves into fist fight.
+[01:37:18.170 --> 01:37:19.390]  Stop, stop, stop.
+[01:37:20.239 --> 01:37:21.560]  Why does anybody believe in God?
+[01:37:21.659 --> 01:37:22.699]  Because they're afraid of death.
+[01:37:23.520 --> 01:37:24.340]  Let's ask Fred.
+[01:37:24.460 --> 01:37:24.960]  You believe in God.
+[01:37:25.000 --> 01:37:25.979]  Why do you believe in God?
+[01:37:26.420 --> 01:37:27.060]  How could I not?
+[01:37:27.579 --> 01:37:32.319]  I believe in a spiritual life force.
+[01:37:33.779 --> 01:37:39.939]  Religion is ornaments hung on a tree or whatever.
+[01:37:40.819 --> 01:37:41.960]  That's a bunch of lies.
+[01:37:43.850 --> 01:37:47.930]  to force a society to enslave people to hold them back.
+[01:37:47.939 --> 01:37:49.930]  Once you throw that off...
+[01:37:49.930 --> 01:37:51.430]  I lived a second time.
+[01:37:51.430 --> 01:37:53.289]  In almost every incident.
+[01:37:53.289 --> 01:37:55.090]  If you don't believe in something like...
+[01:37:55.090 --> 01:37:56.060]  You don't believe in yourself.
+[01:37:56.100 --> 01:37:58.959]  If you don't believe in the life force that encompasses all...
+[01:38:04.590 --> 01:38:05.590]  I'm still working on it.
+[01:38:05.649 --> 01:38:06.369]  I'm involved in it.
+[01:38:07.609 --> 01:38:08.750]  But why is it God?
+[01:38:08.989 --> 01:38:09.869]  Why is it His energy?
+[01:38:10.760 --> 01:38:12.439]  Well, why is there a difference?
+[01:38:12.840 --> 01:38:14.159]  Divisions are man-made.
+[01:38:15.000 --> 01:38:17.619]  God carries a lot of fucking baggage, dude.
+[01:38:17.800 --> 01:38:20.640]  It's a man-made baggage that's hung on.
+[01:38:22.800 --> 01:38:25.680]  Yeah, but I'm just saying, why does it have to be some sort of spiritual?
+[01:38:26.180 --> 01:38:27.279]  Why is it just energy?
+[01:38:27.460 --> 01:38:28.020]  Is that possible?
+[01:38:28.260 --> 01:38:29.060]  Sure it's possible.
+[01:38:30.699 --> 01:38:40.220]  But I think it goes both ways, because I've had experiences, and I'll listen to anything, and I want to learn more, and I'm not going to make a speaking generalization like, there's no God.
+[01:38:40.479 --> 01:38:41.840]  I can't possibly say so much.
+[01:38:42.619 --> 01:38:47.760]  If anybody asks me, I say I'm never going to be arrogant enough to think that I have any idea what the fuck's going on.
+[01:38:48.300 --> 01:38:49.020]  I'm still learning.
+[01:38:49.199 --> 01:38:50.359]  If I'm not there, I don't know.
+[01:38:51.340 --> 01:38:52.779]  I totally agree with that.
+[01:38:54.779 --> 01:38:58.600]  Allah is my co-pilot.
+[01:39:01.439 --> 01:39:02.859]  I'm not going to assume.
+[01:39:03.619 --> 01:39:05.220]  Life is not as good as pussy.
+[01:39:06.319 --> 01:39:11.500]  If you have life, regular life, whatever the energy is, it's not as good as the best sex.
+[01:39:11.739 --> 01:39:13.460]  The best sex is better than life.
+[01:39:13.920 --> 01:39:15.359]  The best sex is better than life?
+[01:39:15.460 --> 01:39:16.819]  Isn't it the best sex part of life?
+[01:39:17.640 --> 01:39:18.380]  It's not really.
+[01:39:18.560 --> 01:39:19.579]  It's an escape from life.
+[01:39:19.840 --> 01:39:22.079]  It's not really a part of life, dude.
+[01:39:22.300 --> 01:39:22.699]  It's an escape.
+[01:39:23.539 --> 01:39:26.239]  But I'm saying it's like living your life.
+[01:39:27.720 --> 01:39:32.699]  How many monks right now are in a monastery having a good time?
+[01:39:33.399 --> 01:39:35.300]  I had a good time.
+[01:39:35.520 --> 01:39:35.819]  Thanks for everything.
+[01:39:38.640 --> 01:39:39.779]  They're probably not monks.
+[01:39:40.500 --> 01:39:42.619]  My time, Chicago.
+[01:39:44.640 --> 01:39:46.479]  Rob and Alex are probably hugging right now.
+[01:39:46.800 --> 01:39:47.800]  Yeah.
+[01:39:47.800 --> 01:39:48.800]  Faking out.
+[01:39:48.800 --> 01:39:49.800]  Rubbing weenies together.
+[01:39:49.810 --> 01:39:50.800]  That's a new world order.
+[01:39:50.800 --> 01:39:51.800]  Weenie rubbers.
+[01:39:51.800 --> 01:39:53.800]  They're in co-urinals.
+[01:39:53.800 --> 01:39:54.800]  Yeah.
+[01:39:54.800 --> 01:39:56.800]  Hey, I'm glad he's straightening us out.
+[01:39:56.800 --> 01:39:57.800]  Rubbing their wings together.
+[01:39:57.800 --> 01:39:58.800]  Wait, who's straightening us?
+[01:39:58.800 --> 01:39:59.800]  Are we done?
+[01:39:59.800 --> 01:40:00.800]  Is that what you're saying?
+[01:40:01.370 --> 01:40:03.750]  See, nobody knows about this shit, dude.
+[01:40:03.949 --> 01:40:09.010]  This New World Order shit, if it's not on CBS, NBC, or ABC, or the newspapers, no one knows.
+[01:40:09.689 --> 01:40:12.649]  The people in the game on the field are waking up.
+[01:40:13.420 --> 01:40:14.020]  That's what matters.
+[01:40:14.739 --> 01:40:21.199]  We just had a crazy conversation like that with Alex and three comedians and all these people, and it was very fun.
+[01:40:24.800 --> 01:40:25.800]  Oh, oh, I'm sorry.
+[01:40:25.960 --> 01:40:32.520]  We want one order that runs the entire world, and it's like the puppet government.
+[01:40:32.680 --> 01:40:34.439]  Now let's go to that weird great restaurant again.
+[01:40:34.779 --> 01:40:35.199]  The pancakes.
+[01:40:35.640 --> 01:40:36.159]  Yeah, let's do that.
+[01:40:36.260 --> 01:40:36.619]  Bebas?
+[01:40:37.279 --> 01:40:37.680]  Yeah.
+[01:40:37.960 --> 01:40:38.220]  Bebas?
+[01:40:38.760 --> 01:40:39.319]  All right.
+[01:40:39.659 --> 01:40:40.460]  Whatever, I don't know.
+[01:40:41.220 --> 01:40:49.039]  a year ago There's my hotel around in Houston.
+[01:40:50.180 --> 01:40:51.520]  There's my view.

@@ -1,0 +1,519 @@
+# Transcription model: large-v3-turbo, custom faster_whisper
+[00:00:11.339 --> 00:00:23.039]  It's Thursday, June 5th, 2025, and I wanted to give everybody a huge inside scoop update on the incredibly historic developments that are happening.
+[00:00:24.120 --> 00:00:35.520]  And the whole global has struggled to try to maintain control of the planetary system by holding a nuclear war gun to the head of the whole planet.
+[00:00:36.000 --> 00:00:58.460]  Now, as you know, more than two weeks ago, I exclusively Told you that Trump was not being given in his daily briefings the fact that in the three weeks before, now five weeks ago, Ukraine had roughly doubled its aeronautic attacks with missiles and drones into Russia, including up to 40-plus drone attacks a day against Moscow.
+[00:00:59.619 --> 00:01:05.480]  This Walt Zelensky, who does Western media with one message, We cease fire.
+[00:01:05.640 --> 00:01:07.120]  We want peace with you.
+[00:01:07.719 --> 00:01:09.099]  Putin be meanie.
+[00:01:11.170 --> 00:01:17.969]  While intensifying attacks, and you notice it wasn't on Fox News, it wasn't on CNN, they'd be like, Zelensky wants peace, blah, blah, blah.
+[00:01:18.189 --> 00:01:20.010]  It's like, Zelensky's going to do the mineral deal.
+[00:01:20.209 --> 00:01:22.170]  Nine times he said he'd do it and backed out and finally did it.
+[00:01:22.609 --> 00:01:36.530]  So, he'll meet, remember when Trump spanked him a few months ago in the White House, which is background how he does it, he'll meet with the Democrats across the street before he goes to the White House, do a press conference and say, I'm not doing deal.
+[00:01:37.030 --> 00:01:37.469]  No.
+[00:01:37.469 --> 00:01:40.060]  When he told Trump he would, then he goes in and...
+[00:01:43.090 --> 00:01:44.790]  He'd already backed out five times then.
+[00:01:45.629 --> 00:01:47.150]  So he's totally two-faced.
+[00:01:47.709 --> 00:01:57.510]  So we just watch the Ukrainian news and see his announcements over there in Ukrainian, Russian, just the dialect of it.
+[00:01:57.689 --> 00:02:07.989]  He says all this, and then our media lies and says we have no idea, you know, why Putin's intensified attacks in response to that two weeks ago.
+[00:02:08.539 --> 00:02:11.620]  And then two weeks ago, Putin was visiting Eastern Ukraine.
+[00:02:11.840 --> 00:02:13.860]  They sent 48 drones in to try to kill him.
+[00:02:14.259 --> 00:02:20.240]  That was admitted, almost took down his helicopter, in the Ukrainian news.
+[00:02:20.319 --> 00:02:22.180]  And he's like, "We're going to kill him.
+[00:02:22.219 --> 00:02:23.340]  He won't be alive soon.
+[00:02:24.080 --> 00:02:36.439]  We launched more attacks deep inside." And then right before the big sneak attack that hit the Russian strategic bombers as far as 4,000 miles away from the border of Ukraine with Russia.
+[00:02:37.099 --> 00:02:38.199]  It has nothing to do with the war.
+[00:02:38.379 --> 00:02:39.840]  They're part of the strategic triad.
+[00:02:40.419 --> 00:02:41.560]  People are returned, just like ours.
+[00:02:42.960 --> 00:02:53.180]  He was with the German Chancellor and all of them saying, "Germany has lifted the control of long-range missiles and other.
+[00:02:53.259 --> 00:02:58.599]  They give it to me." And the Chancellor and all of them said, "Yeah, we've lifted it." And the White House has agreed.
+[00:02:59.219 --> 00:03:11.250]  Well, the next day the White House said, "No, we haven't." So I was seeing all that saying, "Well, clearly they're running their double track over there, just like with Trump." First got in and said, pull our 10,000 troops out of Syria eight years ago.
+[00:03:11.469 --> 00:03:13.270]  And for two years, the Pentagon had been secretly.
+[00:03:13.430 --> 00:03:13.770]  They were still there.
+[00:03:13.930 --> 00:03:14.530]  That's all on record.
+[00:03:14.810 --> 00:03:19.169]  He's got a commission being set up to investigate court-martials of the Joint Chiefs and people that did that.
+[00:03:19.310 --> 00:03:25.030]  So when I tell you I know that Trump's not being given the information, there's a long history of this.
+[00:03:25.229 --> 00:03:29.710]  And I was involved giving him a lot of information in his first administration directly, still do some.
+[00:03:30.270 --> 00:03:32.389]  And it became a big scandal.
+[00:03:32.689 --> 00:03:35.990]  The new White House Chief of Staff's job is to keep Trump away from Alex Young's informer.
+[00:03:36.639 --> 00:03:41.259]  I didn't just come on air before I gave you the new information and say that two weeks ago.
+[00:03:42.439 --> 00:03:44.500]  I have sources as well as I can see what's going on.
+[00:03:45.020 --> 00:03:46.060]  That's how I broke it.
+[00:03:46.719 --> 00:03:51.680]  Now, since then, in the last four or five days, the White House admits that Trump wasn't told.
+[00:03:52.939 --> 00:03:56.000]  Trump has said he wasn't told about the assassination of Putin with the drones.
+[00:03:56.379 --> 00:03:57.439]  He wasn't told.
+[00:03:57.819 --> 00:04:04.020]  They claim the CIA wasn't told about Operation Spiderweb, the attacks Sunday all over Russia.
+[00:04:04.830 --> 00:04:06.409]  With the drones that we're stuck in.
+[00:04:06.689 --> 00:04:08.669]  So that is a giant scandal.
+[00:04:08.909 --> 00:04:10.849]  We have a rogue government system.
+[00:04:11.990 --> 00:04:30.529]  And then we have this whole Lindsey Graham, Senator Blumenthal, Mike Pompeo, the former head of the CIA, that Trump's pulled a security clearance because he operates and tries to run his own shadow government, over there in the days before and during the new attacks on Russia to derail the peace process.
+[00:04:31.280 --> 00:04:32.740]  So now, here's the new news.
+[00:04:32.819 --> 00:04:33.699]  Of course, I was right.
+[00:04:33.860 --> 00:04:34.300]  It's all confirmed.
+[00:04:35.540 --> 00:04:36.920]  That's ridiculous, Alex.
+[00:04:37.100 --> 00:04:39.740]  The president's got the best intel in the world.
+[00:04:40.120 --> 00:04:41.620]  You don't know, Q says.
+[00:04:43.100 --> 00:04:45.939]  The whole system's about keeping presidents in the dark.
+[00:04:46.819 --> 00:04:49.560]  That's what we're doing is decompartmentalizing that, okay?
+[00:04:51.019 --> 00:04:54.060]  I was the guy that first told Trump about Crossfire Hurricane in 2017.
+[00:04:54.480 --> 00:04:55.600]  New York Times, look it up.
+[00:04:56.819 --> 00:05:00.500]  So, now Zelensky yesterday comes out.
+[00:05:01.389 --> 00:05:03.269]  And I'll post a video once this isn't live.
+[00:05:03.810 --> 00:05:04.829]  Under it, there's a response.
+[00:05:05.629 --> 00:05:07.250]  He says, we want ceasefire.
+[00:05:07.389 --> 00:05:08.209]  We're not attacking.
+[00:05:08.810 --> 00:05:11.449]  Oh, don't, you don't attack us now.
+[00:05:11.689 --> 00:05:23.069]  And our media's like, God, is Putin going to strike them for no reason when it's going to be a retaliation that Putin told Trump yesterday he's obviously got to do soon for the massive unprecedented attack inside Ukraine.
+[00:05:23.069 --> 00:05:28.889]  It was clearly NATO-backed in an organization called the Northern Group that was set up six months ago, admittedly.
+[00:05:29.279 --> 00:05:31.180]  To try to run NATO without the United States.
+[00:05:31.379 --> 00:05:33.360]  We know the names, the groups, the coalition, the willing.
+[00:05:34.480 --> 00:05:36.519]  Starmer, Macron, MERS, all of them.
+[00:05:37.399 --> 00:05:41.399]  You know, the same guys caught on the train with the cocaine a few weeks ago.
+[00:05:42.319 --> 00:05:45.019]  So, this is a giant scandal.
+[00:05:45.579 --> 00:05:55.540]  And you've got all these different federal laws that Pompeo and others, who's even had a security clearance pulled, are over there trying to do their own shadow diplomacy.
+[00:05:55.860 --> 00:05:58.560]  The Democrats have formed a group called the shadow government.
+[00:05:59.680 --> 00:06:01.259]  That is heavily involved.
+[00:06:01.379 --> 00:06:02.860]  Just type in Democrats, form a shadow of government.
+[00:06:03.379 --> 00:06:04.360]  In keeping the war going.
+[00:06:04.540 --> 00:06:05.660]  And they've said we're going to keep it going.
+[00:06:06.079 --> 00:06:12.000]  And when Biden was leaving, Secretary of State Blinken said, we're getting all the money out the door we can to Ukraine before.
+[00:06:12.839 --> 00:06:15.980]  Out of the Department of Energy, you name it, just hundreds of billions of dollars.
+[00:06:16.199 --> 00:06:17.139]  USA, you name it.
+[00:06:17.920 --> 00:06:19.060]  EPA money, all of it.
+[00:06:20.240 --> 00:06:21.920]  Just into private bank accounts, hundreds of billions.
+[00:06:22.300 --> 00:06:24.680]  So, we know all the pieces to this.
+[00:06:24.779 --> 00:06:26.259]  Not going for hours, but just all the pieces.
+[00:06:26.959 --> 00:06:28.680]  But, here's what Zelensky's doing.
+[00:06:29.019 --> 00:06:33.879]  They're setting it up so when Russia strikes back, the media will and is already setting it up.
+[00:06:34.860 --> 00:06:37.600]  We don't know why Putin's done this to wreck the peace process.
+[00:06:37.879 --> 00:06:41.939]  So Putin came out yesterday and said, after he talked to Trump, "Look, I'm going to have to strike back.
+[00:06:42.240 --> 00:06:43.639]  There is no peace process.
+[00:06:44.379 --> 00:06:45.839]  Ukraine and NATO aren't serious.
+[00:06:46.019 --> 00:06:48.000]  They're ignoring what Trump and the U.S. are saying.
+[00:06:48.259 --> 00:06:50.120]  And that's up to the U.S. to make their own decisions.
+[00:06:50.439 --> 00:06:58.000]  But we're going to intensify our operations now and expand our buffer zone." And the word is, I got from high-level Russians.
+[00:06:58.480 --> 00:07:09.699]  Uh, openly on my show, uh, just a few days ago, Victor Boot, that, and it continues, they're, they don't want Ukraine.
+[00:07:10.939 --> 00:07:12.939]  You know, it's always part of Russia, the Lenin gave it away.
+[00:07:13.339 --> 00:07:18.540]  They're gonna go in, out of Belarus, and they're massing troops to the east of that with Russia.
+[00:07:18.800 --> 00:07:26.980]  They're gonna attack, a pincer attack, well, triple attack from the south, and from the east, out of Russia, into Kharkiv.
+[00:07:27.290 --> 00:07:29.850]  And then into Kiev from the north.
+[00:07:30.910 --> 00:07:40.089]  They're going to encircle Kiev and then they're going to give people, the civilians, a few weeks to get out and then they're going to flatten it.
+[00:07:42.050 --> 00:07:54.569]  And NATO thinks that's going to be such a big bloody thing in the news that somehow everybody's going to support NATO and Article 5 going directly to war with Russia, which is totally insane.
+[00:07:55.280 --> 00:07:57.579]  So, NATO started this 15 years ago.
+[00:07:57.759 --> 00:07:58.319]  It's on record.
+[00:07:59.259 --> 00:08:00.399]  I'm not saying Russia's perfect.
+[00:08:00.699 --> 00:08:08.620]  I told the Russians publicly and on their state-run TV when I went on there, I said, do not go in in January and February of 2022.
+[00:08:09.000 --> 00:08:10.379]  They're like, we're not going in.
+[00:08:10.639 --> 00:08:11.519]  I'm like, yeah, you are.
+[00:08:12.319 --> 00:08:13.300]  I said, don't do it.
+[00:08:13.379 --> 00:08:14.220]  You're going to do a NATO trial.
+[00:08:15.500 --> 00:08:19.199]  But their issue is, they don't care.
+[00:08:19.600 --> 00:08:20.759]  This isn't our turn, is it?
+[00:08:22.500 --> 00:08:23.399]  They don't care.
+[00:08:24.699 --> 00:08:38.720]  Because they understand that, and they understand they've already been encircled by NATO, and that very fast missiles that can be nuclear-tipped have been brought up all around their border.
+[00:08:39.980 --> 00:08:52.460]  And that's, again, part of taking out the strategic triad, is that those to be launched nuclear-tipped in just a few minutes hit most Russian missile fields and mobile missile launchers.
+[00:08:53.960 --> 00:08:57.960]  Which they try to move around, but the U.S. has some satellites that are so good, they know where they are.
+[00:08:59.419 --> 00:09:14.600]  And so, this is NATO then hitting their other part of their triad, their nuke bombers all over the country, and reportedly taking out upwards of 40% of them.
+[00:09:14.779 --> 00:09:16.019]  That's what NATO says.
+[00:09:16.080 --> 00:09:20.279]  I don't know if that's true, but they definitely cut a lot of the Tupelov bear bombers.
+[00:09:21.110 --> 00:09:28.230]  And so then you've got the other part of the triad, the nuclear submarines, that you know are sitting there on the bottom right now, waiting to surface.
+[00:09:29.210 --> 00:09:34.250]  And Putin said last week, yeah, we've gone ahead and targeted all the Western capitals.
+[00:09:34.809 --> 00:09:37.049]  Because normally they have to wait for the order to target.
+[00:09:37.470 --> 00:09:38.509]  They already have the targets in.
+[00:09:38.669 --> 00:09:39.990]  They have to wait for the order to target.
+[00:09:40.250 --> 00:09:42.529]  Then it's all targeted, and then they get the order to launch.
+[00:09:42.590 --> 00:09:44.009]  So they've taken the safety off.
+[00:09:44.289 --> 00:09:45.230]  They said safety off.
+[00:09:45.690 --> 00:09:48.250]  Trump should raise the DEFCON to the next highest level.
+[00:09:48.629 --> 00:09:50.409]  Just let everybody know how serious this is.
+[00:09:50.830 --> 00:09:53.970]  Because the globalists want to sleepwalk us into all of this.
+[00:09:54.889 --> 00:10:00.909]  And General Flynn agrees with me, former National Security Advisor, Trump needs to cut all funding to NATO now.
+[00:10:01.529 --> 00:10:04.970]  He needs to cut all intelligence and funding Ukraine, which he already cut most of.
+[00:10:06.470 --> 00:10:13.889]  And then he needs to say, we're leaving NATO so that we're not in this war, so that we don't get targeted if this goes to nuclear war.
+[00:10:14.389 --> 00:10:18.909]  So, I know the old beefs of the Ukrainians and Russians go back over 500 years.
+[00:10:19.370 --> 00:10:21.590]  I know the culture I don't have in World War II.
+[00:10:21.690 --> 00:10:22.529]  I understand all that.
+[00:10:22.970 --> 00:10:25.009]  I know from both sides, they've both got issues.
+[00:10:25.309 --> 00:10:48.470]  The point is, Soros, NATO, Victoria Newland, the globalists, admittedly, for decades, Mr. Brzezinski had this plan, and they believe Russia will blink, and they can have a 20- and 30-year conventional war that will finally bankrupt Russia, and that's their official business plan, and they think Russia won't go to nukes, but there's a deeper group of globalists that want to go ahead and just have a nuclear war.
+[00:10:48.919 --> 00:10:53.019]  Because they know humanity's broken away from them, and on the trajectory we're on, they'll never maintain control.
+[00:10:53.480 --> 00:10:58.200]  So the analogy, Skynet wants to get rid of the humans, so it attacks everybody.
+[00:10:59.639 --> 00:11:02.980]  And, well, it attacks Russia, so Russia thinks we've attacked it.
+[00:11:03.559 --> 00:11:05.419]  It knocks out most of the humans that way.
+[00:11:05.600 --> 00:11:07.600]  Well, the globalists think like that, the transhumanists.
+[00:11:07.759 --> 00:11:10.299]  They've got all their underground bases and stuff, and they want to reemerge from that.
+[00:11:11.139 --> 00:11:13.279]  So, this is really serious.
+[00:11:13.580 --> 00:11:17.419]  And it's very important to decompartmentalize all this, understand this.
+[00:11:17.909 --> 00:11:28.950]  So, I'm on record breaking it first, as usual, and I understand what's happening, and I'm trying to get other people to understand this.
+[00:11:29.529 --> 00:11:31.750]  And the public can get up to speed on this.
+[00:11:32.309 --> 00:11:32.789]  Alright?
+[00:11:32.929 --> 00:11:42.929]  The average man was an expert on football, or whatever, was an expert on geopolitics, and weapons, and nuclear doctrine, and economics, and energy policies, and social policies.
+[00:11:42.950 --> 00:11:44.110]  We wouldn't be in this situation.
+[00:11:44.710 --> 00:11:45.190]  Alright?
+[00:11:45.870 --> 00:11:47.070]  And it's very interesting.
+[00:11:48.259 --> 00:11:51.639]  It's the real-world adventure.
+[00:11:51.940 --> 00:11:54.019]  It's the real-world Game of Thrones.
+[00:11:54.879 --> 00:11:59.320]  And the more pieces you get, the more you understand.
+[00:12:00.340 --> 00:12:04.830]  And even most government experts are specialists in one area.
+[00:12:04.840 --> 00:12:09.300]  And they talk to all the experts in these globalist committees and they come up with their ideas.
+[00:12:09.300 --> 00:12:13.278]  What we need is wide spectrum analysis and understanding.
+[00:12:13.278 --> 00:12:17.179]  And that's why it's come out of the Rockefeller Foundation and other documents that they particularly...
+[00:12:21.629 --> 00:12:23.350]  That's not about, oh, I'm enemy number one, aren't cool.
+[00:12:23.470 --> 00:12:24.190]  It's like, why am I?
+[00:12:24.830 --> 00:12:32.870]  Because I've got general knowledge about all the major pieces, and they can integrate it in to understand their larger plans.
+[00:12:33.110 --> 00:12:39.309]  And nine times out of ten, I'll lay out their plans, and years later, documents come out, and it's word for word, because I've already reverse-engineered it all, okay?
+[00:12:41.370 --> 00:12:44.730]  So, this is all out in the open now.
+[00:12:45.349 --> 00:12:49.250]  And Trump came out yesterday and said, I did not know that Ukraine was going to do this.
+[00:12:49.350 --> 00:12:49.830]  That means NATO.
+[00:12:50.330 --> 00:12:53.090]  The latest big attacks, Operation Spiderweb.
+[00:12:53.789 --> 00:12:56.049]  And he understands that Putin, you know, is going to attack him.
+[00:12:56.450 --> 00:12:57.330]  That's what it is.
+[00:12:58.129 --> 00:13:13.789]  And so that's a huge slap to Zelensky and Pompeo and the neocons and Lindsey Graham that are absolutely in charge of all this through the northern group that is NATO in the NATO systems and U.S. intelligence.
+[00:13:14.240 --> 00:13:19.940]  But openly operating as their own mutinous body that they call the Coalition of the Willing.
+[00:13:20.100 --> 00:13:25.220]  The technical name is the Northern Group Agreement of, what, five, six months ago.
+[00:13:25.679 --> 00:13:27.419]  And all those big meetings they've had.
+[00:13:27.580 --> 00:13:29.899]  And they said, we're going to use terrorism against Russia.
+[00:13:30.440 --> 00:13:39.120]  And I had Jack Masoba going two years ago, over and over again, saying, next, when Ukraine openly loses the war, they're going to go to terrorism.
+[00:13:39.798 --> 00:13:41.519]  And that's what this is.
+[00:13:41.519 --> 00:13:44.078]  You're trying to blow up their...
+[00:13:52.399 --> 00:13:58.740]  Don't strike me, I did nothing to you!" And so, that's all being said.
+[00:13:58.840 --> 00:14:01.639]  But now, Trump understands this.
+[00:14:01.820 --> 00:14:02.919]  Now it's a big scandal.
+[00:14:03.200 --> 00:14:14.429]  Now it's confirmed that there, "Sir, Zelensky has stopped attacks in Russia, and we've asked Putin to." And then they increase the attacks.
+[00:14:15.429 --> 00:14:31.610]  So, I don't know what Putin's going to do, but so far they've not been blasting the Ukrainian capital government buildings, their legislative building, their presidential palace.
+[00:14:35.649 --> 00:14:41.149]  Very good chance that those are going to get blown to bits.
+[00:14:42.059 --> 00:14:43.980]  They're going to continue to hit military targets.
+[00:14:44.840 --> 00:14:54.620]  The Ukrainians stick their missiles and stuff in the middle of apartment complexes and things, just like the Islamists do in hospitals, so they can do that.
+[00:14:55.240 --> 00:14:57.899]  They just appeal to, you know, emotion constantly.
+[00:14:58.080 --> 00:15:01.080]  But the bottom line is NATO expanded up to Russia's borders.
+[00:15:01.259 --> 00:15:01.919]  That's all on record.
+[00:15:03.000 --> 00:15:04.279]  Broke the deals they had.
+[00:15:05.360 --> 00:15:09.559]  And the EU is more communist, more anti-human.
+[00:15:10.769 --> 00:15:16.029]  More tyrannical in their goals than the old Soviet Union was.
+[00:15:17.190 --> 00:15:20.950]  So you have to understand, China is an evil, anti-human, transhumanist cult.
+[00:15:21.169 --> 00:15:22.710]  It's broken away from the globalist cult.
+[00:15:23.250 --> 00:15:26.169]  The globalist cult still has ties to China.
+[00:15:26.730 --> 00:15:28.909]  You've got the EU and China getting together.
+[00:15:29.129 --> 00:15:31.809]  You've got the UK acting like it's with us, but it really isn't.
+[00:15:32.129 --> 00:15:36.370]  So there's a whole flux in the global power structure right now.
+[00:15:39.420 --> 00:15:44.659]  Trump is getting our own alliance of countries in these trade deals with us that are really political, cultural deals.
+[00:15:46.120 --> 00:15:49.799]  And people want the good America to be back.
+[00:15:49.960 --> 00:15:50.679]  That is the future.
+[00:15:50.940 --> 00:15:52.179]  They want to go back to the future.
+[00:15:53.100 --> 00:15:54.399]  And back to the Renaissance.
+[00:15:54.759 --> 00:16:17.679]  And back to an open, free, powerful, dynamic, laissez-faire, expansionist, trailblazing, pioneer, not piratical, So instead of having a conquest system, having a renaissance system, the answer to the Great Reset is the Great Awakening that I predicted.
+[00:16:18.379 --> 00:16:25.639]  Told you it was coming and wrote about selling a book three years ago on, of course, decades before that, because I believe people want freedom.
+[00:16:26.320 --> 00:16:29.019]  And I think the average person is like me, which they are.
+[00:16:29.360 --> 00:16:31.559]  So it's not that I think that, it's now been proven.
+[00:16:31.740 --> 00:16:32.200]  I was right.
+[00:16:32.720 --> 00:16:34.100]  So I'm betting on humanity.
+[00:16:34.259 --> 00:16:35.399]  I know good exists in the world.
+[00:16:35.519 --> 00:16:37.639]  Remember the devil's biggest trick in my view is not.
+[00:16:38.120 --> 00:16:39.940]  Convincing the world that good doesn't exist is the second biggest trick.
+[00:16:40.460 --> 00:16:48.820]  The first biggest trick, number one trick, is convincing the world that good doesn't exist and that you don't have power and that you can't exercise it.
+[00:16:49.179 --> 00:16:51.340]  So that's where we are.
+[00:16:52.559 --> 00:17:06.339]  And it is just outrageous because you've still got a lot of geopolitical, military illiteracy just to the general public.
+[00:17:08.240 --> 00:17:10.380]  You know, they think the military is like movies and stuff.
+[00:17:10.500 --> 00:17:11.779]  That's not what it is.
+[00:17:12.519 --> 00:17:17.400]  Boots on the ground is just a component of war.
+[00:17:17.900 --> 00:17:22.619]  I mean, it's like a very limited role.
+[00:17:23.839 --> 00:17:32.180]  Most of it is informational, energy, psychological, and relationships and ideas.
+[00:17:32.799 --> 00:17:33.980]  That's the real battlefield.
+[00:17:34.200 --> 00:17:35.579]  You know, that's why they say the pin, spire, and the sword.
+[00:17:37.230 --> 00:17:39.170]  That's why we have the First Amendment first, then the Second Amendment.
+[00:17:39.410 --> 00:17:46.809]  First comes ideas and speech and the right to assemble and press and religion that Congress has no jurisdiction over.
+[00:17:48.089 --> 00:17:52.170]  And then it's the self-defense, which I agree with.
+[00:17:53.750 --> 00:17:55.730]  And that's where we are.
+[00:17:56.849 --> 00:17:59.950]  So this is very serious.
+[00:18:00.130 --> 00:18:05.390]  The left loves to jump on the new thing, the COVID, the masks, the lockdowns, the Black Lives Matter.
+[00:18:06.210 --> 00:18:08.470]  Transgender, whatever the new thing is.
+[00:18:09.410 --> 00:18:14.009]  Oh, ISIS tried to, you know, say, kidnap kids in Minnesota.
+[00:18:14.289 --> 00:18:15.650]  People come out and attack them in the streets.
+[00:18:16.450 --> 00:18:18.809]  You know, they'll defeat anything as federal judge.
+[00:18:19.730 --> 00:18:25.890]  Just said, oh, you know, the guy that flamethrowed people in Boulder, well, he's illegal aliens of his family, well, you can't deport them.
+[00:18:26.309 --> 00:18:30.910]  I mean, it's just literally supporting anybody that wants to attack this country.
+[00:18:34.059 --> 00:18:35.759]  It just shows who these people are.
+[00:18:36.660 --> 00:18:39.819]  And so whatever the newest thing is, they're going to jump on.
+[00:18:40.460 --> 00:18:41.119]  They're going to support.
+[00:18:41.299 --> 00:18:43.680]  Well, Ukraine is the most corrupt country in the world.
+[00:18:44.019 --> 00:18:51.259]  Human trafficking, sex slavery, pedophilia, organ harvesting, massive hundreds of billions stolen.
+[00:18:54.279 --> 00:18:58.759]  And it's just a giant black hole.
+[00:18:59.700 --> 00:19:03.319]  And then you've got the corrupt shadow government that we know has stolen trillions.
+[00:19:03.829 --> 00:19:15.089]  And their top agents, and we always list them, Lindsey Graham, Blumenthal, Pompeo, and they just do whatever they want.
+[00:19:15.750 --> 00:19:17.190]  They just run around and do whatever they want.
+[00:19:18.109 --> 00:19:20.309]  And they want to get us into a nuclear war.
+[00:19:21.130 --> 00:19:22.150]  And they're psychotic.
+[00:19:22.609 --> 00:19:23.509]  And they're delusional.
+[00:19:23.990 --> 00:19:26.369]  And they've been wrong about everything they've tried to do.
+[00:19:26.450 --> 00:19:27.869]  Their whole system's falling apart.
+[00:19:28.049 --> 00:19:29.890]  And China double-crossed them 15 years ago.
+[00:19:29.990 --> 00:19:30.630]  They're losers.
+[00:19:32.309 --> 00:19:34.390]  Pompeo's so delusional he thought he could run for president.
+[00:19:36.289 --> 00:19:39.269]  He doesn't have a 1% approval rating.
+[00:19:40.630 --> 00:19:44.650]  And so Trump did the right thing stripping his national security clearance.
+[00:19:45.569 --> 00:19:48.250]  But he needs to understand that this is mutinous garbage.
+[00:19:49.009 --> 00:19:51.470]  And so we elected the president to stop World War III.
+[00:19:52.190 --> 00:20:08.299]  Now these unelected people are going around with all the shadow government money that's been put in there and operating their own parallel system with their NATO's stay-behind networks, that even though Trump's changed the policies, they've got Operation Gladio-style, everything I say is a key word,
+[00:20:08.400 --> 00:20:27.140]  look it up, Operation Gladio-style stay-behind networks, where even if the U.S. pulls out of NATO, all these money and weapons has been cashed there, just like Obama put a bunch of his people in with a bunch of money with the Countering Foreign Information Propaganda Act to start the surveillance and persecution and lawfare against Trump and his supporters.
+[00:20:27.849 --> 00:20:29.849]  Still being run by the CIA.
+[00:20:30.910 --> 00:20:36.390]  Still being run by its cutout groups in the Justice Department against me.
+[00:20:36.829 --> 00:20:37.630]  It's all come out.
+[00:20:38.529 --> 00:20:42.650]  And now that the CIA didn't fire anybody like Trump ordered them to do.
+[00:20:42.970 --> 00:20:47.009]  So it's all just business as usual, and they're trying to get us all killed.
+[00:20:47.990 --> 00:20:51.410]  And that's the reality of these people.
+[00:20:52.250 --> 00:20:54.589]  And they're just the scum of the earth.
+[00:20:55.369 --> 00:20:56.609]  The world's waking up to them.
+[00:20:56.750 --> 00:21:05.269]  You know, it's like Bono went on Rogan last week and said, "Oh yeah, 300,000 people starve because Elon cut the USA." That means Agency for International Development.
+[00:21:05.670 --> 00:21:07.190]  Not even 1% of what they do is food.
+[00:21:07.410 --> 00:21:08.089]  That's for PR.
+[00:21:09.049 --> 00:21:10.730]  It's a CIA front grip on record.
+[00:21:12.069 --> 00:21:20.750]  And I had to correct myself when I said Bono's One Foundation steals 98.8% of the money, which is true.
+[00:21:20.970 --> 00:21:23.289]  That's what he gives in charity when he does these fundraisers mainly for Africa.
+[00:21:23.549 --> 00:21:25.329]  Puts up black starving kids and says, give me money.
+[00:21:25.490 --> 00:21:27.609]  He's a front guy for the W.E.F.
+[00:21:27.630 --> 00:21:30.109]  on record in the U.N. It's worse than that.
+[00:21:30.670 --> 00:21:32.609]  Mike Benz dug up articles from a decade ago.
+[00:21:32.750 --> 00:21:33.569]  I forgot about this.
+[00:21:34.170 --> 00:21:35.410]  I did a report on it last night.
+[00:21:35.750 --> 00:21:37.089]  It's on X for Los Jones.
+[00:21:38.769 --> 00:21:47.750]  Where $100 million was given by his foundation that went through USAID and all that.
+[00:21:48.470 --> 00:21:52.180]  and they give it to a private group so there's no oversight, and then...
+[00:22:02.289 --> 00:22:05.549]  Then later they show you more starving dead kids and go give us more money.
+[00:22:06.130 --> 00:22:12.289]  Just like when the UN and the IMF World Bank had three years of lockdowns in the Third World, caused mass starvation, death, 6 million, sex, or died.
+[00:22:12.630 --> 00:22:16.750]  The UN UNICEF goes, give us money, COVID's causing tens of millions to starve.
+[00:22:17.089 --> 00:22:19.910]  No, the lockdowns, not letting them run their farms.
+[00:22:20.410 --> 00:22:23.390]  In Latin America, Africa, areas, and Asia did that, on record.
+[00:22:23.809 --> 00:22:26.750]  But the UN going around saying, get rid of farms, they have too much carbon.
+[00:22:27.450 --> 00:22:28.990]  You've got to cut the farms, people will starve.
+[00:22:29.150 --> 00:22:29.589]  John Kerry.
+[00:22:30.390 --> 00:22:33.589]  So, it's always worse than I say.
+[00:22:34.630 --> 00:22:35.029]  Okay?
+[00:22:36.029 --> 00:22:39.250]  And Bono is literally, oh God, it's a rock star.
+[00:22:39.529 --> 00:22:43.609]  And the guy is a soulless front man of these foundations.
+[00:22:44.349 --> 00:22:46.349]  Klaus Schwab and Tony Blair and all of them.
+[00:22:47.069 --> 00:22:49.410]  They just run around promoting incessant evil.
+[00:22:51.079 --> 00:22:52.779]  And they start all these illegal wars.
+[00:22:54.200 --> 00:22:58.980]  Well, now they're not just, you know, killing a bunch of innocent people in places like Iraq.
+[00:23:01.140 --> 00:23:02.960]  Now they want to go to war with Russia.
+[00:23:03.819 --> 00:23:05.059]  But they got us into one.
+[00:23:06.660 --> 00:23:08.339]  And so that's what Zelensky's doing.
+[00:23:08.839 --> 00:23:09.960]  And that's the reality.
+[00:23:10.900 --> 00:23:19.759]  And so they want to play this game because they escalate and try to stop a peace deal, NATO, and thought they could keep Trump in the dark.
+[00:23:20.559 --> 00:23:22.980]  Now Putin calls up and says, okay, you know they've been bombing us a bunch, alright?
+[00:23:23.359 --> 00:23:24.400]  Okay, I'm gonna bomb them back now.
+[00:23:24.559 --> 00:23:25.319]  Okay, Trump says, I understand.
+[00:23:26.099 --> 00:23:29.680]  And Trump said, well, there won't be any peace anytime soon, because Lenzi's not gonna do it.
+[00:23:31.420 --> 00:23:32.880]  So, here's the final point.
+[00:23:33.119 --> 00:23:36.319]  Trump must announce a deadline of a month.
+[00:23:39.200 --> 00:23:41.180]  Liberation Day from the tyrannical EU.
+[00:23:41.440 --> 00:23:45.519]  He's been exposing them, their corruption, their evil, their censorship, their attacks on America.
+[00:23:48.379 --> 00:23:49.940]  Controlling a speech as communist China.
+[00:23:51.000 --> 00:23:56.160]  He said, "You got one month and we're going to pull out of NATO.
+[00:23:57.079 --> 00:24:06.440]  If you don't, stop doing this." And they will come to heal.
+[00:24:07.500 --> 00:24:10.799]  And then Trump knows you got to have defenses, peace and strength.
+[00:24:11.640 --> 00:24:13.319]  He increases the fixed spending.
+[00:24:13.759 --> 00:24:15.380]  He's getting Europe to increase the fixed spending.
+[00:24:15.599 --> 00:24:16.640]  They've all got nukes.
+[00:24:16.680 --> 00:24:17.880]  Russia isn't going to go into Europe.
+[00:24:18.240 --> 00:24:25.200]  It's been Europe expanding around them on record and saying the head of the EU is we're going to break up Russia into five parts.
+[00:24:25.799 --> 00:24:35.599]  And I'm playing a guy here, a clip of a guy I debated yesterday about this, a war correspondent from Australia, pro-Ukraine war, pro-Ukrainian, pro-Dato.
+[00:24:36.119 --> 00:24:38.400]  He's like, well, I don't want to discuss that.
+[00:24:38.579 --> 00:24:39.619]  I don't want to talk about that.
+[00:24:40.240 --> 00:24:43.579]  So this is a globalist war.
+[00:24:44.140 --> 00:24:45.559]  We shouldn't be part of it.
+[00:24:46.259 --> 00:24:47.599]  They want to have their nuclear war.
+[00:24:48.359 --> 00:24:49.740]  Let them limit it to themselves.
+[00:24:50.779 --> 00:24:54.819]  Most war games, even if they have one in Europe with Russia, India and Pakistan are going to go at it.
+[00:24:55.700 --> 00:24:56.579]  China's going to come in.
+[00:24:56.720 --> 00:25:00.299]  I mean, 90% chance of war goes to a full one, even if we try to stay on it.
+[00:25:01.259 --> 00:25:06.019]  Of course, you know NATO said a nuke, obviously Russia did it, which is another big false flag problem I didn't predict.
+[00:25:08.799 --> 00:25:10.940]  And people go, oh, the Russians are saying that too.
+[00:25:11.059 --> 00:25:12.700]  Well, I said it first.
+[00:25:13.240 --> 00:25:14.200]  Let's get one thing straight.
+[00:25:14.559 --> 00:25:19.019]  Ninety-nine percent of the time, I break the stuff before.
+[00:25:19.460 --> 00:25:27.960]  And that's why, quite frankly, it's a fact, the Russians sit there with their mouths hanging on them, not knowing how I know all their moves, and how I know the other guy's moves.
+[00:25:28.019 --> 00:25:28.660]  Well, this is what I do.
+[00:25:29.440 --> 00:25:31.660]  I get my heads in the game for 30-plus years.
+[00:25:32.339 --> 00:25:32.880]  All right?
+[00:25:33.319 --> 00:25:39.200]  And that's why when the CIA and the Justice Department sued me through the front groups, through Senator Blumenthal.
+[00:25:41.139 --> 00:25:43.299]  Every time their depositions are like, where's the money?
+[00:25:43.420 --> 00:25:44.180]  Who's funding you?
+[00:25:44.180 --> 00:25:44.680]  Who's your boss?
+[00:25:44.779 --> 00:25:45.720]  Who writes the scripts for you?
+[00:25:46.160 --> 00:25:47.819]  Oh no, where's the teleprompter right here?
+[00:25:48.339 --> 00:25:49.559]  Who's giving me the script here?
+[00:25:50.000 --> 00:25:53.700]  I mean, to me, this is no-brainer stuff.
+[00:25:54.319 --> 00:25:55.160]  Keep on this road?
+[00:25:55.579 --> 00:25:56.680]  Yeah, we're not doing GPS.
+[00:25:57.799 --> 00:26:02.759]  So, because they're all Muppets.
+[00:26:03.359 --> 00:26:04.519]  They're all puppets.
+[00:26:05.059 --> 00:26:12.589]  And so when you have a universe of puppets and Muppets and newsreaders and regurgitators and repeaters, They're all Pinocchios.
+[00:26:12.809 --> 00:26:13.769]  They're all wooden boys.
+[00:26:14.049 --> 00:26:15.910]  They're not a real boy, not a real man.
+[00:26:17.210 --> 00:26:20.009]  So they are always like, who's your boss?
+[00:26:20.170 --> 00:26:20.890]  Who's your boss?
+[00:26:20.970 --> 00:26:21.990]  Take us to your leader.
+[00:26:22.509 --> 00:26:23.869]  And they go, oh, you don't have a leader?
+[00:26:24.470 --> 00:26:25.869]  Henry Kissinger tried to hire me.
+[00:26:26.930 --> 00:26:28.309]  Fox News tried to hire me.
+[00:26:28.950 --> 00:26:29.849]  All that shit.
+[00:26:30.869 --> 00:26:32.430]  And I said, no, thank you.
+[00:26:33.289 --> 00:26:39.670]  And they said, Jeffrey Goldberg from the CIA slash Mossad 13, 14 years ago.
+[00:26:40.670 --> 00:26:42.349]  And it's always the same story.
+[00:26:42.529 --> 00:26:46.329]  And I've met with Bilderberg group members, and I've had them, you know, all that stuff.
+[00:26:46.390 --> 00:26:52.130]  And it went from sellout to us to, you know, now some of them are like, oh, we really don't agree with what's going on.
+[00:26:52.190 --> 00:26:53.049]  What do you think we should do?
+[00:26:54.170 --> 00:27:01.210]  And so that's the level I operate at for all the people out there that aren't even in a kindergarten level of understanding.
+[00:27:01.990 --> 00:27:03.710]  And again, I don't say that to be arrogant.
+[00:27:03.710 --> 00:27:07.509]  I say that because, goddammit, I'm trying to stop a fucking nuclear war.
+[00:27:08.000 --> 00:27:10.440]  And you people need to get your heads out of your asses.
+[00:27:10.740 --> 00:27:12.960]  I'm talking about leftists, fake right-wingers.
+[00:27:13.700 --> 00:27:19.059]  I saw some of the right-wing populists like, Trump, 3D chess, he put pressure on Putin.
+[00:27:19.319 --> 00:27:22.180]  He's acting like he didn't know about this attack.
+[00:27:22.559 --> 00:27:23.299]  He did.
+[00:27:23.480 --> 00:27:24.259]  Now Trump's like, no, I didn't.
+[00:27:25.700 --> 00:27:27.599]  And Trump didn't like Nord Stream being blown up.
+[00:27:27.660 --> 00:27:27.819]  No, no.
+[00:27:28.019 --> 00:27:30.019]  Trump says what he says.
+[00:27:30.019 --> 00:27:30.799]  That's his power.
+[00:27:31.859 --> 00:27:37.380]  So I knew when Trump said both sides stop doing this, that they made it look like only Russia was doing it.
+[00:27:37.549 --> 00:27:38.309]  That I knew.
+[00:27:39.569 --> 00:27:43.710]  Because I know, plus I know the history and the background of how these groups operate and how they've been doing this before.
+[00:27:45.490 --> 00:27:47.049]  They try to bubble wrap these presidents.
+[00:27:48.009 --> 00:27:49.289]  I've experienced it myself.
+[00:27:49.690 --> 00:27:51.170]  I write reports to the president.
+[00:27:52.450 --> 00:27:56.950]  I have big tank law firms to take my information and put reports together.
+[00:27:57.089 --> 00:27:58.069]  Do you think they like that?
+[00:27:59.349 --> 00:28:01.750]  But now I have to do it because so many people are awake.
+[00:28:01.950 --> 00:28:03.410]  There's so many good people around him.
+[00:28:03.509 --> 00:28:04.130]  They've got a big problem.
+[00:28:04.250 --> 00:28:06.170]  But still, he's so busy.
+[00:28:06.539 --> 00:28:08.400]  They kept him in the dark for about a week or so.
+[00:28:08.859 --> 00:28:12.200]  It made him think that Russia was just escalating when it's the opposite.
+[00:28:13.180 --> 00:28:15.559]  So, that's the facts.
+[00:28:15.859 --> 00:28:21.299]  I told you three weeks ago that they're going to start criminal investigations and indictments over the auto pin.
+[00:28:23.140 --> 00:28:25.319]  I told you who and how and why and what.
+[00:28:25.599 --> 00:28:26.660]  I was given that information.
+[00:28:26.880 --> 00:28:31.140]  They said, "We'd like you to be able to break this." You know, put those videos out, half a million views.
+[00:28:32.779 --> 00:28:34.519]  I go make a joke, 50 million views.
+[00:28:34.619 --> 00:28:35.220]  It's just funny, Mike.
+[00:28:35.339 --> 00:28:36.940]  Here's your big giant breaking news.
+[00:28:37.119 --> 00:28:38.700]  Ah, yeah, right, Alex, sure.
+[00:28:38.980 --> 00:28:39.160]  Yeah.
+[00:28:42.819 --> 00:28:44.980]  Oh, right, like, you know something about it.
+[00:28:45.019 --> 00:28:48.380]  Oh, yeah, you just didn't, like, write the whole book on this.
+[00:28:50.420 --> 00:28:55.079]  The bad guys have recognized we launched the whole Modern Resistance template platform.
+[00:28:55.440 --> 00:29:00.200]  So I want everybody that's Johnny come lately, he's just not waking up, to get with the fucking program here, okay?
+[00:29:00.579 --> 00:29:01.980]  I know what I'm talking about.
+[00:29:05.930 --> 00:29:15.250]  I'm going to do another report on AI and the provision of the BBB that I've been talking about for weeks that people are finally paying attention to and why this is so important.
+[00:29:15.730 --> 00:29:20.769]  It's not just saying the states and the cities and counties individuals can't sue for 10 years.
+[00:29:21.230 --> 00:29:23.009]  It's much bigger than that.
+[00:29:23.150 --> 00:29:26.609]  It's blanket liability protection.
+[00:29:26.930 --> 00:29:28.710]  And I'm explaining why that's so dangerous.
+[00:29:28.769 --> 00:29:34.869]  I'm going to give you the secret of AI that they don't want you to know and why.
+[00:29:35.180 --> 00:29:35.920]  A few days ago.
+[00:29:36.359 --> 00:29:37.920]  I spent 10 minutes on this.
+[00:29:38.119 --> 00:29:42.400]  And I went Palantir, Palantir, Palantir, Palantir, Palantir.
+[00:29:43.339 --> 00:29:45.180]  And I wasn't defending Palantir.
+[00:29:45.339 --> 00:29:47.299]  In my breakdown, I talked about all the bad stuff with it.
+[00:29:47.339 --> 00:29:47.779]  It's history.
+[00:29:49.380 --> 00:29:52.259]  And people go, why is he saying it's bad, but he's defending it?
+[00:29:52.599 --> 00:29:58.519]  You are saying I'm defending it so you can feel more pure and powerful.
+[00:29:58.880 --> 00:29:59.980]  I saw these different hellas.
+[00:30:00.059 --> 00:30:00.339]  It was funny.
+[00:30:01.360 --> 00:30:04.160]  He's defending it and saying it's great, but he's putting it down.
+[00:30:04.359 --> 00:30:04.940]  What's he doing?
+[00:30:05.460 --> 00:30:06.559]  You did that.
+[00:30:07.339 --> 00:30:08.359]  You did that.
+[00:30:08.839 --> 00:30:16.859]  I was explaining that if you're going to talk about something, don't just talk about the pinky.
+[00:30:17.579 --> 00:30:20.599]  If I punch you in the face, is my pinky guilty of punching you in the face?
+[00:30:20.859 --> 00:30:21.180]  Yeah.
+[00:30:22.559 --> 00:30:26.119]  But there's a bunch of other fingers, and they're part of a hand.
+[00:30:26.859 --> 00:30:28.559]  And I want you to understand that.
+[00:30:28.880 --> 00:30:34.369]  Just like I go, All right, 45,000 dead Gazans, half of them women and children.
+[00:30:34.690 --> 00:30:35.430]  This is wrong.
+[00:30:36.670 --> 00:30:42.930]  But, got a million dead in Ukraine, and the left all loves that war, but hates Israel.
+[00:30:43.109 --> 00:30:43.910]  That's hypocritical.
+[00:30:44.069 --> 00:30:45.170]  We need it in both these wars.
+[00:30:45.609 --> 00:30:47.450]  Oh my God, he doesn't care about Gazans.
+[00:30:47.609 --> 00:30:50.170]  No. 45,000 versus a million.
+[00:30:50.950 --> 00:30:52.710]  Potentially being the detonator to kill billions.
+[00:30:53.470 --> 00:30:55.410]  I look at things proportionally.
+[00:30:55.410 --> 00:30:57.380]  So I'm like...
+[00:31:08.549 --> 00:31:13.670]  When I've been talking about it forever, and I'm saying, now why are you being told about it?
+[00:31:16.069 --> 00:31:17.490]  And who's telling you?
+[00:31:17.608 --> 00:31:18.538]  Who put it on the map?
+[00:31:18.598 --> 00:31:21.467]  The Young Turks, the New York Times, CNN the last few months.
+[00:31:21.467 --> 00:31:26.769]  And now they've got all the populists doing nothing but talking about it, which is good.
+[00:31:34.140 --> 00:31:35.880]  And that's what I want people to do.
+[00:31:35.960 --> 00:31:37.799]  That's what I do is I get big backgrounds.
+[00:31:39.039 --> 00:31:48.420]  And then I'm explaining that there's a fight over who's going to have the key controlling AI node.
+[00:31:50.160 --> 00:31:53.680]  And I'm saying it's all bad.
+[00:31:54.140 --> 00:31:56.539]  But people have to realize that.
+[00:31:57.019 --> 00:32:05.660]  So I'm saying Palantir is not only a small part of it, it's part of the same thing.
+[00:32:07.240 --> 00:32:07.920]  Okay?
+[00:32:09.740 --> 00:32:17.480]  Just like when I coined the term 25 years ago or longer, the left-right paradigm.
+[00:32:19.440 --> 00:32:21.980]  A paradigm means it keeps you within that universe.
+[00:32:22.000 --> 00:32:24.059]  It doesn't mean there aren't differences in the left and right.
+[00:32:24.380 --> 00:32:28.619]  But the globalists, the big foundations, we're controlling the left and the right.
+[00:32:29.400 --> 00:32:34.140]  And I said we need to expose that it should be about policies and issues and populism.
+[00:32:35.039 --> 00:32:48.440]  We should try to reform either or both parties and do similar things around the world and other systems on issues to decentralize just off of a fight over left or right or red or blue.
+[00:32:48.859 --> 00:32:51.339]  Which boils it down to such a simplistic thing.
+[00:32:51.640 --> 00:32:56.019]  But it doesn't mean you don't communicate through the nomenclature of left and right while you're reforming.
+[00:32:56.960 --> 00:33:06.319]  Then people say, "Jones is the guy that coined the term 'Liver of Paradigm,' but now he's this big Republican." I said we had our best shot as a populist speech head through the Tea Party.
+[00:33:06.960 --> 00:33:11.819]  Ron Paul and I are on record in the sociology, you know, they teach at colleges, creating, progenerating.
+[00:33:13.599 --> 00:33:16.940]  And, I mean, 20 years ago, Newsweek, Alex Jones, Ron Paul.
+[00:33:17.220 --> 00:33:18.519]  I'm just going to understand the history here, okay?
+[00:33:18.839 --> 00:33:20.940]  Didn't just get born last night.
+[00:33:22.119 --> 00:33:32.980]  And so, this history, this context is key to having a wider spectrum understanding of this.
+[00:33:33.460 --> 00:33:45.920]  So, again, if the globalists are strangling you, and it's coming at you to strangle you, or there's a dagger in my hand, I'm going to stab you.
+[00:33:46.220 --> 00:34:03.359]  and you're going, look at that ring on the guy's hand and I'm like, hey you need to look at that dagger and you need to look at whose hand's It's like having a book and you're only looking at one page of it.
+[00:34:03.799 --> 00:34:07.740]  I'm saying this is good you're learning about the Total Information Awareness Network.
+[00:34:09.139 --> 00:34:11.780]  I'm saying it's good you're learning about the NSA.
+[00:34:12.119 --> 00:34:13.760]  It's good you're learning about the surveillance state.
+[00:34:13.900 --> 00:34:15.659]  It's good you're learning about the real ID.
+[00:34:15.860 --> 00:34:16.860]  It's good!
+[00:34:17.869 --> 00:34:18.570]  It's good.
+[00:34:20.369 --> 00:34:30.670]  But I'm saying this is something they constantly do is they're getting you focused on a small part of it instead of understanding the compendium of it.
+[00:34:31.190 --> 00:34:33.369]  Which again, is what I do on my show.
+[00:34:34.590 --> 00:34:41.389]  Is I bring in the history of a thing into each new story so that people have context and so you can go research it yourself.
+[00:34:41.550 --> 00:34:41.909]  Alright?
+[00:34:44.230 --> 00:34:47.170]  Like everybody's saying, oh, the underground bases were built for the pole ship in 2027.
+[00:34:47.349 --> 00:34:48.969]  There's not a pole ship coming in 2027.
+[00:34:48.969 --> 00:34:49.849]  That's just made up.
+[00:34:50.070 --> 00:34:51.570]  The pole's always wiggling around and moving.
+[00:34:51.969 --> 00:34:53.690]  And there is dramatic changes in history.
+[00:34:54.369 --> 00:34:56.650]  Quick ones sometimes, we know, from a geologic record.
+[00:34:57.010 --> 00:35:02.690]  It's for nuclear war and bio-war and for depopulation that they decide to hit the panic button and they think we're going to defeat them.
+[00:35:03.090 --> 00:35:03.929]  That's what it's for.
+[00:35:04.250 --> 00:35:06.030]  I've been talking about it for 30 years.
+[00:35:06.469 --> 00:35:08.530]  I've interviewed the actual people that built the ship.
+[00:35:10.329 --> 00:35:12.590]  So again, the globalists picked up on things.
+[00:35:12.730 --> 00:35:13.730]  They make it a pole shift.
+[00:35:14.119 --> 00:35:15.280]  Which is not unreasonable to say.
+[00:35:15.400 --> 00:35:16.820]  That's part of why they've done all this, too.
+[00:35:18.579 --> 00:35:27.480]  And then I come out and say, hey, it's really about all of this and them being able to do whatever secret stuff they want in a breakaway civilization.
+[00:35:28.500 --> 00:35:33.360]  And people go, oh, my God, he's attacking Catherine Austin Fitz and her saying there's $21 trillion on underground bases.
+[00:35:33.579 --> 00:35:34.599]  That's not what I said.
+[00:35:35.440 --> 00:35:39.300]  I was talking about the ufologists and all them saying the whole ship is 2027.
+[00:35:40.320 --> 00:35:43.059]  Using that in the corporate media, pushing and picking it up.
+[00:35:43.239 --> 00:35:44.079]  They're not censoring it.
+[00:35:44.960 --> 00:35:47.119]  See, what they censor, they don't want.
+[00:35:47.280 --> 00:35:48.599]  What they push, they want.
+[00:35:48.800 --> 00:35:56.559]  So when I see them jump on something and make it all about a pole shift, oh, we're running out of oil, peak oil by 2000.
+[00:35:56.860 --> 00:35:59.820]  Oh, global warming, we're all going to die.
+[00:36:00.099 --> 00:36:03.800]  They want you to give up hope and not believe you can fix it, that it's out of your hands.
+[00:36:04.239 --> 00:36:07.559]  Oh, 2012, the world's going to end my calendar.
+[00:36:07.699 --> 00:36:10.438]  I told you it was bullshit.
+[00:36:11.849 --> 00:36:12.730]  We're going to kill the Earth.
+[00:36:13.030 --> 00:36:14.690]  Viruses, global warming are coming to kill you.
+[00:36:14.949 --> 00:36:15.909]  No, so it's your fault.
+[00:36:16.010 --> 00:36:17.050]  No, they're making them in labs.
+[00:36:18.349 --> 00:36:20.050]  Oh, COVID's made everybody starve to death.
+[00:36:20.130 --> 00:36:20.849]  No, the lockdown's dead.
+[00:36:22.409 --> 00:36:24.869]  You need to understand their operations.
+[00:36:26.449 --> 00:36:27.570]  And that's what I'm doing.
+[00:36:29.489 --> 00:36:31.849]  So, I'm going to explain this.
+[00:36:32.710 --> 00:36:34.150]  Coming up, but I kind of just did.
+[00:36:35.449 --> 00:36:37.469]  I'm going to take a break here, make a phone call.
+[00:36:38.389 --> 00:36:39.570]  We're out here on an important mission.
+[00:36:40.219 --> 00:36:44.880]  Another live feed coming up soon, and then I'm going to be following more reports live on the show today at 11 a.m. Central.
+[00:36:45.539 --> 00:36:47.840]  We'll have the traffic cop with breaking news more, Chase Geiser.

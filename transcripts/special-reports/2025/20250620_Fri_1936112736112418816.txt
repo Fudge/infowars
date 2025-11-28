@@ -1,0 +1,323 @@
+# Transcription model: large-v3-turbo, custom faster_whisper
+[00:00:00.300 --> 00:00:07.480]  If you walked into the Oval Office this morning, Alex Jones, and had five minutes with the Commander-in-Chief, go ahead and roll.
+[00:00:07.759 --> 00:00:09.570]  Tell me what Alex Jones tells him right now.
+[00:00:09.599 --> 00:00:12.800]  Mr. President, I...
+[00:00:12.800 --> 00:00:21.420]  Here's your host, Stephen K. Van.
+[00:00:25.329 --> 00:00:28.129]  Probably this afternoon I'll walk through it, but he's talking about gold.
+[00:00:28.429 --> 00:00:29.829]  Ray Dalio from Bridgewater.
+[00:00:30.010 --> 00:00:30.910]  Pretty amazing piece.
+[00:00:30.989 --> 00:00:32.729]  Got a new thing about how countries go broke.
+[00:00:32.869 --> 00:00:33.549]  We'll talk about it today.
+[00:00:34.270 --> 00:00:36.030]  But make sure you go to birchgold.com.
+[00:00:36.109 --> 00:00:36.969]  Enter the dollar empire.
+[00:00:37.109 --> 00:00:42.969]  The Rio Reset Philip Patrick team will be down, and they're going to do hard duty going down to Rio.
+[00:00:43.130 --> 00:00:46.969]  Of course, we've got two volunteers to go with them, Dave Bratt and Eric Bolling.
+[00:00:47.130 --> 00:00:50.429]  Not sure Dave Bratt's wife's going to let him go to Brazil, but we'll get into all that.
+[00:00:51.280 --> 00:00:53.880]  Birchgold.com slash Bannon, the end of the dollar empire.
+[00:00:54.079 --> 00:00:57.659]  All free, seven free installments over the last four years, the last The Rio Reset.
+[00:00:58.500 --> 00:01:00.020]  Honored to have now Alex Jones.
+[00:01:00.240 --> 00:01:03.100]  So Alex, start with just the last week.
+[00:01:05.180 --> 00:01:08.159]  Friday a week ago, you had all this cheerleading.
+[00:01:08.340 --> 00:01:10.640]  It was shocking all people beating on their chest.
+[00:01:10.760 --> 00:01:11.500]  Here's what's happening.
+[00:01:11.680 --> 00:01:15.859]  And now, a week later, the President of the United States is saying, hey, we're going to take a deep breath.
+[00:01:16.000 --> 00:01:17.280]  We're going to think this whole thing through.
+[00:01:17.718 --> 00:01:25.057]  I've got my Whitcoff team back working on negotiations for a deal, and he's pivoting to work on the big, beautiful bill.
+[00:01:25.057 --> 00:01:38.698]  And, of course, what I think is the most important front of the Third World War, which is Los Angeles in the sanctuary cities, of which a federal appellate court, I think, came out last night and said, yeah, if Trump can do this, not a problem.
+[00:01:38.698 --> 00:01:39.568]  Your thoughts, sir?
+[00:01:39.578 --> 00:01:40.838]  Thank you.
+[00:01:40.909 --> 00:01:42.749]  Well, you're absolutely right.
+[00:01:42.749 --> 00:01:49.149]  I don't like the mullahs any more than you do, and I'd love to see the Persians get their country back.
+[00:01:59.040 --> 00:02:14.460]  And Trump was moving, obviously, to greenlight an attack that, from all the evidence I saw, was probably going to be happening right about now or over the weekend until he began to get more intelligence.
+[00:02:14.460 --> 00:02:17.400]  And now the White House has admitted that.
+[00:02:17.719 --> 00:02:27.159]  Most of his top generals and strategists have said, we don't want to go into a direct strike with Iran for a whole bunch of scenarios that are very probable.
+[00:02:27.560 --> 00:02:37.520]  And then, of course, you've got Eric Carilla, who's very respected and a great veteran, who is focused on the Middle East, who's got the president and Hegseth's ear.
+[00:02:38.080 --> 00:02:43.960]  But when it gets to a lot of the other geopolitical issues tied into it, he really wasn't briefing, I guess, the president on that.
+[00:02:44.060 --> 00:02:45.280]  I'm sure he's aware of those things.
+[00:02:46.009 --> 00:02:54.710]  Just the issue of the Strait of Hormuz getting blocked, which the Iranians can easily do and said they will, that will send oil to 110, 130, 140.
+[00:02:55.009 --> 00:02:58.689]  That will then double the CPI inflation.
+[00:02:58.689 --> 00:03:01.169]  Then that will get interest rates raised undoubtedly.
+[00:03:01.569 --> 00:03:03.930]  You do the equations, the economists have all done it.
+[00:03:03.969 --> 00:03:05.129]  It's a fact.
+[00:03:05.250 --> 00:03:09.909]  And that would derail Trump's economic recovery plan that's already going so well.
+[00:03:10.240 --> 00:03:14.539]  On the trade deals, on getting our independence back, on ending our long surrender.
+[00:03:14.800 --> 00:03:19.900]  You mentioned the Sanctuary Cities being the real fight to go in and expose the election fraud.
+[00:03:20.060 --> 00:03:23.500]  The Ninth Circuit saying, no, the president has control of the National Guard.
+[00:03:24.039 --> 00:03:27.139]  And Newsom's a complete liar.
+[00:03:27.520 --> 00:03:32.860]  You've got the Democrat Party at the lowest polling numbers in its history continuing to drop to record lows every week.
+[00:03:33.520 --> 00:03:35.819]  True freefall, flatline, game over.
+[00:03:36.570 --> 00:03:39.490]  If we just press through, you've got record low fundraising.
+[00:03:39.490 --> 00:03:41.270]  They're in total crisis.
+[00:03:41.270 --> 00:03:42.909]  We have the victory.
+[00:03:43.210 --> 00:03:56.729]  But if we have a super unpopular war, and we directly get into it, and then we hit them, the Iranians will hit our bases, they will hit the aircraft carriers, and then we will be forced to go into full war.
+[00:03:56.969 --> 00:03:59.750]  Let's say there's regime change, then it goes into a quagmire.
+[00:03:59.930 --> 00:04:03.030]  We know even the CIA is now, it's in the news, brief Trump.
+[00:04:03.469 --> 00:04:08.229]  And explain that, oh, they might build a nuke quicker if we don't take them out immediately.
+[00:04:09.530 --> 00:04:12.189]  And it looks like we can't take them out very quickly.
+[00:04:12.189 --> 00:04:14.250]  This would be probably protracted.
+[00:04:14.349 --> 00:04:17.689]  And what they're really hinting at is they've got the bomb.
+[00:04:17.730 --> 00:04:19.110]  They've had the bomb.
+[00:04:19.290 --> 00:04:22.970]  I've been saying that for 15 years, and I have sources.
+[00:04:22.970 --> 00:04:24.149]  I'll just leave it at that.
+[00:04:24.569 --> 00:04:28.649]  Sources on the ground, sources in CENTCOM that saw it, the satellites.
+[00:04:28.949 --> 00:04:30.889]  We've got spies with snoopers on the ground.
+[00:04:31.360 --> 00:04:37.860]  We know they've got a lot of fissile material from the scans, from the aircraft and satellites that can pick this up.
+[00:04:38.100 --> 00:04:39.240]  So we know they've got it.
+[00:04:39.339 --> 00:04:41.839]  That's why Netanyahu for 25 years has said they're two weeks away.
+[00:04:42.019 --> 00:04:44.980]  Well, from my intel 15 years ago, they had enough fissile material.
+[00:04:45.100 --> 00:04:46.439]  Now, are the bombs all put together?
+[00:04:47.220 --> 00:04:49.019]  We don't know, but they've got it.
+[00:04:49.139 --> 00:04:52.120]  And with the technology, this is 1940s technology, it's easy.
+[00:04:52.300 --> 00:04:54.480]  So now that's finally starting to hit the news.
+[00:04:54.939 --> 00:04:56.959]  Trump doesn't want a Libya scenario.
+[00:04:57.800 --> 00:04:59.279]  Now Russia has come out.
+[00:04:59.720 --> 00:05:03.699]  And made a disturbing threat of nuclear Armageddon.
+[00:05:03.939 --> 00:05:07.319]  And a week ago was saying they were probably not going to get involved.
+[00:05:08.019 --> 00:05:09.639]  Now they're saying they're going to get involved.
+[00:05:09.819 --> 00:05:20.519]  China is hoping we get involved because they believe it'll push people quicker into the BRICS and accelerate the dollar's problems that Trump's trying to stabilize and on the track we're on will happen.
+[00:05:20.980 --> 00:05:25.459]  And so strategically at every level, this goes from bad to worse.
+[00:05:25.600 --> 00:05:27.699]  We had the Pakistani defense minister last week.
+[00:05:28.470 --> 00:05:31.730]  Saying all the Muslims must unite against Israel and fight them.
+[00:05:32.329 --> 00:05:34.769]  And then these nuclear threats they pulled back.
+[00:05:34.930 --> 00:05:38.949]  And then Trump met with the head of their army for lunch on Tuesday.
+[00:05:39.670 --> 00:05:43.529]  So Trump's looking at all the different geopolitical pieces to this.
+[00:05:44.029 --> 00:05:46.089]  And I've had some listeners say, well, so what?
+[00:05:46.149 --> 00:05:47.009]  We want to get rid of the mullahs.
+[00:05:47.029 --> 00:05:48.850]  So what if gas hits 130?
+[00:05:49.209 --> 00:05:50.610]  You know, what do you care about, money?
+[00:05:50.769 --> 00:05:53.389]  No, no, I don't care about myself having to pay more for gas.
+[00:05:53.589 --> 00:06:03.050]  For people that don't understand economics out there, Energy is everything, and that's the real lace in the hole to lower inflation and lower interest rates.
+[00:06:03.209 --> 00:06:04.949]  We must have that.
+[00:06:05.129 --> 00:06:13.290]  That's why Trump is accelerating us, not just number one, but to intensify our exports for the entire planet.
+[00:06:13.589 --> 00:06:16.449]  Low energy costs translates into everything.
+[00:06:16.649 --> 00:06:18.410]  And so it is essential.
+[00:06:18.410 --> 00:06:21.189]  It is the lifeblood of our entire agenda.
+[00:06:21.189 --> 00:06:37.611]  we must deliver on economic recovery, we must deliver on So this is an absolute, the globalists have positioned us for economic collapse when Kamala got in.
+[00:06:37.750 --> 00:06:40.970]  They were getting ready to lower the credit ratings and things in the future.
+[00:06:41.149 --> 00:06:47.589]  They want to end the dollar and bring in this global central bank digital currency that Trump has wisely said he'll stop.
+[00:06:47.810 --> 00:06:49.889]  He's successfully stopping bricks right now.
+[00:06:49.889 --> 00:06:53.358]  And so they were able to do this.
+[00:06:57.610 --> 00:07:04.930]  So, just like the private Federal Reserve, that's part of the same central banking private cartel in the EU, gave them interest rate cuts.
+[00:07:05.209 --> 00:07:12.430]  We don't get interest rate cuts when it's an absolutely needed ingredient, though the economy's still coming back somewhat despite that.
+[00:07:12.850 --> 00:07:16.829]  And I think Trump should go to Congress and say, hey, they've got their charter?
+[00:07:17.009 --> 00:07:22.209]  Sure, I can't tell them what to do, but you can repeal their charter if they don't.
+[00:07:22.649 --> 00:07:50.709]  Start doing what I tell them, so he needs to aggressively not just call Powell an idiot, because I don't think Powell's an idiot, he's a globalist, and so you have the EU, you have the CHICOMs allied, you have the central banks, foreign-owned of our Federal Reserve, not giving us what we need, and so it's outrageous, and it's all meant to kill the Trump recovery and to collapse us into this globalist system as a rump state of their larger empire, and it's treason.
+[00:07:51.040 --> 00:08:09.980]  And so those are the central issues that you understand, that others understand, and I know the president understands this when he gets reminded of it, but there's just a hysteria by Netanyahu, who is in big political trouble, to try to control our politics and to try to basically be our president.
+[00:08:10.199 --> 00:08:15.740]  And look, I'm all of the Israelis who take the Mullahs out successfully, but they knew.
+[00:08:16.079 --> 00:08:17.379]  That Iran had all these missiles.
+[00:08:17.540 --> 00:08:18.839]  They knew that a lot would get through.
+[00:08:18.959 --> 00:08:21.000]  They knew they would run out of defense missiles and that we would run out.
+[00:08:21.319 --> 00:08:24.399]  And so as this continues on, it's going to get worse and worse.
+[00:08:25.180 --> 00:08:26.899]  And so that's the point we're at.
+[00:08:26.980 --> 00:08:41.740]  But if he hits them with the bunker busters, the Mullahs say they will hit our ships, and then you'll have about to be decommissioned the Nimitz just out there in front of everybody, like the Lusitania in World War I, and the Iranians will hit it.
+[00:08:41.950 --> 00:08:43.070]  And then what are we going to do?
+[00:08:43.210 --> 00:08:45.169]  The American people will suddenly demand war.
+[00:08:45.389 --> 00:08:49.769]  We didn't want it in World War I, but once they sunk Lusitania, we did.
+[00:08:49.928 --> 00:08:54.607]  And the Germans obviously put ads in the newspapers and said, you know, don't sail on the ship, it's carrying weapons.
+[00:08:54.607 --> 00:09:06.059]  So we're at that point, we're at that gulp of Tonkin point, and we cannot afford, uh, And I know from my sources that they do have the material for bombs to put them together.
+[00:09:06.059 --> 00:09:08.299]  I think they already have them put together very, very quickly.
+[00:09:08.720 --> 00:09:21.940]  And so now you put them in a corner and they have shown that they're psychotic, their leadership, and that then we probably will have a nuclear attack on Israel.
+[00:09:22.360 --> 00:09:24.320]  And we don't know if the missiles will get shot down.
+[00:09:24.419 --> 00:09:27.480]  They may detonate in an airburst regardless if they are hit.
+[00:09:27.759 --> 00:09:35.740]  And then most of the Rand Corporation, Pentagon War Games, as you know, Steve, trend towards a nuclear war.
+[00:09:35.960 --> 00:09:41.240]  If one starts, even a limited exchange, very quickly, India, Pakistan, go at it.
+[00:09:41.379 --> 00:09:43.179]  You've already got the situation in Ukraine.
+[00:09:43.720 --> 00:09:47.600]  All of this together is a recipe and a perfect storm for Armageddon.
+[00:09:49.730 --> 00:09:59.549]  You said something early at the top that the generals had actually talked to him about the even viability of the limited strike to remove it, which Israel was kind of counting on.
+[00:09:59.669 --> 00:10:00.350]  Walk me through that.
+[00:10:00.529 --> 00:10:02.570]  We've got about two minutes, so I'm going to hold you through the break.
+[00:10:03.129 --> 00:10:10.950]  What do you mean the generals have now, not second thoughts, but they're telling about that this is not, as Kayleigh McEnany said, one swoop across.
+[00:10:10.950 --> 00:10:11.710]  Is it, sir?
+[00:10:13.278 --> 00:10:37.519]  No, the bunker busters we've got are the best in the world, and the Pentagon admits that And so then it's not even assured, and I can guarantee you, they're not keeping all the fissile material and parts in those bunkers.
+[00:10:37.659 --> 00:10:39.240]  In fact, none of it may even be in there.
+[00:10:39.860 --> 00:10:43.679]  And so if they know it's going to be targeted, why would they have it there?
+[00:10:43.860 --> 00:10:47.860]  So I think Trump's thinking kind of third-dimensional there.
+[00:10:48.279 --> 00:10:52.279]  Can we get it instead of fourth, fifth dimensional, or second, third, fourth consequences?
+[00:10:52.379 --> 00:11:00.820]  Do you even really believe that their bomb ingredients are actually in the big center of the bullseye?
+[00:11:00.980 --> 00:11:04.659]  I mean, just classic strategy would say they're not going to be in there.
+[00:11:04.778 --> 00:11:06.178]  That's where they've been assembling it.
+[00:11:06.187 --> 00:11:09.259]  And the evidence shows they've already got it.
+[00:11:09.327 --> 00:11:11.678]  So why would it be in the assembly area?
+[00:11:11.678 --> 00:11:19.378]  It will be cash somewhere, just like their conventional munition, ballistic missiles and warheads are.
+[00:11:19.418 --> 00:11:22.998]  Alex, hang on for one second.
+[00:11:22.998 --> 00:11:25.308]  We'd love to keep you through the break and getting more of this.
+[00:11:25.418 --> 00:11:28.879]  You know the details, as very few people do.
+[00:11:43.019 --> 00:11:49.490]  This document shows you Why gold has been a hedge for 5,000 years of mankind's history?
+[00:11:49.610 --> 00:11:52.690]  Why is Ray Dalio talking it up this morning on Morning Joe?
+[00:11:53.129 --> 00:11:55.309]  I'll break all that down in the afternoon show.
+[00:11:55.870 --> 00:11:57.330]  Short commercial break.
+[00:11:58.090 --> 00:12:01.360]  Alex Jones is going to continue on the other side in the war room.
+[00:12:01.370 --> 00:12:09.369]  I'm coming after your mind to find your soul.
+[00:12:09.369 --> 00:12:11.470]  Oh, it's true.
+[00:12:11.470 --> 00:12:23.929]  you you You have until Sunday, June 22, 2025, to take advantage of a sale we've never had before at the AlexJonesStore.com.
+[00:12:24.090 --> 00:12:34.509]  You can get two bottles of liquid ultramethylene blue, medical grade, already discounted, and get a free bottle of our amazing Chilogy, the best Chilogy on the planet, the highest rated, for free.
+[00:12:34.799 --> 00:12:41.460]  Or you can get two bottles of the same medical grade methylene blue encapsulated with vitamin C to supercharge it in your body.
+[00:12:41.639 --> 00:12:47.399]  Already discounted with also a free bottle of Shilogy at thealexjonesstore.com.
+[00:12:47.539 --> 00:12:48.799]  These products are amazing.
+[00:12:49.039 --> 00:12:50.220]  People absolutely love them.
+[00:12:50.360 --> 00:12:56.299]  It funds the operation for all you that are on the fence that have never gone to thealexjonesstore.com and gotten some of these supplements.
+[00:12:56.480 --> 00:12:59.580]  They're all the very best, game-changing, highest rated.
+[00:12:59.740 --> 00:13:01.639]  I'm only going to sell you something that really works.
+[00:13:01.740 --> 00:13:02.899]  I want you to get it again and again and again.
+[00:13:03.038 --> 00:13:06.437]  And you know the broadcast works when it comes to countering tyranny, promoting freedom.
+[00:13:06.437 --> 00:13:11.938]  So get your high-quality supplements right now at TheAlexJonesStore.com.
+[00:13:14.120 --> 00:13:15.159]  Welcome back.
+[00:13:15.580 --> 00:13:19.120]  Alex, you just said something, and you know the details.
+[00:13:19.299 --> 00:13:26.159]  You have tremendous contacts and relationships, both the intelligence community, defense community, CENTCOM, international leaders.
+[00:13:26.419 --> 00:13:28.220]  This is something that hasn't been talked about.
+[00:13:28.379 --> 00:13:29.539]  You never see this talked about.
+[00:13:29.919 --> 00:13:32.139]  The Persians are an ancient civilization.
+[00:13:32.700 --> 00:13:36.879]  You know, this is not Iraq, this is not Afghanistan, as ancient as those civilizations are.
+[00:13:37.019 --> 00:13:39.299]  This was the great enemy of the Roman Empire.
+[00:13:41.799 --> 00:13:43.139]  They're not dumb people.
+[00:13:43.720 --> 00:13:44.899]  They're very smart people.
+[00:13:44.980 --> 00:13:50.519]  The mullahs are crazy, and what they've done with this radical version of Islam is obviously out of control.
+[00:13:50.720 --> 00:13:58.899]  And I don't know how even deep that goes against the Zoroasterism and the ancient religions of Persia.
+[00:13:59.480 --> 00:14:00.899]  But they're very smart people.
+[00:14:01.039 --> 00:14:03.879]  They've already been known as very tough negotiators, very smart.
+[00:14:04.440 --> 00:14:05.700]  They're just not sitting there.
+[00:14:05.840 --> 00:14:12.580]  And the way they've built Fordor is actually quite brilliant, understanding the day would come that the West would come looking for this.
+[00:14:13.039 --> 00:14:14.779]  But they've actually done things.
+[00:14:14.840 --> 00:14:17.899]  I want you to walk through that again so this audience understands.
+[00:14:18.379 --> 00:14:19.820]  It's not saying it's all there.
+[00:14:20.000 --> 00:14:34.740]  If the end game, and we know this from Bibi and the Israelis, the end game is to take up Fordor or what represents their entire It's just as tough as that nut is to crack.
+[00:14:34.980 --> 00:14:44.899]  And we had Hugo Lowe on here yesterday from Guardian who did the study, you know, got the report of the bomb damage assessment inside the Pentagon, which came to the conclusion.
+[00:14:45.179 --> 00:14:52.059]  You said 10. They're saying at least five or more to get to your 10. And even then they said that might not do it.
+[00:14:52.139 --> 00:14:55.840]  You might have to go to a tactical nuclear weapon to take this thing out.
+[00:14:56.320 --> 00:15:02.820]  Even then, you're saying, hey, look, don't think these Persians got it all there now because they're smart enough to know they've got to spread this stuff around.
+[00:15:03.000 --> 00:15:03.679]  Walk me through that.
+[00:15:03.860 --> 00:15:10.259]  Where actually is, if you're going to have a military endgame here, what then needs to be done, sir?
+[00:15:11.940 --> 00:15:20.059]  Well, their whole strategy has been to get the bomb, but then sit back and deny that they have it.
+[00:15:20.100 --> 00:15:22.759]  They've done the opposite of the North Koreans, flaunting that they have it.
+[00:15:23.259 --> 00:15:25.240]  And we know they've had the fissile material.
+[00:15:26.309 --> 00:15:27.590]  And we've had the assessments.
+[00:15:28.129 --> 00:15:29.610]  And we know Israel knows this.
+[00:15:29.690 --> 00:15:32.149]  We know the Pentagon knows this, because that's where I learned about it.
+[00:15:32.309 --> 00:15:33.009]  I'll leave it at that.
+[00:15:33.690 --> 00:15:34.889]  And these people I trust.
+[00:15:35.409 --> 00:15:39.049]  And then I talked to other people once I got the info, and they said, yeah, you're not supposed to know that.
+[00:15:39.149 --> 00:15:40.049]  But yeah, that's true.
+[00:15:40.289 --> 00:15:41.649]  So that's just well-known.
+[00:15:42.549 --> 00:15:48.789]  And the Saudi Arabians have nukes, but they keep them in Pakistan.
+[00:15:49.809 --> 00:15:51.169]  I've said that seven, eight years ago.
+[00:15:51.250 --> 00:15:52.149]  That came out last year.
+[00:15:52.730 --> 00:15:53.889]  They're, quote, seeking it.
+[00:15:55.210 --> 00:16:06.070]  The idea that you can have even a probability of taking out all of their nuclear material and missiles is just futile.
+[00:16:06.409 --> 00:16:10.149]  Maybe they are as unpopular, and we know they are with many people over there.
+[00:16:10.490 --> 00:16:15.169]  Maybe there will be an uprising, and maybe the Mullahs will fall.
+[00:16:15.990 --> 00:16:21.169]  But a lot of the assessments are that they'll be able to hang on for a very, very long time.
+[00:16:21.269 --> 00:16:23.730]  And again, close the straight-over moves to a lot of other things.
+[00:16:24.159 --> 00:16:40.259]  And so if Israel basically had unlimited weapons from us, and then this just went on for six months, and they just continued to bomb anything, you know, the satellites looks like a weapons platform or weapons cache, that it could degrade it a lot.
+[00:16:40.440 --> 00:16:46.820]  But that's been their whole strategy, is to hide these different sizes, and they're firing bigger and bigger ones.
+[00:16:47.240 --> 00:16:52.240]  They fired recently one that has a 2,000 kilometer range.
+[00:16:53.179 --> 00:17:06.460]  And so, again, the idea that these nuclear sites is what you hit is all based on they don't have a bomb or the material for it yet, and so it just doesn't fit the reality of it.
+[00:17:07.019 --> 00:17:10.180]  And that's what President Trump needs to know.
+[00:17:10.759 --> 00:17:13.920]  If he's not being given those assessments, people are keeping him in the dark.
+[00:17:14.160 --> 00:17:17.980]  I mean, most of what I'm saying has been open intelligence for a very long time.
+[00:17:18.079 --> 00:17:29.779]  I mean, you've figured it out, I figured it out five weeks ago or so, Ukraine didn't want the peace deal, so they doubled, roughly, missile and drone attacks inside Russia.
+[00:17:30.740 --> 00:17:35.119]  And then Trump's like, I don't know why Putin's bombing and intensified.
+[00:17:35.559 --> 00:17:40.259]  And then I said, looks like he hadn't been briefed, and a week and a half later, it turns out he hadn't been briefed.
+[00:17:40.259 --> 00:17:41.959]  and was like, oh, I didn't know they doubled that.
+[00:17:41.959 --> 00:17:46.137]  And then Operation Spiderweb, very similar to the Israeli operation inside...
+[00:17:46.518 --> 00:18:09.670]  the the coalition of the willing within NATO, that is publicly, Keir Starmer, MERS, and Macron.
+[00:18:10.690 --> 00:18:22.549]  With Zelensky going ahead with this, saying their business policy in the EU is a 20-30 year conventional war that will bankrupt Russia, and then they're going to break it in five parts, says that deputy head of the unelected commission.
+[00:18:22.809 --> 00:18:28.329]  This is all going directly against our interests, our policies, what Trump is negotiating for.
+[00:18:29.069 --> 00:18:39.009]  And then you've got interests that want to take out Iran in the Pentagon, and also in intelligence, but they're the minority, and for what I've seen.
+[00:18:39.390 --> 00:18:49.869]  That are basically in line with Israel and basically are, some people in the Pentagon, closer to Netanyahu and their positions and ideas, and they are even to Trump.
+[00:18:50.170 --> 00:18:51.869]  And then I look at their assessments.
+[00:18:51.869 --> 00:18:56.390]  Oh, all we need is the U.S. to blow up a couple of these bases with bunker busters.
+[00:18:56.410 --> 00:19:00.890]  And then I ask those very people, I say, that's all he needs to do, huh?
+[00:19:00.910 --> 00:19:08.109]  So they're going to then hit our ships and our bases, and then we will have to attack them back, and now we're going into full war.
+[00:19:08.720 --> 00:19:12.400]  When this will then turn the whole world against us, again, drive everybody into bricks.
+[00:19:12.839 --> 00:19:23.380]  And that's on the low end of problems, derailing our plan to innovate, cut, and expand revenue with tariffs.
+[00:19:24.579 --> 00:19:27.220]  And so it is an unmitigated disaster.
+[00:19:27.380 --> 00:19:35.480]  This isn't just the estimated low end, $8 trillion spent on Middle Eastern wars since 2003.
+[00:19:37.109 --> 00:19:54.529]  I mean, imagine that if that was in technology and investment and infrastructure and real super weapons that we know we've got but haven't fully deployed, then we will have total dominance with our offensive golden dome, and that's really what it is, offensive, defensive.
+[00:19:54.789 --> 00:20:03.430]  And then we have something beyond mutually assured destruction to ensure world peace, and now the United States' economic power, cultural power, military power is totally dominant.
+[00:20:04.589 --> 00:20:05.569]  Hang on one second.
+[00:20:05.690 --> 00:20:07.210]  We've got about five minutes in this segment.
+[00:20:07.970 --> 00:20:15.170]  If you walked into the Oval Office this morning, Alex Jones, and had five minutes with the Commander-in-Chief, go ahead and roll.
+[00:20:15.369 --> 00:20:17.230]  Tell me what Alex Jones tells him right now.
+[00:20:18.690 --> 00:20:30.950]  Mr. President, I absolutely agree with you that the Mullahs want to destroy Israel and that they're unpopular and that they are a serious danger to world peace.
+[00:20:31.539 --> 00:20:44.779]  But if you look at all the different assessments that I know you've been given, and I know that most of your advisors have told you, it will, bare minimum, cause oil prices, which you already see going up, to explode.
+[00:20:44.900 --> 00:20:50.619]  The Iranians, in most assessments, will easily block straight-over moves by sinking their own ships, much less ours or others.
+[00:20:51.319 --> 00:20:53.460]  20% of the oil the world goes through there.
+[00:20:53.819 --> 00:20:55.319]  The low estimates are 110.
+[00:20:55.680 --> 00:20:58.119]  Higher estimates go as high as 200 or more.
+[00:21:01.440 --> 00:21:19.279]  Double the CPI inflation, and then that will raise interest rates, and then if you look at the numbers that Lutnik and Baset have put out that were very accurate, it will definitely derail your entire economic recovery plan that's so critical, not just for us, but for the whole world.
+[00:21:19.859 --> 00:21:28.839]  And I know from talking to my sources in CENTCOM over the years, but also from open intelligence, and Netanyahu, remember, said 24 years ago, they're two weeks from a bomb.
+[00:21:29.039 --> 00:21:40.950]  From my information, for about 15 years, We know from surface sensors with our agents on the ground and also from satellite and aircraft that they picked up the signatures.
+[00:21:41.250 --> 00:21:48.789]  And if you haven't been told this, please go talk to your people at the Pentagon and the CIA that they do have weapons-grade fissile material and a lot of it.
+[00:21:49.049 --> 00:21:59.809]  And if you just look at basic strategy, they've already moved the delivery systems and the ingredients for these bombs are undoubtedly not there.
+[00:22:01.469 --> 00:22:03.690]  Where it was constructed and developed.
+[00:22:04.029 --> 00:22:13.069]  And in my view, that is just a distraction to make people think that that's the only place for the UN inspectors to go look.
+[00:22:13.890 --> 00:22:18.049]  And you have Russia threatening that this could trigger a nuclear war.
+[00:22:18.509 --> 00:22:22.549]  Pakistan, I know, says that they're not going to intervene for now.
+[00:22:22.789 --> 00:22:24.289]  I know you've talked to them wisely.
+[00:22:24.809 --> 00:22:27.930]  But there's just so many variables here.
+[00:22:28.009 --> 00:22:29.789]  And then you've got the issue of a failed state.
+[00:22:30.340 --> 00:22:50.629]  an ongoing civil war there and the Israelis talking about commando raids and what happens if you know they get pinned down and killed And then and then and then the US is would probably be obliged to go in and it would look like the Delta Force And their failed raid with Jimmy Carter in the late 70s.
+[00:22:50.629 --> 00:23:09.369]  This is just a Pandora's box And that's why I know Because it's it's That's been a distraction.
+[00:23:09.630 --> 00:23:11.130]  China is everything.
+[00:23:11.329 --> 00:23:14.009]  Winding down this Ukraine war is everything.
+[00:23:15.049 --> 00:23:25.589]  You've done a great job through soft power, not just with these trade deals, ending our surrender to the WF and the globalists and the UN, but actually getting countries to align with us politically and culturally.
+[00:23:26.430 --> 00:23:28.670]  Through these trade deals and you're winning.
+[00:23:28.910 --> 00:23:31.230]  Winning faster and quicker and better than I thought.
+[00:23:31.450 --> 00:23:32.849]  And this is a blessing from God.
+[00:23:32.990 --> 00:23:38.170]  Why God, I believe, spared you in Butler in July of last year.
+[00:23:38.349 --> 00:23:59.259]  And so I just pray that you will continue as I know you're doing to just get as many assessments from as many people as you can and just know that there are some people giving you limited They're not lying to you, but they're being deceptive through omission.
+[00:23:59.358 --> 00:24:05.838]  And there are a lot of other scenarios that are also very, very, very dire that go from bad to worse.
+[00:24:05.838 --> 00:24:20.338]  I mean, I read in the news, I don't know if that's accurate, but it fits with information I have in closing, Mr. President, that U.S. intelligence has told you that attacking Iran directly, they probably won't fall very quickly, and that that would accelerate them to go ahead and...
+[00:24:20.910 --> 00:24:37.798]  finish the bomb and they're telling you there, sir, that they believe that they have all the ingredients, which they do from my information, and if you haven't been given that information, I would beg you to please go investigate it and find out if you find any information that that's true.
+[00:24:37.798 --> 00:24:49.309]  Because they've got an ace up their sleeve and if they are cornered, they are a Shiite hereditary dictatorship and they are
+[00:25:01.869 --> 00:25:10.650]  And I know in closing, Mr. President, it sounds like I'm arguing for Netanyahu now, saying they're about to get a bomb, and here I am saying I believe they already have a bomb.
+[00:25:11.259 --> 00:25:28.859]  That's the point, is the genie's already out of the bottle, and if cornered, that then accelerates the probability that they will try to smuggle one into Israel, they may already have one in Lebanon, they may already have one in Gaza, or they may be able to deliver one on one of these missiles.
+[00:25:29.039 --> 00:25:39.039]  Instead of firing 100 missiles at a time, they could fire 200, 300 at a time, and in amongst that could be two of these ballistic missiles with atomic bombs.
+[00:25:39.038 --> 00:25:41.038]  on their nose cone.
+[00:25:41.038 --> 00:25:42.818]  It's sad that they probably have it.
+[00:25:42.897 --> 00:25:43.958]  So does North Korea.
+[00:25:43.958 --> 00:25:45.038]  So do a lot of others.
+[00:25:45.038 --> 00:25:46.598]  So that's where we are.
+[00:25:47.480 --> 00:25:49.240]  I'm not going to tell you what I think you should do.
+[00:25:49.359 --> 00:26:02.660]  I would just ask you to please take your time on this, sir, and not be stampeded into anything that could potentially not just derail your agenda to save America and the West and the world, but could trigger the end of the world as we know it.
+[00:26:04.060 --> 00:26:07.380]  Alex Jones, the deep state tried to shut you down and they failed.
+[00:26:07.539 --> 00:26:08.980]  Where do people go to get your show?
+[00:26:09.099 --> 00:26:10.359]  Where do they get you on social media, sir?
+[00:26:11.700 --> 00:26:13.980]  Well, we're still fighting, but we're still here winning in court now.
+[00:26:14.099 --> 00:26:14.720]  They're very panicked.
+[00:26:14.900 --> 00:26:19.200]  At RealAlexJones on X and at Infowars.com forward slash show.
+[00:26:19.420 --> 00:26:20.599]  And Steve, thank you so much.
+[00:26:20.859 --> 00:26:22.039]  I'd love to interview you.
+[00:26:22.119 --> 00:26:22.859]  You're really the story.
+[00:26:23.380 --> 00:26:26.960]  I know you talked to the president yesterday and you're a very humble person.
+[00:26:27.099 --> 00:26:30.420]  I know a lot of other smart people are as well, but I know he respects you because you've been right.
+[00:26:30.670 --> 00:26:33.630]  Basically every time, nobody's got an accuracy rate like you.
+[00:26:33.789 --> 00:26:34.609]  I'm junior to that.
+[00:26:34.789 --> 00:26:36.049]  You are tomorrow's news today.
+[00:26:36.170 --> 00:26:38.769]  So for myself, my family, and the whole world, thank you, Steve Bannon.
+[00:26:40.150 --> 00:26:41.309]  Alex Jones, thank you.
+[00:26:41.549 --> 00:26:45.529]  You've been doing this for many decades, and you've been dead spot on in this, sir.
+[00:26:45.789 --> 00:26:46.190]  Thank you.
+[00:26:46.390 --> 00:26:49.029]  I hope the president takes your advice.
+[00:26:49.369 --> 00:26:51.769]  Slow down, think it through, look at alternatives.
+[00:26:53.430 --> 00:26:54.349]  Very wise.
+[00:26:54.630 --> 00:26:56.029]  That's called discernment right there.
+[00:26:56.450 --> 00:26:58.549]  That's how you stop on this war fever.
+[00:26:58.880 --> 00:27:00.400]  We don't need war fever right now.
+[00:27:00.579 --> 00:27:06.619]  We need the president to take his time and think things through, as Alex Jones just said, so eloquently put out.
+[00:27:06.779 --> 00:27:07.200]  Short break.
+[00:27:08.380 --> 00:27:13.900]  My friends know that I usually think everything's a scam from supplements and products and vitamins.
+[00:27:14.140 --> 00:27:15.279]  I don't take anything.
+[00:27:15.279 --> 00:27:21.119]  I usually buy it, try it, don't feel the results, end up tossing it and wasting money.
+[00:27:21.519 --> 00:27:24.240]  So I love Alex Jones and the InfoWars crew.
+[00:27:24.759 --> 00:27:31.599]  And Alex kept playing this video of Robert Kennedy Jr. putting some blue drops in what looked like water.
+[00:27:31.619 --> 00:27:33.819]  And I wanted a way to support the team.
+[00:27:33.819 --> 00:27:36.640]  So I decided to buy this methylene blue.
+[00:27:36.819 --> 00:27:39.359]  This methylene blue is tremendous.
+[00:27:39.359 --> 00:27:42.019]  I would not be making this video if I didn't believe in it.
+[00:27:42.160 --> 00:27:46.440]  After I take it throughout the day, I start feeling better and better and better.
+[00:27:46.599 --> 00:27:47.480]  My workouts.
+[00:27:47.660 --> 00:27:50.839]  I feel like I'm 15 years younger than I am.
+[00:27:50.840 --> 00:27:56.721]  And the app that I record my running on proves that my workouts are getting better.
+[00:27:56.950 --> 00:27:57.910]  So I gotta tell you what.
+[00:27:58.369 --> 00:28:02.910]  God, family, country, Infowars, and methylene blue.

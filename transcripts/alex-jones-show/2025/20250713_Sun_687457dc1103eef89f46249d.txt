@@ -1,0 +1,1756 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, custom faster_whisper
+[00:00:00.880 --> 00:00:07.360]  While other networks lie to you about what's happening now, InfoWars tells you the truth about what's happening next.
+[00:00:08.000 --> 00:00:12.000]  Visit Infowars.com forward slash show and support the Infowars.
+[00:00:12.000 --> 00:00:29.989]  *music*
+[00:00:30.000 --> 00:00:32.640]  InfoWars, tomorrow's news, today.
+[00:00:33.280 --> 00:00:41.439]  Ladies and gentlemen, I am Chase Geiser, and I will be hosting this evening, but first, a word from the White House, followed by a word from Alex Jones.
+[00:00:42.079 --> 00:00:44.880]  Donald was the unbeat that he was going to conquer me.
+[00:00:45.200 --> 00:00:48.079]  He takes chances that would make a less daring man shudder.
+[00:00:48.399 --> 00:00:51.120]  To think about the arc of where he's been.
+[00:00:51.439 --> 00:00:54.079]  It's like some sort of mythical story or something.
+[00:00:54.560 --> 00:00:57.759]  This sounds like political presidential talk to me.
+[00:00:58.079 --> 00:01:02.079]  Donald Trump seems to always get stronger with challenge.
+[00:01:02.320 --> 00:01:04.000]  My God, that guy's got resilience.
+[00:01:04.159 --> 00:01:06.560]  Those who deal with you underestimate you and live to regret it.
+[00:01:06.640 --> 00:01:08.480]  It's always good to be underestimated.
+[00:01:09.120 --> 00:01:10.719]  It is not about politics.
+[00:01:10.879 --> 00:01:15.040]  It's about our love for this great country, America.
+[00:01:15.200 --> 00:01:17.120]  And we're not going to let it fail.
+[00:01:18.960 --> 00:01:22.159]  I will fight like no one has ever fought before.
+[00:01:22.480 --> 00:01:25.760]  Trump is the bodyguard of Western civilization.
+[00:01:26.000 --> 00:01:27.040]  You want to talk about a fighter?
+[00:01:27.359 --> 00:01:28.079]  Walk through fights.
+[00:01:28.159 --> 00:01:30.320]  He's an absolute savage.
+[00:01:30.640 --> 00:01:32.879]  He knows that this is much bigger than him.
+[00:01:33.040 --> 00:01:34.239]  It's about the murder people.
+[00:01:34.879 --> 00:01:38.000]  They have no idea what they have unleashed.
+[00:01:38.240 --> 00:01:40.560]  He's ready to go face the cameras and come out swimming.
+[00:01:40.879 --> 00:01:46.240]  What will future Americans say we did in our brief time here, Honor?
+[00:01:46.560 --> 00:01:51.280]  It will be defined by your vision, your perseverance, and your grit.
+[00:01:51.600 --> 00:01:56.480]  Nothing will sway us, nothing will slow us, and no one will ever stop us.
+[00:01:56.719 --> 00:01:57.760]  We are Americans.
+[00:01:57.920 --> 00:01:59.519]  Ambition is our heritage.
+[00:01:59.680 --> 00:02:01.280]  Greatness is our birthright.
+[00:02:01.599 --> 00:02:17.759]  future belongs to us As you know, I just call balls and strikes.
+[00:02:18.400 --> 00:02:24.400]  And after years of saying they were released the Epstein-Fowler list, suddenly they're not going to and we're told it doesn't exist.
+[00:02:24.719 --> 00:02:31.920]  But then Trump comes out last night and says, well, it does exist, but the Democrats had control of it, manipulated it, which is actually true.
+[00:02:32.000 --> 00:02:32.719]  They've had control of it.
+[00:02:32.879 --> 00:02:38.080]  They would destroy anything they didn't want in there and leave what they wanted in there that their investigators could plan.
+[00:02:38.960 --> 00:02:40.879]  So people say, well, whose side are you on?
+[00:02:41.039 --> 00:02:42.080]  This is a giant fiasco.
+[00:02:42.159 --> 00:02:43.680]  I'm trying to call balls and strikes.
+[00:02:43.840 --> 00:03:00.479]  I'm trying to look at every angle of this and understand what's happening, understand why the Trump administration did a 1A the last few months and particularly the last week and did this and then blames loyal supporters that support the overall agenda as being traitorous for doing this.
+[00:03:01.039 --> 00:03:02.560]  Now, we all know what traitor does.
+[00:03:02.640 --> 00:03:07.920]  It was Elon two months ago saying, look, Trump's in the list and that big breakup there.
+[00:03:08.080 --> 00:03:09.360]  And then Trump wants it closed.
+[00:03:09.520 --> 00:03:13.920]  He wants it shut down, which looks extremely, extremely incriminating.
+[00:03:14.240 --> 00:03:18.480]  But from all of my deep research, never saw Trump involved in any illegal activity with Jeffrey Epstein.
+[00:03:18.800 --> 00:03:29.759]  So we are simply here tracking this case, not choosing a side, not wanting to make things be what we want them to be, but simply looking at the facts.
+[00:03:30.000 --> 00:03:32.159]  But I dropped the ball.
+[00:03:33.039 --> 00:03:34.480]  I didn't even think about the fact.
+[00:03:34.560 --> 00:03:39.439]  I'm like, oh, yeah, if they've had the list and they've had the files for years, the Democrats would take stuff out, destroy it.
+[00:03:39.599 --> 00:03:40.319]  Well, that's obvious.
+[00:03:40.560 --> 00:03:43.280]  They would leave in and twist and put in what they wanted.
+[00:03:43.599 --> 00:03:49.039]  They have a long history of false documents, reports, you know, crossfire hurricane.
+[00:03:49.120 --> 00:03:50.159]  The list goes on and on.
+[00:03:50.480 --> 00:03:51.599]  January 6th.
+[00:03:52.159 --> 00:03:53.759]  So we've got to investigate this.
+[00:03:53.840 --> 00:03:56.159]  We've got to keep open minds about this on all angles.
+[00:03:56.480 --> 00:03:58.159]  But this is the big story.
+[00:03:58.480 --> 00:04:02.240]  And this has put the Trump administration into a mega massive crisis.
+[00:04:02.800 --> 00:04:09.200]  And Trump at press conferences and the rest of it saying, don't ask questions, triggers the ultimate strizzen effect and is insane.
+[00:04:09.520 --> 00:04:13.520]  So I don't know where in the world they're coming up with that plan.
+[00:04:13.840 --> 00:04:15.599]  We'll continue to track this in live time.
+[00:04:15.680 --> 00:04:16.639]  We'll cover the good Trump's doing.
+[00:04:16.720 --> 00:04:19.280]  We'll cover the bad he's doing to give Trump our ongoing advice.
+[00:04:19.360 --> 00:04:22.399]  And I'm going to post a video later, do a live show today at 4 p.m.
+[00:04:22.480 --> 00:04:26.399]  Central, breaking down what I think Trump needs to do to get things back on track.
+[00:04:26.720 --> 00:04:28.879]  And that's release everything.
+[00:04:29.199 --> 00:04:30.720]  That's why Steve Bannon wants it released.
+[00:04:30.879 --> 00:04:32.000]  He went and interviewed Epstein.
+[00:04:32.079 --> 00:04:32.399]  He knew him.
+[00:04:32.480 --> 00:04:33.280]  Nothing to hide.
+[00:04:33.600 --> 00:04:35.759]  You got Alan Dershwood saying, release it all.
+[00:04:36.000 --> 00:04:37.600]  Doesn't incriminate me.
+[00:04:38.160 --> 00:04:38.480]  Okay.
+[00:04:38.720 --> 00:04:40.400]  Well, then release the whole thing.
+[00:04:40.560 --> 00:04:41.600]  This is not going away.
+[00:04:41.920 --> 00:04:44.079]  It's only blown up 10 times bigger.
+[00:04:44.240 --> 00:04:45.600]  It's out of control.
+[00:04:45.920 --> 00:04:47.360]  And this was so obvious a week ago.
+[00:04:47.439 --> 00:04:48.560]  People said, oh, you're being a traitor.
+[00:04:48.639 --> 00:04:49.759]  It's saying this will be a big issue.
+[00:04:50.000 --> 00:04:51.600]  No, I'm seasoned.
+[00:04:51.680 --> 00:04:52.079]  I'm informed.
+[00:04:52.160 --> 00:04:52.560]  I'm involved.
+[00:04:52.639 --> 00:04:54.000]  I know what's going on.
+[00:04:55.920 --> 00:04:56.720]  It's insane.
+[00:04:56.959 --> 00:04:58.240]  We'll cover it all in FullWars.com.
+[00:04:58.319 --> 00:05:00.400]  We're a lot showing on X. Pray for America.
+[00:05:00.480 --> 00:05:00.879]  Pray for peace.
+[00:05:01.040 --> 00:05:02.000]  Pray for President Trump.
+[00:05:02.160 --> 00:05:02.879]  Do the right thing.
+[00:05:03.519 --> 00:05:09.680]  It's Sunday, July 13th, 2025.
+[00:05:11.280 --> 00:05:28.800]  And I have really held my tongue for the last 24 hours on the ongoing, exploding Trump Epstein scandal until I can do a lot of more research, make a lot of phone calls, and try to look at the big picture.
+[00:05:30.400 --> 00:05:38.560]  So it's very important for everybody out there watching to understand that I'm one of the first people to ever report on Epstein more than 16, 17 years ago.
+[00:05:39.759 --> 00:05:46.480]  And I know more details about all the different angles of it than probably almost anybody.
+[00:05:47.439 --> 00:05:59.040]  And then separately, you've got the behavior of the last six months of Trump getting in office and the 180 they've done in the last few months that has triggered a huge firestorm.
+[00:05:59.600 --> 00:06:16.879]  So whether or not you think the Epstein case is important to bring it down to the deep state, whether or not you think it's the hill to die on and a red line that Trump shouldn't have crossed, regardless, we've got to unpack all the different angles and details to this.
+[00:06:18.720 --> 00:06:22.480]  So kind of, let me start at the end and then work back from the start.
+[00:06:22.800 --> 00:06:38.720]  Yesterday afternoon, Trump on True Social and X puts out a statement that you've probably all seen And says, listen, we got the best government, the whole world's talking about it, the country's turning around, we're getting so much done.
+[00:06:39.279 --> 00:06:47.600]  And Obama and Clapper, and Britton, and Hillary, Obama, Clapper, Brennan, and Hillary Clinton created the Epstein file.
+[00:06:48.240 --> 00:06:50.560]  And so we need to drop it.
+[00:06:52.399 --> 00:06:57.279]  And when I saw that, that opened up an entire other avenue of thought.
+[00:06:58.160 --> 00:07:04.079]  Not that I trust Trump, though overall I think he's a good man and he's done great work and he will hates him.
+[00:07:04.399 --> 00:07:17.519]  But I hadn't even thought about the fact that for the last four years and even before that, because they kept it hidden from Trump when he first got in, that's been affirmed, they have had the so-called file.
+[00:07:18.399 --> 00:07:35.040]  And so that really is a true statement that what they've cherry-picked and what they wanted to leave in the files in New York, that Pam Bondi and Cache Patel ordered release back in March, and the head of the FBI in New York wouldn't do it and then had to resign and they went and grabbed it.
+[00:07:35.360 --> 00:07:47.759]  But what is in there is what they didn't decide to destroy from Epstein Island, Zorro Ranch, Little St. John's Island, all of it.
+[00:07:49.519 --> 00:07:52.399]  So I had not even thought of that angle.
+[00:07:52.720 --> 00:07:56.879]  And I'll unpack that in a moment, but there's so many pieces to this.
+[00:07:57.840 --> 00:08:00.399]  But people really blew up at that.
+[00:08:00.720 --> 00:08:09.840]  And they went, oh my God, now Trump's saying it's like Russia gate and all the rest of stuff that it's their file.
+[00:08:10.000 --> 00:08:12.159]  Well, technically, that's true.
+[00:08:12.480 --> 00:08:14.319]  So I call balls and strikes on this.
+[00:08:14.639 --> 00:08:22.879]  And I'm not here defending the fiasco we've seen and what's unfolded that we've been at the very center of breaking and reporting on.
+[00:08:24.079 --> 00:08:26.639]  But I have my integrity, so I've got to go where the facts lead.
+[00:08:26.960 --> 00:08:42.480]  That said, you notice during the last few days, I've posted a few articles, a few videos, but I've not really made a bunch of big statements about this because I wanted to really do my own research and really make an informed decision about what I was about to say.
+[00:08:44.000 --> 00:08:48.639]  And doing that research has only opened up more questions than it's answered.
+[00:08:48.960 --> 00:08:50.879]  So it's very easy to be outraged at Trump.
+[00:08:50.960 --> 00:08:53.440]  It's very easy to just back him and say, shut up.
+[00:08:53.759 --> 00:08:56.960]  You know, this is Democrat propaganda.
+[00:08:57.920 --> 00:08:59.200]  Let's get past all of that.
+[00:08:59.360 --> 00:09:01.600]  And let's first set the table with this.
+[00:09:01.920 --> 00:09:04.639]  So I've come to the latest information with Trump.
+[00:09:04.799 --> 00:09:06.000]  Now I'm going to go back to the beginning.
+[00:09:06.319 --> 00:09:33.920]  But before we do that, let's remember that one year ago today, July 13, 2024, in Butler, Pennsylvania, a young man with total government federal MO connections goes to that fairground and is on top of that building for at least 10 minutes with a gun and everybody's saying gun, gun, gun.
+[00:09:34.000 --> 00:09:34.960]  No one does anything.
+[00:09:35.840 --> 00:09:49.840]  And sure enough, they've now forced the Trump administration part of the report to come out that 10 days before, they got a specific threat alert on the planet Butler.
+[00:09:51.440 --> 00:10:01.279]  And then that was basically stood down on by the deputy director who we now know is involved running the standout, who became the director for a while when the head resigned over it.
+[00:10:01.440 --> 00:10:03.440]  It was just a front person, a puppet.
+[00:10:03.759 --> 00:10:19.680]  So let's just have that back rock here of the stress and the pressure that Trump is under and the fact that the bad guys that we know are bad, the Democrats, the globalists, Obama's people, he just had his third elected term with Biden.
+[00:10:19.920 --> 00:10:23.200]  Let's just remember that when we're balancing all this, okay?
+[00:10:23.840 --> 00:10:26.000]  Because my job is not to be an apologist here for Trump.
+[00:10:26.159 --> 00:10:38.000]  I'm very, very upset, not just about this, but a bunch of other stuff that just sort of happened the last month and the last few days, where Trump was going from like 99% good.
+[00:10:38.319 --> 00:10:40.399]  People are like, why are you a total cheerleader?
+[00:10:40.639 --> 00:10:42.960]  Why are you just 100% fawning on him?
+[00:10:43.279 --> 00:10:45.120]  Because we were running the tables on him.
+[00:10:45.759 --> 00:10:48.720]  And then the last few months, things have gone dun, dun, dun, dun, dun, dun, dun, dun.
+[00:10:48.879 --> 00:10:50.000]  Not done at 180 yet.
+[00:10:50.160 --> 00:10:53.519]  Far from it, but like we'll say we're 12 o'clock in perfect action.
+[00:10:53.840 --> 00:10:55.759]  He was about 12.30.
+[00:10:57.039 --> 00:10:59.279]  And all of a sudden, we're about 3 o'clock right now.
+[00:11:02.079 --> 00:11:03.039]  About 2.30.
+[00:11:03.360 --> 00:11:04.000]  We keep going.
+[00:11:04.079 --> 00:11:04.960]  We'll be 180.
+[00:11:05.200 --> 00:11:07.920]  We'll be the opposite direction.
+[00:11:09.200 --> 00:11:12.879]  And so in general, I am extremely concerned.
+[00:11:13.200 --> 00:11:15.279]  But discretion is a greater part of valor.
+[00:11:15.600 --> 00:11:21.680]  We need to really be intellectual about this and geopolitically analyze all the pieces.
+[00:11:21.759 --> 00:11:23.600]  And so I've got a bunch of notes here.
+[00:11:23.920 --> 00:11:32.720]  I'm going to try to go through these, but let's just set the table at a year ago what happened today, and let's set the table with what happened yesterday with Trump's statement.
+[00:11:35.680 --> 00:11:41.039]  All right, so there's so many places to go here.
+[00:11:42.000 --> 00:11:46.799]  Let me just go back to the Epstein situation.
+[00:11:47.440 --> 00:12:03.279]  The Democrats, some Republicans bipartisanly, going back to his first conviction, it was a whitewash down in Palm Beach 15, 16 years ago, did everything they could to not have the story blow up big and to just charge him with some limited stuff.
+[00:12:03.519 --> 00:12:07.840]  He spent like a year in jail, only checked himself out in at night at the Sheriff's Department.
+[00:12:08.160 --> 00:12:13.440]  And yet the U.S. attorney, Alexander Acosta, say on record, no, he was intelligence agency.
+[00:12:13.519 --> 00:12:16.160]  I was told, leave him alone, slap him on the wrist.
+[00:12:16.799 --> 00:12:26.319]  So clearly, the MO of Maxwell and her dad and him and Barr and all of it is total intelligence agency, honeypot, spy operation.
+[00:12:26.480 --> 00:12:31.519]  He got the Israeli prime minister, Abu Barack, constantly there.
+[00:12:31.600 --> 00:12:32.079]  He got Bill Gates.
+[00:12:32.240 --> 00:12:33.440]  I mean, he goes on and on.
+[00:12:34.639 --> 00:12:37.600]  And so Trump was in New York social-like, Palmy social-like.
+[00:12:37.759 --> 00:12:38.559]  He knew Epstein.
+[00:12:38.639 --> 00:12:42.079]  I did deep research on him, never any connection to any of the crimes he committed.
+[00:12:42.720 --> 00:12:47.039]  Trump actually kicked him out of Mar-a-Lago 15 plus years ago, one of the first people to criticize him.
+[00:12:47.440 --> 00:12:50.319]  The jury said nice things about him before because they're interviewing the newspapers all the time.
+[00:12:50.480 --> 00:12:52.240]  Trump said a lot of nice stuff about me.
+[00:12:53.120 --> 00:12:59.519]  So I made the decision to clearly back Trump because I investigated the Epstein thing.
+[00:12:59.680 --> 00:13:04.480]  Nobody was talking About it right when I was vetting Trump nine and a half years ago before I endorsed him.
+[00:13:06.399 --> 00:13:08.799]  So I don't believe Trump's involved in any of that.
+[00:13:10.000 --> 00:13:13.440]  So you get Biden not wanting any of the Epstein case release.
+[00:13:13.600 --> 00:13:16.000]  They send in Comey's daughter and others to cover it up.
+[00:13:16.240 --> 00:13:20.960]  The Maxwell case, the PDD case a few weeks ago, the Epstein case in New York.
+[00:13:21.279 --> 00:13:24.639]  He dies in custody, human trafficking charges.
+[00:13:26.240 --> 00:13:29.519]  His partner crime Maxwell's in jail for human trafficking.
+[00:13:31.120 --> 00:13:34.720]  And we recently get told there is no human trafficking.
+[00:13:35.360 --> 00:13:37.919]  There is no blackmail.
+[00:13:38.559 --> 00:13:40.559]  There is, he killed himself.
+[00:13:40.720 --> 00:13:42.559]  Just go to sleep.
+[00:13:43.200 --> 00:13:48.399]  And this is after we see Bondi, as you already know, and many others saying, no, no, no.
+[00:13:48.720 --> 00:13:50.159]  We got these 14 terabytes.
+[00:13:50.320 --> 00:13:52.240]  The Democrats were controlling them in New York.
+[00:13:52.559 --> 00:13:54.559]  At the FBI, they wouldn't give it to us.
+[00:13:54.720 --> 00:13:55.519]  We went and got it.
+[00:13:55.840 --> 00:13:57.600]  It's all those horrible kids being raped.
+[00:13:57.759 --> 00:13:58.639]  It's all this terrible stuff.
+[00:13:58.799 --> 00:14:00.639]  Hundreds of new victims with Epstein.
+[00:14:00.799 --> 00:14:02.320]  She's very specific.
+[00:14:03.200 --> 00:14:10.879]  And then all of a sudden, Moncino and Patel come out a few months ago on Fox, like Darren Headlines, going, it's all open and shut.
+[00:14:10.960 --> 00:14:11.440]  There's nothing there.
+[00:14:11.519 --> 00:14:12.240]  The case is closed.
+[00:14:12.320 --> 00:14:14.159]  And Butler's closed, too.
+[00:14:15.120 --> 00:14:16.159]  People go, man, that's terrible.
+[00:14:16.320 --> 00:14:21.519]  Then they go on a tour and Patel goes on Rogan and says the same stuff a month later, a bunch of other shows.
+[00:14:21.680 --> 00:14:32.720]  And we're just like, if you guys think you can't prosecute this and want to move on from it, because it's got U.S. intelligence, Israeli intelligence involved, I'm not endorsing that, but I can at least understand the logic from your perspective of it.
+[00:14:33.039 --> 00:14:36.080]  I said back then a few months ago, I said, shut up then.
+[00:14:36.960 --> 00:14:38.879]  This is a self-inflicted wound.
+[00:14:39.360 --> 00:14:51.120]  The way you are just absolutely, fully, and completely doing exactly what I would do if I was trying to discredit myself, as I said at the time.
+[00:14:52.080 --> 00:14:55.039]  And then Bondi, though, still makes statements about, no, no, we're investigating.
+[00:14:55.120 --> 00:14:56.399]  It's out at the field offices.
+[00:14:56.720 --> 00:14:58.000]  And we've sent it out to be investigated.
+[00:14:58.080 --> 00:15:00.320]  I confirm from FBI sources that was the case.
+[00:15:00.960 --> 00:15:15.519]  And of course, we broke with O'Boyle, the famous FBI was the blower the day before it came out that his source in New York said they actually had a bunch of horrible stuff that the Democrats were suppressing with Comey and others, and that they were getting a meeting that night with Mondi, his source.
+[00:15:15.840 --> 00:15:19.120]  And the next day she goes, yeah, she put the cover sheet on that and said, I was given old stuff.
+[00:15:19.279 --> 00:15:20.319]  I'm going to get the new stuff.
+[00:15:20.639 --> 00:15:22.240]  So, see, that isn't somebody that's covering up.
+[00:15:22.319 --> 00:15:28.879]  It's somebody that's learning about the case in over their head because they weren't in the federal government.
+[00:15:29.200 --> 00:15:32.240]  They were the state attorney general, and they're learning the case.
+[00:15:32.639 --> 00:15:36.000]  Those of us that know about it up one side, down the other, it's like, this is pure crap.
+[00:15:36.319 --> 00:15:42.480]  So I was defending her a few months ago or four or five months ago saying, well, you don't go grab the files from the Democrats that are hiding them in New York.
+[00:15:42.559 --> 00:15:45.120]  You don't distribute them out to the FBI offices around the country.
+[00:15:45.440 --> 00:15:47.920]  You're going to cover up, obviously.
+[00:15:48.240 --> 00:15:50.159]  Then that's new information.
+[00:15:50.480 --> 00:15:51.360]  People say, release it.
+[00:15:51.440 --> 00:15:52.399]  Well, they just got it.
+[00:15:52.639 --> 00:15:56.240]  Just a bunch of innocent people, kids and their victims, whistleblowers, you name it.
+[00:15:56.879 --> 00:16:00.319]  But then I see the Deer in the Headlines Fox interview with the FBI director, deputy director.
+[00:16:00.480 --> 00:16:03.759]  Then I see the weird tour that blew up in their face and they kept doing it.
+[00:16:04.080 --> 00:16:06.480]  And I was like, somebody's telling them to do that.
+[00:16:07.360 --> 00:16:20.720]  Well, then last week, when last Sunday, now, it seems like a million years ago, it was only seven, eight days ago, when the chess part puts out that memo and says he wasn't working with anybody.
+[00:16:20.799 --> 00:16:22.240]  There was no blackmail.
+[00:16:22.559 --> 00:16:23.680]  There wasn't human trafficking.
+[00:16:23.920 --> 00:16:25.279]  He killed himself.
+[00:16:25.840 --> 00:16:26.960]  I was like, wow.
+[00:16:27.120 --> 00:16:30.639]  And I went on the air Monday and I said, this isn't Pam Bondi.
+[00:16:31.200 --> 00:16:31.920]  I'm ain't defending her.
+[00:16:32.159 --> 00:16:35.039]  It's not like, oh, I choose this person or that person for a football team.
+[00:16:35.360 --> 00:16:36.960]  I'm like, this is going to discredit her.
+[00:16:37.120 --> 00:16:38.799]  She's been told to do this.
+[00:16:39.120 --> 00:16:41.600]  And, well, her only boss is Trump.
+[00:16:41.920 --> 00:16:43.360]  People said, oh, no way, it's her.
+[00:16:43.440 --> 00:16:44.799]  She's an idiot out over skis.
+[00:16:44.960 --> 00:16:50.639]  That night, Trump comes out through social and says, yeah, great job, Bonchino, great job, Patel, great job, FBI.
+[00:16:50.799 --> 00:16:52.480]  Time to move on, do your more important work.
+[00:16:52.960 --> 00:16:54.000]  It's Trump.
+[00:16:54.319 --> 00:16:57.920]  And the next day in a press conference on Tuesday, he says, you know, hey, don't ask these questions.
+[00:16:58.159 --> 00:16:58.559]  Move on.
+[00:16:58.720 --> 00:17:00.000]  This guy doesn't matter.
+[00:17:00.879 --> 00:17:05.599]  When his surrogates and his campaign, the Republicans made a huge deal about releasing all this stuff.
+[00:17:05.920 --> 00:17:22.799]  They play games about, you know, is it a client list or is it no, it's all the videos and all the databases and all the footage and hard drives they got at Zorro Ranch that the FBI reports said would fill houses with hard drives, VHS DVDs, and all the videos and photos out of little St. John's, the Caribbean, and New York.
+[00:17:22.960 --> 00:17:24.319]  I mean, that's all public.
+[00:17:25.360 --> 00:17:31.680]  So then we have our sources and the FBI that confirmed they were all sent this stuff to investigate it.
+[00:17:32.000 --> 00:17:34.079]  So I'm trying to make sense of all that.
+[00:17:36.319 --> 00:17:45.279]  And now you've seen Trump with his true social last night and here on X saying, you know, hey, look at all the great stuff we've done.
+[00:17:45.599 --> 00:17:48.240]  The boys are fighting with Pam, but I back Pam.
+[00:17:48.799 --> 00:17:50.079]  We all need to get on the same team.
+[00:17:50.240 --> 00:17:52.639]  Some of my so-called friends are bringing this up.
+[00:17:52.799 --> 00:17:53.920]  You know, I'm good.
+[00:17:54.240 --> 00:17:55.840]  Just trust me and move on.
+[00:17:56.480 --> 00:17:58.400]  Trump is not stupid.
+[00:17:59.599 --> 00:18:02.240]  I don't believe he's involved with FCN criminal.
+[00:18:03.519 --> 00:18:09.440]  These files aren't just a list of Johns doing this evil stuff.
+[00:18:09.759 --> 00:18:11.360]  It's all his business stuff.
+[00:18:11.680 --> 00:18:22.160]  And so Trump had said back in October with Lex Friedman, well, I'll release JFK and 9-11 and RFK and all that, and I'm okay, but maybe not the F-CN because that might hurt innocent people.
+[00:18:23.440 --> 00:18:26.079]  How does it hurt innocent people if innocent people went to the island?
+[00:18:26.160 --> 00:18:27.519]  I mean, Disney Cruises went there.
+[00:18:27.840 --> 00:18:31.759]  How does it hurt innocent people if you're not in the investigation of criminal area?
+[00:18:32.639 --> 00:18:40.160]  But you see, it's a bunch of powerful business leaders and people, a bunch of them who are guilty, and they're telling Trump this will bring down the stock market.
+[00:18:40.400 --> 00:18:41.920]  This will crash the economy if this happens.
+[00:18:42.000 --> 00:18:44.880]  And I said that last Monday, and I've been proven right.
+[00:18:44.960 --> 00:18:46.400]  And now I've floated that through circuits.
+[00:18:46.480 --> 00:18:47.039]  That's what it is.
+[00:18:47.360 --> 00:18:49.279]  And I'm not defending that.
+[00:18:49.840 --> 00:18:52.000]  I'm just simply laying out the thought process.
+[00:18:52.319 --> 00:18:58.000]  People keep taking clips of me out of context when I'm wargaming this at Devil's Advocating and saying, oh, look, Jones endorsed that.
+[00:18:58.079 --> 00:18:59.680]  No, no, I'm here exposing it all.
+[00:19:00.240 --> 00:19:12.240]  But what I do is try to get listeners and viewers who teach me a lot as well in your comments and videos, but also I teach you to actually do what real intelligence analysts do that I do as a private intelligence analyst for freedom, InfoWars.
+[00:19:13.519 --> 00:19:29.279]  And I go out and try to, when I don't know exactly what's happening, but I have a general understanding, to take all the historical context, current behavior, who stands to gain, Kibono, how the narratives are changing, and try to give you an approximation of what's most accurate.
+[00:19:29.599 --> 00:19:33.039]  Like today, to have a website named Infowars seems like that's what this all is.
+[00:19:33.200 --> 00:19:35.039]  They say we're in InfoWar, everything's Infowar now.
+[00:19:35.519 --> 00:19:43.440]  Well, people were so unaware of this back in 97 when I registered that name that I would say it was Infowar, really popularized the term, even though it was already in use in intelligence.
+[00:19:43.759 --> 00:19:49.279]  Just an example of how things that I've known for decades and decades and decades seem kind of mainstream now.
+[00:19:49.519 --> 00:19:53.039]  But we're not just talking about what people know now that I knew 30 years ago.
+[00:19:53.119 --> 00:19:55.680]  We're talking about what I know now that most people don't understand.
+[00:19:56.240 --> 00:19:58.799]  And my job is not to sit up and say, oh, I'm so smart.
+[00:19:59.039 --> 00:20:03.200]  My job is try to explain people how I know this and why the bad guys want me off the air.
+[00:20:03.519 --> 00:20:04.400]  Not just from sources.
+[00:20:04.480 --> 00:20:06.160]  That's a very small part of what I do, maybe 10%.
+[00:20:06.640 --> 00:20:08.720]  I just kind of confirm with sources and see what they think.
+[00:20:09.200 --> 00:20:18.960]  High-level folks, generals and FBI agents and intelligence operatives and corporate leaders and political operatives, psychologists and witnesses, military people, people on the ground.
+[00:20:19.039 --> 00:20:24.880]  I mean, I've been making a lot of phone calls just to bounce stuff off people before I come to you with this information.
+[00:20:28.400 --> 00:20:32.640]  So here's where we are on this live Sunday stream.
+[00:20:34.480 --> 00:20:37.119]  One year after Twitter, the deep state tried to kill Trump.
+[00:20:37.200 --> 00:20:38.799]  We'll get into that coming up.
+[00:20:39.759 --> 00:20:43.599]  Here's what I now want to really get to in all of this.
+[00:20:43.920 --> 00:20:46.640]  The public has the right to ask questions about this.
+[00:20:46.960 --> 00:20:56.000]  I'm proud of populistic common sense conservatives that we are so upset about clearly 180s that have been done in front of us because we're not the Democrats.
+[00:20:56.079 --> 00:20:58.319]  We're not a cult that accepts two men can have a baby.
+[00:20:58.400 --> 00:21:00.000]  There's no X and Y chromosomes.
+[00:21:00.559 --> 00:21:02.720]  You know, the two plus two can equal seven.
+[00:21:03.039 --> 00:21:04.880]  Common core fuzzy math.
+[00:21:05.440 --> 00:21:12.559]  We built the populist movement, not just here, but worldwide, that all these great people are getting elected on.
+[00:21:12.880 --> 00:21:17.519]  And that's why the globalists are having to try to ban political parties and arrest political opposition because freedom is popular.
+[00:21:17.920 --> 00:21:19.599]  Tyranny is not popular.
+[00:21:20.240 --> 00:21:31.440]  So the attempts by some of Trump world surrogates to reach out to talk show hosts and journalists and influencers and say, hey, your access will be cut off.
+[00:21:31.519 --> 00:21:32.960]  You'll never be invited to a Trump event again.
+[00:21:33.039 --> 00:21:34.319]  You'll never be invited to the White House.
+[00:21:34.559 --> 00:21:36.319]  You'll never be any of this stuff.
+[00:21:36.880 --> 00:21:38.480]  You're not going to need conservative sponsorship.
+[00:21:38.559 --> 00:21:42.400]  You know, no campaign contribution, you know, ads running next cycle if you do this.
+[00:21:42.720 --> 00:21:44.160]  And that's been going on.
+[00:21:45.440 --> 00:21:47.920]  That, A, is not very moral.
+[00:21:48.240 --> 00:21:50.079]  That's how the Democrats try to censor and control.
+[00:21:50.240 --> 00:21:57.039]  And then B, it's going to create a mega Streisand effect, as I said seven, eight days ago.
+[00:21:57.599 --> 00:22:00.960]  And that is exactly what all of this has done.
+[00:22:01.279 --> 00:22:10.240]  So again, I go back to the central point of it is Trump and it is his advisors that have gone with this narrative of him just saying, forget about it, move along.
+[00:22:10.480 --> 00:22:12.559]  These aren't the droids you're looking for.
+[00:22:16.319 --> 00:22:26.160]  As populists, nationalists, common sense conservatives, whatever you want to call us, Christians, we are not falling to Jedi mind tricks and gaslighting.
+[00:22:27.360 --> 00:22:28.880]  Oh, teeny Jedi.
+[00:22:30.160 --> 00:22:32.880]  So the mind tricks don't work.
+[00:22:33.039 --> 00:22:37.279]  In fact, it makes everybody go, ooh, why are you doing this?
+[00:22:38.799 --> 00:22:41.200]  Now, we know why this is happening now.
+[00:22:41.680 --> 00:22:56.640]  A few months ago, Trump's director of hiring, who's got a very mysterious past himself, Gore, killed Elon's director of NASA.
+[00:22:58.240 --> 00:23:03.360]  It did a bunch of other stuff because the Republicans didn't want Elon in there because he's killing real corruption.
+[00:23:04.319 --> 00:23:05.599]  And people said, oh, screw Elon.
+[00:23:05.680 --> 00:23:08.319]  We choose Trump like it was a beauty pageant or something.
+[00:23:08.640 --> 00:23:09.759]  And I said, you need to look out.
+[00:23:09.920 --> 00:23:12.000]  Folks messed with Elon, came after him, the Democrats.
+[00:23:12.079 --> 00:23:12.799]  How'd that work out?
+[00:23:13.039 --> 00:23:14.319]  So this is a really bad rift.
+[00:23:14.400 --> 00:23:15.440]  It's really dangerous.
+[00:23:15.759 --> 00:23:16.559]  It's out of control.
+[00:23:16.720 --> 00:23:21.360]  Trump came out and said, maybe we'll use Does to shut down his companies and the monster he created.
+[00:23:21.680 --> 00:23:23.680]  I said, that's very dangerous, not good.
+[00:23:24.000 --> 00:23:27.599]  But I said, regardless now, this Epstein thing out there in the open, how will Trump respond?
+[00:23:27.839 --> 00:23:36.480]  Well, Trump puts the pressure on, and he has Bongino and Patel announced the case is closed.
+[00:23:36.559 --> 00:23:43.360]  They start doing it a month and a half ago, two months ago, right after Elon makes those statements about dropping a big bomb here.
+[00:23:43.519 --> 00:23:46.400]  Trump's in the investigation, basically in the list.
+[00:23:46.720 --> 00:23:47.759]  Didn't say he's raping kids.
+[00:23:47.840 --> 00:23:50.400]  He said it's being suppressed as he's in there.
+[00:23:51.279 --> 00:23:55.119]  And I'm like, I don't know if that's true, but let's just see.
+[00:23:55.200 --> 00:23:55.920]  But this is dangerous.
+[00:23:56.079 --> 00:23:57.119]  A lot of people have pop card out.
+[00:23:57.200 --> 00:23:57.680]  Hey, this is fun.
+[00:23:57.759 --> 00:23:58.799]  It's like a gladiator fight.
+[00:23:58.880 --> 00:23:59.360]  No, it's not.
+[00:23:59.680 --> 00:24:00.559]  We need Trump to succeed.
+[00:24:00.639 --> 00:24:01.599]  We need to stop the globalists.
+[00:24:01.680 --> 00:24:03.360]  We need to, the Democrats, we know are peer evil.
+[00:24:03.599 --> 00:24:04.880]  That's a known thing.
+[00:24:07.039 --> 00:24:09.119]  And so now you see this mature.
+[00:24:10.079 --> 00:24:12.960]  It's not really been Elon that's been progenerating it now.
+[00:24:14.160 --> 00:24:22.240]  It was Trump's over-response coming out and saying, I want that investigation case closed.
+[00:24:22.400 --> 00:24:26.160]  And people said, how dare me last Monday say this is for Trump, not Bondi.
+[00:24:26.400 --> 00:24:28.160]  People were trying to scapegoat.
+[00:24:28.799 --> 00:24:34.960]  And then, of course, he came out with a statement on True Social Afternoon and the next day at the press conference that's now so famous and said, it's done.
+[00:24:35.039 --> 00:24:35.440]  It's over.
+[00:24:35.680 --> 00:24:41.200]  Word for word, what Patel and Bongino and all of them are saying.
+[00:24:42.480 --> 00:24:46.639]  And then Mondi fell on her sword and reversed her assault at that same press conference and said, I didn't mean that.
+[00:24:46.799 --> 00:24:47.680]  You're misinterpreting it.
+[00:24:48.240 --> 00:24:49.440]  No, no, it was very specific.
+[00:24:49.759 --> 00:24:51.680]  So everybody has seen this.
+[00:24:52.000 --> 00:24:59.519]  And if we go along with the gaslighting and drink the Kool-Aid, we are now aiding and abetting in the lie.
+[00:24:59.840 --> 00:25:02.559]  We're now aiding and abetting in this.
+[00:25:02.639 --> 00:25:04.079]  We're now becoming a cult.
+[00:25:04.960 --> 00:25:14.240]  And we are now, by extension, becoming accessories after the fact in front of God, not under law.
+[00:25:14.880 --> 00:25:23.200]  But by saying none of this matters, none of this ever existed, none of this ever happened, we now, by extension, become part of that.
+[00:25:23.519 --> 00:25:26.480]  And that's why it's the hill to die on.
+[00:25:26.639 --> 00:25:30.960]  That's why I can't sit there and be part of this.
+[00:25:31.039 --> 00:25:33.119]  Now, I'm going to continue to support the good things Trump's doing.
+[00:25:33.440 --> 00:25:38.639]  I'm going to continue to try to watch the personnel and people he's putting in to say, this person I think is great, this person I think is bad.
+[00:25:38.960 --> 00:25:40.240]  I'm going to continue.
+[00:25:40.880 --> 00:25:44.880]  But at the end of the day, Trump is not the movement.
+[00:25:45.039 --> 00:25:53.200]  Trump is the leader in the West, really of the world, who rode in on that wave that you and I created.
+[00:25:53.440 --> 00:25:54.960]  And we want him to succeed.
+[00:25:55.279 --> 00:26:08.639]  But we need to not put the cart before the horse to understand that it's God that's in command and God working through us and the liberty movement that's 60, 70, 80 years old, hell even older than that, back at the Renaissance, but in modern parlance, that isn't going to give up our values.
+[00:26:08.960 --> 00:26:09.759]  That isn't going to stop.
+[00:26:09.839 --> 00:26:11.119]  And I'll get to some of that in a moment.
+[00:26:11.489 --> 00:26:13.757]  Trump's done some new really bad things.
+[00:26:13.757 --> 00:26:17.138]  Some real 180s as well.
+[00:26:17.197 --> 00:26:19.269]  On fluoride.
+[00:26:19.377 --> 00:26:22.558]  And on Ukraine weapons.
+[00:26:22.658 --> 00:26:35.348]  So, that movement from just being almost perfect, where I was just cheerleader, cheerleader, cheerleader, to dun-dun-dun-dun-dun-dun-dun-dun-dun-dun-dun-dun-dun-dun.
+[00:26:39.839 --> 00:26:43.839]  We have had major course correction here, and it's not in a good direction.
+[00:26:44.400 --> 00:26:47.920]  So, and I love to sit up here and cheerlead all the good stuff.
+[00:26:48.079 --> 00:26:52.319]  People were complaining, but I don't go off what listeners want in the last six months.
+[00:26:52.400 --> 00:26:55.920]  And I was just cheerleading, cheerleading, because, you know, Trump needed to get his people appointed.
+[00:26:56.400 --> 00:26:57.519]  He needed to get the border control.
+[00:26:57.599 --> 00:26:58.720]  He needed to get these wars to stop.
+[00:26:59.599 --> 00:27:03.200]  I mean, the globalists are dangerous, still trying to kill him, trying to cause civil unrest.
+[00:27:03.279 --> 00:27:08.319]  I mean, you know, saying Trump turned the National Weather Service off of the floods a few weeks ago in Texas, total lie.
+[00:27:08.400 --> 00:27:09.759]  I mean, I'm just defending, defending, defending.
+[00:27:09.920 --> 00:27:17.039]  Because when Trump is right, when Trump is on the level with us, then it's easy.
+[00:27:17.119 --> 00:27:19.200]  I know it's true, total defense.
+[00:27:20.160 --> 00:27:29.599]  But when we get fed stuff that's obviously not true and is totally contradictory, I can't be part of it.
+[00:27:29.759 --> 00:27:33.519]  But as I said months ago when Boggino and them came out, Patel said, oh, move along.
+[00:27:33.680 --> 00:27:35.519]  I said, this is a talking point probably from Trump.
+[00:27:35.599 --> 00:27:36.000]  Stop it.
+[00:27:36.160 --> 00:27:38.480]  In response to Musk, don't take the bait.
+[00:27:38.960 --> 00:27:41.200]  We're going to cover it up, which I'm not endorsing.
+[00:27:42.160 --> 00:27:43.119]  Just to end it also.
+[00:27:44.000 --> 00:27:47.440]  You were just telling me that you had a brain disease.
+[00:27:47.759 --> 00:27:50.160]  And you, what did you do to fix it?
+[00:27:50.480 --> 00:27:56.079]  I found this guy, he's a functional medicine guy, and he got me on methylene blue.
+[00:27:56.559 --> 00:27:59.839]  And that instantly stopped everything.
+[00:28:00.160 --> 00:28:00.799]  I'd take it.
+[00:28:01.039 --> 00:28:01.200]  Okay.
+[00:28:01.359 --> 00:28:01.519]  Yeah.
+[00:28:01.759 --> 00:28:02.880]  I'd take it every day as well.
+[00:28:03.359 --> 00:28:04.880]  And RFK Jr. told me about it.
+[00:28:05.119 --> 00:28:06.640]  Yeah, man, it's fantastic.
+[00:28:06.960 --> 00:28:12.960]  And so this guy's injecting in 1890, injects these rats with it, and then does an autopsy on these things.
+[00:28:13.519 --> 00:28:17.759]  And their brain, their brainstem, every single nerve is blue.
+[00:28:18.079 --> 00:28:22.640]  So he discovered this methylene blue has an affinity for neuronal tissue.
+[00:28:22.960 --> 00:28:26.559]  So he says, well, it's sucking into neurons and working in the body.
+[00:28:26.720 --> 00:28:28.799]  So we started putting it in humans.
+[00:28:29.119 --> 00:28:35.599]  And we found out it's an MAOI, which helps with depression and anxiety and all kinds of life stress and stuff.
+[00:28:35.920 --> 00:28:43.680]  It is so incredible that it acts as an electron donor to mitochondria, especially your neuronal mitochondria.
+[00:28:44.240 --> 00:28:50.480]  So it helps you produce more ATP and it helps you get rid of this stuff called reactive oxygen species.
+[00:28:50.559 --> 00:28:53.599]  So you have an oxygen molecule that should have two hydrogens on it.
+[00:28:53.759 --> 00:28:57.920]  And like your body's job is to convert stuff into water so you can pee it out.
+[00:28:58.240 --> 00:29:05.599]  So if you get an oxygen molecule, it's got four, five, one, it's a reactive oxygen, which we call free radicals.
+[00:29:05.920 --> 00:29:11.599]  So methylene blue goes in there and balances a lot of those things out in your brain and your nervous system.
+[00:29:11.920 --> 00:29:16.000]  So it is a miracle and it's been proven for 100 years.
+[00:29:16.480 --> 00:29:18.720]  It's one of the most well-proven drugs out there.
+[00:29:18.960 --> 00:29:20.960]  The strongest medical grade methylene blue.
+[00:29:21.039 --> 00:29:21.759]  And this is what I'm on.
+[00:29:21.920 --> 00:29:24.559]  Total mitochondria cleaning, next level energy.
+[00:29:24.799 --> 00:29:26.079]  This is amazing.
+[00:29:26.400 --> 00:29:27.279]  And you want to know what I'm on?
+[00:29:27.360 --> 00:29:28.960]  Iris Seamos trilogy.
+[00:29:29.119 --> 00:29:30.240]  This right here, look at that.
+[00:29:30.480 --> 00:29:31.920]  That is power.
+[00:29:35.360 --> 00:29:36.400]  I'm on intermittent fasting.
+[00:29:36.480 --> 00:29:37.920]  I'm eight at three o'clock today.
+[00:29:38.880 --> 00:29:41.839]  And I stopped eating crap food, stopped drinking.
+[00:29:42.000 --> 00:29:43.599]  That's what I'm on right there, baby.
+[00:29:43.920 --> 00:29:45.440]  And now Trump is front and center.
+[00:29:45.599 --> 00:29:46.559]  Yes, he's behind it.
+[00:29:46.880 --> 00:29:47.759]  He wants it shut down.
+[00:29:48.000 --> 00:29:48.799]  Of course, I'm right again.
+[00:29:48.880 --> 00:29:49.759]  It wasn't hard to know.
+[00:29:50.079 --> 00:29:55.519]  Hours after it broke, last Sunday night, Monday morning, Monday morning, I'm get on again, folks.
+[00:29:55.839 --> 00:30:00.160]  Not because I wanted to say Trump was behind this, but because he was and now he is.
+[00:30:02.559 --> 00:30:03.839]  And now he is.
+[00:30:04.720 --> 00:30:11.039]  Now, that said, let me bring up something really important that I mentioned earlier, but in more detail.
+[00:30:11.360 --> 00:30:14.000]  People went completely crazy.
+[00:30:16.240 --> 00:30:23.519]  Yesterday, my phone just blew up when he put out that post on Action True Social saying, I got the best administration ever.
+[00:30:23.599 --> 00:30:24.559]  The whole world's talking about it.
+[00:30:24.639 --> 00:30:25.519]  Perfect administration.
+[00:30:25.759 --> 00:30:26.480]  We're doing so great.
+[00:30:28.799 --> 00:30:30.880]  And it's almost all true.
+[00:30:32.720 --> 00:30:40.079]  And this Epstein thing comes out of Obama, Clinton, Clapper, and Brennan.
+[00:30:40.639 --> 00:30:45.119]  And this file is from them, just like Russia Gay and just like all the other hoaxes.
+[00:30:45.279 --> 00:30:48.240]  And people went, this is a next level insane.
+[00:30:48.559 --> 00:30:56.240]  You're now telling us the Epstein file is a fraud and is a hoax to get Trump.
+[00:30:56.559 --> 00:31:00.960]  Now, Trump wrote that in simpleton terms.
+[00:31:01.279 --> 00:31:02.480]  It isn't a file.
+[00:31:02.639 --> 00:31:21.279]  It's a bunch of investigations, convictions, indictments, Epstein dying in jail, all these witnesses, all the hard drives, all the VHS, all the DVDs from facilities all over the world, and the admissions of that, and the New York case where he died in jail with all the evidence they've got.
+[00:31:21.599 --> 00:31:29.119]  So yes, to say there's not a file from, we're going to release the file, to say there's not a list, there's a whole bunch of lists, doesn't mean everybody on these lists is guilty.
+[00:31:29.360 --> 00:31:33.840]  There's going to be people that did the roof on the house and politicians and people that were in business.
+[00:31:36.000 --> 00:31:37.920]  But now to just say it's over, we're moving along.
+[00:31:38.079 --> 00:31:51.519]  Now Cash Patel and Dan Montino can move on to the important work of fighting crime instead of a deep state CIA massage child human trafficking operation that's all confirmed.
+[00:31:53.119 --> 00:31:57.279]  So, but I looked at that and I'm like, no, that's actually true.
+[00:31:57.519 --> 00:31:59.599]  And that's something I said, but I made a big deal about it.
+[00:31:59.680 --> 00:32:02.000]  So in the last week, though, I dropped the ball on this.
+[00:32:02.960 --> 00:32:04.079]  It's true.
+[00:32:05.360 --> 00:32:09.440]  The FBI, Comey, at least from 2013, was controlling the Epstein file.
+[00:32:09.680 --> 00:32:20.000]  They decided to go ahead and limitedly bust Epstein the year after that so that they could put pressure on all the politicians and corporate leaders that have been involved in it.
+[00:32:20.160 --> 00:32:27.200]  And Comey, under Obama, was going to now use that CIA file that they've been gathering and garnering going back.
+[00:32:27.519 --> 00:32:38.240]  They were making Massad share their file, Massad, from everything we know with Lex Wexler and Epstein.
+[00:32:38.319 --> 00:32:40.799]  It was mainly an MI6, Massad file.
+[00:32:40.880 --> 00:32:46.880]  MI6 is the original MAC Daddy's of this, but Massad's close second, CIA close third of my research.
+[00:32:47.839 --> 00:32:57.200]  They came in and controlled that prosecution, made it limited, but used the fact that, hey, we got the file now, which it always had, but they had to have a way to come in in court.
+[00:32:57.359 --> 00:32:59.440]  It's called parallel construction.
+[00:32:59.599 --> 00:33:00.400]  They already have the file.
+[00:33:00.480 --> 00:33:01.119]  It's their file.
+[00:33:01.200 --> 00:33:01.839]  They control it.
+[00:33:02.079 --> 00:33:10.480]  But when they've done something illegal through an Latin operation, they've now got to create a case to then investigate all the areas of it to bring in the pieces so it can be admissible in court.
+[00:33:10.559 --> 00:33:11.039]  Confined?
+[00:33:11.279 --> 00:33:11.440]  All right.
+[00:33:13.119 --> 00:33:15.599]  You're getting the real download here.
+[00:33:16.160 --> 00:33:17.279]  The real deal.
+[00:33:19.440 --> 00:33:21.200]  The download, the down low.
+[00:33:21.839 --> 00:33:48.160]  So it is true that what they left in the Epstein case research investigation files, the videos, the documents, the interviews, the witnesses, the court cases, the depositions, all of it, is a deep state file because we've always said, oh, obviously the Democrats that were the main ones on this, some Republicans were involved as well, but 90 plus percent Democrats as usual.
+[00:33:48.640 --> 00:33:50.160]  The Clintons, all of them.
+[00:33:53.279 --> 00:33:55.680]  They're not going to leave anything in the file that's incriminating for them.
+[00:33:55.920 --> 00:34:01.440]  They're going to whitewash it, except they could leave in what they wanted in the file.
+[00:34:01.759 --> 00:34:12.559]  And the files are FBI agents and U.S. attorneys and people with their opinions and reports, just like Crossfire Hurricane, based on the CIA-funded steel dossier.
+[00:34:13.440 --> 00:34:16.639]  So when Trump said that, it's true.
+[00:34:16.880 --> 00:34:18.960]  And it hit me after I went, oh my God.
+[00:34:19.440 --> 00:34:22.000]  I was about to go ahead and shoot a report and say, this is next level.
+[00:34:22.159 --> 00:34:22.480]  Oh, my God.
+[00:34:22.559 --> 00:34:23.599]  I went, wait a minute.
+[00:34:23.920 --> 00:34:24.960]  Wait a minute.
+[00:34:25.599 --> 00:34:27.519]  So I haven't come to any conclusions here.
+[00:34:27.599 --> 00:34:29.039]  I'm giving you my thought process.
+[00:34:29.360 --> 00:34:34.239]  I know people politically want me to either hate Trump or be for Trump or say he's covering up or say he's not covering up.
+[00:34:34.400 --> 00:34:34.960]  It's mindless.
+[00:34:35.039 --> 00:34:35.519]  It's easy.
+[00:34:35.679 --> 00:34:36.559]  You're an influencer.
+[00:34:36.639 --> 00:34:37.360]  You get some money.
+[00:34:37.679 --> 00:34:38.239]  I don't do that.
+[00:34:38.400 --> 00:34:40.639]  My listeners, my products, the electionstour.com.
+[00:34:40.800 --> 00:34:41.519]  Got a few sponsors.
+[00:34:41.599 --> 00:34:41.920]  That's it.
+[00:34:42.400 --> 00:34:44.079]  No one has any control over what I say.
+[00:34:44.400 --> 00:34:46.559]  Monetary stuff has no issue with it.
+[00:34:47.199 --> 00:34:49.199]  I was offered Fox News show, everything.
+[00:34:49.840 --> 00:34:51.199]  It would go sell out decades ago.
+[00:34:51.280 --> 00:34:52.480]  The Global Separate did it.
+[00:34:52.800 --> 00:34:54.960]  I want to make money and that money's going to be independent.
+[00:34:55.679 --> 00:35:03.039]  But I understand the influencers out there, they get little checkles from the different political groups, the Democrat, Republican, to follow a party line.
+[00:35:03.119 --> 00:35:03.920]  You get your party line.
+[00:35:04.000 --> 00:35:05.760]  You cover the talking points.
+[00:35:06.719 --> 00:35:07.679]  You don't get that here.
+[00:35:07.920 --> 00:35:13.599]  This is a cerebral exercise of actually looking at all the pieces and deciding what's going on.
+[00:35:14.480 --> 00:35:30.639]  So I was moving into the realm of just, because of a bunch of other bad stuff Trump just did that I'll get to in a moment, of just saying I'm not declaring war yet because the Democrats are so evil, but I've lost basic faith and am beyond concern.
+[00:35:30.880 --> 00:35:37.679]  And now I hate to have to move my spotlight mainly onto Trump instead of the Democrats that are trying to kill him and enslave us.
+[00:35:39.280 --> 00:35:50.960]  But I'll get to the new stuff that really is upsetting in a moment, but that fact that I think I've got all the angles and I got way more than most people.
+[00:35:51.039 --> 00:35:54.320]  And I went, everybody's blowing up at Trump.
+[00:35:54.639 --> 00:35:55.519]  Oh, this is ridiculous.
+[00:35:55.679 --> 00:35:57.280]  Now, this is a deep state lie.
+[00:35:57.920 --> 00:35:59.119]  It's their file.
+[00:36:00.719 --> 00:36:01.760]  It is their file.
+[00:36:01.920 --> 00:36:08.159]  Whatever they decided to leave and stick in the file, like the Warren Commission, total lie about what happened with JFK's assassination.
+[00:36:08.239 --> 00:36:09.280]  We all know that now.
+[00:36:09.840 --> 00:36:11.119]  That's their file.
+[00:36:11.440 --> 00:36:14.000]  That's what they decided to lead in there.
+[00:36:15.599 --> 00:36:22.880]  And so that's really true that they're only, obviously, the Democrats are like, oh, there's a leak.
+[00:36:22.960 --> 00:36:24.079]  Oh, Alex Jones gets it.
+[00:36:24.159 --> 00:36:26.159]  And I'm not saying, oh, Boyle or his source were bad.
+[00:36:26.320 --> 00:36:33.039]  They get the, ooh, there's these 14 terabytes in New York, and the FBI, Democrat FBI, won't release it.
+[00:36:33.360 --> 00:36:35.360]  And then they give Bonnie this other thing, and she gets embarrassed.
+[00:36:35.440 --> 00:36:36.880]  So she runs over and grabs that.
+[00:36:37.199 --> 00:36:39.119]  They send it out to the FBI on the country investigator.
+[00:36:39.360 --> 00:36:47.840]  They go, hey, Trump's in here, not raping kids, but in there, implicated investigations that he was investigating.
+[00:36:47.920 --> 00:36:49.039]  You know, that happened.
+[00:36:49.360 --> 00:36:50.480]  And Trump goes, that's it.
+[00:36:50.559 --> 00:36:51.119]  I didn't do this.
+[00:36:51.199 --> 00:36:51.679]  Screw this.
+[00:36:51.760 --> 00:36:52.400]  I'm sick of it.
+[00:36:52.480 --> 00:36:53.440]  Shut it down.
+[00:36:54.079 --> 00:36:59.119]  Elon gets word of that a few months ago and goes, whoa, I'm not getting connected to this.
+[00:37:03.599 --> 00:37:05.679]  And you can say he's a triple agent, maybe involved.
+[00:37:05.760 --> 00:37:06.159]  I'm not saying that.
+[00:37:06.239 --> 00:37:07.599]  I mean, we're wargaming here.
+[00:37:07.920 --> 00:37:10.239]  And I'll be, Jones says Elon's an operator was part of.
+[00:37:10.320 --> 00:37:10.800]  No, no, no.
+[00:37:11.039 --> 00:37:12.400]  I'm wargaming every angle.
+[00:37:13.280 --> 00:37:14.559]  That's not the MOIC.
+[00:37:15.199 --> 00:37:17.119]  I'm just saying every possibility.
+[00:37:17.760 --> 00:37:19.840]  But that's really true.
+[00:37:21.760 --> 00:37:23.360]  That's really true.
+[00:37:24.320 --> 00:37:32.480]  That what's in those files is what they want to be in the files after years and years and years and years of them having them and then not destroying what they left.
+[00:37:32.800 --> 00:37:37.760]  And then Trump gets briefed on what is in there and goes, those sons of bitches set me up.
+[00:37:38.079 --> 00:37:40.880]  Then they did a whisper campaign to scare Elon and everybody else.
+[00:37:41.199 --> 00:37:42.239]  And he's like, that's it.
+[00:37:42.400 --> 00:37:43.440]  I'm doing good for the country.
+[00:37:43.599 --> 00:37:44.800]  I'm sick of this or shit.
+[00:37:44.960 --> 00:37:45.920]  Shut it down.
+[00:37:46.480 --> 00:37:50.000]  And then he ham-fistedly, because he's pissed off, because that's one thing about Trump.
+[00:37:50.159 --> 00:37:51.920]  He used to have ice water in his veins.
+[00:37:52.000 --> 00:37:52.960]  Now he's got beyond that.
+[00:37:53.519 --> 00:37:56.480]  He just does what he thinks right and does not give a crap.
+[00:37:56.800 --> 00:38:02.400]  Well, this Freisan effect of coming out and saying, hey, everybody, stop talking about it is only going to make it bigger.
+[00:38:02.480 --> 00:38:09.119]  So I would suggest the president stop talking about it, focus on home and which I recommended a week ago and I've seen happening.
+[00:38:09.360 --> 00:38:16.720]  10,000 kids just recently saved, more and more thousands being saved, Democrats shooting at him, attacking him in California, at the pot farm, and they're trying to save them.
+[00:38:17.039 --> 00:38:21.599]  I mean, you know, those are the 2,000 or 3,000 kids we know we're missing with Democrats smuggled in.
+[00:38:21.920 --> 00:38:23.440]  Let's indict Mayworkers.
+[00:38:23.760 --> 00:38:25.119]  Let's indict these big charities.
+[00:38:26.480 --> 00:38:33.679]  I know the kids are juveniles, so you can't really put the details on there, but there can be cases where you can at least have, we'll run in the cases, talk about in general what happened.
+[00:38:34.000 --> 00:38:36.960]  And we need people to cover what they can in the cases.
+[00:38:37.280 --> 00:38:42.639]  And let's continue to do really, really good, important work.
+[00:38:43.280 --> 00:38:52.159]  Now, Steve Bannon came out last night and said that Trump has to release everything.
+[00:38:53.440 --> 00:39:07.840]  And Bannon went on to say that if this channel continues, and I totally agree, that they could lose 40 seats in the House of Representatives the midterms in less than a year and a half.
+[00:39:08.159 --> 00:39:13.199]  I mean, this is taking defeat from the jaws of victory here.
+[00:39:13.360 --> 00:39:14.559]  This is a solid float to win.
+[00:39:14.719 --> 00:39:17.119]  This is like watching Trump cut his fingers off or something.
+[00:39:17.280 --> 00:39:18.880]  I mean, this is just not fun.
+[00:39:19.119 --> 00:39:20.320]  And I need Trump to succeed.
+[00:39:20.400 --> 00:39:21.679]  The Democrats won't put me in prison.
+[00:39:21.840 --> 00:39:23.360]  They are openly destroying the country.
+[00:39:23.679 --> 00:39:34.239]  Trump on his economic policies are so much, you know, tax cuts for working class, trying to stop the wars, control the border, upscaling border patrol and enforcement and all the lies he goes through.
+[00:39:34.400 --> 00:39:35.599]  I've chewed the same dirt.
+[00:39:35.679 --> 00:39:37.760]  I've crawled in the same political foxholes as Trump.
+[00:39:37.920 --> 00:39:38.559]  My God.
+[00:39:39.840 --> 00:39:47.599]  Like I said a week ago, tears my guts up to have to sit here and do this.
+[00:39:47.760 --> 00:39:53.360]  Because we got the Democrats openly promoting pedophilia, Satanism, transgenderism coming for our kids.
+[00:39:53.679 --> 00:39:57.760]  I mean, we've just got them openly teaching the dumb kids down at school.
+[00:39:57.920 --> 00:39:59.920]  I mean, we've just got war on Christianity.
+[00:40:00.239 --> 00:40:03.920]  We've got open economic plans, the fentanyl to collapse the country.
+[00:40:05.119 --> 00:40:11.360]  And I told you last Monday, I said this could lose the House of Representatives because people know about Epstein.
+[00:40:11.440 --> 00:40:12.320]  They know about the cover-up.
+[00:40:12.400 --> 00:40:13.280]  They know about the Clintons.
+[00:40:13.360 --> 00:40:15.199]  They know about Obama and Pizzagate.
+[00:40:15.599 --> 00:40:22.639]  And they know about John Panesta and the kids getting delivered to the, you know, woodland cabin and hot tub for his enjoyment.
+[00:40:22.960 --> 00:40:28.320]  And his brother promoted pedophilia openly in the Washington Post in 2007, saying, what's the big deal?
+[00:40:28.639 --> 00:40:34.000]  Showing all this horrible pedot art of kids being tortured and stuffed toddlers.
+[00:40:34.320 --> 00:40:37.760]  I mean, you know, we know this is the deep state operating system.
+[00:40:38.719 --> 00:40:48.800]  And so for the cheerleaders out there that jumped on me and others last week and said, Trump could do it all wrong, shut up.
+[00:40:48.880 --> 00:40:50.880]  It's 50,000 trillion DHS.
+[00:40:54.239 --> 00:40:56.719]  Oh, but at first, oh, no, no, Trump's not behind it.
+[00:40:56.800 --> 00:40:57.760]  Pony's over her ski.
+[00:40:57.920 --> 00:40:58.719]  She's an idiot.
+[00:40:59.039 --> 00:41:00.480]  Then Trump's like, no, I'm behind it.
+[00:41:01.440 --> 00:41:02.960]  I mean, that's completely obvious.
+[00:41:03.280 --> 00:41:04.159]  He admits it now.
+[00:41:04.880 --> 00:41:06.559]  You know, behind saying, shut it down.
+[00:41:08.079 --> 00:41:12.639]  So that's where we are.
+[00:41:13.920 --> 00:41:35.840]  And then we get Patel and Magino in that same Fox interview a few months ago after in the headlights six and a half weeks ago saying, not only did Epstein kill himself, we're going to release video that proves it, not only did he not do anything, and it's case closed, but Crooks and Butler, he acted alone.
+[00:41:36.159 --> 00:41:40.960]  And that's that whole, you know, ridiculous amount of evidence that just goes on for hours.
+[00:41:41.199 --> 00:41:51.360]  And all the witnesses and everything else and the spraying off of the roof and the Secret Service not being the ones that shot and his house all being wiped perfectly and both the parents behavioral psychologists.
+[00:41:51.519 --> 00:41:59.760]  And now the new stuff, we're 10 days before they get a specific intelligence threat for Butler, but never gets to the Trump people.
+[00:41:59.840 --> 00:42:01.760]  No glasses put up, no nothing.
+[00:42:02.079 --> 00:42:03.119]  I mean, it was a sitting duck.
+[00:42:03.199 --> 00:42:03.760]  It was a setup.
+[00:42:03.840 --> 00:42:05.039]  It was a stand down bare metal.
+[00:42:05.440 --> 00:42:08.000]  That's exactly who I said it was as deputy director.
+[00:42:09.280 --> 00:42:11.039]  So there's that too.
+[00:42:12.000 --> 00:42:15.119]  Patel Bon Gino laying all the facts we already know ourselves.
+[00:42:15.440 --> 00:42:17.519]  This all happened for the world of crooks.
+[00:42:20.480 --> 00:42:30.079]  And now you got documents coming out with a shooter in that, oh yeah, that they release report on that too, on the shooter in Florida.
+[00:42:31.039 --> 00:42:34.719]  And they got intel on him trying to buy.
+[00:42:37.679 --> 00:42:44.000]  They've released it, Stinger missiles, RPGs, rocket ball grenades to shoot down Trump's plane on takeoff.
+[00:42:44.880 --> 00:42:47.679]  I'd said service-tair missiles, RPGs.
+[00:42:48.239 --> 00:42:49.679]  That's how they're going to try to kill Trump.
+[00:42:49.760 --> 00:42:52.400]  I said they'll probably use cutouts of money on Ukraine to kill him.
+[00:42:55.280 --> 00:43:00.480]  From May of 2024, I was saying that.
+[00:43:00.960 --> 00:43:01.760]  Every day.
+[00:43:04.559 --> 00:43:06.800]  It turns out, of course, that was the plan.
+[00:43:07.440 --> 00:43:08.400]  And still the plan.
+[00:43:08.719 --> 00:43:12.559]  That was Air Force One now, actually, has anti-missile defense systems.
+[00:43:13.440 --> 00:43:24.320]  So why suddenly, oh, let's continue the cover-up that the state police in Florida, the governor confirmed the feds were doing in Mar-Lago attempted killing a Trump.
+[00:43:24.639 --> 00:43:28.079]  And why continue the cover-up in Butler?
+[00:43:28.720 --> 00:43:34.480]  Well, a lot of it is these agency heads now are in a bureaucracy and they want to cover the system's ass and move on.
+[00:43:34.800 --> 00:43:36.639]  I've been told that by a little Justice Department people.
+[00:43:36.960 --> 00:43:40.159]  So that's a Bongino Patel Bondi thing.
+[00:43:40.480 --> 00:43:45.119]  But the shut down the Epstein stuff, that's a Trump thing now confirmed.
+[00:43:46.079 --> 00:43:53.840]  So I wanted on this Sunday to just talk about this with you, break all this down, and have a discussion with all of you about it.
+[00:43:54.000 --> 00:43:55.199]  I'm going to shoot some more reports.
+[00:43:55.280 --> 00:43:59.360]  I'll be obviously popping in live on the Sunday show tonight with Chase Geiser.
+[00:43:59.760 --> 00:44:02.720]  I'll be back in Austin tomorrow.
+[00:44:03.360 --> 00:44:08.800]  But what else am I upset about with Trump?
+[00:44:09.440 --> 00:44:11.599]  What else am I upset about with Trump?
+[00:44:11.920 --> 00:44:17.440]  Well, they came out on Friday and said, we're not going to follow HHS recommendation.
+[00:44:17.760 --> 00:44:19.440]  We're not going to follow federal court ruling.
+[00:44:19.679 --> 00:44:26.800]  The administration has decided to keep hydrophorosilicic acid or weaponized acid-based sodium fluoride in the water.
+[00:44:26.960 --> 00:44:30.079]  The on record lowers IQs, massively causes cancer and infertility.
+[00:44:30.400 --> 00:44:32.159]  The whole world basically rejected it.
+[00:44:32.320 --> 00:44:33.519]  Europe did it a few areas.
+[00:44:33.599 --> 00:44:35.440]  They've outlawed it in the last few years.
+[00:44:35.760 --> 00:44:40.960]  This is open and shut, an adjuvant accelerates all the other toxins in the body, destroys the blood-brain barrier.
+[00:44:41.280 --> 00:44:49.840]  And Trump just said, nope, his administration, whoever's in there doing this, that, they've been out there reversing Kennedy on a lot of his moves to expose the poison shots.
+[00:44:50.480 --> 00:44:54.720]  They have been just engaged in a lot of outrageous stuff.
+[00:44:55.039 --> 00:44:59.760]  Now, oh, now we are going to give more weapons to Ukraine and accelerate that.
+[00:45:00.720 --> 00:45:03.199]  And I understand Russia hasn't really come to the table.
+[00:45:03.360 --> 00:45:04.960]  That's because NATO hasn't truly come to the table.
+[00:45:05.119 --> 00:45:06.400]  So that's going on.
+[00:45:06.960 --> 00:45:10.000]  I told you they weren't going to, quote, get all the uranium when they bombed Iran.
+[00:45:10.079 --> 00:45:12.159]  So now they're trying to suck us back into that.
+[00:45:12.639 --> 00:45:14.400]  We've got heavy influence of Israel.
+[00:45:14.480 --> 00:45:17.440]  It's always been a big influence, but I thought it was exaggerated some of the past.
+[00:45:17.760 --> 00:45:20.320]  Definitely, they're taking the vacuum of the Democrats being in disarray.
+[00:45:20.480 --> 00:45:26.239]  And the Mossad and the Israelis are really moving in to try to take control of the Trump administration and a hostile takeover.
+[00:45:26.800 --> 00:45:28.000]  So that can't be denied.
+[00:45:28.320 --> 00:45:31.280]  And we see their influencers attacking me and others to point this out.
+[00:45:31.760 --> 00:45:36.159]  So those are some of the other big areas that I'm very, very, very upset about.
+[00:45:36.480 --> 00:45:37.840]  That's this live stream.
+[00:45:38.079 --> 00:45:40.559]  More live streams are coming up.
+[00:45:41.119 --> 00:45:43.519]  I've got a lot of other angles and issues I want to hit on this.
+[00:45:43.679 --> 00:45:51.440]  I want to talk about later a way out of this and what I think Trump should do, and my advice to President Trump.
+[00:45:51.760 --> 00:46:00.239]  So, look for that, and please share this live feed once it's archived here on X. I think people need to understand this to get a big picture, deep dive on what's really going on.
+[00:46:00.400 --> 00:46:02.960]  But I think the jury is still out on what's going on with the Trump administration.
+[00:46:03.119 --> 00:46:06.239]  We know the Israelis are pushing in because the Democrats are in collapse.
+[00:46:06.559 --> 00:46:10.559]  The Democrats have had a lot of their operatives because Trump actually vetted people this time.
+[00:46:10.880 --> 00:46:12.880]  They don't have the big influence they had before.
+[00:46:13.199 --> 00:46:16.320]  Trump basically walked in and half his administration were Democrat, deep state operatives.
+[00:46:16.480 --> 00:46:25.360]  The others were just, you know, either ignorant or scared, and a few were good, and they got rid of them, like Bannon and Flynn, and targeted his outside supporters that were spotlighting him.
+[00:46:26.639 --> 00:46:32.079]  Now, there's very few Democrats, high-level, and globalists that haven't been kicked out.
+[00:46:32.400 --> 00:46:35.519]  But Israel's its own very sophisticated operative group.
+[00:46:35.840 --> 00:46:41.039]  So's British intelligence, the ChiComs, running with the Democrats, they're losing control.
+[00:46:41.280 --> 00:46:46.480]  So you got Mossad and the British intelligence still really trying to do heavy influencing.
+[00:46:46.559 --> 00:46:48.000]  Mossad is the dominant one.
+[00:46:48.320 --> 00:46:54.480]  And so I've always said China was the big intelligence threat and still has the biggest reach, the most money, big problem.
+[00:46:54.800 --> 00:47:02.320]  But right now, targeting in the Trump administration, because all the connections they have, Israel's really trying a soft coup in the Trump administration.
+[00:47:02.719 --> 00:47:03.360]  Yahoo is.
+[00:47:03.840 --> 00:47:06.320]  So that's a big issue that's pissing people off as well.
+[00:47:06.400 --> 00:47:11.039]  And again, I don't hate Israel, hate any of that, but they don't want us coming over there to run their gut for you.
+[00:47:11.440 --> 00:47:12.800]  So it's illegal, it's wrong.
+[00:47:12.960 --> 00:47:15.119]  It's, you know, need to stop.
+[00:47:16.079 --> 00:47:18.159]  They're under acts in a full war with Iran.
+[00:47:18.960 --> 00:47:23.679]  So Trump is right that the file, everything left is the Democrats' file.
+[00:47:24.559 --> 00:47:28.079]  So, I mean, how would you trust anything that they brought forward?
+[00:47:28.239 --> 00:47:29.039]  I've always said that.
+[00:47:29.199 --> 00:47:31.119]  You know, how do we trust what we're even being given?
+[00:47:31.440 --> 00:47:32.400]  Where are all the hard drives?
+[00:47:32.480 --> 00:47:33.039]  Where are all the stuff?
+[00:47:33.119 --> 00:47:34.079]  You know, I don't want to hear some list.
+[00:47:34.239 --> 00:47:36.000]  I don't want to hear, I want all of it out there.
+[00:47:36.559 --> 00:47:38.480]  But the decision's been made at such a fiasco.
+[00:47:38.639 --> 00:47:46.320]  Trump's like, move on because whatever they've left the files, he's now officially said, is another fraud like everything else we've seen.
+[00:47:46.639 --> 00:47:47.119]  And it's true.
+[00:47:47.280 --> 00:47:48.480]  So I'm not here to obfuscate.
+[00:47:48.559 --> 00:47:49.440]  I'm not here to cover up for Trump.
+[00:47:49.518 --> 00:47:50.618]  I'm not here to be an apologist.
+[00:47:50.618 --> 00:47:53.598]  I've been nothing but more, more, more, more, more, more, more, more upset.
+[00:48:02.960 --> 00:48:05.599]  I want to know what you think below, but this is a big deal.
+[00:48:05.920 --> 00:48:06.239]  All right.
+[00:48:06.400 --> 00:48:08.559]  Thank you so much for watching this live feed.
+[00:48:09.199 --> 00:48:16.400]  Now, please share it immediately once it's archived.
+[00:48:16.480 --> 00:48:21.360]  Take any clips that you think are important because this is a lot of important groundbreaking stuff that nobody's pointing out in this report.
+[00:48:21.599 --> 00:48:24.880]  Thank you so much for sharing and following me on Rail Alex Jones on X. Please support us.
+[00:48:25.039 --> 00:48:29.280]  Live selection of Patriot Peril, the very best supplements, more of the fun of this operation at theauctionstore.com.
+[00:48:29.360 --> 00:48:30.320]  I thank you for your support.
+[00:48:30.639 --> 00:48:32.159]  Ladies and gentlemen, this is Chase Geyser.
+[00:48:32.719 --> 00:48:35.360]  Get that golden age trash off the screen, please.
+[00:48:36.559 --> 00:48:43.760]  I will be hosting the remainder of the Alex Jones show as well as Sunday Night Live this evening.
+[00:48:45.599 --> 00:48:46.719]  Alex will be back tomorrow.
+[00:48:46.800 --> 00:48:48.239]  Harrison Smith will be back tomorrow.
+[00:48:48.480 --> 00:48:49.599]  What a week it's been.
+[00:48:49.840 --> 00:48:53.599]  Absolute hell for anybody who supported, adored, and loved Donald Trump.
+[00:48:53.760 --> 00:48:57.599]  And you can say all day long that, oh, anything that's left is going to be from the Democrats.
+[00:48:57.840 --> 00:49:13.599]  Well, I mean, that's like saying that anything's left in the FBI files pertaining to the assassination of JFK were part of the Jimmy Carter administration and then part of the Reagan administration, then part of the Clinton administration, then part of the HWU administration, then part of the regular George Bush administration, then part of the Obama administration, and then part of the Trump administration.
+[00:49:14.079 --> 00:49:15.039]  The documents are still there.
+[00:49:15.119 --> 00:49:26.079]  And if they don't have them, then you know Minassad has the original files because all these, excuse me, operations were conducted on behalf of Israel.
+[00:49:26.400 --> 00:49:28.079]  No, it's just bullshit.
+[00:49:28.400 --> 00:49:29.920]  It's total bull.
+[00:49:30.480 --> 00:49:32.079]  It's all a cover-up for Israel.
+[00:49:32.239 --> 00:49:33.440]  It's very obvious it's the case.
+[00:49:33.519 --> 00:49:40.400]  It's the reason that Bibi Netanyahu is scooting down and fulfilling Donald Trump's dream going all the way back to like Barbara Streisand days.
+[00:49:41.840 --> 00:49:44.480]  Barbara Walters or whatever the hell that name, that woman's name was.
+[00:49:44.800 --> 00:49:45.840]  Nobel would be nice.
+[00:49:46.960 --> 00:49:50.239]  Within 24 hours, he comes, shows up with a Nobel nomination.
+[00:49:52.720 --> 00:49:58.639]  From the guy who's been the most closely associated with the genocide in the last, I don't know, 30 years.
+[00:50:00.400 --> 00:50:02.800]  Pardon me, I'm a little bit sick under the weather myself.
+[00:50:02.960 --> 00:50:03.920]  I know Alex is under the weather.
+[00:50:04.000 --> 00:50:06.400]  That's why he couldn't come in, but I'm under the weather and I'm here.
+[00:50:06.960 --> 00:50:09.280]  So we'll see what's going to happen next with this Trump thing.
+[00:50:09.360 --> 00:50:13.599]  I tell you what, I'm feeling pretty deflated about Donald Trump right now, pretty upset.
+[00:50:13.920 --> 00:50:21.119]  And I'm about two inches away from going full America party, even though I'm not 100% on board with Elon Musk.
+[00:50:21.679 --> 00:50:22.239]  I don't know.
+[00:50:22.480 --> 00:50:23.440]  I don't know what to do next.
+[00:50:23.519 --> 00:50:24.559]  We'll see what happens.
+[00:50:24.880 --> 00:50:26.320]  But there's one thing that is for sure.
+[00:50:26.480 --> 00:50:31.519]  I am 100% on board with InfoWars because even when we get things wrong, it's not because we're lying.
+[00:50:31.599 --> 00:50:35.039]  It's because we're telling the truth or trying to tell the truth.
+[00:50:36.000 --> 00:50:45.280]  And that's probably something that can only be said for this network compared to any other network or media outlet in the world.
+[00:50:45.840 --> 00:50:51.840]  Except for certain individuals like Tucker Carlson and Joe Rogan, who I think are also in that vein of always trying to tell the truth.
+[00:50:51.920 --> 00:50:54.320]  Here at No Fow Wars, we are always trying to tell the truth.
+[00:50:54.400 --> 00:51:01.519]  And I'll tell you what, we've got these two new products that are absolutely incredible, PowerPlant and Methyl Drive.
+[00:51:01.840 --> 00:51:08.239]  These are both formulated by Rex Jones, who turns out to be somewhat of a savant when it comes to formulating supplements.
+[00:51:08.559 --> 00:51:12.800]  And I've been so exhausted lately, especially this week.
+[00:51:12.880 --> 00:51:18.559]  I think I was on air more hours this week than I was asleep doing the morning show for three hours.
+[00:51:18.639 --> 00:51:23.440]  And then we've launched a new night show called Tomorrow's News Tonight on weeknights from 9 p.m. to 11 p.m.
+[00:51:24.320 --> 00:51:25.920]  But it's PowerPlant and Methyl Drive.
+[00:51:26.079 --> 00:51:33.519]  I call it PowerDrive when you take both of them together because I was on my way home just to see my family in the middle of the day for a little bit before going back into the office.
+[00:51:33.679 --> 00:51:35.599]  And I couldn't believe how good I felt.
+[00:51:35.760 --> 00:51:40.800]  In fact, I felt so good that I got on the phone and I called Nate Hughes from Big Lee right away.
+[00:51:40.880 --> 00:51:45.599]  And I was like, we have to bundle these two products together and call it PowerDrive.
+[00:51:46.159 --> 00:51:50.239]  Because when you take the PowerPlant with the methyl drive, there's something very special going on.
+[00:51:50.320 --> 00:51:52.639]  In fact, I think they have the bundle already together on the website.
+[00:51:52.720 --> 00:51:59.519]  If you can pull up the header from thealexjonesstore.com, the banner there, it should show that both of these are together at a discounted price.
+[00:51:59.760 --> 00:52:09.679]  I highly recommend that you go to the alexjonstore.com and get the power plant plus the methyl drive together as part of a power pack.
+[00:52:09.920 --> 00:52:11.679]  It's absolutely incredible.
+[00:52:13.280 --> 00:52:20.239]  And plus, all of these products are designed for you to be able to take with the methylene blue for an added benefit.
+[00:52:20.320 --> 00:52:21.840]  Many of you already have the methylene blue.
+[00:52:22.000 --> 00:52:22.480]  That stuff.
+[00:52:23.119 --> 00:52:25.519]  Look, you take these two, the power plant and the methyl drive together.
+[00:52:25.599 --> 00:52:27.360]  You're going to feel like you're hooked up to a nuclear reactor.
+[00:52:27.440 --> 00:52:28.400]  Let's just face it.
+[00:52:28.719 --> 00:52:31.840]  But on the other side of this, we are going to be getting into more news for the next three hours.
+[00:52:31.920 --> 00:52:34.880]  I'm certainly going to be taking your calls tonight, especially since I don't feel very well.
+[00:52:35.199 --> 00:52:37.280]  So I want to hear from you and what's going on.
+[00:52:37.440 --> 00:52:40.079]  We've got Tom Homan brutally roasting anti-ice heckler.
+[00:52:40.400 --> 00:52:44.800]  We've got Jake Paul telling people to shut up and send an application to Kamala Harris.
+[00:52:45.280 --> 00:52:50.239]  Shocking disparities between foreigners, crime rates, vastly eclipsed Germans per government data over in Germany.
+[00:52:50.400 --> 00:52:56.239]  President Trump reveals what he wants his legacy to be after he exits the oval office for the final time.
+[00:52:56.559 --> 00:53:00.880]  So much is coming up next and more over the course of the next three hours.
+[00:53:01.039 --> 00:53:06.880]  Even Rosie O'Donnell has responded to Trump saying he's considering stripping her of citizenship.
+[00:53:08.000 --> 00:53:08.880]  So please stay tuned.
+[00:53:09.039 --> 00:53:14.960]  In the meantime, please go to thealexjonesstore.com and be the reason that Alex Jones will always be on the air.
+[00:53:15.039 --> 00:53:28.159]  This crew will always be operating behind the scenes and these other hosts will also always be on the air because we are entering into the climax era of the information war, the pinnacle of the information war where it's about ready to get more intense than it's ever been.
+[00:53:28.239 --> 00:53:29.119]  It's not even close.
+[00:53:29.440 --> 00:53:31.920]  We've been talking about this information war for 30 years.
+[00:53:32.159 --> 00:53:42.000]  Now it's finally reaching a pinnacle with the development of artificial intelligence and all of the massive power that has been accumulated among the most evil supervillains in the world, what with AI and other tools.
+[00:53:42.159 --> 00:53:46.480]  So stay with us for more on the other side and go to the alexjonestore.com right now to keep us on the air.
+[00:53:46.800 --> 00:53:48.239]  I need support.
+[00:53:48.559 --> 00:53:53.599]  We are maxed out and I can do so much more in offense, guaranteed beat them even faster in court.
+[00:53:53.920 --> 00:53:55.440]  And got this other stuff going on.
+[00:53:55.599 --> 00:53:56.880]  I'll leave it at that with the Justice Department.
+[00:53:57.039 --> 00:54:01.599]  The good guys coming in with a task force on weaponization that I need funds.
+[00:54:01.920 --> 00:54:11.519]  So I need you to go to thealixjonstore.com, subscribe as your monthly donation for $30 a month as a VIP and know you're doing that bare minimum of support.
+[00:54:11.679 --> 00:54:12.400]  Cancel any time.
+[00:54:12.639 --> 00:54:13.760]  Not a very hard commitment.
+[00:54:13.840 --> 00:54:14.960]  You just do it month to month.
+[00:54:15.039 --> 00:54:15.760]  You charge 30 bucks.
+[00:54:15.840 --> 00:54:16.400]  You're a VIP.
+[00:54:16.480 --> 00:54:20.480]  And when you want a t-shirt or you want a supplement, you get it because it'll just build up in your account.
+[00:54:20.800 --> 00:54:23.119]  $40 to spend in the store.
+[00:54:23.360 --> 00:54:28.559]  You spend 30, you get 40 automatic discounts on everything, special sales, special offers.
+[00:54:28.800 --> 00:54:38.480]  I'm asking everyone to commit who's never supported the broadcast by buying anything to become a VIP today at thealexjonestore.com.
+[00:54:38.719 --> 00:54:40.239]  And then you know you're doing the monthly support.
+[00:54:40.480 --> 00:54:42.239]  Ever have an issue, don't want to do it, cancel.
+[00:54:42.559 --> 00:54:43.599]  One click, it's your profile.
+[00:54:43.840 --> 00:54:50.639]  But by being a VIP, you get massive discounts, special offers, and so much more at thealisjonstore.com.
+[00:54:50.800 --> 00:54:53.039]  And it's a way to show your support.
+[00:54:53.360 --> 00:54:54.880]  We need your backing.
+[00:54:55.199 --> 00:54:57.360]  I am 100% dauntless.
+[00:54:57.599 --> 00:55:02.800]  If anything, I get overheated because I've got so much energy and I'm so angry at these people and it bleeds off into my life.
+[00:55:03.119 --> 00:55:04.400]  I need your backing.
+[00:55:04.559 --> 00:55:06.239]  I'm backing you, quite frankly.
+[00:55:06.400 --> 00:55:09.119]  If you don't back me and my crew, what we're doing, you're nuts.
+[00:55:09.280 --> 00:55:10.079]  And I'm not mad at you.
+[00:55:10.159 --> 00:55:10.639]  I'm the same.
+[00:55:10.719 --> 00:55:11.280]  You're crazy.
+[00:55:11.599 --> 00:55:13.840]  Evil hates this transmission.
+[00:55:14.000 --> 00:55:15.280]  We've got their number.
+[00:55:15.599 --> 00:55:22.159]  And if you don't back, the organization's fighting with everything they've got for you, because we're all in this together.
+[00:55:22.639 --> 00:55:24.159]  Well, you've rolled over.
+[00:55:24.239 --> 00:55:25.920]  You've run up the wine flag, quite frankly.
+[00:55:26.000 --> 00:55:26.719]  And that's what this is.
+[00:55:26.960 --> 00:55:28.239]  People ask, man, thanks for fighting.
+[00:55:28.320 --> 00:55:29.199]  Thanks for never giving up.
+[00:55:29.440 --> 00:55:30.800]  Wow, why does it break your spirit?
+[00:55:30.880 --> 00:55:32.239]  It intensifies my spirit.
+[00:55:32.320 --> 00:55:35.039]  To know we're up against pure evil and we're turning the tide and we're winning.
+[00:55:35.280 --> 00:55:40.239]  And then to know that if we don't fight hard, they're going to win and commit humanity to a nightmare of evil?
+[00:55:40.480 --> 00:55:41.360]  You think stuff's bad now?
+[00:55:41.440 --> 00:55:42.320]  You ain't seen nothing yet.
+[00:55:42.559 --> 00:55:45.599]  Thank me for fighting for my own future and yours collectively?
+[00:55:45.920 --> 00:55:48.239]  There's not even a question of fighting these people.
+[00:55:48.559 --> 00:55:49.039]  Look at them.
+[00:55:49.199 --> 00:55:50.320]  They've got to be opposed.
+[00:55:50.639 --> 00:55:54.960]  People tend to think being persecuted is, oh, you want to stay away from that?
+[00:55:55.280 --> 00:55:56.960]  Oh, so you want to stay away from the fight?
+[00:55:57.280 --> 00:56:04.239]  No, it's like John Paul Jones said when he got commissioned as the head of the U.S. Navy while he was starting and he was writing to the Continental Congress.
+[00:56:04.320 --> 00:56:06.159]  He said, I only want the fastest ships.
+[00:56:06.480 --> 00:56:09.199]  I only want to be sent into the main war zones of direct action.
+[00:56:09.440 --> 00:56:11.119]  They said, here is our fastest ship.
+[00:56:11.199 --> 00:56:11.440]  Go out.
+[00:56:11.519 --> 00:56:15.519]  He immediately goes out and engages and takes over all these British ships to three times the size.
+[00:56:15.599 --> 00:56:16.960]  It's ramming straight into them.
+[00:56:17.119 --> 00:56:18.239]  Well, that's what I want to do.
+[00:56:18.559 --> 00:56:20.079]  I only want the fastest ships.
+[00:56:20.320 --> 00:56:21.760]  I want to go directly into action.
+[00:56:21.920 --> 00:56:23.280]  I want to go 24 hours a day.
+[00:56:23.440 --> 00:56:25.039]  I want reporters all over the country.
+[00:56:25.360 --> 00:56:29.119]  I want to be 50 times stronger against the enemy.
+[00:56:29.440 --> 00:56:31.199]  I want 50 times the audience.
+[00:56:31.440 --> 00:56:32.480]  I want victory.
+[00:56:32.800 --> 00:56:35.360]  You think what we've done to the enemy's been effective so far?
+[00:56:35.519 --> 00:56:36.480]  It's nothing.
+[00:56:37.119 --> 00:56:39.760]  I have not yet begun to fight.
+[00:56:40.400 --> 00:56:42.400]  So, support yourself.
+[00:56:42.639 --> 00:56:43.199]  Support us.
+[00:56:43.360 --> 00:56:43.760]  Do it.
+[00:56:44.079 --> 00:56:47.360]  Or be conscious that you didn't fight when the time was right.
+[00:56:47.599 --> 00:56:48.320]  You hesitated.
+[00:56:48.480 --> 00:56:51.440]  You took this as another entertainment venue, just some other show.
+[00:56:51.760 --> 00:56:52.639]  Just more talk.
+[00:56:52.960 --> 00:56:53.760]  This ain't talk.
+[00:56:54.079 --> 00:56:56.320]  This is the targeting coordinates to take down the enemy.
+[00:56:56.480 --> 00:56:58.000]  This is the Death Star plans.
+[00:56:58.559 --> 00:57:00.559]  This is Sting, the Goblin Slayer.
+[00:57:00.880 --> 00:57:02.559]  They hate this blade.
+[00:57:02.800 --> 00:57:10.639]  This operation is a sword that has plunged politically, culturally, spiritually into the hearts of our enemies over and over and over again.
+[00:57:10.960 --> 00:57:11.679]  They hate it.
+[00:57:11.920 --> 00:57:13.679]  It's a standard of their defeat.
+[00:57:13.920 --> 00:57:15.760]  It's a symbol of their weakness.
+[00:57:16.079 --> 00:57:17.360]  That's what we're doing here.
+[00:57:17.599 --> 00:57:19.199]  This is serious business.
+[00:57:19.519 --> 00:57:22.880]  So I'm coming to you, asking you to continue to commission us in this fight.
+[00:57:23.039 --> 00:57:27.599]  We've already delivered you more victories against the enemy than any other media operation in the world.
+[00:57:27.920 --> 00:57:34.559]  And I'm asking you again for all of our collected futures to come to our aid now more and take your fight to the 110% level.
+[00:57:35.199 --> 00:57:35.840]  Tell the truth.
+[00:57:36.000 --> 00:57:36.559]  Be accurate.
+[00:57:36.639 --> 00:57:37.360]  Stand against evil.
+[00:57:37.519 --> 00:57:38.159]  Have courage.
+[00:57:38.480 --> 00:57:39.920]  Until it's not even having courage.
+[00:57:40.000 --> 00:57:58.550]  what you are
+[00:57:58.559 --> 00:58:15.119]  We find out that there was a freak off party in Vegas where a guy named Anton, an escort, that gets apparently allegedly passed around celebrity circles, was banging somebody, possibly a celebrity's wife, in January in Vegas.
+[00:58:15.760 --> 00:58:21.599]  And there was seven to eight people just sitting around the hotel room watching some that were celebrities.
+[00:58:21.920 --> 00:58:25.199]  The defense attorney argued, we need to have these names public.
+[00:58:25.360 --> 00:58:27.039]  Otherwise, this is not a fair trial.
+[00:58:27.360 --> 00:58:31.599]  And Maureen Comey, the governor, was like, no, we Have to protect these names.
+[00:58:31.920 --> 00:58:32.320]  Why?
+[00:58:32.559 --> 00:58:35.840]  Oh, it's because it's the same thing she did during Delaney Maxwell.
+[00:58:36.000 --> 00:58:38.400]  That's why we never got any names.
+[00:58:38.719 --> 00:58:47.280]  So people can speculate, but right now the judge decided to agree with Maureen Comey.
+[00:58:47.360 --> 00:58:48.400]  We're not getting the names.
+[00:58:48.719 --> 00:58:57.360]  James Comey's daughter always seems to be a part of everything from Epstein to the highest echelon of cases.
+[00:58:57.679 --> 00:59:03.599]  Why would Comey's daughter be allowed under Pam Bondi's Department of Justice?
+[00:59:03.920 --> 00:59:12.880]  I would have removed her immediately, immediately, not just because of the case, but because of the information that they learn while they investigate the case.
+[00:59:13.199 --> 00:59:15.679]  See, not everything that they know, they prosecute.
+[00:59:16.000 --> 00:59:21.920]  I said, I think it'll be like all the other cases, and she'll put on a show trial, and they'll limit all the information.
+[00:59:22.079 --> 00:59:38.239]  They'll suck up all the witnesses, and then all the lawsuits filed on Ghislaine Maxwell, all the lawsuits on P2D, all the other lawsuits on Nexium, and all, I mean, it's just hundreds of organized sex trafficking pedophile cases, not just Epstein, get sent to her.
+[00:59:38.880 --> 00:59:44.480]  And then her daddy famously controlled the files and used it for control, just like J. Edgar Huber did.
+[00:59:44.639 --> 01:00:00.239]  The CIA would find pedophiles, not just in Afghanistan, but other countries, and put them in charge as mayors and as council members and as village leaders because they found they were the most loyal and didn't even want money.
+[01:00:00.559 --> 01:00:02.400]  They just wanted kids.
+[01:00:02.719 --> 01:00:06.559]  But they would get angry and say, we want more Viagra.
+[01:00:06.800 --> 01:00:18.960]  That was the news, that the CIA had to fly in cases, pallets of Viagra for all the mayors in Afghanistan and had to supply them with little boys.
+[01:00:19.199 --> 01:00:21.039]  This is their management system.
+[01:00:21.840 --> 01:00:23.840]  This is how they control things.
+[01:00:24.719 --> 01:00:34.719]  You know the people going to Epstein Island and Zarro Ranch and Peter Nygard, similar facility in the Bahamas, they know they're going to be video raping kids.
+[01:00:34.880 --> 01:00:36.800]  And it's not 15, 16 year old girls.
+[01:00:37.039 --> 01:00:41.280]  That's because in these cases, they limit it to those girls.
+[01:00:41.599 --> 01:00:43.760]  Epstein told me he worked with the CIA.
+[01:00:44.079 --> 01:00:46.400]  The FBI tried to get me there to interview me.
+[01:00:46.639 --> 01:00:48.639]  They only wanted to interview me in person.
+[01:00:48.960 --> 01:00:50.719]  They would not interview me over Zoom.
+[01:00:50.960 --> 01:00:59.440]  They organized emergency visas for my son and I. They were arranging for us to be put in first-class flights, five-star hotels.
+[01:00:59.760 --> 01:01:01.519]  But my child's father wouldn't let us travel.
+[01:01:01.679 --> 01:01:08.480]  So thank goodness, in fact, because a lot of weird stuff happened with a lot of the girls who were interviewed by the FBI.
+[01:01:09.039 --> 01:01:15.280]  And it's very frightening, like I said, not just for the victims, but for everyone in the world when we're all being lied to like this.
+[01:01:15.519 --> 01:01:19.440]  Four months ago, Bondi raided it like she said she do the day after she learned it happened.
+[01:01:19.760 --> 01:01:20.880]  They refused to turn it over.
+[01:01:21.039 --> 01:01:22.800]  They kicked the FBI head out.
+[01:01:23.119 --> 01:01:24.559]  The FBI raided the FBI.
+[01:01:24.880 --> 01:01:29.519]  And then Bondi did the right thing, talked about it on the TV, sent the files out.
+[01:01:29.840 --> 01:01:32.239]  And then I've talked to the FBI, multiple sources.
+[01:01:32.320 --> 01:01:37.840]  I said, yeah, almost no one is volunteering to go watch it or investigate it.
+[01:01:38.159 --> 01:01:40.320]  And I can't blame people at the end of the day.
+[01:01:40.400 --> 01:01:44.719]  I wouldn't want to go look at 14 terabytes of kids getting raped, but some of them signed up for that.
+[01:01:44.800 --> 01:01:46.480]  So they're stepping up.
+[01:01:46.719 --> 01:01:50.559]  But why aren't hardly anybody reportedly willing to investigate?
+[01:01:50.880 --> 01:01:54.079]  It's not just that they don't want to watch kids getting tortured.
+[01:01:55.119 --> 01:02:01.599]  You think they want to take on the globalist Bill Gates and people, the king of England?
+[01:02:02.239 --> 01:02:04.880]  They know your family gets killed.
+[01:02:05.519 --> 01:02:17.119]  So the reason we've gotten in this position is that evil understands that and gets people to commit such horrible acts that then society just doesn't even know how to process it.
+[01:02:17.440 --> 01:02:23.440]  And then when evil gets away with that, all these other evil people see it and join in and they like it and they go, my goodness, this is a free reign.
+[01:02:23.599 --> 01:02:28.880]  And the evil grows and grows and grows and grows until it brings down society.
+[01:02:29.119 --> 01:02:32.960]  We're going to go over the edge into a cultural spiritual black hole.
+[01:02:33.119 --> 01:02:34.639]  We're basically already there.
+[01:02:34.960 --> 01:02:37.679]  Ladies and gentlemen, I am Chase Geiser, your host this evening.
+[01:02:37.920 --> 01:02:40.400]  We will be taking your calls over the course of the next several hours.
+[01:02:40.559 --> 01:02:45.039]  In fact, I'm going to go ahead and give out the number right now, 877-789-2539.
+[01:02:45.679 --> 01:02:48.880]  877-789-2539.
+[01:02:49.039 --> 01:02:52.400]  Finally, 877-789-2539.
+[01:02:52.480 --> 01:02:58.000]  In the meantime, I've got plenty of content to go over with you in terms of clips and breaking analysis.
+[01:02:58.320 --> 01:03:04.559]  The biggest story over the course of the last several days has been the fact that rumors have been swirling.
+[01:03:04.639 --> 01:03:09.599]  Reports have been swirling that Dan Bongino is threatening to leave.
+[01:03:10.559 --> 01:03:12.000]  The FBI is deputy director.
+[01:03:12.159 --> 01:03:15.360]  It was allegedly the case that he was threatening to leave if Pam Bondi stays.
+[01:03:15.679 --> 01:03:18.960]  Obviously, Pam Bondi, Cash Batel have both issued statements that they're staying.
+[01:03:19.280 --> 01:03:40.079]  Trump has come out and said that Pam Bondi is doing an absolutely great job, despite the fact that I can't think of one thing that she's accomplished since she's been in this office other than bragging about capturing 204 pedophiles over the course of a seven-day period and maybe filing some lawsuits against California about boys being in girls' locker rooms.
+[01:03:40.400 --> 01:03:40.880]  That's about it.
+[01:03:40.960 --> 01:03:47.760]  In fact, I don't know a single thing that she's really accomplished in her entire career other than the positions that she's held, but not what she's done while she was in those positions.
+[01:03:47.920 --> 01:03:51.199]  I can't think of a single thing that Scam Blondie has accomplished ever.
+[01:03:51.360 --> 01:04:01.119]  So when you're saying that she's doing a good job, please tell me what the you're talking about because I've got no idea what you mean anywhere, anyone, anytime.
+[01:04:01.280 --> 01:04:10.320]  In fact, I think the DOJ would probably be operating better if there wasn't an attorney general at all, because I'm told that not only is she doing a bad job, but she's keeping other people from doing their jobs.
+[01:04:11.280 --> 01:04:15.920]  And she just goes on Fox News more often than anybody else who's even paid to be on Fox.
+[01:04:16.000 --> 01:04:18.559]  She's on more often than I see anybody else on Fox.
+[01:04:18.720 --> 01:04:21.199]  Just going on, hey, it's so good to be here.
+[01:04:21.360 --> 01:04:22.880]  So good to be on Fox News.
+[01:04:23.199 --> 01:04:25.519]  Listen, we are going over thousands of documents.
+[01:04:25.840 --> 01:04:27.039]  Shut up.
+[01:04:29.039 --> 01:04:34.000]  The only good thing that she's accomplished as Attorney General is putting together the file to get all the J6 prisoners pardoned.
+[01:04:34.079 --> 01:04:39.599]  And, you know, that is the one thing that has made me totally confident that my vote in Donald Trump was the right thing.
+[01:04:39.760 --> 01:04:47.760]  I mean, if he does nothing else over the course of the next three and a half years, the fact that he pardoned and commuted all the sentences of all the J6ers is enough for me.
+[01:04:48.639 --> 01:04:56.480]  Rosie O'Donnell, in the meantime, Clip 38 here in a second, responds to Trump saying he's considering stripping her of U.S. citizenship.
+[01:04:56.800 --> 01:05:02.800]  She has responded to President Donald Trump, who called her a threat to humanity, which Is true, especially if she's walking nearby on a fault line.
+[01:05:03.039 --> 01:05:05.039]  You're liable to experience a massive earthquake.
+[01:05:05.199 --> 01:05:16.320]  I have predicted earlier this week that Yellowstone will explode, especially if Rosie O'Donnell sets foot anywhere within 100 miles of the area, and said that he is giving serious consideration to revoking her U.S. citizenship on Saturday.
+[01:05:16.400 --> 01:05:17.280]  Let's watch this clip.
+[01:05:18.639 --> 01:05:20.639]  And what a horror story in Texas.
+[01:05:20.960 --> 01:05:24.800]  The flash floods in Texas, the Guadalupe River.
+[01:05:25.440 --> 01:05:28.800]  51 missing, 51 dead, more missing.
+[01:05:29.440 --> 01:05:32.079]  Children at a camp.
+[01:05:32.960 --> 01:06:00.960]  And you know, when the president gots all of the early warning systems and the weathering forecast abilities of the government, these are the results that we're going to start to see on a daily basis because he's put this country in so much danger by his horrible, horrible decisions and this ridiculously immoral bill that he just signed into law.
+[01:06:01.920 --> 01:06:10.960]  As Republicans cheered, as Republicans cheered, people will die as a result, and they've started already.
+[01:06:12.559 --> 01:06:13.760]  Shame on him.
+[01:06:14.079 --> 01:06:24.079]  Shame on every GOP syncophant who's listening and following the disastrous decisions of this mentally incapacitated POTUS.
+[01:06:24.960 --> 01:06:37.440]  And it's so funny to see Rosie O'Donnell coming out and talking about mentally incapacitated presidents of the United States because we actually do explicitly know that Joe Biden was mentally incapacitated, literally, quite clinically, the entirety of his presidency and before.
+[01:06:37.760 --> 01:06:44.079]  We've seen it from leaks between Hunter Biden and others in his text messages where he's admitted that his dad has been diagnosed with dementia or some form thereof.
+[01:06:44.400 --> 01:06:53.920]  We've seen it recently with the fact that his doctor would refuse to testify before a court, given the fact that it violates confidentiality between a doctor and a patient.
+[01:06:54.000 --> 01:07:08.000]  And we've seen it basically by the fact that every time we see Joe Biden in public, speaking or otherwise, he is drooling, lost, limping, falling, or collapsing, or just gazing in bewilderment at pretty lights and pretty things on some stage as he pretends to be celebrating.
+[01:07:08.159 --> 01:07:13.039]  It's unbelievable the extent to which we have this Trump derangement syndrome.
+[01:07:13.280 --> 01:07:14.400]  He's certainly no hero.
+[01:07:14.559 --> 01:07:18.239]  He's proven that this week, but he is not the reason for all ales.
+[01:07:18.400 --> 01:07:21.119]  He is not the reason for the weather being the weather.
+[01:07:21.280 --> 01:07:30.239]  Meanwhile, Sonny Hoston in The View, Clip 43 here in a moment, says ICE deserves coming reckoning as agents are being attacked by violent leftists.
+[01:07:30.559 --> 01:07:34.159]  Consider this your regular reminder that The View is the biggest garbage fire on television.
+[01:07:34.320 --> 01:07:35.840]  Clip 43, let's watch.
+[01:07:37.039 --> 01:07:56.559]  The way that I think if you, if you're somebody who's really disturbed by things like alligator Alcatraz and feels like the targeting of certain migrants is making you really uncomfortable, call your lawmaker because what I am seeing is an uptick in rhetoric against CBP and ICE enforcers who are dealing with this problem because they're being told by the President of the United States that they have to.
+[01:07:56.880 --> 01:08:02.480]  And then this past week, there was a very dangerous attack on CBP officials in McAllen, Texas.
+[01:08:02.559 --> 01:08:03.840]  Several people were injured.
+[01:08:04.159 --> 01:08:06.320]  The perpetrator was actually neutralized.
+[01:08:06.559 --> 01:08:12.719]  But that's also something we don't want to see is an uptick in violence against law enforcement who are doing their jobs.
+[01:08:13.039 --> 01:08:14.960]  So if you have a problem with this, talk to your lawmaker.
+[01:08:15.039 --> 01:08:15.840]  That's the place to do.
+[01:08:16.079 --> 01:08:35.359]  If they would do their jobs the way that I think they should be doing their jobs, which is unmasked without disappearing people from the streets, I don't think that the public would feel as endangered because if someone approaches my loved one who's undocumented with a mask, how do I know that they're actual law enforcement?
+[01:08:35.520 --> 01:08:37.199]  How do I know that they work for ICE?
+[01:08:37.279 --> 01:08:38.239]  So that's one thing I'm saying.
+[01:08:39.760 --> 01:08:41.760]  There's actually people who have impersonated ICE.
+[01:08:42.239 --> 01:08:42.399]  Exactly.
+[01:08:42.960 --> 01:08:45.359]  They show an ID and they don't show IDs.
+[01:08:45.520 --> 01:08:47.119]  They're not dressed appropriately.
+[01:08:47.279 --> 01:08:48.479]  They're not flagged.
+[01:08:48.800 --> 01:08:49.680]  And they're masked.
+[01:08:49.760 --> 01:09:01.840]  And so in my world, if you mask yourself because you don't want to be seen, because you don't want to be seen, because there will be a reckoning for some of the actions that law enforcement, actual law enforcement have done.
+[01:09:02.079 --> 01:09:02.880]  But I'll also say this.
+[01:09:03.039 --> 01:09:11.920]  I don't want to hear anything ever in this country again about not being able to house people, not being able to, no affordable housing because they put this thing in.
+[01:09:12.159 --> 01:09:14.479]  Obviously, this is just calling for more and more violence against ISIGs.
+[01:09:14.640 --> 01:09:20.880]  The reason they have to wear masks is because a lot of the people that they're deporting are associated with the cartel and they don't want the cartel targeting their families.
+[01:09:21.039 --> 01:09:21.760]  Are you stupid?
+[01:09:22.079 --> 01:09:22.960]  Oh, yeah, of course.
+[01:09:23.039 --> 01:09:28.720]  You're a host on the View, which means you have to have an IQ of room temperature in order to get the job to begin with.
+[01:09:28.960 --> 01:09:33.760]  In fact, I think it should be called something completely different than the View.
+[01:09:34.399 --> 01:09:35.680]  Maybe just the retards.
+[01:09:35.920 --> 01:09:37.119]  They should just call it the retards.
+[01:09:37.199 --> 01:09:44.560]  And they could change everything to like a Forrest Gump type theme where they're pretending like they're, you know, pro-Americana and there's something heroic going on about them.
+[01:09:44.640 --> 01:09:48.239]  But they're all abundantly stupid, have been, and apparently will always be.
+[01:09:48.399 --> 01:09:53.039]  I mean, women have been raped because people have impersonated ICE agents.
+[01:09:53.119 --> 01:09:56.319]  Yeah, women have been raped because people have been allowed in this country illegally to you.
+[01:09:56.640 --> 01:09:57.760]  Mother-loving retard.
+[01:09:58.239 --> 01:10:12.800]  I just, at this point in time, I am so impatient with the lack of competence or intelligence in basically every facet of my life, from driving down the road to the highest levels of our government, to the lowest levels of our government, that I'm thinking it's time that we just need to start slapping people.
+[01:10:13.119 --> 01:10:14.319]  I'm not calling for violence.
+[01:10:14.479 --> 01:10:15.520]  What'd you say, Derek?
+[01:10:16.399 --> 01:10:17.119]  The spew?
+[01:10:17.600 --> 01:10:18.000]  Yes.
+[01:10:18.239 --> 01:10:19.119]  That's what they should call it.
+[01:10:19.279 --> 01:10:24.239]  They should call it the spew instead of the view because all they do is spew bullcrap after bullcrap after bullcrap.
+[01:10:24.319 --> 01:10:26.319]  And speaking of spewing, here's a much watch.
+[01:10:26.399 --> 01:10:27.840]  I'm going to show clip 25 here in a second.
+[01:10:27.920 --> 01:10:32.479]  Tom Homan brutally roasts anti-ice heckler during TPUSA speech.
+[01:10:32.720 --> 01:10:35.359]  I guarantee you, this guy sits down to pee.
+[01:10:35.520 --> 01:10:36.960]  This is hilarious watch.
+[01:10:37.520 --> 01:10:41.359]  We left thousands of empty ice beds at $127 a night.
+[01:10:41.520 --> 01:10:41.840]  Empty.
+[01:10:42.000 --> 01:10:42.800]  Thousands of them.
+[01:10:43.439 --> 01:10:45.920]  They released them to NGOs at $500 a night.
+[01:10:46.000 --> 01:10:46.720]  Why did they do that?
+[01:10:47.039 --> 01:10:50.079]  Because they knew if they're an ice detente, get a hearing within 40 days.
+[01:10:50.399 --> 01:10:52.800]  90% lose their case, they get sent home.
+[01:10:53.039 --> 01:10:54.159]  That is not what they wanted.
+[01:10:54.399 --> 01:10:55.439]  They're playing the long game.
+[01:10:55.600 --> 01:10:57.199]  Let's release them in the community.
+[01:10:58.720 --> 01:11:00.079]  Wait, wait, three or five years.
+[01:11:01.680 --> 01:11:02.319]  Pardon me?
+[01:11:02.640 --> 01:11:04.560]  Are you an MS-13 member?
+[01:11:06.880 --> 01:11:07.199]  Hey.
+[01:11:07.840 --> 01:11:08.800]  Hey, that's okay.
+[01:11:09.119 --> 01:11:09.680]  That's okay.
+[01:11:12.000 --> 01:11:12.560]  I got a question.
+[01:11:12.640 --> 01:11:13.359]  No, no, no.
+[01:11:13.520 --> 01:11:14.640]  I got a question for you.
+[01:11:14.960 --> 01:11:23.029]  Why don't you come up here and hand me that picture?
+[01:11:23.039 --> 01:11:23.840]  USA!
+[01:11:24.560 --> 01:11:44.390]  USA!
+[01:11:44.399 --> 01:11:46.399]  There are mornings like this in other countries.
+[01:11:48.560 --> 01:11:52.000]  This guy, this guy wouldn't like to serve this nation.
+[01:11:52.319 --> 01:11:55.439]  This guy ain't got the balls to be a nice officer.
+[01:11:55.760 --> 01:11:58.479]  He ain't got the balls to be a ball joint.
+[01:11:59.199 --> 01:12:01.840]  This guy, this is in his mother's face, man.
+[01:12:02.479 --> 01:12:03.680]  What is it that surprises me?
+[01:12:03.760 --> 01:12:05.439]  You have purple hair in a gnaw drink.
+[01:12:05.520 --> 01:12:07.039]  Get out of here, you loser.
+[01:12:10.479 --> 01:12:11.840]  Absolutely hysterical.
+[01:12:11.920 --> 01:12:13.119]  And this isn't the only instance.
+[01:12:13.439 --> 01:12:15.039]  I'm going to show clip 10 here in a second.
+[01:12:15.359 --> 01:12:16.720]  Watch, bro, shut up.
+[01:12:16.880 --> 01:12:18.399]  Please stop talking.
+[01:12:18.720 --> 01:12:20.399]  Send applications to Kamala here.
+[01:12:20.560 --> 01:12:28.239]  Shake Paul gives hilarious response when reporter asks a stupid question about sexualization of women with ring girls instead of ring boys.
+[01:12:28.319 --> 01:12:29.600]  Let's watch Clip 10.
+[01:12:31.199 --> 01:12:37.359]  Okay, I have one last question, and it has to do with the projection of women in boxing.
+[01:12:37.680 --> 01:12:40.960]  Like you guys have invested in women's boxing.
+[01:12:41.279 --> 01:12:53.359]  And I've talked to a couple of people around during this week and the issue or the theme about the ring girls in an all-female fighting card.
+[01:12:53.920 --> 01:12:56.560]  And the sexualization of women.
+[01:12:57.279 --> 01:12:57.760]  Do you want ring boys?
+[01:12:57.920 --> 01:13:03.600]  Well, a couple of people have said that white don't have boys or none of any of them at all.
+[01:13:03.920 --> 01:13:06.800]  I just want to bring to the attention the conversation of it.
+[01:13:08.960 --> 01:13:10.000]  Next talk, please.
+[01:13:10.319 --> 01:13:11.039]  Just another question.
+[01:13:11.119 --> 01:13:12.800]  Kevin Garcia, the Puerto Rican Kit KG.
+[01:13:13.359 --> 01:13:18.159]  Anybody wants to submit an application to be a Ringboy MVP, send it to that young man.
+[01:13:19.439 --> 01:13:21.359]  Send it to fucking Kamala Harris.
+[01:13:21.680 --> 01:13:21.920]  Yeah.
+[01:13:22.159 --> 01:13:23.439]  Yeah, unbelievable.
+[01:13:23.760 --> 01:13:27.199]  The whole thing, whole civilization seems to be collapsing right before our eyes.
+[01:13:27.279 --> 01:13:28.239]  Let's go to some callers.
+[01:13:28.560 --> 01:13:30.079]  Adam in Canada, you're the first to call.
+[01:13:30.159 --> 01:13:31.039]  You're the first on the air.
+[01:13:31.199 --> 01:13:33.680]  Adam in Canada, what is on your mind this evening?
+[01:13:34.239 --> 01:13:34.880]  Yeah, hi.
+[01:13:34.960 --> 01:13:35.600]  How's it going?
+[01:13:36.640 --> 01:13:38.640]  Welcome from Communist Canada.
+[01:13:38.960 --> 01:13:39.600]  It's going well.
+[01:13:39.680 --> 01:13:40.640]  Thanks for calling.
+[01:13:40.960 --> 01:13:49.039]  The frozen wasteland up here with our out-of-control, psychotic, baby, and Satanist government committing a stealth genocide against people.
+[01:13:49.840 --> 01:13:52.560]  We got nothing going on up here over the vaccines.
+[01:13:52.640 --> 01:13:57.439]  And you guys, the FDA just passed that, you know, little health, the heart warning on it.
+[01:13:57.680 --> 01:14:01.840]  There's crickets up here, and they just elected some health minister who's a chemist.
+[01:14:01.920 --> 01:14:03.520]  He's got no health background.
+[01:14:03.840 --> 01:14:07.279]  She's like 400 pounds and not even, wasn't even born here.
+[01:14:07.439 --> 01:14:11.520]  So actually, what I wanted to bring up, though, was the whole Epstein thing.
+[01:14:12.000 --> 01:14:13.760]  It just a different narrative.
+[01:14:13.840 --> 01:14:25.039]  I'm not saying this is true, but just to wargame it, looking at it from a different position, Trump for sure must have known that what he's doing right now would create this Streisand effect.
+[01:14:25.199 --> 01:14:25.680]  You know what I mean?
+[01:14:25.840 --> 01:14:26.079]  He's not.
+[01:14:26.399 --> 01:14:27.520]  Yeah, here's the deal.
+[01:14:27.840 --> 01:14:31.039]  He didn't know what was in those files when he signed the executive order to release him.
+[01:14:31.279 --> 01:14:33.520]  And they came to him and they're like, oh, it implicates Israel.
+[01:14:33.680 --> 01:14:34.720]  Now's not a good time, sir.
+[01:14:34.800 --> 01:14:36.000]  And he's like, oh, shit.
+[01:14:36.319 --> 01:14:38.800]  If I would have known that it was this bad, I never would have released him.
+[01:14:38.880 --> 01:14:42.800]  And everything else is just covering up, blaming on the Democrats.
+[01:14:43.119 --> 01:14:44.000]  That's what they're saying.
+[01:14:44.159 --> 01:14:46.159]  That's the narrative that he's covering for Israel.
+[01:14:46.319 --> 01:14:51.760]  But what about the fact that there's all levels of people pushing back against this thing?
+[01:14:52.079 --> 01:14:55.920]  And I think I just lost you.
+[01:14:56.000 --> 01:14:57.119]  It sounds like you dropped your phone.
+[01:14:57.199 --> 01:14:58.239]  Let's go to Barton, Georgia.
+[01:14:58.319 --> 01:15:00.159]  Barton, Georgia, what is on your mind, sir?
+[01:15:00.239 --> 01:15:01.039]  Barton, Georgia.
+[01:15:01.840 --> 01:15:04.720]  Well, first of all, the view to change their names.
+[01:15:04.800 --> 01:15:07.199]  I can't understand normal thinkers.
+[01:15:08.560 --> 01:15:19.439]  Anyway, as the Epstein files, and you touched on it just a few minutes ago, this has got to be damaging to Israel.
+[01:15:19.760 --> 01:15:21.600]  And I think Trump's covering up for them.
+[01:15:21.840 --> 01:15:22.960]  What do you think, Chase?
+[01:15:23.520 --> 01:15:25.039]  Yeah, I think that's exactly it.
+[01:15:25.199 --> 01:15:26.640]  I think it has everything to do with Israel.
+[01:15:26.720 --> 01:15:31.840]  And Trump has decided that peace in the Middle East is worth covering up for this massive pedophile.
+[01:15:32.079 --> 01:15:36.239]  But unless you solve the problem at a systemic level, this is all just going to happen again.
+[01:15:36.880 --> 01:15:40.880]  And so I'm very disappointed to see this from the Trump administration this week.
+[01:15:40.960 --> 01:15:51.279]  I'm not ready to totally withdraw my support for Trump because obviously he's better than Kamala Harris and he did liberate the January Sixers, but I'm not an enthusiastic fan like I was just 10 days ago.
+[01:15:51.439 --> 01:15:52.720]  Let's go to Sean in North Carolina.
+[01:15:52.800 --> 01:15:54.560]  Sean, what's on your mind in North Carolina?
+[01:15:55.920 --> 01:15:57.279]  Hey, Chase, thanks for taking my call.
+[01:15:58.000 --> 01:16:02.640]  I just wanted to bring up two points, things I've been thinking about, and kind of hear what your thoughts are.
+[01:16:03.279 --> 01:16:08.479]  First, I'm a little concerned about a lot of this denaturalization stuff that I've been hearing about.
+[01:16:09.640 --> 01:16:12.419]  You know, I just don't really know if I can support that.
+[01:16:12.419 --> 01:16:32.239]  And I'm an American citizen, but I have friends who are naturalized, and I just don't think it's fair to a bunch of people who come to this country the right way, and all of a sudden the president— Yeah, and that's really worrisome to me.
+[01:16:32.319 --> 01:16:40.319]  And I don't know if the president's hearing this or where it's really coming from, but I really think he's going to lose a lot of support from a lot of people.
+[01:16:40.720 --> 01:16:41.920]  He's not actually going to try to do it.
+[01:16:42.079 --> 01:16:43.279]  I think he's just talking trash.
+[01:16:43.680 --> 01:16:46.159]  It's inappropriate, but it's not going to happen.
+[01:16:46.720 --> 01:16:50.479]  Well, like I said, I know a lot of people who are nationalized who voted for him.
+[01:16:50.800 --> 01:16:54.319]  And we want the Republicans to win.
+[01:16:54.399 --> 01:16:55.680]  We won because of these people.
+[01:16:56.479 --> 01:16:58.720]  But anyway, I appreciate your support with that.
+[01:16:58.880 --> 01:17:05.840]  The next point, I'm very worried about this Alligator Alcatraz facility, just this one facility as an example.
+[01:17:06.399 --> 01:17:12.640]  When Biden was president, we heard a lot about how they're going to bake these FEMA re-education camps and whatnot.
+[01:17:13.039 --> 01:17:15.279]  Thankfully, that didn't really come to fruition.
+[01:17:15.600 --> 01:17:24.560]  But all of a sudden, President Trump wants to construct these facilities as detention facilities and eventually, you know, deportation facilities.
+[01:17:24.800 --> 01:17:27.119]  Well, what do we do when all the illegals are gone?
+[01:17:27.439 --> 01:17:42.960]  And, you know, I think it's very reasonable to have this concern because I don't think there's any provision in the Big Beautiful bill that kind of stopped this from becoming, let's say, like a Patriot Act type of bill or type of law where these facilities would not be able to function as FEMA re-education camps.
+[01:17:43.359 --> 01:17:49.600]  Yeah, well, if you want to talk about FEMA re-education camps, just talk about public school system in every state throughout the entire country.
+[01:17:49.920 --> 01:17:53.279]  They're already raising our children from the age of five to the age of like 19.
+[01:17:55.680 --> 01:18:02.560]  I know, but we're building these facilities, and This was a major concern that a lot of people had under Biden.
+[01:18:02.880 --> 01:18:09.920]  And now, because it's Donald Trump, we have this expectation that everything's going to work out and oh, he's not going to harm us.
+[01:18:10.159 --> 01:18:14.640]  But even with the Stepscene thing, we can kind of see that there's a second kind of hidden hand at play.
+[01:18:14.960 --> 01:18:20.079]  And I just, I just want to be more cautious than blindly support everything that he wants to do.
+[01:18:20.159 --> 01:18:27.520]  I would say obviously, if we learn anything this week, it should be that we should be cautious about everything that any administration does ever, no matter how much we love them.
+[01:18:27.760 --> 01:18:28.079]  Good call.
+[01:18:28.239 --> 01:18:31.439]  Undergotten in Massachusetts, want to talk about the Doppler radar.
+[01:18:31.520 --> 01:18:32.560]  You're live on the air?
+[01:18:33.760 --> 01:18:34.560]  Hi, Chase.
+[01:18:35.199 --> 01:18:46.560]  I've been posting these radar time-lapses of all the Doppler radar data from NOAA and IEM since February about.
+[01:18:47.520 --> 01:18:53.359]  And I've discovered a grid system that they're using together.
+[01:18:53.840 --> 01:18:59.520]  It's kind of new information on the whole radar base, Fiasco, moving clouds around.
+[01:18:59.760 --> 01:19:00.960]  So what are the implications?
+[01:19:03.039 --> 01:19:21.279]  Well, if you check out the video section of my X account is at Undergotten, you can see basically clouds just lining up along straight lines from California to Massachusetts and, you know, as far as Canada and Mexico.
+[01:19:21.760 --> 01:19:22.000]  Yeah.
+[01:19:22.640 --> 01:19:26.079]  So you think it's just weather modification or is it just a natural phenomenon?
+[01:19:26.880 --> 01:19:28.880]  No, it's weather modification.
+[01:19:29.119 --> 01:19:30.000]  And what's the purpose of it?
+[01:19:30.239 --> 01:19:32.560]  To cause disasters or are they trying to create rain?
+[01:19:34.479 --> 01:19:47.600]  I mean, this is just create it's like, you know, creating a microwave wall in the sky that the cloud, you know, the wind just sort of bounces off of it and then guides along it.
+[01:19:47.840 --> 01:19:52.560]  And if you check out these time lapses, you can see it.
+[01:19:52.640 --> 01:19:54.560]  And it's pretty, I don't know.
+[01:19:55.359 --> 01:19:55.520]  Wow.
+[01:19:55.600 --> 01:19:56.319]  I'll take a look at that.
+[01:19:56.479 --> 01:19:57.520]  Thank you for calling in and let us know.
+[01:19:57.600 --> 01:19:58.000]  I appreciate it.
+[01:19:58.079 --> 01:19:59.439]  Let's go to Jim in Washington State.
+[01:19:59.600 --> 01:20:00.560]  Jim in Washington State.
+[01:20:00.640 --> 01:20:02.079]  What is on your mind this evening?
+[01:20:02.960 --> 01:20:03.760]  How's it going, Chase?
+[01:20:03.840 --> 01:20:04.399]  It's Tim.
+[01:20:04.479 --> 01:20:07.760]  But I just want to remind everybody that we got tricked.
+[01:20:07.840 --> 01:20:08.560]  We got had.
+[01:20:08.880 --> 01:20:09.840]  They're pulling the fluoride.
+[01:20:09.920 --> 01:20:11.600]  They put the fluoride back in the water.
+[01:20:11.920 --> 01:20:12.880]  And there's no reason.
+[01:20:12.960 --> 01:20:17.199]  It's actually more costly to put fluoride in the water because of all the damage it does.
+[01:20:17.520 --> 01:20:19.199]  So they know that we're waking up.
+[01:20:19.279 --> 01:20:21.279]  They're trying to put us back to sleep.
+[01:20:21.600 --> 01:20:23.039]  We need to be more loud.
+[01:20:23.199 --> 01:20:24.239]  We need to wake up.
+[01:20:24.560 --> 01:20:30.720]  And I need Alex Jones and anybody with Wavos to go bullhorn Trump immediately and stage protests.
+[01:20:31.039 --> 01:20:33.279]  This is our momentum is getting sucked away.
+[01:20:33.359 --> 01:20:35.439]  We're never going to have this opportunity again.
+[01:20:35.760 --> 01:20:38.239]  It's twilight for the freedom movement if we don't.
+[01:20:38.560 --> 01:20:39.279]  Yeah, I think you're right.
+[01:20:40.000 --> 01:20:40.560]  I think you're right.
+[01:20:40.640 --> 01:20:42.560]  We got to hold these people accountable.
+[01:20:45.039 --> 01:20:46.159]  I want to show a clip here.
+[01:20:46.239 --> 01:20:49.680]  This is Greg Gutfeld, the modern Democrat picks the wrong side in every contest.
+[01:20:49.920 --> 01:20:52.800]  Imagine watching Jaws and rooting for the shark.
+[01:20:52.880 --> 01:20:55.119]  I'm going to show this clip and then unpack it before we go to break.
+[01:20:55.199 --> 01:20:56.560]  It kind of ties into what we've been talking about.
+[01:20:56.640 --> 01:20:57.520]  Let's watch.
+[01:20:58.159 --> 01:20:59.119]  Oh, come on.
+[01:20:59.439 --> 01:21:03.600]  You know, these are just like hardworking people, probably honor students.
+[01:21:03.760 --> 01:21:05.279]  They probably do a lot of volunteer work.
+[01:21:05.520 --> 01:21:08.000]  Imagine watching Jaws and rooting for the shark.
+[01:21:08.159 --> 01:21:11.119]  Imagine watching Night of the Living Dead and rooting for the zombies.
+[01:21:11.439 --> 01:21:14.079]  Imagine watching Fox and Friends and rooting for Killmead.
+[01:21:14.560 --> 01:21:21.840]  For some reason, the modern Democrat, the modern progressive, picks the wrong side in every contest.
+[01:21:22.159 --> 01:21:29.680]  And then they hide behind this shield of false compassion so that they claim, they can claim that they are on the right side.
+[01:21:29.920 --> 01:21:31.600]  We're just protecting the juveniles.
+[01:21:31.760 --> 01:21:33.600]  No, you're embracing child labor.
+[01:21:33.760 --> 01:21:35.359]  That's what Gavin Newsom just did.
+[01:21:35.680 --> 01:21:39.119]  Just like they embraced, you know, a wife beater, the Maryland dad.
+[01:21:39.439 --> 01:21:40.159]  Gang members.
+[01:21:40.319 --> 01:21:41.199]  Oh, they're not really there.
+[01:21:41.439 --> 01:21:43.920]  The twisted men invading women's safe spaces.
+[01:21:44.079 --> 01:21:45.520]  Oh, no, no, no, no, no.
+[01:21:45.680 --> 01:21:47.039]  They're an oppressed group.
+[01:21:47.359 --> 01:21:54.960]  When you play that montage of all those losers, just remember, do not get your news or your polls from them because they don't mean a thing.
+[01:21:55.279 --> 01:21:56.479]  You can claim they're devastating.
+[01:21:56.640 --> 01:22:00.159]  You can claim that polls doesn't mean anything because it's not credible.
+[01:22:00.479 --> 01:22:01.279]  It is not credible.
+[01:22:01.439 --> 01:22:02.319]  And I'll tell you why.
+[01:22:02.640 --> 01:22:08.880]  The legacy media claimed migrant gangs taking over apartments in Aurora, in Aurora, Colorado didn't happen.
+[01:22:09.119 --> 01:22:10.319]  Now they had to walk it back.
+[01:22:10.479 --> 01:22:17.840]  The Times had done a whole piece on how, my God, Trent de Aragua was in these apartment buildings and they were terrorizing downtown Aurora.
+[01:22:18.000 --> 01:22:20.800]  Of course, there's the myth building of the Maryland dad, right?
+[01:22:20.960 --> 01:22:22.880]  Oh, no, he's such an innocent man.
+[01:22:22.960 --> 01:22:24.560]  And you find it, he's a wife beater.
+[01:22:24.640 --> 01:22:25.840]  He's a human trafficker.
+[01:22:26.159 --> 01:22:30.159]  Then, do not forget the accusations of border agents that they were whipping Haitians.
+[01:22:30.399 --> 01:22:31.359]  What happened to that story?
+[01:22:31.600 --> 01:22:32.880]  Never got an apology for that.
+[01:22:33.199 --> 01:22:36.880]  So this will always play out in the same way.
+[01:22:37.199 --> 01:22:38.640]  You enforce the law.
+[01:22:38.960 --> 01:22:41.119]  They pretend to care.
+[01:22:41.439 --> 01:22:47.840]  But they always choose the side that is breaking the law because they see the system as oppressed.
+[01:22:48.159 --> 01:22:51.279]  That is the filter that they use in every case.
+[01:22:51.600 --> 01:22:55.039]  The party, the Democratic Party, you were mentioning, you know, they got, are they going to change?
+[01:22:55.119 --> 01:22:55.760]  Can they change?
+[01:22:55.920 --> 01:22:56.159]  No.
+[01:22:56.720 --> 01:23:05.119]  They're like a therapy patient who claims they want to change, who claims they want to get better, as long as they can still do meth.
+[01:23:05.920 --> 01:23:10.800]  So they assume, yeah, I can solve all my problems, but without addressing the source of the problems.
+[01:23:10.960 --> 01:23:28.159]  In this case, their meth is this identity that they've culled from being, I would say from the campuses, that everything that works in America has to be part of an oppressive system that needs to be dismantled, whether it's law enforcement or the border, whatever you want.
+[01:23:29.760 --> 01:23:32.239]  Kennedy, I saved the best for last for you.
+[01:23:34.399 --> 01:23:36.000]  There are good things that this administration is doing.
+[01:23:36.159 --> 01:23:38.960]  They have been good about stopping the bleeding at the border.
+[01:23:39.279 --> 01:23:44.640]  They were great at commuting or pardoning all the J6 prisoners.
+[01:23:45.279 --> 01:23:56.159]  This Eff scene thing has just been a real dark veil over the administration, really kind of shattering the notion of a golden age, coupled with some of the questionable things about the big beautiful bill.
+[01:23:56.319 --> 01:24:02.640]  I know they removed the AI moratorium, but if you look at what the AI moratorium was, it was probably one of the only good things about the bill, actually.
+[01:24:03.439 --> 01:24:11.439]  Because now California can just totally control all the policies around the development of artificial intelligence and states can regulate and all the AI is going to be developed in California.
+[01:24:11.600 --> 01:24:18.079]  So now we're at the beast of Gavin Newsom in our arms race against China, the CCP, which of course owns California.
+[01:24:18.319 --> 01:24:20.560]  So here we go, folks.
+[01:24:22.479 --> 01:24:25.039]  But there is hope for humanity as long as there is Infowar.
+[01:24:25.199 --> 01:24:28.560]  So please go to theAlexJonesStore.com right now and support us any way that you can.
+[01:24:28.720 --> 01:24:32.399]  If you sign up as a VIP, You spend $30 a month, you get $40 in store credit.
+[01:24:32.479 --> 01:24:34.720]  It's a no-brainer and you can cancel anytime.
+[01:24:35.359 --> 01:24:47.279]  It's not an expense, it's an investment, not just in your own health, mind, and body, and your own apparel because of the amazing products that we sell, highest quality at the best price, but it's an investment in our species itself, which is under relentless attack.
+[01:24:47.600 --> 01:24:48.880]  Some weeks are better than others.
+[01:24:49.119 --> 01:24:51.840]  Sometimes we feel disheartened, sometimes encouraged.
+[01:24:52.159 --> 01:24:54.640]  Give us a reason at Infowars to be encouraged.
+[01:24:54.720 --> 01:25:00.479]  Go to theAlli'sJonestore.com right now and stay tuned for more of your calls on the other side of this very short break.
+[01:25:00.800 --> 01:25:11.600]  Real leadership, the essence of leadership is showing people how it's done so that they understand it's the right way and getting them to adopt it.
+[01:25:11.840 --> 01:25:16.000]  And being a leader means you go against the tide when the tide is wrong.
+[01:25:16.319 --> 01:25:18.640]  You go against the crowd when the crowd is wrong.
+[01:25:18.960 --> 01:25:22.800]  You go against the establishment when the establishment is degenerate and sick.
+[01:25:23.119 --> 01:25:33.600]  And then by example and by confidence and by will and by strength, then the timid join you because then it costs nothing to be a patriot, to quote the great Mark Twain.
+[01:25:33.920 --> 01:25:38.880]  In the beginning, the patriot is a scarce man, hated, feared, and scorned.
+[01:25:39.199 --> 01:25:48.560]  But in time when his cause succeeds, the timid join him because then it costs nothing to be a patriot.
+[01:25:48.880 --> 01:25:55.199]  The patriot is a scarce man, hated, feared, scorned.
+[01:25:55.520 --> 01:26:09.039]  But in time, when his cause succeeds, the timid join him because then it costs nothing to be a patriot.
+[01:26:09.359 --> 01:26:14.079]  And when you commit to something worthy and good, it is not a weight.
+[01:26:14.560 --> 01:26:15.439]  It is everything.
+[01:26:15.920 --> 01:26:18.319]  It is your greatest strength.
+[01:26:18.640 --> 01:26:22.960]  It becomes your soul to risk your life for freedom.
+[01:26:23.279 --> 01:26:30.960]  It's what God forged you in his mind as he created your soul before he even put you in your mother's womb.
+[01:26:31.198 --> 01:26:59.439]  knew you Now, back to our program.
+[01:27:00.560 --> 01:27:02.399]  Ladies and gentlemen, I am Chase Geiser.
+[01:27:02.479 --> 01:27:03.520]  This is the Alex Jones Show.
+[01:27:03.600 --> 01:27:07.680]  We have been taking your calls and will continue to do so for the remainder of this transmission.
+[01:27:08.000 --> 01:27:09.600]  Let's go first to Devin in Georgia.
+[01:27:09.680 --> 01:27:10.880]  Devin, you've been waiting the longest.
+[01:27:10.960 --> 01:27:12.239]  What is on your mind?
+[01:27:12.560 --> 01:27:13.119]  How you doing?
+[01:27:14.159 --> 01:27:16.159]  I think your views are very condescending.
+[01:27:16.399 --> 01:27:23.520]  And the fact that you're still supporting Trump in 2025, when he supported an insurrection and got those people out of jail and all of that.
+[01:27:23.760 --> 01:27:27.119]  Well, Devin, I think that you're retarded and you have a lower than average IQ.
+[01:27:27.279 --> 01:27:33.279]  And that's okay because half the population does have an IQ below 100, but you are definitely taking more from civilization than you're giving back.
+[01:27:33.439 --> 01:27:40.800]  So I think you should consider repenting and then trying something else with your life than calling into the Alex Jones show on a Sunday night when you could be working on self-improvement.
+[01:27:40.880 --> 01:27:42.079]  Let's go to John in Florida.
+[01:27:42.239 --> 01:27:43.600]  John, what is on your mind, sir?
+[01:27:43.840 --> 01:27:45.279]  Next caller, please.
+[01:27:45.600 --> 01:27:59.680]  Chase, look, I want you to throw it in the hat to get Rodney Brown, Pastor Rodney Brown back on the show and get a 30,000-mile view of what's going on with everything.
+[01:28:00.000 --> 01:28:07.600]  Pastor Brown's a good pastor and he knows a lot about what's going on and he'd be interested to hear from Chase.
+[01:28:08.000 --> 01:28:08.159]  Okay.
+[01:28:08.399 --> 01:28:08.640]  All right.
+[01:28:08.720 --> 01:28:09.520]  I'm very open to that.
+[01:28:09.680 --> 01:28:10.720]  Thank you so much for putting that in there.
+[01:28:10.800 --> 01:28:11.279]  I appreciate that.
+[01:28:11.359 --> 01:28:12.720]  Peter in California at the top.
+[01:28:12.880 --> 01:28:14.560]  Peter in California, what's on your mind?
+[01:28:15.520 --> 01:28:16.880]  Hey, Chase, I love you.
+[01:28:17.039 --> 01:28:17.920]  I love everybody there.
+[01:28:18.000 --> 01:28:19.039]  Infowars, man.
+[01:28:19.199 --> 01:28:20.319]  We're all in this together, man.
+[01:28:20.479 --> 01:28:20.880]  I love you too.
+[01:28:21.840 --> 01:28:27.119]  In the words of Victor Davis Hanson, are we done admiring the problem?
+[01:28:27.760 --> 01:28:34.800]  And this speaks to me so much in the fact of that every time the narrative changed, we're like Wimbledon and this.
+[01:28:35.039 --> 01:28:37.439]  We're just watching this match go back and forth, man.
+[01:28:38.000 --> 01:28:41.840]  And I remembered, I don't know if it was you, but you had a guy, Petimon.
+[01:28:42.560 --> 01:28:53.359]  And my proposition is, Chase, are we actually a participation in this constitutional republic, or is that just a sham that we continue to believe in?
+[01:28:53.680 --> 01:28:54.319]  Yeah, that's a good question.
+[01:28:54.560 --> 01:29:13.680]  And when I think about root cause, I think about the fact that every day I get up in the mirror and, oh, but just by the way, Chase, I open my cupboard and I'm looking at bodies, alpha power, krill oil, biotrue selenium, bodies, lung cleanse, oxypower, brain force, supermale Veltali, and methylene blue.
+[01:29:13.760 --> 01:29:15.840]  And brother, that stuff doesn't work.
+[01:29:16.159 --> 01:29:18.479]  But I still take it and I still support you guys.
+[01:29:19.680 --> 01:29:22.159]  Well, that sort of lights me up like a Christmas tree, man.
+[01:29:22.239 --> 01:29:23.119]  Maybe just take a double dust.
+[01:29:23.439 --> 01:29:24.239]  I don't know what's happening.
+[01:29:24.399 --> 01:29:27.119]  Maybe I should be happy because I don't have mitochondrial damage.
+[01:29:27.680 --> 01:29:28.960]  Yeah, you might be all cleaned out.
+[01:29:29.039 --> 01:29:38.079]  Well, I tell you what, send me a direct message on X and I'll send you a free bottle of the power plant and see if that sets you right because this stuff really works for me, man.
+[01:29:38.720 --> 01:29:44.239]  Hey, Chase, are we actually unindicted co-conspirators in this whole mess?
+[01:29:44.560 --> 01:29:44.720]  Yeah.
+[01:29:45.439 --> 01:29:46.239]  Because we pay taxes.
+[01:29:46.720 --> 01:29:47.680]  We pay taxes, man.
+[01:29:47.760 --> 01:29:52.000]  Every time the government commits a crime against humanity, it's funded by us and we voluntarily pay taxes.
+[01:29:52.560 --> 01:29:53.359]  Chase, please.
+[01:29:53.520 --> 01:30:02.079]  I mean, in the future, we got to have a dialogue about whether we are actually participants and can we withdraw our consent?
+[01:30:02.720 --> 01:30:05.119]  I mean, we can do this without violence.
+[01:30:05.439 --> 01:30:06.960]  We can just basically say, you know what?
+[01:30:07.039 --> 01:30:09.199]  You guys want to play stupid games?
+[01:30:09.520 --> 01:30:11.920]  You guys go play stupid games, but we're going to raise our families.
+[01:30:12.000 --> 01:30:15.520]  We're going to support our communities and we're going to build the future that we want.
+[01:30:16.560 --> 01:30:20.319]  If you find a way to do that peacefully, Peter, let me know because I'm all in.
+[01:30:20.560 --> 01:30:21.600]  Thank you so much for your call.
+[01:30:21.680 --> 01:30:22.159]  I appreciate it.
+[01:30:22.319 --> 01:30:24.720]  Nobody in Pennsylvania, nobody, what's on your mind?
+[01:30:28.720 --> 01:30:29.600]  Not much, apparently.
+[01:30:29.760 --> 01:30:31.439]  All right, let's go to Eugene in Pennsylvania.
+[01:30:31.520 --> 01:30:34.079]  Eugene and PA, what is on your mind?
+[01:30:34.399 --> 01:30:34.880]  Oh, yes.
+[01:30:35.199 --> 01:30:37.760]  Hi, this is Eugene in Pennsylvania.
+[01:30:38.000 --> 01:30:45.760]  So I wanted, first of all, thank you and Alex and the entire crew for informing the public about the truth.
+[01:30:46.079 --> 01:30:54.079]  And so the globalist government of Bulgaria is currently trying to make Bulgaria join the Eurozone.
+[01:30:54.159 --> 01:31:05.760]  That means to adopt the Euro and get rid of the national currency, which will lead to loss Of financial sovereignty becoming financially enslaved, like Greece and Ireland.
+[01:31:05.920 --> 01:31:20.239]  And there have been massive protests in the last several months, and the mainstream media in Bulgaria and many of the mainstream media abroad have been refusing to cover those protests.
+[01:31:20.479 --> 01:31:28.960]  And also, there was a petition which by law should have triggered a referendum about the issue.
+[01:31:29.279 --> 01:31:32.319]  But the government just completely, well, the government and the parliament.
+[01:31:33.039 --> 01:31:34.399]  We know what it's like to petition the government.
+[01:31:34.560 --> 01:31:38.000]  We petitioned King George countless times before we finally had to have a revolution against him.
+[01:31:38.079 --> 01:31:40.000]  I hope Bulgaria pulls out of this globalist trash.
+[01:31:40.079 --> 01:31:42.079]  I hope the United States pulls out of this globalist trash.
+[01:31:42.239 --> 01:31:44.880]  But we'll see what happens with the remainder of the Trump administration.
+[01:31:44.960 --> 01:31:47.039]  Dennis in Kentucky, Dennis, what's on your mind?
+[01:31:49.119 --> 01:31:50.239]  How's it going, brother?
+[01:31:50.560 --> 01:31:51.520]  It's good to hear from you.
+[01:31:51.680 --> 01:31:53.359]  Shout out to the Alex Jones store.
+[01:31:53.520 --> 01:31:58.239]  Please, if you want to be the best human you can be, the supplements are second to none.
+[01:31:58.560 --> 01:31:58.880]  Yeah.
+[01:31:59.039 --> 01:31:59.520]  Amen.
+[01:32:00.399 --> 01:32:07.920]  If we got to talk about something for real, it's that they want to keep the public at a goldfish mentality level.
+[01:32:08.560 --> 01:32:12.479]  Everybody knows about what's going on as far as Jeffrey Epstein.
+[01:32:12.560 --> 01:32:14.159]  Everybody knows about Nexium.
+[01:32:14.399 --> 01:32:20.479]  Everybody knows about these hidden truths about it.
+[01:32:20.800 --> 01:32:23.520]  Okay, let's not be stupid.
+[01:32:23.840 --> 01:32:29.520]  If someone tells you that this did not exist, they're clearly lying to you.
+[01:32:29.840 --> 01:32:35.119]  They want you to be a subservient person to something that is going on.
+[01:32:35.439 --> 01:32:42.079]  So just, you never, you don't, you don't need to worry about what that's going on, what this is going on.
+[01:32:42.399 --> 01:32:44.800]  But look at how many people are getting arrested.
+[01:32:45.119 --> 01:32:50.000]  Look how many people are being charged with these same man actions and trafficking.
+[01:32:50.319 --> 01:32:53.600]  But yet, yet again, what's being covered?
+[01:32:53.920 --> 01:32:54.880]  What's being covered?
+[01:32:55.119 --> 01:32:57.600]  Who is the person ahead of all of this?
+[01:32:57.760 --> 01:32:59.840]  James Comey's daughter.
+[01:33:00.159 --> 01:33:00.479]  Okay?
+[01:33:01.359 --> 01:33:03.119]  Let's not be stupid.
+[01:33:03.439 --> 01:33:07.039]  You need to start contacting your city officials, your public officials.
+[01:33:07.279 --> 01:33:08.239]  Voice your opinion.
+[01:33:08.479 --> 01:33:11.039]  The one thing they're counting on is you saying nothing.
+[01:33:11.359 --> 01:33:13.039]  That's your silent acquiescence.
+[01:33:13.439 --> 01:33:13.600]  Amen.
+[01:33:14.640 --> 01:33:14.960]  Amen.
+[01:33:15.279 --> 01:33:29.600]  And we have to keep pushing on this Epstein thing because no matter how much Trump or the administration wants to make it into a nothing burger, the bench of Piero's or the Mark Levins making claims that nobody cares about it, we know that the people care about this issue and we have to apply the pressure because we have found the weakness.
+[01:33:29.680 --> 01:33:30.800]  The weakness is Epstein.
+[01:33:30.880 --> 01:33:36.880]  And it's a symbol of all of our deepest problems at the deepest level with corruption in the United States of America.
+[01:33:37.039 --> 01:33:45.840]  This shadowy deep state government violating the rights of human beings, children, abusing children for the sake of intelligence operations, for the sake of national security.
+[01:33:46.159 --> 01:33:51.279]  And then they cover it up and then they want us to move on as they shout, nothing to see here, but we do care.
+[01:33:51.439 --> 01:33:52.079]  Let's watch this clip.
+[01:33:52.159 --> 01:33:54.479]  Nick Sworder posted this amazing clip.
+[01:33:54.560 --> 01:33:57.199]  Holy crap, Megan Kelly's on TV, lambasting Pamboni.
+[01:33:57.279 --> 01:33:57.760]  Let's watch.
+[01:33:58.079 --> 01:33:58.560]  Tuesday.
+[01:33:58.960 --> 01:33:59.840]  Nothing's going on.
+[01:34:00.079 --> 01:34:02.800]  Has anyone been on X in the past hour?
+[01:34:03.760 --> 01:34:04.319]  They're happy.
+[01:34:04.399 --> 01:34:06.239]  That's why you know they haven't been on social media.
+[01:34:06.479 --> 01:34:07.439]  We'll update you.
+[01:34:07.760 --> 01:34:09.279]  Why don't you update them, Megan?
+[01:34:10.000 --> 01:34:16.079]  Well, this is the first big scandal, I'd say, of the Trump administration that's on team rational.
+[01:34:16.720 --> 01:34:21.359]  It's not a fake media scandal like the left tries to create for President Trump every other day.
+[01:34:21.680 --> 01:34:24.880]  It's one of the right's own making, and it's not going well.
+[01:34:25.199 --> 01:34:27.199]  And it has to do with Jeffrey Epstein.
+[01:34:28.079 --> 01:34:28.319]  Yeah.
+[01:34:28.800 --> 01:34:34.800]  But let me just ask you, make some noise if you care about the Jeffrey Epstein scandal.
+[01:34:38.720 --> 01:34:40.640]  Raise your hand if it matters a lot to you.
+[01:34:40.800 --> 01:34:42.000]  Raise your hand.
+[01:34:42.640 --> 01:34:44.479]  So every hand of 7,000 people.
+[01:34:45.039 --> 01:34:45.680]  Everybody cares.
+[01:34:46.800 --> 01:34:47.039]  A lot.
+[01:34:47.119 --> 01:34:47.600]  I said a lot.
+[01:34:47.760 --> 01:34:48.159]  Every hand.
+[01:34:48.479 --> 01:34:49.439]  Here's what I think is happening.
+[01:34:49.680 --> 01:34:51.439]  I don't think President Trump is focused on this.
+[01:34:51.600 --> 01:34:56.319]  He's focused on a lot of other things which are going great, and he needs to be focused on those other things.
+[01:34:56.640 --> 01:35:00.960]  Jeffrey Edison is not the most important thing on his agenda by any stretch of the imagination.
+[01:35:01.199 --> 01:35:05.840]  I mean, he's crushing it on the tariffs, foreign policy, just got nominated for the Nobel Peace Prize.
+[01:35:06.000 --> 01:35:07.039]  If not Trump, then who?
+[01:35:07.279 --> 01:35:07.760]  Honestly.
+[01:35:08.000 --> 01:35:11.039]  Barack Obama got the Nobel Peace Prize after nine months in office.
+[01:35:11.199 --> 01:35:12.720]  He had done nothing, nothing.
+[01:35:13.039 --> 01:35:15.840]  He gave a nice speech about Muslims, and they gave it to him.
+[01:35:16.159 --> 01:35:19.840]  So President Trump should be getting the Nobel Peace Prize, and there's all sorts of things he's focused on.
+[01:35:20.000 --> 01:35:23.279]  I just don't think this has captured his attention quite yet.
+[01:35:23.600 --> 01:35:27.920]  But it needs to, because it's starting to create a real hornet's nest within the administration.
+[01:35:28.159 --> 01:35:31.279]  And I've got to be honest, I blame Pam Bondi.
+[01:35:33.439 --> 01:35:35.039]  I'll tell you why, okay?
+[01:35:36.000 --> 01:35:38.800]  I have nothing, yes, incompetence, yes.
+[01:35:39.760 --> 01:35:42.399]  I have nothing against Pam Bondi as a human being.
+[01:35:42.640 --> 01:35:51.039]  I was fine with her nomination and her confirmation, and she'd been loyal to the president, and I get that President Trump needs a loyal Attorney General.
+[01:35:51.199 --> 01:35:56.720]  Look what happened with Sessions the first time he went away, and then the next thing you know, we had the Mueller investigation, and it was a nightmare.
+[01:35:57.039 --> 01:36:00.399]  But there are a lot of other people who can be loyal and competent in that job.
+[01:36:01.039 --> 01:36:07.760]  She is the reason that things are unraveling around this story right now that virtually all of the Republican Party cares deeply about.
+[01:36:09.039 --> 01:36:16.079]  It's also true that Dan Bongino and Cash Patel had questions about Epstein before they took office, before they went to the FBI.
+[01:36:16.399 --> 01:36:19.760]  But once they joined the FBI, they said nothing.
+[01:36:20.079 --> 01:36:22.560]  They kept their mouths shut about Epstein.
+[01:36:22.640 --> 01:36:31.359]  You have not seen them, except for one joint appearance with Dan and Cash on Fox, running all over the media looking for attention on this, yes, clickbaity story.
+[01:36:31.680 --> 01:36:32.960]  Who have you seen?
+[01:36:33.279 --> 01:36:34.319]  Pam Bondi.
+[01:36:34.640 --> 01:36:48.800]  She has never missed an opportunity to go on television and dangle sweet nothings that might be coming your way, try to lead you to believe that she's got it, it's on her desk, it's coming tomorrow, you're going to see something on Epstein.
+[01:36:49.119 --> 01:36:50.640]  And it was a tease.
+[01:36:50.880 --> 01:36:56.800]  So you either believe that Pam Bondi was telling the truth then or that she's telling the truth now.
+[01:36:56.960 --> 01:36:58.079]  But both cannot be true.
+[01:36:58.399 --> 01:37:05.039]  She was either lying when she went on Fox News all those times saying, I've got it, I've got it, we're looking at it, wait until you see it, it's horrible.
+[01:37:05.359 --> 01:37:14.399]  Or she's lying in her two-page memo that they released on a Sunday night at the tail end of a holiday weekend to Axios as if Axios is where we all go for our news.
+[01:37:14.720 --> 01:37:15.279]  Hell no.
+[01:37:15.520 --> 01:37:23.600]  She went to someone she knew would not kick the tires on the story and without signing the memo, dropped it in the dead of night and said, that's it.
+[01:37:23.920 --> 01:37:25.920]  Take it, take the crumbs and be happy.
+[01:37:26.239 --> 01:37:28.079]  Refused to come out and give a presser.
+[01:37:28.239 --> 01:37:30.000]  Come out and give a press conference.
+[01:37:30.159 --> 01:37:33.439]  Stand there for six hours to the point where people are dying of boredom.
+[01:37:33.520 --> 01:37:34.880]  They've asked all their questions.
+[01:37:35.199 --> 01:37:37.439]  That's how you put a scandal to rest.
+[01:37:37.760 --> 01:37:40.000]  But she wouldn't even sign her name to it.
+[01:37:40.319 --> 01:37:43.359]  And I'm telling you, I have dollars to donuts.
+[01:37:43.439 --> 01:37:51.039]  It's going to come out that there was internal consternation over that memo and whose name did and did not go on it and who it was and was not behind it.
+[01:37:51.359 --> 01:38:00.479]  And so now you have a situation where her words on the record on Fox News are diametrically opposed to what she put in this memo.
+[01:38:00.720 --> 01:38:02.000]  She's embarrassed the president.
+[01:38:02.159 --> 01:38:03.600]  She's embarrassed herself.
+[01:38:03.920 --> 01:38:09.840]  And Dan and Cash, to the extent they've had to sign off on that, let's understand the FBI is controlled by the DOJ.
+[01:38:10.079 --> 01:38:11.840]  The FBI is subservient to DOJ.
+[01:38:11.920 --> 01:38:13.039]  She's their boss.
+[01:38:13.840 --> 01:38:21.760]  That they're in this position where the only comments they've made on the record as administration officials have been, we don't think he killed himself.
+[01:38:21.840 --> 01:38:22.800]  And we don't think he got murdered.
+[01:38:22.960 --> 01:38:23.600]  We don't think he did kill him.
+[01:38:24.800 --> 01:38:26.079]  That's why we have to keep applying pressure.
+[01:38:26.239 --> 01:38:31.840]  I mean, this is the most important issue as far as I'm concerned in American policy right now, that we get to the bottom of what the hell's going on.
+[01:38:31.920 --> 01:38:35.039]  Because if Trump doesn't solve these deep state issues, no one's ever going to.
+[01:38:35.199 --> 01:38:40.880]  In fact, I think it's existential, not just to America, but to humanity that we get to the bottom of these issues over the course of the next three and a half years.
+[01:38:40.960 --> 01:38:43.199]  And if we fail to do it with this administration, it's never going to happen.
+[01:38:43.439 --> 01:38:44.399]  Joe in USA.
+[01:38:44.640 --> 01:38:46.399]  Joe in USA, you are alive on the air, sir.
+[01:38:46.479 --> 01:38:47.119]  What is on your mind?
+[01:38:47.359 --> 01:38:48.159]  Hey, Chase.
+[01:38:48.479 --> 01:38:48.880]  Amen.
+[01:38:49.199 --> 01:38:59.760]  So, yeah, the reason I totally dropped my support for Trump was back in the 80s when he was involved in Atlantic City casinos and stuff like that.
+[01:39:00.960 --> 01:39:03.279]  He did some bad banking, I guess, or something.
+[01:39:03.520 --> 01:39:10.319]  And like half the casinos were shut down and boarded up, including his casinos.
+[01:39:10.640 --> 01:39:16.319]  And then years later, he ran for president, and I reluctantly voted for him the first time.
+[01:39:16.640 --> 01:39:17.680]  And then COVID hit.
+[01:39:17.920 --> 01:39:23.840]  I had to go down to Atlantic City again for something else over like a two-month period of time.
+[01:39:24.159 --> 01:39:44.399]  And it hit me that the scene I was looking at driving into Atlantic City was the same as it was when he was heavily involved in Atlantic City in the past, except it was more devastating and except it was like a small microcosm of the whole country.
+[01:39:45.039 --> 01:39:49.920]  Do you think that he's single-handedly responsible for Atlantic City being in the safe incentive?
+[01:39:50.960 --> 01:39:55.199]  I'm not really saying that, but all I know is he was a big player in it.
+[01:39:55.359 --> 01:40:07.840]  And as soon as he got involved in it, and so he talks about the golden age and everything, it was just a weird reality because it was like half Atlantic City was shut down when he got heavily involved in it.
+[01:40:08.159 --> 01:40:14.640]  And then when he became president and had all that power, I had to get out of Atlantic City for something like daily.
+[01:40:15.199 --> 01:40:17.199]  And it was like tumbleweeds.
+[01:40:17.359 --> 01:40:28.479]  And it hit me that whenever he's in full control of something, I don't know what people try to like gloss him over as, but for me, it was a harsh reality.
+[01:40:28.800 --> 01:40:47.199]  And so when you see this country and you wonder why money's being sent to Ukraine and not here, and the country's in shambles, trust me, Trump has a track record of complete failure when he's involved at high levels of certain things.
+[01:40:47.520 --> 01:40:59.359]  You know, Joe, I don't really agree with you, but I want to use you as an example because that's a perfectly good example of a reason not to support Trump.
+[01:40:59.680 --> 01:41:05.920]  I don't agree with it, but it's not because you have some emotional weakness or some weird problem with him that's totally misdirected.
+[01:41:06.239 --> 01:41:10.880]  I mean, you're looking at a city that he was involved in and you're looking at some of his business dealings.
+[01:41:11.199 --> 01:41:11.520]  I get it.
+[01:41:11.600 --> 01:41:12.720]  That's reasonable.
+[01:41:13.039 --> 01:41:13.279]  Right.
+[01:41:13.520 --> 01:41:14.079]  You know what I mean?
+[01:41:14.159 --> 01:41:14.880]  And so I appreciate that.
+[01:41:15.199 --> 01:41:17.680]  I don't agree with you because I think he's been successful overall.
+[01:41:18.880 --> 01:41:22.000]  I think he was really successful other than with COVID during his first term.
+[01:41:22.239 --> 01:41:24.319]  I think he's done a lot of things that are incredible this term.
+[01:41:24.479 --> 01:41:30.960]  Obviously, the guy's been successful throughout his career, similar to Elon Musk, but hey, man, fair enough if you feel that way about him based on that.
+[01:41:31.680 --> 01:41:34.079]  I'm not going to break your balls over that, Joe.
+[01:41:34.399 --> 01:41:35.039]  And I'm glad.
+[01:41:35.359 --> 01:41:36.880]  And what about Roger Waters?
+[01:41:36.960 --> 01:41:40.560]  Is the Trump administration going to step up for Roger Waters?
+[01:41:40.800 --> 01:41:42.960]  Roger Waters, the singer from Pink Floyd?
+[01:41:43.279 --> 01:41:43.600]  Yeah.
+[01:41:43.840 --> 01:41:44.329]  What happened?
+[01:41:44.340 --> 01:41:46.469]  So he's being...
+[01:41:48.319 --> 01:42:00.479]  No, they're setting him up for like 15 years in prison because he founded some group that was like pro-Palestine survivor to try to help out Palestinian survivors.
+[01:42:00.640 --> 01:42:01.520]  And they're calling it a terrorist group.
+[01:42:01.600 --> 01:42:08.800]  And now they're trying to arraign him and say that he could face up to 15 years in prison for founding this group or something like that.
+[01:42:09.680 --> 01:42:13.279]  The group probably inadvertently funded terrorism or something and they're trying to pin it on him.
+[01:42:13.359 --> 01:42:14.319]  They should just leave the guy alone.
+[01:42:14.560 --> 01:42:15.680]  Joe, thanks for calling in.
+[01:42:15.760 --> 01:42:16.079]  I appreciate it.
+[01:42:16.159 --> 01:42:17.119]  Let's go to Chris and Idaho.
+[01:42:17.199 --> 01:42:18.640]  Chris and Idaho at the bottom of the list.
+[01:42:18.880 --> 01:42:20.800]  Chris and Idaho, you're live on the air.
+[01:42:21.439 --> 01:42:24.399]  Yeah, I think Andrew Tate probably had the best take on it.
+[01:42:24.560 --> 01:42:32.560]  I don't know if his head's like going down the final right path, but when he's talking about, I think he's talking to PBD and he's talking about the two different groups, about the voters and the elites.
+[01:42:33.039 --> 01:42:37.199]  And we all kind of agree that the elites are on this list of Epstein.
+[01:42:37.680 --> 01:42:51.039]  Well, the recent, the reason I would probably drop the Epstein thing, if Trump keeps going, I'll totally support Trump, is if I continue to see this, the most recent treasury auction, which we all know like foreign investors are starting to drop our dollar.
+[01:42:51.520 --> 01:42:57.600]  Well, the biggest, the biggest direct buyers, so individual buyers for their own portfolio just hit a record high.
+[01:42:57.920 --> 01:43:01.520]  And I believe it was on that same day when Trump said to drop the Epstein list.
+[01:43:01.760 --> 01:43:08.319]  So if he's getting these billionaires, you know, and holding all this stuff over his head and like false threatening before, like, we're going to drop your name, we're going to drop your name.
+[01:43:08.399 --> 01:43:09.760]  You better buy our loan.
+[01:43:10.079 --> 01:43:12.880]  You know, I can totally see that as part of his strategy.
+[01:43:13.840 --> 01:43:14.800]  Yeah, that makes sense.
+[01:43:15.119 --> 01:43:15.680]  Let's move on to.
+[01:43:17.359 --> 01:43:19.039]  Texas skeptic in Texas.
+[01:43:19.199 --> 01:43:21.439]  Texas skeptic in Texas, what's on your mind?
+[01:43:22.079 --> 01:43:23.520]  Hey, thanks for taking my call.
+[01:43:25.920 --> 01:43:29.039]  I wanted to talk about all the State Department firings that are happening.
+[01:43:30.960 --> 01:43:31.520]  Okay, go on.
+[01:43:31.680 --> 01:43:32.000]  Talk about that.
+[01:43:32.800 --> 01:43:41.279]  It reminds me of what Alex used to say that once these people get installed, they get rid of the ones that help them get installed first.
+[01:43:41.840 --> 01:43:46.399]  And so I think a lot of these people, and I don't know, this is me speculating with the whole picture.
+[01:43:47.039 --> 01:43:50.079]  You have Pond Pambondi used to be the AG of Florida.
+[01:43:50.159 --> 01:43:51.520]  Now she's covering up.
+[01:43:51.760 --> 01:43:53.520]  She covered up Epstein when she was in Florida.
+[01:43:53.680 --> 01:43:55.520]  Now she's covering up Epstein again.
+[01:43:56.079 --> 01:44:02.319]  And with Trump coming out and saying we need to forget about it, I just really think he's a part of this whole system.
+[01:44:02.880 --> 01:44:04.640]  And then you think about the dates.
+[01:44:04.800 --> 01:44:09.439]  Like, Trump declared a national emergency with COVID on Friday the 13th.
+[01:44:09.760 --> 01:44:12.800]  And then again, on Friday the 13th is when he bombed Iran.
+[01:44:13.119 --> 01:44:14.560]  I don't think that's coincidental.
+[01:44:14.800 --> 01:44:23.119]  I think he's a part of this underhanded, whoever they are, whether they're Frankists or if it's just the Israelis and the Mossad.
+[01:44:23.439 --> 01:44:25.039]  It's all interconnected.
+[01:44:25.680 --> 01:44:29.439]  And I don't think like, I know Alex says, well, Trump's doing good things, good things.
+[01:44:29.920 --> 01:44:38.159]  I think those good things that Alex is suggesting to or referring to are just part of keeping MAGA on the hook, like a fish on the hook.
+[01:44:38.640 --> 01:44:41.680]  Just a little bit of good while they're still implementing the business.
+[01:44:41.760 --> 01:44:43.760]  But the J6 partens were really good.
+[01:44:44.640 --> 01:44:46.000]  I mean, that was just really good.
+[01:44:46.319 --> 01:44:47.760]  Well, J6 parts were good.
+[01:44:47.840 --> 01:44:52.000]  And I was at J6, and Trump, I think, was part of setting us up.
+[01:44:52.720 --> 01:44:53.199]  I don't think so.
+[01:44:53.439 --> 01:44:54.800]  I don't think he set anybody up.
+[01:44:55.119 --> 01:44:58.560]  I mean, obviously the thing is rowdy, but he said he was going to march with us.
+[01:44:58.640 --> 01:44:59.439]  He did not march with us.
+[01:44:59.600 --> 01:45:02.000]  Yeah, because he saw that it was getting way out of hand.
+[01:45:02.319 --> 01:45:06.880]  There was flashes on all the screens that were saying fight, fight, fight, and all this stuff.
+[01:45:08.640 --> 01:45:09.359]  He didn't set you up.
+[01:45:09.840 --> 01:45:10.399]  I know you were there.
+[01:45:10.560 --> 01:45:13.760]  I know you were there, but that was like one of the worst things that ever happened to Trump.
+[01:45:13.840 --> 01:45:17.359]  Why would he set you up for something that almost totally annihilated him politically?
+[01:45:17.680 --> 01:45:19.039]  Because they needed Biden there.
+[01:45:19.199 --> 01:45:20.159]  They needed Biden there.
+[01:45:20.239 --> 01:45:23.119]  And all that did was encourage the base to get behind Trump.
+[01:45:23.199 --> 01:45:24.880]  I'm saying he's the Trojan horse.
+[01:45:25.199 --> 01:45:28.800]  And the implication, Jeffrey Epstein is the keystone, like Isaac Caffey said.
+[01:45:28.880 --> 01:45:30.880]  He is the keystone to the entire matrix.
+[01:45:31.199 --> 01:45:32.319]  Jeffrey Epstein was the key.
+[01:45:32.479 --> 01:45:33.920]  Epstein is certainly the keystone.
+[01:45:34.159 --> 01:45:35.279]  I agree with that 100%.
+[01:45:35.840 --> 01:45:41.439]  I agree that he is the metaphor, the symbol of all that is wrong in American politics and, frankly, global politics.
+[01:45:41.680 --> 01:45:45.920]  And if we can't solve the Epstein problem, then we can't solve any of our other problems in a sustainable, meaningful way.
+[01:45:46.079 --> 01:45:46.319]  100%.
+[01:45:46.720 --> 01:45:47.199]  Candice Owens.
+[01:45:47.520 --> 01:45:49.039]  Okay, Candace Owens, if I can, one more thing.
+[01:45:49.279 --> 01:45:54.479]  Candace Owens said Trump called her and told her to just brush off the Bridget McCrone, please.
+[01:45:54.800 --> 01:45:55.199]  No, he doesn't.
+[01:45:55.439 --> 01:45:56.720]  The Trump staffer called her.
+[01:45:57.359 --> 01:45:57.600]  Said that.
+[01:45:58.000 --> 01:45:58.720]  No, she said.
+[01:46:01.199 --> 01:46:01.840]  Called her.
+[01:46:02.560 --> 01:46:02.880]  Are you sure?
+[01:46:04.000 --> 01:46:04.880]  Yeah, I'm positive.
+[01:46:05.039 --> 01:46:08.960]  Trump, she said Trump called me, the man Trump called her after the staffer.
+[01:46:09.199 --> 01:46:12.239]  She got another call, and it was Donald Trump telling her to let this thing go.
+[01:46:12.479 --> 01:46:14.239]  Listen, Candace, just let it go.
+[01:46:14.800 --> 01:46:17.039]  I tell you what, Brigitte is definitely a man.
+[01:46:17.600 --> 01:46:18.560]  Just let it go.
+[01:46:18.880 --> 01:46:20.640]  I'm in with Jeffrey Edstein.
+[01:46:20.720 --> 01:46:21.760]  He was my good friend.
+[01:46:22.079 --> 01:46:23.840]  All right, we've got time for one or two more callers.
+[01:46:23.920 --> 01:46:25.439]  Texas skeptic, I love that you called.
+[01:46:25.520 --> 01:46:26.159]  Call again anytime.
+[01:46:26.239 --> 01:46:27.199]  Al Killer in Virginia.
+[01:46:27.279 --> 01:46:29.359]  Al Killer, you're on the air.
+[01:46:30.640 --> 01:46:32.560]  Hey, so I will say this.
+[01:46:33.119 --> 01:46:39.199]  I think if Trump was actually a participant with Epstein, they would have released that already.
+[01:46:39.600 --> 01:46:39.840]  100%.
+[01:46:40.000 --> 01:46:43.039]  Andy never would have signed the executive order to release the documents.
+[01:46:43.359 --> 01:46:43.600]  Right.
+[01:46:43.920 --> 01:46:52.399]  So, and I think they could have had a control arrest or, you know, they would have been able to sanitize it where nobody else was affected had he been in it.
+[01:46:52.720 --> 01:46:54.079]  I will say this, though.
+[01:46:55.520 --> 01:47:03.279]  Something, what people are not paying attention to, we had Ukraine with that surprise attack and then Israel with the surprise attack into Iran.
+[01:47:03.600 --> 01:47:07.199]  Both times while we're negotiating, supposedly negotiating deals.
+[01:47:08.720 --> 01:47:10.960]  No country can take us serious.
+[01:47:11.840 --> 01:47:14.000]  Who would want to do business with you at that point?
+[01:47:14.319 --> 01:47:15.359]  And something happened.
+[01:47:15.520 --> 01:47:16.960]  Look, I'm from the Northeast.
+[01:47:18.399 --> 01:47:19.840]  I grew up with Jewish people.
+[01:47:20.159 --> 01:47:20.800]  I understand.
+[01:47:21.439 --> 01:47:33.359]  I'm not for censoring people on campus, but I understand when people are saying there's anti-Semitism because really what it is, like the Hamas protest, it's just bullying the Jewish people because they know they outnumber them.
+[01:47:33.680 --> 01:47:35.920]  But something happened with Netanyahu.
+[01:47:36.239 --> 01:47:38.159]  I've never seen a president.
+[01:47:38.239 --> 01:47:38.960]  And like, I don't care.
+[01:47:39.119 --> 01:47:41.279]  I never was somebody that cared about Israel.
+[01:47:41.359 --> 01:47:42.720]  I just cared about my country.
+[01:47:44.159 --> 01:47:51.520]  But something happened with Netanyahu and the way he's being treated like the last couple of weeks, where it's like, we're completely deferential to this guy.
+[01:47:52.079 --> 01:47:53.039]  I've never seen it before.
+[01:47:53.199 --> 01:47:57.439]  It's basically we're treating him the same way that Trump was being treated by NATO.
+[01:47:57.760 --> 01:48:00.159]  And there's just something not right.
+[01:48:00.239 --> 01:48:02.319]  And it seems something with that big, beautiful bill.
+[01:48:02.560 --> 01:48:04.720]  There were some deals that happened to get cubbed.
+[01:48:05.039 --> 01:48:11.039]  That's why we're back to funding Ukraine again, because this is stuff that Trump could stop on the dime.
+[01:48:11.359 --> 01:48:13.279]  And what's going on?
+[01:48:14.960 --> 01:48:17.840]  It just does not make any sense whatsoever.
+[01:48:18.159 --> 01:48:18.960]  I'm with you, man.
+[01:48:19.359 --> 01:48:22.159]  It's a debacle, to say the least, and we have to get to the bottom of it.
+[01:48:22.239 --> 01:48:23.439]  I appreciate your call and your insights.
+[01:48:23.600 --> 01:48:24.159]  Very good call there.
+[01:48:24.239 --> 01:48:26.560]  Jason in Tennessee, we have time for about one more minute.
+[01:48:26.720 --> 01:48:28.319]  Jason, what's on your mind?
+[01:48:30.399 --> 01:48:31.600]  Thanks for taking my call.
+[01:48:31.680 --> 01:48:34.159]  Jason, you was talking about the view earlier.
+[01:48:34.239 --> 01:48:35.119]  A good name for it.
+[01:48:35.199 --> 01:48:36.479]  I call it the hen house.
+[01:48:36.800 --> 01:48:39.199]  Sounds like a bunch of hens capping all the time.
+[01:48:39.920 --> 01:48:44.720]  But we're talking about the upstream files.
+[01:48:47.680 --> 01:48:58.960]  I kind of put those on the bike burner because I heard Trump talking about maybe developing some of the ocean front property on the Gaza Strip and Jerry Fish.
+[01:49:00.560 --> 01:49:07.039]  And that's got me kind of worried, you know, and he took some of the money from Israel.
+[01:49:08.000 --> 01:49:11.840]  Look, the real thing that's going on with Israel is all about national security.
+[01:49:12.079 --> 01:49:15.600]  It's all about competitive trade routes and protecting the dollar as the global reserve currency.
+[01:49:15.680 --> 01:49:22.000]  And yes, there might be kickback for our politicians or our leaders or politicians and leaders in the region as well.
+[01:49:22.319 --> 01:49:25.920]  That's part of it, but really it's about major national security interests.
+[01:49:26.000 --> 01:49:28.079]  This is something the CIA has really been pushing for.
+[01:49:28.319 --> 01:49:34.960]  The NSA has really been pushing for basically since the onset of the wars beginning in 2001.
+[01:49:35.840 --> 01:49:38.239]  That's what the real incentive is and the motive is behind this.
+[01:49:38.399 --> 01:49:54.800]  And that's what the real incentive and the motive is behind these blackmail operations, these sex trafficking operations, where I believe that the operated on behalf of CIA in order to get Jeffrey Epstein to blackmail our political class so there could be an indirect line between the CIA and the politicians.
+[01:49:54.960 --> 01:49:59.760]  You could never trace the paper trail back to CIA for committing these massive crimes against humanity.
+[01:50:00.079 --> 01:50:01.680]  This is the level of the evil that we're dealing with.
+[01:50:01.760 --> 01:50:04.479]  And folks, we're coming up on a break in about one minute and 20 seconds.
+[01:50:04.800 --> 01:50:10.960]  I'm going to go back to Devin in Georgia on the other side of this break after he hears this report from Alex Jones.
+[01:50:11.039 --> 01:50:12.960]  So please, Devin, stay on hold.
+[01:50:13.119 --> 01:50:15.279]  We will go back to you and give you another chance to say what you got to say.
+[01:50:15.359 --> 01:50:22.720]  In the meantime, please go to thealexjonesstore.com and ensure that you can keep us on the air.
+[01:50:22.800 --> 01:50:24.319]  We've got these two incredible new products.
+[01:50:24.399 --> 01:50:27.119]  We've got PowerPlant and Methyl Drive combined together.
+[01:50:27.359 --> 01:50:32.159]  I call them PowerDrive because they make you feel absolutely incredible.
+[01:50:32.399 --> 01:50:35.439]  Lit up like a Christmas tree, plug directly into the nuclear reactor.
+[01:50:35.680 --> 01:50:40.159]  Not because you're getting radiated, but because you are radiating and glowing with energy.
+[01:50:40.239 --> 01:50:44.239]  It's so incredible, this plant-based energy for your body's energy, your mind.
+[01:50:44.319 --> 01:50:47.680]  They act as nootropics, but as well, they're great for your hormone balance as well.
+[01:50:47.840 --> 01:50:51.680]  And they're formulated by Rex Jones, who's like a savant when it comes to formulating these things.
+[01:50:52.319 --> 01:51:03.279]  So please go to thealixjonesstore.com right now, get methyl drive and power plant, the power drive combo that I call it, and do so while keeping Infowars on the air.
+[01:51:03.520 --> 01:51:07.039]  Keeping Alex Jones on the air, this crew operational, these other hosts operational.
+[01:51:07.359 --> 01:51:11.680]  Every dollar you spend at thealxjonestore.com is around in the heart of the New World Order Globalist Satanic Cabal.
+[01:51:11.840 --> 01:51:14.159]  So stay with us for more news on the other side.
+[01:51:14.560 --> 01:51:18.560]  When RFK Jr. mixes something into his drink, people pay attention.
+[01:51:18.960 --> 01:51:23.439]  Plenty of folks are wondering what was in that little bottle he uncorked during a flight.
+[01:51:23.760 --> 01:51:27.039]  What is Bobby Kennedy Jr. dropping into that glass of water?
+[01:51:27.279 --> 01:51:28.319]  Methylene blue.
+[01:51:28.479 --> 01:51:31.840]  Mill Gibson also praised methylene blue on Joe Rogan recently.
+[01:51:32.159 --> 01:51:33.119]  This stuff works, man.
+[01:51:33.279 --> 01:51:36.560]  A stimulant stimulates cells themselves to turn the cell up.
+[01:51:36.720 --> 01:51:37.760]  This turns the energy up.
+[01:51:37.840 --> 01:51:38.720]  That's why there's no letdown.
+[01:51:38.880 --> 01:51:40.319]  That's why you can take this and go to sleep, too.
+[01:51:40.479 --> 01:51:42.000]  But you sleep better on it, in my experience.
+[01:51:42.239 --> 01:51:43.279]  No, I really like it.
+[01:51:43.439 --> 01:51:44.640]  I'm going to have to get on this stuff.
+[01:51:44.880 --> 01:51:46.079]  Here, Shower Kennedy taking it.
+[01:51:46.239 --> 01:51:47.840]  Kennedy literally gobbles it.
+[01:51:48.159 --> 01:51:49.680]  He must be doing something right.
+[01:51:49.920 --> 01:51:52.479]  That ripped bod is 73 years old.
+[01:51:52.720 --> 01:51:56.319]  Our methylene blue, medical grade, made in Florida, is incredible.
+[01:51:56.560 --> 01:51:59.279]  Cleans out your mitochondria, clarity, focus, energy.
+[01:51:59.359 --> 01:52:01.760]  You've seen the rave reviews of every guest we've had on.
+[01:52:01.920 --> 01:52:02.720]  It's game-changing.
+[01:52:03.039 --> 01:52:07.760]  I feel like, wow, there's power in coalescing all your thoughts.
+[01:52:08.000 --> 01:52:09.920]  Did you hear our last guest what she said happened to her?
+[01:52:10.079 --> 01:52:10.319]  No.
+[01:52:10.479 --> 01:52:10.720]  What?
+[01:52:10.960 --> 01:52:12.560]  She said brain fog just lifted.
+[01:52:12.880 --> 01:52:13.920]  That's what it feels like.
+[01:52:14.239 --> 01:52:15.520]  I feel lighter.
+[01:52:16.319 --> 01:52:17.359]  It's really interesting.
+[01:52:17.840 --> 01:52:19.119]  I almost like feel smarter.
+[01:52:19.359 --> 01:52:25.760]  This stuff kicked in and it like instantly, I just felt like this weird meditative energy.
+[01:52:26.000 --> 01:52:27.119]  I don't know how to explain it.
+[01:52:27.359 --> 01:52:28.479]  I don't feel jittery.
+[01:52:28.800 --> 01:52:34.880]  I just felt like instantly like I went from five hours of sleep like I got last night to like 10 hours.
+[01:52:35.119 --> 01:52:36.399]  I don't know how to explain it.
+[01:52:36.960 --> 01:52:38.800]  The stuff's new to me, but I like it.
+[01:52:39.039 --> 01:52:41.520]  Methylene blue works for me.
+[01:52:41.840 --> 01:52:43.760]  I just kind of feel like I'm sitting up straight more.
+[01:52:43.920 --> 01:52:44.800]  I'm thinking more.
+[01:52:45.279 --> 01:52:46.560]  The thoughts are coming in easier.
+[01:52:46.640 --> 01:52:48.000]  I'm making decisions faster.
+[01:52:48.319 --> 01:52:49.119]  And it really does.
+[01:52:49.199 --> 01:52:50.399]  And it gives you clean energy.
+[01:52:50.720 --> 01:52:53.840]  When I'm talking, it seems like it's not really me talking.
+[01:52:54.079 --> 01:52:56.479]  I can hear my talking and going, wow, you.
+[01:52:56.880 --> 01:52:57.119]  I agree.
+[01:52:57.199 --> 01:52:58.880]  It's almost like an out-of-body experience.
+[01:52:59.119 --> 01:53:00.319]  It's like you're behind yourself.
+[01:53:00.640 --> 01:53:01.760]  That is what it feels like.
+[01:53:02.079 --> 01:53:04.000]  But my brain's going really fast.
+[01:53:04.319 --> 01:53:09.039]  It clears the brain fog where you're actually able to focus more clearly.
+[01:53:09.279 --> 01:53:13.359]  For me, it's like a fog lifted, but it was like a veil lifted off, you know?
+[01:53:13.600 --> 01:53:14.079]  Incredible.
+[01:53:14.399 --> 01:53:16.239]  Best product that I've purchased so far.
+[01:53:16.560 --> 01:53:16.880]  Yeah!
+[01:53:19.840 --> 01:53:21.119]  I feel more energetic.
+[01:53:21.279 --> 01:53:22.560]  I feel more alive.
+[01:53:22.880 --> 01:53:28.880]  I found that within 30 minutes of taking it, I have improved focus, improved short-term memory, improved energy.
+[01:53:29.039 --> 01:53:34.079]  But if I take it late in the day, it doesn't interfere with my ability to sleep, which is very rare for something like this.
+[01:53:34.319 --> 01:53:36.560]  I get a tingly feeling in my fingertips.
+[01:53:36.640 --> 01:53:38.479]  It's almost like it's improving my circulation.
+[01:53:38.800 --> 01:53:40.159]  I feel tingling fingers.
+[01:53:40.319 --> 01:53:43.600]  Methylene blue radically increases glucose uptake in the brain.
+[01:53:44.000 --> 01:53:46.479]  So it makes you better and more efficient at using your sugar.
+[01:53:46.720 --> 01:53:50.720]  We all know the brain uses like 25% of the calories in the body or something crazy.
+[01:53:50.960 --> 01:54:00.560]  They've done studies that chess masters burn like 5,000 calories in the day in a tournament because they're so focused on directing energy to their mind as they're thinking so critically that it's like almost like an Olympic athlete.
+[01:54:00.800 --> 01:54:01.600]  Well, think about this stuff.
+[01:54:01.920 --> 01:54:03.520]  It operates in a very similar way.
+[01:54:03.760 --> 01:54:05.520]  That's the real thing methylene blue does.
+[01:54:05.760 --> 01:54:07.039]  I really believe in this product.
+[01:54:07.199 --> 01:54:08.960]  A lot of people have bought our methylene blue.
+[01:54:09.039 --> 01:54:10.239]  Our methylene blue is incredible.
+[01:54:10.479 --> 01:54:11.359]  I take it personally.
+[01:54:11.600 --> 01:54:13.119]  But yeah, I mean, like this is a solid product.
+[01:54:13.279 --> 01:54:17.359]  Take this in the morning, a couple hours later, you'll experience the cognitive benefits of it.
+[01:54:17.600 --> 01:54:18.319]  I mean, it's so good.
+[01:54:18.399 --> 01:54:19.039]  It's scary.
+[01:54:19.279 --> 01:54:20.000]  It's just amazing.
+[01:54:20.479 --> 01:54:22.079]  So yes, it really does work.
+[01:54:22.159 --> 01:54:24.960]  It varies person to person, but it's amazing.
+[01:54:25.279 --> 01:54:30.159]  About 15 minutes ago, I took 10 drops of the ultimate methylene glue.
+[01:54:30.399 --> 01:54:34.000]  I must say that it does a damn good job.
+[01:54:34.319 --> 01:54:39.359]  99% of people that take it have between moderate to just insanely good effects.
+[01:54:39.680 --> 01:54:41.199]  So good for your whole body.
+[01:54:41.439 --> 01:54:44.239]  Definitely noticed my focus, cognition increased.
+[01:54:44.479 --> 01:54:45.680]  Good energy right now.
+[01:54:45.920 --> 01:54:49.279]  I'm a practicing dentist, so I have more patience to treat coming up.
+[01:54:49.439 --> 01:54:53.520]  So I'm always looking for that afternoon boost without the slump.
+[01:54:53.760 --> 01:54:56.399]  With this, it's like in your head where you're like, you can feel it.
+[01:54:56.640 --> 01:55:00.319]  Your body's a little tingly, but you're just more aware of what's going on.
+[01:55:00.560 --> 01:55:04.800]  I would definitely recommend the Alex Jones methylene blue here.
+[01:55:05.119 --> 01:55:05.840]  It's great stuff.
+[01:55:06.079 --> 01:55:07.119]  So thank you, Alex.
+[01:55:07.279 --> 01:55:07.840]  Keep it coming.

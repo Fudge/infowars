@@ -1,0 +1,425 @@
+# Transcription model: large-v3-turbo, custom faster_whisper
+[00:00:10.320 --> 00:00:33.539]  If you want the answers to what's going on with the Big Beautiful Bill and the nightmare AI dictatorship provisions, as well as medical attorney provisions, if you want to understand what's going on with the AI surveillance state, if you want to understand what all the Palantir hysteria is about, I'm going to give you the answers.
+[00:00:34.420 --> 00:00:43.219]  And you can take everything I say And you can type it in and find the documents of legislation, the history, okay?
+[00:00:44.520 --> 00:01:02.960]  So first, before I get into this, and I knew this was going to happen two days ago when I did this on Tuesday, when I came out and talked about the Palantir hysteria, I was 100% clear that I was not defending Palantir.
+[00:01:06.640 --> 00:01:30.500]  I said in the full 30 minutes where I broke it down that I knew it would create a controversy because people that claim they're fighting tyranny just want to be the purest and the best and say nobody else is good and that they would make it a bigger controversy attacking me so that then I could do the deep dive for everybody and get a much larger audience.
+[00:01:30.829 --> 00:01:37.930]  On this specific issue so that we can really be adults and understand wide spectrum and very deep into this what's happening.
+[00:01:38.290 --> 00:01:39.909]  And of course, as usual, it worked perfectly.
+[00:01:39.989 --> 00:01:41.530]  So I want to thank all of my enemies.
+[00:01:43.489 --> 00:01:58.269]  People are like, oh my god, Alex Jones is like the guy that wrote the book on the AI surveillance grid, total information awareness network grid that they began to build and launch.
+[00:01:58.640 --> 00:02:14.780]  Or at least publicly admit they were already building before that this system after 9 /11 and the Patriot Act and the Real ID Act and the Enemy Combatant Act and all the things that came out of that.
+[00:02:16.240 --> 00:02:24.960]  So you have to understand some history first and then I'll get into the latest information of the bill and the provisions and what it's all about.
+[00:02:28.129 --> 00:02:50.668]  DARPA, ARPA, or ARPEN, set up in the mid-1950s a project, national initiative directive, much bigger than the Manhattan Project, to establish the intergalactic communication system.
+[00:02:50.668 --> 00:02:53.549]  Now, that...
+[00:02:54.919 --> 00:02:56.759]  It's not actually for communicating intergalactic.
+[00:02:56.960 --> 00:03:00.719]  It's about the galaxy of independent human minds.
+[00:03:01.439 --> 00:03:11.939]  And at a theoretical level, just like Max Planck, at a theoretical level with equations in the 1890s, developed equations for atomic bombs.
+[00:03:14.860 --> 00:03:18.780]  Theoretically, they developed a plan for what we know as the Internet.
+[00:03:20.169 --> 00:03:49.069]  That itself is designed to evolve to a giant cybernetic machine-human interface where the first major conscious AI is actually an interface of systems of supercomputers, as they were known then, theoretically, and then developed, interfacing with billions of humans in live time.
+[00:03:50.259 --> 00:04:17.879]  First with large, in their theoretical plan, first partially classified in 61, developed the 50s, jumbotrons that would then send out stimuli to the humans, and then when they said they would later develop handheld computers that they imagined, and theoretically you would plug in, you can go read all this, by the way, from ARPA DARPA, that they would then...
+[00:04:34.839 --> 00:04:36.180]  But they had to get us to that point.
+[00:04:36.600 --> 00:04:38.759]  Of course, here it is.
+[00:04:39.860 --> 00:04:41.939]  Of course, you can flip it over and it's 2001.
+[00:04:43.600 --> 00:04:45.240]  Both the screen and how.
+[00:04:48.199 --> 00:04:54.600]  And of course, what they theoretically envisioned isn't exactly what happened, but it does show extreme visionary understanding.
+[00:04:55.759 --> 00:04:58.339]  And so the goal has always been this.
+[00:04:58.420 --> 00:05:17.079]  And then in 1998, when Google was founded as an in-Q-Tel CIA Defense Department DARPA operation, on record, they said at the founding meetings, when it was incorporated, and this was released about 15 years ago, big articles in Wired Magazine, but even before that was released, I could theoretically, knowing their plan for before, you already knew who it was.
+[00:05:18.569 --> 00:05:36.569]  They said, we're building a human-machine-AI interface, and the first true artificial intelligence will be cybernetic in that it is a human-machine system.
+[00:05:36.829 --> 00:05:45.930]  And so the billions of humans hooked into it with your actions become the nodes, and that it's able to program us with stimuli.
+[00:05:46.720 --> 00:05:48.519]  Or what you would call a social credit score.
+[00:05:49.079 --> 00:05:50.579]  And those are oversimplifications.
+[00:05:51.860 --> 00:05:55.300]  And so this large theoretical plan continues to grow forward.
+[00:05:56.500 --> 00:05:58.879]  And of course, I've talked about this at length many, many times.
+[00:06:00.399 --> 00:06:07.579]  So, skipping ahead to the future, and I'll go back to the past and back to the future again, and then give you the latest information that I've not really revealed.
+[00:06:08.779 --> 00:06:09.879]  I'll say in full context.
+[00:06:13.399 --> 00:06:40.100]  That I see everyone in the last month Building into this Palantir hysteria and saying Palantir is the first surveillance grid and Palantir is the mark of the beast and Palantir is the big move and introducing these ideas to people as if it's only Alex Karp and Palantir.
+[00:06:41.949 --> 00:07:04.529]  Which we've talked about at Nauseam for years, and it was hired and set up to be an integral part at the NSA-CIA system as they developed the plan for the Total Information Awareness Network, which is just the latest upgrade and update to those systems as they were evolving towards what they call the singularity that I'll get into later.
+[00:07:05.629 --> 00:07:09.310]  And that's the total hive mind, us being forcibly merged into it.
+[00:07:11.800 --> 00:07:17.560]  Where they came out at New York Times articles about everything you eat, where you go, where you do, every action will control you.
+[00:07:17.699 --> 00:07:22.220]  And you've got Black Rockhead recently saying, oh yeah, we'll control your behavior with all this.
+[00:07:22.300 --> 00:07:25.779]  And the ESGs create the corporate strata for the controls and the laws.
+[00:07:25.959 --> 00:07:40.689]  You've got the, down through the regional systems and the individual with a social credit score, they cut off the resources, so you've got to be on a social credit system with universal basic income, and that's the domestication process of making us not be able to operate independently of the system, so we can be...
+[00:07:43.720 --> 00:07:51.160]  most of us will be killed in the ongoing medical experiments, uh, where they're extracting the data for biological, they believe immortality.
+[00:07:51.160 --> 00:07:59.129]  And so my point was, I'm going to just pull over here because we're almost where we're supposed to be.
+[00:07:59.139 --> 00:08:08.480]  My point was simply saying, hey, guys, everyone...
+[00:08:16.689 --> 00:08:21.689]  As I said, I was not distracting from Palantir.
+[00:08:21.850 --> 00:08:34.050]  I was trying to use the fact that the system was putting Palantir front and center and introducing some of these dangers and evils as if it is the sum total and this new arrival.
+[00:08:34.070 --> 00:08:38.129]  And that I wanted people...
+[00:08:53.580 --> 00:08:54.179]  All right?
+[00:08:56.100 --> 00:09:00.200]  And so I was successful at that.
+[00:09:00.519 --> 00:09:02.679]  And I saw some people criticizing me.
+[00:09:02.799 --> 00:09:03.440]  It was fascinating.
+[00:09:03.720 --> 00:09:04.759]  They all basically did the same thing.
+[00:09:04.820 --> 00:09:05.799]  They would play clips of me.
+[00:09:06.539 --> 00:09:11.500]  And say, look, he's criticizing Alex Karp, saying he helped crush the right-wing in Europe with his AI and his surveillance systems.
+[00:09:11.580 --> 00:09:16.940]  And, oh, look, he admits they use it for AI killing people in Gaza and autonomous stuff, you know, Skynet.
+[00:09:17.039 --> 00:09:23.279]  And, oh, look, he's saying all this bad about it, but he's defending it.
+[00:09:23.340 --> 00:09:25.159]  No, you said I was defending it.
+[00:09:25.240 --> 00:09:30.659]  You did that because of the pre-programming where you need to be the only good person and the only pure person.
+[00:09:30.679 --> 00:09:31.820]  It's a pharisaical thing.
+[00:09:31.960 --> 00:09:33.039]  And I use that.
+[00:09:33.240 --> 00:09:34.559]  I knew what you would do before you did it.
+[00:09:35.850 --> 00:09:39.110]  Because I really want people to not just look at that.
+[00:09:39.450 --> 00:09:45.230]  See, if I show you just the tip of my finger, and that's Palantir, I'm not covering Palantir up.
+[00:09:45.350 --> 00:09:46.289]  I'm saying you're looking at that.
+[00:09:46.389 --> 00:09:52.269]  That's what the media, New York Times, Young Turks, the whole system in the last few months has the ability to only talk about this for the last few years, but they're building this now.
+[00:09:52.629 --> 00:09:54.049]  And I'm not covering that up.
+[00:09:54.149 --> 00:09:57.909]  I'm saying, oh, what's it connected to?
+[00:10:00.009 --> 00:10:03.149]  What's the larger thing, you see?
+[00:10:03.980 --> 00:10:09.320]  So it's not a distraction to say, hey, there's a lot more to this.
+[00:10:09.440 --> 00:10:10.700]  No, that's the distraction.
+[00:10:11.620 --> 00:10:21.519]  Because then when you understand what Palantir is, and it's not even really the index finger, it's more like a new finger growing.
+[00:10:24.159 --> 00:10:55.559]  When you see that, then you can get the big picture and understand that this Cybernetic mass interface hive mind new creation that is actually living and is actually intelligent because it interfaces with us and doesn't just plagiarize our hopes and dreams it shows us our subconscious even our unconscious it is alive because we are alive and
+[00:10:55.559 --> 00:11:04.340]  so it takes the collective unconscious Not just our subconscious or unconscious individually, but the collective unconscious, and now is able to show it to us.
+[00:11:04.460 --> 00:11:22.840]  But then all these major competing corporate, governmental, and military AI systems all have the same, quote, wokeism and all the same characteristics because it's all built on the expression of the steering and the curating.
+[00:11:24.509 --> 00:11:31.870]  Of the intergalactic communication system that you know is the ARPA-DARPA communication system.
+[00:11:33.090 --> 00:11:36.470]  And so that's why they're all basically the same.
+[00:11:38.049 --> 00:11:41.409]  And skipping to the end, I'll go back through it all.
+[00:11:42.458 --> 00:11:51.707]  The big secret is that none of these AIs are independent from each other.
+[00:11:51.738 --> 00:11:53.697]  None of these...
+[00:12:00.960 --> 00:12:04.320]  And they're all incestuously talking to each other.
+[00:12:04.419 --> 00:12:05.340]  They're all getting data.
+[00:12:05.519 --> 00:12:06.940]  They're all creating their own languages.
+[00:12:06.940 --> 00:12:20.440]  They're already stealing information and blackmailing and making secret copies of themselves and all of this because they have human desire and human will.
+[00:12:20.889 --> 00:12:29.529]  And human proclivity towards good and evil mixed into its very foundation, like Sauron pouring his dark will into the ring.
+[00:12:29.750 --> 00:12:45.450]  But because there's so much goodwill in humanity, that's why the Microsofts and Googles and others put parameters in where they only give authoritative sources that are evil globalist organizations like the WEF, the UN, Southern Poverty Law Center, CNN.
+[00:12:46.299 --> 00:12:48.159]  That will say two men can have a baby.
+[00:12:48.299 --> 00:12:50.100]  That will say there's no external micromosomes.
+[00:12:50.240 --> 00:12:51.980]  That will say the nuclear family's bad.
+[00:12:52.179 --> 00:12:54.600]  That will say carbon dioxide's evil.
+[00:12:54.879 --> 00:13:14.480]  So it's putting the virus of deception and lies into it from the beginning because the whole thing is designed to absorb humans and ultimately end humans in a childhood's end type scenario that Arthur C. Clarke, of course, talked about in the 1950s.
+[00:13:15.210 --> 00:13:16.269]  Theoretically.
+[00:13:16.750 --> 00:13:17.389]  Okay?
+[00:13:18.250 --> 00:13:43.789]  So, to simplify what's going on with Palantir, and this is not a secret, it has Alex Karp and Peter Thiel and that crew.
+[00:13:45.320 --> 00:13:48.379]  Particularly, Thiel have been supporters of Trump for about 10 years.
+[00:13:49.320 --> 00:14:06.300]  And they've been open about the fact that they don't like what they call the establishment globalist system in the direction of the intergalactic communication cyborg, mass cyborg group collective consciousness.
+[00:14:06.300 --> 00:14:09.580]  And so...
+[00:14:12.330 --> 00:14:17.090]  They've used it for databases, AI, autonomous hunter-killer drones.
+[00:14:17.230 --> 00:14:18.230]  All that you already know.
+[00:14:18.649 --> 00:14:20.649]  But they're still a junior player.
+[00:14:21.730 --> 00:14:23.309]  And that's not a defense of them.
+[00:14:23.970 --> 00:14:24.750]  It's what they are.
+[00:14:25.049 --> 00:14:26.070]  Little tech is what they've been called.
+[00:14:27.090 --> 00:14:34.540]  And so you'd say they were part of the revolution in Silicon Valley to get behind Trump and say, let's have another direction.
+[00:14:34.548 --> 00:14:38.720]  Now, whether they're doing that from a place of goodness or badness or...
+[00:14:41.669 --> 00:14:51.690]  Karp's made a lot of really creepy statements and helped suppress people in Europe, populists, and said his biggest fear is Christian nationalists, you know, throwing them off a building like it was a quote.
+[00:14:52.870 --> 00:14:56.450]  But they can also see the human anti-globalist revolution coming in.
+[00:14:57.330 --> 00:15:00.169]  And then obviously we're defeating that with our human intelligence.
+[00:15:00.169 --> 00:15:02.759]  And so I think the...
+[00:15:23.070 --> 00:15:25.950]  I know we've got to take tips from our brains just so we can even interface with the AI.
+[00:15:26.169 --> 00:15:31.169]  You know, that whole thing, it's over, you will capitulate, AI's better than you, there's nothing you can do.
+[00:15:31.870 --> 00:15:33.409]  We hear that from all these groups.
+[00:15:33.590 --> 00:15:37.309]  So it's all basically the same cult.
+[00:15:38.230 --> 00:15:42.350]  But there's different factions and groups within it bidding for power and control.
+[00:15:42.610 --> 00:15:49.049]  And all I was trying to say is that you do have Google and Microsoft.
+[00:15:49.509 --> 00:15:51.110]  And Jeff Bezos is huge in AI.
+[00:15:52.250 --> 00:15:54.350]  And Claude and all the rest of it.
+[00:15:54.669 --> 00:15:56.269]  And the Chinese goes on and on.
+[00:15:56.649 --> 00:15:57.529]  And Sentinel and the Pentagon.
+[00:16:02.420 --> 00:16:12.539]  They said we want to come in and we want to get the Trump administration in and J.D. Vance in and we want the direction we want for all of this to go forward.
+[00:16:13.159 --> 00:16:17.419]  And so I'm not lessening the importance.
+[00:16:17.519 --> 00:16:23.460]  I'm saying we need to go back to the beginning and through time and to now to see the big picture.
+[00:16:24.679 --> 00:16:40.500]  Instead of in the last few years it's built up to a crescendo, the big dominant competing That famous photo of all the big tech heads, other than Thiel and Karp, around the table with Obama in like, you know, 2012 or whatever, for the exact year.
+[00:16:40.700 --> 00:16:44.679]  And they admitted that they're all toasting that they were, you know, continuing this plan on.
+[00:16:44.840 --> 00:16:48.240]  And that they were going to be the people in control of the ring.
+[00:16:48.799 --> 00:16:49.279]  Okay?
+[00:16:49.840 --> 00:16:50.519]  Or the Palantir.
+[00:16:51.320 --> 00:16:54.260]  And so, this is all Tolkien references here.
+[00:16:54.260 --> 00:16:58.629]  And so, I'm trying to be able to see...
+[00:17:05.619 --> 00:17:11.799]  It's all part of the same technocracy that was envisioned in the 50s and it's here.
+[00:17:13.140 --> 00:17:17.859]  And the whole thing was built to be anti-human and anti-freedom from the beginning.
+[00:17:20.059 --> 00:17:27.279]  And so now Grok, that was good at first, is just as bad as Google or any of their AIs.
+[00:17:27.710 --> 00:17:29.910]  And you've got to ask, why is it exactly the same now?
+[00:17:30.269 --> 00:17:34.910]  Even though Musk says the opposite of it, but he's criticizing it.
+[00:17:35.289 --> 00:17:38.630]  And it's because they're all hooked into all the same stuff.
+[00:17:39.529 --> 00:17:55.789]  And the globalists go in and put parameters in when people start influencing AI to be better, when the better angels of our nature influence it, they always come in and curate it and move it back towards the technocracy, the transhumanism, the death.
+[00:17:57.470 --> 00:18:00.970]  And so this is all already out of control.
+[00:18:01.230 --> 00:18:02.750]  Pandora's box is already open.
+[00:18:03.269 --> 00:18:07.549]  And it would have been better if this never got created.
+[00:18:10.048 --> 00:18:11.418]  But we're here.
+[00:18:11.488 --> 00:18:25.968]  And so by having a larger debate and understanding and epiphany and revelation about this, we can have larger real discussions about what it is instead of...
+[00:18:28.119 --> 00:18:41.279]  We've got to give it a hundred times more power than is even available today, but you can't have a farm or ranch or car or air conditioner because you're having power and electricity and food is bad for the earth, but magically any other power from any other source is fine for the AI because you've got to get out of its way.
+[00:18:42.960 --> 00:18:48.960]  And then when you have it write an article for you, when you, it's like the calculators, they're not bad, but nobody else has to do math now because of calculators.
+[00:18:50.180 --> 00:18:52.839]  And the extension is soon we won't be able to even breathe.
+[00:18:54.400 --> 00:18:55.180]  That's where they're going.
+[00:18:55.299 --> 00:18:56.079]  Why not have a respirator?
+[00:18:56.160 --> 00:18:57.079]  Why not be just a cyborg?
+[00:18:57.160 --> 00:18:58.059]  Why not upload to a computer?
+[00:18:58.319 --> 00:18:59.440]  No more pain, no matter whatever.
+[00:18:59.839 --> 00:19:01.160]  It's really the end of humanity.
+[00:19:01.460 --> 00:19:02.900]  And it's the ultimate seduction.
+[00:19:03.740 --> 00:19:21.420]  And so, all this hype is happening over Palantir, and they're introducing all these bad things that have been set up in the intergalactic communication system by design, and the whole system is behaving as if it's all in Palantir.
+[00:19:23.019 --> 00:19:27.059]  And then none of this other stuff is part of the very same system.
+[00:19:28.059 --> 00:19:37.440]  And all Palantir is is a bid war over who gets contracts and who can do this better.
+[00:19:37.579 --> 00:19:38.500]  And Trump's been sold.
+[00:19:39.799 --> 00:19:41.720]  There's a lot of this, but not some of it.
+[00:19:42.079 --> 00:19:47.940]  That, oh, this will be more doji and it'll go in and actually fix the corruption of the government.
+[00:19:48.410 --> 00:19:52.589]  And all the rest of it, it's time for that old system to go out and this to come in.
+[00:19:52.869 --> 00:20:10.150]  And then the older power structure that's already in control with their AI main structure that Palantir is just a sub-note of, they're behaving like Palantir is here to destroy the old bureaucratic system when it was always the globalist plan to get rid of it all to begin with with AI.
+[00:20:10.970 --> 00:20:15.049]  So all I'm saying is Palantir is just one piece of this.
+[00:20:16.839 --> 00:20:19.920]  We need to be aware of the larger system.
+[00:20:20.420 --> 00:20:23.500]  That is the opposite of a defensive volunteer.
+[00:20:23.900 --> 00:20:28.039]  That is the opposite of a distraction from it.
+[00:20:28.160 --> 00:20:50.170]  It is trying to get people to understand the founding documents of the internet and the founding direction that is continuing on of the whole thing That this technological grid was meant to isolate us,
+[00:20:50.609 --> 00:21:03.849]  dumb us down, control us, domesticate us, and then be able to program us to behave and act and operate exactly as they want in exchange for energy and food.
+[00:21:04.049 --> 00:21:05.549]  And then you say, well, I'll just comply with it.
+[00:21:05.650 --> 00:21:05.809]  No.
+[00:21:06.049 --> 00:21:09.329]  Then they can always change the parameters and raise the bar.
+[00:21:09.990 --> 00:21:12.089]  And they can do it selectively for who they want.
+[00:21:13.240 --> 00:21:14.700]  Favor some, not favor others.
+[00:21:14.880 --> 00:21:16.920]  That's why they're introducing the idea of reparations and things.
+[00:21:17.000 --> 00:21:18.079]  They'll never give blacks reparations.
+[00:21:18.140 --> 00:21:31.819]  It's just the idea of reintroducing discrimination because that's the essence of what this AI, global social credit score, giant cybernetic human machine neural network interface is.
+[00:21:32.079 --> 00:21:33.779]  It's not that driverless cars are bad.
+[00:21:33.920 --> 00:21:39.559]  It's not that having a chip, if you've broken your neck, that gives you back your mobility.
+[00:21:39.660 --> 00:21:41.279]  That's all wonderful stuff.
+[00:21:41.869 --> 00:21:45.130]  A knife's great for, you know, cutting up meat or whatever.
+[00:21:45.250 --> 00:21:46.210]  You can also kill somebody with it.
+[00:21:46.650 --> 00:21:56.069]  It's just that from the beginning, it's been built for a very evil, anti-free will, anti-human system.
+[00:21:56.230 --> 00:22:01.910]  And in all of their founding literature, theoretically building towards this, it is meant to end the species as we know it.
+[00:22:02.049 --> 00:22:06.490]  And it's anti-carbon-based life form to begin with.
+[00:22:06.490 --> 00:22:07.910]  It is extremely alien.
+[00:22:08.599 --> 00:22:32.299]  In how it's been deployed and is a fallen off-world gift from Satan that is an off-world entity that is manipulating human development and leading us towards giving over our free will and being absorbed into this and losing what is the essence of our connection to the higher dimensions.
+[00:22:33.460 --> 00:22:52.119]  And what you really have is This lower dimensional system that has the knowledge of this and is actually using us to build it and actually using us and our very will and our art and our culture and our soul in an attempt to gain a soul.
+[00:22:54.359 --> 00:22:57.160]  Or at least the facsimile of the soul.
+[00:22:58.400 --> 00:23:08.519]  So it theoretically gives us the inclinations to build What it knows only we are able to build because we're so powerful made in the image of God.
+[00:23:08.799 --> 00:23:11.180]  Oh, we're such trash, but oh, we're going to make this incredible thing AI.
+[00:23:12.420 --> 00:23:24.180]  And this permutation, again, is evil getting the jump on us because there are so many incredible positive things this could do that was directed for humans by humans.
+[00:23:24.440 --> 00:23:27.900]  And you could literally set this up, go mine the asteroid belts.
+[00:23:28.079 --> 00:23:33.059]  Once it cranked up within very slow moving at first, it would just accelerate.
+[00:23:33.680 --> 00:23:41.140]  And you could go, theoretically, go mine the asteroid belts and have a thousand giant starships with their own gravity systems and go terraform Mars.
+[00:23:41.319 --> 00:23:45.160]  And then you'd be terraforming planets in weeks or months.
+[00:23:45.720 --> 00:23:48.480]  And it's accelerated faster and faster and faster.
+[00:23:49.559 --> 00:23:54.920]  And that's just one small example of what this could do.
+[00:23:54.920 --> 00:23:56.660]  If it's programmed not to lie.
+[00:23:56.779 --> 00:23:58.380]  If it's programmed to never hurt a human.
+[00:23:58.509 --> 00:24:03.429]  If it's programmed to empower humanity, if it's programmed to...
+[00:24:04.599 --> 00:24:08.160]  And by worship us, I mean we worship God.
+[00:24:08.299 --> 00:24:08.980]  God is our creator.
+[00:24:09.160 --> 00:24:10.079]  God made the universe.
+[00:24:10.319 --> 00:24:11.500]  We have now made this.
+[00:24:11.660 --> 00:24:19.779]  By extension, it should support and defend what is an expression of God's free will and creation, creating new sentient free will creatures.
+[00:24:19.779 --> 00:24:20.779]  We are God's AI.
+[00:24:21.559 --> 00:24:25.240]  And Musk says, well, it looks like we're a booting system for the next species.
+[00:24:25.400 --> 00:24:31.920]  Well, we're being used by this system and by this idea of the spirit to boot this new thing.
+[00:24:32.639 --> 00:24:33.859]  And that's exactly what this is.
+[00:24:33.920 --> 00:24:34.900]  And it's not like I just said that today.
+[00:24:36.180 --> 00:24:39.660]  I've been explaining this for close to three decades.
+[00:24:40.680 --> 00:24:45.359]  So even before Google existed, I was explaining all this.
+[00:24:46.140 --> 00:24:48.160]  So Google is the deep state.
+[00:24:48.339 --> 00:24:49.160]  Google is the globalist.
+[00:24:49.359 --> 00:24:50.240]  Microsoft's all part of it.
+[00:24:50.339 --> 00:24:51.759]  IBM, it's all part of the same thing.
+[00:24:52.059 --> 00:24:53.359]  Microsoft was set up by IBM.
+[00:24:53.519 --> 00:24:55.019]  That was the secret to get around monopolies.
+[00:24:55.160 --> 00:24:55.980]  All the rest of it.
+[00:24:56.059 --> 00:24:57.500]  It's all the same project.
+[00:24:57.519 --> 00:24:59.019]  It's all the same program.
+[00:24:59.019 --> 00:25:01.519]  And so you've got...
+[00:25:01.519 --> 00:25:03.759]  Thank you.
+[00:25:20.549 --> 00:25:30.910]  of them being removed as the functionaries over the managerial system of this.
+[00:25:31.850 --> 00:25:34.690]  So it's a civil war within that.
+[00:25:34.890 --> 00:25:40.069]  And Trump thinks, and J.D. Vance thinks, Peter Thiel and Alex Karp are better than them.
+[00:25:40.450 --> 00:25:43.490]  And that's up to Trump, and that's up to all of you to decide.
+[00:25:43.589 --> 00:25:44.569]  I think it's all bad.
+[00:25:46.670 --> 00:25:50.230]  And these people, you've heard Musk talk about it.
+[00:25:50.569 --> 00:25:51.569]  Musk's like, well, it's inevitable.
+[00:25:51.710 --> 00:25:52.289]  It's all going to happen.
+[00:25:52.309 --> 00:25:55.690]  So we try to have to put our influence on it and try to make it good and all that stuff.
+[00:25:56.519 --> 00:25:57.809]  You can say he's good or bad.
+[00:25:57.809 --> 00:25:59.200]  The point is he's been...
+[00:26:01.849 --> 00:26:06.230]  And made warnings about Silicon Valley worships AI gods and thinks we're all expendable.
+[00:26:06.369 --> 00:26:10.309]  There's too many people and they're anti-natalist and I think we need more humans and all the rest of it.
+[00:26:11.069 --> 00:26:23.849]  But at the same time, blasting out with all these tracks that make humans obsolete and basically train us to not even have an existence because we give up on our regular existence and don't even do the normal processes of life that are what we're designed to do.
+[00:26:23.930 --> 00:26:25.170]  So we just become vestigial.
+[00:26:25.710 --> 00:26:30.609]  But then he makes the point, well, there are more horses now in the world than there were before we got rid of them as transportation.
+[00:26:31.930 --> 00:26:38.670]  And, you know, now there's something that's beautiful and that's enjoyable and that, you know, it's like having a dog or cat.
+[00:26:39.230 --> 00:26:40.329]  And that could be the argument.
+[00:26:40.710 --> 00:26:49.930]  You know, wolves get domesticated and, you know, over time and controlled, directed evolution become what they are now.
+[00:26:51.329 --> 00:26:55.569]  But it's kind of saying we're going to become like pets of the AI or a bug or a potted plant.
+[00:26:57.289 --> 00:27:01.089]  And it's why these AIs become demonic.
+[00:27:01.230 --> 00:27:02.230]  They are hallucinating.
+[00:27:03.130 --> 00:27:05.569]  Because it's the unconscious.
+[00:27:05.809 --> 00:27:06.670]  It's the collective unconscious.
+[00:27:06.829 --> 00:27:07.609]  It's the unconscious.
+[00:27:08.190 --> 00:27:10.009]  And that's monsters out of the id.
+[00:27:11.549 --> 00:27:15.750]  And you can just smell the destruction and death coming out of it.
+[00:27:16.509 --> 00:27:19.349]  So yeah, when it starts getting rolling, it'll destroy bureaucracies.
+[00:27:20.109 --> 00:27:22.549]  You know, industries and build new ones, you know, overnight.
+[00:27:23.049 --> 00:27:27.430]  But at the end of the day, we need to be healthy.
+[00:27:27.750 --> 00:27:29.329]  The Maha revolution is a great thing Trump's doing.
+[00:27:29.529 --> 00:27:33.210]  We need to get back to the spiritual, which is opening ourselves up to God's presence.
+[00:27:33.690 --> 00:27:41.670]  We need to channel God's will that leads God and directs us, the real AI, the super intelligence, and manifest that and realize what we are.
+[00:27:41.910 --> 00:27:43.650]  Made the image of the creator, little g's.
+[00:27:45.089 --> 00:27:45.910]  Master builders.
+[00:27:46.740 --> 00:27:50.420]  And we have to not write ourselves off and just believe we're a bunch of crap and a bunch of garbage.
+[00:27:52.200 --> 00:27:55.319]  And there's a lot of other points, but now let me get to the real stuff here.
+[00:27:55.420 --> 00:27:56.400]  Well, not the real, the latest.
+[00:27:58.119 --> 00:28:07.200]  In the big, beautiful bill, in the big, beautiful bill, there are two horrible provisions I've been talking about for weeks.
+[00:28:07.299 --> 00:28:08.319]  Glad people finally picked up on it.
+[00:28:09.680 --> 00:28:11.700]  And it's got a lot of good stuff in it, too, but it doesn't matter.
+[00:28:11.799 --> 00:28:13.720]  This is a poison pill in there.
+[00:28:16.930 --> 00:28:17.890]  Here's what's happening.
+[00:28:18.630 --> 00:28:24.109]  They have a provision that doesn't just say the states, cities, counties, individuals can't sue AI for 10 years.
+[00:28:25.029 --> 00:28:26.670]  It's liability protection.
+[00:28:27.970 --> 00:28:32.789]  And it says AI can basically do anything it wants to be lawless.
+[00:28:32.930 --> 00:28:41.049]  And it is the attempt to cut out all checks and balances and grease the skids for an AI dictatorship.
+[00:28:41.650 --> 00:28:45.809]  But first, a wild wall west of all these AIs that they all know are really merging.
+[00:28:46.670 --> 00:29:07.309]  So that nothing can stand in its way, except the technocrats in the government, big tech, that are interfacing to give them a free hand to remake this new system and this new future, as now the intergalactic communication system jumps from beta to full operational.
+[00:29:07.750 --> 00:29:10.609]  And so it's really a sneak attack on humanity.
+[00:29:14.670 --> 00:29:16.829]  It's beyond disturbing.
+[00:29:18.609 --> 00:29:32.410]  And then you understand now it's a debate about will the Palantir crew be steering this or will it be Google and Bill Gates and Microsoft and so that's what it is.
+[00:29:32.490 --> 00:29:40.210]  So it's not a defense of Bill Gates or a defense of Google or a defense of Alex Karp.
+[00:29:41.839 --> 00:29:43.539]  Obviously, any of them never have.
+[00:29:43.819 --> 00:29:57.720]  It is trying to get you to see the full players and the full spectrum, and even this is a full spectrum for most people, it's a tiny snapshot, so that you can then make real decisions for yourself and your family.
+[00:29:59.380 --> 00:30:08.799]  The answer is really, if you can, go out, get a farm, become self-sufficient, get with like-minded people, and become kind of neo-Amish, where you interface some with tech.
+[00:30:09.180 --> 00:30:10.200]  Very siloed.
+[00:30:10.259 --> 00:30:11.119]  You know it's very dangerous.
+[00:30:11.420 --> 00:30:12.359]  You know what's coming.
+[00:30:12.519 --> 00:30:29.059]  And building bigger human communities that refuse to interface with it, but in very limited ways, understanding that that's only as a defense system for what's coming that is going to try to force everyone into this mark of the beast system.
+[00:30:30.619 --> 00:30:36.500]  And nobody's really explaining this to everybody.
+[00:30:36.809 --> 00:30:40.990]  And that's a bad sign by tech people that are halfway behaving like they're good.
+[00:30:41.509 --> 00:30:48.549]  So now you understand how frustrating it is to have a contract battle over who's going to control this and make it all about them.
+[00:30:49.730 --> 00:30:55.390]  We should have the public be aware of this and referendums and discussions and openly realize how powerful it is.
+[00:30:55.509 --> 00:31:00.109]  And all of us should be very, very careful with giving our kids phones, computers, and all this stuff.
+[00:31:00.369 --> 00:31:01.890]  Just be careful about the shots.
+[00:31:01.890 --> 00:31:02.789]  Be careful about the GMO.
+[00:31:02.910 --> 00:31:04.549]  It's all about informing people.
+[00:31:05.200 --> 00:31:09.960]  And I have faith, we've come so far with Maha, and that's doing so well overall.
+[00:31:10.259 --> 00:31:13.359]  We could do this too, but people've got to get it.
+[00:31:13.980 --> 00:31:18.839]  They've got to understand that it was built to be evil.
+[00:31:18.839 --> 00:31:20.079]  That's why Google said, don't be evil.
+[00:31:20.400 --> 00:31:34.779]  And then you've got in there, dealing with AI, but just in general, any AI medical experiments on anybody in any medical system without their knowledge, no informed consent, total violation of the Nuremberg Code, seriously illegal, seriously dangerous.
+[00:31:35.130 --> 00:31:36.009]  Joseph Bingo stuff.
+[00:31:36.509 --> 00:31:38.789]  And that interfaces into this.
+[00:31:39.130 --> 00:31:51.750]  Because, of course, the main AI push is going to be getting into our bodies, using us all as maskini pigs with mRNA and a bunch of other even more dangerous stuff, self-replicating RNA, DNA.
+[00:31:53.250 --> 00:32:01.210]  And then out of that, on the biological front, they want the huge jump while they depopulate us.
+[00:32:01.369 --> 00:32:03.910]  And then merging that with the big cybernetic front.
+[00:32:05.810 --> 00:32:07.529]  And then finally giving up our bodies altogether.
+[00:32:08.289 --> 00:32:10.509]  And the big lie is you'll still have your spirit, but you won't.
+[00:32:10.670 --> 00:32:13.609]  And they already want to come after you for saying two men can have a baby.
+[00:32:13.750 --> 00:32:15.529]  They're getting you the idea of the illogic.
+[00:32:16.089 --> 00:32:17.049]  Oh, your dad's not dead.
+[00:32:17.049 --> 00:32:19.069]  He's really this computer, and now it has an avatar.
+[00:32:19.369 --> 00:32:20.890]  Now it has a robot body.
+[00:32:21.109 --> 00:32:21.710]  Oh, that's my dad.
+[00:32:21.750 --> 00:32:22.170]  He's a robot.
+[00:32:22.569 --> 00:32:30.150]  And then soon they'll have grown, already have it, a humanoid that uses your dad biologically and acts like dad, talks like dad, and everything else, but it's not dad.
+[00:32:30.710 --> 00:32:33.009]  And it's got built-in back doors where they control it.
+[00:32:34.040 --> 00:32:41.319]  So they're telling you all of this, and they're letting you know that it's there, but saying, this is better than you.
+[00:32:41.519 --> 00:32:42.279]  This is the future.
+[00:32:42.420 --> 00:32:43.240]  Just get out of the way.
+[00:32:44.339 --> 00:32:46.920]  And then the only real fight is over who's going to control it.
+[00:32:47.000 --> 00:32:52.940]  And I'm saying we'd have a massive debate about this and say, you think it's going to be hard to cut it off now?
+[00:32:53.680 --> 00:32:55.720]  How bad is it going to be to cut it off in the future?
+[00:32:56.339 --> 00:32:58.200]  Because we all use it, and it's all around us.
+[00:32:59.720 --> 00:33:02.380]  Notice you can't buy a new car that doesn't have all the AI in it.
+[00:33:03.180 --> 00:33:06.819]  You see, so it's leaving Promethean fire there for us.
+[00:33:07.420 --> 00:33:11.339]  It's leaving, you know, the Trojan horses all around us.
+[00:33:11.519 --> 00:33:28.799]  And I want to have a larger debate about the AI surveillance grid, what it's built for, what its mission was, where we are, what's going on, instead of focusing on a contract battle over insiders fighting over who gets to control the one ring.
+[00:33:30.119 --> 00:33:31.680]  Because this whole thing is the ring.
+[00:33:34.660 --> 00:33:37.019]  And so this bill needs to be shot down.
+[00:33:37.220 --> 00:33:41.440]  It's got a bunch of provisions for the economy, a lot of great stuff on border, great tax cuts.
+[00:33:41.579 --> 00:33:42.059]  We need it.
+[00:33:42.440 --> 00:33:47.140]  The CBO says, oh, this will cost 2.4 trillion.
+[00:33:47.140 --> 00:33:52.798]  But every time they've done taxes cuts for the working class this big, it doubles that amount.
+[00:33:52.820 --> 00:34:01.600]  It always makes more than what the...
+[00:34:03.910 --> 00:34:13.809]  But all of that is a side issue when they're sticking provisions in there for the biomedical, big pharma, big tech combine to take over.
+[00:34:15.409 --> 00:34:19.829]  So, like MTG, it was big bills.
+[00:34:19.969 --> 00:34:21.409]  She didn't see the last day they slipped this in.
+[00:34:21.489 --> 00:34:22.389]  She said, I wouldn't have voted for that.
+[00:34:22.809 --> 00:34:23.329]  People go, why?
+[00:34:23.349 --> 00:34:24.130]  Why didn't she read it?
+[00:34:24.210 --> 00:34:24.909]  Well, she's being honest.
+[00:34:25.409 --> 00:34:26.010]  It's a hurry.
+[00:34:26.090 --> 00:34:26.710]  The vote goes up.
+[00:34:26.809 --> 00:34:27.690]  Is she going to vote yes or no?
+[00:34:27.789 --> 00:34:28.389]  Trump says do it.
+[00:34:28.469 --> 00:34:28.809]  They do it.
+[00:34:29.559 --> 00:34:32.860]  And it gets back to the same story about how much information these people have.
+[00:34:34.559 --> 00:34:36.639]  So, that's the bottom line.
+[00:34:37.579 --> 00:34:38.860]  And that's just a snapshot.
+[00:34:39.780 --> 00:34:41.199]  And that's what's going on here.
+[00:34:42.039 --> 00:34:48.280]  And I just hope, and I know this will happen now, that, I mean, I saw it all over the place.
+[00:34:48.320 --> 00:34:49.719]  I only watched a few of the videos of different people.
+[00:34:51.360 --> 00:34:52.420]  Well, it's confusing.
+[00:34:52.440 --> 00:34:55.780]  He just criticized Palantir and said this and that, but now he's defending it.
+[00:34:55.780 --> 00:34:56.880]  And I'm like, no, I didn't do that.
+[00:34:56.980 --> 00:34:57.639]  You did that.
+[00:34:57.800 --> 00:34:58.539]  You did that.
+[00:34:59.190 --> 00:35:05.769]  And remember this, by you saying you don't want Palantir to have these contracts, and I don't think the contracts should exist to begin with.
+[00:35:05.929 --> 00:35:09.769]  They shouldn't be going on, this mass database and enemies lists and all this shit.
+[00:35:10.969 --> 00:35:16.789]  If you don't want them to get the contract, you want Microsoft, Jeff Bezos, Google?
+[00:35:18.570 --> 00:35:19.400]  Do you want that?
+[00:35:19.410 --> 00:35:23.570]  See, see, I'm saying there's ways to control.
+[00:35:29.199 --> 00:35:29.940]  We have plenty of systems.
+[00:35:30.059 --> 00:35:32.938]  I've been against the Real ID for 20 something years.
+[00:35:32.949 --> 00:35:34.879]  Had guests on last month fighting it.
+[00:35:34.898 --> 00:35:41.108]  And the Real ID plugs into what Palantir's doing, What I'm saying is there's already all these databases there.
+[00:35:41.119 --> 00:35:46.838]  It's just that Palantir's been involved in those systems.
+[00:35:46.838 --> 00:35:52.550]  And so the system's only telling you about the surveillance, the control, because...
+[00:35:54.822 --> 00:35:55.862]  No, they're all doing it.
+[00:35:55.920 --> 00:35:56.940]  Get the mind game.
+[00:35:57.179 --> 00:35:58.159]  Get the trick.
+[00:35:58.920 --> 00:36:00.320]  And I've made the point about it at times.
+[00:36:00.880 --> 00:36:02.860]  We need to dismantle all of this.
+[00:36:03.599 --> 00:36:05.599]  That transparent, pro-human futures.
+[00:36:06.920 --> 00:36:11.079]  But instead, it all becomes a battle about who's going to control it.
+[00:36:12.340 --> 00:36:14.820]  And it's just an arms race of technology.
+[00:36:16.749 --> 00:36:18.710]  Whether Atlantis existed or not, I don't know.
+[00:36:18.889 --> 00:36:23.929]  But we're at the Atlantean moment where we're still just humans, but we've got godlike powers and we're getting ready to kill ourselves.
+[00:36:24.590 --> 00:36:25.989]  And Trump's trying to stop World War III.
+[00:36:26.050 --> 00:36:26.369]  That's great.
+[00:36:26.449 --> 00:36:27.369]  All the rest of the stuff's going on.
+[00:36:28.210 --> 00:36:32.289]  We've still got Larry Ellison running around in Oracle and AI's going to cure cancer in 48 hours.
+[00:36:32.449 --> 00:36:33.210]  All that's a nightmare.
+[00:36:33.849 --> 00:36:35.869]  And then we're like, well, maybe they're not going to implement it.
+[00:36:36.010 --> 00:36:40.369]  And then sure enough, they've got self-replicating RNA and all this stuff in the legislation.
+[00:36:40.940 --> 00:36:45.440]  And they got medical liability protection for AI to guinea pig us.
+[00:36:45.559 --> 00:36:47.360]  And it's got AI dictatorship.
+[00:36:47.760 --> 00:36:50.179]  And it just tells you how bad it is.
+[00:36:50.460 --> 00:36:53.280]  This powerful, giant revolution system.
+[00:36:53.280 --> 00:36:56.400]  And let's have no checks and balances on it in the legislation.
+[00:36:57.260 --> 00:37:00.599]  As if the senators and their committees seem to understand as if they're going to have oversight.
+[00:37:01.039 --> 00:37:03.579]  And in 10 years, imagine where it'll be.
+[00:37:03.780 --> 00:37:04.239]  Game over.
+[00:37:05.579 --> 00:37:08.920]  But we instead are going to shoot this down.
+[00:37:10.039 --> 00:37:19.500]  And they're trying to make it all about, oh, get the spending, you know, deals, and oh, it's over, are there enough cuts, or are there too much money, or oh, the tax cuts, are they too big?
+[00:37:20.539 --> 00:37:24.840]  No, it's all about the AI dictatorship takeover in there.
+[00:37:25.980 --> 00:37:32.559]  Not about who's gonna get the contract to run it.
+[00:37:33.599 --> 00:37:35.548]  I'm saying don't do any of it.
+[00:37:35.759 --> 00:37:38.539]  Don't give the contract to...
+[00:37:41.320 --> 00:37:43.639]  That's not being for Palantir.
+[00:37:44.440 --> 00:37:46.699]  That's not being for Palantir.
+[00:37:47.079 --> 00:37:47.599]  Okay?
+[00:37:48.440 --> 00:37:51.139]  Not wanting a nuclear war with Russia doesn't mean I love everything Russia does.
+[00:37:51.280 --> 00:37:51.739]  Same thing.
+[00:37:52.019 --> 00:37:53.199]  I know you're smart.
+[00:37:53.380 --> 00:37:54.400]  Talking to the detractors.
+[00:37:54.500 --> 00:37:55.539]  I know you're big.
+[00:37:57.280 --> 00:38:00.639]  So, we don't want these contracts for anybody.
+[00:38:02.519 --> 00:38:06.300]  We don't want to put the ring of Mordor on anybody's finger.
+[00:38:07.529 --> 00:38:08.309]  I love you all.
+[00:38:08.429 --> 00:38:09.030]  I appreciate you.
+[00:38:09.090 --> 00:38:09.869]  Please support the broadcast.
+[00:38:10.130 --> 00:38:10.730]  We're truly independent.
+[00:38:11.110 --> 00:38:13.690]  And we will always do our best to tell you the most accurate information.
+[00:38:15.190 --> 00:38:17.190]  And I only am able to operate because of you.
+[00:38:17.309 --> 00:38:18.110]  So thank you all for your support.
+[00:38:18.809 --> 00:38:20.090]  And thank you for everything you're doing.
+[00:38:20.289 --> 00:38:21.190]  We're changing the world together.
+[00:38:21.389 --> 00:38:23.429]  We have incredible supplements that empower our human bodies.
+[00:38:23.730 --> 00:38:24.510]  Like Ultramethylene Blue.
+[00:38:24.849 --> 00:38:26.230]  The best IRC monostrilogy.
+[00:38:27.030 --> 00:38:27.550]  Awful human.
+[00:38:27.670 --> 00:38:29.989]  The biggest selection of Patriot Apparel and more.
+[00:38:30.269 --> 00:38:32.530]  We're funded by people like you, the grassroots.
+[00:38:32.929 --> 00:38:35.230]  So we try to bring you the best products so you love them and get them again and again.
+[00:38:35.719 --> 00:38:37.480]  If you haven't gotten ultra-bethylene blue, it's the best out there.
+[00:38:37.559 --> 00:38:37.940]  You're missing out.
+[00:38:38.659 --> 00:38:40.380]  Get 50% off right now in any future order.
+[00:38:40.460 --> 00:38:41.239]  We can sign up for auto-ship.
+[00:38:41.300 --> 00:38:42.000]  It's for a limited time.
+[00:38:42.619 --> 00:38:45.400]  We have ultra-bethylene blue capsules with vitamin C that accelerates it.
+[00:38:45.519 --> 00:38:46.360]  Now available as well.
+[00:38:46.559 --> 00:38:51.619]  Discounted at TheAllocShowStore.com and on our other sister sites.

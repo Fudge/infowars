@@ -1,0 +1,1046 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, custom faster_whisper
+[00:00:00.240 --> 00:00:02.560]  What is going on with Trump and now the congressional hearings?
+[00:00:02.720 --> 00:00:04.160]  Republicans are coming now.
+[00:00:05.120 --> 00:00:06.320]  What is going on?
+[00:00:07.200 --> 00:00:09.120]  It seems like they're trying to throw a wet blanket on it.
+[00:00:09.359 --> 00:00:10.880]  It seems like they said, hey, we're going to give you.
+[00:00:11.040 --> 00:00:12.320]  Look, remember the first time that they did this?
+[00:00:12.400 --> 00:00:13.919]  They came out and said, give us a couple of weeks.
+[00:00:14.000 --> 00:00:15.439]  We're going to give you this wave of transparency.
+[00:00:15.679 --> 00:00:17.839]  You know, in a couple of days, you're going to see all this stuff.
+[00:00:18.160 --> 00:00:23.280]  Now we're promising four months ago to me privately, then three months ago on air, we're not getting Epstein files.
+[00:00:23.600 --> 00:00:27.920]  It just was obvious to me because they were extending the deadline and they were trying to run out the clock.
+[00:00:28.000 --> 00:00:29.039]  I mean, they're treating this in some ways.
+[00:00:29.199 --> 00:00:35.280]  You got a lot of media people in Trump's orbit, a lot of media people in Trump's cabinet and the sub-cabinet people, you know, Bongino is a media guy.
+[00:00:35.439 --> 00:00:36.800]  Patel's a media person.
+[00:00:37.039 --> 00:00:41.039]  Even Bondi has a sense of being on Fox enough times that she understands what the media cycle is like.
+[00:00:41.200 --> 00:00:47.039]  And if you can get people to just pay attention to something else, if you can do it like a laser pointer where you just shine the dot somewhere else and people attack you.
+[00:00:47.439 --> 00:00:50.880]  So the big question is, why did Trump try to gaslight us?
+[00:00:51.439 --> 00:00:55.920]  I think that they overestimated the play that they had because you've got people that are very popular.
+[00:00:56.160 --> 00:01:01.679]  You had folks from both sides of the aisle, whether it be an RFK Jr., you had a Tulsi Gabbard, you know, convert from the Democrat side.
+[00:01:01.840 --> 00:01:04.560]  You've got guys like Dan Bongino out there messaging about Epstein.
+[00:01:04.640 --> 00:01:07.680]  When you have those people, they have a cult of following where people trust them.
+[00:01:07.840 --> 00:01:10.480]  And I think they overestimated how much trust these people had.
+[00:01:12.159 --> 00:01:20.159]  I think they just missed the boat on how much Americans are not satisfied with our institutions, that we don't give anybody a carte blanche.
+[00:01:20.239 --> 00:01:23.519]  By the way, the way that you get credibility in any space and you do it and I do it.
+[00:01:23.600 --> 00:01:24.960]  And I know Dan Boncino used to do it.
+[00:01:25.120 --> 00:01:26.400]  You tell people, don't trust me.
+[00:01:26.640 --> 00:01:27.519]  Trust the results.
+[00:01:27.760 --> 00:01:29.439]  Go look for the quote unquote receipts.
+[00:01:29.519 --> 00:01:31.840]  Go find the documents, the paperwork that backs it up.
+[00:01:32.159 --> 00:01:42.000]  So if you're out there telling people that I'm going to show you something and you don't show it to them, and then you do it again and you don't show it to them, at some point in time, we think the musician or the musician doesn't have his trick in order, right?
+[00:01:42.079 --> 00:01:43.439]  He's just not able to pull it off.
+[00:01:43.760 --> 00:01:46.640]  And so I think that's why they went for the grand jury information.
+[00:01:46.799 --> 00:01:49.920]  They floated that because they know they're not going to get that, not in New York and not in Florida.
+[00:01:50.000 --> 00:01:53.359]  It doesn't matter if it's a Trump-appointed judge or a Democrat judge.
+[00:01:53.840 --> 00:01:56.000]  And then they will say, see, we asked Florida, they didn't.
+[00:01:56.320 --> 00:02:03.920]  So what do you make of the Republicans joining Democrats in a vote yesterday to go ahead with subpoenaing the DOJ in Congress?
+[00:02:04.719 --> 00:02:11.039]  Which is also irrelevant because listen, there's a dozen ways, as you know, if you go out and FOIA the FBI, there's a law that says they got to give you stuff.
+[00:02:11.360 --> 00:02:17.360]  If you go FOIA stuff from the CIA, they're supposed to give you stuff, but there's 11 different exceptions or 14 different FOIA exceptions.
+[00:02:17.520 --> 00:02:18.319]  So they use all of them.
+[00:02:18.400 --> 00:02:20.159]  And they're going to do the same thing on the subpoenas.
+[00:02:20.240 --> 00:02:21.520]  They're going to claim national security.
+[00:02:21.680 --> 00:02:23.200]  They're going to claim ongoing investigation.
+[00:02:23.280 --> 00:02:24.479]  They're going to claim sources and methods.
+[00:02:24.719 --> 00:02:28.960]  At the end of the day, the files that exist at the FBI belong to the executive branch.
+[00:02:29.120 --> 00:02:32.400]  So Congress can say whatever the hell they want and they can't compel it.
+[00:02:32.719 --> 00:02:41.759]  The government fears Alex Jones, who has the largest audience in the country, bigger than any of the networks, the biggest megaphone in the country.
+[00:02:42.000 --> 00:02:45.280]  The deep state hates Alex Jones with a vengeance.
+[00:02:45.520 --> 00:02:48.200]  Alex Jones is the most extraordinary person I've ever met.
+[00:02:48.200 --> 00:02:54.709]  Alex Jones is the most extraordinary person.
+[00:02:54.719 --> 00:02:59.039]  I am cutting this announcement on the evening of July 21st, 2025.
+[00:02:59.360 --> 00:03:09.120]  That means you've got eight days until next Tuesday, the 29th to take advantage of one of the biggest sales yet at thealxhowstore.com with some of the most amazing supplements in the world.
+[00:03:09.360 --> 00:03:11.439]  We have the very best medical grade, methylene blue.
+[00:03:11.680 --> 00:03:14.879]  You can buy one bottle of liquid or a discount and get one absolutely free.
+[00:03:15.120 --> 00:03:22.719]  Just go research the medical effects, medical benefits, methylene blue, and understand we have the very best out there, USB grade, medical grade.
+[00:03:22.879 --> 00:03:24.159]  We've given it to all our guests.
+[00:03:24.240 --> 00:03:25.920]  They've all had amazing varying effects.
+[00:03:26.159 --> 00:03:29.360]  I've given to over 500 people personally, only three or four of them have had no effect.
+[00:03:29.599 --> 00:03:33.120]  That means your mitochondria is in great shape if you have no effect, but most of us need it.
+[00:03:33.200 --> 00:03:34.240]  It has incredible benefits.
+[00:03:34.319 --> 00:03:37.439]  The same is for the amazing on our CMOS trilogy and more.
+[00:03:37.599 --> 00:03:42.400]  The sale goes until next Tuesday, the 29th of July, 2025, and it funds our operations.
+[00:03:42.719 --> 00:03:45.599]  Get yours, and it funds the InfoWar right now discounted.
+[00:03:45.759 --> 00:03:49.520]  Buy one, get one free at thealxstore.com, and I thank you for your support.
+[00:03:52.000 --> 00:03:54.879]  All right, here's President Trump yesterday.
+[00:03:55.840 --> 00:04:00.480]  Clip 11 saying, you ain't seen nothing yet.
+[00:04:00.640 --> 00:04:01.759]  What's about to come out?
+[00:04:03.520 --> 00:04:10.480]  And I want to get Kyle Seraphin's take on, we've heard about these indictments forever for Crossfire Hurricane and Obama and the fake Russian gate.
+[00:04:11.760 --> 00:04:18.560]  Nobody that I've talked to whistleblowers, period, I've had on William Benny, who's amazing, so many NSA FPI over the years.
+[00:04:19.759 --> 00:04:25.040]  I mean, I remember having the head of the FPI crime lab on like 27, eight years ago about them setting people up.
+[00:04:25.199 --> 00:04:26.480]  I mean, I've interviewed a lot of whistleblowers.
+[00:04:26.560 --> 00:04:28.240]  He has been so accurate.
+[00:04:28.560 --> 00:04:31.840]  And four or five months ago, he said, you're not getting the Epstein files.
+[00:04:33.280 --> 00:04:38.400]  And then he went into it all and how they would set up Trump with horrible ideas.
+[00:04:38.720 --> 00:04:41.600]  And they've done it.
+[00:04:41.920 --> 00:04:46.319]  And now 18 days in, congressional hearings, Republicans vote for hearings.
+[00:04:49.680 --> 00:04:54.639]  And then the Democrats want the actual files out of the court cases and grand jury sealed.
+[00:04:55.759 --> 00:04:59.840]  And then we're going to get into this reported foiled terror plot that used AI.
+[00:05:01.120 --> 00:05:03.360]  It's all coming up with Kyle Serafin.
+[00:05:04.000 --> 00:05:05.920]  Again, he's also a popular podcaster.
+[00:05:06.000 --> 00:05:08.000]  We'll go over all that information, how you find him.
+[00:05:08.160 --> 00:05:09.360]  I'll put that on screen.
+[00:05:09.680 --> 00:05:11.040]  But Kyle, what a crazy time.
+[00:05:11.199 --> 00:05:12.720]  Things are moving so quickly.
+[00:05:12.879 --> 00:05:18.959]  I see dueling internal government, I guess call it deep state battles because Trump's trying to take over the deep state.
+[00:05:19.199 --> 00:05:23.519]  So Trump's out here with, oh, treason, Obama, Clapper, Brennan, all that.
+[00:05:23.600 --> 00:05:24.879]  And there's real evidence there, I see.
+[00:05:25.199 --> 00:05:32.400]  And then you've also got all this Epstein and his incredible Streisand effect acting guilty the last 18 days, telling his constituents, shut up, don't look at it.
+[00:05:32.560 --> 00:05:33.680]  Now backing off that.
+[00:05:34.000 --> 00:05:38.639]  Now Democrat judge pointed by Obama in Florida trying to block Epstein.
+[00:05:38.720 --> 00:05:39.920]  Information being released.
+[00:05:40.800 --> 00:05:45.360]  This is clearly going to be the new big issue here, dueling issues.
+[00:05:45.680 --> 00:05:54.240]  And the big question is, will this new strike force from the Department of Justice and the FBI actually indict Clapper, Brendan, and Comey or others?
+[00:05:54.319 --> 00:05:55.680]  Or is it all just smoke and mirrors?
+[00:05:55.759 --> 00:06:01.040]  Kyle Serafin, former counterterrorism FBI agent and famous whistleblower, thanks for joining us.
+[00:06:01.600 --> 00:06:02.879]  Thanks for having me on, Alex.
+[00:06:03.040 --> 00:06:05.040]  Yeah, you know, I'm a pessimist.
+[00:06:05.360 --> 00:06:08.639]  So this is probably not going to be what people are excited to hear.
+[00:06:08.959 --> 00:06:11.680]  But I have no belief that this is going to happen.
+[00:06:12.000 --> 00:06:16.879]  Again, if you want to go do something, you go do it, and then you tell people when you did it.
+[00:06:17.120 --> 00:06:22.240]  If you go look historically at the way that DOJ does their press releases, there's a few things they do press releases about.
+[00:06:22.560 --> 00:06:24.800]  Number one, here's an indictment or an arrest.
+[00:06:24.960 --> 00:06:26.319]  We put cuffs on this person.
+[00:06:26.560 --> 00:06:27.759]  We have a criminal complaint.
+[00:06:28.000 --> 00:06:28.560]  You can read that.
+[00:06:28.720 --> 00:06:29.840]  We have a grand jury indictment.
+[00:06:29.920 --> 00:06:30.560]  So Go read that.
+[00:06:30.639 --> 00:06:31.439]  Here's the press release.
+[00:06:31.680 --> 00:06:33.279]  This is what we allege this person did.
+[00:06:33.839 --> 00:06:34.560]  That's part one.
+[00:06:34.879 --> 00:06:42.240]  Part two is: we either got a plea deal and they pled guilty to the following, and we did a great job and we're really proud of ourselves, or we took it to court and we won.
+[00:06:42.879 --> 00:06:45.279]  And then the third press release is always the sensing.
+[00:06:45.680 --> 00:06:47.920]  We asked for the following, the judge gave us this much.
+[00:06:48.160 --> 00:06:51.279]  This person's going to do this much time behind bars, and America is safe.
+[00:06:51.360 --> 00:06:52.160]  And we did a great job.
+[00:06:52.639 --> 00:06:54.639]  That's what DOJ press releases are about.
+[00:06:54.959 --> 00:07:00.720]  They're not about we're assembling a team to investigate a thing that one day we will hopefully tell you something.
+[00:07:01.279 --> 00:07:05.439]  I thought it was telling that they had Tulsi Gabbard go out and discuss the file drop.
+[00:07:05.759 --> 00:07:07.920]  I mean, good on her for declassifying things.
+[00:07:08.079 --> 00:07:11.199]  I think Tulsi, as far as I can tell, she seems genuine about it.
+[00:07:11.360 --> 00:07:13.840]  My friend Steve Baker has been working with what's called the DIG.
+[00:07:14.000 --> 00:07:17.600]  It's the director's initiative group over at ODNI.
+[00:07:17.920 --> 00:07:23.199]  And they apparently had this result or this report ready to go something like 30 or 40 days ago.
+[00:07:23.360 --> 00:07:29.759]  So they were prepared, but it had to go through all the checks and balances and they have to go through and make sure that they've declassified and everybody gets together.
+[00:07:30.000 --> 00:07:35.279]  So Falcon said, was this released to cover up Trump's Epstein gaslighting?
+[00:07:35.360 --> 00:07:37.199]  And from what I'd heard, this was being prepared.
+[00:07:37.439 --> 00:07:38.960]  So I don't think that was overall the case.
+[00:07:39.040 --> 00:07:41.279]  Or maybe they sped up its release because of that?
+[00:07:41.600 --> 00:07:42.560]  What do you think?
+[00:07:42.879 --> 00:07:56.240]  No, from what my friend Steve says, and he's been telling me he's been meeting with folks in the dig for a while now, and they had this ready to go 30 days ago, but there are all kinds of checks that have to happen before you take something that's been declassified and you bring it public.
+[00:07:56.560 --> 00:07:58.560]  So they, again, all the equities, all the ways.
+[00:07:58.720 --> 00:08:01.439]  So not a distraction by Trump, this report came out.
+[00:08:01.759 --> 00:08:02.560]  That's the claim.
+[00:08:03.040 --> 00:08:04.800]  You know, bad timing on their end.
+[00:08:04.879 --> 00:08:07.759]  If they wanted to drop a bombshell, you don't do it usually on a Friday afternoon.
+[00:08:08.000 --> 00:08:09.680]  They were not really playing the game really well on that.
+[00:08:09.759 --> 00:08:13.439]  So, you know, maybe that's even more credibility that they weren't doing it to distract from anything.
+[00:08:13.759 --> 00:08:16.800]  But at the end of the day, is it going to result in indictments?
+[00:08:16.879 --> 00:08:18.079]  I think that's what Americans want to know.
+[00:08:18.240 --> 00:08:22.639]  I think that's what people who are on the conservative side that think that this government's been working against us for a long time.
+[00:08:22.960 --> 00:08:25.519]  The question is, is someone going to end up in handcuffs?
+[00:08:25.600 --> 00:08:31.759]  Are they going to put the bracelets on him and march him out and then, you know, go out there and put him in front of either a trial or give him a plea offer?
+[00:08:32.000 --> 00:08:32.799]  And I don't think there are.
+[00:08:32.960 --> 00:08:39.840]  And the reason why is because you got the Office of the Director of National Intelligence and Tulsi Gabbard as the DNI speaking about it.
+[00:08:40.080 --> 00:08:42.720]  What you didn't see was a joint press conference, Alex.
+[00:08:42.960 --> 00:08:44.240]  Where was Pam Bondi?
+[00:08:44.879 --> 00:08:50.960]  Because you'd think if they declassified this and they've had 30 or 40 days run up, they knew what the information was going to be.
+[00:08:51.279 --> 00:08:53.120]  They don't need to announce a strike force.
+[00:08:53.279 --> 00:09:09.519]  They should be announcing that we've been conducting an ongoing investigation in parallel to the Directorate of National Intelligence, and we are prepared to start bringing some charges forward, not lawyer-up messages from proxies and not, you haven't seen anything yet and the shady bunch and memes.
+[00:09:09.840 --> 00:09:18.799]  You'd expect that you had a joint press conference with two cabinet level officials or a cabinet and a sub-cabinet level official going out there and saying, this is declassified.
+[00:09:18.960 --> 00:09:19.840]  This is for your awareness.
+[00:09:20.080 --> 00:09:26.399]  And by the way, the indictments are pending because we've already begun this, not an announcement that we're going to start investigating it eight years after the fact.
+[00:09:26.720 --> 00:09:35.200]  And using the word treasonous, I think is actually really unfortunate too, because Tulsi Gabbard used that because she's using it in a colloquial way that a lot of people use the term treason.
+[00:09:35.519 --> 00:09:37.120]  But there's a legal definition of treason.
+[00:09:37.279 --> 00:09:41.440]  And the last time the United States ever prosecuted somebody successfully for treason was in 1952.
+[00:09:41.680 --> 00:09:42.799]  It's a wartime crime.
+[00:09:43.039 --> 00:09:47.519]  So you'd have to make the allegation that there was a war, that there was aid and comfort given to an enemy.
+[00:09:47.920 --> 00:09:48.720]  I don't think that exists.
+[00:09:48.879 --> 00:09:51.519]  Well, that might be because of China and the mail-in ballots.
+[00:09:51.759 --> 00:09:53.360]  I've heard that's coming next.
+[00:09:54.000 --> 00:09:59.920]  You'd have to make a bunch of connections, and you'd have to also argue that the United States is at war with a country that we have not declared war on.
+[00:10:00.080 --> 00:10:03.279]  Again, the last time we did it, it was a declared war in World War II.
+[00:10:03.519 --> 00:10:05.440]  And so with that, let me ask you this question.
+[00:10:05.600 --> 00:10:07.039]  Your predictions basically all come true.
+[00:10:08.159 --> 00:10:09.440]  Unfortunately, I think you're probably right.
+[00:10:09.680 --> 00:10:10.559]  It's just political.
+[00:10:10.879 --> 00:10:12.240]  Let me ask you this then.
+[00:10:12.879 --> 00:10:13.840]  Obama's coming out.
+[00:10:14.080 --> 00:10:15.519]  Clapper Brennan, they're all acting scared.
+[00:10:15.600 --> 00:10:16.480]  Why are they acting scared?
+[00:10:16.639 --> 00:10:18.799]  Was it a response to just the PR of it?
+[00:10:19.279 --> 00:10:24.639]  And then your view of Crossfire Hurricane and all these documents, because I forgot when I was filling in on myself.
+[00:10:24.879 --> 00:10:30.240]  We got from Sheriff Arpaio, 2017, NSA database front sheets where we were targeted.
+[00:10:30.319 --> 00:10:33.039]  Mongino talked about similar things last year.
+[00:10:33.200 --> 00:10:34.159]  I mean, I knew it happened.
+[00:10:34.240 --> 00:10:35.120]  We've got more documents.
+[00:10:35.200 --> 00:10:35.680]  You saw those.
+[00:10:35.840 --> 00:10:38.080]  Obama targeting me 2013 with Comey.
+[00:10:38.240 --> 00:10:39.279]  I don't mean to write myself in.
+[00:10:39.360 --> 00:10:40.559]  I'm just in the middle of it.
+[00:10:41.519 --> 00:10:43.039]  And CNN St. Jones is crazy.
+[00:10:43.120 --> 00:10:44.480]  He says Trump spotted with the NSA.
+[00:10:44.559 --> 00:10:46.720]  We told him back at the time, 2017.
+[00:10:47.279 --> 00:10:50.160]  What do you think of CrossFor Hurricane and what they did overall?
+[00:10:50.240 --> 00:10:52.240]  I mean, is that, what is the crime?
+[00:10:52.480 --> 00:10:53.519]  I know it's tension limitations.
+[00:10:53.600 --> 00:10:53.759]  Is there?
+[00:10:53.840 --> 00:10:55.600]  Is there any crime we could charge them with?
+[00:10:56.639 --> 00:11:01.519]  I don't know if there is because it's going to have to show an ongoing conspiracy and that the conspiratorial acts continue.
+[00:11:01.680 --> 00:11:05.039]  The only person that I see that looks actually kind of concerned is Clapper.
+[00:11:05.120 --> 00:11:06.319]  I've seen him come out and speak.
+[00:11:06.559 --> 00:11:17.840]  And so watching his body language and kind of looking at the way that he has a little bit of pause and he actually outright stated it, I think on MSNBC last night where he said, you know, I am concerned and I have retained counsel.
+[00:11:18.160 --> 00:11:24.160]  And it makes you wonder, you know, look, they already weaponized our intelligence agencies against one side.
+[00:11:24.240 --> 00:11:27.759]  They've already gone out there and they have arrested Donald Trump.
+[00:11:28.079 --> 00:11:32.799]  So the pane of glass that we used to have historically in this country has been broken.
+[00:11:33.120 --> 00:11:35.120]  And to think otherwise is crazy.
+[00:11:35.360 --> 00:11:44.400]  There's no question in my mind that the two major turning points for the way that our intelligence apparatus works today, the first one was September 12th of 2001.
+[00:11:44.720 --> 00:11:46.480]  And so things changed forever.
+[00:11:46.639 --> 00:11:49.840]  The United States basically accepted a new definition of national security.
+[00:11:50.079 --> 00:12:02.879]  And instead of trying to preserve the Constitution, they decided that no American dies from terrorism, which is sort of just the camel's nose under the tent, to be able to do ubiquitous surveillance of all people and do all kinds of crazy things, including look into you and, of course, look into me.
+[00:12:03.120 --> 00:12:12.559]  And I actually just had Elon Musk announce, I think, yesterday or the day before, that they won a court case about a gag order that they had investigating me and Garrett O'Boyle, another FBI whistleblower.
+[00:12:12.720 --> 00:12:13.840]  So we know they've weaponized it.
+[00:12:14.079 --> 00:12:14.639]  Well, that's huge.
+[00:12:14.720 --> 00:12:15.200]  I didn't know that.
+[00:12:15.279 --> 00:12:16.799]  Oh, Elon Musk intervened in my case.
+[00:12:16.879 --> 00:12:18.879]  The Democrats try to shut me down six months ago.
+[00:12:19.039 --> 00:12:19.680]  What happened with you?
+[00:12:21.120 --> 00:12:25.759]  So this is an ongoing case, and we may have talked about it previously, but they didn't actually put our names out there.
+[00:12:25.840 --> 00:12:27.440]  It's in Elon's timeline at the moment.
+[00:12:27.600 --> 00:12:31.840]  The crazy piece was, is that essentially the FBI started investigating.
+[00:12:31.920 --> 00:12:33.680]  They took information to a grand jury.
+[00:12:34.000 --> 00:12:41.279]  And not only did they look at my Gmail, which you and I have talked about, they also went looking for my social media, which I didn't start until after I left the FBI.
+[00:12:41.440 --> 00:12:43.519]  And there's a really good separation between there.
+[00:12:43.840 --> 00:12:46.639]  They went after all that for some criminal case.
+[00:12:46.799 --> 00:12:47.519]  It's not real clear to me.
+[00:12:47.600 --> 00:12:48.879]  They didn't tell me what it was.
+[00:12:49.200 --> 00:13:02.960]  And Elon Musk and X Corporation fought it in DC of all places, and actually just won in the Court of Appeals there, that they would be able to notify guys like me, guys like you, should the FBI go after there and request some of their social media.
+[00:13:03.440 --> 00:13:08.160]  They just recently got notified after the fact from Google of new criminal investigations against us.
+[00:13:08.799 --> 00:13:09.440]  Exactly right.
+[00:13:09.600 --> 00:13:09.759]  Yeah.
+[00:13:10.080 --> 00:13:13.519]  so what they would normally do is they would put a gag order on it while they're investigating.
+[00:13:13.840 --> 00:13:14.960]  They wouldn't tell you about it.
+[00:13:15.200 --> 00:13:22.639]  What this Circuit Court of Appeals decision in DC said was that X Corporation actually has the right to go out there and notify us in real time.
+[00:13:22.879 --> 00:13:31.360]  If the FBI requests our information through a subpoena, that the government either has to provide significant information to keep it under wraps or they have to tell us about it.
+[00:13:31.759 --> 00:13:34.639]  Or at least the corporation has the ability to tell us about it.
+[00:13:34.960 --> 00:13:36.720]  And there's certain companies that have been really good about it.
+[00:13:36.960 --> 00:13:39.200]  X has been good about trying to push forward for this.
+[00:13:39.440 --> 00:13:41.279]  Of all things, T-Mobile was really, really good.
+[00:13:41.440 --> 00:13:47.600]  If you ever lapsed for like a day in your paperwork on keeping something under wraps, they would go, including national security stuff.
+[00:13:47.679 --> 00:13:49.519]  T-Mobile would notify their customers right away.
+[00:13:49.679 --> 00:13:51.759]  So I don't know why they're the one, but they're the one that did.
+[00:13:52.240 --> 00:13:54.399]  So for whatever it's worth, that's kind of an interesting thing.
+[00:13:54.879 --> 00:14:01.759]  That second changeover, I think, happened probably in mid to late 2016 at the tail end of the Obama administration.
+[00:14:02.000 --> 00:14:04.159]  They actually authorized something that most people are not aware of.
+[00:14:04.320 --> 00:14:07.840]  They updated the national security collection priorities.
+[00:14:07.919 --> 00:14:10.559]  It's under Executive Order 1233.
+[00:14:11.200 --> 00:14:13.600]  And it allowed the FBI for the first time.
+[00:14:13.759 --> 00:14:15.840]  So when I joined the FBI, this was already in effect.
+[00:14:16.000 --> 00:14:22.480]  But for the first time in either September or October of 2016, the FBI got raw FISA material.
+[00:14:22.799 --> 00:14:26.559]  And that was the lead up to why Crossfire Hurricane was so wild.
+[00:14:27.120 --> 00:14:34.240]  They were allowed to basically take the NSA's database, which was constantly doing collections, but the NSA doesn't have any enforcement arm.
+[00:14:34.320 --> 00:14:39.519]  They're just people that are looking, reading, assessing, and putting out reports on what they think is going on, you know, aggregating.
+[00:14:39.840 --> 00:14:42.559]  You're now giving investigators without warrants, whatever they want.
+[00:14:42.879 --> 00:14:43.759]  That's exactly right.
+[00:14:44.000 --> 00:14:50.480]  And not only are they investigators without warrants, but they're people who have the ability to construct a criminal case if they see criminal activity because they have a construction.
+[00:14:50.559 --> 00:14:51.360]  They're not going to be in there.
+[00:14:51.600 --> 00:14:52.240]  Exactly it.
+[00:14:52.480 --> 00:14:52.720]  Yep.
+[00:14:52.879 --> 00:14:54.559]  So that's the scariest thing that can happen.
+[00:14:55.039 --> 00:14:57.680]  And the stuff that happened in Crossfire Hurricane, it hasn't been rectified.
+[00:14:57.759 --> 00:14:58.960]  Like nobody really, like nobody really.
+[00:14:59.120 --> 00:15:01.840]  So by the grace of God, how have you and I not been indicted?
+[00:15:01.919 --> 00:15:03.360]  Because we don't obviously do anything wrong.
+[00:15:03.600 --> 00:15:06.399]  I've got FBI guys, CIA caught on undercover tapes.
+[00:15:06.480 --> 00:15:08.000]  Oh, we investigated for a decade, couldn't find anything.
+[00:15:08.159 --> 00:15:13.840]  Well, no kidding, but it still doesn't mean I'm not nervous because they've indicted a lot of innocent people, Kyle.
+[00:15:15.200 --> 00:15:16.159]  No, you're exactly correct.
+[00:15:16.319 --> 00:15:19.039]  And look, this is something that you got, you got two options, Alex.
+[00:15:19.120 --> 00:15:21.840]  And I think we probably both laid it on the same option.
+[00:15:22.080 --> 00:15:26.480]  Option one is you walk around paranoid every day and you eventually lose your mind because you're looking over your shoulder.
+[00:15:26.639 --> 00:15:28.399]  You think the government's coming for you at any moment.
+[00:15:28.639 --> 00:15:33.519]  You know, my wife and I had the same conversation that probably everybody would when we went public with our whistleblower story.
+[00:15:33.759 --> 00:15:35.920]  She goes, you know, are the Clinton death squads coming for us?
+[00:15:36.080 --> 00:15:37.840]  And I laughed it off and we both kind of chuckled.
+[00:15:37.920 --> 00:15:39.920]  Then I put a rifle next to my bed before I went to sleep.
+[00:15:40.159 --> 00:15:44.399]  And then the next day, I started getting text messages from my buddies like, hey, man, have you, have you insulated?
+[00:15:44.720 --> 00:15:46.399]  Do you have tripwires around your property?
+[00:15:46.559 --> 00:15:49.120]  And I started going like, crap, like, is this really a probability?
+[00:15:49.440 --> 00:15:52.399]  You can sit there and fixate on that and you can go down all the rabbit holes.
+[00:15:52.639 --> 00:15:54.080]  And I'm a former surveillance guy.
+[00:15:54.159 --> 00:15:57.039]  I did that for three years, watching bad guys out in the wild.
+[00:15:57.360 --> 00:16:02.399]  And when you do that, you get good at one, being a surveillance guy, two, seeing other people do surveillance.
+[00:16:02.559 --> 00:16:05.200]  And the more good you are at it, sometimes you see what we call ghosts.
+[00:16:05.360 --> 00:16:08.240]  You go out there and you think somebody's surveilling you because they're doing something.
+[00:16:08.559 --> 00:16:13.680]  And if you don't watch them long enough to see them do whatever the normal activity was, you might think that you're being followed.
+[00:16:13.759 --> 00:16:15.039]  And you eventually kind of lose your life.
+[00:16:15.120 --> 00:16:18.240]  It's the effect of constantly going, I better be good when I'm not doing anything wrong.
+[00:16:18.399 --> 00:16:21.279]  I'm like, even though I know I'm not bad, I'm still like, I got to be really good.
+[00:16:21.360 --> 00:16:22.240]  I got to be really good.
+[00:16:22.559 --> 00:16:25.279]  And I'm like, you know, doing a good job, accountants, right?
+[00:16:25.440 --> 00:16:26.799]  You're making sure I'm overpaying taxes, right?
+[00:16:26.960 --> 00:16:31.680]  You know, it's, it's, it's, it's, it's a, but away from us at the micro, let's go to the macro here.
+[00:16:32.000 --> 00:16:40.080]  Your general assessment, which has been dead on so far, you know, you were saying Trump and all of them were being set up with bad advice.
+[00:16:40.399 --> 00:16:42.559]  How the hell did they get him 18 days ago to come out?
+[00:16:42.879 --> 00:16:43.920]  You and I said day one.
+[00:16:44.000 --> 00:16:45.120]  You came on like day two of it.
+[00:16:45.279 --> 00:16:46.720]  We said, no, he's behind it.
+[00:16:47.039 --> 00:16:48.000]  You were like, are you sure?
+[00:16:48.080 --> 00:16:48.480]  I said, yeah.
+[00:16:48.639 --> 00:16:50.000]  He came out and said, yeah, I'm behind it.
+[00:16:50.319 --> 00:16:52.799]  How would they get him to Stryzan effect like this?
+[00:16:53.120 --> 00:16:55.680]  And then now he's partially backed off.
+[00:16:56.000 --> 00:17:00.080]  Now the Democrat judge doesn't want the Epstein stuff released in the first case.
+[00:17:00.960 --> 00:17:06.880]  From all your sources and your just overall gestalt of this dead recording, Kyle Serafin, you've been really accurate so far.
+[00:17:07.119 --> 00:17:09.920]  I know you're speculating, but maybe you're not from sources.
+[00:17:10.240 --> 00:17:13.839]  I haven't talked to you other than text in a week.
+[00:17:14.160 --> 00:17:15.279]  What is going on with Trump?
+[00:17:15.360 --> 00:17:18.240]  And now the congressional hearings, the Republicans are coming now.
+[00:17:19.200 --> 00:17:20.400]  What is going on?
+[00:17:21.279 --> 00:17:23.200]  It seems like they're trying to throw a wet blanket on it.
+[00:17:23.440 --> 00:17:24.799]  It seems like they said, hey, we're going to give you.
+[00:17:25.039 --> 00:17:26.319]  Look, remember the first time that they did this?
+[00:17:26.400 --> 00:17:28.000]  They came on and said, give us a couple of weeks.
+[00:17:28.079 --> 00:17:29.519]  We're going to give you this wave of transparency.
+[00:17:29.920 --> 00:17:31.920]  In a couple of days, you're going to see all this stuff.
+[00:17:32.240 --> 00:17:32.720]  Now we're probably going to be able to do it.
+[00:17:32.799 --> 00:17:37.279]  I'm going to say four months ago to me privately that three months ago on air, we're not getting Epstein files.
+[00:17:37.599 --> 00:17:41.920]  It just was obvious to me because they were extending the deadline and they were trying to run out the clock.
+[00:17:42.000 --> 00:17:43.039]  I mean, they're treating this in some ways.
+[00:17:43.200 --> 00:17:49.360]  You got a lot of media people in Trump's orbit, a lot of media people in Trump's cabinet and the subcabinet people, you know, Bongino is a media guy.
+[00:17:49.519 --> 00:17:50.880]  Patel is a media person.
+[00:17:51.119 --> 00:17:55.039]  Even Bondi has a sense of being on Fox enough times that she understands what the media cycle is like.
+[00:17:55.200 --> 00:18:01.200]  And if you can get people to just pay attention to something else, if you can do it like a laser pointer where you just shine the dot somewhere else and people attach it.
+[00:18:01.279 --> 00:18:04.720]  Sure, so the big question is, why did Trump try to gaslight us?
+[00:18:05.440 --> 00:18:09.920]  I think that they overestimated the play that they had because you've got people that are very popular.
+[00:18:10.160 --> 00:18:15.680]  You had folks from both sides of the aisle, whether it be an RFK Jr., you had a Tulsi Gabbard, you know, convert from the Democrat side.
+[00:18:15.920 --> 00:18:18.559]  You've got guys like Dan Bongino out there messaging about Epstein.
+[00:18:18.639 --> 00:18:21.680]  When you have those people, they have a cult of following where people trust them.
+[00:18:21.840 --> 00:18:24.480]  And I think they overestimate how much trust these people had.
+[00:18:26.160 --> 00:18:34.079]  I think they just missed the boat on how much Americans are not satisfied with our institutions, that we don't give anybody a carte blanche.
+[00:18:34.240 --> 00:18:37.519]  By the way, the way that you get credibility in any space and you do it and I do it.
+[00:18:37.599 --> 00:18:38.960]  And I know Dan Bongino used to do it.
+[00:18:39.119 --> 00:18:40.480]  You tell people, don't trust me.
+[00:18:40.720 --> 00:18:41.519]  Trust the results.
+[00:18:41.759 --> 00:18:43.440]  Go look for the quote unquote receipts.
+[00:18:43.599 --> 00:18:45.920]  Go find the documents, the paperwork that backs it up.
+[00:18:46.160 --> 00:18:56.079]  So if you're out there telling people that I'm going to show you something and you don't show it to them, and then you do it again and you don't show it to them, at some point in time, we think the musician or the musician doesn't have his trick in order, right?
+[00:18:56.160 --> 00:18:57.519]  He's just not able to pull it off.
+[00:18:57.840 --> 00:19:00.639]  And so I think that's why they went for the grand jury information.
+[00:19:00.880 --> 00:19:04.000]  They floated that because they know they're not going to get that, not in New York and not in Florida.
+[00:19:04.079 --> 00:19:07.360]  It doesn't matter if it's a Trump-appointed judge or a Democrat judge.
+[00:19:07.840 --> 00:19:10.079]  And then they can say, see, we asked Florida, they didn't.
+[00:19:10.400 --> 00:19:18.160]  So what do you make of the Republicans joining Democrats in a vote yesterday to go ahead with subpoenaing the DOJ in Congress?
+[00:19:18.799 --> 00:19:21.279]  Which is also irrelevant because listen, there's a dozen ways.
+[00:19:21.360 --> 00:19:25.119]  As you know, if you go out and FOIA the FBI, there's a law that says they got to give you stuff.
+[00:19:25.360 --> 00:19:31.359]  If you go FOIA stuff from the CIA, they're supposed to give you stuff, but there's 11 different exceptions or 14 different FOIA exceptions.
+[00:19:31.519 --> 00:19:32.400]  So they use all of them.
+[00:19:32.480 --> 00:19:34.079]  And they're going to do the same thing on the subpoenas.
+[00:19:34.319 --> 00:19:35.519]  They're going to claim national security.
+[00:19:35.759 --> 00:19:37.200]  They're going to claim ongoing investigation.
+[00:19:37.279 --> 00:19:38.559]  They're going to claim sources and methods.
+[00:19:38.799 --> 00:19:42.960]  At the end of the day, the files that exist at the FBI belong to the executive branch.
+[00:19:43.200 --> 00:19:45.920]  So Congress can say whatever the hell they want and they can't compel it.
+[00:19:46.240 --> 00:19:47.039]  Okay, so they're not going to be able to.
+[00:19:47.119 --> 00:19:51.680]  So if you have a question then, why did Trump do the worst possible Streisand effect?
+[00:19:52.240 --> 00:19:55.680]  You predicted it before having you said they're going to be given bad advice to cover up.
+[00:19:56.960 --> 00:19:58.079]  Yeah, there's two possibilities.
+[00:19:58.319 --> 00:20:05.759]  Either someone deliberately misled him or he mis overestimated his ability to pull people with him just on strength of personality.
+[00:20:06.160 --> 00:20:07.119]  So why cover it up?
+[00:20:07.200 --> 00:20:09.039]  Do you think Trump's done something wrong?
+[00:20:09.759 --> 00:20:11.359]  I still don't at the end of the day.
+[00:20:11.519 --> 00:20:14.160]  I don't think it's there because I think it would have been leaked a long time ago.
+[00:20:14.319 --> 00:20:20.160]  But I do bet that the more that he does this, it more indicates that there's probably some sort of peripheral smear that would go on.
+[00:20:20.400 --> 00:20:36.640]  The idea that somebody went in and doctored the documents, Alex, you got to believe two very contradictory things to think that the DOJ altered documents to incriminate Donald Trump, but they didn't alter the documents that would incriminate Brennan and Clapper and Comey and all these guys, that they left evidence laying around to go and get themselves caught.
+[00:20:36.799 --> 00:20:38.160]  So that doesn't make any sense to me.
+[00:20:38.400 --> 00:20:42.799]  But what could happen is, is Donald Trump is pointed in some unfavorable light.
+[00:20:43.119 --> 00:20:48.480]  And simply being associated with this man, Jeffrey Epstein, at this point, it's political kryptonite.
+[00:20:48.559 --> 00:20:52.160]  It's, you know, everybody is specific to him.
+[00:20:52.319 --> 00:20:53.440]  I figure the South 340 is in.
+[00:20:53.519 --> 00:20:59.440]  It was my speculation saying it's a recycle in 2016 that Milani is a hooker, which we know wasn't true.
+[00:20:59.680 --> 00:21:04.160]  Under Epstein, a modeling agency, which wasn't true, the Jane Does that weren't real.
+[00:21:05.279 --> 00:21:06.960]  And then Trump goes against the files.
+[00:21:07.039 --> 00:21:07.839]  They come back in May.
+[00:21:07.920 --> 00:21:10.079]  I think the Wall Street Journal is accurate and say, you're in it.
+[00:21:10.319 --> 00:21:12.480]  He just throws a fit and says, shut it down.
+[00:21:13.920 --> 00:21:18.559]  Yeah, I think, like I said, touching it is absolutely the worst case scenario.
+[00:21:18.880 --> 00:21:21.599]  And he did the worst thing you could do, which would have just been ignoring it.
+[00:21:21.920 --> 00:21:23.200]  Unfortunately, he started talking about it.
+[00:21:23.359 --> 00:21:31.200]  He called people weekly and I said, three months ago when Bongino and Patel, dear in the headlights, looked like hostages go on TV.
+[00:21:31.279 --> 00:21:33.519]  And I said, then, that's Trump ordering him to do that.
+[00:21:33.680 --> 00:21:40.000]  I mean, they'd already, well, we now know in May when they did that, they had brought the files back and said, sir, your enemy.
+[00:21:40.079 --> 00:21:43.200]  And they, dutiful soldiers, went out and did that.
+[00:21:44.079 --> 00:21:44.960]  So now we pretty much know that.
+[00:21:45.119 --> 00:21:46.240]  You know what the worst thing is, though, Alex?
+[00:21:46.400 --> 00:21:52.480]  The worst is, is that apparently Pam Bondi didn't get that message because she was out there touting it over and over again about the tens of thousands of hours.
+[00:21:52.559 --> 00:21:54.960]  And, you know, there is material there, whether you like it or not.
+[00:21:55.200 --> 00:21:56.400]  I've talked to my guys after the fact.
+[00:21:56.559 --> 00:21:57.200]  They're not political.
+[00:21:57.279 --> 00:21:59.920]  They're not, they're not, there's, there's material that exists.
+[00:22:00.240 --> 00:22:06.640]  But a lot of the stuff that they were doing was using AI to scrub through and try to like redact victim names and so on and so forth.
+[00:22:06.720 --> 00:22:09.360]  So they were trying to do the thing that is required by federal law.
+[00:22:09.680 --> 00:22:11.599]  And Bondi was out there promising something.
+[00:22:11.839 --> 00:22:20.640]  You could tell that when Patel and Bongino were on Fox News, the multiple interviews, both together and separately, neither of them wanted to touch it because they knew what the marching orders were.
+[00:22:20.720 --> 00:22:22.000]  They knew they weren't supposed to talk about it.
+[00:22:22.079 --> 00:22:26.319]  And they knew at the end of the day, they were going to really disappoint a podcast audience and people that they've been talking to for years.
+[00:22:26.559 --> 00:22:26.640]  Sure.
+[00:22:26.799 --> 00:22:29.360]  That's why their body language was like they were walking a plank.
+[00:22:29.440 --> 00:22:30.240]  So that's right.
+[00:22:30.480 --> 00:22:32.079]  It's almost endearing of Trump, though.
+[00:22:32.160 --> 00:22:32.880]  And I'm not an apologist.
+[00:22:32.960 --> 00:22:35.440]  I'm telling what I really think that it's so badly coordinated.
+[00:22:35.519 --> 00:22:36.400]  It was really a cover-up.
+[00:22:36.559 --> 00:22:38.480]  It wouldn't be such a Keystone cop.
+[00:22:39.920 --> 00:22:41.200]  That's a good argument.
+[00:22:41.920 --> 00:22:43.680]  I like to think that Trump is smarter than that.
+[00:22:43.839 --> 00:22:45.119]  I mean, he's the oldest he's ever been.
+[00:22:45.200 --> 00:22:46.319]  So we got to be honest about that.
+[00:22:46.480 --> 00:22:47.599]  People do make mistakes.
+[00:22:47.759 --> 00:22:50.640]  They do misread the room on occasion.
+[00:22:50.799 --> 00:22:51.680]  Everyone's done it.
+[00:22:52.240 --> 00:22:53.440]  So he could do that.
+[00:22:53.759 --> 00:22:55.440]  You'd think that he's got smarter people around him.
+[00:22:55.680 --> 00:22:57.519]  So can you tell you from this?
+[00:22:57.599 --> 00:23:00.559]  And then what would be the right thing for Trump to do?
+[00:23:00.880 --> 00:23:02.079]  The right thing is still the right thing.
+[00:23:02.400 --> 00:23:04.160]  It was the same right thing that it should have been a long time ago.
+[00:23:04.319 --> 00:23:06.000]  They should have a press conference with the right people.
+[00:23:06.160 --> 00:23:07.440]  You should have Bongino and Patel.
+[00:23:07.599 --> 00:23:08.480]  You should have Bondi there.
+[00:23:08.640 --> 00:23:10.880]  You should probably bring in the evidence technicians that grabbed it.
+[00:23:11.039 --> 00:23:15.920]  You should bring in people from previous administrations if they're willing to come down and do it as long as it takes.
+[00:23:16.079 --> 00:23:16.799]  A couple hours.
+[00:23:17.360 --> 00:23:20.880]  Have the office of general counsel sit there and vet in and out of bounds.
+[00:23:21.039 --> 00:23:22.880]  We can't talk about this because of the following reason.
+[00:23:23.039 --> 00:23:25.839]  But let people ask all the questions they have and let them wear it out.
+[00:23:26.000 --> 00:23:28.240]  It's the same thing you do when your kid's throwing a temper tantrum.
+[00:23:28.319 --> 00:23:28.960]  You let them wear it out.
+[00:23:29.119 --> 00:23:29.839]  It's like, okay, fine.
+[00:23:30.000 --> 00:23:30.880]  Bring all your questions.
+[00:23:31.039 --> 00:23:32.720]  We're going to be as transparent as humanly possible.
+[00:23:32.799 --> 00:23:34.240]  We're going to put all the people in front of you.
+[00:23:34.559 --> 00:23:36.000]  You're not going to want to air this whole thing.
+[00:23:36.079 --> 00:23:37.440]  It's going to be boring television.
+[00:23:37.759 --> 00:23:39.920]  And we're going to tell you yes, no, in and out of bounds.
+[00:23:40.000 --> 00:23:41.360]  Here's the evidence tech that gathered it.
+[00:23:41.440 --> 00:23:42.559]  Here's the person that checked it in.
+[00:23:42.720 --> 00:23:44.559]  Here's the agent that did the interviews.
+[00:23:44.799 --> 00:23:45.519]  This is what they saw.
+[00:23:45.599 --> 00:23:46.240]  This is what they didn't see.
+[00:23:46.400 --> 00:23:47.599]  There are no co-conspirators.
+[00:23:47.680 --> 00:23:50.559]  There are some, but they were not implicated in any meaningful way.
+[00:23:50.880 --> 00:23:53.759]  We couldn't get a positive ID on someone we thought might have been involved.
+[00:23:53.840 --> 00:23:54.160]  Whatever.
+[00:23:55.200 --> 00:23:55.680]  That's the problem.
+[00:23:55.840 --> 00:23:58.240]  Trump never apologizes or admits he's wrong.
+[00:23:58.319 --> 00:23:59.759]  It's also part of his strength.
+[00:24:00.079 --> 00:24:04.880]  But he has to understand that when he came out and attacked his constituents and said, you're not part of MAGA if you do this.
+[00:24:05.119 --> 00:24:06.000]  There's nothing here.
+[00:24:06.240 --> 00:24:08.000]  He's come out and say, hey, I want to clarify.
+[00:24:08.319 --> 00:24:10.000]  I'm not saying Epstein wasn't bad.
+[00:24:10.160 --> 00:24:16.079]  I'm saying that all this hype of me connected and all this other stuff, that is another Democrat hoax.
+[00:24:16.480 --> 00:24:21.200]  He needs to do that because that slap in the face with his constituents is not going away.
+[00:24:21.519 --> 00:24:22.079]  I agree.
+[00:24:22.240 --> 00:24:26.400]  Again, the two people that are running the bureau right now went out and talked about it a lot for several years.
+[00:24:26.639 --> 00:24:27.599]  I think that's problematic.
+[00:24:27.840 --> 00:24:30.480]  And then they got on the right sheet of music when they started working there.
+[00:24:30.559 --> 00:24:35.360]  Maybe they looked in and said, holy crap, we convicted a woman of crimes that happened 21 years ago.
+[00:24:35.519 --> 00:24:36.960]  We have no evidence of it continuing.
+[00:24:37.039 --> 00:24:37.680]  Maybe that's the case.
+[00:24:37.759 --> 00:24:38.639]  Like, you know, I don't know.
+[00:24:38.799 --> 00:24:40.160]  We haven't seen the entire thing.
+[00:24:40.480 --> 00:24:48.639]  And then you have an attorney general that was actually throwing more gasoline on the fire saying that, you know, the list is on my desk and I'm about to release it and you're going to be shocked and humahedy and said the whole thing.
+[00:24:48.880 --> 00:24:53.279]  So you've created this bizarre, like left hand's not explaining to the right hand what the play is.
+[00:24:53.440 --> 00:24:55.599]  And so they've played against each other and you got chaos.
+[00:24:55.759 --> 00:24:57.279]  And I know it's upset people like Owen.
+[00:24:57.360 --> 00:24:58.480]  It upset me looking at it.
+[00:24:58.559 --> 00:25:00.720]  It just looks like it's very poorly planned.
+[00:25:01.039 --> 00:25:02.480]  Maybe that's the genius of it, Alex.
+[00:25:02.559 --> 00:25:03.039]  Maybe you're right.
+[00:25:03.360 --> 00:25:05.360]  Or maybe they just screwed up, which happens.
+[00:25:05.680 --> 00:25:06.960]  No, I don't think it's genius.
+[00:25:08.160 --> 00:25:15.680]  I mean, all I know is it sucked all the oxygen out of the room for everything else that's going on and people are not letting it go.
+[00:25:16.000 --> 00:25:21.680]  When people are told, shut up, it doesn't go away.
+[00:25:22.000 --> 00:25:22.960]  We're going to break it.
+[00:25:23.759 --> 00:25:24.000]  Go ahead.
+[00:25:24.160 --> 00:25:26.960]  Yeah, I was going to say, you can't make it go away because there's three things that are involved.
+[00:25:27.519 --> 00:25:31.920]  It's the instinct that there's injustice and that the rich and the elite have a different sense of justice.
+[00:25:32.240 --> 00:25:36.880]  The idea that there may be corruption and people who are very powerful have access to tools or government.
+[00:25:37.119 --> 00:25:38.639]  And the last thing is that you've hurt children.
+[00:25:38.960 --> 00:25:47.279]  And so when you put hurting kids, corruption and elite, you know, you know, tears of justice put together, all of those things are, you can't take that away.
+[00:25:47.440 --> 00:25:50.400]  You can't make Americans unsee that after you've been talking about it for years.
+[00:25:50.720 --> 00:25:51.840]  So they're not going to just let it go.
+[00:25:53.440 --> 00:25:55.599]  So when we come back, I want to move to other subjects.
+[00:25:56.160 --> 00:25:59.840]  We have the Democrats with Republicans voting to subpoena all this.
+[00:26:00.480 --> 00:26:04.720]  And we have this becoming even a bigger issue if that's possible.
+[00:26:05.279 --> 00:26:11.440]  And then we have all these other activities and things that Trump is saying and doing.
+[00:26:12.960 --> 00:26:18.960]  I want to talk to you about how you see this ending or there's any way to get out of this.
+[00:26:19.039 --> 00:26:25.119]  Because even Raspus in Polling, who's very respected, said this has already hit Trump massive point loss for the Republican Party.
+[00:26:25.359 --> 00:26:26.960]  Huge announcement, ladies and gentlemen.
+[00:26:27.119 --> 00:26:29.200]  I am beyond excited about this.
+[00:26:29.440 --> 00:26:31.200]  I've wanted this knife for a year.
+[00:26:31.519 --> 00:26:32.640]  It's super high quality.
+[00:26:32.799 --> 00:26:34.720]  They finally got the right supplier and a bunch of them.
+[00:26:34.880 --> 00:26:41.279]  It's in a beautiful KeepSay black box with my signature in silver lettering on the top.
+[00:26:41.599 --> 00:26:52.960]  And when you go inside, this incredible combat battle dagger, limited edition Alex Jones signature battle dagger, a high-tech, super high-quality sheath with a high-tech clip onto your belt or your pants.
+[00:26:53.279 --> 00:26:57.519]  And it's got a special system where the knife doesn't come out when it's upside down.
+[00:26:57.680 --> 00:26:58.799]  It takes a little pull to get it out.
+[00:26:58.960 --> 00:26:59.839]  It is amazing.
+[00:27:00.079 --> 00:27:04.720]  This is, in my opinion, the very best defense battle dagger you can get.
+[00:27:04.880 --> 00:27:09.200]  It's an incredible price for $79.99 right now.
+[00:27:09.440 --> 00:27:12.799]  This knife by itself at stores sells for $100 every day.
+[00:27:13.039 --> 00:27:14.319]  We bought 5,000 of them.
+[00:27:14.400 --> 00:27:16.160]  So got the price down really low.
+[00:27:16.400 --> 00:27:20.799]  Wholesale, so we can pass that on to you and the profit we make goes in to fund this operation.
+[00:27:20.880 --> 00:27:28.880]  So you don't just get a great defensive system for yourself and your family, great in your car, great on your side, great in your purse, your glove compartment, also skin a buck with it, whatever you need.
+[00:27:29.119 --> 00:27:30.400]  This is an amazing knife.
+[00:27:30.640 --> 00:27:37.279]  You not only, though, get something to defend yourself, you defend the Republic in the information war by funding this operation.
+[00:27:37.519 --> 00:27:46.160]  So get your limited edition Alex Jones Signature Battle Dagger at theAlexJonesStore.com right now, and it keeps this operation on the air.
+[00:27:46.240 --> 00:27:47.119]  This isn't just a blade.
+[00:27:47.200 --> 00:27:48.160]  It's a symbol of freedom.
+[00:27:48.480 --> 00:27:53.839]  Limited edition Alex Schonze Signature Battle Dagger is forged by Patriots, ready to defend the Republic from the globalist agenda.
+[00:27:54.000 --> 00:27:59.759]  Featuring a double-edged black coated blade for unmatched durability and precision, this dagger is built to last.
+[00:28:00.079 --> 00:28:06.960]  On one side is next my signature, while the other side proudly bears 1776, a reminder that the spirit of revolution lives on stronger than ever.
+[00:28:07.119 --> 00:28:13.200]  With its ergonomic non-slip grip designed, ready for any mission, the dagger isn't just a tool, it's a statement.
+[00:28:13.360 --> 00:28:22.319]  Whether you're adding it to your collection or keeping it close as a symbol of resistance and for defense, this blade is for those who know that the answer in 1984 is 1776 kickers now.
+[00:28:22.559 --> 00:28:34.079]  And then we are announcing a limited sale, the power drive bundle of power plant and methyl drive, which goes incredibly good with methylene blue.
+[00:28:34.319 --> 00:28:38.640]  And both of these give you incredible natural energy, clarity, and focus.
+[00:28:38.799 --> 00:28:41.119]  But you mix them together with methylene blue.
+[00:28:41.279 --> 00:28:47.519]  I will tell you in Chase Geyser's observation himself, 10 times stronger than TurboForce.
+[00:28:47.839 --> 00:28:48.799]  Did you hear what I just said?
+[00:28:49.119 --> 00:28:52.400]  10 times stronger than TurboForce.
+[00:28:52.640 --> 00:28:53.440]  Get yours now.
+[00:28:53.759 --> 00:28:55.119]  Discounted massively.
+[00:28:55.440 --> 00:28:57.920]  50% off when you get them together.
+[00:28:58.160 --> 00:29:06.079]  50% off on the power drive bundle for a limited time, one week, at thealexjonstore.com.
+[00:29:06.240 --> 00:29:09.400]  And it funds this operation 1776 worldwide.
+[00:29:09.400 --> 00:29:26.470]  Out.
+[00:29:26.480 --> 00:29:31.440]  With certainty, I think we knew it before, in all fairness, Tulsi, but now you have certainty.
+[00:29:31.599 --> 00:29:32.960]  She has all the documents.
+[00:29:33.039 --> 00:29:34.720]  She has everything that you need.
+[00:29:35.039 --> 00:29:40.640]  And she found out that Barack Hussein Obama led a group of people and they cheated in the elections.
+[00:29:40.960 --> 00:29:42.720]  And they cheated without question.
+[00:29:43.039 --> 00:29:44.000]  It's not even a quote.
+[00:29:44.160 --> 00:29:46.559]  Would you say there's even a little question there, Tulsi?
+[00:29:46.799 --> 00:29:47.759]  She says no.
+[00:29:48.319 --> 00:29:52.000]  And you found things that nobody thought we'd ever find.
+[00:29:52.640 --> 00:29:55.279]  And very happy and very honored to have you with us.
+[00:29:55.440 --> 00:29:57.200]  She's right now by far, Speaker.
+[00:29:57.360 --> 00:29:59.839]  She's hotter than you right now, Speaker.
+[00:30:00.160 --> 00:30:02.960]  She's the hottest person in the room right now, Speaker.
+[00:30:03.279 --> 00:30:04.480]  So Tulsi, great job.
+[00:30:04.640 --> 00:30:06.000]  And I know you have a lot more coming.
+[00:30:06.240 --> 00:30:09.599]  She told me you've seen nothing yet.
+[00:30:09.920 --> 00:30:13.039]  So I heard those rumors about you, but now I know they're true.
+[00:30:13.200 --> 00:30:14.880]  So we're very proud of you, Tulsi.
+[00:30:14.960 --> 00:30:17.440]  They cheated so badly.
+[00:30:17.759 --> 00:30:22.480]  And ultimately, it led to a loss in 2020.
+[00:30:22.799 --> 00:30:23.920]  And it shouldn't have been a loss.
+[00:30:24.000 --> 00:30:24.720]  It was a big victory.
+[00:30:24.880 --> 00:30:25.759]  We won by a lot.
+[00:30:25.920 --> 00:30:27.200]  We had to do it again.
+[00:30:27.519 --> 00:30:29.599]  But if I thought we lost, I would never have run again.
+[00:30:29.680 --> 00:30:33.599]  And this is a far more consequential election than it would have been if we did.
+[00:30:33.759 --> 00:30:37.200]  That's the only thing I can say in favor of it.
+[00:30:39.119 --> 00:30:42.559]  But we can't ever let that happen again to our country.
+[00:30:42.880 --> 00:30:45.759]  Look at what happened in terms of inflation, in terms of so many things.
+[00:30:45.920 --> 00:30:51.920]  But most importantly, maybe in terms of allowing millions and millions of people into our country that we shouldn't have.
+[00:30:52.319 --> 00:30:55.599]  It's so crazy what we've been through and how epic this has been.
+[00:30:55.920 --> 00:31:00.160]  And then to see Trump jump into a bear trap and what he's done.
+[00:31:00.240 --> 00:31:04.559]  I'm going to get to some other issues that are breaking call that you want to get into and I want to get into as well.
+[00:31:05.440 --> 00:31:07.440]  But first, big picture.
+[00:31:08.880 --> 00:31:10.960]  What do you think this does to the Trump admin?
+[00:31:11.039 --> 00:31:16.720]  The polls show that he was bucking the trend of a new incumbent president.
+[00:31:16.880 --> 00:31:23.200]  And then almost always, whoever the party that's incumbent and winning the general election loses the House, probably the Senate too.
+[00:31:24.400 --> 00:31:25.759]  Raspusson shows that trending.
+[00:31:25.840 --> 00:31:32.160]  It's bounced back some, but he really took bucking the trend and flushed it with whether he came up with that or whoever gave him the advice.
+[00:31:32.480 --> 00:31:37.599]  Looking at all this, how could Trump extricate himself from this or what do you see happening?
+[00:31:39.440 --> 00:31:42.240]  What kind of confuses me is you went out and did a press conference.
+[00:31:42.559 --> 00:31:52.880]  Again, if you don't capitalize on that, if you don't go, he campaigned on lock her up with Hillary Clinton and then sort of relented when he went in the first term and said, we're not going to go after Hillary and that's the wrong thing to do.
+[00:31:53.200 --> 00:31:56.000]  We saw the exact opposite thing happen when Biden got into office, right?
+[00:31:56.160 --> 00:31:59.200]  He went after Donald Trump and knew that that would be his political rival.
+[00:31:59.440 --> 00:32:01.440]  So they made that the real problem.
+[00:32:02.400 --> 00:32:19.119]  I'm really curious how Tulsi Gabbard was able to find this stuff in six months in being in office when the previous DNI, the last guy that held that job, is now in charge of the CIA and they didn't go looking for it or find it in 2020.
+[00:32:19.680 --> 00:32:21.200]  I don't know why that would why would that be?
+[00:32:21.599 --> 00:32:29.039]  How did it happen that our previous director of national intelligence didn't go looking for this stuff and why is it available now?
+[00:32:29.279 --> 00:32:33.440]  Is it a focus Thing there needs to be some, there needs to be some explanations.
+[00:32:33.759 --> 00:32:42.400]  You know, you can't make the allegation that the previous administration because people are acting like Donald Trump wasn't president from 2017 to 2020.
+[00:32:43.119 --> 00:32:47.119]  I don't know why they're acting like that, but those of us who live through it remember he was there.
+[00:32:47.440 --> 00:32:48.240]  He didn't get it right.
+[00:32:48.319 --> 00:32:49.200]  So, what is he getting right?
+[00:32:49.599 --> 00:32:50.960]  Is he de-weaponizing this animal?
+[00:32:51.279 --> 00:32:51.839]  Is he fixing it?
+[00:32:52.000 --> 00:32:55.920]  I see guys like Ed Martin talking about it, and he's at a much lower level at DOJ.
+[00:32:56.079 --> 00:33:03.359]  There are a couple of people that are mouthing the right things, but if you're going to de-weaponize this intelligence agencies, then you got to start by splitting them.
+[00:33:03.440 --> 00:33:13.200]  So, if he wants a big win, he should be investigating who are the bad actors within these agencies, not the big names, the people that are mechanically making it happen.
+[00:33:13.519 --> 00:33:19.119]  And then he also needs to take the Intel component completely away from the FBI so that they can't come after us again.
+[00:33:19.440 --> 00:33:24.799]  Because at the end of the day, guys like you and me, we're most concerned that the FBI is going to come knock down our door.
+[00:33:24.960 --> 00:33:25.759]  It's not that the NFA.
+[00:33:26.000 --> 00:33:26.960]  What Intel promised to do.
+[00:33:27.039 --> 00:33:29.279]  He didn't say close the FBI headquarters.
+[00:33:29.599 --> 00:33:32.400]  He said get rid of the intelligence component.
+[00:33:32.720 --> 00:33:34.880]  He said, I want to break out the Intel component.
+[00:33:35.039 --> 00:33:38.880]  And the advice that I gave him personally was go give it back to ODNI.
+[00:33:39.200 --> 00:33:40.960]  Give it back to the director of national intelligence.
+[00:33:41.039 --> 00:33:44.319]  Let them run Intel and not be underneath the FBI's payroll.
+[00:33:44.480 --> 00:33:47.839]  And more importantly, don't let them share Intel in the same way.
+[00:33:48.079 --> 00:33:56.799]  Look, the threats that the FBI is constantly warding, they're constantly over, like they hype every single time that they have a win.
+[00:33:57.119 --> 00:33:58.559]  And those wins aren't that big, Alex.
+[00:33:58.640 --> 00:34:00.160]  The one in New York is the one we could talk about in a minute.
+[00:34:00.319 --> 00:34:01.359]  We'll talk about that in a moment.
+[00:34:02.160 --> 00:34:05.200]  So bottom line, what do you need to get rid of this intel?
+[00:34:05.279 --> 00:34:06.000]  That's what's going to kill us.
+[00:34:06.079 --> 00:34:16.159]  It's people having unauthorized, unconstitutional access to our private information, whether you be the president of the United States or whether you be an individual guy or you'd be a podcaster or a TV person.
+[00:34:16.320 --> 00:34:17.199]  It doesn't make a difference.
+[00:34:18.559 --> 00:34:23.280]  We should have a bill of rights that actually means something to law enforcement and they shouldn't have an end around using intelligence.
+[00:34:23.440 --> 00:34:25.519]  It's not the Fourth Amendment, but instead of AI, it's getting worse.
+[00:34:26.079 --> 00:34:29.760]  So your prediction for the Trump administration on the current trajectory?
+[00:34:30.719 --> 00:34:33.119]  I think they probably do lose it unless something dramatic happens.
+[00:34:33.199 --> 00:34:38.400]  Look, if they slap cuffs on Obama and they actually go out there and they have a solid case, like, yeah, people are going to be thrilled.
+[00:34:38.719 --> 00:34:42.079]  You're going to get a bunch of people that are saying, well, you said something and you followed through.
+[00:34:42.320 --> 00:34:43.920]  But what we haven't seen is that follow through.
+[00:34:44.239 --> 00:34:47.119]  So I don't like to predict the future because I don't know what cards they're holding.
+[00:34:47.199 --> 00:34:51.760]  But what I've watched them do in the last six months is over promise and under deliver.
+[00:34:51.840 --> 00:34:52.880]  They need to switch those around.
+[00:34:53.119 --> 00:34:57.679]  They need to change up their business model so that they are under promising and delivering way more than people expect.
+[00:34:58.000 --> 00:35:00.960]  And then they can also get some wins on, you know, the financial situation.
+[00:35:01.119 --> 00:35:03.199]  Like, you know, gas is more expensive here in Texas.
+[00:35:03.280 --> 00:35:04.079]  Again, it went down.
+[00:35:04.159 --> 00:35:04.880]  It's gone back up.
+[00:35:05.039 --> 00:35:07.760]  There's some transient costs that are still continue to go up.
+[00:35:08.000 --> 00:35:10.079]  Housing is totally unaffordable right now.
+[00:35:10.400 --> 00:35:16.559]  My cousin sent me a graph from Zero Hedge that showed that now new housing is actually cheaper than existing housing.
+[00:35:16.639 --> 00:35:18.480]  So people who live in houses can't turn and sell them.
+[00:35:18.639 --> 00:35:20.800]  It's actually cheaper to buy a brand new house that they're building.
+[00:35:20.960 --> 00:35:21.920]  None of that makes any sense.
+[00:35:22.000 --> 00:35:24.159]  So we've got some real problems in like affordability.
+[00:35:24.480 --> 00:35:30.719]  If you want to deliver what you said, the quote unquote golden era, you shouldn't be doing it with memes and eagles that are throwing dollar bills on people.
+[00:35:30.880 --> 00:35:39.360]  You should go out there and let people go and realize, hey, I have more money than I had last month or the month before, or as we move into midterms in a year.
+[00:35:39.679 --> 00:35:42.320]  They should be looking around and saying, yeah, I'm financially in better shape.
+[00:35:42.480 --> 00:35:44.800]  I can afford housing that I couldn't afford before, blah, blah, blah.
+[00:35:44.880 --> 00:35:46.559]  Like real wins that people can feel.
+[00:35:46.800 --> 00:35:48.079]  Otherwise, you're just doing messaging.
+[00:35:48.239 --> 00:35:49.199]  Messaging doesn't win.
+[00:35:49.360 --> 00:35:49.760]  I don't think.
+[00:35:49.840 --> 00:35:52.880]  I don't think it lasts long enough because people can still look at their bank accounts.
+[00:35:53.199 --> 00:35:58.320]  What do you think the Democrats and the real deep say are going to do if they're able to win the House and Senate?
+[00:35:58.559 --> 00:36:03.440]  And then if they got back in power in three and a half years, I mean, they've said they're coming after everybody.
+[00:36:04.079 --> 00:36:05.519]  I mean, I have no reason to doubt them.
+[00:36:05.599 --> 00:36:06.719]  I already saw what they did the first time.
+[00:36:06.800 --> 00:36:11.519]  They broke, like I said, they broke panes of glass that should have been protecting us from a lot of evil out there.
+[00:36:12.000 --> 00:36:14.320]  We had a near assassination on Donald Trump.
+[00:36:14.480 --> 00:36:15.760]  You know, that was a hit.
+[00:36:15.920 --> 00:36:16.800]  He got hit in the head.
+[00:36:17.280 --> 00:36:26.159]  That was probably a millimeter or two away from one of the scariest situations, which is that we live in a country where if you don't like somebody and you don't like their politics, that you go kill them.
+[00:36:26.480 --> 00:36:28.639]  And that was really, really close to being the reality of it.
+[00:36:28.719 --> 00:36:29.760]  Now, somebody attempted it.
+[00:36:29.920 --> 00:36:36.400]  The fact that they didn't, by the grace of God only, we didn't fall into whatever that black hole is because we've done all the other Banana Republic stuff.
+[00:36:36.719 --> 00:36:38.400]  You know, we've arrested political leaders.
+[00:36:38.639 --> 00:36:41.679]  We've had politicization of our Justice Department.
+[00:36:41.920 --> 00:36:48.239]  We've decided that we're going to go after people for religion, which is expressly forbidden in our Bill of Rights.
+[00:36:48.320 --> 00:36:51.360]  Like this is like fundamental American freedoms have been trod upon.
+[00:36:51.440 --> 00:36:52.880]  And I wouldn't think anything else.
+[00:36:53.199 --> 00:36:56.800]  I think that whenever the Democrats are playing, they play to win.
+[00:36:56.880 --> 00:37:00.639]  And you can at least respect them for always pushing, even when it's against their own interest.
+[00:37:00.880 --> 00:37:03.039]  They keep pushing because they're progressives.
+[00:37:03.119 --> 00:37:04.400]  They do progressive work.
+[00:37:04.720 --> 00:37:07.280]  It seems like Republicans just like to lose more slowly.
+[00:37:07.519 --> 00:37:10.880]  So Donald Trump is more of a brake pedal or a speed bump than he is a U-turn.
+[00:37:11.280 --> 00:37:12.720]  And I don't see the U-turn.
+[00:37:13.039 --> 00:37:14.000]  I'd like to see the U-turn.
+[00:37:14.159 --> 00:37:17.519]  That would make me very happy because I've got little kids that are going to go out into this world.
+[00:37:17.679 --> 00:37:21.440]  And it doesn't look like I'm giving them the same sort of, you know, life that I grew up with.
+[00:37:21.679 --> 00:37:23.199]  Paul Hogan just passed today.
+[00:37:23.440 --> 00:37:36.320]  And I grew up watching American heroes do kind of wild things, like ultimately American things, like big muscly guys doing entertainment and telling you good messages, like say your prayers and take your vitamins and work out and be a good person and be a good neighbor.
+[00:37:36.480 --> 00:37:38.559]  And like, that's not the messaging that kids are getting right now.
+[00:37:38.880 --> 00:37:43.440]  So I would love to see us return to something where we thought we were talking about your parents are evil.
+[00:37:43.599 --> 00:37:44.880]  America's horrible.
+[00:37:45.199 --> 00:37:45.440]  Right.
+[00:37:46.400 --> 00:37:46.480]  Yeah.
+[00:37:46.639 --> 00:37:48.639]  This is one of the first generations where they're actually seeing that.
+[00:37:48.800 --> 00:37:51.519]  What's crazy is that Gen Z is starting to see through some of this as well.
+[00:37:51.760 --> 00:37:53.920]  I saw a poll today from my friends over at Catholic Vote.
+[00:37:54.000 --> 00:37:56.639]  They do a news newsletter in the mornings.
+[00:37:56.800 --> 00:38:05.760]  It said one in four Gen Z, whatever, whatever, Gen Zers are dissatisfied with the fact that they went to college, that they bought into this thing.
+[00:38:05.920 --> 00:38:08.000]  And so you're seeing kind of a swing back towards trades.
+[00:38:08.079 --> 00:38:13.840]  I think people are seeing a swing back towards, you know, rationality because not everybody needs to go to college.
+[00:38:14.000 --> 00:38:16.239]  A lot of people went to college and found that it wasn't useful to them.
+[00:38:16.320 --> 00:38:19.039]  And Gen Zers are seeing it really quick as they go into the job market.
+[00:38:19.360 --> 00:38:21.840]  So, you know, there's got to be some kind of a correction.
+[00:38:22.159 --> 00:38:24.000]  And hopefully it's a correction about rationality.
+[00:38:24.239 --> 00:38:34.159]  My hope is, is that young people are not getting irritated with Donald Trump because Donald Trump is too conservative for him, for them, probably him, if we're being honest.
+[00:38:34.239 --> 00:38:35.280]  It's probably young men.
+[00:38:35.599 --> 00:38:37.599]  I hope that they're like, he's not conservative enough.
+[00:38:38.000 --> 00:38:40.400]  No, it's because I can tell you, it's because he's not hardcore enough.
+[00:38:40.559 --> 00:38:41.280]  I don't need to see polls.
+[00:38:41.840 --> 00:38:42.480]  That's what it ought to be.
+[00:38:42.639 --> 00:38:43.679]  It says he's not hardcore enough.
+[00:38:44.079 --> 00:38:52.000]  So looking at this in this current case, New York man charged for making, attempting to use improvised explosive devices in Manhattan.
+[00:38:52.639 --> 00:38:54.239]  And here's the charging document you just said.
+[00:38:54.400 --> 00:38:57.039]  This just came out in the last 10 minutes.
+[00:38:57.360 --> 00:39:02.320]  And then we've also got reports that he was trying to use AI to do it.
+[00:39:02.639 --> 00:39:04.000]  So what's really going on with this case?
+[00:39:04.239 --> 00:39:06.000]  Yeah, it's a real buzzy headline.
+[00:39:06.159 --> 00:39:11.599]  So, at the end of the day, Alex, what we're looking at is that the FBI director shared this on his social media.
+[00:39:11.760 --> 00:39:17.039]  The FBI touts every single what we'll call counterterrorism win, and they want to make it sound as good as possible.
+[00:39:17.360 --> 00:39:18.159]  So, what's the threat?
+[00:39:18.400 --> 00:39:20.239]  AI is one of them that he used AI.
+[00:39:20.400 --> 00:39:27.280]  Essentially, what he did is he went into Google and he just typed into Google and Google spits out an answer using some sort of, you know, AI or chat GPT.
+[00:39:27.360 --> 00:39:28.239]  How do I make a bomb?
+[00:39:28.480 --> 00:39:31.519]  How can I mix the right chemicals to create flash powder and so on and so forth?
+[00:39:31.599 --> 00:39:32.239]  So, that's what he did.
+[00:39:32.400 --> 00:39:34.239]  It was really not sophisticated at all.
+[00:39:34.400 --> 00:39:37.840]  And any monkey who has a keyboard and a screen could have done it, but it sounds good.
+[00:39:38.000 --> 00:39:38.639]  So, they did that.
+[00:39:38.800 --> 00:39:46.320]  The second thing is what he actually produced, which was like seven improvised explosive device, which were essentially glorified fireworks.
+[00:39:46.400 --> 00:39:48.400]  And they weren't even that powerful for fireworks.
+[00:39:48.639 --> 00:39:55.039]  The most powerful firework that he created was a 30-gram explosive device, 30 grams of powder in it.
+[00:39:55.280 --> 00:39:56.320]  And I've actually seen videos.
+[00:39:56.480 --> 00:39:56.960]  You can go out there.
+[00:39:57.199 --> 00:39:59.679]  People can look on YouTube right now and find them.
+[00:39:59.920 --> 00:40:07.360]  And people will try to blow up a tree and it won't even blow off a tree limb, let alone the entire tree with a 30-gram gunpowder explosive.
+[00:40:07.519 --> 00:40:12.079]  So you've got this sort of goofy scenario where they're hawking this great win.
+[00:40:12.239 --> 00:40:13.920]  This guy had improvised explosives.
+[00:40:14.159 --> 00:40:24.159]  The best part of it for me is if you read far enough down into the complaint and you read what happened, the guy called somebody on a tape line and told them what he was going to do.
+[00:40:24.480 --> 00:40:27.119]  He told some other witness, like, we got problems in our neighborhood.
+[00:40:27.199 --> 00:40:28.639]  Look, there's a Jewish school over there.
+[00:40:28.800 --> 00:40:35.840]  So you get to get an anti, you know, hate speech type statistical accomplishment that they're going to claim.
+[00:40:36.159 --> 00:40:40.320]  And then the last thing is he blew up one of these fireworks, told his friend, oh, that was really scary.
+[00:40:40.480 --> 00:40:41.599]  I'm going to go get rid of them.
+[00:40:41.840 --> 00:40:46.480]  He tried to throw two of them off the bridge, but one ended up getting locked on the tracks of a train.
+[00:40:46.800 --> 00:40:50.079]  And then the other ones, he was actually arrested while he was en route to the fire department.
+[00:40:50.400 --> 00:40:51.360]  So is this just a dummy?
+[00:40:51.519 --> 00:40:53.360]  Is this a real attention seeker or could this be a female?
+[00:40:53.599 --> 00:40:54.159]  It's a dummy.
+[00:40:54.320 --> 00:40:54.400]  Yeah.
+[00:40:54.559 --> 00:41:01.679]  He's a guy who's in his 50s who, you know, they cited two posts he made on social media that were five weeks apart, Alex.
+[00:41:01.760 --> 00:41:04.800]  One of them said, play like there's no tomorrow, whatever the hell that means.
+[00:41:05.119 --> 00:41:10.000]  And the other one said, you know, Donald Trump, you should have built a wall, but now we got all these people here, which is objectively true.
+[00:41:10.079 --> 00:41:12.320]  You got a lot of people that are that are illegally in New York.
+[00:41:12.639 --> 00:41:14.800]  So it's acting like it's a big win.
+[00:41:14.960 --> 00:41:22.159]  But if that's the biggest win they have, you know, the FBI doesn't actually go and interrupt major counterterrorism things all the time because that's what they're out there touting.
+[00:41:22.320 --> 00:41:23.199]  It's not impressive.
+[00:41:26.559 --> 00:41:28.000]  So looking at this.
+[00:41:30.400 --> 00:41:35.679]  And going back to Crossfire Hurricane, that clip we played coming in the segment of Trump saying, oh, something really big's coming.
+[00:41:36.000 --> 00:41:38.800]  My takeaway is he keeps begging Bonnie to indict somebody.
+[00:41:38.960 --> 00:41:40.079]  He keeps begging Cash Patel.
+[00:41:40.159 --> 00:41:40.880]  He keeps begging.
+[00:41:41.599 --> 00:41:46.400]  And then at least Tulsi will release a bunch of hardcore stuff that, as you said, Ratcliffe wouldn't do before.
+[00:41:46.719 --> 00:41:50.000]  And so he's pleading with them to do their jobs.
+[00:41:50.960 --> 00:42:00.880]  He actually, so there was a lot of chatter coming down from DOJ, folks that I've been talking to that said that there was this desperate urge, give us someone that we can indict so we can change the news cycle up.
+[00:42:00.960 --> 00:42:02.079]  Like we need to win.
+[00:42:02.400 --> 00:42:03.440]  What have you got?
+[00:42:03.760 --> 00:42:05.199]  And this is the argument.
+[00:42:05.360 --> 00:42:05.519]  Okay.
+[00:42:05.599 --> 00:42:08.719]  So Crossfire Hurricane is weaponization of intelligence.
+[00:42:08.800 --> 00:42:12.960]  It's raw intelligence used against a political campaign and then eventually the sitting president.
+[00:42:13.199 --> 00:42:18.639]  So that lets you know that things are completely off the rails when it comes to what people should be doing with these tools.
+[00:42:18.960 --> 00:42:32.239]  This story in New York is evidence that even with all of the crazy collection that they can do and querying directly of the NSA's database through FISA 702, the software is called the data warehouse system, DWS.
+[00:42:32.559 --> 00:42:35.760]  And so they can query directly into places that they should not be able to do.
+[00:42:36.000 --> 00:42:37.360]  They could look into it without a warrant.
+[00:42:37.599 --> 00:42:48.239]  And the best win that they have in the counterterrorism space, which is what the FBI tells you, they're out there protecting America and keeping New York City from going boom is some guy was a firework.
+[00:42:48.400 --> 00:42:50.639]  It was a freaking firework that was 30 grams.
+[00:42:50.960 --> 00:42:52.800]  You can get bigger fireworks here in Texas.
+[00:42:53.039 --> 00:42:56.320]  You can get it probably right now down the street from you in Austin.
+[00:42:56.639 --> 00:42:58.480]  So that's not that impressive.
+[00:42:58.639 --> 00:43:02.000]  And that should actually be the evidence that the FBI director needs.
+[00:43:02.079 --> 00:43:09.519]  It should be the evidence that Donald Trump pushes down and says, look, if this is the scariest thing that you guys can find with all the tools you have, maybe you don't need these tools.
+[00:43:09.840 --> 00:43:15.760]  Maybe we take this stuff away so they don't use it on me whenever I'm out of office because they used it previously.
+[00:43:16.079 --> 00:43:19.199]  And then I'm going to say, the TSA said everybody can take their shoes off.
+[00:43:19.360 --> 00:43:22.320]  We're just going to biometrics and AI total control.
+[00:43:23.519 --> 00:43:26.880]  Yeah, I actually saw a really horrific DHS video put out the other day.
+[00:43:27.039 --> 00:43:31.679]  It was some lady in sexy shoes walking around and dancing because she doesn't have to take her shoes off.
+[00:43:31.840 --> 00:43:34.559]  It's like, look, we had to take our shoes off for a quarter of a century.
+[00:43:34.880 --> 00:43:35.920]  The terrorists won.
+[00:43:36.159 --> 00:43:37.519]  They made us inconvenience.
+[00:43:37.599 --> 00:43:41.039]  They made us not be able to see our loved ones come off the jetway when they come off a plane.
+[00:43:41.199 --> 00:43:42.559]  I mean, I remember it and you remember it.
+[00:43:42.720 --> 00:43:45.440]  You used to be able to walk off the plane and hug the people that you were waiting to see.
+[00:43:45.679 --> 00:43:46.559]  You can't do that anymore.
+[00:43:46.720 --> 00:43:47.840]  Now there's the secured area.
+[00:43:48.159 --> 00:43:52.159]  And if anyone's ever done this and seen the audits, TSA fails all the audits.
+[00:43:52.239 --> 00:43:56.079]  They fail at like a 90 plus percent rate to the point where they won't put those out anymore.
+[00:43:56.400 --> 00:43:57.280]  And now what are they going to do?
+[00:43:57.360 --> 00:44:02.720]  They're going to give you more sophisticated tools that somebody's not going to be able to use, but they're going to grab all your biometrics.
+[00:44:02.800 --> 00:44:04.800]  They're going to be able to stand, you know, put those in a database.
+[00:44:05.039 --> 00:44:08.639]  And it becomes an internal checkpoint for the social credit score like China has.
+[00:44:08.960 --> 00:44:09.679]  That's exactly it.
+[00:44:09.840 --> 00:44:10.159]  You know what?
+[00:44:10.320 --> 00:44:13.119]  And it's a perfect thing because most people don't opt out.
+[00:44:13.360 --> 00:44:23.360]  I'm one of the few guys, Alex, every single time I go into the airport, I tell them I'm not, I must have the face that says it because they actually guess it about me now, but I have a face that says I'm not going to submit to an extra photograph for no reason.
+[00:44:23.679 --> 00:44:26.079]  And then you even turn slides.
+[00:44:26.720 --> 00:44:31.199]  I flew out a couple of weeks ago and I walk up and I go, I'm not doing this.
+[00:44:31.360 --> 00:44:32.480]  You don't have to.
+[00:44:33.039 --> 00:44:34.559]  And it's not the law.
+[00:44:34.880 --> 00:44:36.720]  And then after the guy goes, hey, like your show.
+[00:44:37.039 --> 00:44:38.960]  And then the woman behind me goes, I opted out.
+[00:44:39.280 --> 00:44:40.000]  I forgot to do it.
+[00:44:40.239 --> 00:44:41.039]  By the way, I love your show.
+[00:44:41.280 --> 00:44:46.800]  So it does show how people are awake, even the TSA person, the one behind me, but people aren't saying no.
+[00:44:47.440 --> 00:44:50.720]  No, people don't say no because honest to God, it's the same thing we saw during COVID.
+[00:44:50.800 --> 00:44:51.920]  It's just basic compliance.
+[00:44:52.159 --> 00:44:57.519]  Somebody from a government, somebody wearing the right uniform or with a little shiny piece of plastic or metal told me to do something.
+[00:44:57.679 --> 00:44:58.480]  So I go do it.
+[00:44:58.720 --> 00:44:59.519]  It doesn't mean you should.
+[00:44:59.599 --> 00:45:02.800]  I mean, that's the thing we need to demand of our citizenry is that be citizens.
+[00:45:02.960 --> 00:45:04.079]  Don't be subjects.
+[00:45:04.239 --> 00:45:04.880]  You have rights.
+[00:45:05.039 --> 00:45:05.920]  You should know what they are.
+[00:45:06.159 --> 00:45:08.000]  If you don't, someone's going to trod on them.
+[00:45:08.159 --> 00:45:09.280]  And they always, they already have.
+[00:45:09.679 --> 00:45:10.960]  They've trod on a bunch of them.
+[00:45:11.280 --> 00:45:16.320]  So the more that we can share the information, obviously your, your, you know, Infowars is very well named.
+[00:45:16.639 --> 00:45:23.440]  The, the information war oftentimes is just getting people information so they stand up for their own rights because half the time they just roll over and they do what they're told.
+[00:45:23.760 --> 00:45:24.559]  They don't need to do that.
+[00:45:24.880 --> 00:45:25.679]  You don't need to have your picture.
+[00:45:25.920 --> 00:45:27.920]  What is your report card of good Trump's doing?
+[00:45:28.000 --> 00:45:30.159]  You know, they're pulling out the WHO regulations.
+[00:45:30.639 --> 00:45:31.920]  They have pretty much secured the border.
+[00:45:32.000 --> 00:45:33.440]  They're trying to ramp up border enforcement.
+[00:45:33.840 --> 00:45:36.480]  A lot of the super right-wingers say, oh, it's not as good as under Obama.
+[00:45:36.559 --> 00:45:37.679]  Well, because they dismantled it.
+[00:45:38.000 --> 00:45:39.920]  I mean, what are the good things Trump's doing?
+[00:45:40.800 --> 00:45:44.559]  The best thing, I think, is that he's got some smart people in there that you're not hearing anything about.
+[00:45:44.719 --> 00:45:47.360]  Like, go look at the Department of Energy that's starting to get stuff done.
+[00:45:47.760 --> 00:45:56.320]  You've got Chris Wright, who went in there and uncovered, I think it was like $90 billion worth of fraudulent movement of money in the last $2 billion.
+[00:45:57.280 --> 00:45:58.400]  Some crazy amount of money.
+[00:45:58.480 --> 00:46:01.679]  You've got smart people that understand those systems that actually work in that industry.
+[00:46:01.840 --> 00:46:08.159]  And generally speaking, I've had people say that when Wright, Secretary Wright's actually sitting and testifying, he's the smartest guy in the room on the topic.
+[00:46:08.480 --> 00:46:13.280]  No, I was about to say one of the big wins is cutting the straight up fraudulent funding.
+[00:46:13.599 --> 00:46:13.920]  Yeah.
+[00:46:14.400 --> 00:46:19.840]  And look, the USAID thing, the fact that they even identified this to people and people started realizing what it was.
+[00:46:20.000 --> 00:46:23.519]  I had a discussion and I've gotten a lot of favorable comments from folks that watch my program.
+[00:46:23.760 --> 00:46:34.719]  I had a Tanzanian priest come in and beg for money for Wells and sponsoring some of their seminarians in a country that has 68 million people that nobody I've ever met has ever been to.
+[00:46:35.039 --> 00:46:38.880]  And we give $680 million a year in non-military funding there.
+[00:46:39.039 --> 00:46:43.599]  And the total amount of money the United States contributes through all the NGOs and everything else is like $2.8 billion.
+[00:46:44.079 --> 00:46:48.960]  We give $2.8 billion a year to Tanzania, which does nothing for us.
+[00:46:49.280 --> 00:46:54.480]  And meanwhile, we've got homeless vets down the street from you and I that are dying, that are overdosing, that have nowhere to live.
+[00:46:54.719 --> 00:46:59.440]  So we can't take care of Americans, but we're willing to give money to wells that don't function a year later.
+[00:46:59.599 --> 00:47:13.360]  So I think bringing awareness to just, we all knew how bad it was in our own sense because you hear about the crazy things that they fund, but the sheer volume of it and then how that money actually goes back and benefits people that are corrupt, that's been a great opening eye point.
+[00:47:13.519 --> 00:47:15.360]  But again, opening eyes is part one.
+[00:47:15.599 --> 00:47:20.800]  Then stopping it and cutting it and getting it done and then actually pulling it out of our budget for the future would be nice.
+[00:47:21.199 --> 00:47:21.280]  Sure.
+[00:47:23.360 --> 00:47:23.679]  I agree.
+[00:47:24.000 --> 00:47:24.400]  Go ahead.
+[00:47:24.639 --> 00:47:30.239]  In closing, from your sources, your research, what happened with Musk?
+[00:47:30.400 --> 00:47:34.320]  Because people are, you know, like, oh, we choose Trump over Musk or whatever.
+[00:47:34.480 --> 00:47:34.880]  Most people.
+[00:47:35.199 --> 00:47:38.559]  To me, I didn't see that as a choosing a beauty pageant or something.
+[00:47:38.880 --> 00:47:40.880]  I think Doge was very popular.
+[00:47:41.039 --> 00:47:43.039]  I think Musk was doing a good job overall.
+[00:47:43.679 --> 00:47:54.079]  And, you know, I mean, after he took over X, Twitter, all that, I'm just really upset about the Mustang because I think he was a good asset for Trump and America.
+[00:47:54.400 --> 00:47:54.880]  I agree.
+[00:47:55.039 --> 00:47:58.960]  I think that I think Musk is a do guy.
+[00:47:59.119 --> 00:48:02.880]  He goes out there and he accomplishes things sometimes at a net loss until he's able to do it.
+[00:48:02.960 --> 00:48:03.760]  Then they streamline.
+[00:48:03.920 --> 00:48:05.280]  They do things that nobody else is doing.
+[00:48:05.440 --> 00:48:07.119]  Again, they're landing rockets on their butts, right?
+[00:48:07.199 --> 00:48:09.280]  And they're flying them in and catching them with chopsticks.
+[00:48:09.519 --> 00:48:16.159]  So that's pretty wild to try to apply that to government where everything is a compromise and everybody is trying to get something out of it.
+[00:48:16.480 --> 00:48:18.880]  You know, that's probably the most frustrating place he could be.
+[00:48:18.960 --> 00:48:21.840]  I think he left because he wasn't going to be effective at the thing that he promised.
+[00:48:22.079 --> 00:48:24.159]  I don't think he likes being unsuccessful at stuff.
+[00:48:24.320 --> 00:48:31.840]  I think Elon Musk, from where, you know, when he puts his mind to it, he gets stuff done, whether or not it makes sense for everybody right up front, whether or not it's profitable up front.
+[00:48:32.320 --> 00:48:36.559]  And, you know, why would you stick around if you knew that, hey, here's all the ways, here's what we should do.
+[00:48:36.880 --> 00:48:41.440]  And there's no mechanism and there's no willingness to go and accomplish the things that you said.
+[00:48:41.679 --> 00:48:43.840]  You're just going to be someone who's promising something you can't do.
+[00:48:44.000 --> 00:48:50.400]  You know, unlike the sort of F-Team situation where they overpromised and under deliver, I think he overpromised, saw they weren't going to deliver it.
+[00:48:50.480 --> 00:48:51.519]  He just said, okay, well, that's it.
+[00:48:51.599 --> 00:48:52.000]  I'm done.
+[00:48:52.239 --> 00:48:55.679]  If you're not going to let me be successful, why would you stick around?
+[00:48:56.000 --> 00:48:58.639]  And I don't hate that at all, but I don't think it's an either or thing.
+[00:48:58.880 --> 00:49:00.400]  You know, Elon Musk has done great things.
+[00:49:00.559 --> 00:49:04.159]  It's just in the Seraphin house, the fact that they went out and fought this free speech case.
+[00:49:04.480 --> 00:49:05.280]  I think that's critical.
+[00:49:05.360 --> 00:49:06.000]  That's one of our plans.
+[00:49:06.320 --> 00:49:07.599]  He tried to check my social media.
+[00:49:07.679 --> 00:49:08.719]  He should have, for me in court.
+[00:49:08.880 --> 00:49:10.079]  Didn't even ask him.
+[00:49:10.400 --> 00:49:10.719]  Yeah.
+[00:49:10.960 --> 00:49:13.280]  And look, all of that is the right answer.
+[00:49:13.440 --> 00:49:16.480]  So I think at the end of the day, Elon Musk, he's not religious in the same way I am.
+[00:49:16.559 --> 00:49:18.239]  I'm sure we have a lot of things that we would disagree on.
+[00:49:18.320 --> 00:49:19.119]  I've never met the guy.
+[00:49:19.360 --> 00:49:23.599]  So I have no reason to feel one way or another other than he does seem to align with certain principles.
+[00:49:23.760 --> 00:49:24.400]  I'm down with that.
+[00:49:24.559 --> 00:49:25.760]  Trump has his own sort of thing.
+[00:49:25.920 --> 00:49:28.239]  Trump has become more and more political, whether people like it or not.
+[00:49:28.320 --> 00:49:29.199]  He's a politician now.
+[00:49:29.440 --> 00:49:32.800]  He has to work in a space where there's compromises.
+[00:49:33.039 --> 00:49:35.280]  You know, he went out and put the big, beautiful bill out.
+[00:49:35.360 --> 00:49:42.960]  But if you remember, the entire reason that Mike Johnson is the speaker in the House is because they were going to do single-subject appropriations bills.
+[00:49:43.199 --> 00:49:47.280]  If you want to see the single biggest thing that would turn it for me, do single-subject appropriate.
+[00:49:47.599 --> 00:49:48.639]  It should all be very short.
+[00:49:49.280 --> 00:49:50.400]  No more omnibus bills.
+[00:49:50.480 --> 00:49:50.720]  I agree.
+[00:49:50.960 --> 00:49:51.519]  Kyle Seraphin.
+[00:49:52.239 --> 00:49:52.800]  But they're not doing it.
+[00:49:53.199 --> 00:50:00.720]  Everybody can find you at thekyle serifinshow.locals.com at Kyle Seraphin on X, KyleSeraphinShow.com, Rumble.com, Kyle Seraphin.
+[00:50:00.960 --> 00:50:02.480]  Kyle, thank you so much for joining us.
+[00:50:02.559 --> 00:50:03.199]  Great analysis.
+[00:50:03.280 --> 00:50:04.880]  You've been dead on about the Trump stuff.
+[00:50:05.519 --> 00:50:06.720]  Thanks for having me on, Alex.
+[00:50:06.880 --> 00:50:07.280]  Thank you.
+[00:50:07.440 --> 00:50:08.880]  Look, I need Trump to succeed.
+[00:50:08.960 --> 00:50:16.159]  Overall, he's doing a great job in many areas, but PR-wise, they've now made this Epstein thing a big distraction.
+[00:50:16.480 --> 00:50:17.280]  And I agree with Kyle.
+[00:50:17.360 --> 00:50:18.720]  I don't think there's anything real there.
+[00:50:19.039 --> 00:50:20.000]  They would have already used it.
+[00:50:20.320 --> 00:50:24.320]  And I just say release it all and burn down the deep state.
+[00:50:24.480 --> 00:50:27.760]  But I wouldn't hold your breath because there's institutions trying to defend themselves.
+[00:50:28.079 --> 00:50:31.519]  Owen Schroyer is about to take over from the war room 3 to 6 p.m.
+[00:50:31.760 --> 00:50:34.159]  You'll find his feeds at Infowars.com forward slash show.
+[00:50:34.559 --> 00:50:42.239]  Refed, obviously, on the InfoWars feed and Alex Jones Network feed at Rilos Jones on X and Radio Stations, TV States across country.
+[00:50:42.720 --> 00:50:44.000]  I can't do this without you.
+[00:50:44.159 --> 00:50:54.960]  I didn't even get into the law firm headed up by Kamala Harris's husband coming in to take over the lawfare cases against us because they're losing.
+[00:50:55.519 --> 00:50:58.000]  We are truly David fighting Goliath.
+[00:50:58.559 --> 00:51:02.480]  I could have done a whole show on this, but I didn't even talk about it today because we had bigger fish to fry.
+[00:51:02.800 --> 00:51:04.639]  Just go get some great t-shirts and ball caps.
+[00:51:04.720 --> 00:51:05.920]  Just go get the best methylene blue.
+[00:51:06.000 --> 00:51:06.639]  You've heard the right reviews.
+[00:51:06.720 --> 00:51:07.679]  You're crazy if you don't get it.
+[00:51:07.840 --> 00:51:08.800]  Get our IRC Moss.
+[00:51:08.880 --> 00:51:09.360]  It's amazing.
+[00:51:09.599 --> 00:51:10.320]  Get the Shilogy.
+[00:51:10.400 --> 00:51:11.039]  It's game-changing.
+[00:51:11.360 --> 00:51:13.199]  We have a sale that ends Tuesday.
+[00:51:14.800 --> 00:51:16.079]  The bombshell sale.
+[00:51:16.960 --> 00:51:19.599]  A bottle of the very best Shilogy out there.
+[00:51:19.920 --> 00:51:21.440]  Are to discount and get a bottle free.
+[00:51:21.679 --> 00:51:23.519]  The amazing RC Moss Complex.
+[00:51:23.679 --> 00:51:24.720]  Get a bottle free.
+[00:51:25.039 --> 00:51:30.480]  And the capsules, vulcar methylene blue and the liquid tincture, very same product, medical grade.
+[00:51:30.720 --> 00:51:35.920]  Buy one, already discounted, get one free at the alexjonesstore.com.
+[00:51:36.079 --> 00:51:38.400]  We've sold out about 60% of the daggers.
+[00:51:38.639 --> 00:51:44.079]  This is the coolest dagger we've had yet, limited edition, engraved with 1776 and my signature.
+[00:51:44.400 --> 00:51:54.720]  Double-edge, stainless steel, highest quality, very hard combat rubber grip and a very high-tech sheet that clips in so it doesn't come out, clips on your belt buckle or your pants, and it goes in your purse, wherever.
+[00:51:54.960 --> 00:51:55.760]  It is amazing.
+[00:51:55.920 --> 00:51:57.199]  It will defend you and your family.
+[00:51:57.360 --> 00:52:01.199]  And when you purchase it, it defends the First Amendment and the important work we're doing here.
+[00:52:01.280 --> 00:52:07.440]  It comes in a beautiful collector's case that's selling out quickly at thealxjonstore.com.
+[00:52:07.519 --> 00:52:10.000]  I want to thank the great folks at Bigley for putting that dagger out.
+[00:52:10.079 --> 00:52:12.320]  I asked them about six, seven months ago to find the best.
+[00:52:12.400 --> 00:52:12.800]  I found that.
+[00:52:12.880 --> 00:52:13.360]  They got it.
+[00:52:13.679 --> 00:52:17.519]  And that dagger sells all day for $30 more than we sell it, but we bought so many of them.
+[00:52:17.599 --> 00:52:18.159]  We got a big discount.
+[00:52:18.239 --> 00:52:21.519]  So we can sell them for $70 something and still make a profit from this operation.
+[00:52:21.679 --> 00:52:25.039]  So it is a high-quality tactical dagger with scabbard and clip.
+[00:52:25.599 --> 00:52:31.039]  It is amazing and it is something everybody needs to get at thealexhonstore.com.
+[00:52:31.199 --> 00:52:38.239]  But regardless, you've heard the Red Reviews, Methylene Blue, Robert W. Kennedy Jr., all of it.
+[00:52:38.880 --> 00:52:40.320]  I got on it six years ago, off and on.
+[00:52:40.480 --> 00:52:41.280]  Didn't have much effect.
+[00:52:41.920 --> 00:52:43.039]  They said it was USP.
+[00:52:43.519 --> 00:52:44.000]  It wasn't.
+[00:52:44.079 --> 00:52:44.960]  I thought it wasn't selling.
+[00:52:45.039 --> 00:52:46.239]  You just said get in a USP grade.
+[00:52:46.639 --> 00:52:47.920]  We tried five or six different brands.
+[00:52:48.159 --> 00:52:49.119]  This is totally different.
+[00:52:49.280 --> 00:52:53.679]  Bigly did a great job finding a real medical grade group out of Florida that supplies it for medical systems.
+[00:52:53.760 --> 00:52:55.119]  You name it for other things that use it for.
+[00:52:55.440 --> 00:52:56.159]  It is incredible.
+[00:52:56.320 --> 00:52:57.199]  Cleans out your cells.
+[00:52:57.440 --> 00:52:59.920]  Gives you sustained clarity and focus energy without a letdown.
+[00:53:00.639 --> 00:53:03.599]  Thealexshowstore.com and become a VIP.
+[00:53:03.920 --> 00:53:06.559]  For $30 a month, you can cancel any time on your profile.
+[00:53:06.880 --> 00:53:08.639]  You get $40 to spend each month at the store.
+[00:53:08.800 --> 00:53:10.559]  Special deals, special offers, special sales.
+[00:53:10.880 --> 00:53:12.159]  Everything's discounted when you do that.
+[00:53:13.039 --> 00:53:14.079]  Everybody should be a VIP.
+[00:53:14.159 --> 00:53:15.599]  I want to thank those that are VIPs.
+[00:53:16.159 --> 00:53:18.719]  And any supplement you're worried is going to sell out, which happens routinely.
+[00:53:19.039 --> 00:53:23.440]  Become a subscriber, get a bigger discount, cancel any time, and have it held back for you every month, every two months.
+[00:53:23.519 --> 00:53:30.239]  You click how long by becoming a subscriber for auto ship at thealexhowstore.com.
+[00:53:30.400 --> 00:53:31.920]  Great job to the crew.
+[00:53:32.239 --> 00:53:33.280]  So much more coming today.
+[00:53:33.440 --> 00:53:35.840]  Be sure and watch InfoWars for special reports I'll file.
+[00:53:36.079 --> 00:53:36.639]  God bless you all.
+[00:53:36.719 --> 00:53:38.000]  Owen Schroyer takes over now.
+[00:53:38.320 --> 00:53:41.840]  Ladies and gentlemen, James O'Keefe was here in studio last week.
+[00:53:42.000 --> 00:53:48.719]  He was on the last hour, and I forgot to give him methylene blue until the last 30 minutes, but he was going on Owen.
+[00:53:48.800 --> 00:53:53.760]  So ask him on air, take it now, I'm not going to say what it does, and tell us honestly what your response is.
+[00:53:53.920 --> 00:53:55.760]  And it was quite frankly pretty amazing.
+[00:53:56.079 --> 00:54:00.960]  So the crew just reminded me that James O'Keefe has not tried methylene blue, or they asked me to ask him.
+[00:54:01.119 --> 00:54:03.679]  He has it, doesn't know what it is, but he's so nice and trusting.
+[00:54:03.760 --> 00:54:04.239]  He just took it.
+[00:54:04.400 --> 00:54:05.599]  It's actually cyanide, James.
+[00:54:05.760 --> 00:54:06.320]  No, no, no, seriously.
+[00:54:06.559 --> 00:54:07.199]  Trying to poison me.
+[00:54:07.440 --> 00:54:08.079]  Usually, I'm joking.
+[00:54:08.239 --> 00:54:08.960]  No, it's really good for you.
+[00:54:09.039 --> 00:54:09.920]  It takes 30 minutes to hit.
+[00:54:10.000 --> 00:54:15.679]  It's not a stimulant, but it creates mitochondrial function and skips the oxidative process two levels or three levels in the cells.
+[00:54:15.920 --> 00:54:16.960]  Usually takes 30 minutes to hit.
+[00:54:17.039 --> 00:54:18.000]  You're on Owen at four.
+[00:54:18.079 --> 00:54:19.840]  Just please, Owen, talk to Owen.
+[00:54:20.079 --> 00:54:21.920]  Ask if it hit you, what you felt.
+[00:54:22.079 --> 00:54:25.039]  And if you didn't, we're going to put it on air and you'll be the only guest that hasn't.
+[00:54:25.280 --> 00:54:26.960]  So slam the rest of your medicine.
+[00:54:27.199 --> 00:54:27.599]  Got it.
+[00:54:27.920 --> 00:54:29.519]  So you're asking what the meat blue is.
+[00:54:29.599 --> 00:54:31.920]  It is something for RMK Jr. pushes.
+[00:54:32.159 --> 00:54:37.119]  It's something I've known about for years, but we've got the best and it is amazing when it hits your body.
+[00:54:37.280 --> 00:54:37.440]  All right.
+[00:54:37.519 --> 00:54:38.159]  I'm looking forward to that.
+[00:54:38.320 --> 00:54:39.440]  Sometimes it hits it 15 minutes.
+[00:54:39.519 --> 00:54:40.639]  You got to let us know what you feel.
+[00:54:40.960 --> 00:54:43.039]  Wait, I've been drinking it for about 10 minutes, so we'll see.
+[00:54:43.199 --> 00:54:44.800]  Ah, you just started drinking about two minutes ago.
+[00:54:45.199 --> 00:54:46.079]  I finished the rest of it.
+[00:54:46.400 --> 00:54:47.840]  20 minutes late now.
+[00:54:48.079 --> 00:54:48.639]  I just took it.
+[00:54:48.800 --> 00:54:52.960]  I took a lot of it, and I would say it was the effect on me was light sensations.
+[00:54:53.199 --> 00:54:56.079]  It was increased light perception.
+[00:54:56.639 --> 00:54:57.440]  That's what happened to me.
+[00:54:57.599 --> 00:54:59.119]  Do you the pixels of the world around you?
+[00:54:59.360 --> 00:54:59.440]  Yeah.
+[00:55:00.159 --> 00:55:04.800]  Like enhancing my eyes when a light and I woke away.
+[00:55:04.960 --> 00:55:06.960]  It was just a bit of enhancement perception there.
+[00:55:07.280 --> 00:55:14.800]  But then after he talked about his eyesight getting clearer, I got reminded by the crew that I've had callers about this effect, and there's actually medical literature out there.
+[00:55:15.119 --> 00:55:16.400]  I've got glaucoma.
+[00:55:16.480 --> 00:55:18.960]  My vision has been crap for the last 20 years.
+[00:55:19.199 --> 00:55:19.920]  I'm sorry to hear that.
+[00:55:20.079 --> 00:55:20.800]  It's perfect now.
+[00:55:21.119 --> 00:55:21.360]  What?
+[00:55:21.599 --> 00:55:21.760]  Yeah.
+[00:55:22.000 --> 00:55:23.360]  How long have you been taking Mentaline Blue?
+[00:55:23.599 --> 00:55:25.840]  Five days after three days, perfect vision.
+[00:55:26.079 --> 00:55:26.480]  No kidding.
+[00:55:26.800 --> 00:55:31.840]  Depth perceptions back, and yeah, I don't have to hold my phone at my hip to read it.
+[00:55:32.000 --> 00:55:32.079]  What?
+[00:55:32.559 --> 00:55:33.199]  It's crazy.
+[00:55:33.519 --> 00:55:34.800]  Well, I'm really happy to hear that, man.
+[00:55:35.280 --> 00:55:39.119]  This stuff is crazy amazing, and the medical research shows that.
+[00:55:39.360 --> 00:55:43.920]  It clears the brain fog where you're actually able to focus more clearly.
+[00:55:44.159 --> 00:55:48.239]  For me, it's like a fog lifted, that it was like a veil lifted off, you know?
+[00:55:48.480 --> 00:55:48.960]  Incredible.
+[00:55:49.199 --> 00:55:51.119]  Best product that I've purchased so far.
+[00:55:51.360 --> 00:55:51.599]  Yeah!
+[00:55:54.800 --> 00:55:56.239]  I mean, it's so good, it's scary.
+[00:55:56.480 --> 00:55:57.199]  It's just amazing.
+[00:55:57.679 --> 00:55:59.280]  So yes, it really does work.
+[00:55:59.440 --> 00:56:01.440]  It varies person to person, but it's amazing.
+[00:56:01.760 --> 00:56:06.559]  About 15 minutes ago, I took 10 drops of the ultimate methylene glue.
+[00:56:06.800 --> 00:56:10.000]  I must say that it does a damn good job.
+[00:56:10.239 --> 00:56:15.199]  99% of people that take it have between moderate to just insanely good effects.
+[00:56:15.519 --> 00:56:16.960]  So good for your whole body.
+[00:56:17.199 --> 00:56:20.000]  Definitely noticed my focus, cognition increased.
+[00:56:20.239 --> 00:56:21.440]  Good energy right now.
+[00:56:21.760 --> 00:56:25.119]  I'm a practicing dentist, so I have more patience to treat coming up.
+[00:56:25.280 --> 00:56:29.280]  So I'm always looking for that afternoon boost without the slump.
+[00:56:29.519 --> 00:56:32.239]  With this, it's like in your head where you're like, you could feel it.
+[00:56:32.480 --> 00:56:36.079]  Your body's a little tingly, but you're just more aware of what's going on.
+[00:56:36.320 --> 00:56:42.480]  This stuff kicked in and it like instantly, I just felt like this weird meditative energy.
+[00:56:42.720 --> 00:56:43.840]  I don't know how to explain it.
+[00:56:44.079 --> 00:56:45.840]  The stuff's new to me, but I like it.
+[00:56:46.000 --> 00:56:48.400]  Methylene blue works for me.
+[00:56:49.039 --> 00:56:52.480]  I would definitely recommend the Alex Jones methylene blue here.
+[00:56:52.800 --> 00:56:53.519]  It's great stuff.
+[00:56:53.760 --> 00:56:54.800]  So thank you, Alex.
+[00:56:54.960 --> 00:56:55.519]  Keep it coming.
+[00:56:55.840 --> 00:56:59.199]  What is Bobby Kennedy Jr. dropping into that glass of water?
+[00:56:59.360 --> 00:57:00.400]  Methylene blue.
+[00:57:00.559 --> 00:57:03.920]  Mel Gibson also praised methylene blue on Joe Rogan recently.
+[00:57:04.159 --> 00:57:05.199]  This stuff works, man.
+[00:57:05.440 --> 00:57:13.199]  But whatever you do, do your own research, talk to your physician, and then get the very best medical-grade methylene blue supplement out there at thealexhowstore.com.
+[00:57:13.280 --> 00:57:23.519]  We have a limited time sale until next Tuesday, the 29th, where you get one bottle of ultramethylene blue at thealexhowstore.com and get a second bottle free right now in a limited time offer at thealicshostore.com.

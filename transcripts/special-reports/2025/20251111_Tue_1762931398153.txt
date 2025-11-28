@@ -1,0 +1,47 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, sat-12l-sm, and large-v3-turbo
+# Transcript cleaned with version 0.1.2
+# Source MD5: 4a0d762f7e4b64c0f43b87a6328d36fc
+[00:00:01.919 --> 00:00:07.759]  So earlier today, I posted a video that was critical of comedian Theo Vaughn.
+[00:00:08.240 --> 00:00:10.080]  And I'm not singling him out.
+[00:00:10.800 --> 00:00:14.560]  It's just that he talks about Israel and Gaza.
+[00:00:14.640 --> 00:00:16.399]  And everybody's like, oh my God, it's so cutting edge.
+[00:00:16.559 --> 00:00:17.679]  Everybody talks about that.
+[00:00:18.000 --> 00:00:21.839]  But years ago, he booked me multiple times for a show and then canceled.
+[00:00:22.160 --> 00:00:24.960]  And one time his producers told me, oh, we're worried about YouTube.
+[00:00:25.039 --> 00:00:26.480]  We're worried about being demonetized.
+[00:00:26.640 --> 00:00:35.759]  So all these comics that after they're on the cutting edge of free speech, where those of us got sued and indicted and put in prison for it, I'm not mad at them.
+[00:00:36.079 --> 00:00:44.320]  I just don't want them to sit there and act like they're pro-free speech when they say and do the things they do without actually standing up for real free speech.
+[00:00:44.640 --> 00:00:46.160]  So I'm not singling out Theo.
+[00:00:47.039 --> 00:00:53.359]  It's just I want to know what is it I'm saying that's even more censored than criticizing Israel.
+[00:00:53.679 --> 00:00:55.520]  Why are you so scared to have me on?
+[00:00:55.600 --> 00:00:56.399]  I don't need to go on your show.
+[00:00:56.480 --> 00:00:57.840]  I have my own big audience.
+[00:00:58.160 --> 00:00:59.359]  And I'm not your enemy.
+[00:00:59.439 --> 00:01:03.280]  I'm just using you as an example that you should respond to.
+[00:01:03.840 --> 00:01:06.159]  Because, oh, it's safe to talk about Israel all day.
+[00:01:06.320 --> 00:01:06.480]  Great.
+[00:01:06.560 --> 00:01:07.200]  Knock yourselves out.
+[00:01:07.439 --> 00:01:08.719]  I'm a big critic of it.
+[00:01:09.040 --> 00:01:11.359]  But what about the other issues?
+[00:01:11.680 --> 00:01:15.680]  Why is it that you're scared to have me on?
+[00:01:16.320 --> 00:01:17.280]  I don't want to come on your show.
+[00:01:17.359 --> 00:01:19.040]  I want you to answer the question.
+[00:01:19.359 --> 00:01:25.840]  What is it I'm saying that makes you so scared to have me on?
+[00:01:26.000 --> 00:01:26.799]  What is it you're worried about?
+[00:01:26.960 --> 00:01:28.159]  And we know it's Google.
+[00:01:28.480 --> 00:01:29.359]  We know it's YouTube.
+[00:01:29.600 --> 00:01:32.640]  We know other people I know well that are bigger comedians than you.
+[00:01:32.960 --> 00:01:33.920]  It's the same story.
+[00:01:34.239 --> 00:01:40.320]  And I haven't really talked about it because overall, you guys are telling the frequency things, but just stop acting like you're the cutting edge.
+[00:01:40.640 --> 00:01:42.159]  Stop acting like you paid your dues.
+[00:01:42.240 --> 00:01:47.760]  Stop acting like you didn't just show up once it was safe to fight tyranny and then announce yourselves as the kings of free speech.
+[00:01:48.000 --> 00:01:54.480]  While the real people that paid their dues, you won't even talk to because you know there's a danger.
+[00:01:55.359 --> 00:01:56.400]  Don't be fakes.
+[00:01:57.359 --> 00:01:58.240]  Don't be pretenders.
+[00:01:58.320 --> 00:01:59.519]  Don't be frauds.
+[00:01:59.840 --> 00:02:01.200]  That's all I'm saying.
+[00:02:01.519 --> 00:02:03.120]  So Theo, answer my question.
+[00:02:03.760 --> 00:02:06.000]  Why are you scared to have me on your show?
+[00:02:06.320 --> 00:02:08.879]  And can you cover any other controversial issue other than Israel?
+[00:02:09.039 --> 00:02:10.479]  Or at least you know?
+[00:02:11.039 --> 00:02:11.759]  That's my question.

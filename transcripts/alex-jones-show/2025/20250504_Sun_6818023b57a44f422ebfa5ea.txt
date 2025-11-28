@@ -1,0 +1,1180 @@
+# Transcription model: large-v3-turbo, custom faster_whisper
+[00:00:00.680 --> 00:00:02.120]  What if only black people voted?
+[00:00:02.439 --> 00:00:03.259]  Well, everywhere would be Democrat.
+[00:00:03.580 --> 00:00:04.620]  What if only Jewish people voted?
+[00:00:04.860 --> 00:00:05.540]  Everywhere would be Democrat.
+[00:00:05.860 --> 00:00:07.120]  What if only Hispanic people voted?
+[00:00:07.400 --> 00:00:08.140]  Everywhere would be Democrat.
+[00:00:08.500 --> 00:00:09.859]  What if only Asian people voted?
+[00:00:10.039 --> 00:00:10.880]  Everywhere would be Democrat.
+[00:00:11.179 --> 00:00:12.199]  What if only women voted?
+[00:00:12.439 --> 00:00:13.220]  Everywhere would be Democrat.
+[00:00:13.560 --> 00:00:14.380]  What if only men voted?
+[00:00:14.580 --> 00:00:15.220]  Everywhere is red.
+[00:00:15.660 --> 00:00:16.679]  Everywhere is Republican.
+[00:00:17.179 --> 00:00:18.579]  What if only white people voted?
+[00:00:18.839 --> 00:00:19.620]  Everywhere is Republican.
+[00:00:20.039 --> 00:00:49.789]  There's a racial aspect to this that they recognize, that they understand that the only group concerned about limiting government power They have the American people, and specifically white people, so kowtowed and beaten down that they can literally look you in the eye and go, we're replacing you.
+[00:00:50.229 --> 00:00:52.890]  We hate you and your race because you stand up to us.
+[00:00:53.270 --> 00:00:56.390]  And we're dismantling you and replacing you with people that are...
+[00:00:56.570 --> 00:00:58.630]  More amenable to our exploitation.
+[00:00:58.969 --> 00:01:02.250]  More willing to allow us a free hand in governance.
+[00:01:03.109 --> 00:01:06.409]  Don't give a damn about this country or its founding principles.
+[00:01:07.109 --> 00:01:09.549]  White people sitting there going, I love diversity though.
+[00:01:09.989 --> 00:01:11.209]  No, but I'm not a bad one.
+[00:01:11.310 --> 00:01:12.189]  I'm one of the good whites.
+[00:01:12.290 --> 00:01:13.069]  Will you be nice to me?
+[00:01:13.170 --> 00:01:13.890]  And they're just like, no.
+[00:01:14.430 --> 00:01:16.090]  We don't care if you're good or not.
+[00:01:17.069 --> 00:01:18.810]  We see your kindness as weakness.
+[00:01:19.109 --> 00:01:21.189]  And the more you give us, the more we want.
+[00:01:21.390 --> 00:01:23.489]  The more you try to help us, the more demands we make.
+[00:01:23.790 --> 00:01:24.829]  This is never going to end.
+[00:01:25.010 --> 00:01:25.650]  Never going to end.
+[00:01:26.030 --> 00:01:26.969]  We realize this.
+[00:01:27.430 --> 00:01:36.590]  Can we recognize basic, obvious patterns that repeat like a fractal pattern day over day, week over week, year over year, decade over decade, century over century?
+[00:01:36.750 --> 00:01:38.150]  It's the same thing over and over.
+[00:01:38.650 --> 00:01:39.950]  When are we going to break the cycle?
+[00:01:40.370 --> 00:01:44.609]  Again, things would be different if we had, you know, an APAC guide they could go to.
+[00:01:44.870 --> 00:01:45.909]  Again, this is the irony.
+[00:01:46.230 --> 00:01:47.349]  They're supposed to be our guide.
+[00:01:47.569 --> 00:01:50.250]  They're supposed to be the ones that represent our interests.
+[00:01:50.430 --> 00:01:55.030]  Instead, they represent their own interests, their own profit, their own power.
+[00:01:55.319 --> 00:02:07.019]  And part of that process of self-aggrandizement is receiving funds and support from organizations like APAC, who they do actually do things for because they're rewarded with wealth and power and influence.
+[00:02:07.359 --> 00:02:12.319]  We Americans don't have any wealth or power or influence to offer them, so they ignore us.
+[00:02:12.479 --> 00:02:15.780]  It just represents how utterly broken our entire system is.
+[00:02:15.960 --> 00:02:22.229]  The idea is that their power of being in this position, of being a congressman or a senator, is derived directly from us.
+[00:02:22.430 --> 00:02:27.569]  We give them that power, we hold it over them, and if they don't do what we want, we can take that power away.
+[00:02:27.710 --> 00:02:32.270]  They're supposed to be looking after our interests because that is supposed to be the source of their power.
+[00:02:32.509 --> 00:02:36.870]  There is no incentive for them to actually care about us at all.
+[00:02:37.069 --> 00:02:42.550]  It's a perverse incentive structure that completely inverts the construct of our government.
+[00:02:42.860 --> 00:02:47.139]  All right, ladies and gentlemen, I am Chase Geiser, your host this evening of The Alex Jones Show.
+[00:02:47.139 --> 00:02:49.300]  We've got an amazing broadcast lined up for you.
+[00:02:49.379 --> 00:03:03.280]  We're going to go into all sorts of details, like the fact that Jen Psaki's mind is exploding, Warren Buffett is retiring, and the globalist cabal of the world is totally collapsing in the face of this nationalist populist uprising worldwide.
+[00:03:03.500 --> 00:03:08.960]  It's why they're coming after Donald Trump over depopulation, rather, de-immigration.
+[00:03:10.819 --> 00:03:14.259]  Anti-illegal migration, anti-the invasion of our country.
+[00:03:14.439 --> 00:03:20.759]  It's why, just like Harrison Smith beautifully outlined in that short clip in the beginning of this segment, they're coming after whiteness.
+[00:03:20.840 --> 00:03:22.060]  And I've said it before, I'll say it again.
+[00:03:22.139 --> 00:03:25.020]  They're not coming after whiteness because of whiteness per se.
+[00:03:25.180 --> 00:03:27.759]  They're coming after Western values, which they have.
+[00:03:28.080 --> 00:03:43.599]  Psychologically merged with whiteness and then they can just attack the race without having to attack the principles because the principles on their own stand up very nicely against this globalist cabal which seeks to subjugate all of humanity and conglomerate all political power into one world government.
+[00:03:43.819 --> 00:03:48.419]  We've got some breaking news about Putin, about Trump, about Steve Bannon.
+[00:03:49.339 --> 00:03:50.759]  And so much more to cover.
+[00:03:50.879 --> 00:03:54.620]  Don't forget to go to thealexjonesstore.com and be the reason that we're still on the air.
+[00:03:54.740 --> 00:03:56.120]  We need your support more now than ever.
+[00:03:56.479 --> 00:03:58.580]  Methylene blue is absolutely astounding.
+[00:03:59.580 --> 00:04:02.000]  The most powerful substance I've ever consumed in my life.
+[00:04:02.139 --> 00:04:04.439]  We've gone through, I think, here at the studio.
+[00:04:05.380 --> 00:04:13.180]  24 bottles of it between giving it away to Roseanne and Kirk Elliott and others who have visited, and the crew just using it to stay on fire.
+[00:04:13.180 --> 00:04:21.519]  We've gone through it, so the Bigly boys are sending us more so we can stay operational, and we need you to get more to keep us operational at thealexjonesstore.com.
+[00:04:21.620 --> 00:04:32.420]  So stay tuned for more on the other side of this one minute break and be the reason that Alex Jones will always be on the air.
+[00:04:32.430 --> 00:04:39.209]  To the Alex Jones Show, ladies and gentlemen, I am Chase Geiser, your host this evening for the next two hours, followed by a two-hour interview with Roseanne Barr.
+[00:04:40.550 --> 00:04:47.110]  If you haven't seen it yet, you're going to be amazed to see what they uncover, Alex and Roseanne, in the following two hours.
+[00:04:47.269 --> 00:04:47.930]  Let's get right into it.
+[00:04:47.990 --> 00:04:54.709]  Joe Biden's former press secretary, Jen Psaki, claims she never noticed his mental decline until the disastrous debate.
+[00:04:55.009 --> 00:04:57.149]  Let's watch this video and unpack it on the other side.
+[00:04:58.910 --> 00:05:01.290]  I left in May of 2022, just for the facts here.
+[00:05:01.769 --> 00:05:09.069]  And I have seen Biden once since then, when I took my daughter to the holiday party this last December, after he had lost.
+[00:05:10.389 --> 00:05:13.529]  And so I hadn't seen him in person during that period of time.
+[00:05:13.990 --> 00:05:17.129]  I never saw that person, not a single time.
+[00:05:17.129 --> 00:05:21.230]  And I was in the Oval Office every day that was on that debate stage.
+[00:05:21.759 --> 00:05:22.560]  I'm not a doctor.
+[00:05:22.860 --> 00:05:24.199]  Aging happens quite quickly.
+[00:05:24.519 --> 00:05:30.199]  Were things that people saw during that period of time that were similar to that or would have been in a category of that?
+[00:05:30.199 --> 00:05:30.860]  I don't know.
+[00:05:31.139 --> 00:05:31.759]  Possibly, right?
+[00:05:31.860 --> 00:05:32.920]  And all these books are gonna tell us.
+[00:05:32.939 --> 00:05:34.000]  Do you think that they were...
+[00:05:34.000 --> 00:05:35.560]  Were they actively covering it up?
+[00:05:35.620 --> 00:05:36.680]  Were they sort of in denial?
+[00:05:37.019 --> 00:05:37.699]  Or was it...
+[00:05:37.699 --> 00:05:38.959]  Or was that just a bad debate?
+[00:05:39.120 --> 00:05:40.240]  Like, what is your read on that?
+[00:05:40.769 --> 00:05:44.970]  Well, this is what I mean about cover-up is a very loaded term, I think.
+[00:05:45.129 --> 00:05:50.509]  Well, it means you knew that it was really bad and you're pretending otherwise versus you're deluding yourself, which I think is what people do a lot.
+[00:05:50.610 --> 00:05:54.709]  Well, I understand, but I still think it's like cover-up is often like a crime.
+[00:05:55.120 --> 00:05:55.379]  Right?
+[00:05:55.639 --> 00:05:56.980]  People use that term.
+[00:05:56.980 --> 00:05:57.939]  They say it's worse than the crowd.
+[00:05:58.199 --> 00:06:04.879]  People use that term as they relate to Watergate or the covering up of not sharing public information about a war.
+[00:06:05.160 --> 00:06:06.699]  I'm not accusing anybody of a crowd here.
+[00:06:06.699 --> 00:06:08.480]  I understand, but other people have used that term.
+[00:06:08.879 --> 00:06:13.899]  Anybody who's been paying attention to Joe Biden knows that he's been retarded for the entirety of his career.
+[00:06:14.420 --> 00:06:16.500]  Since the 70s, totally dumb.
+[00:06:16.620 --> 00:06:17.680]  I mean, the dude is so old.
+[00:06:17.819 --> 00:06:22.959]  He was born like less than four years after the air conditioning was invented for the automobile.
+[00:06:24.009 --> 00:06:32.610]  The guy was born closer to the end of the Civil War than to present day, and he was potty trained by the time Hitler had blown his own brains out in the bunker.
+[00:06:32.949 --> 00:06:36.350]  He's old enough to remember the Nazi broadcast from Hitler in Berlin.
+[00:06:36.629 --> 00:06:40.449]  I mean, the guy is ancient, always dumb, always totally incompetent.
+[00:06:40.569 --> 00:06:46.069]  Even senators and other leaders and presidents have said for years that the dumbest person in the Senate was Joe Biden, and it's obvious.
+[00:06:47.599 --> 00:06:50.699]  But we knew that he was in mental decline for an extended period of time.
+[00:06:50.860 --> 00:06:53.579]  He didn't seem quite right ever since he was vice president of the United States.
+[00:06:53.680 --> 00:06:56.680]  And Jen Psaki's up there saying, I didn't notice there was anything wrong with him.
+[00:06:58.519 --> 00:07:00.639]  Until I saw the debate at the end of June.
+[00:07:02.399 --> 00:07:04.639]  First of all, Jen Psaki's not a stupid person.
+[00:07:04.959 --> 00:07:05.860]  She's a liar.
+[00:07:06.060 --> 00:07:07.199]  She's a very competent liar.
+[00:07:07.339 --> 00:07:08.399]  She's a dishonest person.
+[00:07:08.620 --> 00:07:11.860]  She's obviously brainwashed, malnourished of some sort.
+[00:07:13.879 --> 00:07:17.160]  Needs a bunch of methylene blue to compensate for the...
+[00:07:17.161 --> 00:07:21.920]  Amphetamine red, under which she's operating.
+[00:07:21.921 --> 00:07:23.961]  But look, there's only two ways to look at this.
+[00:07:25.879 --> 00:07:33.860]  First is, she's telling the truth, and she's the most incompetent press secretary in the history of press secretaries of the United States of America.
+[00:07:33.860 --> 00:07:42.660]  And she wasn't aware that everyone was pumping Joe Biden full of Adderall and other drugs to keep him operational in the face of his mental decline.
+[00:07:43.779 --> 00:07:54.899]  She's perhaps the most incompetent press secretary because she didn't realize that Hunter Biden was texting others about her father's dementia diagnosis before he was even president of the United States.
+[00:07:55.459 --> 00:07:56.920]  Are they seriously going to run him?
+[00:07:56.980 --> 00:07:58.000]  How's his mental decline going?
+[00:07:58.160 --> 00:07:59.579]  How's his diagnosis going?
+[00:07:59.699 --> 00:08:02.199]  I mean, this is something that we've known for an extended period of time.
+[00:08:02.519 --> 00:08:05.420]  Anybody who's been paying attention realized that Joe Biden lost his gourd.
+[00:08:05.930 --> 00:08:19.689]  Out of his mind, totally delegated the entire White House Oval Office operation of the executive branch to committees, to staffers, to bureaucrats, to this bureaucracy that Donald Trump has become a great threat to.
+[00:08:20.600 --> 00:08:30.019]  They said time and time again that Donald Trump is the greatest threat to democracy in our nation's history, but really the fact of the matter is he's the greatest threat in our nation's history to the bureaucracy.
+[00:08:30.259 --> 00:08:43.059]  This corrupt cabal of staffers and incompetent elites and bureaucrats and intelligence operatives that have been running our national security and our domestic policy for 50, 60, or 70 years, basically ever since World War II was completed.
+[00:08:46.220 --> 00:08:48.639]  And so for her to come out and say, hey, that's a loaded question.
+[00:08:48.740 --> 00:08:49.779]  Yeah, of course it's loaded.
+[00:08:49.960 --> 00:08:51.000]  It should be loaded.
+[00:08:51.299 --> 00:09:02.320]  What you did was loaded with evil and corruption and just incompetence and inherently beneath everything that the United States of America stands for.
+[00:09:04.460 --> 00:09:09.200]  And frankly, the list of documents on the desk today, headlines on the desk today.
+[00:09:09.730 --> 00:09:23.610]  It's just example after example after example of some political class shill or elite or globalist crumbling in one way or another, whether it's Adam Schiff, whether it's Jen Psaki, whether it's Warren Buffett.
+[00:09:24.070 --> 00:09:24.730]  I mean, let's look at this.
+[00:09:24.990 --> 00:09:26.789]  Adam Schiff shall not be infringed.
+[00:09:26.909 --> 00:09:28.149]  This is clip number two on the list.
+[00:09:28.370 --> 00:09:31.870]  Let's watch what Adam Schiff has to say here in clip two.
+[00:09:33.360 --> 00:09:37.220]  Today I will be introducing the assault weapons ban of 2025.
+[00:09:38.100 --> 00:09:45.639]  A bill that would ban the sale, manufacture, import and transfer of military style assault weapons.
+[00:09:45.980 --> 00:09:53.559]  Since 2006 there have been 486 mass shootings involving assault weapons.
+[00:09:53.840 --> 00:09:57.860]  Hundreds and hundreds of Americans have been killed in these mass shootings.
+[00:09:58.590 --> 00:10:04.789]  This bill is a way to attack that massive threat to our safety and security.
+[00:10:05.250 --> 00:10:12.370]  Dianne Feinstein introduced the first assault weapons ban 31 years ago after a school shooting in Stockton, California.
+[00:10:12.809 --> 00:10:19.570]  For 10 years, that bill had a dramatic impact on mass shootings and mass casualties.
+[00:10:20.090 --> 00:10:27.110]  But when that expired, mass fatalities and gun shootings went up by 236%.
+[00:10:27.669 --> 00:10:29.570]  The impact was that dramatic.
+[00:10:29.610 --> 00:10:33.070]  It's time to pass an assault weapons ban again.
+[00:10:33.070 --> 00:10:37.809]  It's time to protect our communities from senseless gun violence.
+[00:10:38.490 --> 00:10:41.549]  It's time to bring back that powerful...
+[00:10:41.549 --> 00:10:43.710]  We all know what Shifty Schiff likes to do with little boys.
+[00:10:44.029 --> 00:10:47.990]  We all know where his heart really is or his lack of a heart, his lack of a soul.
+[00:10:48.129 --> 00:10:56.230]  Pencil neck Shifty Schiff is totally full of crap and is trying to introduce these assault bans in 2025.
+[00:10:57.100 --> 00:11:03.059]  But we know that the vast majority of gun crimes, gun deaths, homicides, things of that nature, all come from small arms.
+[00:11:03.200 --> 00:11:07.879]  But for some reason, they are just dead set, intentional, focused.
+[00:11:08.539 --> 00:11:11.000]  Hyper-vigilant against these assault weapons.
+[00:11:11.580 --> 00:11:16.580]  And on Friday when I was hosting the American Journal, we talked a little bit about this, these assault weapons and what's really going on.
+[00:11:16.620 --> 00:11:23.879]  You realize that in World War II, it was estimated that 45,000 rounds of ammunition was expended per enemy combatant killed.
+[00:11:24.039 --> 00:11:30.820]  And in Vietnam, it's estimated that it was closer to 250,000 rounds of ammunition were expended per enemy combatant killed.
+[00:11:31.899 --> 00:11:36.659]  I mean, even the military understands that an automatic versus a semi-automatic weapon...
+[00:11:38.240 --> 00:11:42.440]  Is the difference between wasteful and not wasteful.
+[00:11:43.659 --> 00:11:48.320]  Because if you're using a semi-automatic weapon, you only pull the trigger when you actually see a target that you're aiming for.
+[00:11:48.559 --> 00:11:53.679]  Whereas with an automatic weapon, you often spray and pray that you're going to hit something in the combat zone.
+[00:11:53.759 --> 00:12:03.220]  But for some reason, the government, the leftists are so dead set on coming after automatic weapons, on coming after what they call assault rifles or assault weapons.
+[00:12:04.679 --> 00:12:23.519]  Would virtually all of these mass shootings that we've experienced or witnessed or seen these tragedies that we faced not only could have been done more efficiently with small arms than with the big intimidating guns that the governments are always trying to silence, but they're all deeply correlated with SSRIs.
+[00:12:23.720 --> 00:12:31.720]  I mean, why is it that our Democrats are coming after assault weapons so incessantly, so ceaselessly?
+[00:12:33.800 --> 00:12:58.299]  When SSRIs have been correlated in every one of these cases, when even the side effects of SSRIs are demonstrably homicidal thoughts, suicidal thoughts, fits of rage, all of these tendencies, the fact of the matter is they want to disarm the population of the United States of America because they want the government to be as expansive as possible.
+[00:12:58.700 --> 00:13:12.799]  All while they cripple the economy with their insider trading and try to sell out the interests of the United States of America to some globalist cabal of political elites as we sit idly by and just allow it to happen.
+[00:13:14.100 --> 00:13:19.379]  Meanwhile, we've got things like sex trafficking going on and they're not passing any legislation to stop that.
+[00:13:19.580 --> 00:13:24.960]  We've only found like 5,000 of the 320,000 missing children despite all of the...
+[00:13:25.100 --> 00:13:28.019]  Good efforts, good intentions of this current Trump administration.
+[00:13:28.080 --> 00:13:35.279]  We have major sex trafficking problems here, major human trafficking problems here, child labor laws, forced labor laws being violated constantly.
+[00:13:35.460 --> 00:13:47.639]  I mean, the Democrats always accuse Republicans and white people of being the descendants of slave owners, descendants of the most racist, evil, disgusting people in the history of our nation.
+[00:13:48.679 --> 00:13:52.759]  Will they literally allow the forced labor of children to occur?
+[00:13:53.129 --> 00:13:59.629]  To the tune of hundreds of thousands in the United States of America and do everything they possibly can to stop the mitigation of such atrocities.
+[00:14:00.070 --> 00:14:09.350]  While they complain that we've raised tariffs on China because they want our economy to benefit from the outsourcing of slavery and child labor to China and others.
+[00:14:11.129 --> 00:14:16.490]  The little Chinese children, their little fingers, their little nibble fingers building our iPhones for us so that we can...
+[00:14:16.570 --> 00:14:19.250]  Tweet and complain about the patriarchy as much as possible.
+[00:14:19.370 --> 00:14:20.629]  I mean, here we are in clip number three.
+[00:14:20.950 --> 00:14:23.970]  Democrats block Bill to crack down on child sex trafficking.
+[00:14:24.149 --> 00:14:24.710]  Let's watch this.
+[00:14:25.789 --> 00:14:27.330]  Child sex trafficking.
+[00:14:27.509 --> 00:14:36.129]  Democrats today, again, rejecting another push to make it an automatic felony to purchase or solicit a 16 or 17-year-old for sex.
+[00:14:36.330 --> 00:14:43.049]  Not only did Democrats block this latest attempt to ramp up the penalties for the buyers in the child sex trafficking industry.
+[00:14:43.629 --> 00:14:50.929]  They also sidelined Sacramento's Democratic Assemblymember Maggie Krell, who has made this her life's work.
+[00:14:51.190 --> 00:14:56.970]  Democratic leaders promised to keep the conversation going, but they're leaving Krell, an expert, out of it.
+[00:14:57.129 --> 00:15:10.230]  After an hour of closed-door planning, Democrats emerged with a deal that stripped Sacramento's Democratic Assemblymember Maggie Krell from her own bill that tries to crack down on the consumers of the child sex trafficking industry.
+[00:15:10.230 --> 00:15:12.809]  She originally proposed the automatic felony.
+[00:15:12.909 --> 00:15:17.850]  For the older teens this year, noting state laws are inconsistent for the trafficker and the buyer.
+[00:15:18.009 --> 00:15:21.789]  But that piece blocked by the Public Safety Committee earlier this week.
+[00:15:21.929 --> 00:15:28.049]  You want to stop human trafficking and little girls being put up and down these streets?
+[00:15:28.309 --> 00:15:30.129]  If you want to really stop that?
+[00:15:30.440 --> 00:15:31.720]  You arrest tricks.
+[00:15:32.240 --> 00:15:33.659]  You arrest who demands it.
+[00:15:33.840 --> 00:15:35.340]  You don't arrest who sells it.
+[00:15:35.440 --> 00:15:38.480]  Because whoever sells it, they cannot sell it.
+[00:15:38.580 --> 00:15:39.399]  Are they businessmen?
+[00:15:39.600 --> 00:15:41.200]  Unless the person that buys it.
+[00:15:41.320 --> 00:15:42.360]  That's the problem, too.
+[00:15:42.700 --> 00:15:43.179]  Back on set.
+[00:15:43.220 --> 00:15:48.019]  This debate is going to be ongoing until potentially that felony is put in there.
+[00:15:48.120 --> 00:15:48.539]  But we'll see.
+[00:15:48.720 --> 00:15:51.480]  And we really should point out the urgency with this.
+[00:15:51.580 --> 00:15:55.220]  That children 16 and 17 years old are being victimized.
+[00:15:55.480 --> 00:15:59.580]  And it's obvious that if they cared about your children, then they wouldn't do things like allow TikTok.
+[00:15:59.820 --> 00:16:07.000]  To convince them that they're experiencing gender dysphoria and need to be sterilized immediately.
+[00:16:07.379 --> 00:16:19.100]  If they really cared about your children, then the United States of America would not have declined in education rankings from, like, number one to number 50th ever since the establishment of the Department of Education.
+[00:16:19.100 --> 00:16:22.080]  If they really cared about your children, then they wouldn't...
+[00:16:23.370 --> 00:16:31.590]  Crank up inflation so much, forcing both parents to work so that they had to outsource the raising of said children to the state in these terrible schools.
+[00:16:31.710 --> 00:16:39.830]  If they really cared about your children, they wouldn't be pumping them full of amphetamines and Ritalin and anti-anxiety medication and hormones and puberty blockers.
+[00:16:40.269 --> 00:16:49.690]  If they really cared about your children, they would allow teachers to be armed in the schools to protect against mass shootings instead of trying to take away the Second Amendment right, which allows you to protect your children from tyranny.
+[00:16:50.120 --> 00:17:01.799]  Because we know that every major genocide or crime against humanity that has befallen the human race over the course of history has been conducted by a major government or a corporation sponsored by a major government.
+[00:17:02.480 --> 00:17:09.500]  Certainly throughout the 20th century, certainly into the 21st century, all of these major crimes and threats have been perpetuated by governments on a people.
+[00:17:11.129 --> 00:17:20.910]  Our democratic leaders like to grandstand so much when they hear of rumors of Gaddafi's crimes against humanity or rumors of Saddam Hussein's crimes against humanity among their own people.
+[00:17:21.289 --> 00:17:24.630]  Oh my gosh, Putin is doing such terrible things to the people of Ukraine.
+[00:17:24.630 --> 00:17:27.230]  So we have to do something about these crimes against humanity.
+[00:17:27.950 --> 00:17:35.529]  But then they try to neuter you incessantly while they simultaneously, with their legislation or lack thereof, protect the criminals themselves.
+[00:17:35.650 --> 00:17:39.589]  Even Elon Musk has admitted that the left is kind to the criminals and cruel to the victims.
+[00:17:39.710 --> 00:17:40.630]  Let's watch clip four here.
+[00:17:42.329 --> 00:17:49.349]  When did Elon Musk finally say, you know what, I feel like something is really grossly wrong with what's going on in this country?
+[00:17:49.869 --> 00:17:55.170]  Well, I started having concerns about three years ago, but they were sort of...
+[00:17:56.329 --> 00:17:59.069]  I just had an uneasy feeling.
+[00:17:59.630 --> 00:18:01.289]  Something doesn't feel right here.
+[00:18:03.910 --> 00:18:08.450]  The censorship was becoming ridiculous.
+[00:18:09.269 --> 00:18:14.970]  I had the most interacted with account on Twitter before the acquisition.
+[00:18:15.450 --> 00:18:20.170]  So I was very finely attuned to what the algorithm was showing me or not showing me.
+[00:18:20.519 --> 00:18:23.359]  And who got suspended or didn't get suspended?
+[00:18:23.819 --> 00:18:26.880]  Twitter was being run at a very far left basis.
+[00:18:27.079 --> 00:18:30.339]  When I felt the censorship was closing in, I was like, OK, I've got to do something.
+[00:18:30.500 --> 00:18:34.559]  And the thing I can do is acquire Twitter and make it a bastion of free speech.
+[00:18:35.579 --> 00:18:38.039]  And that's what we're trying to do with Twitter.
+[00:18:38.299 --> 00:18:39.960]  Like, no one on the left has been suspended.
+[00:18:40.299 --> 00:18:42.039]  But we did unsuspend people on the right.
+[00:18:42.519 --> 00:18:46.339]  And, you know, let the marketplace of ideas win.
+[00:18:46.559 --> 00:18:48.099]  And then once we...
+[00:18:49.710 --> 00:18:51.809]  I unlocked Twitter from being censored.
+[00:18:52.410 --> 00:18:54.509]  Then we started to see what was really going on.
+[00:18:55.430 --> 00:18:57.869]  And I became increasingly concerned.
+[00:18:58.170 --> 00:18:58.690]  I'm like, wait a second.
+[00:18:58.809 --> 00:19:11.029]  I'm seeing videos of people streaming across the border on Twitter, now X. And I was like, is this real?
+[00:19:11.970 --> 00:19:15.450]  So I said, well, you know, I'll go to the border myself.
+[00:19:15.450 --> 00:19:16.970]  So I went to Eagle Pass, Texas.
+[00:19:18.839 --> 00:19:21.019]  Sure enough, people screaming across the border.
+[00:19:21.140 --> 00:19:23.799]  And I was like, so is there any vetting of these people?
+[00:19:23.940 --> 00:19:27.200]  Like, no, the Biden administration is letting them all in.
+[00:19:27.980 --> 00:19:33.579]  And I said, well, but some of these people clearly have criminal affiliations.
+[00:19:33.819 --> 00:19:36.660]  Like, they literally have the criminal affiliation tattooed on their face.
+[00:19:36.839 --> 00:19:45.259]  The left is kind to the criminals and cruel to the victims, which is not empathy at the end of the day.
+[00:19:45.319 --> 00:19:48.160]  If you're a high-trust society and you bring in...
+[00:19:48.161 --> 00:19:54.561]  Low-trust or untrustworthy individuals, now you've got a fundamental breakdown in the system.
+[00:19:55.180 --> 00:20:09.039]  Not only are they kind to the criminals and terrible to the victims, but they exploit the victims in all sorts of different ways, like, I don't know, coming after Alex Jones and this network and Infowars and this crew and this operation and everything that we're fighting for.
+[00:20:11.019 --> 00:20:16.759]  But then they sell out, not just to China, and we saw the Amy Klobuchar's in the...
+[00:20:17.039 --> 00:20:34.359]  Other leftists who have come forward and been so critical of raising taxes on the CCP, raising tariffs on the CCP, trying to claim that it's going to harm people in the United States of America when it's certainly going to catalyze the diversification of where we source all of our goods from into India and Mexico and the United States domestically.
+[00:20:34.519 --> 00:20:46.359]  Long term, very good for the United States, but they've sold out to the CCP, so they're backing that up despite the fact that human rights are totally violated by the CCP incessantly in a major way in terms of death camps, work camps.
+[00:20:47.110 --> 00:21:03.089]  I mean, this is a culture that still hangs up pictures of Mao inside of their own homes, despite the fact that Mao is responsible for the death of somewhere between 50 and 100 million Chinese people during the Great Leap Forward between 1958 and 1962.
+[00:21:03.470 --> 00:21:05.690]  Just massive starvation, no problem.
+[00:21:07.549 --> 00:21:10.750]  And as their demographic implodes and crumbles...
+[00:21:11.440 --> 00:21:35.740]  We have a whole political class that still insists on protecting their interests because they've sold out to them, while simultaneously protecting the interests of major pharmaceutical companies, while simultaneously protecting the interests of the military-industrial complex, whereby we spend millions upon millions, billions upon billions, frankly, even trillions upon trillions to do things like catalyze the development of viruses like COVID-19.
+[00:21:36.940 --> 00:21:58.319]  Through gain-of-function research, through DOD contracts that go to companies like Metabiota, which members of our political class are directly invested in, so that when these viruses are released, we can hype up the extent to which they are dangerous, terrify everyone, and justify the propulsion of mass vaccination through the pharmaceutical companies who make an astounding amount of money.
+[00:21:58.559 --> 00:22:02.619]  I mean, here's Fauci, whose words killed millions of people.
+[00:22:02.759 --> 00:22:03.380]  Clip number six.
+[00:22:05.160 --> 00:22:28.220]  Do not accept and shrug your shoulders at the normalization of untruths, because we're living in an era now, there's so much distortion of reality, outright fabrication, lying, conspiracy theories, that it's so prevalent that people sort of shrug their shoulders and say, well, nothing to do about it, it's the new normal.
+[00:22:28.440 --> 00:22:28.720]  No!
+[00:22:29.180 --> 00:22:33.660]  Do not accept that as the new normal, because whenever you have...
+[00:22:34.039 --> 00:22:42.880]  The acceptance of untruths and distortions, ultimately, it's going to erode at the foundation of the social order and our democracy.
+[00:22:43.140 --> 00:22:45.920]  And I think history has shown that.
+[00:22:46.140 --> 00:22:54.279]  If anybody just looks back as recently as the 1930s and early 40s in Europe when that happened, be careful.
+[00:22:54.740 --> 00:22:56.160]  Don't accept the normalization of untruths.
+[00:22:56.160 --> 00:22:59.420]  The accepting of untruths is absolutely disgusting.
+[00:22:59.759 --> 00:23:01.220]  I am the science.
+[00:23:02.079 --> 00:23:28.640]  I'm not very good at doing impressions, but if I could do an impression of evil bastard perfectly, I would come out sounding exactly like Anthony Fauci, who not only is responsible for the gain-of-function research and then lying about it that resulted in the COVID-19 pandemic, but is also responsible for pushing the Operation Warp Speed beyond the scope of what Trump understood, beyond the safety of what Trump took for granted.
+[00:23:30.109 --> 00:23:32.509]  So we have this massive inoculation of all these people.
+[00:23:32.589 --> 00:23:43.369]  Now they're trying to put it in our food by using the bird flu as a justification for it, which created an artificial shortage of eggs because the poultry farm fires went up 400% over the last four years compared to the four years before that.
+[00:23:43.509 --> 00:23:44.869]  So they make an artificial shortage.
+[00:23:45.029 --> 00:23:57.890]  They try to inoculate all of the food and they use that so they can develop the technology that they're using to inoculate or vaccinate all of the food such that when you consume the food, then you become vaccinated yourself without even knowing that you've been vaccinated at all.
+[00:24:00.259 --> 00:24:07.680]  And you just wait and see the blackmail that they're going to come out with that's just going to magically be released about the RFKs and others.
+[00:24:07.839 --> 00:24:28.140]  Basically, anybody who's actually trying to save humanity from the food dyes, from the pharmaceutical companies, from the SSRIs, from the atrazine in the water, from the fluoride in the water, everything good that is being done is going to be countered with blackmail, bribery, espionage, sabotage, and subversion and corruption by the likes of the Anthony Fauci's.
+[00:24:28.480 --> 00:24:31.599]  The Nancy Pelosi's, the Amy Klobuchar's, and others.
+[00:24:32.519 --> 00:24:40.420]  I mean, here's a short clip of Nancy Pelosi from this totally unbiased PBS fawning interview with Nancy Pelosi.
+[00:24:40.619 --> 00:24:42.779]  There's a lot of applause in the room here for you.
+[00:24:43.079 --> 00:24:43.680]  Let's watch.
+[00:24:45.200 --> 00:24:46.920]  Speaker Emerita Nancy Pelosi.
+[00:24:47.420 --> 00:24:49.700]  Thank you.
+[00:24:49.900 --> 00:24:53.779]  You might not be able to hear it, but there's a lot of applause in the room here for you.
+[00:24:55.720 --> 00:24:56.920]  Thank you, PBS.
+[00:24:57.640 --> 00:24:58.440]  Thank you.
+[00:24:58.599 --> 00:24:59.180]  Thank you.
+[00:24:59.359 --> 00:24:59.599]  Be well.
+[00:24:59.859 --> 00:25:00.480]  Thank you all.
+[00:25:00.579 --> 00:25:01.019]  Bye-bye.
+[00:25:01.118 --> 00:25:02.478]  So disgusting.
+[00:25:02.557 --> 00:25:06.188]  And folks, we're coming up on a break.
+[00:25:06.257 --> 00:25:07.318]  I've got so much more to come.
+[00:25:07.318 --> 00:25:08.218]  Half the way we've got.
+[00:25:08.358 --> 00:25:16.477]  Yeah.
+[00:25:16.477 --> 00:25:21.168]  Thank you.
+[00:25:21.179 --> 00:25:26.019]  ...from Trump and the administration, AFD, foreign developments, all this stuff that I'm going to cover.
+[00:25:26.119 --> 00:25:31.619]  But before we go to break, I have to remind you, please go to Infowarsstore.com.
+[00:25:32.009 --> 00:25:42.190]  Now, we even plug in the AlexJonesStore.com incessantly because it's so important that we bolster that up, that people sign up for the VIP club, that they subscribe to the amazing products like Methylene Blue and others.
+[00:25:42.349 --> 00:25:58.009]  And yes, the Alex Jones Store is absolutely imperative, but the InfowarsStore.com is how we keep this operation presently operational for as long as possible while we fight the assault of the New World Order on freedom of speech and humanity itself and Alex Jones and this crew.
+[00:25:59.050 --> 00:26:10.410]  Infowarsstore.com is how we pay this crew now, how we keep the lights on, how we keep the broadcasts going out, and it's how we ensure that we can stay in the fight here for as long as possible until the inevitable conclusion of our shutting down.
+[00:26:10.789 --> 00:26:14.849]  And when we shut down, the AlexJonesstore.com is going to be how we stay on the air and how we operate.
+[00:26:14.890 --> 00:26:19.049]  But please, check out the Infowarsstore, Infowarsstore.com right now.
+[00:26:19.170 --> 00:26:25.430]  There's Ultimate Fish Oil, Ultra 12, which is absolutely amazing, Nitric Boost, which we still haven't been able to develop.
+[00:26:27.030 --> 00:26:29.390]  An alternative for on the AlexJonesStore.com.
+[00:26:29.529 --> 00:26:31.269]  So, I mean, the Nitric Boost is absolutely amazing.
+[00:26:31.430 --> 00:26:37.650]  You've seen clip after clip of doctors saying how good it is for your blood, how amazing it is cleaning out your blood from the spike proteins and things of that nature.
+[00:26:37.869 --> 00:26:41.369]  Brain Force Plus is absolutely astounding in terms of new tropics.
+[00:26:41.490 --> 00:26:48.650]  I mean, there are some very special flagship products on the InfoWars store that we have yet to figure out how to develop on the Alex Jones store.
+[00:26:48.690 --> 00:26:53.150]  And if you go now, you will definitely get them despite the fact that we are under relentless assault.
+[00:26:53.309 --> 00:26:56.309]  Please go to InfoWarsStore.com and keep InfoWars on the air.
+[00:26:56.430 --> 00:27:00.490]  While we stay in the fight as long as possible until Operation 2.0.
+[00:27:00.670 --> 00:27:01.230]  Stay with us, folks.
+[00:27:01.329 --> 00:27:02.369]  For more news on the other side.
+[00:27:05.450 --> 00:27:15.210]  All right, ladies and gentlemen, I am Chase Geiser, your host this evening for the next one hour and 27 minutes, followed by the infamous interview between Alex Jones and Roseanne Barr from earlier this week.
+[00:27:15.230 --> 00:27:16.549]  I'm actually excited to watch it again.
+[00:27:16.630 --> 00:27:17.609]  It was just astounding.
+[00:27:18.009 --> 00:27:21.150]  Her whole crew was hilarious and amazing, and it was cool to see everybody here.
+[00:27:21.309 --> 00:27:22.609]  So nice to meet those people.
+[00:27:24.359 --> 00:27:36.180]  But we've got this new controversy happening with the colleges and the anti-Semitism laws that seem to be propositioned or proposed, rather, by the House of Representatives and this administration.
+[00:27:36.180 --> 00:27:36.980]  I get it.
+[00:27:37.140 --> 00:27:37.640]  I get it.
+[00:27:38.920 --> 00:27:39.579]  And look.
+[00:27:39.930 --> 00:27:42.970]  I am somebody who is vehemently opposed to anti-Semitism.
+[00:27:43.190 --> 00:27:47.170]  I don't believe that anybody should be judged based off of their immutable characteristics.
+[00:27:47.170 --> 00:27:48.529]  I've got problems with Israel.
+[00:27:48.529 --> 00:27:50.170]  I've got no problems with Jews.
+[00:27:50.250 --> 00:27:52.170]  I've got problems with Sharia law.
+[00:27:52.369 --> 00:27:55.049]  I've got no problems with individual Muslims.
+[00:27:55.450 --> 00:27:57.329]  I've got problems with Islam but not Muslims.
+[00:27:57.390 --> 00:27:59.470]  I've got problems with Judaism but not Jews.
+[00:28:00.170 --> 00:28:01.910]  I'm not a bigoted person here.
+[00:28:02.130 --> 00:28:08.150]  I'm not trying to subvert anyone's right to freedom of speech or practice their religion or their faith.
+[00:28:08.519 --> 00:28:20.660]  Ayn Rand said it best in an interview years and years and years ago that in the country with the greatest amount of freedom of religion protections, we've had the greatest amount of peace among different religions living next to one another.
+[00:28:20.799 --> 00:28:24.640]  It's when you start imposing these laws that you have this animosity that has developed.
+[00:28:25.779 --> 00:28:41.240]  And what's going to happen with the pushing of these anti-Semitism laws and policies on college campuses is it's really just going to catalyze and cause engender More anti-Semitism, which I'm opposed to.
+[00:28:41.500 --> 00:28:57.119]  And I've showed clips before with Horowitz and students, the Muslim Students Association, where these Muslim students have gone up to Jewish speakers in college and said that they were four things like all Jews being consolidated into Israel so they could be eradicated by Hamas in a single place.
+[00:28:57.700 --> 00:28:59.339]  I'm totally opposed to that.
+[00:28:59.599 --> 00:29:09.920]  I'm also opposed to the notion that we have an intelligence operation overseas that is blackmailing our own political class, despite the fact that I believe that it's happening on behalf of our own CIA pushing them to do it.
+[00:29:10.019 --> 00:29:12.240]  I've gone into that at length before on the show.
+[00:29:13.299 --> 00:29:25.400]  But we've got this clip here, clip number nine, where this woman says, I don't believe rapists in the U.S. are given such punishment as is proposed for these people who are guilty of anti-Semitic rhetoric.
+[00:29:25.880 --> 00:29:28.740]  Though it should be protected under freedom of speech, should it not?
+[00:29:28.859 --> 00:29:29.539]  Let's watch clip nine.
+[00:29:31.059 --> 00:29:34.759]  Hey, so everything is pretty fucking crazy right now, but this is insane.
+[00:29:35.000 --> 00:29:46.500]  On Monday, the House of Representatives is voting on a bill that would impose a $1 million fine or 20 years in a federal prison for Americans who boycott Israel.
+[00:29:46.779 --> 00:29:52.759]  It is House Resolution 867 or IGO Anti-Boycott Act.
+[00:29:53.079 --> 00:29:55.180]  And it is being voted on on May 5th.
+[00:29:55.259 --> 00:30:07.299]  And it would impose a $1 million fine and potential 20-year prison sentence for Americans who boycott the country of Israel.
+[00:30:07.549 --> 00:30:21.789]  The bill is being sponsored by Representative Lawler of New York, and it is essentially trying to shield Israel from accountability and the BDS movement, which has been massively successful in punishing companies who are supporting the genocide going on in Gaza.
+[00:30:22.049 --> 00:30:27.089]  It currently has 24 bipartisan co-sponsors in the House of Representatives.
+[00:30:27.089 --> 00:30:28.890]  I will put them here.
+[00:30:29.250 --> 00:30:32.190]  Go ahead and pause it, take a little screenshot.
+[00:30:32.599 --> 00:30:33.779]  And then call their office.
+[00:30:34.019 --> 00:30:38.000]  The ACLU has condemned and strongly opposed these bills.
+[00:30:38.200 --> 00:30:47.900]  They tried to do this last year, actually, in 2024, and the House resolution failed, saying that these resolutions punish boycott movements with criminal penalties.
+[00:30:48.720 --> 00:30:51.480]  These movements are essentially targeting free speech.
+[00:30:51.579 --> 00:30:53.279]  This all goes back to free speech.
+[00:30:53.359 --> 00:30:57.700]  And also, like, freedom of purchase and, like, the free market, because...
+[00:30:57.701 --> 00:31:06.760]  A boycott is essentially not participating in the purchasing of products and services from companies that don't have morals that align with your own.
+[00:31:06.819 --> 00:31:13.119]  So if we're not allowed to even express our own moral compass through our purchasing power...
+[00:31:13.130 --> 00:31:15.190]  Do we even have free speech?
+[00:31:15.369 --> 00:31:16.450]  Like, come on, you guys.
+[00:31:16.609 --> 00:31:25.769]  These are the same Republicans that were screaming and crying over a forced vaccine mandate like four fucking years ago.
+[00:31:26.009 --> 00:31:26.930]  And they are out here.
+[00:31:26.930 --> 00:31:28.710]  And I got a poll from it because it hasn't been censored.
+[00:31:28.789 --> 00:31:32.549]  We'll have it censored for tomorrow's show when Alex Jones covers it as well.
+[00:31:32.549 --> 00:31:33.990]  So apologies for the bad language.
+[00:31:34.009 --> 00:31:35.089]  But she's absolutely right.
+[00:31:35.470 --> 00:31:46.529]  And as opposed to anti-Semitism, as I am, as opposed to these protests on college campuses, as I am, as opposed to Israel, as I am, and Islam, as I am, she's right.
+[00:31:46.990 --> 00:31:52.890]  We can't, on the one hand, advocate for this ceaseless, just ultimate freedom of speech.
+[00:31:54.130 --> 00:31:56.109]  Unlimited freedom of speech protections.
+[00:31:56.250 --> 00:32:01.710]  We can't, on the one hand, be free speech absolutists and then come down on people that we disagree with or happen to find inconvenient.
+[00:32:02.509 --> 00:32:06.089]  I think it's disgusting what happened to the Israelis on October 7th.
+[00:32:06.190 --> 00:32:14.490]  I think it's disgusting what the Israeli leadership did on October 7th, allowing it to happen for a seven-hour stand-down in a nation, like, smaller than Rhode Island.
+[00:32:14.650 --> 00:32:15.109]  What is it?
+[00:32:15.150 --> 00:32:16.089]  There's nine million people there?
+[00:32:16.130 --> 00:32:18.230]  You can fly across the entire nation and, like...
+[00:32:18.490 --> 00:32:20.190]  What, 15 minutes or something like that?
+[00:32:20.269 --> 00:32:23.569]  But for some reason, they couldn't wrangle enough people together to stop this assault.
+[00:32:23.670 --> 00:32:29.869]  And there's all this footage of Israeli helicopters that seem to be shooting kind of indiscriminately at victims and perpetrators alike in the event.
+[00:32:30.029 --> 00:32:31.309]  It was disgusting what happened.
+[00:32:31.390 --> 00:32:34.970]  It was totally perpetuated by terrorists, but it's also disgusting that it was allowed to happen.
+[00:32:35.420 --> 00:32:43.400]  It's just like 9-11 all over again, where yes, it is disgusting that radical Islamists had the audacity to hijack planes and fly them into buildings.
+[00:32:43.500 --> 00:32:55.119]  But what's also disgusting is that we had a government that allowed it to happen because it was deemed politically conducive or convenient to our national security interests, protecting the dollar overseas, and it justified getting us into war after war after war in the Middle East.
+[00:32:56.359 --> 00:32:56.799]  Disgusting.
+[00:32:58.640 --> 00:33:00.500]  And what is it that we're fighting for?
+[00:33:00.579 --> 00:33:01.960]  We always hear people talk.
+[00:33:02.559 --> 00:33:11.759]  About how our veterans are so brave and they fight for our freedoms, despite the fact that all the wars that we've been in have been in some foreign land for obfuscated reasons, to say the least.
+[00:33:12.140 --> 00:33:15.579]  It's not immediately obvious why we were in Korea or Vietnam.
+[00:33:15.779 --> 00:33:22.559]  It's not immediately obvious anymore why we were in Iraq or Afghanistan or why we killed Gaddafi and Libya.
+[00:33:22.720 --> 00:33:25.380]  It's not immediately obvious why we're doing these things.
+[00:33:25.480 --> 00:33:29.059]  But for some reason, we have this thank you so much for fighting for our freedoms.
+[00:33:29.299 --> 00:33:38.839]  Thank you so much for keeping us free over here by fighting over there for obscure reasons like protecting opium and ensuring that the dollar is the global reserve currency because it's backed by nothing but the blood of innocents.
+[00:33:43.339 --> 00:33:53.140]  And what freedoms are we fighting for if domestically here, we have an entire political class dead set on doing things like taking away our right to bear arms or our right to freedom of speech?
+[00:33:53.460 --> 00:33:55.799]  If I want to be anti-Semitic, I should be...
+[00:33:55.869 --> 00:33:57.009]  Able to be anti-Semitic.
+[00:33:57.130 --> 00:33:59.470]  If I want to be Islamophobic, I should be able to be Islamophobic.
+[00:33:59.589 --> 00:34:04.970]  If I want to come out and protest against the white race, I should be able to come out and protest against the white race.
+[00:34:05.150 --> 00:34:10.070]  All of these things disgusting, though they become more powerful the more you squeeze around them.
+[00:34:10.130 --> 00:34:19.550]  It's the famous line from Star Wars when Princess Leia says to her father, not knowing it was her father, Darth Vader, the tighter you squeeze, the more star systems slip between your fingers.
+[00:34:20.869 --> 00:34:23.650]  The tighter you try to squeeze on anti-Semitism...
+[00:34:23.849 --> 00:34:26.110]  The more anti-Semitism slips between your fingers.
+[00:34:27.409 --> 00:34:31.849]  The tighter you try to squeeze on gun rights, the more radicalized people are going to be.
+[00:34:31.989 --> 00:34:42.909]  The tighter you try to squeeze on the white race or whiteness or white privilege, the more right-wing extremists, domestic white supremacists you're going to find.
+[00:34:44.199 --> 00:34:50.579]  I don't know about you, but when I was growing up in the 90s, I barely heard anyone say a racist remark about black people.
+[00:34:50.739 --> 00:34:57.079]  I barely heard anyone talk about things like the Jewish problem or the Jewish question in the 90s.
+[00:34:57.159 --> 00:34:57.800]  Never heard of it.
+[00:34:58.039 --> 00:35:00.139]  I never heard any sexist rhetoric.
+[00:35:01.820 --> 00:35:06.440]  But now I'm hearing it all the time, and it's in the context of all of these regulations.
+[00:35:07.920 --> 00:35:17.280]  Social media terms and conditions and policies designed to silence that type of rhetoric because the only way you can really silence that type of rhetoric is by having open discourse around it.
+[00:35:17.380 --> 00:35:20.699]  It does not stand on its own in the context of logic and truth.
+[00:35:20.860 --> 00:35:29.679]  But when you begin to implement censorship, you commit such an injustice that it leans people towards the side of the original erroneous rhetoric.
+[00:35:32.829 --> 00:35:35.969]  And we've got these protests that are happening here in the United States as well.
+[00:35:36.130 --> 00:35:40.070]  We've got these compounds that are coming up of these Islamic compounds in Texas.
+[00:35:40.269 --> 00:35:44.170]  There are people that are protesting on behalf of them, and there are others that are coming out and protesting against them.
+[00:35:44.250 --> 00:35:47.170]  In fact, I want to show you clip 11 here before we get into some of the Bill Gates stuff.
+[00:35:47.349 --> 00:35:50.409]  This is clip 11 of Islam not belonging in America.
+[00:35:50.510 --> 00:35:51.010]  Let's watch this.
+[00:35:51.110 --> 00:35:52.349]  Should we make this type of rhetoric illegal?
+[00:35:53.349 --> 00:35:55.829]  We are in the new land right now.
+[00:35:55.829 --> 00:35:56.730]  We are in the new land right now.
+[00:35:56.750 --> 00:35:57.710]  You can see, mashallah.
+[00:35:58.010 --> 00:35:58.929]  You can see, mashallah.
+[00:35:59.230 --> 00:36:02.389]  Construction workers working behind us.
+[00:36:02.389 --> 00:36:03.769]  We have a huge land.
+[00:36:04.329 --> 00:36:05.709]  Six acres, mashallah.
+[00:36:05.709 --> 00:36:13.068]  Six acres, mashallah.
+[00:36:13.070 --> 00:36:16.010]  These are the compounds that are coming up that people are protesting against.
+[00:36:16.489 --> 00:36:18.409]  And they should have a right to protest against them.
+[00:36:18.449 --> 00:36:19.469]  I'm against Sharia law.
+[00:36:19.809 --> 00:36:21.048]  I'm against radical Islam.
+[00:36:21.048 --> 00:36:22.769]  It's a small and humble place.
+[00:36:22.769 --> 00:36:34.369]  May Allah deal with all of you with his generosity, like you supported our masjid, you defended our future leaders.
+[00:36:34.390 --> 00:36:39.610]  But imagine if you pass laws, or if the House passed laws against being critical of that sort of thing.
+[00:36:39.829 --> 00:36:40.949]  Wouldn't that be problematic?
+[00:36:41.789 --> 00:36:48.269]  And ultimately, when push comes to shove, all of this boils down to what America First really means.
+[00:36:48.449 --> 00:36:50.590]  What it means to be America First.
+[00:36:51.250 --> 00:36:56.990]  Vivek came out and made a comment saying that being America first means America in first place.
+[00:36:57.400 --> 00:37:05.000]  Basically, we haven't heard from him ever since he made that remark because It means putting America first always.
+[00:37:05.280 --> 00:37:17.360]  Whether it's America before England, whether it's America before Taiwan, whether it's America before Ukraine, whether it's America before Israel or Canada or Mexico or China or anywhere, that's what America first means.
+[00:37:17.739 --> 00:37:24.739]  It means that we can still help our allies, we can still be involved in the global stage, but never at the expense of American interests.
+[00:37:24.980 --> 00:37:25.739]  That's what it means.
+[00:37:27.360 --> 00:37:38.179]  And many of these anti-Semitic remarks that I've seen, though I believe misguided, are based on the notion that we should not be selling out the interests of the American people for the interests of other countries like Israel.
+[00:37:38.679 --> 00:37:53.380]  And I don't like getting into the Israel thing that much because I think it's complicated, and I think that it's oversimplified, and I think that there's a whole massive army of people that reduce every one of our problems in the United States of America to Israel, and I just think that's too basic.
+[00:37:53.880 --> 00:37:55.139]  It's too simple.
+[00:37:55.280 --> 00:37:55.739]  It's too stupid.
+[00:37:55.900 --> 00:38:01.300]  I think most of what Israel does that people criticize is not actually rooted in Israel's motives at all.
+[00:38:01.380 --> 00:38:14.699]  I think it's our own CIA operating Israel for the sake of justifying our involvement as the United States of America in the Middle East to protect things like the IMEC Corridor and the dollar as the global reserve currency against an expansive Belt and Road Initiative from the Chinese.
+[00:38:16.400 --> 00:38:27.139]  And these wars with Iran are not wars that we would go into on behalf of Iran's interests, but wars that our own intelligence community would have us go into on behalf of the interests of protecting the dollar as a global reserve currency.
+[00:38:27.340 --> 00:38:30.440]  Ultimately, the problem being that the dollar cannot stand on its own.
+[00:38:30.559 --> 00:38:39.699]  It requires us to be involved incessantly in the Middle East in war after war, conflict after conflict, human rights violation after human rights violation, and terrorist coup after terrorist coup.
+[00:38:40.340 --> 00:38:49.460]  I mean, Joe Biden did not leave all of that weaponry behind in Afghanistan just because he was incompetent and stupid, though he was both of those things, incompetent and stupid.
+[00:38:49.880 --> 00:39:06.440]  He left all that weaponry and equipment behind because he knew that it would wind up in the hands of terrorists that would then attack Israel that would then justify totally clearing out the Gaza Strip and allowing the United States to be involved in the Middle East in a more substantial way into the first half of the 21st century, perhaps even the second half of the 21st century.
+[00:39:09.039 --> 00:39:25.380]  And while we're distracted blaming Israel, Israel, Israel, Jews, Jews, Jews, Jews, Jews, and making claims about how many Jews are involved in the media business or how many Jews are involved in Hollywood, we've got example after example of other things that we should absolutely be paying attention to that have nothing to do with the JQ.
+[00:39:26.360 --> 00:39:37.659]  Things like Bill Gates advocating for blocking out the sun in this globalist government war on nature.
+[00:39:38.320 --> 00:39:56.699]  Keep in mind, folks, you realize that the climate hoaxers, the climate advocates, the climate cult, the lunatics that have been constantly, incessantly claiming that mankind is responsible for all of the change that we've seen in the environment and that it will ultimately culminate in the destruction of the entire planet are now advocating for man-made climate change.
+[00:39:57.300 --> 00:39:58.699]  Explicitly so, and I believe.
+[00:39:59.389 --> 00:40:02.570]  That people of the world have an impact on the climate.
+[00:40:02.809 --> 00:40:09.250]  I believe that as we were created to be stewards of creation, we should continue to be good stewards of the planet.
+[00:40:09.389 --> 00:40:11.190]  Avoid things like pollution.
+[00:40:11.670 --> 00:40:16.510]  Avoid things like putting atrazine or fluoride in the water or food dyes in the food.
+[00:40:16.809 --> 00:40:26.590]  Or inoculating all of our livestock with questionable mRNA vaccines that could then transmute or translate into inoculations of the American people.
+[00:40:26.909 --> 00:40:53.949]  In a sickening way, I believe that we should fight things like whatever the hell is causing drastic increases in infertility rates, drastic decline in testosterone among men to the point where we're even wondering now if men are going to be able to impregnate women by the year 2050 if we continue to go at this rate with microplastics and the aerosols in the air and the pesticides that are all over our crops and the vaccines that we're just pummeling babies with.
+[00:40:54.480 --> 00:41:00.500]  I mean, it's absolutely disgusting what we are doing in so many ways, but all of that is ignored.
+[00:41:00.699 --> 00:41:07.940]  And instead, the left and the globalists focus incessantly on green energy and fossil fuels as the major problem.
+[00:41:08.059 --> 00:41:22.019]  I mean, why is it that Mark Carney is simultaneously advocating so strongly for central bank digital currencies on the one hand as a former banker and economist, and then on the other hand, simultaneously advocating that we keep 70% of the world's carbon underground?
+[00:41:22.799 --> 00:41:24.599]  What do the two have to do with one another?
+[00:41:24.739 --> 00:41:28.219]  Why is globalism so intimately tied in with green energy?
+[00:41:28.920 --> 00:41:39.739]  And you see that the Joe Bidens when they were the presidents of the United States and the other politicians that come out and advocate and tweet and post on behalf or in support of specific green energy companies, you see that they're all in bed together.
+[00:41:40.380 --> 00:41:55.639]  That there's emails from the boards of directors of these green energy companies and Rosemont Seneca going back to 2014, 15, and 16 when Hunter Biden was exploiting his father's position as Vice President of the United States for the sake of his own benefit, all while selling out to China, incessantly.
+[00:41:56.820 --> 00:42:07.079]  But why is it that they're so focused on the fossil fuel carbon tax aspect of things, claiming over and over again, how dare you?
+[00:42:07.909 --> 00:42:24.590]  That we're destroying the planet because of the way that we produce energy, but at the same time, they're doing everything they can to bring down the RFKs and the others who are doing everything possible to mitigate all of these health risks and harms that are so obviously being perpetuated on our own population and our children and generations to come.
+[00:42:25.150 --> 00:42:29.610]  To the point where we aren't having enough children in this country to replace adults in this country.
+[00:42:29.809 --> 00:42:36.349]  To the point where the Chuck Schumers and others are advocating for importing in migrants to replace the population that is declining here.
+[00:42:36.469 --> 00:42:45.670]  Literally the definition of replacement migration while claiming that, claiming that replacement migration exists is in and of itself racist, bigoted and xenophobic.
+[00:42:46.280 --> 00:42:52.519]  Well, I tell you what, folks, xenophobia is the only righteous perspective when all of the other cultures suck.
+[00:42:52.659 --> 00:43:03.320]  You should be afraid of other cultures when your country is the best culture and these other cultures are trying to come in and dilute and pollute and water down and erode everything that your culture stands for.
+[00:43:03.610 --> 00:43:09.889]  And I'm not saying it's Americanism or BS, like self-righteousness that we should be fighting for.
+[00:43:10.010 --> 00:43:12.929]  Just by virtue of being American, we're better because we're American.
+[00:43:13.030 --> 00:43:13.329]  No, no, no.
+[00:43:13.449 --> 00:43:26.389]  It's because we believe in things like private property rights, freedom of religion, the right to bear arms, free speech, punctuality, innovation, industry, capitalism, success, self-actualization.
+[00:43:26.880 --> 00:43:33.860]  Virtually every single major accomplishment that's occurred over the course of the last 150 years has been a product of the values of Western civilization.
+[00:43:33.900 --> 00:43:38.199]  They are being eroded by other cultures like Sharia law or whatever the hell.
+[00:43:39.019 --> 00:43:42.719]  So xenophobia is the only righteous and just response to that.
+[00:43:42.780 --> 00:43:56.039]  And they can call you xenophobic as an ad hominem attack, as an attack on your character, but they can never make an argument against xenophobia when you're trying to develop the most superior culture that's ever existed in the history of written mankind.
+[00:43:56.739 --> 00:43:58.519]  The written history of mankind.
+[00:43:59.099 --> 00:44:06.219]  Against the onslaught of just sexism and bigoted behavior and just covering women up.
+[00:44:06.570 --> 00:44:19.730]  And throwing homosexuals off a building just by virtue of them being gay, without even being allowed to explore the fact that the reason people are gay to begin with probably has something to do with toxoplasmosis in kitty litter when the mother is pregnant with the child.
+[00:44:20.570 --> 00:44:22.730]  But we can't get to the bottom of any of these things.
+[00:44:22.750 --> 00:44:32.789]  We can't do any research on IQ and development because anytime anyone comes out with a study that has anything groundbreaking on the topic, it's perceived as racist by this wokest ideology.
+[00:44:33.659 --> 00:44:35.340]  But let's watch this clip here.
+[00:44:35.639 --> 00:44:47.239]  The crew is found of manipulating the climate for the sake of some globalist ideal utopia of a beautiful planet where I guess nobody would live because depopulation must take place in order for the planet to survive.
+[00:44:47.400 --> 00:44:48.400]  Let's watch.
+[00:44:48.400 --> 00:44:50.170]  Hi, my name is Andrew Sam.
+[00:44:50.410 --> 00:44:52.460]  I'm the co-founder of I Make Sunsets.
+[00:44:52.460 --> 00:44:55.460]  We launch reflective clouds into the stratosphere to cool earth.
+[00:44:55.469 --> 00:44:59.070]  The eventual mission of make sunsets is to reverse global warming.
+[00:44:59.230 --> 00:45:02.489]  It works by copying what volcanoes have been doing for millions of years.
+[00:45:02.769 --> 00:45:05.769]  There was a volcanic eruption back in 1991, Mount Pinatubo.
+[00:45:05.989 --> 00:45:09.889]  It launched 20 million tons of SO2 into the stratosphere in a cool year.
+[00:45:10.309 --> 00:45:17.510]  By 0.5 degrees Celsius, what we're doing is copying them by using balloons to launch reflective particles into the stratosphere.
+[00:45:17.690 --> 00:45:18.610]  It's super leverage.
+[00:45:18.949 --> 00:45:23.510]  One gram of our material offsets the warming effect of one ton of CO2 for a year.
+[00:45:23.570 --> 00:45:24.849]  So it's one to a million leverage.
+[00:45:25.309 --> 00:45:29.849]  There isn't a lot of solutions out there that has little amounts that can offset a ton.
+[00:45:29.989 --> 00:45:32.909]  I have two kids, and I really care about their futures.
+[00:45:33.170 --> 00:45:37.269]  I want them to live in a world where they're not impacted by catastrophic climate.
+[00:45:38.730 --> 00:45:41.269]  So I guess global warming has come back out of nowhere.
+[00:45:41.269 --> 00:45:44.150]  All of a sudden, global warming is some real thing.
+[00:45:44.610 --> 00:45:49.170]  I remember for a long time it was global warming, and then we found out that climate wasn't warming as much as they said it was.
+[00:45:49.250 --> 00:45:50.809]  So then it became climate change.
+[00:45:50.969 --> 00:45:53.769]  Now that they want to block out the sun, it's become global warming again.
+[00:45:54.250 --> 00:46:02.550]  But you realize, since the CO2 has increased in the atmosphere over the course of the last however many decades, that the planet is 70% greener than it was before?
+[00:46:03.110 --> 00:46:05.110]  You realize there's more greenery ever?
+[00:46:06.949 --> 00:46:13.409]  You realize that the real reason for the death of humanity and the real climate scare is global cooling.
+[00:46:13.550 --> 00:46:20.809]  Trump has said it, but other scientists and experts and archaeologists and geologists like Randall Carlson and Graham Hancock and others have said this.
+[00:46:20.889 --> 00:46:23.510]  Global cooling is what you really have to be afraid of, not global warming.
+[00:46:23.800 --> 00:46:29.219]  Because when you have a warm climate with high CO2 levels, then you have amazing crop yields.
+[00:46:29.400 --> 00:46:39.159]  You have a green, beautiful planet that flourishes off of consuming the CO2 and then pushing out the oxygen that we all breathe, and then we have plants and agriculture that we can all live off of.
+[00:46:39.260 --> 00:46:41.440]  But somehow, global warming is a major problem again.
+[00:46:42.219 --> 00:46:44.960]  Do you know what happens when the planet cools down?
+[00:46:45.840 --> 00:46:47.440]  The Dark Ages happens.
+[00:46:47.780 --> 00:46:54.079]  You can look at the average temperature of the planet during the Dark Ages, and geologists and others have been able to figure this out using carbon dating and other things like that.
+[00:46:54.239 --> 00:46:55.579]  Other markers in the ground.
+[00:46:56.000 --> 00:46:57.139]  Fairly sophisticated science.
+[00:46:57.380 --> 00:47:03.719]  We know that during the Dark Ages, during massive famine periods in the history of humanity, the planet has been cooler.
+[00:47:04.139 --> 00:47:11.960]  And now they're trying, out of their own scientific cult of self-righteousness, to artificially make the planet cooler, which would do what?
+[00:47:12.119 --> 00:47:13.980]  It would then make the planet less green.
+[00:47:13.980 --> 00:47:15.380]  Which would then result in what?
+[00:47:15.519 --> 00:47:17.599]  Which would then make crop yields lower.
+[00:47:17.760 --> 00:47:18.780]  Which would then result in what?
+[00:47:19.460 --> 00:47:29.039]  Starvation caused, created, manufactured, artificial food shortages perpetuated by globalist ideals of doing things like blocking out the sun.
+[00:47:30.769 --> 00:47:32.489]  And it sums just an amazing thing.
+[00:47:32.610 --> 00:47:35.150]  You got this hip scientist Chinese guy.
+[00:47:35.150 --> 00:47:38.329]  He's talking about his two kids that he's really caring about the future.
+[00:47:38.369 --> 00:47:43.349]  And we're going to block the sun from the planet when we know that the sun is the source of all life on the planet.
+[00:47:43.489 --> 00:47:50.050]  Such that humanity, for the history of humanity, has worshipped false gods that represent the sun going all the way back to ancient Egypt.
+[00:47:50.150 --> 00:47:57.769]  And we've known that without the sun, this place is going to die in a freezing ball of ice with no foliage whatsoever.
+[00:47:59.119 --> 00:48:07.460]  But no, no, we've done the research and we should be experimenting with pumping these aerosols into the air to create artificial clouds to block out the sun.
+[00:48:08.599 --> 00:48:15.300]  That's the definition of what was the first response in the Matrix movie to the solar-powered artificial intelligence that took over.
+[00:48:15.360 --> 00:48:21.900]  The first thing they did was scorch the sky in a dystopian future in all of our lore as Western human beings.
+[00:48:22.570 --> 00:48:25.110]  The sun always seems to go first.
+[00:48:25.170 --> 00:48:31.429]  It always seems to be blocked out, shaded, eradicated, removed, neutered.
+[00:48:32.250 --> 00:48:45.630]  So just as we have resulted or caused the deferralization of our own species, the lack of fertility rates of our own species, the lack of testosterone of our own species, we're trying to do the same thing for some reason.
+[00:48:45.730 --> 00:48:49.150]  The globalists are trying to do the same thing they've done to us, neutering us.
+[00:48:50.159 --> 00:48:50.940]  Sterilizing us.
+[00:48:51.139 --> 00:48:54.699]  They're trying to do the same thing to the planet, all in the name of loving the planet so much.
+[00:48:54.980 --> 00:49:04.500]  Just as the Democrats claim that they love transgender children so much, that their advocacy is for sterilizing the entire population of transgender children.
+[00:49:05.289 --> 00:49:13.130]  What kind of political movement can simultaneously express and claim that it loves a group while sterilizing that group?
+[00:49:13.289 --> 00:49:17.349]  What movement can claim that it loves a planet while sterilizing a planet?
+[00:49:17.510 --> 00:49:29.170]  I mean, these people are so warped in their entire philosophy that it's going to result in the entire death of humanity itself, the premature apocalypse of humanity itself, if we allow them to continue in this behavior.
+[00:49:30.230 --> 00:49:31.809]  It's absolutely disgusting.
+[00:49:33.840 --> 00:49:59.400]  And for a nation built on Norman Rockwell values of Thanksgiving and nuclear family and hard-working factory workers and manufacturers and farmers, all of these beautiful things that we see in mid-century paintings and ideals from our ancestors, from our people, from our population and our culture, they're all being systematically destroyed by the globalist elite, whether it's in the brainwashing of our children, the total eradication of our planet.
+[00:49:59.869 --> 00:50:05.849]  The destruction of the sun itself from its ability to impact the planet in a positive way, all under complete attack.
+[00:50:06.070 --> 00:50:07.809]  And that's why they're trying to bring down Infowars.
+[00:50:08.369 --> 00:50:10.289]  That's why they're trying to bring down Alex Jones.
+[00:50:10.510 --> 00:50:12.130]  Not because of anything he got wrong.
+[00:50:12.250 --> 00:50:17.329]  Not because he got one thing wrong ten years ago, despite the fact that CNN got ten things wrong one hour ago.
+[00:50:18.329 --> 00:50:20.289]  But because of everything that he's getting right.
+[00:50:20.510 --> 00:50:27.010]  Because myself, the other hosts like Harrison and Owen and this crew and Alex Jones are all calling them out.
+[00:50:27.900 --> 00:50:37.539]  Worldwide, reaching millions of people every single day by pointing out all of the fallacies and all of their arguments to people who just want to know the truth despite how difficult and painful the truth is.
+[00:50:37.719 --> 00:50:39.219]  How terrifying the truth is.
+[00:50:39.400 --> 00:50:42.960]  That's why they're trying to shut us down and that's why we need your support more now than ever.
+[00:50:43.280 --> 00:50:50.119]  That's why we need you to go to Infowarsstore.com and purchase anything you possibly can to keep this crew operational.
+[00:50:50.590 --> 00:50:56.210]  Because we've bought a little bit of time before the inevitable destruction of InfoWars, before we have to launch the second operation.
+[00:50:56.409 --> 00:50:59.090]  And in that interim, we need you to go to InfoWarsStore.com.
+[00:50:59.210 --> 00:51:00.650]  You will get your orders.
+[00:51:01.010 --> 00:51:01.969]  Get the fish oil.
+[00:51:02.110 --> 00:51:04.750]  It's amazing for your dreams, your mind, your health.
+[00:51:05.010 --> 00:51:08.389]  Get the Ultra 12. The vitamin B12 is so good for your immune system.
+[00:51:08.550 --> 00:51:12.269]  The Brain Force Plus is one of my favorite products we've ever sold on any store of all time.
+[00:51:12.489 --> 00:51:13.090]  Nitric Boost.
+[00:51:13.210 --> 00:51:14.469]  Cannot get it anywhere else.
+[00:51:14.590 --> 00:51:15.329]  Cleans out the blood.
+[00:51:15.630 --> 00:51:18.610]  Amazing to counteract the spike protein effects of the vaccines.
+[00:51:18.789 --> 00:51:20.150]  Please go to InfoWarsStore.com.
+[00:51:20.719 --> 00:51:31.929]  And stay tuned for more news on European leaders in favor of a restrictive migration policy are gathering in Budapest today for a meeting of minds.
+[00:51:32.210 --> 00:51:36.190]  It follows yesterday's vote in Hungary to stop Soros.
+[00:51:36.329 --> 00:51:42.469]  That's a series of laws that criminalize any individual or group who help asylum seekers, including NGOs.
+[00:51:42.789 --> 00:51:45.429]  Well, the move defies the EU and human rights groups.
+[00:51:45.610 --> 00:51:53.110]  Amongst those at the meeting will be Austrian Chancellor Sebastian Kurz, an immigration hardliner, as well as Hungarian leader Viktor Orban.
+[00:51:53.530 --> 00:51:55.170]  And MPs also...
+[00:51:55.171 --> 00:52:11.590]  This is again another complicated topic.
+[00:52:11.730 --> 00:52:16.889]  Why is there so much support on tightening restrictions on asylum in Hungary?
+[00:52:17.710 --> 00:52:25.090]  Well, Viktor Orban sees himself as the defender of Christian Europe, as the protector, as a perceived Muslim invasion.
+[00:52:25.329 --> 00:52:27.349]  And this rhetoric brought him a...
+[00:52:27.351 --> 00:52:29.871]  Crushing victory in the last elections in April.
+[00:52:29.940 --> 00:52:31.900]  He won a two-third majority in the parliament.
+[00:52:32.480 --> 00:52:34.360]  And, well, we've seen that in other countries as well.
+[00:52:34.500 --> 00:52:36.960]  Being tough on immigration attracts voters.
+[00:52:37.260 --> 00:52:41.260]  We've seen it in Italy, in Austria and other EU member states.
+[00:52:41.500 --> 00:52:45.119]  And the Stop Soros campaign slogan was a very popular one.
+[00:52:45.440 --> 00:52:50.179]  Now, George Soros is seen as the person who is organising this imaginary...
+[00:52:50.440 --> 00:52:57.300]  For an invasion, because if you look at the numbers, Hungary has actually one of the lowest immigration rates of the whole European Union.
+[00:52:57.480 --> 00:53:01.840]  But George Soros is seen as the personification of this invasion.
+[00:53:02.039 --> 00:53:09.719]  And the fact that Soros is Hungarian, well, it probably really bothers Orban, who sees Soros as some traitor of his country.
+[00:53:09.960 --> 00:53:18.000]  And that may be an explanation why this Stop Soros bill was voted by such a large majority yesterday in Budapest.
+[00:53:19.529 --> 00:53:22.630]  Obviously, human rights groups are not going to be happy with this.
+[00:53:22.989 --> 00:53:24.030]  What can they do?
+[00:53:24.170 --> 00:53:25.730]  What will their response be to this?
+[00:53:26.440 --> 00:53:31.400]  Well, of course, they are very disappointed and even upset by this new rule.
+[00:53:31.800 --> 00:53:34.739]  Their hope, of course, is the European Union.
+[00:53:35.119 --> 00:53:40.559]  The Council of Europe, which is the continent's leading human rights institution, is currently reviewing the bill.
+[00:53:40.960 --> 00:53:46.219]  They had asked the Hungarians to wait with the vote, but Budapest decided to ignore this call.
+[00:53:46.400 --> 00:53:51.119]  But it may well be that this bill is not respecting any European laws.
+[00:53:51.460 --> 00:53:55.940]  I think later today the European Commission will issue a reaction to what's happening.
+[00:53:56.039 --> 00:54:14.320]  Now in Budapest, but for the moment, the human rights organizations, well, they really have to comply with the new rules because they risk a jail, a prison jail, sorry, a prison sentence for one year if they help illegal immigrants to apply for asylum.
+[00:54:14.539 --> 00:54:18.280]  So the only hope now is the European Commission and the Council of Europe.
+[00:54:18.519 --> 00:54:25.500]  And I think later today we will have reactions from Brussels and probably also a warning to Viktor Orban.
+[00:54:25.789 --> 00:54:28.210]  Yeah, but Stefan, it's not the first warning.
+[00:54:28.409 --> 00:54:33.309]  The EU has already said before, Hungary, you cannot do this, but Hungary went ahead and did it.
+[00:54:33.429 --> 00:54:34.929]  So will that change anything?
+[00:54:35.070 --> 00:54:36.409]  Will the EU's reaction change anything?
+[00:54:37.309 --> 00:54:38.570]  You're absolutely right.
+[00:54:38.889 --> 00:54:42.389]  Viktor Orban has been defying the European Union for many years now.
+[00:54:42.590 --> 00:54:45.969]  And we've seen that Brussels is basically, well, they can't do anything.
+[00:54:46.110 --> 00:54:46.769]  They can threaten.
+[00:54:47.250 --> 00:54:49.110]  We're seeing the same thing with Poland.
+[00:54:49.789 --> 00:55:00.230]  They are, of course, trying to get Poland on track because they are not respecting, according to Brussels, the basic rules of a law society.
+[00:55:01.230 --> 00:55:04.230]  And so they can threaten.
+[00:55:04.369 --> 00:55:05.110]  But what can they do?
+[00:55:05.329 --> 00:55:06.829]  There is a procedure to...
+[00:55:06.831 --> 00:55:18.371]  We exclude the European member states, but this has never been used in the history of Europe, and it will be very difficult because it's, well, it's very unpopular, especially now in these times that populist parties are gaining more and more votes.
+[00:55:18.929 --> 00:55:24.869]  So, yeah, the European Union can yell, they can shout, but at the end, it's Viktor Orban who wins.
+[00:55:25.289 --> 00:55:30.789]  And very briefly, Stefan, what's interesting is, again, we're going to have this summit, and Hungary will be in the midst of all those leaders.
+[00:55:31.010 --> 00:55:32.269]  What do you expect from that?
+[00:55:33.039 --> 00:55:34.039]  Well, not much.
+[00:55:34.159 --> 00:55:42.059]  I think the agreement will be that Hungary should respect European law, that the European Commission will look into it.
+[00:55:42.139 --> 00:55:52.360]  But more importantly, there's another extra mini-summit this weekend in Brussels with Italy, Germany, the Netherlands, a number of other countries on the issue.
+[00:55:54.239 --> 00:56:00.579]  That the migrant issue is really, well, we've talked about this many times this week already, is one of the most urgent this week.
+[00:56:00.960 --> 00:56:07.579]  And it really doesn't, it's not logical because, as we've seen, the numbers are down.
+[00:56:07.880 --> 00:56:10.619]  There are actually very few immigrants coming to Europe now.
+[00:56:10.940 --> 00:56:16.880]  And even in Hungary, there are currently around 3,000 refugees living in Hungary on a population of 10 million.
+[00:56:17.119 --> 00:56:21.760]  So there's a huge difference between reality and perception.
+[00:56:24.469 --> 00:56:28.369]  All right, ladies and gentlemen, I'm Chase Geiser, your host for the next 54 minutes.
+[00:56:28.730 --> 00:56:30.570]  Wow, time flies when you're having fun.
+[00:56:31.349 --> 00:56:44.690]  We've been covering all the latest from Jen Psaki to Nancy Pelosi to Adam Schiff to Bill Gates trying to block out the sun in order to save the planet, which is really going to result in the total destruction of the planet, which is probably the actual design of these globalists.
+[00:56:44.829 --> 00:56:53.550]  They love depopulation because what it does is it impacts the poorest among us first, those who would be the burden on a neo-feudalist globalist state.
+[00:56:54.670 --> 00:56:57.070]  A new New World Order, to say the least.
+[00:56:57.269 --> 00:57:06.829]  It eradicates all of them so they can corral everyone else into some complicit civilization that supports their globalist cabal.
+[00:57:06.929 --> 00:57:11.090]  Because what they're trying to do is not only maintain their power, but expand their power.
+[00:57:11.210 --> 00:57:12.829]  And democracy is the greatest threat to that.
+[00:57:12.909 --> 00:57:22.170]  Any sort of representative republic or national sovereignty is a tremendous threat to a political class because we can ultimately force them out or vote them out of power.
+[00:57:22.699 --> 00:57:29.940]  Which is why they want total control over all of our economics, the environment, of our thoughts themselves, of our speech itself.
+[00:57:32.659 --> 00:57:48.599]  And they're ultimately just trying to get a monopoly on every aspect of our lives so they can therefore ensure a monopoly on every individual on the planet and then create themselves a technocratic political class that transcends mortality and defies the laws of God.
+[00:57:48.960 --> 00:57:50.980]  It goes all the way back to Genesis, folks.
+[00:57:51.849 --> 00:58:03.849]  The punishment for eating of the tree of knowledge of good and evil was death, and everything that Satan tries to accomplish, everything that these globalists try to accomplish, is a way to overthrow that sentence.
+[00:58:04.090 --> 00:58:11.030]  It's Satan trying to get control over the commands of God, to find loopholes to get around the punishment of God for the fall of man.
+[00:58:11.329 --> 00:58:15.849]  And so these technocrats are going to find ways to extend their lives abnormally long.
+[00:58:16.610 --> 00:58:25.570]  To duplicate their consciousness, to use artificial intelligence to not only manipulate the masses, but to ensure that their way of life, their philosophy, can perpetuate their power forever.
+[00:58:25.570 --> 00:58:28.690]  They think they can yield, or rather wield, these powers.
+[00:58:29.409 --> 00:58:29.869]  Forever.
+[00:58:31.920 --> 00:58:44.219]  And they do things like cripple and erode our entire civilization by fueling, funding, sponsoring, catalyzing the invasion of our peoples by migrants to the tune of tens of millions of people over the course of the last four years.
+[00:58:44.380 --> 00:59:01.480]  And then when we put a stop to it, they just do ad hominem attack after ad hominem attack on our character saying that Trump's an authoritarian racist, that we're bigoted, that it's white supremacy, that it's because there's something wrong with you that you will not sit down and yield to the rape of your nation by cultures that refuse to assimilate.
+[00:59:01.480 --> 00:59:06.679]  and just totally want to eradicate your way of life, beliefs, thoughts, principles, values, and freedoms altogether.
+[00:59:08.079 --> 00:59:10.719]  If you want freedom, it's because you're a terrible person.
+[00:59:10.820 --> 00:59:13.599]  If you want to defend yourself, it's because you're a terrible person.
+[00:59:13.599 --> 00:59:17.920]  If you believe in freedom of speech and thought and action, it's because, well, you're a terrible person.
+[00:59:18.699 --> 00:59:23.659]  Because fundamentally, this entire globalist philosophy is a philosophy of human sacrifice.
+[00:59:23.860 --> 00:59:35.139]  The same human sacrifice that we saw from the Mayans or the Romans or others throughout every mystery religion throughout history that culminated and catalyzed and manifested at a pinnacle right before the total collapse of that civilization itself.
+[00:59:35.320 --> 00:59:39.059]  I mean, human sacrifice is what comes right before the fall of any civilization.
+[00:59:39.260 --> 00:59:40.300]  Well documented, we know it.
+[00:59:40.559 --> 00:59:48.159]  And their entire globalist philosophy is pinned on, based on, the sacrifice of the individual to the masses, the sacrifice of the nation.
+[00:59:49.940 --> 00:59:55.300]  They erode national sovereignty because it is in opposition to globalism.
+[00:59:55.440 --> 00:59:58.739]  They erode individual sovereignty because it propels national sovereignty.
+[00:59:58.920 --> 01:00:03.480]  And they don't believe in anything like self-actualization because it's the antithesis of equity.
+[01:00:03.900 --> 01:00:13.400]  This philosophy of equity is about sacrificing your potential for the sake of some mediocrity or desperation even that would manifest as a result of their philosophy.
+[01:00:13.639 --> 01:00:20.719]  A desperation which could then be exploited for the sake of total subjugation and neo-feudalism the likes of which the world has never seen before.
+[01:00:21.159 --> 01:00:23.099]  But Barack Obama is such a great guy.
+[01:00:23.739 --> 01:00:31.760]  The Obamas and their philosophy, it's just so balanced and calming and reassuring and we have such confidence in the competence of such an esteemed leader.
+[01:00:32.059 --> 01:00:40.599]  Of such a well-spoken political leader who brought the world together despite the fact that he forced our whistleblowers and journalists to flee to Moscow for sanctuary.
+[01:00:41.320 --> 01:00:47.659]  Here's Obama talking about deportations in clip number 13. Remember this.
+[01:00:47.820 --> 01:00:49.360]  If you're a criminal, you'll be deported.
+[01:00:49.960 --> 01:00:55.139]  If you plan to enter the US illegally, your chances of getting caught and sent back just went up.
+[01:00:55.239 --> 01:00:57.219]  The actions I'm taking are not only lawful...
+[01:00:57.530 --> 01:01:03.750]  They're the kinds of actions taken by every single Republican president and every single Democratic president for the past half century.
+[01:01:03.949 --> 01:01:06.309]  You wouldn't believe that looking at the media today, though.
+[01:01:06.550 --> 01:01:12.090]  They act like Trump is the worst, most evil person ever for deporting illegal alien criminals.
+[01:01:12.269 --> 01:01:18.630]  Yet Obama, Bill Clinton, and other Democrats We're all on board with this for years up until Trump.
+[01:01:18.829 --> 01:01:20.349]  And they're on tape saying so.
+[01:01:20.469 --> 01:01:21.510]  Committed a crime?
+[01:01:21.809 --> 01:01:22.570]  Deport them.
+[01:01:22.690 --> 01:01:23.670]  No questions asked.
+[01:01:23.789 --> 01:01:24.269]  They're gone.
+[01:01:24.590 --> 01:01:27.150]  Public service they use impose burdens on our taxpayers.
+[01:01:27.849 --> 01:01:42.050]  That's why our administration has moved aggressively to secure our borders more by hiring a record number of new border guards, by deporting twice as many criminal aliens as ever before, by cracking down on illegal hiring, by barring welfare benefits to illegal aliens.
+[01:01:42.150 --> 01:01:50.929]  We use phrases like undocumented workers, We convey a message to the American people that their government is not serious about combating illegal immigration.
+[01:01:51.740 --> 01:01:58.420]  We simply cannot allow people to pour into the United States undetected, undocumented, unchecked.
+[01:01:58.480 --> 01:02:05.719]  We will try to do more to speed the deportation of illegal aliens who are arrested for crimes, to better identify illegal aliens in the work face.
+[01:02:05.840 --> 01:02:12.539]  This is your reminder that Obama deported 5.3 million people and Bill Clinton deported 12.3 million.
+[01:02:12.639 --> 01:02:13.619]  They were fine with it then.
+[01:02:13.639 --> 01:02:21.278]  Democrats for years and years and years advocated for protecting our borders because they knew that it was essential or necessary for them to do so to ensure their own political success.
+[01:02:21.278 --> 01:02:23.778]  But what we've seen is an entire shift.
+[01:02:23.878 --> 01:02:27.519]  Now they want the border to be wide open to replace the population here.
+[01:02:27.519 --> 01:02:36.678]  Now they want the explicit depopulation of our own civilization through things like puberty blockers and the sterilization and just queer ideology.
+[01:02:36.680 --> 01:02:42.480]  They want everybody just kind of living in some hedonistic swamp.
+[01:02:43.070 --> 01:02:51.289]  And having no children and having no resources to the point where Klaus Schwab would be proven right in that you will owe nothing, but certainly you will not be happy.
+[01:02:52.630 --> 01:02:59.289]  And I'll show you a clip here, 14, of a pride parade in New York where the queers are coming for your children to give you an example of this.
+[01:02:59.389 --> 01:03:01.250]  But ultimately what this is about...
+[01:03:01.309 --> 01:03:14.929]  Is the major population crisis that is manifesting in the world and all of the political elites trying to do what they can to ensure who gets depopulated and who doesn't and who controls the post-collapse infrastructure of the world on the other side.
+[01:03:15.070 --> 01:03:25.389]  Let's watch clip 14. We're clear and we're here for your children.
+[01:03:28.529 --> 01:03:31.090]  And look, I believe in gay rights and things of that nature.
+[01:03:31.250 --> 01:03:32.929]  I think that gay people should be allowed to be gay.
+[01:03:33.090 --> 01:03:34.389]  I don't care what people do in their bedroom.
+[01:03:34.409 --> 01:03:35.210]  I have gay friends.
+[01:03:35.349 --> 01:03:36.389]  They're perfectly nice people.
+[01:03:37.349 --> 01:03:39.650]  Yes, there are certain things about the culture that make me uncomfortable.
+[01:03:39.650 --> 01:03:45.750]  I'm not so sure that I believe it's okay or good for gay people to be able to adopt children because there's so much abuse that goes on.
+[01:03:45.849 --> 01:03:47.309]  We've seen example after example of this.
+[01:03:47.409 --> 01:03:48.630]  We've seen case after case of this.
+[01:03:48.929 --> 01:03:55.429]  Famous case in Florida where this Gay couple were adopting young boys just so they could abuse them and even pawn them out to their peer group.
+[01:03:55.750 --> 01:03:58.449]  I think this thing is rampant and happening all over the place.
+[01:03:59.110 --> 01:04:01.610]  Much more than we've seen yet and I think we'll see more of it.
+[01:04:02.710 --> 01:04:11.230]  But ultimately what's going on here is there's a massive depopulation underway, somewhat intentional, somewhat a consequence of unintentional policies.
+[01:04:12.789 --> 01:04:14.170]  We've got this...
+[01:04:14.171 --> 01:04:17.471]  Gender ideology coming through, which is reducing the amount of children.
+[01:04:17.599 --> 01:04:29.139]  We've got this inflation policy coming through, which is reducing the amount of children because it's forcing people to get married later and have children later in life and ultimately not having enough children at all to replace the current population that exists in the United States of America.
+[01:04:30.250 --> 01:04:47.230]  We've got infertility that's rampant, testosterone levels that are abundantly low, abysmally low, and all of it seems to be orchestrated by things like microplastics, aerosols, food dyes, atrazine, fluoride, vaccinations, you name it, the government's doing it and it's causing us to literally die out.
+[01:04:47.349 --> 01:04:48.590]  It's a slow genocide.
+[01:04:48.889 --> 01:04:59.829]  Rather than efficiently killing as many people as possible as some sort of genocide that we might have seen from the 20th century, whether it was from Hitler or from Mao or from Stalin or others, this is a slow bleed, a slow...
+[01:04:59.829 --> 01:05:09.369]  death of generation after generation of decline after decline so that they can orchestrate and construct what the post-apocalypse world is going to look like and it all seems to be happening intentionally.
+[01:05:09.370 --> 01:05:14.429]  What we see now is a massive arms race for artificial intelligence.
+[01:05:14.960 --> 01:05:31.840]  Because the powers that be, the political class, whether it's in Japan or Korea or China or Russia or the United States of America, this national security apparatus which encompasses but is not mitigated or reduced simply to the intelligence community, understands that we need artificial intelligence and robotics to replace the people that are not being born.
+[01:05:32.159 --> 01:05:42.260]  Rather than solving the problem for why people are not being born in the United States of America or other first world countries in the world that are considered allies of the United States of America, we just are having this arms race for artificial intelligence.
+[01:05:42.889 --> 01:05:46.449]  How can we replace humans without replacing humans with humans?
+[01:05:46.789 --> 01:05:47.989]  Is what the philosophy is.
+[01:05:48.070 --> 01:05:48.989]  That's what's so sick about it.
+[01:05:49.010 --> 01:05:51.010]  And I'm somebody who loves artificial intelligence.
+[01:05:51.190 --> 01:05:54.849]  I use AI tools every single day for my work here at InfoWars.
+[01:05:55.230 --> 01:06:06.210]  I use the Groks to do research, to formulate ideas, to create outlines, to study documents, to read 800-page documents that break from releases on Epstein or JFK or whatever and tell me what's really in these documents.
+[01:06:06.250 --> 01:06:07.929]  I use these artificial intelligence tools.
+[01:06:08.309 --> 01:06:24.630]  The development and innovation of technology is itself inevitable, so we should embrace it rather than run away from it, but we should not lean on it or worship it as a false idol either because then we will meet the consequences of worshiping false idols, which is the total destruction of civilization going all the way back.
+[01:06:24.630 --> 01:06:30.798]  to the book of Exodus or Genesis or Leviticus or Numbers or Deuteronomy.
+[01:06:30.809 --> 01:06:38.710]  I mean, it's a tale as old as time, folks, that when you worship a false idol, it's the death of your civilization, one way or the other.
+[01:06:39.010 --> 01:06:45.210]  Whether you believe it's capital T true or lowercase t true and that it happened literally, it's still capital T true.
+[01:06:46.440 --> 01:07:14.219]  And we have this false idol worship happening right now of artificial intelligence from the Sam Altmans, from the Chuck Schumers, from the intelligence community, from the Larry Finks, from others, that could very well result in the total destruction of our population because rather than focusing on worshiping what is good and true and finding a way to save humanity, which is God's creation, it's a form of worshiping God to do what's best for humanity because God is an expression of his godliness made humanity itself.
+[01:07:14.909 --> 01:07:23.849]  Rather than trying to save humanity, we're trying to replace humanity, which by definition is really, truly, fundamentally, foundationally satanic.
+[01:07:25.869 --> 01:07:36.230]  And so I don't know how we can get out of this, what's going to solve this problem, but it's going to be things like RFKs or someone like RFK coming in and making America healthy again.
+[01:07:36.409 --> 01:07:37.829]  It's going to be things like...
+[01:07:37.831 --> 01:07:40.750]  Policies from our politicians that encourage people to have children.
+[01:07:41.099 --> 01:07:51.519]  It's going to be things like changing our entire monetary system fundamentally so we have honest money, which allows people to be able to afford to start having families in their early 20s instead of in their late 30s like they are now.
+[01:07:52.739 --> 01:07:55.960]  My parents got married in 1973, I believe.
+[01:07:56.079 --> 01:07:57.280]  They knew each other since the eighth grade.
+[01:07:57.440 --> 01:08:00.599]  They had their first kid in 1973, and they had four children.
+[01:08:02.519 --> 01:08:03.980]  They were 41 when they had me.
+[01:08:04.039 --> 01:08:04.599]  I was an accident.
+[01:08:05.130 --> 01:08:17.069]  But there was a time in this country where people would have children starting in their early 20s and get married and build a life together rather than trying to build a life independently and siloed and then merging two lives together later on.
+[01:08:17.210 --> 01:08:18.109]  It doesn't work.
+[01:08:18.109 --> 01:08:19.590]  It kills your population over time.
+[01:08:19.729 --> 01:08:32.510]  You're supposed to build a life with someone, not commit adultery, live that life, have a family, have family values, believe in Western civilization and Western values, go through struggle and hardship together without waiting for something better to come along.
+[01:08:32.970 --> 01:08:40.609]  Like our generations are doing now, where they just sleep around and hope that they can land the best thing possible, and they end up with nothing but loneliness and desperation in the end.
+[01:08:42.529 --> 01:09:01.329]  We need to somehow find a way, economically speaking, to get back to a place as a civilization where we have enough faith in our institutions, in our culture, in our beliefs, in our values, that we take the leap with someone special from a young age, and we start a family, and we don't know what's going to happen, but we believe in God enough to believe that it's all going to be all right.
+[01:09:03.280 --> 01:09:10.340]  And right now what we're seeing is a massive arms race for artificial intelligence and robotics taking place between China and the United States of America.
+[01:09:10.340 --> 01:09:17.399]  And others, but China and the U.S. mainly because the United States is having a population crisis, but China's population crisis is like twice as bad as ours.
+[01:09:17.680 --> 01:09:19.500]  They have one child per woman in China.
+[01:09:19.659 --> 01:09:22.460]  You need 2.1 or 2.3 in order to at least break even.
+[01:09:22.600 --> 01:09:25.699]  We're only 1.7 children per woman in the United States of America.
+[01:09:25.699 --> 01:09:32.680]  And we're seeking to replace our population with robotics and artificial intelligence before China can replace theirs.
+[01:09:32.880 --> 01:09:40.960]  So that we don't lean on the CCP into the 21st century and fuel them and fund them becoming the economic powerhouse that the United States was in the 20th century.
+[01:09:41.739 --> 01:09:45.479]  Which is the real reason that we're behind all the conflicts in the Middle East.
+[01:09:45.619 --> 01:09:46.720]  That we support Israel.
+[01:09:46.840 --> 01:09:48.159]  That we're about ready to go to war with Iran.
+[01:09:48.319 --> 01:09:51.279]  It's all over protecting the dollar from that damn Belt and Road Initiative.
+[01:09:51.859 --> 01:09:59.600]  Because we understand that China is trying frantically to figure out any way it can simultaneously develop this astronomically progressive technology.
+[01:10:00.380 --> 01:10:03.159]  And subvert the dollar as the global reserve currency all at once.
+[01:10:03.279 --> 01:10:04.520]  We have Russia doing the same thing.
+[01:10:04.680 --> 01:10:06.239]  We have the BRICS nations doing the same thing.
+[01:10:06.340 --> 01:10:08.260]  I mean, there is an all-out assault on our dollar.
+[01:10:08.319 --> 01:10:28.699]  And if that assault really takes place and manifests and culminates in its pinnacle, in its potential, then we will see a depopulation, the likeness of which we have never seen perhaps since the Younger Dryas, 10,000 to 12,000 years ago when some asteroid hit the planet and just wiped out basically every living species on the planet until it slowly rebuilt.
+[01:10:31.770 --> 01:10:51.890]  So I don't know what's going to happen, but I do know that despite the fact that we won in November and despite the fact that we love the things that we're hearing from the Trump administration and RFK and these other leaders and the Hague-Seths and the Levitts and others, we're actually in a greater position of vulnerability this day than we were even six months ago or six months before that or four years before that.
+[01:10:53.039 --> 01:10:59.779]  Which is why we have to fight harder now than ever to protect things like our national sovereignty, to protect things like our populations.
+[01:10:59.779 --> 01:11:02.880]  And some people are waking up and figuring, I'm going to show you clip number 15 here in a second.
+[01:11:03.060 --> 01:11:05.399]  These protests are erupting in Ireland.
+[01:11:06.029 --> 01:11:31.510]  Just like they're erupting all over the world, in Germany or the United Kingdom, because of this replacement migration that is a result of the depopulation crisis and our political class's willingness to sell out its own populations for the sake of catalyzing this replacement migration because they're just trying to ensure there's some sort of economic base of plebeians beneath them to support their political motives or class itself.
+[01:11:31.510 --> 01:11:43.340]  Let's watch clip number 15. The Irish are fed up with it.
+[01:11:44.439 --> 01:11:50.119]  Nobody wants rapists and murderers and refugees coming into their country, not assimilating with their culture, naming their children Mohammed.
+[01:11:52.979 --> 01:12:03.939]  And I don't know why it is that we're so hung up on whether you support Palestine versus supporting Israel when both of these cultures should be totally irrelevant to anything that's happening in the United States of America.
+[01:12:04.720 --> 01:12:10.659]  Why is it that there are so many among us who, because they love Israel so much, are willing to support a genocide?
+[01:12:11.310 --> 01:12:12.090]  In Gaza?
+[01:12:12.550 --> 01:12:22.869]  And why is it that there's so many on the other side among us who hate Israel so much that they're willing to only advocate against that genocide when there's countless other atrocities occurring throughout the world?
+[01:12:22.970 --> 01:12:34.970]  Whether there's the genocide of Christians all over Africa, or whether it's this insane war, which we're funding way more than we're funding Israel in Ukraine, resulting in the death of hundreds of thousands, if not millions of innocent people, the displacement certainly of millions of people.
+[01:12:35.130 --> 01:12:38.710]  Why are we so selective in which atrocities we care about most?
+[01:12:39.660 --> 01:12:46.359]  Why is it that we allow atrocities to occur all over the continent of Africa with dozens upon dozens of countries in Africa?
+[01:12:46.619 --> 01:12:52.739]  Genocide after genocide, war crime after war crime, human trafficking after human trafficking, health crisis after health crisis in Africa.
+[01:12:52.739 --> 01:13:00.199]  We're willing to just totally ignore that, but somehow for some reason we can justify unseating Gaddafi because maybe he's a threat to his own people?
+[01:13:00.880 --> 01:13:06.539]  Or we want some coup in Syria and that's okay despite the fact that it's going to cause a genocide of Christians?
+[01:13:08.680 --> 01:13:12.239]  Or we support the overthrow of administration or regime in Iraq or Afghanistan.
+[01:13:12.399 --> 01:13:16.300]  I mean, why are we so selective in which human rights or whose human rights we care about?
+[01:13:16.380 --> 01:13:24.319]  Well, it's because the human rights argument is only an excuse to do that which is already going to be done or wants to be done for other political reasons.
+[01:13:24.539 --> 01:13:25.439]  Disgusting reasons.
+[01:13:27.060 --> 01:13:31.979]  Do you think Hillary Clinton really unseated Gaddafi because she gives a damn about the people of Libya?
+[01:13:33.020 --> 01:13:36.039]  Do you think anyone other than Libyans gives a damn about the people of Libya?
+[01:13:36.140 --> 01:13:39.680]  Do you think that anybody other than Americans give a damn about the people of America?
+[01:13:39.880 --> 01:13:43.460]  I don't even think our own political class gives a damn about the people of America.
+[01:13:44.020 --> 01:13:49.100]  It's very obvious with all their policies from the Patriot Act, from getting us into Vietnam on erroneous arguments.
+[01:13:50.070 --> 01:13:56.890]  From war after war overseas, violation after violation of our rights, what they did to the J6ers, what they did to unseat Trump, what they did with COVID-19 and the vaccines.
+[01:13:57.050 --> 01:13:58.689]  I mean, our own political class doesn't care about us.
+[01:13:58.829 --> 01:14:06.109]  Why is it that we suddenly believe them when they claim that they care about some people in some land 5,000 years ago they certainly don't care about whatsoever?
+[01:14:07.149 --> 01:14:13.890]  You think they care about us when they're allowing 10, 20, or 30 million people to come into the United States undocumented from all over the world?
+[01:14:14.090 --> 01:14:17.369]  Tens of thousands of them at least, probably over 100,000 of them.
+[01:14:17.409 --> 01:14:21.069]  We know at least 72,000 of them from terrorist countries.
+[01:14:21.489 --> 01:14:33.090]  Setting up compounds in terrorist cells in the United States of America because our intelligence community understands that if there's a terrorist attack here in the United States, it's just another reason or way they can weaponize it or leverage it to...
+[01:14:34.430 --> 01:14:39.909]  Justify or convince the American people to allow another conflict to take place in the Middle East, which is really all about the dollar.
+[01:14:41.890 --> 01:14:43.449]  Here's Scott Jennings on Marco Rubio.
+[01:14:43.569 --> 01:14:46.550]  This is clip number 18. Scott Jennings talks a little bit about Marco Rubio.
+[01:14:46.710 --> 01:14:48.430]  We'll watch this and unpack it on the other side.
+[01:14:49.710 --> 01:14:53.350]  Well, I actually think this shows a huge amount of confidence in Rubio.
+[01:14:53.529 --> 01:15:04.569]  If you talk to people in the White House, you talk to people who supported Donald Trump, some who were a little skeptical of Rubio because they didn't consider him to necessarily be from the president's wing of this foreign policy thinking.
+[01:15:05.100 --> 01:15:07.340]  They believe Rubio has done a terrific job.
+[01:15:07.479 --> 01:15:10.199]  He has been a consistent spokesperson for the president's priorities.
+[01:15:10.420 --> 01:15:12.399]  He did a great job on the El Salvador issue.
+[01:15:12.560 --> 01:15:14.600]  He did a great job on the student visa issue.
+[01:15:14.800 --> 01:15:18.840]  He is one of the smoothest communicators that the administration has.
+[01:15:19.000 --> 01:15:24.680]  It's obvious they have a lot of confidence in him, not just because they gave him Secretary of State, but they put him in at USAID.
+[01:15:24.840 --> 01:15:27.340]  They have him do a massive reorg in the State Department.
+[01:15:27.479 --> 01:15:27.800]  He's a busy guy.
+[01:15:27.939 --> 01:15:28.880]  Now they've given him this game.
+[01:15:28.979 --> 01:15:30.079]  They've got confidence in this guy.
+[01:15:30.079 --> 01:15:30.779]  That's part of the point.
+[01:15:30.899 --> 01:15:31.500]  He's been a star.
+[01:15:31.640 --> 01:15:32.779]  I've been with the president.
+[01:15:33.359 --> 01:15:35.899]  Recently, I've watched him in these meetings.
+[01:15:35.920 --> 01:15:38.399]  I've seen the way things are working.
+[01:15:39.079 --> 01:15:39.939]  There is no chaos.
+[01:15:40.159 --> 01:15:44.619]  But I can tell you this, unlike in the administration you work for, there's no doubt who's running the country, and it's Donald Trump.
+[01:15:44.920 --> 01:15:49.300]  There might be agencies where they have fired career professionals all throughout the national security.
+[01:15:49.600 --> 01:15:49.619]  Oh, no.
+[01:15:49.619 --> 01:15:50.439]  They don't fire the bureaucrats.
+[01:15:50.619 --> 01:15:50.699]  You know what?
+[01:15:52.739 --> 01:15:55.119]  We are in a heightened threat environment, Scott.
+[01:15:55.439 --> 01:15:55.439]  Exactly.
+[01:15:56.239 --> 01:15:59.979]  And we cannot have this type of chaos in our national security.
+[01:16:00.279 --> 01:16:01.619]  Well, there's a heightened threat environment.
+[01:16:01.899 --> 01:16:03.000]  He's replaced the language.
+[01:16:07.259 --> 01:16:11.460]  It's just amazing to me that CNN is advocating on behalf of this political class.
+[01:16:11.579 --> 01:16:12.699]  He's politically elite.
+[01:16:13.020 --> 01:16:25.579]  Well, we know that the national security advisors or national security experts responsible for claiming that the Hunter Biden laptop story had all the hallmarks of Russian disinformation totally made everything up.
+[01:16:25.760 --> 01:16:30.039]  When we know that all the scientists totally lied about the safety and efficacy of the vaccine.
+[01:16:30.039 --> 01:16:35.659]  When we know that the head scientist, Fauci, lied about the very nature of the development of the virus itself.
+[01:16:36.000 --> 01:16:37.880]  Saying that it wasn't gain-of-function research.
+[01:16:38.060 --> 01:16:41.380]  Saying that it wasn't being funded overseas by the United States of America.
+[01:16:41.399 --> 01:16:42.340]  And we know that it was.
+[01:16:42.939 --> 01:16:47.560]  Now we've got China coming out with the audacity saying that this virus came from the United States of America.
+[01:16:47.579 --> 01:16:48.739]  In a way, I guess they're right.
+[01:16:49.100 --> 01:16:50.560]  Because we funded it over there.
+[01:16:51.500 --> 01:17:04.720]  But all of the lies and the dishonesty and the trusting of these experts, these bureaucrats, who have time and time again proven nothing but their capacity to fail us and steal from us and waste our money time and time again is just mind-boggling to me.
+[01:17:04.779 --> 01:17:16.439]  Why is it that CNN would ever trust a government which has infiltrated CNN itself through Mockingbird and other cutouts of the CIA to control the narrative?
+[01:17:17.310 --> 01:17:21.390]  I mean, maybe it's just the case that all of these pundits are totally sold out to the national security apparatus.
+[01:17:21.529 --> 01:17:27.670]  Maybe they've totally sold out, and that's the reason that our people are just inundated and saturated with lie after lie after lie.
+[01:17:27.729 --> 01:17:28.670]  I think that's probably it.
+[01:17:28.850 --> 01:17:41.930]  Whether it was Twitter before it was X, or Facebook, or YouTube, or Google, or all of these mainstream outlets from the New York Times to the Wall Street Journal to whatever magazine, Time magazine, whatever, all totally infiltrated, all totally lies, and we're not falling for it anymore.
+[01:17:42.430 --> 01:17:45.170]  But there's only a handful of places where you can still get the truth.
+[01:17:45.270 --> 01:18:03.630]  There's the Joe Rogans, there's the Tucker Carlson's, there's the Alex Jones's, there's the Infowars's, and they're trying to assault us and attack us in any way you can possibly imagine, to the point where James O 'Keefe has some groundbreaking story he's not going to release until later this week, and he's so scared about the details of the story that he won't tell anybody what's going on, and he's hiding.
+[01:18:05.900 --> 01:18:16.239]  So all the people who are willing to be honest have to hide, and all the people who are willing to lie on behalf of the deep state are propelled and sponsored and promoted by the political class itself.
+[01:18:17.199 --> 01:18:20.140]  And if we want to fight against that, we have to keep InfoWars on the air.
+[01:18:20.239 --> 01:18:21.920]  We have to keep this crew operational.
+[01:18:21.979 --> 01:18:24.060]  We have to keep these hosts broadcasting.
+[01:18:24.159 --> 01:18:26.340]  The truth is they see it to the best of their ability.
+[01:18:26.460 --> 01:18:28.079]  Sometimes we get things wrong, not very often.
+[01:18:29.210 --> 01:18:37.510]  ...worldwide to awaken as many people because ultimately, in a constitutional republic, the greatest threat to that republic is an unenlightened populace.
+[01:18:37.590 --> 01:18:38.970]  So keep the populace enlightened.
+[01:18:39.149 --> 01:18:40.810]  Go to InfoWarsStore.com.
+[01:18:40.930 --> 01:18:42.229]  Get the amazing products.
+[01:18:42.449 --> 01:18:43.729]  Go to the AlexJonesStore.com.
+[01:18:43.829 --> 01:18:44.609]  Sign up as a VIP.
+[01:18:44.829 --> 01:18:46.529]  Be the reason that we'll always be on the air.
+[01:18:46.630 --> 01:18:48.369]  We've got Ultimate Fish Oil at InfoWarsStore.com.
+[01:18:48.449 --> 01:18:51.069]  Ultra 12. Brain Force Plus.
+[01:18:51.289 --> 01:18:51.890]  Nitric Boost.
+[01:18:51.989 --> 01:18:52.470]  Great products.
+[01:18:52.529 --> 01:18:53.130]  You will get them.
+[01:18:53.250 --> 01:18:55.710]  Order them now and keep this operation operational.
+[01:18:55.750 --> 01:18:57.409]  Stay with us for more news on the other side.
+[01:19:00.499 --> 01:19:09.579]  One of the reasons that President Trump got elected, according to President Trump in an interview, I think it was with Kristen Welker of NBC, was because of grocery prices.
+[01:19:09.760 --> 01:19:11.279]  Not the only reason, but a reason.
+[01:19:11.380 --> 01:19:13.300]  High prices, inflation, especially at the grocery.
+[01:19:14.119 --> 01:19:23.159]  The Department of Agriculture says that between 2020 and 2022, 42% of crop workers were undocumented immigrants.
+[01:19:23.359 --> 01:19:28.359]  And in many cases, as you know, these migrants do jobs many Americans do not want to do.
+[01:19:29.600 --> 01:19:47.340]  How do you, how does President Trump make sure that the effort to deport people who are not in this country legally doesn't end up hurting Americans who want safe borders, absolutely, but also don't want to see even more higher prices in groceries?
+[01:19:47.960 --> 01:19:57.300]  Well, I'm sure it's not your position, Jake, you're just asking the question, that we should supply America's food with exploitative, illegal alien labor.
+[01:19:57.680 --> 01:19:59.539]  I obviously don't think that's what you're implying.
+[01:19:59.840 --> 01:20:04.079]  Only 1% of alien workers in the entire country work in agriculture.
+[01:20:04.420 --> 01:20:16.739]  The top destination for illegal aliens are large cities like New York, like Los Angeles, and small industrial towns, of course, all across the heartland, as we've seen with the Biden flights.
+[01:20:17.079 --> 01:20:19.960]  None of those illegal aliens are doing farm work.
+[01:20:20.140 --> 01:20:23.260]  Those 30,000 illegal aliens that Joe Biden dumped into Springfield...
+[01:20:23.260 --> 01:20:24.159]  Yeah, I'm talking about the ones that are...
+[01:20:24.159 --> 01:20:26.079]  No, no, no, but I'm explaining this.
+[01:20:26.159 --> 01:20:26.939]  It's important to understand.
+[01:20:27.039 --> 01:20:28.119]  No, you're kind of changing this subject.
+[01:20:28.539 --> 01:20:29.699]  I mean, I'm talking about the ones...
+[01:20:29.699 --> 01:20:30.840]  I will go...
+[01:20:30.840 --> 01:20:31.819]  Give me 30 minutes.
+[01:20:31.819 --> 01:20:32.460]  I'll go as deep as you want.
+[01:20:32.539 --> 01:20:33.060]  I don't...
+[01:20:33.060 --> 01:20:33.779]  We don't have 30 minutes.
+[01:20:34.840 --> 01:20:36.779]  I'm talking about the ones that could...
+[01:20:36.779 --> 01:20:38.279]  That work in the agriculture industry.
+[01:20:38.500 --> 01:20:39.180]  I'm explaining to you and your audience...
+[01:20:39.180 --> 01:20:41.619]  You can come back and we can talk about the ones in the cities, I swear.
+[01:20:41.840 --> 01:20:43.319]  I'll do the whole answer.
+[01:20:43.800 --> 01:20:48.520]  The illegal aliens that Joe Biden brought into our country are not full stop doing farm work.
+[01:20:48.810 --> 01:20:49.930]  They are not.
+[01:20:50.090 --> 01:20:56.189]  The illegal aliens he brought in from Venezuela, from Haiti, from Nicaragua, they are not doing farm work.
+[01:20:56.270 --> 01:20:57.789]  They are in our cities collecting welfare.
+[01:20:57.970 --> 01:21:02.430]  As for the farmers, there is a guest worker program that President Trump supports.
+[01:21:02.590 --> 01:21:08.250]  Over time as well, we will transition into automation, so we'll never have to have this conversation ever again.
+[01:21:08.390 --> 01:21:13.310]  But there's no universe in which this nation is going to allow...
+[01:21:13.311 --> 01:21:18.351]  The previous president to flood our nation with millions and millions of illegal aliens who just get to stay here.
+[01:21:18.359 --> 01:21:23.760]  And we are especially not going to allow a subset of those illegal aliens to rape and murder our citizens.
+[01:21:23.880 --> 01:21:29.039]  So we are going to unapologetically enforce our immigration laws, and as I'm sure you will celebrate...
+[01:21:29.079 --> 01:21:34.579]  We are going to unleash the power and might of the U.S. government to eradicate the presence of transnational threats on our soil.
+[01:21:34.880 --> 01:21:37.399]  So, Stephen Miller must be protected at all costs.
+[01:21:37.600 --> 01:21:39.699]  He is Trump's deputy chief of staff.
+[01:21:40.060 --> 01:21:45.699]  He is also the most effective communicator on a Trump policy and intellectual level.
+[01:21:45.880 --> 01:21:48.420]  He intellectualizes Trumpism and nationalism.
+[01:21:48.439 --> 01:21:50.960]  And that really kicks ass, man.
+[01:21:51.079 --> 01:21:52.720]  Because there's not many people who can do that.
+[01:21:52.909 --> 01:21:55.529]  Stephen Miller has clearly thought through these policies.
+[01:21:55.689 --> 01:21:56.770]  He knows his constitution.
+[01:21:56.890 --> 01:22:00.989]  He knows what he is defending and how he is defending it.
+[01:22:01.329 --> 01:22:06.949]  This is why he's so articulate in moments like that, which is pretty much a civics lesson for the entire country.
+[01:22:07.430 --> 01:22:12.430]  What it amounts to is Stephen Miller taking everyone to school.
+[01:22:12.670 --> 01:22:20.029]  Whether it's on CNN or at the White House press dais, Stephen Miller makes the intellectual case for Trumpism.
+[01:22:20.630 --> 01:22:32.199]  And this is what makes him Again, not just such a valuable member of the Trump administration, but irreplaceable because I've never seen anybody else able to do this with such efficiency.
+[01:22:32.539 --> 01:22:37.020]  And here's the little secret that I know because I've worked with...
+[01:22:37.021 --> 01:22:38.601]  Both Trump's terms, right?
+[01:22:38.720 --> 01:22:41.899]  Term one and two, you're able to really see the people and the architects.
+[01:22:42.420 --> 01:22:47.520]  Stephen Miller was the architect of every policy that you liked about Trump term one.
+[01:22:47.800 --> 01:22:49.699]  And this is him on steroids.
+[01:22:49.960 --> 01:22:52.819]  This is Stephen Miller in berserker mode.
+[01:22:53.020 --> 01:23:01.279]  And it's a glorious thing to watch, Stephen Miller locking it in and clearly, clearly having a good time with it, right?
+[01:23:02.020 --> 01:23:04.899]  It's enjoyable to see.
+[01:23:05.149 --> 01:23:05.470]  Right?
+[01:23:05.670 --> 01:23:06.970]  It makes you proud to be an American.
+[01:23:07.949 --> 01:23:08.630]  It's more than him.
+[01:23:08.869 --> 01:23:09.069]  See ya.
+[01:23:13.170 --> 01:23:15.210]  You are the Paul Revere's.
+[01:23:15.810 --> 01:23:17.409]  InfoWars is the tip of the spear.
+[01:23:17.630 --> 01:23:19.810]  And you're listening to Chase Geyser.
+[01:23:21.390 --> 01:23:23.310]  Welcome back to Sunday Night Live, ladies and gentlemen.
+[01:23:23.369 --> 01:23:26.710]  I am Chase Geyser, your host for the next 20 minutes and 11 seconds.
+[01:23:27.310 --> 01:23:33.810]  Before we air the infamous interview between Alex Jones and Roseanne Barr in studio from this week.
+[01:23:36.420 --> 01:23:40.800]  In the last 20 minutes, I'm going to try to get through as many of these articles as possible that I have in these stacks.
+[01:23:40.979 --> 01:23:44.699]  We've got Steve Bannon, we've got Putin, we've got Warren Buffett.
+[01:23:45.560 --> 01:23:54.079]  But it is astounding to me, if you watch that Stephen Miller clip with Jake Tapper on CNN, how Jake Tapper would advocate for all of our food.
+[01:23:54.439 --> 01:24:11.520]  All of our groceries, all of our food supply, our major industry that is the very life of this nation to be operated by illegal migrants and then try to use some sort of moral grandstanding or virtue signaling as an excuse to exploit these laborers and sustain our own civilization.
+[01:24:11.520 --> 01:24:13.000]  I mean, it's disgusting to me.
+[01:24:14.020 --> 01:24:15.500]  Absolutely disgusting.
+[01:24:15.819 --> 01:24:19.939]  And that's why you have to be really afraid of things like artificial food shortages.
+[01:24:20.569 --> 01:24:28.630]  Like the artificial egg shortages that were created by burning down all the poultry farms in the United States to justify the mRNA, to increase the cost of the eggs.
+[01:24:29.910 --> 01:24:41.630]  And then they weaponize that and they turn that around and they use these shortages, these crises as an excuse or a method or a way to leverage in some policy that is the solution they want for the sake of their own political ends.
+[01:24:41.770 --> 01:24:55.390]  Whether it's the ability to inoculate all of our food with mRNA vaccines or whether it's the ability to justify just bringing in tens of millions of illegal migrants into the United States despite the fact that nobody comes over here who's in MS-13 and decides that suddenly they want to work on a farm.
+[01:24:55.409 --> 01:24:56.289]  That's just not happening.
+[01:24:58.189 --> 01:25:09.350]  And this is all happening at the same time that there's this massive assault on our culture by shaming whiteness, by shaming Western civilization, by advocating for DEI, diversity, equity, and inclusion, or ESG scores.
+[01:25:10.090 --> 01:25:31.109]  Environmentalism, sustainability, and governance scores are arbitrary scores given to businesses by committees of international members for the sake of determining who gets financing or who doesn't by a central bank which is also international, which totally dilutes, exploits, subverts, and coerces our national sovereignty into sacrificing itself for the sake of a political class that is international.
+[01:25:31.840 --> 01:25:33.460]  That will never represent our interests.
+[01:25:33.680 --> 01:25:43.460]  That wants the conglomeration of all political power and the subjugation of all humanity under a depopulated dystopia of transhumanist, technocratic just assault.
+[01:25:46.380 --> 01:25:49.699]  And even Stephen Miller there is saying, look, we're going to fix all this with automation anyway.
+[01:25:49.779 --> 01:25:56.000]  So even he's admitting that the plan long term is not to have humans doing human work, which may be inevitable.
+[01:25:56.000 --> 01:25:57.819]  And if it's going to happen, I hope it's...
+[01:25:58.640 --> 01:26:00.640]  Manifest by good people rather than bad people.
+[01:26:00.760 --> 01:26:10.399]  I hope it happens here rather than in China so that we're not totally subverted economically and competitively into still being subjugated by foreign interests to these machines.
+[01:26:10.539 --> 01:26:13.600]  But here's the real meaning of DEI in a nutshell.
+[01:26:13.739 --> 01:26:15.600]  This is clip number 20. We're going to watch this and unpack it.
+[01:26:16.460 --> 01:26:22.260]  What do you make of what Trump has said about diversity, equity and inclusion policies?
+[01:26:22.340 --> 01:26:25.180]  He's basically suggested that they should be scrapped.
+[01:26:25.340 --> 01:26:26.640]  They should be scrapped, yeah.
+[01:26:26.779 --> 01:26:34.140]  Diversity, equity and inclusion are three wonderful sounding words that are in fact a scheme.
+[01:26:34.810 --> 01:26:36.189]  To do the exact opposite.
+[01:26:36.770 --> 01:26:40.010]  It's to divide and it's to create inequality.
+[01:26:40.470 --> 01:26:44.170]  It's to revive racism, but this time against white people.
+[01:26:45.058 --> 01:26:48.688]  to, it's all based on this idea that there's an oppressor and oppressed.
+[01:26:48.688 --> 01:26:55.247]  It's what I call neo-communism because the communism before 1989 failed.
+[01:26:55.247 --> 01:26:59.077]  It was centered around class and economic inequality.
+[01:26:59.077 --> 01:27:04.978]  But this DEI scheme is based on race and identity and identity politics.
+[01:27:04.989 --> 01:27:08.909]  And she's absolutely right about that.
+[01:27:09.590 --> 01:27:15.989]  What happened was there was this major competition between communism and capitalism that took place during the 20th century.
+[01:27:16.359 --> 01:27:23.180]  Where the communists would argue that their economic policy or philosophy was more productive than the capitalists.
+[01:27:23.420 --> 01:27:38.479]  The invisible arm or the invisible hand of the capitalists from Adam Smith's Wealth of Nations hundreds of years ago was put to the test by the centralized operation of all economic aspects or industries of the Soviet Union and others.
+[01:27:38.760 --> 01:27:41.359]  And it was determined, frankly, proven...
+[01:27:41.880 --> 01:27:50.920]  That capitalism outperformed communism in every single field, industry, or measurable metric of economics.
+[01:27:52.979 --> 01:27:54.119]  And it wasn't even close.
+[01:27:54.239 --> 01:27:59.800]  I mean, that was the collapse of the Soviet Union versus the prosperity of the United States in the context of the Cold War.
+[01:27:59.880 --> 01:28:06.539]  Despite the fact that the Cold War was mainly a lie in order to line the pockets of the military-industrial complex, we did prove that capitalism...
+[01:28:07.369 --> 01:28:09.050]  It was much more effective than communism.
+[01:28:09.229 --> 01:28:19.130]  The Chinese learned from that and they created a mixed system where their government operates on communist principles but their business operates on capitalist principles so they can have the best of both worlds.
+[01:28:19.130 --> 01:28:35.409]  The total subjugation of its own population, surveillance of its own population, total social credit score control of its own population while leveraging the benefits of capitalism and the communist slave labor that's possible over there to just out-compete the rest of the world with any sort of a conscience.
+[01:28:36.830 --> 01:28:54.189]  And so what happened is after it was proven that communism was a failure economically relative to capitalism, what they did was they shifted the conversation, they created a straw man, and they said that, okay, well, capitalism might be a more productive economic system, but it's way worse for the environment.
+[01:28:54.189 --> 01:28:57.630]  And so then we see the burgeoning of this environmentalist movement.
+[01:28:58.140 --> 01:29:25.399]  Despite the fact that the commies and the CCP are dumping tons upon tons upon tons of plastic into the ocean and do not have any regard for the planet whatsoever, this Marxist leftist philosophy saturates the rest of the West to such an extent that we have this advocacy for green energy, which would ultimately result in the demand for fossil fuels and oil going all the way away, which would ultimately result in the collapse of the dollar, which then the globalists could exploit for the sake of establishing a central bank digital currency.
+[01:29:25.840 --> 01:29:27.439]  In a post-collapse world.
+[01:29:27.680 --> 01:29:30.239]  That's the real purpose behind green energy.
+[01:29:30.619 --> 01:29:38.260]  It's not because we want some self-sustaining energy system where there's a utopia of abundance of energy or infinite energy that we can just recycle and get.
+[01:29:38.340 --> 01:29:40.020]  I mean, they're trying to block the sun, for Christ's sake.
+[01:29:40.079 --> 01:29:43.300]  You think they really like solar power if they're simultaneously trying to block the sun?
+[01:29:43.420 --> 01:29:44.260]  How can you have both?
+[01:29:44.340 --> 01:29:44.840]  You can't.
+[01:29:46.920 --> 01:29:56.220]  So this faux-advocacy for green energy is really an assault on the dollar as the global reserve currency because the globalists want to usher in a CBDC post-apocalypse world.
+[01:29:57.300 --> 01:30:12.340]  And while they do this, while they push for green energy, while they push for ESG, while they push for DEI, while they push for mass migration and evasion, while they push for the total eradication of freedom of thought and freedom of speech, and they advocate for censorship to the nines.
+[01:30:12.920 --> 01:30:24.939]  They erode our philosophy, our religion, our faith, our way of life, our culture, our values, and even such common sense, such self-evident truths as the notion that there are two genders.
+[01:30:25.399 --> 01:30:32.180]  In clip 21 here, we have a trans-Satanist expressing a desire to blend aborted fetuses into smoothies and consume them publicly.
+[01:30:32.300 --> 01:30:33.020]  Let's watch this.
+[01:30:33.020 --> 01:30:42.399]  I mean, the fucking dumpster died behind these goddamn abortion Alright, so I gotta pull it because it's already got too many bad words in it.
+[01:30:42.420 --> 01:30:45.000]  Make sure we have that censored for Alex tomorrow because I know he wants to talk about that.
+[01:30:45.479 --> 01:30:50.020]  That woman, as soon as you see that person, man, woman, I don't even know what it is.
+[01:30:50.420 --> 01:30:52.739]  There's something inherently demonic going on right there.
+[01:30:53.399 --> 01:30:59.140]  With the contacts and the pink hair and the weird tattoos and the weird makeup and the nose ring.
+[01:30:59.279 --> 01:31:01.119]  And I don't know why it is that women do this.
+[01:31:02.279 --> 01:31:05.359]  Why would anybody who advocates for freedom or rights...
+[01:31:08.899 --> 01:31:30.119]  I mean, I guess it's like a dog whistle for these people to just indicate to the world through their broadcasts, through their transmissions, that they are totally willing to be cucked and enslaved by a political class of global elite.
+[01:31:32.670 --> 01:31:35.569]  All while the mainstream media argues about due process.
+[01:31:35.630 --> 01:31:42.710]  All while the mainstream media does everything it possibly can to catalyze, sponsor, and protect the invasion of our country by foreign migrants.
+[01:31:42.810 --> 01:31:51.810]  Here's Trump, clip 22, on Meet the Press talking about due process, defending some of these migration policies which he has been enacting or signing with his executive orders.
+[01:31:51.890 --> 01:31:59.529]  Let's watch 22. Your Secretary of State says everyone who's here, citizens and non-citizens, deserve due process.
+[01:31:59.529 --> 01:32:00.189]  Do you agree?
+[01:32:00.520 --> 01:32:01.380]  I don't know.
+[01:32:01.539 --> 01:32:02.920]  I'm not a lawyer.
+[01:32:03.159 --> 01:32:04.220]  I don't know.
+[01:32:04.439 --> 01:32:05.739]  Well, the Fifth Amendment...
+[01:32:05.739 --> 01:32:06.060]  I don't know.
+[01:32:06.159 --> 01:32:07.300]  It seems...
+[01:32:07.300 --> 01:32:13.779]  It might say that, but if you're talking about that, then we'd have to have a million or two million or three million trials.
+[01:32:14.079 --> 01:32:19.520]  We have thousands of people that are some murderers and some drug dealers and some of the worst people on Earth.
+[01:32:19.760 --> 01:32:22.399]  Some of the worst, most dangerous people on Earth.
+[01:32:22.579 --> 01:32:28.000]  And I was elected to get them the hell out of here, and the courts are holding me from doing it.
+[01:32:28.380 --> 01:32:28.819]  But...
+[01:32:29.409 --> 01:32:35.250]  Even given those numbers that you're talking about, don't you need to uphold the Constitution of the United States as president?
+[01:32:35.270 --> 01:32:36.210]  I don't know.
+[01:32:36.550 --> 01:32:42.029]  I have to respond by saying again, I have brilliant lawyers that work for me.
+[01:32:42.210 --> 01:32:46.909]  Your secretary of state says everyone who's here, citizens and non-citizens, deserve due process.
+[01:32:47.050 --> 01:32:48.390]  Do you agree, Mr. President?
+[01:32:48.390 --> 01:32:48.770]  I don't know.
+[01:32:48.909 --> 01:32:50.310]  I'm not a lawyer.
+[01:32:50.550 --> 01:32:51.590]  I don't know.
+[01:32:51.710 --> 01:32:54.430]  Don't you need to uphold the Constitution of the United States as president?
+[01:32:54.670 --> 01:32:55.390]  I don't know.
+[01:32:55.689 --> 01:32:58.069]  I have to respond by saying again.
+[01:32:58.560 --> 01:33:05.739]  I have brilliant lawyers that work for me, and they are going to obviously follow what the Supreme Court said.
+[01:33:06.220 --> 01:33:07.380]  So there you have it.
+[01:33:07.859 --> 01:33:13.199]  And the Krasensteins and others are coming after him, however, saying he doesn't know whether it's his duty to uphold the Constitution.
+[01:33:13.359 --> 01:33:22.619]  Of course, it's his duty not to intentionally violate the Constitution, but ultimately it is up to the courts and the Supreme Court to determine the constitutionality of any executive order or piece of legislation.
+[01:33:22.619 --> 01:33:23.500]  It's very obvious.
+[01:33:24.570 --> 01:33:29.430]  The fact of the matter is we've been invaded by 20 to 30 million people illegally over the last four years.
+[01:33:29.609 --> 01:33:35.949]  The Democrats are trying to protect them at the expense of their own people, which in my opinion is treason, a clear violation of the Constitution.
+[01:33:36.229 --> 01:33:42.390]  And they're arguing the constitutionality of the way in which these people are being deported as if they give a damn about the Constitution at all.
+[01:33:42.489 --> 01:33:53.649]  When we know from the Adam Schiff's to the Nancy Pelosi's to the Chuck Schumer's to the Joe Biden's to the Barack Obama's, nobody in the left cares about the Constitution and only a handful of people on the right even do.
+[01:33:54.780 --> 01:33:55.420]  The Constitution.
+[01:33:55.680 --> 01:34:00.380]  Even Abraham Lincoln himself says sometimes you have to throw out the Constitution in order to save the ship that is the Union.
+[01:34:04.039 --> 01:34:08.140]  I don't want to get distracted or go into the weeds on Abraham Lincoln, but he wasn't the hero that everybody says that he was.
+[01:34:08.220 --> 01:34:13.760]  Of course, yes, he emancipated the slaves, and that's good, and slavery was bad, but he was racist, and he was definitely a tyrant of sorts.
+[01:34:15.560 --> 01:34:28.180]  Definitely overextended the power of the executive branch, but we cannot allow this country to be invaded by foreign nationals while the Jake Tappers of the world and the other pundits of the world and the other leftists of the world advocate for how important it is for us to eat.
+[01:34:28.640 --> 01:34:33.439]  We have to sacrifice our principles and our values and our nation so that our people can eat.
+[01:34:33.619 --> 01:34:42.060]  It is not necessary for us to sacrifice all of the principles of the Constitution, all of the principles of our culture, for us to have food in the United States of America.
+[01:34:42.060 --> 01:34:44.520]  We had food for a very long time before we had this.
+[01:34:44.560 --> 01:34:46.039]  It's erosion of our republic.
+[01:34:47.079 --> 01:34:56.680]  The fact of the matter is, if they steal the election in 2028, if we don't have a victory in 2028 and even 2032, it is going to be hell to pay for all Americans.
+[01:34:57.539 --> 01:35:01.560]  Namely, the political class who has been so outspoken in support of this Trump administration.
+[01:35:02.779 --> 01:35:10.560]  War Room the other day, if they steal the election in 2028, they will put Trump in prison with coup d 'etat updates from Brazil, France, Germany, South Korea, and the Vatican.
+[01:35:10.720 --> 01:35:12.100]  Let's watch a little bit of this clip of Steve Bannon.
+[01:35:15.340 --> 01:35:17.939]  This is the Gateway Pundit article, War Room.
+[01:35:18.020 --> 01:35:21.140]  If they steal the election in 2028, they will put Trump in prison.
+[01:35:21.279 --> 01:35:21.680]  Do you have it?
+[01:35:26.140 --> 01:35:27.020]  Silence prevails.
+[01:35:27.199 --> 01:35:27.319]  Okay.
+[01:35:27.920 --> 01:35:28.659]  Moving on then.
+[01:35:28.880 --> 01:35:38.039]  Let's go into Putin saying that Russia has the forces and resources to bring the war in Ukraine to a logical conclusion, hopes to never have to use nuclear weapons.
+[01:35:38.409 --> 01:35:42.050]  So we have this constant alarmism around nuclear war.
+[01:35:42.189 --> 01:35:50.430]  We should be afraid of nuclear war because, after all, as a species, we do have the capacity to destroy the entire planet for the first time ever.
+[01:35:50.930 --> 01:35:52.890]  I mean, we really could kind of do it in 1945.
+[01:35:52.890 --> 01:35:54.270]  There were a couple of nuclear weapons.
+[01:35:54.390 --> 01:36:04.130]  But after massive nuclear proliferation of the Cold War, which was catalyzed and sponsored by our own political class, by our own military-industrial complex, now we can really destroy the world.
+[01:36:04.470 --> 01:36:05.449]  And we've been...
+[01:36:07.100 --> 01:36:11.020]  We're groomed to be terrified of nuclear war for decades, and we should be.
+[01:36:12.319 --> 01:36:18.000]  But I think the thing that most people miss about nuclear war is that it's something that would culminate as a last resort.
+[01:36:18.100 --> 01:36:22.539]  I don't believe that nuclear war would happen until millions upon millions of soldiers had died.
+[01:36:22.640 --> 01:36:26.460]  I think it would be a last-ditch effort or when defeat was almost certain.
+[01:36:26.520 --> 01:36:33.520]  It would have been something that Hitler would have used as Berlin was getting conquered by the Russians and the Americans, but not necessarily before that point.
+[01:36:36.459 --> 01:36:47.399]  And the fact is, Russia does have the power and has had the power for the entirety of this conflict with Ukraine to totally level and destroy Ukraine, but it is using nuclear weaponry as a last resort.
+[01:36:47.399 --> 01:36:58.859]  It is referring to nuclear weaponry as a last resort because it knows that the consequences, that the ramifications of using such escalations would manifest in the total destruction potentially of their nation too.
+[01:37:00.750 --> 01:37:07.989]  But we've got this weird tit-for-tat game going on where it's like a cat-and-mouse thing where Russia's really won the war.
+[01:37:08.270 --> 01:37:20.550]  Ukraine has lost the war, but they're waiting to just finish them off because they're trying to find a way out politically of this conflict that doesn't result in negative ramifications for Russia long term.
+[01:37:20.829 --> 01:37:21.989]  They've got bigger problems.
+[01:37:22.090 --> 01:37:28.529]  The fact that their economy is totally dependent on the export of natural gas energy in a world that is pushing for green energy and automation.
+[01:37:28.670 --> 01:37:31.529]  The fact that their population is totally collapsing as well.
+[01:37:32.989 --> 01:37:37.829]  I mean, Russia in 10 years is not going to be in as good of a place as China in 10 years.
+[01:37:37.949 --> 01:37:42.090]  And China in 10 years isn't going to be in a good place at all because their entire workforce will have retired.
+[01:37:42.539 --> 01:37:44.560]  Or be dead of old age by then.
+[01:37:44.699 --> 01:37:47.680]  I mean, this demographic depopulation crisis is very real.
+[01:37:47.840 --> 01:37:53.680]  And I think ultimately that's the reason that Elon Musk has gotten so involved in politics.
+[01:37:53.899 --> 01:38:07.340]  Because remember, he was one of the first people of notable, influential people to talk about the depopulation crisis other than Alex Jones in a very meaningful, serious, sincere, well-backed, well-founded, coherent, articulated way.
+[01:38:08.300 --> 01:38:24.020]  And imagine being Elon Musk and having your goal making humanity an interplanetary species and understanding that in order to accomplish that, he's going to need the tools and resources to build the technology, to train the people, and to deploy the rockets to these other planets and establish the bases.
+[01:38:24.470 --> 01:38:30.729]  Now, as it stands, all of our technology is dependent on things like Taiwan or China developing this technology for us.
+[01:38:30.789 --> 01:38:47.569]  But if depopulation is a real crisis and China is not going to be able to do that in 10 years, then he has to start talking about how depopulation is a problem and get involved with an administration that's willing to diversify where we source technology from if our current source, China, is going to be incapable of doing so in the next 5 to 10 years.
+[01:38:48.399 --> 01:38:55.119]  So we see the Musks talk about how depopulation is a problem because the Elon Musks want an interplanetary species.
+[01:38:55.720 --> 01:39:06.560]  We see them talk about how depopulation is a problem because they understand that the depopulation of Russia and China and South Korea and Japan could ultimately culminate in a nuclear...
+[01:39:06.859 --> 01:39:19.100]  War that would set back our interplanetary capabilities by hundreds of years and maybe even make it totally impossible for us to ever reach this point technologically again where we could even dream of accomplishing such a feat.
+[01:39:21.159 --> 01:39:26.659]  The point is, depopulation is the definition of Satanism.
+[01:39:26.859 --> 01:39:32.640]  It is the antithesis of the creation because it seeks to reverse all that which was created by God.
+[01:39:33.710 --> 01:39:49.229]  And it's also the antithesis of national sovereignty because it is used as an excuse to erode our national sovereignty and import migrants and continue to perpetuate all of the policies that have resulted in the lack of fertility and testosterone among our people and the lack of nuclear family among our people as well.
+[01:39:49.470 --> 01:39:54.210]  This inflation which has caused us to have families much later in life and then fewer children as a result.
+[01:39:55.350 --> 01:40:08.189]  So depopulation is really the front line in the information war, in the war between good and evil, where all that which is evil advocates for depopulation and replacement migration and replacement by robotics and artificial intelligence.
+[01:40:08.390 --> 01:40:20.329]  And all that is godly or righteous or seeking truth advocates for things like freedom of speech and having as many children as possible and populating the earth and baptizing nations in the name of the Father, the Son, and the Holy Spirit.
+[01:40:20.510 --> 01:40:21.409]  You've read the book.
+[01:40:21.550 --> 01:40:22.029]  You understand.
+[01:40:23.050 --> 01:40:44.189]  So what we have to do as info-warriors is everything we can to fight for the freedoms that are foundational to the family so that the family can have the children, which are foundational to the civilization and the culture, which is foundational to the survival of our species itself, which is essential to the fulfillment of God's plan or God's will for creation.
+[01:40:44.590 --> 01:41:13.250]  As Christians, as Americans, as info-warriors, there's this massive alignment, this massive anti-globalist populist alignment where national sovereignty and individual self-actualization must take precedence over all these globalist ideals that claim to be so altruistic, claim to want to save the world, but ultimately only advocate for sterilization and self-sacrifice or human sacrifice for the sake of some political class cabal, some elite cabal.
+[01:41:14.240 --> 01:41:19.880]  And the best way to support us in fighting for that which is good against all that which is evil...
+[01:41:19.949 --> 01:41:30.909]  For fighting for the world's superheroes against the world's most evil supervillains, both competent and incompetent alike, the best way to support InfoWars is by going to TheAlexJonesStore.com, signing up as a VIP.
+[01:41:31.170 --> 01:41:35.289]  It's $30 a month, you get $40 in store credit, much better deals.
+[01:41:35.449 --> 01:41:45.350]  If you subscribe to any of the supplements that we have, despite the fact that we're constantly running out of inventory because it's flying off the shelves because it's so effective, if you subscribe and cancel any time you want...
+[01:41:45.399 --> 01:41:48.600]  To these supplements, you ensure that you always get yours.
+[01:41:48.760 --> 01:42:00.300]  So whether you love the methylene blue or the Shilajit gummies or the Shilajit capsules or the Ultimate CMOS gummies or the Atomic Defense or the MKUltra, subscribe to all of them, Optimal Human.
+[01:42:00.539 --> 01:42:01.760]  Ensure that you'll always get it.
+[01:42:01.859 --> 01:42:10.600]  And what we don't talk about enough, because we're so busy talking about the independent effects of methylene blue or the independent effects of Ultimate CMOS or the independent effects of Shilajit, is the...
+[01:42:11.669 --> 01:42:15.029]  Confluence, the combined effect of all of these supplements.
+[01:42:15.189 --> 01:42:29.510]  If you take the methylene blue and the Shilajit and the CMOS and the MKUltra and the Atomic Defense, then you are setting yourself up to be a superhero version of yourself in terms of your thinking, your focus, your energy, your body.
+[01:42:30.760 --> 01:42:38.100]  Your mental and physical health and you're simultaneously by funding this operation and the next operation keeping Alex Jones on the air.
+[01:42:38.199 --> 01:42:42.239]  So it's basically the only way I can think of in the entire world where you can fight for your mind.
+[01:42:42.820 --> 01:42:45.619]  Your body and your freedoms all in one place.
+[01:42:45.779 --> 01:42:51.640]  I mean, there is nothing that the globalists hate more than when you go to the AlexJonesStore.com and spend money and support this operation.
+[01:42:51.640 --> 01:42:55.619]  There is nothing that sticks it to them more than going to the AlexJonesStore.com.
+[01:42:55.720 --> 01:42:56.819]  I mean, you don't even need a vote.
+[01:42:56.960 --> 01:42:57.840]  You don't even need a voice.
+[01:42:57.939 --> 01:43:01.220]  You don't need thousands of followers to fight back against this globalist tyranny.
+[01:43:01.359 --> 01:43:07.600]  You just simply need to go to the AlexJonesStore.com and invest in your own health, mind, and body, and your own freedoms by supporting this operation.
+[01:43:07.939 --> 01:43:08.760]  Get the plush frogs.
+[01:43:08.939 --> 01:43:10.020]  Get the amazing merchandise.
+[01:43:10.239 --> 01:43:11.100]  Sign up as a VIP.
+[01:43:11.439 --> 01:43:12.798]  Enter to win the amazing giveaways.
+[01:43:12.798 --> 01:43:17.418]  Get the Shilajit Gummies, which are totally underrated, absolutely astoundingly amazing.
+[01:43:17.418 --> 01:43:19.028]  Go to theallyshonestore.com.
+[01:43:19.039 --> 01:43:21.859]  It's the best place to spend money since the Louisiana Purchase.
+[01:43:21.939 --> 01:43:23.039]  Please, go there now.
+[01:43:23.180 --> 01:43:35.960]  Be the reason that Alex Jones will always be on the air, that this crew will always be fighting behind him, that these other hosts will be broadcasting the truth worldwide, and that the globalists will never win in their assault against humanity, its rights, and the creation of God himself.
+[01:43:36.198 --> 01:43:37.518]  Let's go right now.
+[01:43:37.578 --> 01:43:47.518]  While other networks lie to you about what's happening now, InfoWars tells you the truth about what's happening next.
+[01:43:47.518 --> 01:43:50.217]  InfoWars.com forward slash show.
+[01:43:50.217 --> 01:43:55.260]  you You took methylene blue about 30 minutes ago.
+[01:43:55.359 --> 01:43:55.920]  Are you feeling it?
+[01:43:56.279 --> 01:43:57.619]  I think I am.
+[01:43:58.119 --> 01:43:59.500]  Well, you told me during the break something.
+[01:43:59.800 --> 01:44:01.000]  Repeat what you said is happening.
+[01:44:01.119 --> 01:44:03.819]  I feel like that stuff in my fingers.
+[01:44:04.020 --> 01:44:05.600]  I feel tingling fingers.
+[01:44:05.960 --> 01:44:07.619]  You're feeling the Palpatine love?
+[01:44:07.819 --> 01:44:10.199]  I think I feel the Palpatine love, yeah.
+[01:44:11.130 --> 01:44:12.789]  Well, go ahead, and there's the camera.
+[01:44:12.930 --> 01:44:14.470]  Blast them with full power right there.
+[01:44:17.930 --> 01:44:18.329]  Yeah!
+[01:44:22.829 --> 01:44:24.189]  Powered by methylene blue.
+[01:44:24.449 --> 01:44:27.010]  Ultra-methylene blue at thealachildstore.com.
+[01:44:28.050 --> 01:44:31.470]  Seriously, though, during the break, I said, are you feeling, should I feel the tingle?
+[01:44:31.609 --> 01:44:32.109]  I do.
+[01:44:32.350 --> 01:44:32.949]  What are you feeling now?
+[01:44:33.720 --> 01:44:35.699]  Well, it's kind of going up my arms.
+[01:44:35.880 --> 01:44:37.720]  I feel it in my head and neck, too.
+[01:44:37.880 --> 01:44:41.380]  Like, when I'm talking, it seems like it's not really me talking.
+[01:44:41.500 --> 01:44:44.140]  I can hear my talking and going, wow.
+[01:44:44.340 --> 01:44:44.899]  I agree.
+[01:44:44.979 --> 01:44:47.239]  It's almost like an out-of-body experience.
+[01:44:48.220 --> 01:44:49.960]  I didn't tell you that.
+[01:44:50.079 --> 01:44:51.300]  It's like you're behind yourself.
+[01:44:51.520 --> 01:44:52.840]  That is what it feels like.
+[01:44:52.840 --> 01:44:54.800]  But my brain's going really fast.
+[01:44:55.229 --> 01:44:59.270]  You know, because my brain, sometimes it goes so fast that I can't get it out on...
+[01:44:59.270 --> 01:45:03.670]  Yeah, all it does is increase electrochemical activity in the mitochondria, but that's a big deal.
+[01:45:03.930 --> 01:45:05.210]  No, I really like it.
+[01:45:05.250 --> 01:45:06.729]  I'm going to have to get on this stuff.
+[01:45:06.750 --> 01:45:07.989]  Here, show her Kennedy taking it.
+[01:45:08.449 --> 01:45:10.210]  Kennedy literally gobbles it.
+[01:45:11.029 --> 01:45:12.350]  Unlimited power!
+[01:45:13.770 --> 01:45:14.210]  Power!
+[01:45:17.909 --> 01:45:19.310]  Unlimited power!
+[01:45:20.569 --> 01:45:21.869]  I'm not going to be like that.
+[01:45:22.250 --> 01:45:24.029]  Well, I'm like that normally, so...
+[01:45:24.029 --> 01:45:25.890]  Yeah, you are like that normally.

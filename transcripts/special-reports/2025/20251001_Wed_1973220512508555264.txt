@@ -1,0 +1,181 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, and large-v3-turbo
+[00:00:00.320 --> 00:00:04.639]  In the last 24 hours, a video went super viral.
+[00:00:04.960 --> 00:00:12.400]  Reportedly, a Palantir ad advertising what the company's going to do with the social credit score.
+[00:00:12.640 --> 00:00:16.000]  The big question was, is this a real Palantir ad?
+[00:00:16.080 --> 00:00:16.719]  Well, we found out.
+[00:00:17.039 --> 00:00:22.879]  But first, here's a content creator on TikTok who believed it was real and gave his take on it.
+[00:00:23.199 --> 00:00:28.480]  There is this new Palantir commercial ad that just came out that you guys need to check out.
+[00:00:28.800 --> 00:00:30.879]  You guys do remember who Palantir is, right?
+[00:00:31.120 --> 00:00:40.079]  The new data integration company that's helping the Department of Defense, the IRS, the DOD, a Doge, and Aldi, and ICE, ICE, the People's Handle Immigration.
+[00:00:40.399 --> 00:00:41.840]  But check this thing out, y'all.
+[00:00:41.920 --> 00:00:43.280]  This is crazy.
+[00:00:43.920 --> 00:00:45.200]  Good morning, citizens.
+[00:00:45.520 --> 00:00:47.920]  Your overnight account balances have been updated.
+[00:00:48.160 --> 00:00:50.160]  Time to start a productive day.
+[00:00:52.079 --> 00:00:54.880]  Final notice, your account balance is below 500.
+[00:00:55.039 --> 00:00:58.800]  You need 50 credits by the end of the day to avoid automatic eviction.
+[00:00:59.119 --> 00:01:03.359]  If you have missed work due to illness, you must provide a doctor's note to reclaim your credits.
+[00:01:10.039 --> 00:01:11.058]  Any extra credits?
+[00:01:11.840 --> 00:01:12.640]  Please.
+[00:01:14.239 --> 00:01:19.280]  Tensions are high today with more people planning to join the Citizens Against Digital Control protest.
+[00:01:19.600 --> 00:01:22.239]  Remember, the government knows who you are at all times.
+[00:01:22.480 --> 00:01:24.480]  Resisting is not worth the consequences.
+[00:01:24.799 --> 00:01:29.439]  All of their newest social credit systems are designed to keep you and your families safe and efficient.
+[00:01:29.760 --> 00:01:34.640]  Authorities seized a record balance of an individual's credits, citing excessive hoarding.
+[00:01:36.240 --> 00:01:39.680]  Traffic violation detected, seven miles per hour over the limit.
+[00:01:39.920 --> 00:01:42.159]  75 credits have been automatically deducted.
+[00:01:42.400 --> 00:01:44.320]  You have to be fucking kidding me.
+[00:01:48.480 --> 00:01:49.920]  Yep, you got the flu.
+[00:01:50.240 --> 00:01:53.439]  Your blood work shows a significant iron deficiency.
+[00:01:53.760 --> 00:01:57.200]  I recommend incorporating more red meat into your diet.
+[00:01:58.159 --> 00:02:03.120]  Dr. Jones, your taxes were not filed and have been automatically deducted with late fees.
+[00:02:03.359 --> 00:02:05.840]  Your medical license has been revoked.
+[00:02:06.159 --> 00:02:07.099]  Oh, hell nah.
+[00:02:07.219 --> 00:02:08.199]  I filed an extension.
+[00:02:19.328 --> 00:02:20.108]  Purchase denied.
+[00:02:20.560 --> 00:02:22.240]  Monthly red meat allowance exceeded.
+[00:02:22.400 --> 00:02:23.558]  Try mealworms instead.
+[00:02:24.539 --> 00:02:38.018]  Can you guys please let me through?
+[00:02:38.019 --> 00:02:38.319]  Attention!
+[00:02:38.879 --> 00:02:41.039]  Unauthorized political gathering detected.
+[00:02:41.199 --> 00:02:44.239]  Participants'access to financial services has been suspended.
+[00:02:56.439 --> 00:03:00.120]  Due to the speeding infraction, your car will be immobilized for three days.
+[00:03:00.879 --> 00:03:01.759]  Fuck you!
+[00:03:02.080 --> 00:03:05.120]  Take your surveillance policies and rot in hell!
+[00:03:07.919 --> 00:03:11.599]  You've earned 50 bonus credits for reporting your neighbor's hateful misconduct.
+[00:03:16.938 --> 00:03:19.919]  This content exceeds your current social credit tier.
+[00:03:20.480 --> 00:03:23.680]  May we suggest citizen responsibility.
+[00:03:28.480 --> 00:03:29.520]  Sarah, open the door.
+[00:03:29.680 --> 00:03:31.360]  You have been identified by the authorities.
+[00:03:31.520 --> 00:03:32.240]  Don't resist.
+[00:03:35.120 --> 00:03:38.960]  Now, of course, it's come out that this was a fake Palantir ad.
+[00:03:39.759 --> 00:03:41.759]  But I'm not the guardian of Palantir.
+[00:03:42.240 --> 00:03:44.560]  I'm not the attack dog for Palantir.
+[00:03:45.200 --> 00:03:52.640]  I started seeing corporate media, New York Times, Washington Post, all these CIA backgroups about two years ago start going, you know what, America?
+[00:03:52.800 --> 00:03:54.159]  There is a social credit score.
+[00:03:54.240 --> 00:03:55.680]  There is a mark of the beast.
+[00:03:56.000 --> 00:04:00.480]  There is this system of social credit score, and it's Palantir.
+[00:04:00.879 --> 00:04:14.800]  I'm like, wow, 15 years ago, Alexa listened to us in our houses, and you got Sentinel and the federal government AI, and you've got really the three big companies, Microsoft, and then Jeff Bezos' Amazon, then Larry Ellison's Oracle, that run over 90% of all this.
+[00:04:14.879 --> 00:04:16.160]  It's already in place.
+[00:04:16.480 --> 00:04:20.319]  So why are we being told Palantir just invented this and did this?
+[00:04:20.879 --> 00:04:27.600]  And it's because Palantir is trying to come into the government with Trump and use this system against the deep state.
+[00:04:27.680 --> 00:04:28.639]  And I'm not defending that.
+[00:04:28.879 --> 00:04:30.240]  This is all a Trojan horse.
+[00:04:30.399 --> 00:04:32.240]  This is all completely out of control.
+[00:04:32.560 --> 00:04:35.920]  Even all the big tech heads admit AI will probably end humanity as we know it.
+[00:04:36.240 --> 00:04:38.319]  So I'm not defending what Palantir is up to.
+[00:04:38.480 --> 00:04:42.079]  I'm simply saying this system is already in place.
+[00:04:42.400 --> 00:04:46.319]  And if you look at Larry Ellison coming out recently and saying, AI is going to be great.
+[00:04:46.400 --> 00:04:49.439]  It'll control society, watch what you do and make you behave yourself.
+[00:04:50.079 --> 00:04:52.240]  Your body cams will be transmitting that.
+[00:04:52.720 --> 00:05:00.720]  The police will be on their best behavior because we're constantly recording, watching and recording everything that's going on.
+[00:05:01.040 --> 00:05:07.680]  Citizens will be on their best behavior because we're constantly recording and reporting everything that's going on.
+[00:05:08.319 --> 00:05:10.800]  And he's getting really the huge contracts.
+[00:05:11.040 --> 00:05:33.920]  So all the attacks on Palantir is because Palantir is trying to muscle in to the trough and stick its nose into that and be used to carry out Trump's agenda, just like the Democrats in Denver recently turned off the federal license plate rating system that were put in decades ago with grants because it was being used by ICE to find illegal aliens.
+[00:05:34.160 --> 00:05:45.120]  So people need to know why you know about Palantir, but don't know about Oracle, don't know about Microsoft, don't know about Google, don't know about Amazon, all of it.
+[00:05:45.439 --> 00:05:47.680]  I want you to be aware of it all.
+[00:05:48.240 --> 00:05:50.399]  It's like saying only Israel can be corrupt.
+[00:05:50.560 --> 00:05:52.160]  I cover Israel corruption all day.
+[00:05:52.480 --> 00:05:58.079]  Communist China, the drug cartels, Larry Fink, BlackRock, Big Pharma.
+[00:05:58.319 --> 00:06:02.160]  I want to cover all the predatory groups, not just focus on one.
+[00:06:02.319 --> 00:06:03.759]  And people say that's a distraction.
+[00:06:04.079 --> 00:06:06.720]  No, they're involved in the distraction.
+[00:06:06.800 --> 00:06:08.960]  Meanwhile, as I told you many years ago, it's now official.
+[00:06:09.120 --> 00:06:31.120]  Bill Gates at the UN level through international standardization, just like he's in charge of vaccines worldwide and your medical care, has now come out with the official UN report for the central bank digital currency and the standardized cashless society and the digital ID to get online that will then be your personal ID.
+[00:06:31.360 --> 00:06:34.399]  Bill Gates has already been given the keys to the digital kingdom.
+[00:06:34.639 --> 00:06:36.000]  It ain't come with Palantir.
+[00:06:36.319 --> 00:06:37.120]  It's already here.
+[00:06:37.439 --> 00:06:43.360]  Australia, the UK, Canada, it's all going in right now to track and control everything you do.
+[00:06:43.439 --> 00:06:50.800]  And Kira Starmer says, oh, it's to stop the boat migrants that George Soros and the UN are funding that the Navy could grab and ship back.
+[00:06:51.120 --> 00:06:57.279]  So they use the replacement migration invasion they've run as the pretext to sell us on the control grid.
+[00:06:57.600 --> 00:07:02.560]  And really, it's to put in place everything you just saw that is in the fake Palantir ad.
+[00:07:02.800 --> 00:07:04.399]  Palantir didn't create that.
+[00:07:04.720 --> 00:07:12.560]  A PR firm whose symbol is a Trojan horse, how perfect for all this, they created it jumping on the hype.
+[00:07:12.720 --> 00:07:16.800]  If I wanted hundreds of millions of views a day, I'd talk Palantir, Palantir, Palantir.
+[00:07:17.279 --> 00:07:21.759]  If I want hundreds of millions of views a day, I would just talk about Israel killing Charlie Kirk.
+[00:07:22.000 --> 00:07:24.399]  If Israel killed Charlie Kirk, I'll go there.
+[00:07:24.720 --> 00:07:32.319]  But because the system is discredited, because nobody believes establishment corporate media, which is good, remember I pioneered exposing that.
+[00:07:32.639 --> 00:07:42.399]  Now the system knows how to pose as the alternative, as the outsider, as the resistance, and then they inject establishment messages through that.
+[00:07:42.639 --> 00:07:43.840]  That's what's happened.
+[00:07:44.159 --> 00:07:45.840]  So I'm not telling you what to think.
+[00:07:45.920 --> 00:07:47.200]  I'm not going over each story.
+[00:07:47.439 --> 00:07:56.720]  I'm simply saying, realize, when you see people claiming they're anti-establishment, they got a particular narrative that first came from the corporate media, you know, there's a setup.
+[00:07:57.360 --> 00:07:59.279]  All of this tech is oppressive.
+[00:07:59.439 --> 00:08:00.879]  All of it is a Trojan horse.
+[00:08:01.200 --> 00:08:02.480]  All of it is dehumanizing.
+[00:08:02.800 --> 00:08:09.920]  All of it at the international standardization is meant to go to direct brain chip interface with AI.
+[00:08:10.800 --> 00:08:11.680]  That's what's happening.
+[00:08:11.759 --> 00:08:12.399]  That's the reality.
+[00:08:12.639 --> 00:08:18.080]  And it's not being done from a perspective of empowering us, but a perspective of ending humanity as we know it.
+[00:08:18.319 --> 00:08:22.240]  As you all know, Harari and others have said at the World Economic Forum, the future is not human.
+[00:08:22.399 --> 00:08:25.920]  Well, I know the future is human, and I'm here to defend the human future.
+[00:08:26.159 --> 00:08:29.279]  And that means I expose all points of the compass.
+[00:08:29.519 --> 00:08:38.720]  So this was a fake Palantir ad, but everything you see in that ad has been in place for at least nine years in Communist China.
+[00:08:39.039 --> 00:08:43.279]  It's not a futuristic nightmare vision or warning.
+[00:08:43.600 --> 00:08:47.360]  It's telling you what's already happened in the past.
+[00:08:47.680 --> 00:08:53.039]  So what you see here is not some futuristic vision of Palantir.
+[00:08:53.440 --> 00:09:02.080]  It's what's already currently happening, deployed by big tech and now rolling out via stealth in the West via Kira Starmer and others.
+[00:09:02.399 --> 00:09:04.720]  And that, my friends, is the reality.
+[00:09:05.039 --> 00:09:13.440]  That's why you have to have a debate and a discussion about the market of the beast, about the antichrist system, and raise awareness of that so that the public gets engaged in the debate.
+[00:09:13.680 --> 00:09:17.920]  So we take control of the future and don't let the technocrats manipulate us.
+[00:09:18.240 --> 00:09:19.200]  That's the reality.
+[00:09:19.519 --> 00:09:20.400]  That's the facts.
+[00:09:20.720 --> 00:09:22.319]  And that's what we're currently dealing with.
+[00:09:22.559 --> 00:09:28.799]  Not some futuristic 1984 vision, but a technocracy that's been here for a long time.
+[00:09:29.120 --> 00:09:29.759]  Be aware.
+[00:09:29.920 --> 00:09:30.559]  Get engaged.
+[00:09:30.639 --> 00:09:31.120]  Get informed.
+[00:09:31.200 --> 00:09:35.360]  And use your power now because humanity with the Holy Spirit behind us is unstoppable.
+[00:09:35.519 --> 00:09:36.538]  Thank you so much for your support.
+[00:09:42.437 --> 00:09:47.899]  I started having seizures like a few years ago and everybody in my family knows I'm a neuroscientist.
+[00:09:48.160 --> 00:09:49.200]  What did you do to fix it?
+[00:09:49.440 --> 00:09:50.480]  Methylene blue.
+[00:09:50.639 --> 00:09:51.120]  I take it.
+[00:09:51.440 --> 00:09:51.519]  Okay.
+[00:09:51.680 --> 00:09:51.759]  Yeah.
+[00:09:52.080 --> 00:09:53.520]  Mel Gibson was on here talking about it.
+[00:09:53.840 --> 00:09:54.880]  This stuff works, man.
+[00:09:55.200 --> 00:09:56.160]  I take it every day as well.
+[00:09:56.480 --> 00:09:58.160]  And RFK Jr. told me about it.
+[00:09:58.400 --> 00:09:59.440]  That man is fantastic.
+[00:09:59.760 --> 00:10:03.120]  What is Bobby Kennedy Jr. dropping into that glass of water?
+[00:10:03.360 --> 00:10:07.680]  Plenty of folks are wondering what was in that little bottle he uncorked during a flight.
+[00:10:07.920 --> 00:10:08.800]  Methylene blue.
+[00:10:08.880 --> 00:10:10.080]  Shower Kennedy taking it.
+[00:10:10.240 --> 00:10:11.760]  Kennedy literally gobbles it.
+[00:10:11.920 --> 00:10:13.440]  He must be doing something right.
+[00:10:13.760 --> 00:10:16.320]  That ripped bod is 73 years old.
+[00:10:16.640 --> 00:10:18.800]  You shouldn't have to tell a doctor about methylene blue.
+[00:10:18.880 --> 00:10:20.160]  I think everybody should know about it.
+[00:10:20.400 --> 00:10:21.680]  It's changed my life.
+[00:10:22.000 --> 00:10:23.200]  I knew what that did for me.
+[00:10:23.520 --> 00:10:28.480]  I knew that it got me up and walking again, and I was having seizures about it.
+[00:10:28.800 --> 00:10:30.960]  And I was bad, really bad.
+[00:10:31.280 --> 00:10:32.160]  So I ordered it.
+[00:10:32.320 --> 00:10:33.360]  I started taking it.
+[00:10:33.680 --> 00:10:35.680]  And boy, let me tell you something.
+[00:10:36.000 --> 00:10:36.800]  What a blessing.
+[00:10:37.120 --> 00:10:41.200]  For me, it's like a fog lifted, but it was like a veil lifted off, you know?
+[00:10:41.360 --> 00:10:41.920]  Incredible.
+[00:10:42.160 --> 00:10:44.000]  Best product that I've purchased so far.
+[00:10:44.320 --> 00:10:48.960]  It clears the brain fog where you're actually able to focus more clearly.
+[00:10:49.280 --> 00:10:49.920]  Let me tell you something.
+[00:10:50.080 --> 00:10:51.600]  I'm walking without a cane.
+[00:10:51.760 --> 00:10:54.560]  I take one pill a day of the Ivermectin with the methylene blue.
+[00:10:54.640 --> 00:10:56.720]  And I got to tell you, what a blessing.
+[00:10:57.120 --> 00:10:58.560]  I am so blessed.
+[00:10:59.200 --> 00:11:00.880]  It is a miracle.
+[00:11:01.040 --> 00:11:02.560]  It's been proven for 100 years.
+[00:11:02.880 --> 00:11:05.360]  It's one of the most well-proven drugs out there.
+[00:11:05.680 --> 00:11:06.560]  My kids take it.
+[00:11:06.640 --> 00:11:07.440]  My wife takes it.
+[00:11:07.760 --> 00:11:08.400]  Everybody takes it.
+[00:11:08.720 --> 00:11:18.320]  I used to have to pay, what, $10,000 a week to get it in my arm and sit there for six hours a day to get it pumped in my system.
+[00:11:18.640 --> 00:11:23.280]  And now I can take two pills or drink it once a day and pay what?
+[00:11:23.520 --> 00:11:26.320]  I don't know, $30,000, $40 a bottle of it.
+[00:11:26.640 --> 00:11:27.680]  Depends on what the sale is.
+[00:11:28.000 --> 00:11:28.080]  Yeah.
+[00:11:28.560 --> 00:11:32.480]  And it's helping me to have a quality of life that I didn't have before that I have now.
+[00:11:32.800 --> 00:11:34.480]  And I got to tell you, what a blessing.
+[00:11:34.640 --> 00:11:35.840]  I don't care what anybody says.
+[00:11:36.080 --> 00:11:39.120]  I know what it's like with it and I know what it's like without it.

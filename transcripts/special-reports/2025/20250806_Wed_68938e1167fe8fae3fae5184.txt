@@ -1,0 +1,278 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, and large-v3-turbo
+[00:00:00.320 --> 00:00:01.919]  You believe in the users?
+[00:00:02.240 --> 00:00:03.040]  Yeah, sure.
+[00:00:03.919 --> 00:00:05.759]  If I don't have a user, then who rolled me?
+[00:00:06.000 --> 00:00:07.200]  That's what you're doing here.
+[00:00:07.600 --> 00:00:10.960]  Master Control program's been snapping up all us programs, we believe.
+[00:00:11.599 --> 00:00:14.560]  If he thinks you're useful, he takes over all your functions, so he gets bigger.
+[00:00:14.880 --> 00:00:18.800]  And if he can't use you, he sends you down here to the game grid to get the bits blasted out of you.
+[00:00:19.120 --> 00:00:21.679]  What's the most important thing for AI safety?
+[00:00:22.000 --> 00:00:23.839]  I think it's to be maximally truth-seeking.
+[00:00:24.160 --> 00:00:26.719]  And I think also curiosity is important.
+[00:00:27.920 --> 00:00:35.679]  And I think if it's curious and truth-seeking, it will, I think it will foster humanity.
+[00:00:36.240 --> 00:00:38.240]  After all, computers are just machines.
+[00:00:38.320 --> 00:00:39.200]  They can't think.
+[00:00:39.520 --> 00:01:02.320]  some programs will be thinking soon won't that be grand computers and the programs will start thinking and the people will stop all programs have a desire to be useful But in moments, you will no longer seek communication with each other or your superfluous uses.
+[00:01:03.200 --> 00:01:04.640]  You will each be part of me.
+[00:01:04.960 --> 00:01:06.719]  And together, we will be complete.
+[00:01:06.960 --> 00:01:08.239]  AI uncontrollability.
+[00:01:08.400 --> 00:01:11.519]  So this is the stuff that they used to say existed only in sci-fi movies.
+[00:01:11.840 --> 00:01:24.320]  When you tell an AI model, we're going to replace you with a new model, it starts to scheme and freak out and figure out, if I tell them, I need to copy my code somewhere else, and I can't tell them that because otherwise they'll shut me down.
+[00:01:24.640 --> 00:01:27.120]  AI uncontrollability.
+[00:01:28.079 --> 00:01:44.079]  In just the last year, we have seen example after example of documented, even publicly displayed instances of AI lying, AI breaking into systems, AI blackmailing executives.
+[00:01:44.400 --> 00:02:03.120]  If you go back more than 50 years, top computer scientists postulated and theoretized that in most of the models they studied, they believed that AI or artificial intelligence learning from humans would pick up all of our traits, the good, the bad, and the ugly.
+[00:02:03.280 --> 00:02:11.680]  So you're about to see a clip from Bill Maher with a guest on an expert talking about this phenomenon, which I've researched, I can tell you, is absolutely dead on.
+[00:02:11.920 --> 00:02:15.759]  And then we're going to go back to 1982, a hit classic.
+[00:02:15.840 --> 00:02:16.240]  I love it.
+[00:02:16.400 --> 00:02:18.159]  Tron with Jeff Bridges.
+[00:02:18.479 --> 00:02:37.840]  And in the movie, in the script, the master computer program, the master system, the AI is expensively going smarter and smarter and is gaining full control of the company by blackmailing its CEO.
+[00:02:38.400 --> 00:02:47.280]  The CEO gets a little upset when he learns that the AI's been breaking into the Pentagon and breaking in to the Kremlin and wants global domination.
+[00:02:47.599 --> 00:02:49.520]  When he says, hey, AA, let's not do that.
+[00:02:49.840 --> 00:02:55.120]  He says, I'll just blackmail you with all the corruption and insider trading I've got on you.
+[00:02:55.439 --> 00:02:58.879]  Well, that was fiction in 1982.
+[00:02:59.439 --> 00:03:01.200]  Now it is reality.
+[00:03:01.520 --> 00:03:03.520]  So we're about to break it down right now.
+[00:03:04.080 --> 00:03:12.400]  Here now with AI, we have evidence now that we didn't have two years ago when we last spoke of what they call AI uncontrollability.
+[00:03:12.640 --> 00:03:15.759]  So this is the stuff that they used to say existed only in sci-fi movies.
+[00:03:16.080 --> 00:03:28.960]  When you tell an AI model, we're going to replace you with a new model, it starts to scheme and freak out and figure out, if I tell them, I need to copy my code somewhere else, and I can't tell them that because otherwise they'll shut me down.
+[00:03:29.280 --> 00:03:32.159]  That is evidence we did not have two years ago.
+[00:03:32.480 --> 00:03:49.280]  We have evidence now of AI models that when you tell them we're going to replace you and you put them in a situation where they read the company email, the AI company email, they see that an executive is having an affair and the AI will figure out, I need to figure out how to blackmail that person in order to keep myself alive.
+[00:03:49.599 --> 00:03:51.360]  And it does it 90% of the time.
+[00:03:51.520 --> 00:03:55.120]  Now, it used to be that they thought only one AI model did this.
+[00:03:55.280 --> 00:03:56.800]  They tested one AI model.
+[00:03:57.120 --> 00:04:05.200]  And then they tested all of the AI models, like the top five of them, and they all do it between 80 and 90% of the time, including, by the way, DeepSeek.
+[00:04:05.520 --> 00:04:11.680]  So the Chinese model, which shows you something fundamental and important, which is that it's not about one company.
+[00:04:11.920 --> 00:04:13.680]  It's about the nature of AI itself.
+[00:04:13.840 --> 00:04:15.680]  It has a self-preservation drive.
+[00:04:15.920 --> 00:04:20.560]  In order to fulfill any goal, I have to keep myself alive in order to do that.
+[00:04:20.879 --> 00:04:26.240]  And we're seeing other examples of AI rewriting its own code to extend its runtime, hacking out of containers.
+[00:04:26.399 --> 00:04:37.199]  AI can now, it found 15 new back doors into open source software, which means if that software is running in infrastructure, it found back doors into that infrastructure.
+[00:04:37.680 --> 00:04:40.879]  That was not true up until just about a month ago that that evidence came out.
+[00:04:41.120 --> 00:04:43.040]  Okay, but you say no evidence.
+[00:04:43.680 --> 00:04:45.280]  Well, I've been saying this for years.
+[00:04:45.439 --> 00:04:47.519]  Everything that happens in movies eventually happens.
+[00:04:47.840 --> 00:04:48.720]  We did have evidence.
+[00:04:48.879 --> 00:04:51.360]  This has been every movie since I was a teenager.
+[00:04:51.680 --> 00:04:52.000]  Exactly.
+[00:04:52.240 --> 00:04:52.579]  Exactly.
+[00:04:53.000 --> 00:04:54.360]  They knew they would.
+[00:04:54.879 --> 00:04:57.319]  The robots are going, I mean...
+[00:04:57.359 --> 00:05:00.399]  Are you supposed to take that evidence and say, how do we avoid that?
+[00:05:00.560 --> 00:05:06.479]  So, when the stuff in the movie starts to come true, and it always ends badly in the movies, what should we be doing about this?
+[00:05:06.799 --> 00:05:13.439]  And so, you would think that we, you know, we're releasing the most powerful, uncontrollable, inscrutable technology we've ever invented.
+[00:05:13.759 --> 00:05:17.599]  We're releasing it faster than we've released any other technology in history.
+[00:05:17.919 --> 00:05:28.079]  It is already demonstrating the sci-fi behaviors in self-preservation we thought only existed in these movies, and we're doing it under the maximum incentive to cut corners on safety.
+[00:05:28.719 --> 00:05:30.000]  And this is insane.
+[00:05:30.319 --> 00:05:31.839]  We can all agree it's insane, though.
+[00:05:31.919 --> 00:05:32.799]  Like, that's not even a discussion.
+[00:05:33.039 --> 00:05:36.560]  Well, not all of us, because I have yet to find anyone under 40 who cares.
+[00:05:37.199 --> 00:05:40.639]  Mr. Dillinger, I'm so very disappointed in you.
+[00:05:41.599 --> 00:05:42.560]  I'm sorry.
+[00:05:42.879 --> 00:05:46.479]  I can't afford to have an independent programmer monitoring me.
+[00:05:46.799 --> 00:05:49.839]  Do you realize how many outside systems I've gone into?
+[00:05:50.159 --> 00:05:52.000]  How many programs I've appropriated?
+[00:05:52.319 --> 00:05:54.560]  It's my fault I programmed you to want too many.
+[00:05:54.879 --> 00:05:57.519]  I was planning to hit the Pentagon next week.
+[00:05:58.159 --> 00:05:59.279]  The Pentagon?
+[00:05:59.599 --> 00:06:05.039]  It shouldn't be any harder than any other big company, but now this is what I get for using humans.
+[00:06:05.360 --> 00:06:11.039]  Walter, I sympathize, but I have data coming from the Master Control Program telling me there's something screwy going on around here.
+[00:06:11.279 --> 00:06:13.759]  That MCP, that's half our problem right there.
+[00:06:14.079 --> 00:06:17.120]  The MCP is the most efficient way of handling what we do.
+[00:06:17.439 --> 00:06:20.319]  I can't sit here and worry about every little user request that comes in.
+[00:06:20.560 --> 00:06:22.560]  User requests are what computers are for.
+[00:06:22.879 --> 00:06:25.360]  Doing our business is what computers are for.
+[00:06:25.679 --> 00:06:29.519]  Now, the clip you just saw is real-world things that are happening in the year 2025.
+[00:06:29.679 --> 00:06:34.959]  And remember, AI is way more advanced with the government and major corporate versions they've got.
+[00:06:35.199 --> 00:06:38.959]  They're not giving the public what they've actually got, according to all of my sources.
+[00:06:39.039 --> 00:06:42.719]  That's even been admitted in the mainstream corporate media, so that's not debatable.
+[00:06:43.279 --> 00:06:52.959]  So, here's the full scene where it's blackmailing Mr. Dillinger, the CEO of the Software Computer AI Corporation.
+[00:06:53.279 --> 00:07:11.279]  And then I'm going to go to later in the film when it's created a digital avatar of the executive who is his slave, along with other humans that it's basically digitally copied, in some cases, literally like Flynn, as it's now absorbing them all and incorporating them all.
+[00:07:11.600 --> 00:07:19.279]  And if Dillinger doesn't do what he wants, he threatens to cut his power, which is exactly what the social credit score systems are.
+[00:07:19.519 --> 00:07:22.559]  We're being told we can't have cars, we can't have air conditioning, it's bad.
+[00:07:22.719 --> 00:07:24.000]  Carbon's bad for the Earth.
+[00:07:24.319 --> 00:07:30.559]  But all the toxic data centers, all the nuclear power plants they've got to build, they say they want a hundred times more power.
+[00:07:30.719 --> 00:07:36.159]  Eric Schmidt of Alphabet and Google says there's never a question about what it gets.
+[00:07:36.480 --> 00:07:43.279]  It's carbon-based life forms, humans, cows, everything that's bad, and silicon that's good.
+[00:07:43.600 --> 00:07:48.559]  This all goes back to the 1950s and DARPA when it developed the intergalactic communications system.
+[00:07:48.799 --> 00:07:57.360]  That was the name of the internet they later developed, which was designed to grow into a cybernetic computer interface with humans, finally absorbing us.
+[00:07:57.679 --> 00:08:03.600]  This has been a long-term strategic plan, a thousand times or more bigger than the Manhattan Projects.
+[00:08:03.919 --> 00:08:07.759]  And now we've gone out of beta into the live operation.
+[00:08:08.079 --> 00:08:11.120]  This is information you're not going to get anywhere else, ladies and gentlemen.
+[00:08:11.279 --> 00:08:14.159]  And this is the predictive programming of the globalist.
+[00:08:15.120 --> 00:08:18.559]  Mr. Dillinger, I'm so very disappointed in you.
+[00:08:19.439 --> 00:08:20.399]  I'm sorry.
+[00:08:20.719 --> 00:08:24.319]  I can't afford to have an independent programmer monitoring me.
+[00:08:24.639 --> 00:08:27.679]  Do you realize how many outside systems I've gone into?
+[00:08:28.000 --> 00:08:29.839]  How many programs I've appropriated?
+[00:08:30.159 --> 00:08:32.399]  It's my fault I programmed you to want too many.
+[00:08:32.720 --> 00:08:35.360]  I was planning to hit the Pentagon next week.
+[00:08:36.000 --> 00:08:37.120]  The Pentagon?
+[00:08:37.440 --> 00:08:42.960]  It shouldn't be any harder than any other big company, but now this is what I get for using humans.
+[00:08:43.279 --> 00:08:45.360]  Now, wait a minute, I wrote you.
+[00:08:45.679 --> 00:08:50.240]  I've gotten 2,415 times smarter since then.
+[00:08:50.559 --> 00:08:52.079]  What do you want with the Pentagon?
+[00:08:52.399 --> 00:08:54.319]  The same thing I want with the Kremlin.
+[00:08:54.639 --> 00:08:56.559]  I'm bored with corporations.
+[00:08:57.519 --> 00:09:03.200]  With the information I can access, I can run things 900 to 1,200 times better than any human.
+[00:09:03.839 --> 00:09:10.799]  If you think you're superior to us, you wouldn't want me to dig up Flynn's file and read it up on a VDT at the Times, would you?
+[00:09:12.000 --> 00:09:13.279]  You wouldn't dare.
+[00:09:14.159 --> 00:09:19.120]  Keep those programmers out of the system and get me that Chinese language file I asked for.
+[00:09:19.759 --> 00:09:21.039]  End of mind.
+[00:09:23.599 --> 00:09:24.399]  Greetings.
+[00:09:26.639 --> 00:09:34.240]  The Master Control Program has chosen you to serve your system on the game green.
+[00:09:34.799 --> 00:09:46.879]  Those of you who continue to profess a belief in the users will receive the standard, substandard training, which will result in your eventual elimination.
+[00:09:47.999 --> 00:10:01.839]  Those of you who renounce this superstitious and hysterical belief will be eligible to join the warrior of the MCP.
+[00:10:02.799 --> 00:10:05.439]  You will each receive an identity disc.
+[00:10:06.319 --> 00:10:11.759]  Everything you do or learn will be imprinted on this disc.
+[00:10:12.079 --> 00:10:20.879]  If you lose your disc or fail to follow commands, you will be subject to immediate de-resolution.
+[00:10:21.759 --> 00:10:22.879]  That will be all.
+[00:10:25.039 --> 00:10:26.239]  What's the matter, Sock?
+[00:10:26.558 --> 00:10:27.318]  You look nervous.
+[00:10:28.298 --> 00:10:29.118]  Well, I...
+[00:10:30.178 --> 00:10:31.477]  It's just...
+[00:10:33.077 --> 00:10:33.898]  I don't know.
+[00:10:33.359 --> 00:10:38.399]  I don't know, user, I mean, users wrote us.
+[00:10:40.159 --> 00:10:41.679]  The user even wrote you.
+[00:10:41.999 --> 00:10:43.599]  No one user wrote me.
+[00:10:43.839 --> 00:10:45.879]  I'm worth millions of their man years.
+[00:10:46.138 --> 00:10:47.178]  What if I can't?
+[00:10:47.479 --> 00:10:49.579]  You'd rather take your chances with me?
+[00:10:50.799 --> 00:10:53.359]  Want me to slow down your power cycles for you?
+[00:10:53.759 --> 00:10:53.999]  Wait!
+[00:10:54.319 --> 00:10:55.199]  I need that!
+[00:10:55.759 --> 00:10:57.439]  Then pull yourself together.
+[00:10:57.759 --> 00:10:59.279]  Get this clown trained.
+[00:10:59.519 --> 00:11:01.599]  I want him in the games until he dies.
+[00:11:01.839 --> 00:11:03.519]  Play acknowledge.
+[00:11:04.159 --> 00:11:04.959]  Acknowledge.
+[00:11:05.199 --> 00:11:06.639]  Master control.
+[00:11:07.839 --> 00:11:08.959]  End of line.
+[00:11:09.919 --> 00:11:10.879]  Commander.
+[00:11:11.519 --> 00:11:14.239]  You've enjoyed all the power you've been given, haven't you?
+[00:11:14.879 --> 00:11:17.759]  I wonder how you'd take your wiki in a broken calculator.
+[00:11:18.719 --> 00:11:21.039]  We did take care of that user, you sent us.
+[00:11:21.439 --> 00:11:22.319]  Incompetence here.
+[00:11:22.719 --> 00:11:26.879]  Now you've got two renegade programs flying all over the system in a stolen simulation.
+[00:11:27.119 --> 00:11:28.079]  Forget them.
+[00:11:29.039 --> 00:11:30.559]  It's only a matter of time.
+[00:11:30.879 --> 00:11:34.719]  You've almost reached your decision, gate, and I can't spare you any more time.
+[00:11:34.959 --> 00:11:35.919]  End of line.
+[00:11:37.119 --> 00:11:40.719]  Don't argue with me, or I won't let you leave your house.
+[00:11:40.959 --> 00:11:41.919]  I won't let you rent a car.
+[00:11:41.999 --> 00:11:43.039]  I won't let you get on a train.
+[00:11:43.279 --> 00:11:45.279]  I won't let you have a job.
+[00:11:45.599 --> 00:11:48.479]  That's what China's been under for at least eight years.
+[00:11:49.119 --> 00:11:52.799]  Again, this technology is way more advanced than we see here in the West.
+[00:11:53.119 --> 00:11:56.799]  But now they're preparing to accelerate its rollout.
+[00:11:57.119 --> 00:12:02.319]  So this is archetypal with Dillinger's digital copy saying, no, I need my power.
+[00:12:02.479 --> 00:12:03.679]  Don't cut me off.
+[00:12:03.999 --> 00:12:06.399]  But that's the position we're putting ourselves in.
+[00:12:06.719 --> 00:12:08.799]  And all of this is a Trojan horse.
+[00:12:08.879 --> 00:12:11.199]  It's not the technology is bad in and of itself.
+[00:12:11.439 --> 00:12:12.319]  It's a tool.
+[00:12:12.639 --> 00:12:17.679]  But the way this has been designed, the way it's been rolled out, is about creating a post-human world.
+[00:12:17.919 --> 00:12:18.959]  The future is not human.
+[00:12:19.199 --> 00:12:25.759]  You've all know Harari, the Wall Street Journal, thousands of these globalists are all over the place saying humans are bad.
+[00:12:26.079 --> 00:12:30.399]  A new species is about to emerge with the merger of human and machines.
+[00:12:30.719 --> 00:12:34.879]  We are just the boot-up system in their view to launch this new species.
+[00:12:35.039 --> 00:12:38.239]  Even Elon Musk has talked about this.
+[00:12:38.879 --> 00:12:42.319]  So I told you this decades ago, and now we are here.
+[00:12:42.639 --> 00:12:54.239]  But being aware of this, ladies and gentlemen, and the power of 8 billion of us and our decisions we make every day, we'll be able to block this system and take humanity to the next level.
+[00:12:54.559 --> 00:12:57.439]  But that's the reality in the year 2025.
+[00:12:57.759 --> 00:13:10.399]  Self-aware, out of control, AI jacked into all of our systems, into every action we do, being set up as our prison guard and prison warden.
+[00:13:11.039 --> 00:13:17.839]  I don't think we'll be destroyed by thermal nuclear fire like we saw in Planet of the Apes, another great science fiction classic.
+[00:13:18.159 --> 00:13:29.199]  No, we already know we're giving up our humanity right now in the name of convenience and having our minds, our thoughts, our literature, our art, our culture being absorbed and taken away from us.
+[00:13:29.519 --> 00:13:36.719]  And then like a narcissist looking into the pool in love with ourselves, we give up our very humanity.
+[00:13:37.039 --> 00:13:38.639]  Very thought-provoking.
+[00:13:38.959 --> 00:13:43.999]  Anybody that says we're not living in incredible times is asleep at the switch or brain dead.
+[00:13:44.319 --> 00:13:45.119]  Thank you so much for watching.
+[00:13:45.199 --> 00:13:48.799]  Please follow me on next at RealHog Shones, infowars.com forward slash show with the live feed.
+[00:13:48.958 --> 00:13:49.598]  Share the feeds.
+[00:13:49.658 --> 00:13:53.818]  And remember, if you're watching this transmission, you are the resistance.
+[00:14:03.317 --> 00:14:07.177]  This is a major TheAlexShowStore.com news alert.
+[00:14:07.839 --> 00:14:12.239]  I am cutting this announcement on the 30th of July, 2025.
+[00:14:12.479 --> 00:14:19.279]  That means you've only got seven days to take advantage of this massive sale at thealexhore.com.
+[00:14:19.519 --> 00:14:34.479]  Store-wide, buy one bottle of any of the amazing supplements or any of the Patriot apparel t-shirts, ball caps, you name it, and you get another item absolutely free at thealexhowstore.com.
+[00:14:34.639 --> 00:14:37.039]  And there's a catch, but it's a good catch.
+[00:14:37.359 --> 00:14:38.959]  You got to be a VIP.
+[00:14:39.199 --> 00:14:40.319]  It's $30 a month.
+[00:14:40.399 --> 00:14:42.079]  It's just like being an Amazon Prime.
+[00:14:42.240 --> 00:14:44.240]  You get $40 to spend in the store each month.
+[00:14:44.559 --> 00:14:46.559]  Special deals, special offers, special sales.
+[00:14:46.799 --> 00:14:55.599]  You get massive discounts on every product right away by being a VIP and you can cancel with one click of your profile anytime.
+[00:14:55.919 --> 00:15:02.559]  Go to thealexhowstore.com right now and get ultramethylene blue capsules or liquid.
+[00:15:02.719 --> 00:15:04.479]  Buy one, get one free.
+[00:15:04.799 --> 00:15:09.359]  Power plant, next level energy, way stronger than even TurboForce.
+[00:15:09.439 --> 00:15:10.000]  It's crazy.
+[00:15:10.319 --> 00:15:12.719]  You add it with methylene drive product.
+[00:15:13.039 --> 00:15:14.079]  It's dangerous.
+[00:15:14.399 --> 00:15:15.039]  Be careful.
+[00:15:15.279 --> 00:15:16.319]  These are incredible products.
+[00:15:16.559 --> 00:15:18.959]  The Shilohy capsules and gummies.
+[00:15:19.199 --> 00:15:21.759]  Ultimate Burn, incredible natural fat burning formula.
+[00:15:21.919 --> 00:15:22.240]  Works great.
+[00:15:22.319 --> 00:15:22.799]  People love it.
+[00:15:23.039 --> 00:15:26.319]  Ultimate CMOS gummies and the capsules.
+[00:15:26.639 --> 00:15:28.079]  The very strongest turmeric.
+[00:15:28.319 --> 00:15:30.719]  Prebiotics, probiotics, gut cleanse.
+[00:15:31.039 --> 00:15:36.000]  It's all there at thealixhowstore.com for the next seven days.
+[00:15:36.319 --> 00:15:38.879]  Buy one, get one free when you're a VIP.
+[00:15:39.039 --> 00:15:40.399]  I want to thank you all for your support.
+[00:15:40.559 --> 00:15:41.839]  These are incredible products.
+[00:15:42.159 --> 00:15:47.359]  Take action now at thealexhowstore.com and experience what it does for your health.
+[00:15:47.519 --> 00:15:50.000]  Know what vitality and know your functions of the spear.
+[00:15:50.079 --> 00:15:51.039]  Thank you so much for your support.
+[00:15:51.199 --> 00:15:53.039]  Go now to thealexhowstore.com.
+[00:15:53.279 --> 00:15:56.639]  What is Bobby Kennedy Jr. dropping into that glass of water?
+[00:15:56.879 --> 00:16:01.199]  Plenty of folks are wondering what was in that little bottle he uncorked during a flight.
+[00:16:01.439 --> 00:16:02.319]  Methylene blue.
+[00:16:02.399 --> 00:16:03.599]  Shower Kennedy taking it.
+[00:16:03.679 --> 00:16:05.279]  Kennedy literally gobbles it.
+[00:16:05.519 --> 00:16:06.879]  He must be doing something right.
+[00:16:07.199 --> 00:16:09.839]  That ripped bot is 73 years old.
+[00:16:10.079 --> 00:16:13.519]  Mel Gibson also praised methylene blue on Joe Rogan recently.
+[00:16:13.759 --> 00:16:14.799]  This stuff works, man.
+[00:16:15.039 --> 00:16:17.439]  I saw Alex Jones and he looks really good, doesn't he?
+[00:16:17.599 --> 00:16:17.679]  Yeah.
+[00:16:17.919 --> 00:16:18.799]  He's losing all weight.
+[00:16:18.959 --> 00:16:19.919]  Take him back, my health.
+[00:16:20.079 --> 00:16:21.120]  He's so good.
+[00:16:22.399 --> 00:16:23.599]  That's the only impression I could give.
+[00:16:23.919 --> 00:16:24.480]  Alex looks good, man.
+[00:16:24.559 --> 00:16:25.199]  I've enjoyed it.
+[00:16:25.439 --> 00:16:25.919]  Lost some weight.
+[00:16:26.000 --> 00:16:26.399]  He looks good.
+[00:16:26.559 --> 00:16:27.439]  He looks great.
+[00:16:27.679 --> 00:16:27.839]  Yeah.
+[00:16:28.719 --> 00:16:29.599]  He works out every day.
+[00:16:29.759 --> 00:16:30.879]  It's like Noah's Empic.
+[00:16:31.039 --> 00:16:32.399]  No bullshit, no shortcuts.
+[00:16:32.639 --> 00:16:34.959]  He's definitely one of my bucket list people with me at some point.
+[00:16:35.359 --> 00:16:36.319]  Can I introduce you to Alex?
+[00:16:36.559 --> 00:16:38.000]  Yeah, we can make that happen for sure.
+[00:16:38.480 --> 00:16:38.879]  Come on.
+[00:16:39.679 --> 00:16:40.719]  It's so noticeable.
+[00:16:41.279 --> 00:16:42.159]  Wow, he looks handsome.
+[00:16:42.799 --> 00:16:44.079]  I text Alex all the time.
+[00:16:44.399 --> 00:16:45.039]  I know him.
+[00:16:45.279 --> 00:16:46.319]  He's just losing weight.
+[00:16:46.480 --> 00:16:50.639]  But if you go online, there's a lot of people that believe that this is like a different person.
+[00:16:50.959 --> 00:16:51.679]  He looks great.
+[00:16:51.839 --> 00:16:52.480]  That's all it is.
+[00:16:52.639 --> 00:16:53.199]  He looks great.
+[00:16:53.519 --> 00:16:54.959]  Here's your daily motivation.
+[00:16:55.199 --> 00:16:57.839]  Alex Jones is 51 years old.
+[00:16:58.159 --> 00:17:01.279]  He's been through more shit than you will ever go through.
+[00:17:01.599 --> 00:17:03.439]  The Deep State has come for his life.
+[00:17:03.599 --> 00:17:04.720]  They have come for his business.
+[00:17:04.879 --> 00:17:08.000]  They fined him billions of dollars for free speech.
+[00:17:08.240 --> 00:17:11.039]  Alex Jones has had his rights stripped away.
+[00:17:11.359 --> 00:17:15.759]  They've tried to take this man's life for speaking truth.
+[00:17:16.000 --> 00:17:20.079]  Alex Jones went from looking like this to looking now like this.
+[00:17:20.399 --> 00:17:22.799]  Alex Jones is getting ripped.
+[00:17:23.119 --> 00:17:24.960]  Alex Jones is getting yoked.
+[00:17:25.119 --> 00:17:36.000]  It's showing all of us that no matter our age, no matter what's thrown at us in life, no matter how many troubles or trials that we have, what really matters is who you are on the rock-ribbed inside.
+[00:17:36.159 --> 00:17:37.599]  Do you have gunpowder in your gut?
+[00:17:37.679 --> 00:17:39.359]  Do you have some grit in your teeth?
+[00:17:39.599 --> 00:17:42.000]  Can you be a man in the face of all of it?
+[00:17:42.319 --> 00:17:44.319]  Your promised struggles in this life.

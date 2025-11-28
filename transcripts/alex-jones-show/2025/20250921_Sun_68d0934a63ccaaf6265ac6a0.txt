@@ -1,0 +1,1616 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, and large-v3-turbo
+[00:00:03.359 --> 00:00:07.520]  It is Sunday, September 21st, 2025.
+[00:00:07.679 --> 00:00:08.560]  I am Alex Jones.
+[00:00:08.640 --> 00:00:19.039]  If you're just now joining us on stations across the country, we've been live for several hours, myself and Rob Dube covering the Charlie Kirk Memorial Service in live time.
+[00:00:19.600 --> 00:00:22.559]  We've been covering it live until now, but so I can come to the show.
+[00:00:22.640 --> 00:00:23.359]  We paused it.
+[00:00:23.679 --> 00:00:26.160]  Secretary of State Marco Rubio just took the stage.
+[00:00:26.480 --> 00:00:30.800]  When we take a break for one minute to join some stations, we will come back in with Rubio.
+[00:00:31.120 --> 00:00:42.399]  And then it's scheduled to be Robert F. Kennedy Jr. and then Erica Kirk, the vice president Jenny Vance, and Donald Trump.
+[00:00:42.719 --> 00:00:51.439]  And then I have FBI whistleblower and a guy that's super accurate batting 1,000 with what he really thinks happened with the Charlie Kirk assassination.
+[00:00:51.759 --> 00:00:53.920]  Where their accomplices, is there a cover-up?
+[00:00:54.640 --> 00:00:56.240]  He's been deeply investigating it.
+[00:00:56.399 --> 00:00:57.520]  There's a lot of integrity.
+[00:00:57.840 --> 00:01:01.200]  And so he'll be joining us coming up in one hour.
+[00:01:02.480 --> 00:01:11.040]  And, you know, this has really been an epiphany for me at so many levels because you see 300,000 people at least show up.
+[00:01:11.120 --> 00:01:20.239]  Only 100 and something thousands could get into the convention center there in Lindale, Arizona.
+[00:01:21.200 --> 00:01:22.799]  You have the left protesting outside.
+[00:01:22.879 --> 00:01:24.159]  You have them still calling for violence.
+[00:01:24.239 --> 00:01:28.960]  You have them shooting up a country club today, screaming free Palestine.
+[00:01:29.280 --> 00:01:32.640]  You have them shooting up an ABC studio because they got rid of Kimmel.
+[00:01:33.840 --> 00:01:49.359]  I mean, the dichotomy of these degenerate, crazy-eyed, devil-worshiping, pedo, you know, lunatics versus those of us trying to save civilization has never been clear to anybody.
+[00:01:50.320 --> 00:01:56.000]  And then you've also got not just the left, you've got people that claim they're on the right who just everything's negative.
+[00:01:56.159 --> 00:01:57.359]  Nothing's good happening.
+[00:01:57.680 --> 00:01:59.359]  Nothing's good's happening in the administration.
+[00:01:59.519 --> 00:02:00.719]  Nothing good's happening in Europe.
+[00:02:00.960 --> 00:02:02.240]  No, populists are winning.
+[00:02:02.400 --> 00:02:03.600]  We're making major strides.
+[00:02:03.920 --> 00:02:08.800]  None of it's perfect, but it's night and day compared to what we had before.
+[00:02:09.120 --> 00:02:23.439]  And Charlie Kirk's murder has triggered a new renaissance and a huge revival of Christianity and of family and of understanding the West is under attack.
+[00:02:23.680 --> 00:02:28.960]  We were already there in a huge awakening, but this just supercharged it.
+[00:02:29.200 --> 00:02:34.800]  You can't hype up enough how seismic and huge this is.
+[00:02:35.439 --> 00:02:50.240]  Then you've got all the people running around saying, if you don't immediately say Israel killed him with no real evidence other than the fact that he was, like everybody else, waking up to undue influence of Israel, then you're a traitor.
+[00:02:50.400 --> 00:02:53.200]  You're bad with no evidence.
+[00:02:53.520 --> 00:03:03.120]  It's sick when you have the left everywhere saying they want violence, calling for violence, more people, trans people being arrested trying to kill Republican leaders.
+[00:03:03.439 --> 00:03:10.879]  Again, pre-Palestine people killing and shooting, today attacking country club, Kimmel worshipers shooting up an ABC studio.
+[00:03:11.120 --> 00:03:12.960]  I mean, it's every day.
+[00:03:13.759 --> 00:03:16.159]  Does Netanyahu magically control all those people?
+[00:03:16.480 --> 00:03:17.439]  Is he making them do that?
+[00:03:17.680 --> 00:03:18.000]  No.
+[00:03:19.200 --> 00:03:20.080]  You're sold out.
+[00:03:20.159 --> 00:03:21.200]  You're defending Netanyahu.
+[00:03:21.360 --> 00:03:21.599]  No.
+[00:03:22.400 --> 00:03:24.480]  If we see evidence of Israel doing it, maybe they did.
+[00:03:24.560 --> 00:03:25.439]  We'll cover it.
+[00:03:25.759 --> 00:03:26.640]  People say, don't.
+[00:03:26.800 --> 00:03:28.080]  Jones says, don't look at Israel.
+[00:03:28.159 --> 00:03:30.960]  Jones says, no, that's not what I said.
+[00:03:31.120 --> 00:03:32.480]  You're liars.
+[00:03:32.800 --> 00:03:35.599]  And you're sick.
+[00:03:35.920 --> 00:03:40.640]  And you want to attack anybody trying to save this country as a fraud except you.
+[00:03:40.800 --> 00:03:42.000]  You're a bunch of Pharisees.
+[00:03:42.319 --> 00:03:44.400]  Like in Christ Dave, you said they were perfect.
+[00:03:44.719 --> 00:03:46.240]  And he said, why don't you get the beam out of your eye?
+[00:03:46.400 --> 00:03:48.960]  Forget the speck out of mine.
+[00:03:49.280 --> 00:03:50.640]  And I'm not going to spend much time on that.
+[00:03:50.800 --> 00:03:54.400]  It's just that it's ridiculous.
+[00:03:55.039 --> 00:03:56.800]  And those same people just run around.
+[00:03:56.879 --> 00:03:57.680]  We're all doomed.
+[00:03:57.759 --> 00:03:58.560]  Everything's a fraud.
+[00:03:58.719 --> 00:03:59.520]  Nobody's real.
+[00:03:59.840 --> 00:04:00.400]  Well, you know what?
+[00:04:00.480 --> 00:04:01.120]  You're not real.
+[00:04:01.360 --> 00:04:02.800]  We know that for sure.
+[00:04:03.120 --> 00:04:04.080]  We know that.
+[00:04:04.560 --> 00:04:09.039]  And so you sit there while great men give their lives fighting to relaunch the West.
+[00:04:11.439 --> 00:04:15.360]  Those people attacked Charlie Kirk before, but now, oh, he belongs to them.
+[00:04:15.680 --> 00:04:17.600]  And now I killed Charlie Kirk.
+[00:04:17.680 --> 00:04:20.000]  They're actually saying because I work for Israel and I'm covering it up.
+[00:04:20.160 --> 00:04:21.120]  You're totally sick.
+[00:04:21.360 --> 00:04:22.240]  We'll be right back.
+[00:04:23.840 --> 00:04:36.160]  Well, it's estimated by the Sheriff's Department in Glendale, Arizona, that over 300,000 people showed up there to pay their respects and to let the left know we're not intimidated at Charlie Kirk's memorial.
+[00:04:36.480 --> 00:04:37.600]  Absolutely amazing.
+[00:04:37.759 --> 00:04:44.720]  We also have radical leftist attorney arrested for shooting up ABC station day after Pearl Kimmel protest.
+[00:04:45.680 --> 00:04:48.560]  One dead, multiple people injured during shooting spree at New Hampshire.
+[00:04:48.639 --> 00:04:51.519]  Country club shooter yelled, free Palestine.
+[00:04:52.160 --> 00:04:56.000]  New Hampshire leftist shooter attacks country club wedding in New Hampshire.
+[00:04:56.480 --> 00:05:06.240]  Meanwhile, the Democrats call Jimmy Kimmel a martyr while attacking Charlie Kirk and demonizing him.
+[00:05:06.560 --> 00:05:08.240]  Also, I told you this four months ago.
+[00:05:08.399 --> 00:05:09.759]  I gave her six months.
+[00:05:10.079 --> 00:05:11.199]  We're four months in.
+[00:05:11.519 --> 00:05:12.800]  Trump put out on True Social.
+[00:05:13.039 --> 00:05:17.920]  He's done with Bondi and the DOJ and these prosecutors not indicting people, these U.S. attorneys.
+[00:05:18.079 --> 00:05:19.839]  She is going to be gone very soon.
+[00:05:20.000 --> 00:05:21.680]  Big developments on that front.
+[00:05:22.000 --> 00:05:27.600]  I was told by a high-level White House source and others that they've been told they're going with a lone gunman theory about lone gunman.
+[00:05:27.680 --> 00:05:29.199]  I mean that he didn't have accomplices.
+[00:05:29.519 --> 00:05:32.639]  We know the trans community said he'll be dead tomorrow.
+[00:05:32.719 --> 00:05:34.800]  A bunch of his buddies show that that.
+[00:05:35.039 --> 00:05:37.279]  Meanwhile, Cash Kell says, oh no, we're going after everything.
+[00:05:37.600 --> 00:05:45.519]  We'll be looking at it all with Kyle Serafin, one of the most accurate researchers and FBI whistleblowers ever coming up in about an hour.
+[00:05:45.839 --> 00:05:54.079]  But right now, let's go to Secretary of State Marco Rubio that's speaking at Charlie Kirk's memorial that is totally blown up with the globalist face.
+[00:05:54.240 --> 00:06:06.399]  This is a seismic event, a relaunch of really a renaissance, a Western civilization and a rallying cry for Christians.
+[00:06:06.720 --> 00:06:07.439]  You can feel it.
+[00:06:07.519 --> 00:06:08.000]  You can see it.
+[00:06:08.079 --> 00:06:09.759]  The church is all over, full all of a sudden.
+[00:06:10.000 --> 00:06:11.199]  This is a revival.
+[00:06:11.439 --> 00:06:12.959]  Everything Charlie Kirk wanted.
+[00:06:13.279 --> 00:06:15.199]  What a Christ-like moment.
+[00:06:15.279 --> 00:06:16.720]  What a Christ-like figure.
+[00:06:16.959 --> 00:06:17.600]  This is amazing.
+[00:06:17.680 --> 00:06:18.480]  Here it is.
+[00:06:20.079 --> 00:06:31.920]  About maybe 10 or 12 years ago, a person I knew very well who'd been very helpful to me in my campaigns when I was in the Senate came to me and said she had met this very impressive young man.
+[00:06:32.240 --> 00:06:46.079]  And he was going to start this group to go on college campuses and try to convince young Americans that ours is the greatest country in the history of the world and that Marxism was bad.
+[00:06:47.279 --> 00:06:50.800]  And I remember thinking back then, I'm going to admit to you guys, I was a little skeptical.
+[00:06:50.879 --> 00:06:52.720]  I said, college campuses, you're going to do that?
+[00:06:52.959 --> 00:06:57.120]  Why don't you start somewhere easier, like for example, communist Cuba, you know?
+[00:07:00.560 --> 00:07:03.120]  But my skepticism was proven wrong.
+[00:07:03.759 --> 00:07:09.039]  In place after place over the last 12, 14, 16 years, we've seen this renaissance.
+[00:07:09.279 --> 00:07:12.399]  Understand where we were at that time in our history.
+[00:07:13.039 --> 00:07:31.919]  Understand where we are still today in many places, where young Americans are actively told that everything that they were taught, that all the foundations that made our society and our civilization so grand, they were all wrong, they were all evil, that marriage is oppressive, that children are a burden, that America is a source of evil, not of good in the world.
+[00:07:32.560 --> 00:07:37.919]  And here was this voice that inspired a movement in which young Americans were told that is not true.
+[00:07:38.560 --> 00:07:44.560]  The highest calling we are called to is to be in a successful marriage and to raise productive children.
+[00:07:44.879 --> 00:07:49.279]  Which is all under attack, which we know by the left, by Hollywood, by BlackRock.
+[00:07:49.360 --> 00:07:50.480]  That's why this is so revolutionary.
+[00:07:50.720 --> 00:07:51.439]  And a movement.
+[00:07:51.759 --> 00:07:53.039]  No, she said renaissance.
+[00:07:53.360 --> 00:07:53.519]  Right?
+[00:07:54.240 --> 00:07:56.240]  After I did, because it is what this is.
+[00:07:56.879 --> 00:08:00.879]  Most exceptional nation that has ever existed in the history of all of mankind.
+[00:08:01.239 --> 00:08:07.627]  And that it's worth fighting for, it's worth defending, it's worth preserving, and it's worth passing on to the next generation.
+[00:08:07.639 --> 00:08:15.908]  This was the mission and the work of Charlie Kirk.
+[00:08:15.978 --> 00:08:17.508]  Thank you.
+[00:08:17.519 --> 00:08:23.519]  And a couple things that stand out about him, he led this movement, but he did so with incredible knowledge.
+[00:08:23.840 --> 00:08:26.240]  It's unbelievable how much he knew.
+[00:08:27.120 --> 00:08:28.639]  He came to me very recently.
+[00:08:28.800 --> 00:08:29.519]  He said some quote.
+[00:08:29.600 --> 00:08:30.720]  He said, I said, who said that?
+[00:08:30.800 --> 00:08:32.240]  He said, Marcus Aurelius.
+[00:08:32.559 --> 00:08:34.720]  I said, what district does he represent?
+[00:08:37.840 --> 00:08:44.480]  I kind of knew who it was, but he said back, no, it's a Roman, you know, philosopher king or emperor.
+[00:08:44.799 --> 00:08:45.840]  His incredible knowledge.
+[00:08:46.000 --> 00:08:53.120]  Let me tell you that one of the last messages I had with him was just a few days before his passing, where he wrote me from overseas.
+[00:08:53.360 --> 00:08:54.480]  I'm in South Korea.
+[00:08:54.639 --> 00:08:57.680]  I have many concerns I want to share with you when I get back.
+[00:08:58.000 --> 00:09:01.680]  He was constantly expanding his horizons, but he just didn't have knowledge.
+[00:09:02.000 --> 00:09:03.039]  He had wisdom.
+[00:09:03.279 --> 00:09:06.879]  An uncanny amount of wisdom for a man as young as he was.
+[00:09:07.519 --> 00:09:10.319]  Wisdom that sometimes it takes a lifetime to accumulate.
+[00:09:10.639 --> 00:09:12.799]  He had it in just 31 years.
+[00:09:15.360 --> 00:09:16.720]  He was also bold.
+[00:09:17.600 --> 00:09:18.960]  It is so easy.
+[00:09:19.279 --> 00:09:20.799]  And listen, I've been guilty of it.
+[00:09:20.879 --> 00:09:22.799]  I think many of us have been guilty of this.
+[00:09:23.120 --> 00:09:27.200]  You hide behind the walls and you surround yourself with people that agree with you.
+[00:09:27.519 --> 00:09:29.360]  We do it as a society all the time.
+[00:09:29.680 --> 00:09:38.160]  Increasingly, people are moving into neighborhoods with other people that agree with them politically and isolate themselves from people that do not agree with them.
+[00:09:38.720 --> 00:09:40.079]  But Charlie Kirk was bold.
+[00:09:40.240 --> 00:09:45.920]  He actively sought out to engage peacefully, respectfully, those who he disagreed with.
+[00:09:46.399 --> 00:09:56.560]  As recently as two days ago, we learned of one of the hosts on CNN who said that one of the messages he had gotten just a few days before Charlie's passing was from him inviting him to dialogue.
+[00:09:56.799 --> 00:09:58.240]  And he did this on campuses.
+[00:09:58.399 --> 00:09:59.759]  He did this on podcasts.
+[00:10:00.000 --> 00:10:01.279]  He did this on radio shows.
+[00:10:01.519 --> 00:10:02.879]  He did this on television shows.
+[00:10:03.200 --> 00:10:11.360]  Time and again, he sought to engage those he disagreed with because he understood that we were not created to isolate ourselves from one another, but to engage.
+[00:10:11.519 --> 00:10:21.519]  The irony in all this is that what our nation needs, one of the many things it needs, is the ability to discuss our differences openly, honestly, peacefully, respectfully.
+[00:10:21.769 --> 00:10:26.239]  And Charlie Kirk did that more than anyone alive in America today is doing.
+[00:10:26.239 --> 00:10:35.598]  And Charlie Kirk was impactful.
+[00:10:35.600 --> 00:10:37.440]  By the way, let me just stop you right now.
+[00:10:37.600 --> 00:10:39.039]  We'll go back to this live.
+[00:10:39.360 --> 00:10:40.399]  You just saw it live.
+[00:10:40.480 --> 00:10:42.000]  This is major news.
+[00:10:42.320 --> 00:10:45.279]  Elon Musk and Trump sitting together.
+[00:10:45.600 --> 00:10:46.879]  Elon unannounced showed up.
+[00:10:46.960 --> 00:10:53.840]  He was seen up at the top rafters by himself hours ago, literally like praying.
+[00:10:54.159 --> 00:10:57.039]  And now he's gotten together with Trump and they're together.
+[00:10:57.200 --> 00:10:58.320]  This is so good.
+[00:10:59.200 --> 00:11:01.519]  That was a real rift, a real fight they had.
+[00:11:01.840 --> 00:11:02.879]  And it's been so bad.
+[00:11:03.039 --> 00:11:07.680]  We need Musk putting his money and energy into backing Republicans and Patriots around the country.
+[00:11:08.000 --> 00:11:10.480]  And this is just fabulous development.
+[00:11:10.799 --> 00:11:12.000]  Absolutely fabulous.
+[00:11:12.320 --> 00:11:14.000]  Let's try to show that again if you can.
+[00:11:14.560 --> 00:11:15.759]  Just amazing.
+[00:11:16.080 --> 00:11:19.920]  I mean, this has been very damaging to the country, very damaging to the world.
+[00:11:20.240 --> 00:11:22.080]  They agree on 95% of stuff.
+[00:11:23.039 --> 00:11:27.920]  And Elon understands we're going to go bankrupt if we don't cut enough.
+[00:11:28.799 --> 00:11:31.279]  But the swamp is so deep, Trump has to work with Congress.
+[00:11:31.360 --> 00:11:32.320]  They wouldn't do it.
+[00:11:32.960 --> 00:11:35.279]  And so, you know, there you are.
+[00:11:35.600 --> 00:11:37.680]  But this is really good news.
+[00:11:37.759 --> 00:11:40.879]  A reconciliation, I've been told, is already happening.
+[00:11:41.519 --> 00:11:42.399]  So that's beautiful.
+[00:11:42.639 --> 00:11:44.080]  Absolutely beautiful.
+[00:11:44.639 --> 00:11:47.920]  Wow, let's go back to the Secretary of State Live, Marco Rubio.
+[00:11:49.840 --> 00:11:51.680]  There's 100-something thousand people here.
+[00:11:51.920 --> 00:11:53.680]  The President of the United States is here.
+[00:11:53.840 --> 00:11:55.680]  His entire cabinet is here.
+[00:11:56.000 --> 00:12:00.240]  Television outlets and media outlets from all over the world are covering this.
+[00:12:00.559 --> 00:12:02.799]  I just came from overseas in every country I stopped.
+[00:12:02.960 --> 00:12:05.200]  They gave us their condolences for his passing.
+[00:12:05.519 --> 00:12:06.160]  Impactful.
+[00:12:06.399 --> 00:12:08.320]  In just 31 years of life.
+[00:12:08.879 --> 00:12:10.720]  He made a difference.
+[00:12:11.360 --> 00:12:12.000]  He mattered.
+[00:12:12.160 --> 00:12:14.879]  And he will matter now more than he ever has before.
+[00:12:15.840 --> 00:12:17.680]  And let me close with this.
+[00:12:18.639 --> 00:12:19.759]  How do you remember?
+[00:12:20.080 --> 00:12:21.279]  This is a memorial service.
+[00:12:21.360 --> 00:12:22.080]  It's to honor him.
+[00:12:22.240 --> 00:12:23.120]  How do you best remember it?
+[00:12:23.200 --> 00:12:26.720]  I'll take the liberty of saying what I think we can best do.
+[00:12:27.920 --> 00:12:31.360]  Look, I think he had a tremendous impact on young Americans in general.
+[00:12:31.519 --> 00:12:36.000]  I think he had a very special and direct impact on young men in this country.
+[00:12:36.240 --> 00:12:38.160]  That's one of the greatest developments I've seen.
+[00:12:38.240 --> 00:12:39.279]  It's been very positive.
+[00:12:39.659 --> 00:12:48.100]  I think we remember him for that.
+[00:12:48.100 --> 00:12:51.920]  I think we remember him for constantly saying, "You want to live a productive life?
+[00:12:52.019 --> 00:12:52.800]  Get married.
+[00:12:52.920 --> 00:12:53.889]  Start a family.
+[00:12:54.160 --> 00:12:56.160]  These are powerful messages.
+[00:12:57.039 --> 00:13:03.360]  But I hope many who are watching, I imagine there are people watching here tonight that didn't know much about Charlie Kirk until 11 days ago.
+[00:13:03.680 --> 00:13:05.360]  Maybe they were disengaged from politics.
+[00:13:05.519 --> 00:13:06.879]  Maybe they were partially engaged.
+[00:13:07.200 --> 00:13:16.559]  I hope one of the things they take from this is that the movement Charlie Kirk led and started and gave fuel to was about politics, but not only about politics.
+[00:13:16.720 --> 00:13:17.279]  It was deeper.
+[00:13:17.440 --> 00:13:18.639]  It was broader.
+[00:13:19.519 --> 00:13:29.519]  And I would say that taking the liberty, but I'm confident he would agree, one of the things he wants us to take away from this, from all of this, is the following.
+[00:13:30.160 --> 00:13:44.799]  His deep belief that we were all created, every single one of us, before the beginning of time, by the hands of the God of the universe, an all-powerful God who loved us and created us for the purpose of living with him in eternity.
+[00:13:45.120 --> 00:13:48.080]  But then sin entered the world and separated us from our creator.
+[00:13:48.240 --> 00:13:51.920]  In the last 60 years, they have totally removed God from everything, including the Republican Party.
+[00:13:52.559 --> 00:14:01.120]  Now, Trump has been going to the, you know, even last administration, two, the big anti-abortion rallies in D.C. I mean, these are all first.
+[00:14:01.200 --> 00:14:01.920]  This is all real.
+[00:14:02.240 --> 00:14:04.080]  You don't do this when you're fake.
+[00:14:04.400 --> 00:14:06.559]  This is damaging the globalists irrevocably.
+[00:14:06.639 --> 00:14:09.440]  This is boosting Christian culture, Western values.
+[00:14:09.519 --> 00:14:10.559]  This is a renaissance.
+[00:14:10.720 --> 00:14:12.000]  This is a revival.
+[00:14:12.319 --> 00:14:14.160]  This is absolutely powerful.
+[00:14:14.480 --> 00:14:15.120]  Praise God.
+[00:14:17.279 --> 00:14:20.960]  And then he rose to the heaven, but he promised he would return, and he will.
+[00:14:21.279 --> 00:14:28.960]  And when he returns, because he took on that death, because he carried that cross, we were freed from the sin that separated us from him.
+[00:14:29.200 --> 00:14:40.160]  And when he returns, there will be a new heaven and a new earth, and we will all be together, and we are going to have a great reunion there again with Charlie and all the people we love.
+[00:14:40.480 --> 00:14:41.519]  Thank you, and God bless you.
+[00:14:42.000 --> 00:14:46.879]  In the past, Republicans for 60, 70 years just paid lip service Christianity because that was intellectual.
+[00:14:47.440 --> 00:14:51.519]  I'm telling you, even people that have been neoconservants like Rubio have changed.
+[00:14:51.759 --> 00:14:52.720]  You see it.
+[00:14:53.280 --> 00:14:57.600]  They're not perfect, but it's so obvious in our own families and life and business.
+[00:14:57.840 --> 00:14:59.280]  People are becoming demonically possessed.
+[00:14:59.360 --> 00:15:00.960]  They're going crazy all around us.
+[00:15:01.280 --> 00:15:02.160]  You see the evil.
+[00:15:02.240 --> 00:15:05.280]  You see the sociopathic and psychotic behavior.
+[00:15:06.240 --> 00:15:13.280]  And there is a real hunger to get back to God and family and sovereignty and freedom.
+[00:15:13.600 --> 00:15:18.800]  And, you know, the Catholic Church run by the globalists at the top trying to get rid of the beautiful Latin mass.
+[00:15:18.879 --> 00:15:19.680]  I mean, my goodness.
+[00:15:20.000 --> 00:15:23.120]  And I'm not a Catholic, but I've, you know, got family and stuff that are.
+[00:15:23.200 --> 00:15:26.000]  Like my wife's side, I just, when I go to see them, I just go to the Catholic.
+[00:15:26.080 --> 00:15:27.120]  It's just so beautiful.
+[00:15:27.440 --> 00:15:28.560]  And just, it's so timeless.
+[00:15:28.720 --> 00:15:37.600]  And I watch, you know, my son likes to go to the Greek Orthodox Church, so he's not Greek, but, you know, that's, you know, his friends got him into it.
+[00:15:37.759 --> 00:15:38.240]  He likes it.
+[00:15:38.639 --> 00:15:39.759]  And it's just beautiful.
+[00:15:40.800 --> 00:15:48.560]  It's what we are, and it's what's been under attack because it's the opposite of what we see coming in that the Bible and God and John the Revelator predicted.
+[00:15:49.039 --> 00:15:52.099]  Let's go back to the live memorial there in Arizona.
+[00:15:52.099 --> 00:16:02.639]  Charlie Kirk.
+[00:16:02.759 --> 00:16:03.990]  Charlie Kirk.
+[00:16:04.000 --> 00:16:04.800]  Peg Seth.
+[00:16:05.120 --> 00:16:05.759]  A patriot.
+[00:16:06.080 --> 00:16:08.800]  Speaking between three class.
+[00:16:09.360 --> 00:16:12.720]  An advocate, an author, a lover of freedom.
+[00:16:12.960 --> 00:16:14.000]  Because we're in a war, folks.
+[00:16:14.240 --> 00:16:14.560]  A husband.
+[00:16:14.960 --> 00:16:16.800]  We're not outkilling, but we're in a war.
+[00:16:17.120 --> 00:16:20.160]  A Christian and a warrior.
+[00:16:20.480 --> 00:16:34.080]  You see, Charlie Kirk was a true believer for the cause of freedom, for the power of young people, belief in our republic and our founding principles in America first and make America great again.
+[00:16:36.000 --> 00:16:41.519]  But more importantly, he was a true believer.
+[00:16:42.799 --> 00:16:46.258]  Only Christ is King, our Lord and Savior.
+[00:16:46.258 --> 00:16:57.750]  Our sins are washed away by the blood of Jesus forever.
+[00:16:57.788 --> 00:17:00.729]  Fear God and fear no man.
+[00:17:00.739 --> 00:17:06.919]  That was Charlie Kirk.
+[00:17:06.999 --> 00:17:08.378]  Thank you.
+[00:17:08.400 --> 00:17:13.039]  You see, Charlie Kirk started Turning Point USA to change our politics.
+[00:17:13.360 --> 00:17:15.440]  That's when I first met him over a decade ago.
+[00:17:15.680 --> 00:17:16.640]  They screwed up big time.
+[00:17:16.960 --> 00:17:19.840]  He was building a movement, and nobody worked harder at it.
+[00:17:20.160 --> 00:17:24.720]  Bringing people to political, small T truth.
+[00:17:25.599 --> 00:17:27.200]  I still have the sticker.
+[00:17:27.828 --> 00:17:29.578]  big government sucks.
+[00:17:29.578 --> 00:17:44.400]  When I first met him about nine and a half, ten years ago, on the plane from Austin to the RNC, He was business here.
+[00:17:44.480 --> 00:17:46.079]  And then on the way back, he was still going there.
+[00:17:46.400 --> 00:17:47.360]  And I talked to him quite a bit.
+[00:17:47.440 --> 00:17:48.160]  He was a listener.
+[00:17:48.480 --> 00:17:50.880]  And the purpose he had, you could pick up the presence.
+[00:17:52.000 --> 00:17:53.599]  The presence of the destiny coming.
+[00:17:54.799 --> 00:17:55.440]  Spiritual war.
+[00:17:55.519 --> 00:17:55.840]  Let's go back.
+[00:17:56.240 --> 00:17:58.160]  Faith and family first.
+[00:17:58.720 --> 00:17:59.519]  There is a God.
+[00:17:59.680 --> 00:18:02.559]  And as Charlie would say, it is not us.
+[00:18:03.680 --> 00:18:08.880]  We're sinners saved only by grace in need of the gospel.
+[00:18:09.200 --> 00:18:12.000]  You see, we always did need less government.
+[00:18:12.320 --> 00:18:18.400]  But what Charlie understood and infused into his movement is we also needed a lot more God.
+[00:18:19.680 --> 00:18:27.200]  Charlie had big plans, but God had even bigger plans.
+[00:18:28.079 --> 00:18:29.200]  Yep, God did it.
+[00:18:29.440 --> 00:18:30.799]  I allowed it to happen.
+[00:18:31.120 --> 00:18:35.120]  At the end of the day, God is the controller of all things, the arbiter, and works in mysterious ways.
+[00:18:35.440 --> 00:18:39.279]  You know, Marco mentioned this arena and the millions watching.
+[00:18:40.240 --> 00:18:49.039]  A couple days ago, I learned that Kirk, actually in German, the German language, means church.
+[00:18:50.089 --> 00:19:01.240]  So on this Sunday morning, I'd like to think we're all in Charlie's church.
+[00:19:01.240 --> 00:19:05.189]  Charlie started a political movement but unleashed a spiritual revival.
+[00:19:05.200 --> 00:19:12.160]  My pastor texted me the day after that horrific event and said, Pete, the devil overplayed his hand.
+[00:19:13.680 --> 00:19:18.400]  Charlie started with liberty, but ended up lighting our country on fire for Christ.
+[00:19:18.720 --> 00:19:25.120]  He started Turning Point USA, but this moment is the turning point for the USA.
+[00:19:27.279 --> 00:19:28.160]  Right now.
+[00:19:32.480 --> 00:19:33.440]  See God's plan now, folks?
+[00:19:35.680 --> 00:19:37.680]  Speaking the truth.
+[00:19:38.160 --> 00:19:45.519]  Charlie waged war not with a weapon, but with a tent, a microphone, his mind, and the truth.
+[00:19:45.759 --> 00:19:46.480]  An info war.
+[00:19:46.798 --> 00:19:56.598]  And the gates of hell could not prevail against him.
+[00:19:56.598 --> 00:20:01.028]  He went into the darkest of places like Paul in the book of Acts.
+[00:20:01.039 --> 00:20:03.599]  He went into college campuses where they said we couldn't go.
+[00:20:03.839 --> 00:20:04.640]  People waited all night.
+[00:20:05.039 --> 00:20:06.799]  He was in the light.
+[00:20:07.119 --> 00:20:08.240]  He was bold.
+[00:20:08.559 --> 00:20:09.200]  He was brave.
+[00:20:09.440 --> 00:20:10.000]  There were no fights.
+[00:20:10.079 --> 00:20:10.799]  There was nothing.
+[00:20:11.200 --> 00:20:11.759]  Was a hero.
+[00:20:12.000 --> 00:20:13.440]  Over 150,000 got turned away.
+[00:20:13.920 --> 00:20:14.240]  They were okay.
+[00:20:14.720 --> 00:20:17.039]  We know a little bit about heroism.
+[00:20:17.440 --> 00:20:18.079]  Email the left.
+[00:20:18.319 --> 00:20:19.039]  I've seen it personally.
+[00:20:19.119 --> 00:20:19.359]  I've never seen it.
+[00:20:19.519 --> 00:20:25.920]  Shot up a wedding in a country club and screamed Free Palestine and shot up ABC News.
+[00:20:26.880 --> 00:20:27.920]  And shot a bunch of other stuff.
+[00:20:28.319 --> 00:20:29.359]  They're out running around everywhere.
+[00:20:29.519 --> 00:20:31.119]  Oh, but there's no left doing it.
+[00:20:31.200 --> 00:20:31.920]  No, it's Israel.
+[00:20:32.079 --> 00:20:32.319]  Yeah.
+[00:20:33.200 --> 00:20:35.359]  Yeah, everything's always Israel.
+[00:20:35.920 --> 00:20:38.400]  I guess if Xi Ji Ping invades Taiwan, it's Israel.
+[00:20:38.559 --> 00:20:42.480]  Or if Maduro is shipping fentanyl up here, it's Israel.
+[00:20:42.720 --> 00:20:44.720]  No, Israel is a bunch of bad stuff we cover.
+[00:20:45.200 --> 00:20:50.799]  But people trying to bully everybody, like the Muslims bragged they did, into saying everything's Israel.
+[00:20:50.960 --> 00:20:51.839]  Or Israel did this.
+[00:20:52.079 --> 00:20:53.839]  The citizen who had sick.
+[00:20:54.720 --> 00:20:55.889]  Israel did it, we'll expose it.
+[00:20:55.899 --> 00:21:01.880]  Who put on every single day the full armor of God with a smile.
+[00:21:01.880 --> 00:21:05.269]  And notice this isn't about Israel right now, folks.
+[00:21:05.279 --> 00:21:06.319]  This is about Christianity.
+[00:21:07.359 --> 00:21:08.160]  This is about God.
+[00:21:08.319 --> 00:21:09.200]  This is about revival.
+[00:21:09.359 --> 00:21:10.160]  This is about renaissance.
+[00:21:11.210 --> 00:21:12.319]  It's about saving the West.
+[00:21:12.319 --> 00:21:14.960]  He ran the race.
+[00:21:14.960 --> 00:21:16.869]  He finished the fight.
+[00:21:17.049 --> 00:21:18.990]  Now we take over.
+[00:21:19.200 --> 00:21:20.000]  It's our turn.
+[00:21:20.319 --> 00:21:33.200]  My charge to all of you: live worthy of Charlie Kirk's sacrifice and put Christ at the center of your life as he advocated for giving his.
+[00:21:35.279 --> 00:21:38.160]  That's where the power's at, the truth, and the light and the glory.
+[00:21:38.480 --> 00:21:39.759]  Who wants to get away from it?
+[00:21:40.079 --> 00:21:41.519]  It's very tempting, I know.
+[00:21:42.079 --> 00:21:43.440]  I've been tempted.
+[00:21:45.680 --> 00:21:50.880]  Charlie has heard the words echoing now in heaven.
+[00:21:51.519 --> 00:21:52.480]  Well done.
+[00:21:53.360 --> 00:21:56.480]  Good and faithful servant.
+[00:21:56.799 --> 00:21:58.160]  Charlie will take it from here.
+[00:21:58.319 --> 00:21:59.360]  God bless.
+[00:21:59.680 --> 00:22:00.319]  Absolutely.
+[00:22:00.480 --> 00:22:03.519]  Powerful, real, teleprompter-free.
+[00:22:03.759 --> 00:22:04.480]  They got a teleprompter.
+[00:22:04.559 --> 00:22:06.240]  You tell almost none of this is scripted.
+[00:22:06.880 --> 00:22:09.440]  And there is Trump and Elon back together.
+[00:22:09.920 --> 00:22:12.079]  Just put another clip out of this because we put the earlier clip out there.
+[00:22:12.160 --> 00:22:14.960]  We're like, oh, Elon came back, so they're hanging out right now.
+[00:22:15.039 --> 00:22:16.319]  That's a clip from earlier.
+[00:22:16.640 --> 00:22:18.480]  Very, very exciting.
+[00:22:19.039 --> 00:22:24.240]  Please remember, I got a crew up here on Sunday, and they were up here on Saturday doing a special broadcast.
+[00:22:24.559 --> 00:22:25.920]  Takes funds to run this operation.
+[00:22:26.079 --> 00:22:27.200]  We've been very important in this fight.
+[00:22:27.360 --> 00:22:28.559]  You've been important in this fight.
+[00:22:28.880 --> 00:22:33.920]  So if you want to fight for what Charlie stood for and what we're all fighting for, you know, it hit home for Trump.
+[00:22:34.000 --> 00:22:36.880]  He was almost killed in Butler last year on the 13th.
+[00:22:37.200 --> 00:22:39.759]  And I predicted it at Turning Point USA with Charlie.
+[00:22:39.920 --> 00:22:41.519]  In fact, find that clip from yesterday if you can.
+[00:22:41.599 --> 00:22:46.799]  It's only like 45 seconds long with Jack Poseobic after Charlie introduced us.
+[00:22:47.440 --> 00:22:48.799]  And I said, I think it's imminent.
+[00:22:48.880 --> 00:22:49.519]  They're trying to kill him.
+[00:22:49.599 --> 00:22:52.559]  And I've been on air specifically saying I was having dreams about him, but I didn't say that there.
+[00:22:52.799 --> 00:22:54.000]  You saw it here on air.
+[00:22:54.319 --> 00:22:59.360]  That was God literally telling me that, really waking me up and saying, turn your phone on.
+[00:22:59.519 --> 00:23:02.400]  It's exactly this time, four times in one week, the exact time.
+[00:23:02.559 --> 00:23:04.000]  Turn it on, always the exact time.
+[00:23:04.319 --> 00:23:05.360]  Like, I'm telling you.
+[00:23:06.960 --> 00:23:07.920]  And I was like, what is this?
+[00:23:08.000 --> 00:23:11.680]  I'm like, I'm an angel sinner from God.
+[00:23:11.839 --> 00:23:13.039]  Didn't see it, felt it though.
+[00:23:13.119 --> 00:23:14.559]  Like, whoa, what's in the room?
+[00:23:15.039 --> 00:23:16.400]  Totally awake.
+[00:23:18.559 --> 00:23:19.759]  And I told you all that then.
+[00:23:19.920 --> 00:23:25.599]  And then they flipped out and tried to shut the building, if you remember, right days after I said that on air.
+[00:23:25.680 --> 00:23:26.640]  They're like, how does this guy know this?
+[00:23:26.960 --> 00:23:28.000]  He shouldn't be doing outdoor rallies.
+[00:23:28.079 --> 00:23:28.720]  They're trying to kill him.
+[00:23:28.880 --> 00:23:29.360]  Saw a dream.
+[00:23:29.440 --> 00:23:30.880]  He's shot in the head.
+[00:23:31.200 --> 00:23:33.440]  But it was enough attention, enough all of it.
+[00:23:33.599 --> 00:23:34.160]  God intervened.
+[00:23:34.240 --> 00:23:37.360]  And that bullet, one inch over, he'd have been dead.
+[00:23:37.680 --> 00:23:39.759]  Well, you saw what happened with Charlie.
+[00:23:40.400 --> 00:23:41.759]  All right, we're going to stop right here.
+[00:23:42.000 --> 00:23:43.519]  It's live, but we can pause it.
+[00:23:43.839 --> 00:23:45.039]  I'm going to come back.
+[00:23:45.360 --> 00:23:47.519]  There's not many that haven't spoken yet.
+[00:23:49.119 --> 00:23:51.839]  Predictably, RFK Jr., obviously.
+[00:23:52.799 --> 00:23:59.360]  Don Jr., then Erica Kirk, then J.D. Vance and Trump will be the last speaker.
+[00:23:59.680 --> 00:24:02.720]  And we'll be covering all of that coming up.
+[00:24:03.039 --> 00:24:08.799]  But you saw earlier Trump, first Elon's up in the bleachers by himself, then he's called down with Trump.
+[00:24:09.039 --> 00:24:09.840]  Then he gets up and goes.
+[00:24:10.319 --> 00:24:13.680]  Now they're back together, sitting right there in the front row together.
+[00:24:14.319 --> 00:24:15.440]  That is certainly good news.
+[00:24:15.920 --> 00:24:17.599]  But back to this broadcast.
+[00:24:18.240 --> 00:24:23.200]  I am fighting as hard as I can.
+[00:24:23.519 --> 00:24:29.279]  I met with lawyers today about what's happening and what's unfolding and how they're trying to shut us down.
+[00:24:29.599 --> 00:24:33.599]  Last week in state court, next week in federal court, we're winning.
+[00:24:34.000 --> 00:24:35.519]  Takes a lot of money to fight them.
+[00:24:35.840 --> 00:24:36.639]  They want the name.
+[00:24:36.720 --> 00:24:37.440]  They want to shut it down.
+[00:24:37.759 --> 00:24:38.480]  They want to harass us.
+[00:24:38.559 --> 00:24:41.440]  Yeah, I'll continue on, but this is a hill to die on.
+[00:24:41.759 --> 00:24:42.559]  I need the funds.
+[00:24:42.639 --> 00:24:44.400]  I need you to decide: hey, this guy's fought.
+[00:24:44.480 --> 00:24:45.200]  This guy's been attacked.
+[00:24:45.279 --> 00:24:47.599]  This guy's been demonized right through the tip of the spear.
+[00:24:47.839 --> 00:24:49.440]  The bad guys don't want this show in the air.
+[00:24:49.519 --> 00:24:50.319]  We're going to promote it.
+[00:24:50.559 --> 00:24:51.759]  We're going to pray for the broadcast.
+[00:24:51.920 --> 00:24:53.039]  I'm asking humbly for this.
+[00:24:53.279 --> 00:24:54.960]  And we're going to go to the alexonstore.com.
+[00:24:55.039 --> 00:24:58.480]  So whether they shut down InfoWars or not, they don't own that.
+[00:24:58.559 --> 00:24:59.759]  Our sponsor Bigley does.
+[00:25:00.000 --> 00:25:02.960]  They're funding both InfoWars and the Alex Jones Network.
+[00:25:03.599 --> 00:25:05.839]  Backup system and an even bigger studio is being built.
+[00:25:05.920 --> 00:25:06.559]  I'll just leave it at that.
+[00:25:06.639 --> 00:25:15.839]  We have a nice podcast studio, a basic newsroom situation, but big facilities being built right now, separate from this operation with backers.
+[00:25:15.920 --> 00:25:17.519]  But I need you to get me over the hump here.
+[00:25:17.839 --> 00:25:27.359]  We have the very best supplements, the very best methylene blue, the very best chilogy, the very best heart and cardiovascular spike protein detox.
+[00:25:27.440 --> 00:25:29.279]  It's so good for cardiovascular systems, regardless.
+[00:25:29.440 --> 00:25:30.400]  It is the best formula.
+[00:25:30.559 --> 00:25:34.400]  Takes the two top formulas, merges them into horse pill superpower systems.
+[00:25:34.720 --> 00:25:36.400]  It is ultimate life force.
+[00:25:36.639 --> 00:25:37.200]  You want to get that?
+[00:25:37.359 --> 00:25:38.720]  ThealexShowstore.com.
+[00:25:38.960 --> 00:25:40.960]  Everybody's raving about bovine colostrum.
+[00:25:41.039 --> 00:25:43.519]  We have the strongest, highest rated, private labeled of it.
+[00:25:43.680 --> 00:25:46.319]  The first two weeks of the milk out of a cow is just magic.
+[00:25:46.639 --> 00:25:49.680]  If you don't know about bovine colostrum, look into it, then find out we've got the best.
+[00:25:49.920 --> 00:25:51.519]  2,000 milligram per serving.
+[00:25:51.839 --> 00:25:52.799]  It is amazing.
+[00:25:53.039 --> 00:25:54.799]  Thealxjonstore.com.
+[00:25:55.119 --> 00:26:00.639]  And there is a big sale that ends Tuesday, the one-year anniversary of the Alex Jones store.
+[00:26:01.039 --> 00:26:03.680]  Live is fire with this beauty super sale.
+[00:26:04.240 --> 00:26:11.440]  And it is a whole bunch of specials and a whole bunch of new t-shirt lines, lightest selection.
+[00:26:11.759 --> 00:26:17.839]  But at checkout, you get $11 automatically taken off your build, up to 50% off on many of the products.
+[00:26:18.160 --> 00:26:19.279]  It is wild.
+[00:26:19.839 --> 00:26:24.720]  And the widest selection of t-shirts, which I wanted, some of the best designs, but it is kind of obnoxious.
+[00:26:25.039 --> 00:26:29.279]  Over 600 designs of ball caps, t-shirts, hoodies, sweaters.
+[00:26:29.599 --> 00:26:31.680]  So it's quite the task.
+[00:26:32.000 --> 00:26:34.720]  We're trying to get to break it into sections because there's just, there's so much.
+[00:26:34.960 --> 00:26:36.720]  I mean, you want the widest selection, folks.
+[00:26:37.039 --> 00:26:37.680]  This is it.
+[00:26:38.000 --> 00:26:39.200]  And it's an adventure.
+[00:26:39.519 --> 00:26:42.319]  It's an adventure to wear these shirts and caps and go out in public.
+[00:26:42.400 --> 00:26:43.920]  So thank you so much for your support.
+[00:26:44.240 --> 00:26:45.680]  Please go to thealexionstore.com.
+[00:26:45.759 --> 00:26:46.880]  I want to thank all the VIP members.
+[00:26:47.039 --> 00:26:50.559]  All you do is spend $30 a month in the store in like an Amazon Prime.
+[00:26:50.639 --> 00:26:54.240]  You then get $40 to spend the store, special deals, special offers, and huge discounts.
+[00:26:54.319 --> 00:26:55.279]  The Alexonstore.com.
+[00:26:55.359 --> 00:26:56.400]  We'll be right back.
+[00:26:59.599 --> 00:27:04.880]  We've been working for a long time to get humanity to awaken to the globalist satanic threat.
+[00:27:06.160 --> 00:27:13.519]  And obviously, a lot of the Republican politicians and leaders that are populous around the world are double agents or compromised and certainly aren't perfect.
+[00:27:13.759 --> 00:27:17.039]  But they're forced to sing to our music now.
+[00:27:18.240 --> 00:27:26.880]  And the fact that our issues and our ideas are being said everywhere is irrevocable damage to the satanic operation.
+[00:27:27.599 --> 00:27:32.079]  You don't do the stuff Trump and his administration is doing, 95% of it good.
+[00:27:33.039 --> 00:27:39.359]  Even the critics claiming he wasn't going after the H-1B visas and the border, he had to crank it up.
+[00:27:39.759 --> 00:27:40.559]  It was all dismantled.
+[00:27:40.639 --> 00:27:41.519]  Now it's all happening.
+[00:27:41.759 --> 00:27:44.319]  They're even having to go, whoa, okay, we're wrong.
+[00:27:44.639 --> 00:27:44.960]  Yeah.
+[00:27:45.920 --> 00:27:47.920]  Takes a long time to turn a ship around.
+[00:27:48.240 --> 00:27:53.359]  Trump is overperforming what I thought he could get done compared to the last administration.
+[00:27:53.680 --> 00:27:56.240]  I thought if he did 50% better, I'd have been pleased.
+[00:27:56.559 --> 00:27:58.000]  This stuff ain't easy.
+[00:27:58.319 --> 00:28:03.119]  I mean, I got a crew of 40-something people in all these attacks, and I'm nobody compared to what they got to deal with.
+[00:28:03.440 --> 00:28:06.240]  And it is, you got to, but you got to have your ass focused.
+[00:28:06.559 --> 00:28:07.680]  You got to gut up.
+[00:28:07.920 --> 00:28:09.839]  You got to burn the candle at the both ends.
+[00:28:10.000 --> 00:28:18.240]  You got to say your prayers and do your research and be ready to go through hell just to fight at the level we are.
+[00:28:18.880 --> 00:28:23.359]  So all these armchair quarterbacks want to run around blackpilling all day.
+[00:28:23.680 --> 00:28:24.799]  That's fine.
+[00:28:25.119 --> 00:28:26.240]  Why are you censoring me?
+[00:28:26.319 --> 00:28:27.519]  Why are you censoring my black pill?
+[00:28:27.599 --> 00:28:29.200]  I'm not censoring you to say you're wrong.
+[00:28:29.519 --> 00:28:31.599]  More pussy behavior.
+[00:28:31.920 --> 00:28:41.279]  No, we should fight harder than ever and we should attack stuff that's not going our, you know, the way it should when the administration's wrong.
+[00:28:41.440 --> 00:28:44.559]  But this is a global fight and we are winning.
+[00:28:45.200 --> 00:28:47.279]  So you're the answer in the fight.
+[00:28:47.599 --> 00:28:52.240]  Your word of mouth, your prayer, your support, your action, the little things you do add up.
+[00:28:52.880 --> 00:28:57.360]  What you expose, what you speak about, what you shoot video of on the street, what you upload.
+[00:28:57.519 --> 00:29:00.000]  It's all moving the needle against tyranny.
+[00:29:00.240 --> 00:29:01.599]  They're scared.
+[00:29:03.440 --> 00:29:14.960]  You think I just told you four months ago that I talked to people in the administration and the DOJ that Trump calls him in every week and says, if you don't indict people, I have all the evidence.
+[00:29:15.039 --> 00:29:15.440]  Here it is.
+[00:29:15.599 --> 00:29:17.279]  Then I'm going to start firing and removing you.
+[00:29:17.440 --> 00:29:22.880]  And then he posts Pam Bondi, you know, basically a shot across the bow yesterday, excoriating her publicly.
+[00:29:23.200 --> 00:29:29.039]  I told you they brought in the AG from Missouri to not replace Mongino.
+[00:29:29.119 --> 00:29:29.599]  He's going to leave.
+[00:29:29.680 --> 00:29:30.799]  It's Patel.
+[00:29:31.759 --> 00:29:33.920]  And they got people ready to replace Bondi.
+[00:29:35.680 --> 00:29:38.720]  So you're like, oh, the indictments will never happen, but I'll believe it when I see it.
+[00:29:38.799 --> 00:29:39.759]  Yeah, they have an uphill battle.
+[00:29:39.839 --> 00:29:44.240]  They're having to remove U.S. attorneys every week that said they're Republican, said they do their job.
+[00:29:44.319 --> 00:29:45.920]  They have total evidence and they won't do it.
+[00:29:46.079 --> 00:29:48.319]  Just like in Virginia a few days ago.
+[00:29:48.960 --> 00:29:52.079]  But I'm saying this time, Trump understands how it works.
+[00:29:52.319 --> 00:29:55.839]  He is in there holding their feet to the fire.
+[00:29:56.160 --> 00:30:00.400]  And we need to spotlight the bad guys' administration because he isn't, he's not omnipresent.
+[00:30:00.720 --> 00:30:11.920]  And every time we expose it, like Bondi calling for censorship and hate speech, and then getting slapped down by Trump and others, the white pillars go, oh, no, it's trillion D chess.
+[00:30:12.160 --> 00:30:13.119]  Don't ever ask questions.
+[00:30:13.200 --> 00:30:13.839]  Trust the plan.
+[00:30:13.920 --> 00:30:14.480]  Get popcorn.
+[00:30:14.639 --> 00:30:16.400]  Shove the popcorn up your ass.
+[00:30:16.720 --> 00:30:18.000]  Excuse me, Mr. Memorial.
+[00:30:19.359 --> 00:30:21.200]  You're lightweights and don't have any depth.
+[00:30:21.359 --> 00:30:23.519]  The black pills are lightweights, don't have any depth.
+[00:30:23.759 --> 00:30:26.319]  For 800 years, I've trained Jedi, my own counsel.
+[00:30:26.480 --> 00:30:28.480]  I'll keep quote Yoda.
+[00:30:29.119 --> 00:30:30.879]  Look how far we've come.
+[00:30:31.200 --> 00:30:33.119]  That doesn't mean we mindlessly support him.
+[00:30:33.279 --> 00:30:37.680]  It means, no, we're in a war and we're winning.
+[00:30:38.319 --> 00:30:42.000]  And would you rather have the left being removed in Europe and removed here?
+[00:30:42.160 --> 00:30:43.359]  Would you rather them in charge?
+[00:30:43.680 --> 00:30:46.639]  At least we got people in government now that listen to us.
+[00:30:47.839 --> 00:30:54.559]  Almost every time the Trump admin does something wrong, we scream bloody murder and they correct.
+[00:30:54.639 --> 00:30:55.920]  I mean, look, people were pissed a couple months ago.
+[00:30:56.079 --> 00:30:58.000]  I don't know why Kennedy authorized mRNA.
+[00:30:58.079 --> 00:30:58.639]  He said he wouldn't.
+[00:30:58.720 --> 00:31:00.079]  He banned it, went on vacation.
+[00:31:00.240 --> 00:31:00.960]  They authorized it.
+[00:31:01.119 --> 00:31:02.160]  They fired all their asses.
+[00:31:02.480 --> 00:31:09.359]  Now they got protests in the building and coup d'états and total flipouts and memos leaking how all big pharma's coming after him.
+[00:31:09.519 --> 00:31:10.799]  Kennedy's for real.
+[00:31:11.680 --> 00:31:13.359]  You prayed for good leaders.
+[00:31:13.519 --> 00:31:14.639]  You prayed for action.
+[00:31:14.879 --> 00:31:15.839]  You educated the public.
+[00:31:16.079 --> 00:31:16.960]  We did all this work.
+[00:31:17.279 --> 00:31:19.680]  And now we're getting traction and we're winning.
+[00:31:19.839 --> 00:31:20.799]  And they're like, oh, no.
+[00:31:21.440 --> 00:31:24.000]  And I said when that happened months ago, I said, you watch, he didn't know about this.
+[00:31:24.079 --> 00:31:24.799]  He's going to fire him.
+[00:31:24.960 --> 00:31:26.000]  And I was right.
+[00:31:26.319 --> 00:31:27.359]  Because I made phone calls.
+[00:31:27.440 --> 00:31:28.480]  Plus, I trust him.
+[00:31:28.799 --> 00:31:31.599]  They didn't spend 200 million trying to block his confirmation for no reason.
+[00:31:31.839 --> 00:31:33.279]  He's the real deal.
+[00:31:33.920 --> 00:31:35.200]  Then we heard, oh, he'll be connected.
+[00:31:35.279 --> 00:31:36.000]  That's Epstein.
+[00:31:36.160 --> 00:31:37.119]  That's coming out.
+[00:31:37.440 --> 00:31:39.359]  I keep noticing who people are putting this out.
+[00:31:39.599 --> 00:31:41.920]  Oh, they're the patriots we can trust.
+[00:31:43.119 --> 00:31:47.599]  Then they say, within a day, Nick Fuentes killed Kirk.
+[00:31:47.920 --> 00:31:48.720]  Oh, that didn't work.
+[00:31:48.960 --> 00:31:50.720]  Oh, Nick Fuentes works for Israel.
+[00:31:50.880 --> 00:31:53.680]  He's covering it up just because he said, show me the evidence.
+[00:31:54.000 --> 00:31:55.680]  You can see an organized thing.
+[00:31:56.079 --> 00:31:57.279]  Well, Fuentez, this and that.
+[00:31:57.440 --> 00:31:58.720]  I don't agree with a lot of what you guys say.
+[00:31:58.880 --> 00:32:02.480]  The point is, you can see when someone's being targeted, I've been targeted.
+[00:32:02.720 --> 00:32:03.359]  I know.
+[00:32:06.480 --> 00:32:07.599]  He said, well, he's too extreme.
+[00:32:07.759 --> 00:32:13.920]  Well, how extreme is the left saying all whites are evil and Christianity sucks and Catholics are elos and he's over here giving them their own medicine back.
+[00:32:14.160 --> 00:32:25.279]  You say, yeah, seems rude and mean and snarky, but he's just acting like them from the other perspective, which then moves the window for people that are totally cucked bowing down at Black Lives Matter protests.
+[00:32:25.359 --> 00:32:30.720]  To hear somebody say something the complete opposite makes it safe for other people to just stand up for themselves.
+[00:32:30.960 --> 00:32:31.920]  That's why it's healthy.
+[00:32:32.079 --> 00:32:33.440]  It's a course correction.
+[00:32:33.759 --> 00:32:35.359]  It's strong medicine.
+[00:32:36.000 --> 00:32:39.519]  Got to know how dialectics work and psychology.
+[00:32:40.160 --> 00:32:44.639]  I try to explain how the psychology works instead of doing what he's doing.
+[00:32:46.240 --> 00:32:51.519]  That works on some people getting the 35,000 foot view, but some people got to get it in the teeth.
+[00:32:51.839 --> 00:32:53.119]  Kennedy just took the stage.
+[00:32:53.279 --> 00:32:54.639]  Let's go to him now.
+[00:32:59.119 --> 00:33:05.839]  Charlie's overarching passion was his Christianity and his devotion to his God.
+[00:33:06.720 --> 00:33:12.319]  He believed what St. Francis taught us almost a thousand years ago.
+[00:33:13.279 --> 00:33:19.039]  We should strive to live our lives in perfect imitation of Christ.
+[00:33:21.359 --> 00:33:27.359]  We should turn every day and every moment and every interaction into a prayer.
+[00:33:28.000 --> 00:33:39.200]  And Charlie understood the great paradox that it's only by surrender to God that God's power can flow into our lives and make us effective human beings.
+[00:33:39.839 --> 00:33:48.480]  Charlie, Christ died at 33 years old, but he changed the trajectory of history.
+[00:33:49.249 --> 00:33:52.698]  Charlie died at 31 years old.
+[00:33:52.698 --> 00:34:05.317]  Because he had surrendered, he also now has changed the trajectory of history.
+[00:34:05.317 --> 00:34:10.148]  Charlie's other passion was free speech.
+[00:34:10.159 --> 00:34:17.679]  He understood that the free flow of information was the soil, the water, the sunlight for democracy.
+[00:34:18.000 --> 00:34:31.279]  He understood democracy's great advantage was that our policies were formed by ideas that had triumphed in a marketplace of debate and conversation.
+[00:34:32.559 --> 00:34:37.759]  He thought that conversation was the only way to heal our country.
+[00:34:38.079 --> 00:34:59.359]  And this was particularly important during a technological age when we are all hooked into social rhythms, social algorithms that are hacked into the reptilian cores of our brain and amplify our impulses for tribalism and for division.
+[00:34:59.679 --> 00:35:08.719]  He felt that the only way to overcome that technological impulse was with a spiritual fire and with developing community.
+[00:35:09.039 --> 00:35:12.479]  And the only way to develop community is a conversation.
+[00:35:13.119 --> 00:35:28.719]  And so he always gave the biggest microphone to the people who were most passionately aligned against him because he believed that we need to talk to each other and that we needed to be able to say what we mean without saying it mean.
+[00:35:30.799 --> 00:35:34.879]  A few years ago, my brother David died.
+[00:35:35.199 --> 00:35:43.599]  And I asked my mother, does the hole that they leave in you when they die, does it ever get any smaller?
+[00:35:44.239 --> 00:35:47.119]  And she said to me, it never gets any smaller.
+[00:35:47.439 --> 00:35:51.279]  But our job is to grow ourselves bigger around the hole.
+[00:35:51.599 --> 00:36:02.959]  And we do that by taking the best qualities, the best, most admirable character traits of the person that died and integrate them with restraint, with discipline, with practice.
+[00:36:03.279 --> 00:36:03.839]  Beautifully said.
+[00:36:04.079 --> 00:36:05.759]  Yeah, we all get shot up and have holes in us.
+[00:36:05.839 --> 00:36:06.879]  We just grow bigger around it.
+[00:36:06.959 --> 00:36:07.519]  It makes us stronger.
+[00:36:12.479 --> 00:36:19.919]  We also give a kind of immortality to the person who left us because their work continues through us.
+[00:36:20.239 --> 00:36:28.159]  A couple of days ago, my niece or my granddaughter left for college in Europe.
+[00:36:28.479 --> 00:36:30.879]  Her mother noticed that she packed a Bible.
+[00:36:31.199 --> 00:36:37.359]  When her mother asked her why she made that choice, she said, I want to live more like Charlie.
+[00:36:37.679 --> 00:36:38.479]  And it's.
+[00:36:39.119 --> 00:36:39.818]  Oh, wow.
+[00:36:39.818 --> 00:36:47.429]  People are turning away from evil, folks.
+[00:36:47.439 --> 00:36:47.759]  This is real.
+[00:36:48.799 --> 00:36:49.599]  You see, they're not real.
+[00:36:49.679 --> 00:36:50.079]  They're not real.
+[00:36:50.319 --> 00:36:51.599]  No, this revival is real.
+[00:36:52.079 --> 00:36:52.959]  It's real on those people.
+[00:36:53.039 --> 00:36:53.519]  They're good.
+[00:36:54.239 --> 00:36:57.919]  The devil's greatest trick is convincing you good doesn't exist.
+[00:37:00.479 --> 00:37:03.759]  And I said to him, there's a lot worse things than death.
+[00:37:04.319 --> 00:37:12.399]  And one of those things is if we lost our constitutional rights in this country and that our children were raised as slaves.
+[00:37:12.719 --> 00:37:13.119]  That's right.
+[00:37:13.199 --> 00:37:15.679]  And his father and uncle were murdered.
+[00:37:18.479 --> 00:37:19.679]  They're coming for him, boy.
+[00:37:19.839 --> 00:37:20.719]  Big pharma.
+[00:37:21.359 --> 00:37:22.159]  100% real.
+[00:37:22.399 --> 00:37:23.439]  Real man right there.
+[00:37:23.759 --> 00:37:29.839]  I said, sometimes the best consolation we can hope for is that we get to die with our boots on.
+[00:37:30.079 --> 00:37:30.639]  That's right.
+[00:37:30.879 --> 00:37:33.199]  Well, Charlie died with his boots on.
+[00:37:33.519 --> 00:37:41.919]  And he died to make sure that we didn't have to undergo those fates that are worse than death.
+[00:37:42.799 --> 00:37:44.319]  Oh, let's remember, Charlie.
+[00:37:44.639 --> 00:37:47.199]  It was the attempted assassination of Trump that got Kennedy to finally join him.
+[00:37:48.559 --> 00:37:50.319]  Who were friends with Charlie?
+[00:37:50.879 --> 00:38:02.000]  We don't need any more evidence of the love of God because the evidence, the friendship is the best evidence that God loves us all.
+[00:38:02.319 --> 00:38:04.079]  Thank you and God bless you.
+[00:38:05.599 --> 00:38:06.799]  All right, let's stop right there.
+[00:38:07.279 --> 00:38:08.079]  We're a little bit behind.
+[00:38:08.159 --> 00:38:14.559]  I'm going to skip ahead to Vice President Vance, and then we're going to have Erica Kirk.
+[00:38:15.119 --> 00:38:16.879]  And I had Kyle Serafin on.
+[00:38:16.959 --> 00:38:21.439]  He's literally leaving a birthday party for his kids, kids they're visiting early to be on with us.
+[00:38:21.679 --> 00:38:28.879]  I want to get him on tomorrow too because he can really do the deep dive on what really happened to Charlie and all these theories and things that have been disproven around it.
+[00:38:29.439 --> 00:38:33.199]  Also, the bullet going into the neck, why did he go out the other side?
+[00:38:33.279 --> 00:38:36.479]  Because it came down to the down angle and hit the.
+[00:38:37.759 --> 00:38:40.879]  This is what the surgeon told TPUSA.
+[00:38:40.959 --> 00:38:50.399]  I talked to their spokesperson yesterday, and it ricocheted down in and exploded in the heart and then shot fragments back up.
+[00:38:50.719 --> 00:38:59.599]  And when I first saw the report, because he was explaining what the surgeon said without giving me all the details, I said, that makes no sense, but I've actually shot hogs in one case.
+[00:38:59.919 --> 00:39:00.879]  God, I've shot a lot of them.
+[00:39:01.039 --> 00:39:01.599]  So they're feral.
+[00:39:01.759 --> 00:39:02.559]  They want you to get rid of them.
+[00:39:02.719 --> 00:39:04.799]  Then they eat the baby deer and just destroy everything.
+[00:39:05.759 --> 00:39:07.519]  I probably shot 90 or more.
+[00:39:07.599 --> 00:39:08.399]  I was trying to think about it.
+[00:39:08.559 --> 00:39:09.039]  Wild hogs.
+[00:39:09.119 --> 00:39:10.960]  I've shot little ones, big ones.
+[00:39:11.439 --> 00:39:13.439]  Biggest ever shot was like 400 pounds.
+[00:39:13.759 --> 00:39:20.000]  Shot it at about 300 yards or so straight on because it came out of the woods, was turned.
+[00:39:20.079 --> 00:39:21.199]  I was about to go back in.
+[00:39:21.279 --> 00:39:24.719]  I wanted to side shot, but I shot it, trying to shoot it right in the face.
+[00:39:25.039 --> 00:39:26.960]  Said it went right under the neck.
+[00:39:27.839 --> 00:39:34.559]  And That was a 300 wind mag, very similar to a 30-odd 6, a little more powerful, but basically the same.
+[00:39:35.199 --> 00:39:37.039]  And it went in.
+[00:39:37.359 --> 00:39:45.279]  So we butchered it later about two feet, sort of the lower intestine.
+[00:39:48.399 --> 00:39:55.039]  Well, it hit some ribs, broke it to pieces, but a bunch of it bounced back up into the shoulder.
+[00:39:55.599 --> 00:39:57.519]  So people are like, what do you mean?
+[00:39:59.759 --> 00:40:00.480]  Magic bullet.
+[00:40:00.559 --> 00:40:02.960]  Well, magic bullets because they shot Kenny with more than one bullet.
+[00:40:03.279 --> 00:40:09.039]  They're saying magic bullet here because people are saying it went in the throat and didn't go out the back.
+[00:40:09.119 --> 00:40:10.960]  Of course, a 30-odd 6 would do that.
+[00:40:11.279 --> 00:40:18.639]  But if it's coming down like this and then it glances on a bone, then it ricochets down.
+[00:40:18.719 --> 00:40:19.599]  That's exactly what they do.
+[00:40:20.079 --> 00:40:23.599]  That's why you can also, because hogs have thicker skulls, it doesn't really happen with deer.
+[00:40:24.159 --> 00:40:26.480]  You can shoot a hog in the head.
+[00:40:26.639 --> 00:40:28.480]  That's why you don't want you want to shoot in the shoulder instead.
+[00:40:28.799 --> 00:40:34.960]  And if it hits a little bit of an angle, the skull will deflect it up and you'll see a bunch of skin blow off the hog's head.
+[00:40:36.239 --> 00:40:40.000]  But it lives because you didn't get it straight on.
+[00:40:40.639 --> 00:40:42.159]  So I'm not endorsing that.
+[00:40:42.239 --> 00:40:44.480]  I'm not saying we shouldn't investigate it, any of that.
+[00:40:44.799 --> 00:40:48.399]  I'm saying a lot of ballistic experts are explaining that.
+[00:40:48.719 --> 00:40:57.359]  And when I got the full download of what the surgeon said, and his spokesman was saying, a good friend of his saying, please don't give all the details, but he gave them to me.
+[00:40:57.439 --> 00:41:01.359]  And it was, I said, I'm not going to be able to do this.
+[00:41:01.679 --> 00:41:02.559]  I said, I didn't record this.
+[00:41:02.639 --> 00:41:03.359]  I didn't write it all down.
+[00:41:03.439 --> 00:41:08.079]  I was driving, but I said, there's no way I can't explain it.
+[00:41:08.159 --> 00:41:14.719]  So he was explaining the different T levels because he'd written it down, what the surgeon told him.
+[00:41:15.359 --> 00:41:23.679]  It comes down like this in an angle, hits the bone at a glancing, bounces down, runs in.
+[00:41:23.839 --> 00:41:24.799]  That's the left side.
+[00:41:25.199 --> 00:41:29.039]  So the heart set, centered over to the left, goes all the way down.
+[00:41:29.199 --> 00:41:30.879]  It hits bones.
+[00:41:31.199 --> 00:41:33.039]  Fragments blast out the heart.
+[00:41:33.359 --> 00:41:38.639]  And then fragments perfectly boom, shattered up into the shoulder.
+[00:41:38.960 --> 00:41:44.799]  So it was an oversimplification by the TPUSA person that they found the bullet under the skin up in the shoulder by the neck.
+[00:41:44.879 --> 00:41:46.159]  No, it was a bunch of fragments.
+[00:41:46.480 --> 00:42:04.000]  So that's why you see his hands go because the spine's gone at that point because it went down the spine into the spine, took out a bunch of the vertebra, and then by then the bullet was so mushroomed, once it mushrooms a certain point, then fragments blast out the heart, the lungs.
+[00:42:05.599 --> 00:42:06.239]  They said he was.
+[00:42:06.319 --> 00:42:08.399]  You're getting the first looks, by the way, at this.
+[00:42:08.719 --> 00:42:11.519]  I mean, he told me way more than what he wrote in the description.
+[00:42:11.759 --> 00:42:14.239]  He said, look, I'm sorry, I'm not a surgeon in a corner.
+[00:42:14.480 --> 00:42:15.199]  This is what they told me.
+[00:42:15.439 --> 00:42:18.799]  And once I heard it, I was like, oh, that, okay, yeah, I've seen that.
+[00:42:19.119 --> 00:42:19.679]  I've seen that.
+[00:42:19.839 --> 00:42:23.439]  Once I shot a white-tailed deer at 800 yards or 308, dead center.
+[00:42:23.759 --> 00:42:26.159]  And the bullet's far from spent them, but it's going slower.
+[00:42:26.239 --> 00:42:29.119]  It's not going 2,500 feet a minute anymore, more like 1,500.
+[00:42:29.679 --> 00:42:35.359]  And it went about two feet into the deer and then just turned and came back a little and blew out the side.
+[00:42:35.679 --> 00:42:36.879]  So that's what those bullets do.
+[00:42:37.359 --> 00:42:37.839]  I've done it.
+[00:42:38.000 --> 00:42:38.639]  I've seen it.
+[00:42:38.879 --> 00:42:39.519]  I know.
+[00:42:40.799 --> 00:42:44.559]  And Sarah has been trained in their whole ballistics program at the FBI.
+[00:42:44.639 --> 00:42:45.359]  It's one of the best in the world.
+[00:42:45.519 --> 00:42:47.119]  So he's going to pop in.
+[00:42:47.439 --> 00:42:50.079]  But let's go ahead and go to J.D. Vance right now.
+[00:42:54.799 --> 00:42:55.039]  All right.
+[00:42:55.839 --> 00:42:57.279]  Let's hit pause here for a moment.
+[00:42:57.839 --> 00:42:59.439]  I know we're talking a lot while this is live.
+[00:42:59.519 --> 00:43:00.319]  It's not live anymore.
+[00:43:00.559 --> 00:43:03.119]  You guys had told me that Trump Jr. and that Vance had taken the stage.
+[00:43:03.199 --> 00:43:04.559]  I'd like to skip ahead to Vance.
+[00:43:04.799 --> 00:43:05.839]  Okay, we'll skip ahead to Vance.
+[00:43:06.000 --> 00:43:06.239]  Thank you.
+[00:43:06.319 --> 00:43:11.439]  Nothing against Don Jr., but I need to get to this because we need to get kind of caught up in time to where we are.
+[00:43:11.599 --> 00:43:12.399]  Okay, here it is.
+[00:43:12.399 --> 00:43:31.117]  Thank you.
+[00:43:31.838 --> 00:43:33.358]  Thank you all so much, you know.
+[00:43:33.358 --> 00:43:45.139]  We're basically caught up now to live time here at the memorial.
+[00:43:45.759 --> 00:43:46.799]  300,000 shut up.
+[00:43:46.879 --> 00:43:48.319]  150,000 got in.
+[00:43:51.199 --> 00:43:52.799]  Oh, the left thought that would intimidate us.
+[00:43:52.960 --> 00:43:54.159]  Didn't work too well.
+[00:43:54.879 --> 00:43:55.839]  You strike me down.
+[00:43:56.039 --> 00:43:58.239]  I shall become more powerful than you can possibly imagine.
+[00:43:58.239 --> 00:44:15.920]  You know, I can't help but think that they tried to silence my friend Charlie Kirk, the They tried to silence our dear friend, Charlie Kirk.
+[00:44:16.400 --> 00:44:31.980]  Today, tonight, we speak with Charlie and for Charlie louder than ever.
+[00:44:31.980 --> 00:44:46.319]  The evil murderer who took Charlie from us expected us to have a funeral today in And instead, my friends, we have had a revival in celebration of Charlie Kirk and of his Lord Jesus Christ.
+[00:44:47.599 --> 00:44:50.400]  The bubbles never used to say the Jesus Christ word.
+[00:44:50.719 --> 00:44:52.000]  Big changes, folks.
+[00:44:52.079 --> 00:44:53.039]  This is real.
+[00:44:53.360 --> 00:45:05.599]  We gather here in this stadium in the hot Arizona sun, shielded in a great shining city our fathers raised out of the desert.
+[00:45:06.239 --> 00:45:11.119]  And from this desert, Charlie Kirk built a movement.
+[00:45:11.759 --> 00:45:15.360]  He transformed the face of conservatism in our own time.
+[00:45:16.000 --> 00:45:20.719]  And in doing so, he changed the course of American history.
+[00:45:21.360 --> 00:45:31.119]  To rising generations across this country, Charlie exemplified kindness, courage, and a commitment to open debate.
+[00:45:31.440 --> 00:45:34.639]  And he was a great debater, and we loved him for it.
+[00:45:34.960 --> 00:45:43.679]  But Charlie loved debate not because he excelled at it, but because it was the vehicle for bringing the light of truth to dark places.
+[00:45:44.090 --> 00:45:49.000]  And Charlie Kirk brought many truths in his life.
+[00:45:49.000 --> 00:46:02.150]  Charlie brought the truth that young people deserve a stake in the future and that they deserve to have a voice.
+[00:46:02.159 --> 00:46:10.719]  He brought the truth that marriage and family were the highest callings, far more important than any job or educational credential.
+[00:46:11.360 --> 00:46:22.239]  He brought the truth that our nation would fade unless it brought order to its neighborhoods and prosperity to its people.
+[00:46:22.980 --> 00:46:38.880]  He brought the truth that life was precious and we must fight to protect it at all stages and at all times.
+[00:46:38.880 --> 00:46:51.989]  But most of all, Charlie brought the truth that Jesus Christ was the King of Kings and that all truth flowed from this first and most important one.
+[00:46:52.000 --> 00:46:55.440]  Well, you know, the Satan-worshiping Andy Vitrandiva is pissed off right now.
+[00:46:56.079 --> 00:46:59.440]  But Charlie, he did so much more than tell the truth.
+[00:46:59.599 --> 00:47:00.400]  He lived it.
+[00:47:00.719 --> 00:47:07.599]  Charlie understood that the best evangelization was not in what you said, but in how you lived your life.
+[00:47:07.920 --> 00:47:12.639]  And in this city, he lived his life and raised a wonderful family.
+[00:47:13.119 --> 00:47:14.079]  Absolutely backfired on it.
+[00:47:18.719 --> 00:47:24.639]  Meanwhile, a pro-Palestine person just shot up a wedding and a bunch of people killing folks and wounding a bunch.
+[00:47:25.599 --> 00:47:33.279]  And you got armed crazy person, lawyer attacking an ABC news because they canceled Kemmel.
+[00:47:34.400 --> 00:47:36.319]  And we'll have more violence probably tomorrow and the next day.
+[00:47:36.559 --> 00:47:38.480]  But remember, it's all Netanyahu.
+[00:47:39.119 --> 00:47:40.559]  There's no leftist mobs.
+[00:47:40.639 --> 00:47:42.480]  There's no people attacking Terry Carlson's house.
+[00:47:42.799 --> 00:47:44.079]  There's no people doxing my house.
+[00:47:44.239 --> 00:47:47.759]  There's nobody swatting my reporters, not just the ones you heard about, but others.
+[00:47:48.319 --> 00:47:49.440]  No, no, no, no, no.
+[00:47:49.840 --> 00:47:50.960]  There's nobody getting killed.
+[00:47:51.360 --> 00:47:52.719]  There's no summers of love.
+[00:47:52.799 --> 00:47:54.400]  There's mostly peaceful.
+[00:47:54.799 --> 00:47:56.159]  No, everything's fine.
+[00:47:57.279 --> 00:47:58.960]  Islam's our friend.
+[00:48:03.759 --> 00:48:05.440]  Netanyahu killed Kirk.
+[00:48:05.759 --> 00:48:06.079]  No proof.
+[00:48:06.319 --> 00:48:09.199]  He was fearless and he was bold as any follower.
+[00:48:09.599 --> 00:48:10.859]  If you don't say it, you're a traitor.
+[00:48:10.859 --> 00:48:17.009]  And in this, he showed all of us how to carry on after his death.
+[00:48:18.719 --> 00:48:19.440]  We covered out of hand.
+[00:48:20.719 --> 00:48:23.039]  Israel has no pressure on this broadcast.
+[00:48:24.960 --> 00:48:29.039]  Other than the leftist group Satan funded to try to put us off the air.
+[00:48:29.360 --> 00:48:30.239]  See, we have credibility.
+[00:48:34.800 --> 00:48:38.400]  But the people that want to make everything about Israel have their own form of evil.
+[00:48:38.559 --> 00:48:42.000]  They worship Israel in a form of hate and the city of God.
+[00:48:42.239 --> 00:48:42.559]  Not me.
+[00:48:44.239 --> 00:48:49.199]  But if he loved those people, you Nazis, you go join Elon Omar and all the rest of them, and you just have your fun.
+[00:48:50.239 --> 00:48:51.920]  We're returning America as Christian values.
+[00:48:52.880 --> 00:48:54.079]  We're restoring the Republic.
+[00:48:54.719 --> 00:48:58.800]  While at the same time, not supporting what's happening in Gaza.
+[00:48:59.119 --> 00:49:02.639]  You guys just want to say you have the moral high ground and nobody else does because you're not really Christians.
+[00:49:03.599 --> 00:49:05.119]  Notice the Nazis aren't Christians anyway.
+[00:49:07.119 --> 00:49:08.000]  No, their God is Hitler.
+[00:49:09.279 --> 00:49:20.079]  He knew that America was a beautiful place and we had these incredible ideas, but he also knew that our country was a covenant between the generations past, present, and future.
+[00:49:21.119 --> 00:49:25.679]  He believed this country's best days were not behind us, but ahead of us.
+[00:49:26.000 --> 00:49:28.719]  But he knew those better days would have to be earned.
+[00:49:28.880 --> 00:49:30.239]  They would have to be worked for.
+[00:49:30.559 --> 00:49:34.239]  We would have to sacrifice and work to tell the truth.
+[00:49:34.559 --> 00:49:42.960]  He knew that America wouldn't be saved just by pulling together seminars or talking about the right kind of books in front of the right kind of people.
+[00:49:43.279 --> 00:49:47.840]  The movement which he created demanded more.
+[00:49:48.159 --> 00:49:49.440]  It demanded courage.
+[00:49:49.759 --> 00:49:51.119]  It demanded hard work.
+[00:49:51.440 --> 00:49:53.920]  It demanded building and it demanded leaders.
+[00:49:54.079 --> 00:49:59.079]  and my friends and Charlie Kirk, we found a great American leader.
+[00:49:59.088 --> 00:50:17.188]  Now our whole administration is here, but not just because we love Charlie as a friend, even though we did, but because we know we wouldn't be here without him.
+[00:50:17.199 --> 00:50:22.639]  Charlie built an organization that reshaped our body.
+[00:50:23.519 --> 00:50:24.639]  This is the vice president speaking.
+[00:50:24.719 --> 00:50:25.759]  We're about five minutes behind.
+[00:50:25.920 --> 00:50:27.119]  He just finished.
+[00:50:27.920 --> 00:50:33.360]  They're now announcing that Erica Kirk is about to take the stage.
+[00:50:34.000 --> 00:50:40.719]  So we'll take a two-minute break, come back with her, and then it's President Trump.
+[00:50:41.360 --> 00:50:45.599]  And I can't wait to hear what he has to say tonight.
+[00:50:45.920 --> 00:50:47.599]  Cal Sarah was waiting in the wings.
+[00:50:47.920 --> 00:50:49.519]  Chase Geyser's coming up.
+[00:50:49.840 --> 00:50:51.599]  There is so much to get into.
+[00:50:53.119 --> 00:50:55.360]  Here tonight, remember, you're the Paul Revere's.
+[00:50:55.440 --> 00:50:56.719]  You're how we reach more people.
+[00:50:57.039 --> 00:50:58.480]  You're not part of the solution or everything.
+[00:50:58.639 --> 00:51:01.199]  Share the live feed now on X at RealAlex Jones.
+[00:51:01.279 --> 00:51:03.199]  Share the live feed from Rumble at the Alex Show's channel.
+[00:51:03.279 --> 00:51:06.559]  And share the feed at Infowars.com forward slash show and band.video.
+[00:51:07.199 --> 00:51:10.159]  On your email, on your text message to everybody and tell them to share it.
+[00:51:10.320 --> 00:51:11.519]  That completes a chain reaction.
+[00:51:11.679 --> 00:51:12.880]  Hour number two, straight ahead.
+[00:51:12.960 --> 00:51:14.639]  Now take action, Paul Revere's.
+[00:51:17.199 --> 00:51:21.119]  All right, we are now into hour number two on this live study transmission.
+[00:51:21.440 --> 00:51:24.880]  We've actually been here since one o'clock today with the Kirk Memorial.
+[00:51:25.360 --> 00:51:27.199]  His wife just took the stage.
+[00:51:27.519 --> 00:51:28.800]  What an amazing lady.
+[00:51:28.960 --> 00:51:29.840]  Boy, I'll tell you, what a tire.
+[00:51:29.920 --> 00:51:32.079]  Now the head of TPUSA, the board made her the head of it.
+[00:51:32.559 --> 00:51:34.929]  couldn't have been a better choice here is Erica Kirk.
+[00:51:34.938 --> 00:51:49.938]  They got the mama bear pissed off.
+[00:51:54.480 --> 00:51:55.360]  Hello.
+[00:51:57.840 --> 00:52:07.039]  God bless all of you for coming here from all over the world to honor and celebrate my Charlie.
+[00:52:21.519 --> 00:52:36.789]  Just a few miles from here, two years ago at America Fest 2023, Charlie delivered a speech on stage for our TPUSA faith event.
+[00:52:36.800 --> 00:52:39.119]  Charlie loves speaking off the cuff.
+[00:52:39.360 --> 00:52:42.719]  He was very good at that, without a script.
+[00:52:43.279 --> 00:52:47.039]  So I personally didn't know what he was going to say.
+[00:52:48.960 --> 00:52:55.119]  And what he chose to speak about that day was his submission to the will of God.
+[00:52:56.960 --> 00:53:01.599]  He quoted one of his favorite Bible verses, Isaiah chapter 6, verse 8.
+[00:53:03.199 --> 00:53:04.719]  Here I am, Lord.
+[00:53:06.639 --> 00:53:07.759]  Send me.
+[00:53:10.880 --> 00:53:16.719]  After Charlie finished, I met him backstage and I spoke to him, and I'll never forget this.
+[00:53:17.039 --> 00:53:23.599]  I said, Charlie, baby, please talk to me next time before you say that statement.
+[00:53:25.760 --> 00:53:32.719]  Because when you say something like that, there is so much power in that verse.
+[00:53:33.920 --> 00:53:37.519]  When you say, here I am, Lord, use me.
+[00:53:40.960 --> 00:53:43.199]  God will take you up on that.
+[00:53:44.259 --> 00:53:46.489]  And he did with Charlie.
+[00:53:47.689 --> 00:54:11.439]  11 days ago, God accepted that total surrender from my husband and then called him to his side.
+[00:54:11.440 --> 00:54:16.079]  More than anything, Charlie wanted to do not his will, but God's will.
+[00:54:16.960 --> 00:54:34.639]  And over these past 11 days, through all the pain, never before have I found as much comfort as I now do in the words of our Lord's Prayer: Thy will be done.
+[00:54:34.639 --> 00:54:54.709]  God's love was revealed to me on the very day my husband was murdered.
+[00:54:54.719 --> 00:55:07.440]  On the afternoon of September 10th, I arrived at a Utah hospital to do the unthinkable, to look directly at my husband's murdered body.
+[00:55:09.279 --> 00:55:12.159]  I saw the wound that ended his life.
+[00:55:14.079 --> 00:55:17.360]  I felt everything you would expect to feel.
+[00:55:18.880 --> 00:55:20.320]  I felt shock.
+[00:55:21.599 --> 00:55:30.719]  I felt horror and a level of heartache that I didn't even know existed.
+[00:55:31.039 --> 00:55:32.320]  Wow, this is so powerful.
+[00:55:32.559 --> 00:55:34.239]  We're going to pause it right here.
+[00:55:37.119 --> 00:55:38.880]  And then Trump's coming up.
+[00:55:40.079 --> 00:55:41.920]  And we got a lot of news.
+[00:55:42.559 --> 00:55:44.639]  And Kyle Seraphin is going to pop on with Chase.
+[00:55:44.800 --> 00:55:46.960]  I imagine Trump's going to go in the next hour.
+[00:55:48.159 --> 00:55:49.840]  But this is historic.
+[00:55:50.159 --> 00:55:51.679]  And it's completely backfired on the enemy.
+[00:55:51.759 --> 00:55:54.159]  We're going to join a bunch of stations after the 60-second break.
+[00:55:54.480 --> 00:56:00.079]  Please stay with us and don't forget, share the live feeds, share the clips, share the article, share the Paul Reveers.
+[00:56:02.239 --> 00:56:03.360]  Well, it's surreal.
+[00:56:03.679 --> 00:56:11.199]  31 years ago, when I first started publicly fighting the Globalis, I'd already been involved some, since I was about 11.
+[00:56:13.199 --> 00:56:15.920]  Maybe one half of 1% of people knew about it.
+[00:56:16.239 --> 00:56:21.679]  Little conferences, newsletters, an occasional documentary underground.
+[00:56:22.000 --> 00:56:26.480]  Look where we are now in the fight between good and evil.
+[00:56:26.800 --> 00:56:30.319]  And evil trying to kill us and intimidate us out of desperation.
+[00:56:31.519 --> 00:56:36.319]  Erica Kirk is giving a powerful speech right now from the memorial of her slain husband.
+[00:56:36.559 --> 00:56:40.639]  She was just getting into talking about going and seeing his body that night.
+[00:56:40.960 --> 00:56:43.039]  And then Trump is setting to take the stage any minute now.
+[00:56:43.119 --> 00:56:44.239]  Let's go back to her.
+[00:56:45.519 --> 00:56:54.880]  I arrived at a Utah hospital to do the unthinkable, to look directly at my husband's murdered body.
+[00:56:56.719 --> 00:56:59.599]  I saw the wound that ended his life.
+[00:57:01.519 --> 00:57:04.800]  I felt everything you would expect to feel.
+[00:57:06.319 --> 00:57:07.759]  I felt shock.
+[00:57:09.039 --> 00:57:18.880]  I felt horror and a level of heartache that I didn't even know existed.
+[00:57:21.759 --> 00:57:23.840]  But there was something else too.
+[00:57:26.079 --> 00:57:29.679]  Even in death, I could see the man that I love.
+[00:57:33.679 --> 00:57:42.159]  I saw the one single gray hair on the side of his head, which I never told him about.
+[00:57:43.039 --> 00:57:44.239]  Now he knows.
+[00:57:44.559 --> 00:57:47.759]  Sorry, baby, telling you now, but never told him.
+[00:57:48.079 --> 00:57:49.199]  Didn't want to.
+[00:57:52.000 --> 00:57:53.759]  I also saw this.
+[00:57:55.279 --> 00:58:00.480]  I also saw on his lips the faintest smile.
+[00:58:02.719 --> 00:58:04.400]  And that told me something important.
+[00:58:07.199 --> 00:58:12.239]  It revealed to me a great mercy from God in this tragedy.
+[00:58:13.840 --> 00:58:19.039]  When I saw that, it told me that Charlie didn't suffer.
+[00:58:20.239 --> 00:58:33.039]  Even the doctor told me it was something so instant that even if Charlie had been shot in the operating room itself, nothing could have been done.
+[00:58:34.239 --> 00:58:35.440]  There was no fain.
+[00:58:36.400 --> 00:58:37.759]  There was no fear.
+[00:58:38.960 --> 00:58:39.599]  No agony.
+[00:58:39.840 --> 00:58:55.279]  One moment Charlie was doing what he loved, arguing and debating on campus, fighting for the gospel and truth in front of a big crowd.
+[00:58:56.159 --> 00:58:57.840]  And then he blinked.
+[00:58:59.279 --> 00:59:04.159]  He blinked and saw his savior in paradise.
+[00:59:07.279 --> 00:59:09.920]  Oh, the new world order messed up again.
+[00:59:13.359 --> 00:59:16.480]  Look out, this is the relaunch of Western Civilization.
+[00:59:16.799 --> 00:59:20.000]  I planned to say that today, and then I didn't know Victor Hanson-Davis had already said it.
+[00:59:20.480 --> 00:59:21.279]  It's true.
+[00:59:21.920 --> 00:59:23.039]  Notice that's been the theme here.
+[00:59:23.119 --> 00:59:23.519]  This is real.
+[00:59:23.599 --> 00:59:24.719]  These are real people, folks.
+[00:59:25.220 --> 00:59:26.019]  Charlie Kirk was real.
+[00:59:26.019 --> 00:59:39.030]  The left's been calling for her murder and her children's murder.
+[00:59:39.039 --> 00:59:40.480]  I confronted Usha Vance.
+[00:59:40.639 --> 00:59:42.880]  Meanwhile, others say she's covering up the murder for Israel.
+[00:59:43.039 --> 00:59:44.719]  Yes, she killed him with Netanyahu.
+[00:59:45.440 --> 00:59:52.400]  I held her hand and I told her, honestly, I do not know how I'm going to get through this.
+[00:59:54.960 --> 00:59:56.480]  She told me something.
+[00:59:58.719 --> 01:00:09.440]  She said, You know, when you're on an airplane with your kids and it's the last 15 minutes of the flight, things are crazy.
+[01:00:09.759 --> 01:00:10.960]  Kids are not cooperating.
+[01:00:11.119 --> 01:00:14.000]  Toys are flying everywhere and everyone's screaming.
+[01:00:14.639 --> 01:00:18.880]  And you think to yourself, I cannot wait for this flight to land.
+[01:00:19.519 --> 01:00:22.159]  And it's 15 minutes before you land.
+[01:00:24.960 --> 01:00:32.960]  And she told me, You will get through these 15 minutes and the next 15 minutes after that.
+[01:00:34.799 --> 01:00:41.599]  Usha, I don't think you realized it then, but those words were exactly what I needed to hear.
+[01:00:43.839 --> 01:00:49.359]  But most of all, God's mercy and God's love have been revealed to me these past 10 days.
+[01:00:50.639 --> 01:00:54.719]  After Charlie's assassination, we didn't see violence.
+[01:00:56.639 --> 01:00:58.559]  We didn't see rioting.
+[01:00:58.559 --> 01:01:11.599]  Yeah, because Andi, if it wasn't out there paying off black folks to do it, They could blame them.
+[01:01:11.839 --> 01:01:12.480]  We have the documents.
+[01:01:15.359 --> 01:01:20.239]  Instead, we saw what my husband always prayed he would see in this country.
+[01:01:20.559 --> 01:01:22.319]  We saw revival.
+[01:01:24.880 --> 01:01:27.440]  Yep, Charlie prayed for it, and God gave him what he wanted to.
+[01:01:27.920 --> 01:01:29.759]  This is how God works.
+[01:01:30.400 --> 01:01:32.559]  I talked to him like five weeks ago, and I said, You gotta be really careful.
+[01:01:32.719 --> 01:01:34.400]  He says, Look, I'm feel sick of what I'm doing.
+[01:01:34.639 --> 01:01:36.239]  I'm not worried about a God's control.
+[01:01:36.480 --> 01:01:40.719]  This past week, we saw people open a Bible for the first time in a decade.
+[01:01:41.039 --> 01:01:42.639]  Charlie was exactly where he wanted to be.
+[01:01:43.519 --> 01:01:45.679]  Like, I've said many times: if I get killed doing this, I don't want to die.
+[01:01:45.759 --> 01:01:47.679]  I'm not looking for it, but it's in God's plan.
+[01:01:48.799 --> 01:01:49.440]  I'm where I want to be.
+[01:01:49.679 --> 01:01:53.920]  I'm not, whenever they threaten me and attack me and try to shut us down, do all this stuff to my family.
+[01:01:54.159 --> 01:01:55.279]  They go, you know, we're the mafia.
+[01:01:55.359 --> 01:01:56.079]  You know, we're coming after you.
+[01:01:56.159 --> 01:01:57.759]  And I go, Yeah, that's why I fight you.
+[01:01:58.400 --> 01:01:59.759]  So I'm where I want to be.
+[01:02:00.000 --> 01:02:00.799]  You're where you want to be.
+[01:02:00.960 --> 01:02:03.920]  Just thank God you're in opposition to this evil because God's watching.
+[01:02:04.000 --> 01:02:05.199]  This is all about the choice you make.
+[01:02:05.519 --> 01:02:11.199]  I say this because he did it to remember important moments and sayings that affected him.
+[01:02:12.719 --> 01:02:26.559]  And one of the things he wrote in his journal was this: Every time you make a decision, it puts a mark on your soul.
+[01:02:28.799 --> 01:02:42.639]  To those of you out there who just made that decision and took the first step toward a spiritual life, I say thank you and welcome.
+[01:02:43.599 --> 01:02:45.599]  This is a national exorcism.
+[01:02:46.239 --> 01:02:47.440]  That's really what this is.
+[01:02:47.920 --> 01:02:49.119]  This is international.
+[01:02:49.599 --> 01:02:50.159]  That's totally true.
+[01:02:50.239 --> 01:02:55.839]  I'll tell you what Kennedy said about get a hole blown on you and loved ones die, but you grow out of it so the hole becomes smaller.
+[01:02:56.719 --> 01:02:59.199]  It's true when you do sin and evil, it puts these marks on you.
+[01:02:59.279 --> 01:03:11.039]  But when you do good and stand up closer to God, it basically makes you expand your good and it triggers that until those little signs of evil are tiny because you're so much bigger in God.
+[01:03:11.519 --> 01:03:13.279]  Do not take that lightly.
+[01:03:14.559 --> 01:03:17.119]  Water the seed of their faith.
+[01:03:18.639 --> 01:03:20.960]  Protect it and help it grow.
+[01:03:24.159 --> 01:03:30.880]  Every day as Charlie rode into the office, he would go through his contact list.
+[01:03:31.199 --> 01:03:34.799]  And I know there's many of you who were impacted by this.
+[01:03:35.119 --> 01:03:39.519]  He would go through his contact list and send Bible verses for the day.
+[01:03:40.719 --> 01:03:43.119]  He knew that faith was a habit.
+[01:03:44.079 --> 01:03:46.719]  The more you live it, the more it grows.
+[01:03:48.319 --> 01:03:54.719]  But know this too: the seed has only just been planted.
+[01:03:56.399 --> 01:04:01.439]  The enemy will tempt you the most in a time like this one.
+[01:04:02.639 --> 01:04:13.279]  God will always be there for you, but you must choose to mark your soul again and again in the direction of Christ.
+[01:04:13.599 --> 01:04:15.679]  And let's remember what he said right before he died.
+[01:04:15.919 --> 01:04:20.639]  When Trump got re-elected, he said he sighed such a sigh of relief because he didn't bring it up because your lawyers tell you not to.
+[01:04:20.719 --> 01:04:21.599]  It happened to us too.
+[01:04:21.919 --> 01:04:24.959]  Major Justice Department investigations trying to put him in prison for no reason.
+[01:04:25.519 --> 01:04:26.079]  For fundraising.
+[01:04:26.239 --> 01:04:28.159]  All done properly, all done very professionally.
+[01:04:28.719 --> 01:04:29.519]  And the Sunday afternoon.
+[01:04:29.759 --> 01:04:31.599]  Super high rate of the money going into what it was supposed to.
+[01:04:33.279 --> 01:04:35.519]  And he still did it, even though they were trying to put him in prison.
+[01:04:36.079 --> 01:04:37.919]  That's how dangerous this is, folks.
+[01:04:38.239 --> 01:04:40.159]  You want those of us on the temple of Spirit to fight for you.
+[01:04:40.239 --> 01:04:42.399]  That's why you've got to pray for us and support us.
+[01:04:42.559 --> 01:04:44.239]  We support you as well because this is a war.
+[01:04:44.399 --> 01:04:45.039]  This is the real world.
+[01:04:45.199 --> 01:04:46.079]  We're public figures.
+[01:04:46.319 --> 01:04:53.119]  We're not keyboard commandos out there, you know, saying they're superior to all of us because they can just sit back and say they're holy men.
+[01:04:53.599 --> 01:04:58.719]  Would come after me, let him deny himself, take up his cross and follow me.
+[01:05:01.199 --> 01:05:02.879]  He said he would be persecuted.
+[01:05:03.119 --> 01:05:04.639]  He said we would be persecuted.
+[01:05:04.799 --> 01:05:09.839]  And Charlie knew that and happily carried his cross all the way to the end.
+[01:05:12.959 --> 01:05:22.799]  And I want all of you to know while Charlie died far too early, he was also ready to die.
+[01:05:24.000 --> 01:05:28.000]  There was nothing, nothing he was putting off.
+[01:05:28.319 --> 01:05:35.919]  There was nothing that was too hard or too painful or nothing that he just felt like he didn't want to do it.
+[01:05:36.879 --> 01:05:39.759]  He left this world without regrets.
+[01:05:41.679 --> 01:05:44.159]  He did 100% of what he could every day.
+[01:05:44.799 --> 01:05:48.239]  He died like a Viking came with a sword in the hand in the InfoWar.
+[01:05:50.079 --> 01:05:57.519]  Charlie died with incomplete work, but not with unfinished business.
+[01:06:00.399 --> 01:06:02.559]  And now his death just supercharged everything.
+[01:06:04.479 --> 01:06:05.359]  But they can't help it.
+[01:06:05.439 --> 01:06:06.639]  They just got to kill.
+[01:06:06.959 --> 01:06:09.199]  That's why we can't be violent offensively.
+[01:06:09.519 --> 01:06:11.199]  They're going to stage false flags and blame us.
+[01:06:11.279 --> 01:06:11.599]  Don't worry.
+[01:06:11.679 --> 01:06:12.959]  That's their only move yet.
+[01:06:13.919 --> 01:06:19.359]  I will miss him so much because he's going to be a little bit of a man and our family were beautiful.
+[01:06:19.679 --> 01:06:20.559]  They still are.
+[01:06:21.269 --> 01:06:23.518]  Yeah, he lives on through your children as well, in the third dimension.
+[01:06:23.518 --> 01:06:35.028]  The greatest cause in Charlie's life was trying to revive the American family.
+[01:06:35.039 --> 01:06:52.079]  When he spoke to young people, he was always eager to tell them about God's vision for marriage and how, if they could just dare to live it out, it would enrich every part of their life in the same way that it enriched ours.
+[01:06:53.439 --> 01:07:08.239]  And someone once asked me how Charlie and I thought we kept our marriage so strong when he was busy traveling in our little secret.
+[01:07:09.519 --> 01:07:10.959]  It was love notes.
+[01:07:14.399 --> 01:07:20.719]  Every Saturday, Charlie wrote one for me and he never missed a Saturday.
+[01:07:22.639 --> 01:07:32.079]  And in every single one of them, he'd tell me what his highlight was for the week, how grateful he was for me and our babies.
+[01:07:33.919 --> 01:07:40.719]  And always at the end, he would always end it with asking the most beautiful question.
+[01:07:43.279 --> 01:07:49.519]  He'd always end it by asking, please let me know how I can better serve you as a husband.
+[01:07:51.439 --> 01:07:57.279]  Charlie perfectly understood God's role for a Christian husband.
+[01:07:58.239 --> 01:08:03.679]  A man who leads so that they can serve.
+[01:08:05.839 --> 01:08:09.839]  And boy, did he serve for this Republic and for God and they killed him for it.
+[01:08:10.159 --> 01:08:12.319]  Charlie's the real deal, folks.
+[01:08:12.960 --> 01:08:14.399]  People ask why I'm not at the memorial.
+[01:08:14.479 --> 01:08:16.000]  I don't want to distract from it.
+[01:08:16.880 --> 01:08:19.119]  And to all the men watching around the world.
+[01:08:19.439 --> 01:08:25.359]  And I'm sure as hell I'm not going to attack his memory and make stuff up to get a bunch of views and say Netanyahu killed him in no evidence.
+[01:08:26.399 --> 01:08:27.599]  People are sick.
+[01:08:29.439 --> 01:08:32.960]  Be strong and courageous for your families.
+[01:08:34.639 --> 01:08:35.519]  Let's talk about Danielle.
+[01:08:35.599 --> 01:08:36.000]  He really does.
+[01:08:36.319 --> 01:08:39.760]  Love your wives and lead them.
+[01:08:41.039 --> 01:08:44.000]  Love your children and protect them.
+[01:08:45.599 --> 01:08:49.840]  Be the spiritual head of your home.
+[01:08:50.159 --> 01:08:52.159]  This is an exorcism of feminism, the left.
+[01:08:53.840 --> 01:08:55.840]  I mean, this is a total turning point.
+[01:08:56.599 --> 01:08:57.779]  Turning Point USA.
+[01:08:57.779 --> 01:09:06.258]  And she's now the head of TV USA.
+[01:09:06.258 --> 01:09:07.429]  Your wife is not your third.
+[01:09:07.439 --> 01:09:08.880]  $400 million award chest.
+[01:09:09.840 --> 01:09:11.599]  People go, why is she doing to go funding?
+[01:09:11.840 --> 01:09:12.639]  She doesn't get that money.
+[01:09:13.519 --> 01:09:14.720]  They put it into the war.
+[01:09:15.039 --> 01:09:16.399]  Your wife is not your slave.
+[01:09:16.720 --> 01:09:18.239]  Which most Republican groups don't.
+[01:09:18.559 --> 01:09:19.760]  She is your helper.
+[01:09:21.279 --> 01:09:23.039]  You are not rivals.
+[01:09:24.069 --> 01:09:28.000]  You are one flesh working together for the glory of God.
+[01:09:28.000 --> 01:09:45.029]  I was Charlie's confidant.
+[01:09:45.039 --> 01:09:46.479]  I was his vault.
+[01:09:48.079 --> 01:09:52.319]  His closest and most trusted advisor, his best friend.
+[01:09:53.920 --> 01:10:03.199]  I poured into him and loved him so deeply, empowered him because his love for me drove me to be a better wife.
+[01:10:03.519 --> 01:10:03.920]  Oh, yeah.
+[01:10:04.079 --> 01:10:07.119]  As soon as he married her and had kids, he went from being amazing to incredible.
+[01:10:07.760 --> 01:10:11.199]  People don't understand once you have kids spiritually, genetically, at all clicks.
+[01:10:11.519 --> 01:10:15.439]  And having a woman like that, she's obviously very smart and dynamic, very strong in the faith.
+[01:10:15.760 --> 01:10:17.679]  I mean, she was like rocket engines on him.
+[01:10:20.479 --> 01:10:24.639]  And I've ever seen her speak like three, four years ago when they were first dating.
+[01:10:25.679 --> 01:10:28.399]  She was smart, but not ultra-impressive.
+[01:10:28.639 --> 01:10:29.679]  We are the encouragers.
+[01:10:30.079 --> 01:10:30.800]  Impressive.
+[01:10:31.359 --> 01:10:36.639]  We are the power of the office of being a mother and a wife.
+[01:10:37.840 --> 01:10:40.960]  One flesh, the team, which they've been so good at dividing.
+[01:10:41.599 --> 01:10:42.559]  Because then we all fall.
+[01:10:42.960 --> 01:10:50.399]  Please recognize that is the single most important ministry you have.
+[01:10:52.000 --> 01:10:55.760]  Now, the left and the social engineers, oh, men and women are two separate things.
+[01:10:55.840 --> 01:10:57.359]  They're at odds together.
+[01:10:57.679 --> 01:10:59.519]  No, not when you're lined up together.
+[01:10:59.679 --> 01:11:01.679]  It's an unstoppable team, one flesh.
+[01:11:01.840 --> 01:11:02.720]  It's one operation.
+[01:11:02.880 --> 01:11:04.559]  There is no male and female at the end.
+[01:11:04.639 --> 01:11:05.599]  We are the species.
+[01:11:08.800 --> 01:11:18.479]  But I made sure that when Charlie returned from work, it was his sacred landing place, away from the worries of the world.
+[01:11:23.199 --> 01:11:32.399]  I didn't make him feel guilty for being away too long or too much or getting home too late.
+[01:11:32.559 --> 01:11:37.199]  I always told him, home is here for you and it'll be ready for you.
+[01:11:38.479 --> 01:11:45.119]  And I made it into this place where he wanted to be as soon as possible when he was on the road.
+[01:11:48.000 --> 01:11:50.159]  There was no keeping score between us.
+[01:11:52.960 --> 01:11:58.239]  We were a team working together for the same mission.
+[01:12:00.399 --> 01:12:01.359]  I never wanted to be able to do that.
+[01:12:01.599 --> 01:12:03.760]  Everybody hearing this knows this is what you want.
+[01:12:04.720 --> 01:12:08.639]  Remember, Hillary made fun of that country song where she said, stand by your man.
+[01:12:08.720 --> 01:12:10.479]  And she goes, that's dumb.
+[01:12:10.800 --> 01:12:12.239]  Well, who stands by you if you don't?
+[01:12:12.319 --> 01:12:13.920]  And there's men that do bad, women that do bad.
+[01:12:14.159 --> 01:12:16.800]  The point is, when you get it right, it's magic.
+[01:12:18.319 --> 01:12:21.599]  My marriage with Charlie was the best thing that ever happened to me.
+[01:12:22.239 --> 01:12:24.880]  And I know it was the best thing that ever happened to him as well.
+[01:12:26.079 --> 01:12:28.960]  He wanted everyone to experience that joy.
+[01:12:29.599 --> 01:12:30.960]  That's so real about Kirk.
+[01:12:31.199 --> 01:12:33.760]  He was Christian and pro-family.
+[01:12:33.920 --> 01:12:36.479]  And once he had a wife and kids, it was all he could talk about.
+[01:12:36.720 --> 01:12:37.760]  And it made him even stronger.
+[01:12:37.840 --> 01:12:39.359]  So it wasn't like some thing they came up with.
+[01:12:39.439 --> 01:12:41.760]  He was giving you his passion.
+[01:12:44.559 --> 01:12:52.079]  But Charlie's mission above all was aimed directly at those who aren't married.
+[01:12:53.359 --> 01:12:55.519]  He named his organization well.
+[01:12:56.479 --> 01:13:00.639]  He knew things were not right with America and especially with young people.
+[01:13:01.599 --> 01:13:03.599]  And they needed a new direction.
+[01:13:05.519 --> 01:13:11.519]  Charlie passionately wanted to reach and save the lost boys of the West.
+[01:13:13.039 --> 01:13:20.239]  The young men who feel like they have no direction, no purpose, no faith, and no reason to live.
+[01:13:21.840 --> 01:13:28.079]  The men wasting their lives on distractions and the men consumed with resentment, anger, and hate.
+[01:13:30.319 --> 01:13:32.159]  Charlie wanted to help them.
+[01:13:34.000 --> 01:13:37.840]  He wanted them to have a home with Turning Point USA.
+[01:13:38.479 --> 01:13:48.000]  And when he went onto campus, he was looking to show them a better path and a better life that was right there for the taking.
+[01:13:49.199 --> 01:13:50.319]  He wanted to show them that.
+[01:13:50.639 --> 01:13:54.959]  They have no idea how they make you alone and scared to even go on a date or any of this crap, folks.
+[01:13:55.119 --> 01:13:57.599]  It's all to isolate you in their own documents.
+[01:13:58.239 --> 01:13:59.119]  All of it.
+[01:14:00.719 --> 01:14:05.359]  He wanted to save young men.
+[01:14:05.759 --> 01:14:09.359]  That's why the incels hate turning point and infowars and all of it.
+[01:14:09.599 --> 01:14:12.079]  They're not even conservatives or Christians or populists.
+[01:14:12.239 --> 01:14:13.039]  They're pissed off.
+[01:14:13.119 --> 01:14:18.399]  They know they hate the left, but now they hate the right because it's something straight and strong.
+[01:14:18.639 --> 01:14:25.759]  We need to reach into those young men and we need to get them to not hate women and not be like the left who really hates women.
+[01:14:25.839 --> 01:14:26.719]  They claim they love them.
+[01:14:28.079 --> 01:14:32.319]  And we've got to really let them know the real path they should go on.
+[01:14:32.879 --> 01:14:44.719]  On the cross, our Savior said, Father, forgive them, for they not know what they do.
+[01:14:47.199 --> 01:14:52.079]  That man, that young man.
+[01:14:55.289 --> 01:14:56.279]  I forgive him.
+[01:14:56.279 --> 01:15:10.399]  And he was definitely demon possessed by the drugs, the culture, the brainwashing, the It's Satanism, folks.
+[01:15:10.639 --> 01:15:12.719]  You go to a Trantiva event.
+[01:15:13.679 --> 01:15:14.959]  They are literally devil worshippers.
+[01:15:15.039 --> 01:15:18.079]  Turn out he had child porn type stuff on his computers.
+[01:15:18.799 --> 01:15:19.919]  Bestiality.
+[01:15:21.439 --> 01:15:21.679]  Good.
+[01:15:21.759 --> 01:15:22.479]  She just forgave him.
+[01:15:22.559 --> 01:15:23.679]  That's so Christ-like.
+[01:15:24.639 --> 01:15:27.759]  We'll forgive him spiritually, but he'll get the firing squad.
+[01:15:27.839 --> 01:15:29.279]  That's what they have in Utah.
+[01:15:29.599 --> 01:15:32.319]  I guess if I die about five years, get him executed with appeals.
+[01:15:33.199 --> 01:15:36.639]  They need to go after the accomplices, which I've been told they're trying to cover up.
+[01:15:36.959 --> 01:15:38.959]  People that knew didn't warn anybody.
+[01:15:39.279 --> 01:15:40.639]  Your accomplices.
+[01:15:43.119 --> 01:15:43.759]  That's powerful.
+[01:15:44.399 --> 01:15:49.999]  Because it was what Christ did and is what Charlie would do.
+[01:15:50.639 --> 01:15:51.919]  They want to give him the hate.
+[01:15:52.239 --> 01:15:54.719]  The answer to hate is not hate.
+[01:15:56.159 --> 01:16:00.159]  The answer we know from the gospel is love and always love.
+[01:16:01.439 --> 01:16:02.879]  Love for our enemies.
+[01:16:03.439 --> 01:16:06.159]  And love for others he might harm again, so we have to execute him.
+[01:16:07.039 --> 01:16:07.919]  I'm being serious, sir.
+[01:16:08.559 --> 01:16:09.119]  You love him.
+[01:16:09.279 --> 01:16:09.759]  You don't hate him.
+[01:16:09.839 --> 01:16:11.039]  You're very sorry he fell to this point.
+[01:16:12.399 --> 01:16:13.199]  He's a demonic husk.
+[01:16:13.279 --> 01:16:14.239]  He must be executed.
+[01:16:14.559 --> 01:16:20.559]  It needs a group that will point young people away from the path of misery and sin.
+[01:16:21.839 --> 01:16:26.159]  It needs something that will lead people away from hell in this world and in the next.
+[01:16:26.479 --> 01:16:27.119]  It really is true.
+[01:16:27.199 --> 01:16:27.839]  Sin is hell.
+[01:16:28.079 --> 01:16:31.279]  It needs young people pointed in the direction of truth and beauty.
+[01:16:31.599 --> 01:16:33.999]  It feels good at first, but then it's just totally enslaved.
+[01:16:34.799 --> 01:16:39.279]  And so I promise you today, every part of our work will become greater.
+[01:16:40.569 --> 01:16:46.838]  I am tremendously honored to be the new CEO of Turning Point USA.
+[01:16:46.858 --> 01:17:07.588]  I do not take that lightly.
+[01:17:07.599 --> 01:17:10.239]  Charlie and I were united in purpose.
+[01:17:10.559 --> 01:17:15.199]  His passion was my passion, and now his mission is my mission.
+[01:17:16.159 --> 01:17:25.199]  Everything that Turning Point USA built through Charlie's vision and hard work, we will make 10 times greater through the power of his memory.
+[01:17:26.399 --> 01:17:28.239]  Chapters will grow.
+[01:17:29.199 --> 01:17:31.839]  Thousands of new ones will be created.
+[01:17:32.788 --> 01:17:37.438]  TPUSA Faith will add thousands of new pastors and congregations.
+[01:17:37.438 --> 01:17:50.069]  And yes, campus events will continue.
+[01:17:50.078 --> 01:17:52.778]  And we will continue to hold debates and dialogue.
+[01:17:52.778 --> 01:18:08.628]  The first amendment of our Constitution is the most human amendment.
+[01:18:08.639 --> 01:18:15.279]  We are naturally talking beings, naturally believing beings.
+[01:18:16.239 --> 01:18:20.079]  And the First Amendment protects our right to do both.
+[01:18:21.359 --> 01:18:35.519]  No assassin will ever stop us from standing up to defend those riots, ever.
+[01:18:35.519 --> 01:18:47.589]  Because when you stop the conversation, when you stop the dialogue, this is what happens.
+[01:18:47.599 --> 01:18:54.960]  When we lose the ability and the willingness to communicate, we get violence.
+[01:18:58.799 --> 01:19:14.159]  And as I stand here now and I look at this beautiful photo of my husband in front of me hanging in the stadium, I think of my husband 13 years ago.
+[01:19:14.479 --> 01:19:16.319]  I hadn't met him yet.
+[01:19:17.279 --> 01:19:19.279]  He was 18 years old.
+[01:19:20.879 --> 01:19:23.119]  A man barely out of high school.
+[01:19:23.759 --> 01:19:30.719]  Running around the halls of the RNC without a dollar in his pocket and a single contact in his phone.
+[01:19:33.279 --> 01:19:38.319]  People who saw him said that he didn't know what he was doing, but he did.
+[01:19:39.119 --> 01:19:39.679]  He had the spirit.
+[01:19:39.839 --> 01:19:43.359]  You know, when I first met him like nine and a half years ago, you could pick it up like, ooh, what's up with this guy?
+[01:19:44.799 --> 01:19:46.479]  You could pick up the energy.
+[01:19:47.119 --> 01:19:50.479]  But there is no past, present, or future.
+[01:19:50.559 --> 01:19:51.439]  It's one timeless moment.
+[01:19:51.519 --> 01:19:52.399]  You could pick up what was coming.
+[01:19:52.479 --> 01:19:53.199]  It was already there.
+[01:19:53.519 --> 01:19:54.559]  Same thing with InfoWars.
+[01:19:54.639 --> 01:19:55.599]  31 years on air.
+[01:19:55.919 --> 01:19:59.359]  I have this sense, not a power trip, the opposite of responsibility.
+[01:19:59.679 --> 01:20:00.479]  And everything was going to happen.
+[01:20:00.559 --> 01:20:01.919]  And people kind of picked up on it right away.
+[01:20:02.000 --> 01:20:03.679]  They're like, yeah, we need to listen to this guy.
+[01:20:03.759 --> 01:20:03.919]  Oh.
+[01:20:04.960 --> 01:20:11.279]  And even all the old-timers and the generals and the patriots and all of them would say, son, you're going to do important things.
+[01:20:11.599 --> 01:20:12.879]  And they said, we sense it.
+[01:20:14.079 --> 01:20:15.119]  And that's part of all this.
+[01:20:15.439 --> 01:20:16.559]  And it's not about me or Charlie.
+[01:20:16.639 --> 01:20:18.639]  It's about you and the things you can do.
+[01:20:18.879 --> 01:20:21.599]  Might not be as big as what I did or Charlie did or maybe bigger.
+[01:20:21.839 --> 01:20:32.960]  The point is, you need to have that sense of timelessness and destiny and will and take your destiny in your hands to not let Satan and the globalist and big tech of the New World Order write the script of your future.
+[01:20:33.279 --> 01:20:45.119]  And Charlie is a North Star example of taking action with a heart full of love and focus with a mission and delivering in spades.
+[01:20:45.279 --> 01:20:46.799]  We salute you, Charlie Kirk.
+[01:20:47.119 --> 01:20:48.719]  I love you, Charlie, baby.
+[01:20:50.960 --> 01:20:53.039]  And I will make you proud.
+[01:20:55.729 --> 01:20:57.599]  God bless you all and God bless America.
+[01:21:04.719 --> 01:21:06.319]  Trump is about to come out.
+[01:21:07.199 --> 01:21:09.039]  We're about to go right to that.
+[01:21:09.599 --> 01:21:10.239]  We're a little bit behind.
+[01:21:10.319 --> 01:21:12.079]  He's actually out now, but only like two minutes.
+[01:21:12.319 --> 01:21:14.239]  So we're going to go right to the start of his speech right now.
+[01:21:14.559 --> 01:21:20.319]  Kyle Servant had huge news on the Kirk assassination and all the things that are going on and so much more.
+[01:21:20.879 --> 01:21:26.639]  He's going to be popping in with Chase Geyser some Shine Night Live coming up as soon as this is over, 6 to 8 p.m.
+[01:21:27.359 --> 01:21:33.759]  But you've got all the shows tomorrow and myself and everything else.
+[01:21:33.839 --> 01:21:37.759]  So be sure and join us at 8 a.m. tomorrow for American Journal and then right through the other programs.
+[01:21:38.079 --> 01:21:39.279]  There's so much I haven't gotten to.
+[01:21:39.359 --> 01:21:44.000]  I was so loaded for Bear, but this is amazing and historic and more powerful than I thought it would be and I thought it would be powerful.
+[01:21:44.239 --> 01:21:44.719]  Wow.
+[01:21:45.039 --> 01:21:50.639]  So now let's take you to the start of President Trump's speech now live there in Arizona.
+[01:21:50.879 --> 01:21:51.519]  Here he comes.
+[01:21:51.839 --> 01:21:53.439]  And Elon back together with him.
+[01:21:53.519 --> 01:21:54.000]  Incredible.
+[01:21:54.239 --> 01:21:54.879]  Unity.
+[01:21:56.159 --> 01:21:58.479]  The attempted assassination of Trump got Elon endorsing.
+[01:21:58.719 --> 01:21:59.119]  Thank you very much.
+[01:21:59.359 --> 01:22:00.000]  Same thing with Kennedy.
+[01:22:00.559 --> 01:22:01.439]  Bringing us back together again.
+[01:22:03.519 --> 01:22:04.559]  We appreciate that.
+[01:22:04.879 --> 01:22:06.239]  That which kills us only makes us stronger.
+[01:22:08.559 --> 01:22:10.879]  Thank you very much, Lee, very much for being here.
+[01:22:14.319 --> 01:22:16.639]  And his voice has not changed, you know?
+[01:22:17.199 --> 01:22:18.639]  Pretty amazing.
+[01:22:19.279 --> 01:22:31.599]  And a special thank you to Erica, because today America is a nation in grief, a nation in shock, and a nation in mourning.
+[01:22:32.239 --> 01:22:38.960]  Less than two weeks ago, our country was robbed of one of the brightest lights of our times.
+[01:22:39.279 --> 01:22:47.119]  A giant of his generation, and above all, a devoted husband, father, son, Christian, and patriot.
+[01:22:48.239 --> 01:23:00.719]  Charles James Kirk was heinously murdered by a radicalized, cold-blooded monster for speaking the truth that was in his heart.
+[01:23:01.599 --> 01:23:11.039]  He was violently killed because he spoke for freedom and justice, for God, country, for reason, and for common sense.
+[01:23:12.000 --> 01:23:15.519]  He was assassinated because he lived bravely.
+[01:23:15.839 --> 01:23:21.759]  He led boldly, and he argued brilliantly without apology.
+[01:23:22.639 --> 01:23:25.759]  He did what was right for our nation.
+[01:23:27.039 --> 01:23:37.119]  And so on that terrible day, September 10th, 2025, our greatest evangelist for American liberty became immortal.
+[01:23:38.079 --> 01:23:42.399]  He's a martyr now for American freedom.
+[01:23:43.279 --> 01:23:53.840]  I know I speak for everyone here today when I say that none of us will ever forget Charlie Kirk and neither now will history.
+[01:23:54.869 --> 01:24:12.519]  Because while Charlie has been reunited with his creator in heaven, his voice on earth will echo through the generations.
+[01:24:13.439 --> 01:24:19.599]  And his name will live forever in the eternal chronicle of America's greatest patriots.
+[01:24:19.920 --> 01:24:21.759]  He will live forever.
+[01:24:22.719 --> 01:24:33.039]  To Charlie's incredible and beautiful widow, Erica, we know the weight of this monumental loss is almost unbearable.
+[01:24:33.679 --> 01:24:47.199]  But even in the midst of heartache, pain too great to even fathom, you have somehow found the strength and deep faith to be a comfort to millions and millions of people.
+[01:24:48.079 --> 01:24:49.840]  And thank you very much, Erica.
+[01:24:50.000 --> 01:24:52.000]  Thank you very much.
+[01:24:52.000 --> 01:25:05.269]  Today, an entire nation wraps its loving arms around you and your beautiful children.
+[01:25:05.279 --> 01:25:20.159]  We share in your immense and overwhelming sorrow, and we vow that we will do everything we can to ensure that your children grow up in a land where their father is honored and revered as a great American hero.
+[01:25:20.238 --> 01:25:21.038]  That's what he is.
+[01:25:21.038 --> 01:25:37.898]  To Charlie's parents who lost their beloved son, and to the entire Kirk family, we know that no words could ever be enough to fill the void he leaves behind.
+[01:25:38.800 --> 01:25:41.519]  That's a void that just can't be filled.
+[01:25:41.840 --> 01:26:01.439]  But I hope the extraordinary outpouring of emotion over these past 11 days has comforted you with the knowledge that your son brought more good and love into this world in his 31 short years than most people, even very, very successful people, can bring in a lifetime.
+[01:26:01.469 --> 01:26:10.918]  Charlie Kirk loved America with everything he had.
+[01:26:11.028 --> 01:26:25.189]  And as we can see so clearly today, America loved Charlie Kirk.
+[01:26:25.199 --> 01:26:28.800]  And he could always draw a big crowd.
+[01:26:28.960 --> 01:26:29.759]  Look at this today.
+[01:26:29.920 --> 01:26:31.279]  Look at what's gone on.
+[01:26:31.599 --> 01:26:33.679]  This is a big crowd.
+[01:26:38.639 --> 01:26:43.759]  Here today we have the Vice President of the United States, J.D. Vance.
+[01:26:44.319 --> 01:26:49.199]  We have the Speaker of the U.S. House of Representatives, Mike Johnson.
+[01:26:49.519 --> 01:26:55.519]  We have countless members of the United States Senate, and I'm sorry I'm not going to introduce you, but I'll be up here.
+[01:26:55.599 --> 01:26:57.199]  They're all over the place.
+[01:26:58.159 --> 01:27:00.399]  And likewise, the House of Representatives.
+[01:27:00.559 --> 01:27:03.920]  They're all over this big stadium.
+[01:27:04.239 --> 01:27:05.359]  This is not an arena.
+[01:27:05.439 --> 01:27:06.800]  This is a stadium.
+[01:27:07.439 --> 01:27:22.079]  Our great cabinet and this stadium packed with rafters of people, not to mention the one across the street that also has tens of thousands of people.
+[01:27:22.639 --> 01:27:24.960]  And they're watching us on screen right now.
+[01:27:25.279 --> 01:27:27.279]  And the world has woken up.
+[01:27:27.920 --> 01:27:29.599]  The shot heard around the world.
+[01:27:30.239 --> 01:27:32.319]  And I'm sorry we couldn't get you in.
+[01:27:33.119 --> 01:27:35.840]  If anybody would like to give up your seat, please walk across.
+[01:27:36.319 --> 01:27:37.039]  This is Charlie Kergan.
+[01:27:37.119 --> 01:27:37.920]  I'm not hyping that.
+[01:27:38.000 --> 01:27:38.479]  This is big.
+[01:27:38.559 --> 01:27:39.840]  All of the world people get it.
+[01:27:40.399 --> 01:27:42.079]  An old-time revival, isn't it?
+[01:27:42.319 --> 01:27:44.159]  An old-time revival.
+[01:27:48.559 --> 01:27:49.279]  See, Trump refuses to do that.
+[01:27:50.719 --> 01:27:52.159]  He refuses to reboot a teleproverbury.
+[01:27:52.239 --> 01:27:53.039]  This is what he does.
+[01:27:53.359 --> 01:27:59.519]  It is agonizing and unthinkable to say goodbye to a patriot whose heart still had so much to give.
+[01:27:59.679 --> 01:28:00.719]  It's so much.
+[01:28:01.599 --> 01:28:11.279]  Raised in the suburbs of Chicago, Charlie was filled with the patriotic spirit from his youth, and he was an all-American in everything he did.
+[01:28:11.599 --> 01:28:17.599]  And one of the last things he said to me is, please, sir, save Chicago.
+[01:28:17.920 --> 01:28:18.639]  We're going to do that.
+[01:28:18.828 --> 01:28:21.137]  we're going to save Chicago from horrible crime.
+[01:28:21.137 --> 01:28:34.148]  In high school, he was the quarterback of the football team and the captain of the basketball team.
+[01:28:34.159 --> 01:28:35.039]  He was a good athlete.
+[01:28:35.199 --> 01:28:37.599]  A lot of people don't know that about Charlie.
+[01:28:38.239 --> 01:28:49.119]  He was an Eagle Scout who spent his school lunch breaks listening to another champion for liberty, somebody that he greatly admired, Rush Limbaugh.
+[01:28:49.439 --> 01:28:51.199]  Yeah, he was a real Boy Scout, Brooks.
+[01:28:52.639 --> 01:28:54.719]  He was so good and so nice guy.
+[01:28:54.880 --> 01:28:56.719]  It was like, he's actually doing pretty good.
+[01:28:56.880 --> 01:28:57.599]  Like, is this fake?
+[01:28:57.679 --> 01:28:59.359]  And it's like, no, this is a Boy Scout.
+[01:29:00.399 --> 01:29:13.119]  It was the choice he made in the fifth grade, which he called the most important decision of his life to become a Christian and a follower of his Savior, Jesus Christ.
+[01:29:17.279 --> 01:29:19.439]  No Republicans said the name Jesus Christ.
+[01:29:20.079 --> 01:29:34.079]  Inspired by faith and his love of freedom, Charlie did something remarkable when he was just 18 years old on the advice of a mentor who told him to put off going to college because he was doing so well.
+[01:29:34.719 --> 01:29:40.319]  He devoted his life to converting young people to the conservative cause.
+[01:29:40.559 --> 01:29:41.199]  How did he do?
+[01:29:41.359 --> 01:29:41.920]  Take a look.
+[01:29:42.000 --> 01:29:42.600]  How did he do?
+[01:29:42.600 --> 01:30:08.159]  In 2012, two days after graduating high school, and with just $1,800 in his pocket, the young man from Illinois, who no one had ever heard of, started an organization whose grand ambitions were captured in its name, Turning Point USA.
+[01:30:08.399 --> 01:30:09.359]  Great name.
+[01:30:14.079 --> 01:30:17.519]  And I have a feeling it's going to be bigger and better than ever before.
+[01:30:17.760 --> 01:30:18.719]  Does that make sense?
+[01:30:18.880 --> 01:30:22.079]  It's going to be bigger and better than ever before.
+[01:30:22.399 --> 01:30:24.159]  Look at what's happening.
+[01:30:28.319 --> 01:30:36.559]  12 years ago, Charlie walked onto his first college campus, the very liberal University of Wisconsin at Madison.
+[01:30:37.199 --> 01:30:43.359]  He set up a card table and put up a sign with three words, big government sucks.
+[01:30:43.519 --> 01:30:44.239]  Could you believe that?
+[01:30:44.399 --> 01:30:45.760]  That's Charlie.
+[01:30:46.399 --> 01:30:55.519]  That day, Charlie talked to every student who approached him, most of whom were probably quite a bit older than he was.
+[01:30:55.840 --> 01:31:01.840]  Finally, after many hours, he found the first ever turning point chapter leader.
+[01:31:02.159 --> 01:31:11.119]  His first year out of high school, Charlie traveled 300 days raising money and taking his message to campuses all over the country.
+[01:31:11.439 --> 01:31:16.800]  He lived out of his parents' basement, and they actually loved having him there.
+[01:31:18.000 --> 01:31:19.119]  They loved Charlie.
+[01:31:19.359 --> 01:31:21.199]  Everybody loved Charlie.
+[01:31:21.519 --> 01:31:32.800]  And on the couches of friends and supporters, he lived off couches for two years, three years, then life started getting a little bit different.
+[01:31:33.439 --> 01:31:34.800]  But he was always the same.
+[01:31:35.119 --> 01:31:46.079]  For five years, he refused to take a paycheck, but day after day, he worked from 5 a.m. in the morning till 11 p.m. in the evening, always.
+[01:31:47.599 --> 01:31:48.559]  That's why Trump loved him.
+[01:31:49.199 --> 01:31:50.800]  He's a Mar-lago in the White House all the time.
+[01:31:50.960 --> 01:31:52.559]  The two just like feed off each other.
+[01:31:52.880 --> 01:31:53.519]  Goodwill store.
+[01:31:53.760 --> 01:31:55.039]  So Trump loves workaholics.
+[01:31:56.800 --> 01:32:01.599]  It wasn't easy, but Charlie wasn't in it for money at all, never has been.
+[01:32:01.840 --> 01:32:03.519]  Money was never his thing.
+[01:32:03.840 --> 01:32:06.880]  He was always in it for the mission.
+[01:32:07.519 --> 01:32:12.000]  As he liked to say even back then, we have a country to save.
+[01:32:13.279 --> 01:32:14.159]  Just what he did.
+[01:32:14.479 --> 01:32:14.719]  Call me.
+[01:32:15.279 --> 01:32:18.239]  Charlie called me five weeks ago and he said, well, have they shut you down?
+[01:32:18.319 --> 01:32:18.639]  Have you been?
+[01:32:18.880 --> 01:32:19.119]  Blah, blah, blah.
+[01:32:19.279 --> 01:32:24.000]  He goes, we want to get you out of our big events and we want to keep you on the air.
+[01:32:24.159 --> 01:32:25.119]  How can we help you?
+[01:32:26.800 --> 01:32:28.719]  And I said, well, I'm not sure yet, Charlie, but thank you.
+[01:32:28.880 --> 01:32:30.399]  I know you're really amazing.
+[01:32:30.559 --> 01:32:30.800]  Thank you.
+[01:32:30.880 --> 01:32:34.960]  He goes, all right, well, get on my show and tell them when you come on and let's get you out to some more events.
+[01:32:35.039 --> 01:32:36.960]  And I just, we really love you and the president loves you.
+[01:32:37.039 --> 01:32:39.039]  And boy, you're right about this Epstein thing, man.
+[01:32:39.119 --> 01:32:39.840]  They're mishandling it.
+[01:32:39.920 --> 01:32:40.559]  Thanks for what you're doing.
+[01:32:40.639 --> 01:32:41.760]  That really got Trump's attention.
+[01:32:42.559 --> 01:32:43.439]  It was just a good talk.
+[01:32:44.399 --> 01:32:46.000]  And he called me another time, too.
+[01:32:46.880 --> 01:32:47.679]  And then all of a sudden he's dead.
+[01:32:49.359 --> 01:32:50.079]  So there you go.
+[01:32:50.319 --> 01:32:50.800]  Back to Trump.
+[01:32:51.039 --> 01:32:56.719]  It was Charlie who stood up for persecuted Christians and Jews on college campuses.
+[01:32:57.039 --> 01:33:06.000]  It was Charlie who helped bring online censorship, free speech, and cancel culture to the fore of our political debate.
+[01:33:06.159 --> 01:33:06.639]  He was ready to go.
+[01:33:06.880 --> 01:33:08.159]  Bondi just floated Wednesday.
+[01:33:08.319 --> 01:33:09.760]  She's about to be thrown out, by the way.
+[01:33:10.559 --> 01:33:11.840]  Totally Trump was pissed about that.
+[01:33:12.719 --> 01:33:15.039]  By the way, again, I do want to understand this.
+[01:33:16.639 --> 01:33:19.119]  You know, you see photos of me with the task force leaders in D.C. and stuff.
+[01:33:19.199 --> 01:33:21.119]  I don't get into all the inside baseball, but I didn't get this from them.
+[01:33:21.279 --> 01:33:22.960]  I got from other D.C. people.
+[01:33:23.599 --> 01:33:28.319]  But I told you four months ago that she's got six months for indictments or she's going to get fired.
+[01:33:29.279 --> 01:33:34.559]  And Trump came out on True Social yesterday and said, Pam Bondi, you're out of control.
+[01:33:35.199 --> 01:33:36.479]  We got all the proof.
+[01:33:36.800 --> 01:33:38.800]  They're getting rid of the U.S. attorneys that won't charge people.
+[01:33:38.960 --> 01:33:43.440]  The grand juries are coming back with indictments, and then and then she's trying to set on them.
+[01:33:44.079 --> 01:33:58.880]  So, you know, and then Cash Patel responds: breaking Cash Patel confirms FBI investigating all theories surrounding Charlie Kirk's assassination, including accomplices, Discord chats, bullet angles, shot location, weapon transport, and potential hand signals.
+[01:33:59.199 --> 01:34:02.239]  Talking about his security that he's had for years, he loves.
+[01:34:02.480 --> 01:34:04.800]  I know guys in the military that serve with him, great guys.
+[01:34:05.039 --> 01:34:06.400]  They're doing hand signals about the crowd.
+[01:34:06.560 --> 01:34:08.159]  Check this guy, go there, go that.
+[01:34:08.640 --> 01:34:10.560]  Because he can't, you know, I talk over radios.
+[01:34:10.800 --> 01:34:12.480]  People go, oh, look, they're doing hand signals.
+[01:34:12.560 --> 01:34:13.279]  They murdered him.
+[01:34:13.600 --> 01:34:14.960]  Oh, they shot him under their arm.
+[01:34:15.279 --> 01:34:18.400]  You guys dehumanize these people and just say that.
+[01:34:19.760 --> 01:34:21.199]  And the guy has a cell phone under his arm.
+[01:34:21.279 --> 01:34:25.760]  The other guy's opening a bottle of water, and you say it's a cell phone gun.
+[01:34:26.079 --> 01:34:28.320]  And then if we say it's not, you've been disproven.
+[01:34:28.480 --> 01:34:29.920]  We work for Israel.
+[01:34:30.560 --> 01:34:33.520]  Let's say somebody shot him under the arm, which, of course, there isn't evidence.
+[01:34:33.760 --> 01:34:34.800]  How does that mean Israel?
+[01:34:34.960 --> 01:34:39.760]  It's just whatever theory you have, we must accept it's sick and it's evil.
+[01:34:40.720 --> 01:34:43.840]  And used to, I'd cover other people's theories, like Sandy Hook not happening.
+[01:34:44.239 --> 01:34:45.840]  I'd say, yeah, I can see how you say that.
+[01:34:46.159 --> 01:34:51.039]  And then I get it hung on me, even though I'll probably have the police reports later.
+[01:34:51.360 --> 01:34:53.840]  And then, and then they, you know, the Democrats make money off me.
+[01:34:54.000 --> 01:34:59.520]  But that's what I'm saying: is that even if I entertain somebody's theory, then I'm going to get blamed for it.
+[01:35:00.159 --> 01:35:04.480]  No, I've got it from high-level White House sources that they are killing looking at accomplices.
+[01:35:04.800 --> 01:35:15.279]  Now, does that mean because it was more sophisticated or the transifa that was at least six of them the days before saying he's dead tomorrow?
+[01:35:15.440 --> 01:35:16.800]  He's dead in two days.
+[01:35:17.119 --> 01:35:18.000]  Yeah, this right here.
+[01:35:18.239 --> 01:35:19.279]  You slow it down, blow it up.
+[01:35:19.440 --> 01:35:21.600]  It's his damn cell phone crossed under his arm.
+[01:35:21.920 --> 01:35:23.520]  Then they hear the shot.
+[01:35:23.920 --> 01:35:25.600]  Normal thing to do is wave your arms out.
+[01:35:25.680 --> 01:35:26.400]  What's going on?
+[01:35:26.720 --> 01:35:28.159]  Oh, he shot him.
+[01:35:28.480 --> 01:35:32.480]  And if you don't believe it, that's an innocent person.
+[01:35:33.760 --> 01:35:35.520]  You're just saying that about him.
+[01:35:38.320 --> 01:35:39.920]  Let's go back to Trump.
+[01:35:40.880 --> 01:35:44.960]  From Ohio by the name of JD Vance.
+[01:35:45.119 --> 01:35:46.640]  Have you ever heard of him?
+[01:35:46.960 --> 01:35:48.640]  He's doing a good job.
+[01:35:53.119 --> 01:36:01.840]  But Charlie would often call me sometimes the night before a big event, the other side of the country.
+[01:36:02.720 --> 01:36:09.920]  And he'd ask me and say, Do you think you could come and speak at the event the following day, right?
+[01:36:10.239 --> 01:36:11.760]  I'd say, Charlie, I give me a break.
+[01:36:12.000 --> 01:36:14.560]  I'm the president of the United States.
+[01:36:15.440 --> 01:36:18.000]  You want me to travel four hours by plane?
+[01:36:18.320 --> 01:36:20.079]  And you know, sometimes I did it.
+[01:36:20.720 --> 01:36:22.159]  He was a very good guy.
+[01:36:22.320 --> 01:36:24.079]  He was a very convincing guy.
+[01:36:24.400 --> 01:36:27.039]  He didn't stop, but he would ask for things like that, sir.
+[01:36:27.119 --> 01:36:29.680]  Could you be tomorrow in California?
+[01:36:30.000 --> 01:36:32.640]  They said, Charlie, give me a break, please.
+[01:36:33.600 --> 01:36:35.119]  He just wouldn't stop.
+[01:36:35.440 --> 01:36:36.640]  And he succeeded.
+[01:36:36.960 --> 01:36:39.600]  But I almost put on the Kennedy event with Trump.
+[01:36:39.920 --> 01:36:40.560]  You never wanted to.
+[01:36:41.119 --> 01:36:42.800]  Kennedy came out and endorsed him there in Arizona.
+[01:36:43.360 --> 01:36:44.239]  He worked so hard.
+[01:36:44.400 --> 01:36:45.520]  You just didn't want to let him down.
+[01:36:45.600 --> 01:36:45.920]  I felt like he was a kid.
+[01:36:46.079 --> 01:36:47.360]  Remember, I told you that five days before.
+[01:36:47.440 --> 01:36:50.320]  I said, Kenny will endorse him Friday as president.
+[01:36:50.560 --> 01:36:53.199]  Either in LA or in Tucson, if they weren't sure yet.
+[01:36:53.440 --> 01:36:54.400]  Oh, you don't know them.
+[01:36:54.560 --> 01:36:55.119]  You don't know anything.
+[01:36:56.239 --> 01:36:57.199]  Gee, wonder who told me.
+[01:36:57.520 --> 01:36:59.840]  He was a giver much more than it takes us.
+[01:37:00.159 --> 01:37:01.199]  People are crazy.
+[01:37:02.159 --> 01:37:04.239]  You don't know J.F. K Jr.
+[01:37:04.640 --> 01:37:06.159]  I talked to him last night.
+[01:37:06.800 --> 01:37:11.360]  And no matter how big Charlie became, no one was too small for him to notice.
+[01:37:11.600 --> 01:37:13.440]  He was good to everybody.
+[01:37:13.760 --> 01:37:14.800]  Didn't matter.
+[01:37:15.119 --> 01:37:24.079]  Several years ago, a fourth grader asked Charlie to appear on his podcast, which was probably only watched by the parents of that fourth grader.
+[01:37:24.720 --> 01:37:33.440]  And Charlie, who was actually pretty hot at the time, to be honest, he agreed, and the boy asked for advice.
+[01:37:33.680 --> 01:37:38.720]  Charlie replied, The left, the left, I call it the radical left.
+[01:37:38.960 --> 01:37:42.239]  I call it sometimes the radical left lunatics.
+[01:37:43.520 --> 01:37:44.800]  But Charlie didn't say that.
+[01:37:44.880 --> 01:37:46.320]  He called it the left.
+[01:37:47.600 --> 01:37:50.640]  He was probably right, but I can't help it.
+[01:37:51.920 --> 01:37:52.720]  I can't help.
+[01:37:57.119 --> 01:38:04.880]  So he said, the left, radical left lunatics, may have all the money in the world, but they can never outwork me.
+[01:38:05.520 --> 01:38:08.560]  I will wake up as early as I need to about himself.
+[01:38:08.880 --> 01:38:13.600]  I will stay up as late as I need to, and I will never stop fighting for our country.
+[01:38:14.239 --> 01:38:16.880]  And he did this until his dying breath.
+[01:38:17.039 --> 01:38:18.319]  That's what he was doing.
+[01:38:19.840 --> 01:38:20.880]  That's what he was doing.
+[01:38:21.039 --> 01:38:21.920]  Think of it.
+[01:38:23.119 --> 01:38:23.680]  Wow.
+[01:38:25.840 --> 01:38:27.440]  What a horrible moment.
+[01:38:27.600 --> 01:38:33.600]  I was in the Oval Office when I heard they came in, and it was like a surreal experience, a terrible, terrible.
+[01:38:34.079 --> 01:38:36.480]  Had some very big people in the Oval Office.
+[01:38:37.760 --> 01:38:43.920]  And I was in the midst of a very important conversation for our country, big people, the biggest.
+[01:38:44.560 --> 01:38:46.560]  And I said, you have to leave now.
+[01:38:47.199 --> 01:38:51.600]  When they told me that, they told me in front of a group of very powerful people.
+[01:38:51.920 --> 01:38:54.159]  I said, you have to leave now, right now, please.
+[01:38:54.480 --> 01:38:55.279]  Right now.
+[01:38:56.480 --> 01:38:57.359]  You have to leave.
+[01:38:57.600 --> 01:38:58.239]  Go.
+[01:38:59.840 --> 01:39:14.640]  By his own determination and skill, Charlie Kirk built turning point from his humble beginnings, the beginnings that nobody believed could ever end up something like this, into a great movement and a juggernaut of American politics.
+[01:39:14.800 --> 01:39:27.600]  And, you know, we have a massive stadium loaded up with people, but he got tremendous crowds before he had this kind of horrible news and before we had to hear what happened so terribly.
+[01:39:27.920 --> 01:39:35.279]  He delivered more than 250 speeches a year at over 200 colleges and universities.
+[01:39:35.600 --> 01:39:46.079]  And that was at a time when it was not really vogue to go to colleges and universities if you were a conservative.
+[01:39:46.159 --> 01:39:48.880]  It really took great courage.
+[01:39:49.199 --> 01:39:53.039]  And we used to talk, and I said, you know, I think they're much more conservative than we know.
+[01:39:53.119 --> 01:40:00.800]  And he agreed, but it just wasn't something that was happening because the radical left would do very bad things, very dangerous thing.
+[01:40:01.440 --> 01:40:10.000]  But Charlie set up chapters on 2,200 campuses and spoke at more than 1,000 churches.
+[01:40:11.199 --> 01:40:19.920]  He launched a podcast and radio show that grew to an audience of 1 million Americans a day, one of the bigger shows on radio.
+[01:40:20.239 --> 01:40:21.600]  Way bigger than that, Trump.
+[01:40:22.239 --> 01:40:23.199]  Drive 20 million a day.
+[01:40:24.159 --> 01:40:26.480]  Didn't just bring young people into the movement.
+[01:40:26.800 --> 01:40:30.880]  All of a sudden, it started to grow by leaps and bounds by 2024.
+[01:40:31.199 --> 01:40:40.720]  We won more young people than any Republican candidate in the history of our country, including for the first time a majority of males under 30.
+[01:40:40.880 --> 01:40:42.239]  Can you believe it?
+[01:40:45.680 --> 01:40:50.000]  Remember when Republican presidential candidates would get 4%?
+[01:40:51.279 --> 01:40:53.760]  No, we did unbelievably with young people.
+[01:40:54.079 --> 01:40:56.720]  And he was a big, big factor.
+[01:40:57.199 --> 01:40:59.440]  Meanwhile, we're having the memorial for Charlie Kirk.
+[01:40:59.520 --> 01:41:01.359]  Tens of thousands of leftists celebrating everywhere.
+[01:41:01.520 --> 01:41:03.119]  Democrats saying he deserved to die.
+[01:41:03.279 --> 01:41:07.760]  All of it, calling for more violence, more death, so that they can intimidate us in the silence.
+[01:41:07.840 --> 01:41:09.359]  Well, it certainly hasn't happened.
+[01:41:09.440 --> 01:41:19.760]  But now TikTok has created compilations of Democrats getting tattoos of Charlie Kirk being murdered.
+[01:41:20.079 --> 01:41:22.239]  Number one, Victory Royale.
+[01:41:22.480 --> 01:41:24.399]  What dumbasses.
+[01:41:25.440 --> 01:41:26.960]  There's a whole bunch of these online.
+[01:41:27.199 --> 01:41:28.159]  I mean, they really.
+[01:41:29.920 --> 01:41:37.840]  That'd be like the Pharisees that had Jesus killed by the Romans saying, putting tattoos on themselves, saying, man, we just beat this Jesus guy.
+[01:41:39.359 --> 01:41:42.480]  I mean, that is hilarious.
+[01:41:42.960 --> 01:41:49.840]  Or maybe the Japanese attacking Pearl Harbor and getting tattoos on their ass saying, boy, we just beat those Americans.
+[01:41:51.680 --> 01:41:52.880]  Yes, there's something else.
+[01:41:53.199 --> 01:41:57.279]  But that's why you're satanic, purple-haired, pedophile dumbasses.
+[01:41:57.920 --> 01:42:00.640]  You just don't know when you got a tiger by the tail.
+[01:42:00.800 --> 01:42:01.119]  Sorry.
+[01:42:01.440 --> 01:42:02.480]  Let's go back to Trump.
+[01:42:02.800 --> 01:42:10.319]  And rather strenuously in the crowd, and that actually made him feel good because he wanted to convince them.
+[01:42:10.640 --> 01:42:11.199]  He understood.
+[01:42:11.359 --> 01:42:11.840]  He really did.
+[01:42:11.920 --> 01:42:13.119]  He understood what was right.
+[01:42:13.279 --> 01:42:14.800]  And he was right about that.
+[01:42:15.359 --> 01:42:18.720]  A lot of it was based on common sense, by the way.
+[01:42:19.039 --> 01:42:25.279]  Charlie wrote back to the staff member saying, I'm not here to fight them.
+[01:42:25.520 --> 01:42:28.319]  I want to know them and love them.
+[01:42:28.480 --> 01:42:34.399]  And I want to reach them and try and lead them into a great way of life in our country.
+[01:42:35.039 --> 01:42:43.039]  In that private moment on his dying day, we find everything we need to know about who Charlie Kirk truly was.
+[01:42:43.199 --> 01:42:48.480]  He was a missionary with a noble spirit and a great, great purpose.
+[01:42:48.800 --> 01:42:50.560]  He did not hate his opponents.
+[01:42:50.800 --> 01:42:53.359]  He wanted the best of them.
+[01:42:53.520 --> 01:42:59.760]  They were literally bringing up trans shooters, trans mass murderers and political killings when he was killed.
+[01:43:01.920 --> 01:43:03.520]  I am sorry, Erica.
+[01:43:04.159 --> 01:43:11.440]  But now Erica can talk to me and the whole group, and maybe they can convince me that that's not right, but I can't stand my opponent.
+[01:43:14.640 --> 01:43:15.680]  Charlie's angry.
+[01:43:15.760 --> 01:43:16.159]  Look at that.
+[01:43:16.399 --> 01:43:17.760]  He's angry at me now.
+[01:43:18.720 --> 01:43:21.279]  He wasn't interested in demonizing anyone.
+[01:43:21.440 --> 01:43:30.159]  He was interested in persuading everyone to the ideas and principles he believed were good, right, and true.
+[01:43:31.039 --> 01:43:37.039]  Before each appearance, he prayed these words, God, use me for your will.
+[01:43:37.279 --> 01:43:38.320]  Always said the same thing.
+[01:43:38.640 --> 01:43:40.000]  Trump was looking rundown a few weeks ago.
+[01:43:40.079 --> 01:43:40.800]  He looks great.
+[01:43:41.119 --> 01:43:44.640]  He's going back and forth with a teleprompter with his own style and riff.
+[01:43:45.119 --> 01:43:46.159]  This is Peak Trump right now.
+[01:43:46.400 --> 01:43:48.000]  This is exactly what God did.
+[01:43:48.320 --> 01:43:50.880]  When you think, that's exactly what he did.
+[01:43:51.199 --> 01:43:58.880]  The more success Charlie had, and he was getting more and more successful, the more dangerous his mission became.
+[01:43:59.199 --> 01:44:01.440]  On campuses, all over the country, his questions.
+[01:44:01.760 --> 01:44:04.159]  Just like ours, that's why InfoWars needs your support, folks.
+[01:44:04.239 --> 01:44:05.440]  We're targeted as well.
+[01:44:05.760 --> 01:44:13.760]  And I said openly, I said, Charlie Herk and others are bigger targets now because they're out there out front, but we're here getting the word out, and we need your support, folks.
+[01:44:13.840 --> 01:44:14.320]  This is a war.
+[01:44:14.400 --> 01:44:15.360]  We're all in together.
+[01:44:16.320 --> 01:44:19.360]  I used to say, Charlie, this is nasty stuff you're doing.
+[01:44:20.000 --> 01:44:27.680]  At one event, police had to build barricades to protect students from an angry mob of thugs.
+[01:44:28.000 --> 01:44:30.960]  Many of these people, by the way, are paid a lot of money to do this.
+[01:44:31.039 --> 01:44:31.760]  They're agitators.
+[01:44:31.840 --> 01:44:32.239]  They're paid.
+[01:44:32.400 --> 01:44:33.119]  They're agitators.
+[01:44:33.279 --> 01:44:33.920]  Remember that?
+[01:44:34.560 --> 01:44:42.560]  When you see they all have the same beautifully printed sign, every sign is identical, comes out of a top-level print shop.
+[01:44:42.880 --> 01:44:45.840]  That's not the signs that are made in somebody's basement.
+[01:44:46.159 --> 01:44:49.039]  Those are paid for by very bad people.
+[01:44:49.279 --> 01:44:53.440]  And hopefully we're going to be finding out through the DOJ who those people are.
+[01:44:57.119 --> 01:44:58.000]  There we are.
+[01:44:58.880 --> 01:45:04.159]  At another college, Antifa terrorists, shattered windows, threw rocks and trumpets.
+[01:45:04.320 --> 01:45:05.199]  All right, let's hit pause here.
+[01:45:05.360 --> 01:45:06.079]  He's live right now.
+[01:45:06.159 --> 01:45:07.360]  We're about to start Sunday Night Live.
+[01:45:07.440 --> 01:45:09.039]  Chase Geyser is a load of Rebear.
+[01:45:09.520 --> 01:45:14.000]  He's up there really working great with the folks at Bigley that are keeping us on air back and forth between Austin.
+[01:45:14.159 --> 01:45:19.360]  Maybe he'll still be hosting when he's in Austin here in studio, but when he's up in Arkansas there, who knows?
+[01:45:19.440 --> 01:45:20.079]  Maybe I'll join him.
+[01:45:20.159 --> 01:45:21.440]  Maybe we'll move up there.
+[01:45:21.760 --> 01:45:25.199]  But the point is, is that, I know Chase loves that idea.
+[01:45:25.680 --> 01:45:28.640]  But seriously, ladies and gentlemen, I was like, yell at him more in the office.
+[01:45:28.800 --> 01:45:29.760]  No, no, seriously.
+[01:45:30.079 --> 01:45:30.880]  Chase is coming up.
+[01:45:30.960 --> 01:45:32.320]  But before I end this, I need to say this.
+[01:45:32.400 --> 01:45:36.239]  We're going to come back, finish up with what Trump's talking about, Antifa, declaring him a terror group.
+[01:45:36.320 --> 01:45:36.800]  This is key.
+[01:45:36.960 --> 01:45:37.680]  We hit pause.
+[01:45:37.840 --> 01:45:39.039]  We'll go to it.
+[01:45:40.560 --> 01:45:49.600]  But I got a call last night from Jack Pesobic, and he says, yeah, we see your viral post from an hour ago where you're quoting the TPUSA spokesperson, who, by the way, is a big fan of yours.
+[01:45:49.840 --> 01:45:50.159]  You've met him.
+[01:45:50.239 --> 01:45:50.480]  You've hung out.
+[01:45:50.640 --> 01:45:58.880]  We've had dinner with him, Andrew Colvett, where he's quoting the surgeon that attended to Charlie when he was brought in.
+[01:45:59.199 --> 01:46:00.960]  And he didn't want to give the details out.
+[01:46:01.199 --> 01:46:04.720]  So I understand how it looks a little weird that the bullet didn't go through.
+[01:46:04.880 --> 01:46:05.840]  You need to call him.
+[01:46:06.400 --> 01:46:08.960]  So I call him and he goes, listen, I don't want to give the details out.
+[01:46:09.039 --> 01:46:10.720]  I said, well, I can't help it if I'm explaining.
+[01:46:10.800 --> 01:46:12.960]  He goes, okay, fine, but it's really gruesome.
+[01:46:13.279 --> 01:46:19.279]  And he said that, again, he's being shot from down an angle.
+[01:46:19.920 --> 01:46:24.640]  It hits the spine and then bounces down, which is what it's going down.
+[01:46:24.720 --> 01:46:30.159]  And then it hits, it deflects with his philosophy, goes back into the spine, blows out six vertebras.
+[01:46:31.119 --> 01:46:32.239]  The bullet then shatters.
+[01:46:32.320 --> 01:46:33.520]  That's what they do.
+[01:46:33.840 --> 01:46:35.119]  I've shot wild hogs straight on.
+[01:46:35.199 --> 01:46:38.960]  This has happened and deer and then exploded into the heart and fragments shot up.
+[01:46:39.039 --> 01:46:43.680]  So he oversimplified when he said, oh, then they found the bullet up in the shoulder by the neck.
+[01:46:43.840 --> 01:46:45.680]  No, it was fragments.
+[01:46:46.000 --> 01:46:47.600]  And I'm sitting there listening to this in the car.
+[01:46:47.680 --> 01:46:51.280]  And I'm like, yeah, usually I shoot a deer hog, you know, in the shoulder.
+[01:46:51.360 --> 01:46:53.360]  If you got a clear shop in the woods, you only get a front shot.
+[01:46:53.520 --> 01:46:53.920]  I do it.
+[01:46:54.079 --> 01:46:54.880]  You hit him in the front.
+[01:46:54.960 --> 01:46:58.159]  I mean, it'll go in, back out the side, out the front.
+[01:46:58.320 --> 01:46:59.840]  I mean, it does wild stuff.
+[01:47:00.159 --> 01:47:07.119]  So I'm not saying this is absolutely the perfect answer to all this, but I've talked to FBI ballistics experts.
+[01:47:07.199 --> 01:47:08.159]  They said yes.
+[01:47:08.480 --> 01:47:09.600]  And I've seen it myself.
+[01:47:09.920 --> 01:47:10.880]  So that made a lot more sense.
+[01:47:11.039 --> 01:47:13.840]  So it didn't go through because, oh, yeah, think about it.
+[01:47:13.920 --> 01:47:18.239]  It's coming down at a major angle, then hits the bone and ricochets down.
+[01:47:18.560 --> 01:47:22.000]  And I've seen that happen many times where you go into the front of a mammal.
+[01:47:22.159 --> 01:47:25.760]  That's what he was, a great man, and then it bounces around.
+[01:47:26.079 --> 01:47:28.079]  So that's why you don't get the exit wound.
+[01:47:28.239 --> 01:47:28.880]  That's the report.
+[01:47:28.960 --> 01:47:30.100]  Chase Geyser takes over now.
+[01:47:30.510 --> 01:47:47.670]  Chase Geyser takes over now.
+[01:47:47.680 --> 01:47:51.760]  This is a little piece of art, a really nice memento.
+[01:47:52.400 --> 01:48:01.840]  And when you order for $100 an InfoWars war bond, it gets mailed to you with a one-time promo code you use.
+[01:48:02.159 --> 01:48:06.640]  So when I show these on air, whoever puts one of these in first gets $110.
+[01:48:07.119 --> 01:48:11.600]  But when it comes in the mail, you can use it once for $110 in the store.
+[01:48:11.920 --> 01:48:17.840]  And then it's a nice memento to know that you supported the operation in such a key critical time.
+[01:48:18.159 --> 01:48:20.480]  Alex Jones Warbond, $110.
+[01:48:21.280 --> 01:48:24.239]  Redeem your $110 war bond right now.
+[01:48:24.800 --> 01:48:29.280]  Just enter the gift code below at checkout, and it will then pay for your purchase.
+[01:48:29.360 --> 01:48:33.040]  And then you get to keep the war bond to hang on the wall, a nice little memento.
+[01:48:33.280 --> 01:48:35.760]  Get your Alex Jones war bonds right now.
+[01:48:35.920 --> 01:48:38.640]  And you have one, two, three, four, five, six, seven.
+[01:48:38.800 --> 01:48:46.640]  So $770 right here for whoever watching live puts in one of these codes first.
+[01:48:47.920 --> 01:48:50.480]  You get $110 to spend in the store.
+[01:48:50.800 --> 01:48:53.520]  But for everybody else, they also make great gifts.
+[01:48:53.840 --> 01:48:56.080]  You can also watch the show at thealxjonstore.com.
+[01:48:56.160 --> 01:49:02.480]  There's a listen live area right there with the streams, thealexjonesstore.com.
+[01:49:02.720 --> 01:49:15.920]  And even if the globals are successful at shutting down InfoWars, which they're not going to be, I believe, in a celebration of the Alex Jones store officially being open for business for one year, we're launching the Lipis Fire with its beauty one-year anniversary fundraiser sale for this week only.
+[01:49:16.160 --> 01:49:19.040]  All shirts and hats, which are $25, not $35 plus.
+[01:49:19.200 --> 01:49:23.840]  We're giving everyone a free $11 to spend on the store this week at checkout.
+[01:49:24.080 --> 01:49:25.120]  And it doesn't stop there.
+[01:49:25.360 --> 01:49:34.560]  All orders of Ultimate Burn, an incredible natural weight loss formula, are 50% off to celebrate the fire of Liberty burning within the heart of every InfoWarrior.

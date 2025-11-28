@@ -1,0 +1,654 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, and large-v3-turbo
+[00:00:00.240 --> 00:00:02.240]  Once again in the White House.
+[00:00:02.879 --> 00:00:08.720]  And second, I want to thank you for your friendship and for your leadership.
+[00:00:09.359 --> 00:00:19.199]  From Jerusalem to Tehran, from the Golan Heights to Gaza, you've proven time and again what I've said many times.
+[00:00:19.839 --> 00:00:24.560]  You are the greatest friend that Israel has ever had in the White House.
+[00:00:25.199 --> 00:00:30.160]  And Mr. President, you and I both know it's not even close.
+[00:00:31.679 --> 00:00:41.520]  While you focus at home on making America great again, your leadership abroad is changing the world for the better.
+[00:00:41.840 --> 00:00:45.280]  Ending wars and advancing peace.
+[00:00:46.560 --> 00:00:59.280]  I believe that today we're taking a critical step towards both ending the war in Gaza and setting the stage for dramatically advancing peace in the Middle East.
+[00:01:00.480 --> 00:01:02.399]  And I think beyond the Middle East.
+[00:01:03.039 --> 00:01:04.480]  Very important Muslim countries.
+[00:01:04.719 --> 00:01:10.159]  Now, if this international body succeeds, we will have permanently ended the war.
+[00:01:10.480 --> 00:01:16.480]  Israel will conduct further withdrawals linked to the extent of disarmament and dealing with the people.
+[00:01:16.719 --> 00:01:20.640]  As Scalzen predicted before this even started, he said, I don't believe a deal's been made with Hamas.
+[00:01:20.879 --> 00:01:21.760]  It was put out like it was.
+[00:01:21.920 --> 00:01:24.159]  Now the White House has said, no, it hasn't.
+[00:01:24.239 --> 00:01:28.480]  So if Hamas doesn't agree, Trump just gave a total green light.
+[00:01:28.799 --> 00:01:30.000]  We're down on the club right now.
+[00:01:30.079 --> 00:01:31.040]  Do we have it yet?
+[00:01:31.920 --> 00:01:33.040]  We have it to destroy them.
+[00:01:33.280 --> 00:01:34.960]  So, and I don't like Hamas.
+[00:01:35.040 --> 00:01:35.680]  I don't like Islam.
+[00:01:35.760 --> 00:01:36.159]  You all know that.
+[00:01:36.320 --> 00:01:38.560]  The point is, they're acting like this is a peace deal.
+[00:01:38.879 --> 00:01:41.040]  This is just a deal to make it look right.
+[00:01:41.359 --> 00:01:43.680]  So they can finish it off, as our guest said almost an hour ago.
+[00:01:43.760 --> 00:01:45.120]  Here's a club of Trump.
+[00:01:45.439 --> 00:01:46.960]  A lot of our leaders are here.
+[00:01:47.120 --> 00:01:52.400]  Our great vice president, Susie Wiles, Steve Witkoff, Jared Kushner.
+[00:01:52.719 --> 00:01:56.560]  They've been so involved in this process.
+[00:01:56.719 --> 00:02:00.560]  I don't think anybody else could have done it or even come close.
+[00:02:00.719 --> 00:02:02.640]  But we're right there.
+[00:02:02.960 --> 00:02:03.519]  We're right there.
+[00:02:03.840 --> 00:02:14.879]  First time in thousands of years, I think you can probably say, if you really look into it, if you study back, if you're a scholar, you would say thousands of years.
+[00:02:15.199 --> 00:02:24.479]  Israel would have my full backing to finish the job of destroying the threat of Hamas.
+[00:02:24.800 --> 00:02:29.120]  But I hope that we're going to have a deal for peace.
+[00:02:29.759 --> 00:02:35.200]  And if Hamas rejects the deal, which is always possible, they're the only one left.
+[00:02:35.360 --> 00:02:37.280]  Everyone else has accepted it.
+[00:02:37.920 --> 00:02:41.920]  But I have a feeling that we're going to have a positive answer.
+[00:02:42.240 --> 00:02:48.159]  But if not, as you know, Bibi you'd have Marfau back in to do what you would have to do.
+[00:02:48.479 --> 00:02:48.719]  All right.
+[00:02:48.879 --> 00:02:50.400]  So there is a big takeaway.
+[00:02:50.719 --> 00:02:54.560]  Trump says he's got the Arab nations and Saudi Arabia and all of them on board.
+[00:02:54.800 --> 00:03:00.159]  That if they don't take this deal, then they're going to completely obliterate it and totally take it over regardless.
+[00:03:00.319 --> 00:03:05.280]  So either your brains or your signature will be on this contract.
+[00:03:05.520 --> 00:03:06.960]  Joel Scowlson, what do you make of this?
+[00:03:07.200 --> 00:03:13.120]  Well, first of all, you notice how Netanyahu spent the first two minutes just flattering Trump to death.
+[00:03:13.439 --> 00:03:19.920]  Everybody knows that he's a sucker for flattery, and they deal it out without stopping.
+[00:03:20.240 --> 00:03:21.680]  You are the great salvation.
+[00:03:21.840 --> 00:03:23.039]  You are the great peacemaker.
+[00:03:23.439 --> 00:03:24.719]  This wouldn't happen without you.
+[00:03:24.879 --> 00:03:26.640]  And Trump starts to brag about it.
+[00:03:26.719 --> 00:03:28.240]  This would never happen without me.
+[00:03:28.560 --> 00:03:29.599]  Well, it's not going to happen.
+[00:03:29.759 --> 00:03:38.400]  You know, you talk about thousands of years, how many peace deals, how many wars have ended between Arabs and Israelis, and it's still going on.
+[00:03:38.719 --> 00:03:39.280]  It will never happen.
+[00:03:39.439 --> 00:03:41.920]  That was going on in the Bible thousands of years ago.
+[00:03:42.240 --> 00:03:42.719]  Right.
+[00:03:43.360 --> 00:03:43.920]  That's right.
+[00:03:44.159 --> 00:03:55.759]  Ever since, you know, Abraham, you know, Isaac and Jacob and all of the Arab half-brothers and things, they've been at each other's throats for centuries, and I don't think it's ever going to stop.
+[00:03:56.080 --> 00:04:04.159]  So, you know, this is something for Trump to pat himself on the back, but believe me, he's given a carte blanche to Netanyahu to go back in.
+[00:04:04.240 --> 00:04:08.879]  Now, remember, I don't think Netanyahu is capable of destroying Hamas.
+[00:04:09.439 --> 00:04:12.400]  If he hasn't done it in a year and a half, he's not going to.
+[00:04:12.480 --> 00:04:20.560]  And the reason is it's because of this philosophical problem that the Jews have about no resurrection, or at least the majority of Jews.
+[00:04:20.879 --> 00:04:26.000]  They are so afraid of killing and the unpopularity of getting Israeli soldiers killed.
+[00:04:26.240 --> 00:04:37.199]  You know, most of them are reservists, that they just cannot commit to the type of obliterating campaign it would take to really go in and kill Hamas without killing a lot of civilians.
+[00:04:37.519 --> 00:04:42.720]  They've taken the civilian death pass of just bombing their way in, and it doesn't work.
+[00:04:43.040 --> 00:04:45.199]  Hamas is underground.
+[00:04:45.519 --> 00:04:53.680]  And I don't think the Arabs have a chance of going in there with an international incompetent force and finding what the Israeli IDF couldn't find.
+[00:04:54.400 --> 00:05:03.280]  The government fears Alex Jones, who has the largest audience in the country, bigger than any of the networks, the biggest megaphone in the country.
+[00:05:03.519 --> 00:05:06.800]  The deep state hates Alex Jones with a vengeance.
+[00:05:07.120 --> 00:05:10.079]  Alex Jones is the most extraordinary person I've ever met.
+[00:05:13.600 --> 00:05:14.560]  Guys, put it back on screen.
+[00:05:14.720 --> 00:05:16.960]  Looks like Netanyahu and Trump are about to come out.
+[00:05:17.280 --> 00:05:19.280]  We've got to have this announcement on Gaza.
+[00:05:19.439 --> 00:05:20.079]  Joel, stay there.
+[00:05:20.160 --> 00:05:21.600]  We'll go a little bit the next hour if you can do it.
+[00:05:21.840 --> 00:05:22.879]  And we'll have you back next week.
+[00:05:23.120 --> 00:05:27.040]  Gosh, we've got to make up for lost time, but let's punch this up as soon as they come out.
+[00:05:27.519 --> 00:05:30.639]  I'm not so interested in the press conference because I don't want to waste our time on that.
+[00:05:30.960 --> 00:05:38.000]  But I do want to see because normally Trump meets 10, 20, 30 minutes with a world leader before they go out to the press conference.
+[00:05:38.080 --> 00:05:38.960]  It's already been agreed on.
+[00:05:39.199 --> 00:05:42.319]  They've been meeting basically every two weeks since Trump got in.
+[00:05:42.639 --> 00:05:44.960]  I think it's like five, six meetings this last two months.
+[00:05:45.680 --> 00:05:49.759]  As Trump tries to get this deal, I don't think Netanyahu is going to do it.
+[00:05:50.400 --> 00:05:52.400]  He's got more power in Congress than Trump does.
+[00:05:52.720 --> 00:05:57.439]  But while we're waiting, shifting gears out of the Charlie Kirk thing, guys, let's skip this network break.
+[00:05:57.759 --> 00:06:04.800]  I mean, our stations will still probably playovers, but let's, if we can, just three minutes notice, skip this, so I want to get this announcement, and I don't want to cut any time here.
+[00:06:05.120 --> 00:06:07.920]  Overall, what do you make of the Netanyahu phenomenon?
+[00:06:08.160 --> 00:06:15.360]  October 7th, I think, a clear stand down and this sensational hysteria that's anti-Israel now.
+[00:06:15.519 --> 00:06:16.560]  I don't think he'll disagree.
+[00:06:16.720 --> 00:06:18.080]  Where is all that going?
+[00:06:19.519 --> 00:06:25.680]  Well, it's clear that this was a provoked attack by Netanyahu.
+[00:06:25.920 --> 00:06:27.200]  There was a standdown order.
+[00:06:27.360 --> 00:06:32.000]  80% of the Gaza Brigade was pulled out of southern Israel.
+[00:06:32.319 --> 00:06:37.759]  They shut down the electronic monitoring and the fence, or at least they weren't going to monitor it.
+[00:06:38.240 --> 00:06:47.360]  They were still getting the information because one of the monitoring guys blew the whistle on him and said, I kept telling him that someone was breaking through the fence and they kept shutting me off.
+[00:06:48.160 --> 00:06:51.280]  Just an awful lot of evidence of a stand down on this.
+[00:06:51.840 --> 00:06:57.600]  So, you know, they called it Israel's 9-11 or Israel's Pearl Harbor.
+[00:06:57.759 --> 00:07:06.960]  And yeah, it was in the sense that both of those were done by the American deep state and provoked so that we could get ourselves into World War II.
+[00:07:07.120 --> 00:07:16.320]  And Netanyahu, I think, did this so that he could have an excuse to go in and, well, primarily he said to go in and eradicate Hamas.
+[00:07:16.399 --> 00:07:20.240]  But as I said in the World Affairs Brief, there's no way they're going to eradicate Hamas.
+[00:07:20.399 --> 00:07:28.879]  When you kill as many civilians as they killed in Gaza, you're going to generate more hatred against Israel than any number of people that you kill.
+[00:07:29.120 --> 00:07:33.279]  And they're going to repopulate the entire terrorist community within Gaza.
+[00:07:33.600 --> 00:07:47.119]  So now it really appears that they want to actually extricate, take the Gazans and farm them out to other countries and take over Gaza and use it for their own, you know, development.
+[00:07:47.340 --> 00:07:49.000]  And Trump fell into that trap.
+[00:07:49.359 --> 00:07:50.139]  Stay there.
+[00:07:50.179 --> 00:07:50.959]  I want your analysis.
+[00:07:51.200 --> 00:07:52.639]  They're coming in live right now.
+[00:07:52.800 --> 00:07:56.000]  Let's go to the White House to see what this announcement.
+[00:07:56.320 --> 00:08:00.160]  They're two and a half hours behind when they were supposed to make the announcement.
+[00:08:00.399 --> 00:08:02.000]  So I don't think.
+[00:08:02.720 --> 00:08:04.240]  Thank you very much, everybody.
+[00:08:05.840 --> 00:08:14.399]  So this is a big, big day, a beautiful day, potentially one of the great days ever in civilization.
+[00:08:15.600 --> 00:08:26.879]  Things that have been going on for hundreds of years and thousands of years, we're going to, at least we're at a minimum, very, very close, and I think we're beyond very close.
+[00:08:27.200 --> 00:08:32.160]  And I want to thank Bibi for really getting in there and doing a job.
+[00:08:32.480 --> 00:08:42.480]  We worked well together, as we have with many other countries, both of us, with many other countries, which is the only way this whole situation gets solved.
+[00:08:43.120 --> 00:08:44.799]  And I'm not just talking about Gaza.
+[00:08:44.879 --> 00:08:47.920]  Gaza is one thing, but we're talking about much beyond Gaza.
+[00:08:48.799 --> 00:08:52.720]  The whole deal, everything getting solved.
+[00:08:52.879 --> 00:08:55.680]  It's called peace in the Middle East.
+[00:08:56.960 --> 00:08:58.399]  By the way, the public leaked.
+[00:08:58.639 --> 00:08:59.680]  This is a historic day for people.
+[00:09:01.600 --> 00:09:02.160]  A red shot.
+[00:09:02.639 --> 00:09:12.879]  And I have just leaked an important meeting on many vital issues, including Iran, trade, the expansion of the Abraham Accords.
+[00:09:13.440 --> 00:09:24.000]  And most importantly, we discussed how to end the war in Gaza, but it's just a part of the bigger picture, which is peace in the Middle East.
+[00:09:24.639 --> 00:09:24.960]  This race.
+[00:09:25.360 --> 00:09:28.400]  Let's call it eternal peace in the Middle East.
+[00:09:29.039 --> 00:09:32.400]  So this is far more than anybody expected.
+[00:09:32.559 --> 00:09:38.879]  But the level of support that I've had from the nations in the Middle East and surrounding East.
+[00:09:39.200 --> 00:09:40.480]  Occupying Gaza, put a new government.
+[00:09:40.640 --> 00:09:42.080]  The peace of Israel has been incredible.
+[00:09:45.040 --> 00:09:55.519]  This afternoon, after extensive consultation with our friends and partners throughout the region, I'm formally releasing our principles for peace, which people have really liked, I must say.
+[00:09:57.280 --> 00:09:59.440]  These are done, not just routinely done.
+[00:09:59.600 --> 00:10:07.519]  These are done with total and total consideration and nations that we're talking about.
+[00:10:07.840 --> 00:10:13.040]  All these nations have made contributions to those suggestions.
+[00:10:13.360 --> 00:10:22.879]  I want to thank the leaders of many Arab and Muslim nations for their tremendous support the proposal along with many of our allies in Europe.
+[00:10:23.200 --> 00:10:25.519]  Muslims have been very much involved.
+[00:10:25.840 --> 00:10:31.120]  And as I was called by many of the European leaders, most of them saying, is this true?
+[00:10:31.440 --> 00:10:34.000]  Are you really doing peace in the Middle East?
+[00:10:34.160 --> 00:10:36.800]  This is the most incredible thing we've heard.
+[00:10:37.120 --> 00:10:38.560]  Some think it's the biggest thing they've ever heard.
+[00:10:39.600 --> 00:10:44.080]  They called just to find out what's the rumor or done.
+[00:10:44.720 --> 00:10:47.200]  And then they said, have you spoken to the Arab leaders?
+[00:10:47.360 --> 00:10:50.640]  Have you spoken to all of the other leaders that we have to get?
+[00:10:50.800 --> 00:10:52.960]  A lot of people are involved in this one.
+[00:10:53.280 --> 00:11:12.160]  I also want to thank Prime Minister Netanyahu for agreeing to the plan and for trusting that if we work together we can bring an end to the death and destruction that we've seen for so many years, decades, even centuries, and begin a new chapter of security, peace, and prosperity for the entire region.
+[00:11:12.480 --> 00:11:24.400]  And I want to just say that my meetings and dialogue so many countries, Saudi Arabia, as an example, the king is a president of the United States.
+[00:11:27.519 --> 00:11:31.600]  The emir of Qatar, who's these incredible people.
+[00:11:32.240 --> 00:11:35.600]  UOE, and that's MBZ and ABZ.
+[00:11:37.280 --> 00:11:38.720]  We've totally involved.
+[00:11:38.879 --> 00:11:45.600]  These are the people that we've been dealing with and who've been actually very much involved in this negotiation.
+[00:11:47.680 --> 00:11:48.400]  And they're not going to be able to do with things they can.
+[00:11:48.800 --> 00:11:50.240]  And then they continue.
+[00:11:51.519 --> 00:11:52.160]  I mean, after the USA.
+[00:11:52.320 --> 00:11:53.680]  And Hamas thinks things are.
+[00:11:53.920 --> 00:11:56.480]  Well, they'll keep the hostages because they work for Netanyahu, basically.
+[00:11:58.720 --> 00:12:00.800]  The King of Jordan was with us.
+[00:12:01.120 --> 00:12:12.480]  As you know, in the United Nations, president of Turkey, President Erdogan, is a friend of mine, strong man, but a good man.
+[00:12:13.040 --> 00:12:18.320]  President of Indonesia, somebody who's an amazing leader.
+[00:12:20.160 --> 00:12:22.720]  Prabo, he is an amazing person.
+[00:12:25.519 --> 00:12:30.640]  So I know you want to be respectful of the president, but at the same time, you're welcome with your open mic if you want to comment on any of those.
+[00:12:31.360 --> 00:12:33.279]  As soon as he starts saying something substantive, we'll go to it.
+[00:12:33.440 --> 00:12:35.220]  The White House just released the plan, actually.
+[00:12:36.940 --> 00:12:42.799]  Well, you know, Trump can dish out the flattery as much as he is susceptible to flattery.
+[00:12:43.680 --> 00:12:47.440]  And it seems like, you know, he doesn't learn until someone betrays him.
+[00:12:47.519 --> 00:12:56.880]  Like Putin has just literally slapped him in the face after flattering him to death in Alaska so that he'd come away bragging about the wonderful relationship he had Putin.
+[00:12:56.960 --> 00:13:00.160]  And now he says Putin betrayed him and Putin's lied to him.
+[00:13:00.320 --> 00:13:01.360]  Well, we always knew that.
+[00:13:01.600 --> 00:13:13.120]  Putin has always been ruthless ever since I explained to Owen Schroer on your show three years ago that Putin and the Soviet Union faked their own demise in 2015.
+[00:13:14.320 --> 00:13:17.759]  And the globalists in the West went along with it.
+[00:13:17.920 --> 00:13:19.440]  They were still in the protection mode.
+[00:13:21.360 --> 00:13:22.640]  But this was predictable.
+[00:13:22.800 --> 00:13:26.240]  I've said it for years in the world of this great, that Russia's not the good guy.
+[00:13:27.440 --> 00:13:36.080]  Unfortunately, many conservatives, after the phony war on terror, got the idea that anyone that the globalists and neocons were against must be a good guy.
+[00:13:36.320 --> 00:13:39.360]  No, no, I mean, I see your perspective, and I agree with it in many ways.
+[00:13:39.840 --> 00:13:42.400]  But in general, I'm waiting for Trump to say something substantive.
+[00:13:42.960 --> 00:13:44.400]  The White House already put the plan out.
+[00:13:44.720 --> 00:13:46.560]  I already kind of read over some of those.
+[00:13:46.880 --> 00:13:52.640]  Maybe we should just turn this off and analyze it, but it's going to be very interesting to see the comments and things from the press.
+[00:13:52.960 --> 00:13:54.880]  Let's see if Trump's saying anything now of substance.
+[00:13:55.279 --> 00:13:57.360]  It is so important to the parents.
+[00:13:57.680 --> 00:14:07.920]  The bodies of the young men, I believe in almost all cases, the young men are coming back immediately.
+[00:14:08.240 --> 00:14:20.000]  I met with parents, the parents felt as strongly about getting the body of their dead boy back as they did as though the boy were alive and well.
+[00:14:21.519 --> 00:14:23.200]  It's so important to them.
+[00:14:23.759 --> 00:14:29.279]  And it means the immediate end to the war itself, not just Gaza.
+[00:14:30.160 --> 00:14:31.519]  It's the war itself.
+[00:14:31.920 --> 00:14:40.720]  Under the plan, Arab and Muslim countries have committed, and in writing in many cases, but I actually would take their word for it.
+[00:14:40.800 --> 00:14:46.080]  The people I mentioned, I take their word for it, to demilitarize Gaza.
+[00:14:46.399 --> 00:14:55.360]  And that's quickly decommission the military capabilities of Hamas and all other terror organizations.
+[00:14:55.680 --> 00:14:56.800]  Do that immediately.
+[00:14:57.120 --> 00:14:58.560]  Yeah, so he's reading off this plan.
+[00:14:59.040 --> 00:14:59.680]  We already have the plan.
+[00:14:59.759 --> 00:15:00.000]  There it is.
+[00:15:01.200 --> 00:15:05.840]  The White House has released President Trump's plan to redevelop Gaza, following peace deal.
+[00:15:07.440 --> 00:15:08.639]  I'll continue with Trump.
+[00:15:09.040 --> 00:15:10.160]  That's a good thing.
+[00:15:10.480 --> 00:15:17.279]  And destroy all terror infrastructure, including the tunnels, weapons of production facilities.
+[00:15:17.440 --> 00:15:20.560]  They have a lot of production facilities that we're destroying.
+[00:15:20.879 --> 00:15:37.279]  They'll also help train local police forces in the areas that we're discussing right now, in particular in and around Gaza, working with the Israel.
+[00:15:40.480 --> 00:15:42.879]  I don't see how Hamas is going to accept this.
+[00:15:43.200 --> 00:15:48.080]  They're basically saying, turn over all your weapons, give up, and we'll give you amnesty.
+[00:15:48.400 --> 00:15:51.360]  But Hamas is never going to accept this.
+[00:15:51.680 --> 00:16:02.080]  And I don't know how the Arab international peacekeeping force is going to do what the Israeli army, the best in the world, couldn't do in terms of eradicating Hamas.
+[00:16:02.240 --> 00:16:02.320]  Sure.
+[00:16:02.400 --> 00:16:04.160]  Well, Trump's acting like he's got an agreement.
+[00:16:04.240 --> 00:16:04.879]  Here's my issue.
+[00:16:05.120 --> 00:16:07.600]  Israel helped create Hamas in the 80s.
+[00:16:08.240 --> 00:16:09.759]  Netyan was your biggest benefactor.
+[00:16:09.920 --> 00:16:10.639]  They stood down then.
+[00:16:10.720 --> 00:16:12.320]  They've killed a lot of the leadership now.
+[00:16:13.040 --> 00:16:16.720]  I don't think Israel ran it, but they had kind of a sick-the-scenes relationship.
+[00:16:17.440 --> 00:16:25.440]  I think whoever is behind what's left in Hamas is being offered a deal for a bunch of money to sell it and turn it into a multinational zone.
+[00:16:25.759 --> 00:16:26.960]  What do you say to that?
+[00:16:27.840 --> 00:16:31.200]  Yeah, anything's possible here, but Hamas haters is so much.
+[00:16:31.279 --> 00:16:36.800]  The only way that they would agree to that is to buy time in order to attack again from another position.
+[00:16:38.080 --> 00:16:48.879]  You know, I don't think there's enough money or time given the imminency of World War III and China, you know, coming against the West to be able to finish this.
+[00:16:49.200 --> 00:16:50.720]  Sure, so what do you think Trump's doing?
+[00:16:50.879 --> 00:16:52.480]  Just searching after a peace prize?
+[00:16:52.640 --> 00:16:53.680]  This is just a stunt?
+[00:16:54.000 --> 00:16:54.720]  Oh, yeah, yeah.
+[00:16:54.879 --> 00:16:57.040]  You know, Trump is a peace at any cost person.
+[00:16:57.360 --> 00:17:00.879]  The only thing that drives him back to reality is betrayal.
+[00:17:01.200 --> 00:17:07.759]  Like Putin continued to devastate Ukraine despite all the overtures, despite all the promises.
+[00:17:08.079 --> 00:17:10.400]  And let's get to the moment then.
+[00:17:10.480 --> 00:17:11.200]  Let's get to that in a moment.
+[00:17:11.279 --> 00:17:12.559]  Let's go back a little bit more, Trump.
+[00:17:12.880 --> 00:17:17.200]  But I hope that we're going to have a deal for peace.
+[00:17:17.840 --> 00:17:23.200]  And if Hamas rejects the deal, which is always possible, they're the only one left.
+[00:17:23.440 --> 00:17:24.240]  Everyone else is accepted.
+[00:17:26.000 --> 00:17:30.000]  But I have a feeling that we're going to have a positive answer.
+[00:17:30.319 --> 00:17:36.400]  But if not, as you know, Bibi you'd have our full backing to do what you would have to do.
+[00:17:36.720 --> 00:17:43.599]  Everyone understands that the ultimate result must be the elimination of any danger posed in the region.
+[00:17:44.799 --> 00:17:48.400]  And that danger is caused by Hamas.
+[00:17:48.799 --> 00:17:50.640]  The tyranny of terror has to end.
+[00:17:50.799 --> 00:17:54.559]  And this is, again, something that we're looking for.
+[00:17:54.640 --> 00:17:55.599]  This is eternity.
+[00:17:55.840 --> 00:17:58.240]  This is for forever.
+[00:17:58.559 --> 00:17:58.880]  All right.
+[00:17:58.960 --> 00:18:01.599]  So it's just like Joel said seconds ago, this is not agreed to.
+[00:18:01.759 --> 00:18:02.640]  Trump has confirmed it.
+[00:18:02.799 --> 00:18:06.000]  This is more him trying to get a deal, which I understand I'm not against.
+[00:18:06.480 --> 00:18:07.440]  We want peace.
+[00:18:08.079 --> 00:18:10.160]  But I don't see this being accepted.
+[00:18:10.240 --> 00:18:18.799]  And so Netanyahu's agreed to something he knows they're not going to accept because he wants to continue the war as well, because that helps him stay in an emergency situation to stay in power.
+[00:18:18.880 --> 00:18:22.320]  And he said, well, investigate October 7th stand down once the war is over.
+[00:18:22.559 --> 00:18:26.880]  But he has every intention of this war continuing forever, not just against Hamas, but the entire region.
+[00:18:27.120 --> 00:18:28.160]  Joel Scalzum.
+[00:18:28.799 --> 00:18:30.160]  Yeah, absolutely true.
+[00:18:31.279 --> 00:18:35.680]  You know, he's going to hide behind this agreement saying, well, I was in agreement with it.
+[00:18:35.759 --> 00:18:36.960]  We tried, and it was Hamas.
+[00:18:37.120 --> 00:18:41.039]  So it's going to justify more depreciation in Gaza.
+[00:18:42.000 --> 00:18:47.759]  You know, if they haven't been able to eliminate Hamas in a year and a half of warfare, I don't see it coming.
+[00:18:47.920 --> 00:18:49.200]  And I predicted that would happen.
+[00:18:49.360 --> 00:18:50.880]  You're not going to eliminate Hamas.
+[00:18:51.120 --> 00:18:54.240]  And you're never, never going to have peace in the Middle East.
+[00:18:54.400 --> 00:18:55.440]  There is too much hatred.
+[00:18:55.599 --> 00:18:57.680]  I've been there many, many times.
+[00:18:58.000 --> 00:19:08.960]  And, you know, the Arab mentality is one that's very, very difficult to control when you propagandize children from very, very young.
+[00:19:09.279 --> 00:19:15.279]  But, you know, the kinds of things that Israel has done in indiscriminate bombing has just enlivened that hatred.
+[00:19:15.440 --> 00:19:18.160]  And I don't believe there's no way it's going away.
+[00:19:18.720 --> 00:19:21.120]  So I think this is a pipe dream.
+[00:19:21.440 --> 00:19:23.840]  It's going to get crushed by reality.
+[00:19:24.320 --> 00:19:33.519]  If it does last or start for a little while, it'll only be because Hamas wants to have a breathing room to regroup.
+[00:19:33.680 --> 00:19:51.680]  But remember, the Netanyahu is on his last, you know, he's really unpopular in Israel because of these deaths that are happening within, even though they're saving soldiers' lives by, you know, taking out civilians to spare soldiers.
+[00:19:52.000 --> 00:19:56.400]  You've got to remember that the Jews have a very ambivalent view of the resurrection.
+[00:19:56.720 --> 00:19:58.960]  Only a few of them really believe in a resurrection.
+[00:19:59.200 --> 00:20:03.920]  That's why to them, this death and getting the body back is such a big deal.
+[00:20:04.160 --> 00:20:05.200]  And it's very, very sad.
+[00:20:05.360 --> 00:20:10.560]  They'll give hundreds of hostages just to get apart or prisoners.
+[00:20:10.880 --> 00:20:14.640]  You're saying a lot of the Jewish sectors don't believe, don't believe in eternal life.
+[00:20:14.960 --> 00:20:15.519]  That's right.
+[00:20:15.759 --> 00:20:16.720]  Absolutely.
+[00:20:17.360 --> 00:20:21.840]  Yeah, and that's why there's this weeping and wailing of gnashing of teeth when there's death.
+[00:20:22.160 --> 00:20:25.440]  And that's why they do anything to get a dead body back.
+[00:20:25.759 --> 00:20:28.800]  To them, it's just a dead body is nothing but a husk.
+[00:20:29.280 --> 00:20:29.840]  That's not the soul.
+[00:20:30.080 --> 00:20:30.400]  That's right.
+[00:20:30.640 --> 00:20:30.880]  Yeah.
+[00:20:31.360 --> 00:20:35.840]  So they have a very weak understanding of the soul and life after death and other things.
+[00:20:35.920 --> 00:20:37.120]  That didn't say to all Jews.
+[00:20:38.000 --> 00:20:42.080]  Some of the fundamentalist Jews are strong in that regard, but none of the secular.
+[00:20:42.400 --> 00:20:47.600]  Yeah, people don't understand the Judaism of the last thousand years has nothing to do with the Old Testament.
+[00:20:48.080 --> 00:20:49.519]  People don't, I'm not against Jews in general.
+[00:20:49.600 --> 00:20:55.440]  I'm just, it's like Babylonian and just like, they're not even, it's, it's crazy.
+[00:20:56.720 --> 00:21:00.080]  Yeah, it's all about the Talmud and it's all about interpretation.
+[00:21:00.240 --> 00:21:10.960]  They spend all of their days, the intellectuals and in the uh in the Sephardic and other types of communities just studying uh Talmudic interpretation.
+[00:21:13.759 --> 00:21:19.440]  I don't know, it's not a religion that we would recognize either from the Old Testament or from a Christian point of view.
+[00:21:20.080 --> 00:21:20.800]  Pretty scary.
+[00:21:21.120 --> 00:21:22.880]  Let's has Netanyahu started talking yet.
+[00:21:23.120 --> 00:21:24.000]  Let's go back to Trump.
+[00:21:24.880 --> 00:21:32.000]  Prime Ministers for years and during this time, having to do with the Middle East, all they're doing is talking about the same thing over and over.
+[00:21:32.160 --> 00:21:33.519]  They want to see it get back.
+[00:21:33.840 --> 00:21:38.240]  And nobody wants that more than me, or I believe Bibi, too.
+[00:21:38.560 --> 00:21:40.160]  But the people of Israel want it.
+[00:21:40.400 --> 00:21:41.200]  They really want it.
+[00:21:41.360 --> 00:21:42.960]  They want the hostages back.
+[00:21:43.519 --> 00:21:47.519]  That includes the probably 32 bodies that we're talking about.
+[00:21:47.759 --> 00:21:53.600]  Again, if you don't believe there's a soul, then what is the soul in the body?
+[00:21:54.320 --> 00:21:55.440]  Is it like Egyptian?
+[00:21:56.400 --> 00:21:59.039]  No, it's just possessing the body as a fetish with them.
+[00:21:59.120 --> 00:22:00.080]  They've got to have the body back.
+[00:22:00.400 --> 00:22:05.519]  Palestinian people, Israel withdrew from Gaza thinking they would live in peace.
+[00:22:05.759 --> 00:22:08.000]  Remember that a long time ago, they withdrew.
+[00:22:08.160 --> 00:22:09.840]  They said, you take it.
+[00:22:10.160 --> 00:22:12.240]  This is our contribution to peace.
+[00:22:12.480 --> 00:22:13.759]  But that didn't work out.
+[00:22:14.400 --> 00:22:15.360]  That didn't work out.
+[00:22:15.519 --> 00:22:17.440]  It was the opposite of peace.
+[00:22:18.080 --> 00:22:19.440]  They pulled away.
+[00:22:19.600 --> 00:22:21.440]  They let them have it.
+[00:22:21.759 --> 00:22:28.000]  And I never forgot that because I said, that doesn't sound like a good deal to me as a real estate person.
+[00:22:28.160 --> 00:22:30.320]  I mean, they gave up the ocean, right?
+[00:22:30.960 --> 00:22:32.640]  Ron, they gave up the oceans.
+[00:22:32.720 --> 00:22:34.560]  They said, who would do this deal?
+[00:22:34.880 --> 00:22:35.840]  By the way, we now learn.
+[00:22:36.240 --> 00:22:36.960]  It still didn't work out.
+[00:22:37.440 --> 00:22:44.240]  Trump made Netanyahu apologize to Prime Minister Qatar for luring him to a peace deal and blowing up the leaders of Hamas.
+[00:22:45.519 --> 00:22:47.920]  So, I mean, look at Netanyahu's face in this photo, though.
+[00:22:48.000 --> 00:22:51.519]  I mean, this is just completely insane.
+[00:22:53.039 --> 00:22:55.200]  Well, he's a slick deceiver.
+[00:22:58.480 --> 00:23:00.320]  Got to remember, he's a Kissinger protege.
+[00:23:00.400 --> 00:23:06.320]  Kissinger and associates paid for his education in the U.S. Explain who Netanyahu is.
+[00:23:07.039 --> 00:23:09.920]  And then as soon as, maybe a little bit of the next tire, we got to go understand.
+[00:23:10.000 --> 00:23:12.960]  But I don't want to cut you short on Russia because you have to understand.
+[00:23:13.200 --> 00:23:15.200]  I'm not a Russia file.
+[00:23:16.000 --> 00:23:17.280]  I'm not a Russia phobe.
+[00:23:17.440 --> 00:23:21.519]  I understand they've got their issues and their plan and their, you know, their own predator state.
+[00:23:21.840 --> 00:23:26.080]  But you got NATO expanding and all this stuff and, you know, all the things it's doing.
+[00:23:26.560 --> 00:23:28.640]  I just don't want to have a nuclear war with these people.
+[00:23:28.880 --> 00:23:30.320]  I know you've been predicting it for decades.
+[00:23:30.400 --> 00:23:31.120]  So here we are.
+[00:23:31.280 --> 00:23:34.160]  So I want you to get to that and why Trump's made this pivot now.
+[00:23:34.640 --> 00:23:39.280]  But specifically, tell us about Benjamin Yetanyahu, who this guy really is.
+[00:23:40.240 --> 00:23:42.960]  Well, this is a globalist protege.
+[00:23:44.720 --> 00:23:47.440]  They've cultivated this guy from the very beginning.
+[00:23:47.760 --> 00:23:55.840]  They brought him to the United States, gave him a special visa, sponsored by Henry Kissinger and associates.
+[00:23:56.160 --> 00:24:18.720]  They paid for his education in the United States, tutored by globalists, set him up in Wall Street to make a lot of money, and then set him up in politics in Israel by sending him back to Israel, where he immediately hosted a major worldwide anti-terrorism conference of which Henry Kissinger came and all the big globalist bigwives came.
+[00:24:19.120 --> 00:24:24.000]  When you can do that, even as a young man in Israel, you become an instant hero.
+[00:24:24.320 --> 00:24:26.240]  And that's how they set him up in politics.
+[00:24:26.640 --> 00:24:37.040]  Now, he's been very, very corrupt, taken a lot of illegal money and campaign contributions from various different sources.
+[00:24:37.360 --> 00:24:41.200]  And, you know, he has got control of the courts now.
+[00:24:41.520 --> 00:24:45.760]  He's evaded being prosecuted for now over 10 years.
+[00:24:46.080 --> 00:24:48.160]  I mean, this guy is a real slick operator.
+[00:24:48.240 --> 00:25:03.200]  But if there's anybody who has guaranteed immunity by the Israeli deep state, and you've got to remember, the Israeli deep state is a part of the larger globalist deep state that controls the United States and now every ally in Europe.
+[00:25:03.520 --> 00:25:14.880]  They have a deep state operation where they surveil and they do illegal acts and expose right-wing politicians who get too close to.
+[00:25:15.520 --> 00:25:20.720]  And Joel, for people who don't understand, people ask who runs the whole globalist system.
+[00:25:21.680 --> 00:25:27.280]  They don't seem to understand that all these agencies of the West at the top is basically the same group.
+[00:25:27.440 --> 00:25:37.760]  All the globalist boards, the Trilateral Commission, the CFR, the Royal Institute of International Affairs, the WEF, the IMF, the World Economic Forum.
+[00:25:37.920 --> 00:25:39.280]  It's only a few hundred people.
+[00:25:40.320 --> 00:25:43.680]  Would you say Netanyahu was a protege of the CIA?
+[00:25:43.760 --> 00:25:44.640]  No, it's even above that.
+[00:25:44.800 --> 00:25:47.680]  The Rothschilds, British intelligence, that helped set it all up.
+[00:25:47.840 --> 00:25:51.760]  I mean, how would you describe who Netanyahu really works for?
+[00:25:53.280 --> 00:25:57.200]  Well, it's really hard to say because this stuff is really top secret.
+[00:25:57.280 --> 00:26:01.200]  You know, we don't really know who runs the globalist hierarchy.
+[00:26:01.520 --> 00:26:12.320]  We know who the main players are out in public, the George Sorrels, the Henry Kissingers, the Zbign Brzezinskis, all of these level of people, the Klaus Schwab and others.
+[00:26:12.640 --> 00:26:18.080]  But, you know, there's always somebody ready to take their place, like when Klaus Schwab is removed.
+[00:26:19.680 --> 00:26:20.960]  And they're always, that's what they're saying.
+[00:26:21.200 --> 00:26:22.400]  They're really just functionaries.
+[00:26:22.560 --> 00:26:25.120]  As soon as they become embarrassing, they're gone.
+[00:26:26.080 --> 00:26:26.640]  Well, that's right.
+[00:26:26.800 --> 00:26:29.840]  But they're not just functionaries.
+[00:26:30.000 --> 00:26:36.640]  These people like Henry Kissinger's are really major high-level planners, but they still take their orders from higher up.
+[00:26:36.720 --> 00:26:48.720]  Now, my personal opinion, my personal opinion is that the globalist conspiracy is a satanic organization, that they have actual satanic revelation and given direction.
+[00:26:48.880 --> 00:26:57.440]  The reason I say that is because there's no way that anyone could start this, even going back to the 1900s when it became very obvious.
+[00:26:57.600 --> 00:27:02.240]  And of course, obviously, satanic Illuminati and other things goes back even further than that.
+[00:27:02.560 --> 00:27:12.960]  But still, there's nobody, anyone could start this globalist juggernaut moving in the year 1913 and have it continue unabated with people dying and being replaced.
+[00:27:13.200 --> 00:27:14.240]  Sure, that's the mystery of evil.
+[00:27:14.400 --> 00:27:17.440]  When I said functionaries, I mean they're making a lot of decisions.
+[00:27:17.600 --> 00:27:21.680]  They're empowered, but they're not coming up with the main directives.
+[00:27:22.000 --> 00:27:22.560]  That's right.
+[00:27:22.800 --> 00:27:23.200]  That's right.
+[00:27:23.440 --> 00:27:26.899]  And we don't know, and I don't think we'll ever know, who's getting a name.
+[00:27:26.899 --> 00:27:29.778]  Well, you know it's skull and bones because of Charlotte Iserby and the stuff that leaked.
+[00:27:30.240 --> 00:27:33.760]  They get in coffins and get possessed and get revelations.
+[00:27:34.640 --> 00:27:34.880]  Yeah.
+[00:27:35.360 --> 00:27:36.400]  In fact, it's interesting.
+[00:27:36.560 --> 00:27:39.440]  They even brought Skull and Bones to the University of Utah.
+[00:27:39.680 --> 00:27:49.840]  And the president of the Mormon Church that just died, who's a very wonderful, childlike individual, he became the president of Skull and Bones.
+[00:27:50.160 --> 00:27:53.760]  And he even bragged about it in his biography.
+[00:27:54.080 --> 00:28:02.960]  Now, there's no way that anyone who knows Russell Nelson would believe that he bought into Skull and Bones with crypt and all the homosexual involvement.
+[00:28:03.120 --> 00:28:21.008]  No, they brought a sanitized fraternity to the University of Utah to sucker in these naive Mormons to but isn't that cults work is you have the inner group you know it's like a pyramid but from the top and you Have the real initiates and then the outside group.
+[00:28:21.168 --> 00:28:23.168]  So that's how it works.
+[00:28:23.808 --> 00:28:24.928]  That is how it works.
+[00:28:25.568 --> 00:28:26.688]  But they're very deceptive.
+[00:28:26.848 --> 00:28:35.968]  They would never bring something as obvious as a skull and bones crypt initiates the ceremonies to start out in the University of Utah.
+[00:28:36.528 --> 00:28:50.048]  And Russell Nelson, by the way, who died, he was largely responsible for the policy, branding himself as a peacemaker, of having no concealed weapons permit in LDS churches.
+[00:28:50.368 --> 00:28:57.088]  And there's a lot of concealed weapons permits in the Mormon community, which is very high on self-defense and weapons.
+[00:28:57.408 --> 00:28:59.568]  And so it became a gun-free zone.
+[00:28:59.888 --> 00:29:01.168]  And that's one of the targets.
+[00:29:02.208 --> 00:29:04.368]  That's one of the reasons that led to it as a target.
+[00:29:04.528 --> 00:29:07.648]  They knew there would be no guns in there to defend themselves.
+[00:29:07.968 --> 00:29:11.488]  Well, all the Mormons I've ever known are very conservative, very informed.
+[00:29:11.648 --> 00:29:13.888]  In fact, probably the highest group aware of the New World Order.
+[00:29:14.048 --> 00:29:20.368]  Then how do we always go back to leadership being so what you call soft and just going along with stuff?
+[00:29:21.008 --> 00:29:24.848]  Well, it's because there's been a persecution complex in the church for many centuries.
+[00:29:25.008 --> 00:29:36.768]  You know, it was a very persecuted sect, driven out of many cities, including the United States, into Mexico, which became Salt Lake Valley, and they built it up as a mini-empire, and then it was absorbed.
+[00:29:37.008 --> 00:29:45.728]  But the Mormon leadership have tended to always want to overcome the stigma of persecution and say, look, we're just normal Christians, just like the rest of you.
+[00:29:45.888 --> 00:29:51.968]  I mean, we have some strict standards, to be true, but they've always wanted acceptance from the mainstream world.
+[00:29:52.208 --> 00:29:54.608]  And that's a real problem within Christianity.
+[00:29:54.688 --> 00:29:56.688]  It's happened to mainstream Christianity as well.
+[00:29:56.768 --> 00:29:59.328]  They've always wanted acceptance from the establishment.
+[00:29:59.808 --> 00:30:04.928]  We see the Catholic Church and then mainline Protestants becoming like super ultra-liberal.
+[00:30:05.248 --> 00:30:08.048]  But there is a rebellion against wokeism now.
+[00:30:08.288 --> 00:30:11.008]  I mean, the general public's not going along with it.
+[00:30:11.888 --> 00:30:15.808]  How would you describe the political and cultural spiritual moment the world is in right now?
+[00:30:17.648 --> 00:30:32.048]  Well, you know, wokeism and political correctness has taken a real cautious back seat because Trump is out there trying to destroy the ability to employ DEI with government funding.
+[00:30:32.368 --> 00:30:34.528]  And that's been relatively eliminated.
+[00:30:34.848 --> 00:30:43.648]  What hasn't been eliminated is the hate within the left and the establishment community for Christians and for Western civilization in general.
+[00:30:43.808 --> 00:30:46.768]  And that's going to come back with a vengeance as soon as Trump is gone.
+[00:30:47.088 --> 00:30:50.208]  You're going to see all of this stuff come back with a vengeance.
+[00:30:50.448 --> 00:30:51.168]  No, I agree.
+[00:30:51.568 --> 00:30:53.888]  What do you make of them starting two and a half hours late?
+[00:30:54.128 --> 00:30:55.968]  And then he hasn't let Bibi talk yet.
+[00:30:56.928 --> 00:30:59.568]  Well, skipping ahead from that, it's really a nothing burger.
+[00:30:59.648 --> 00:31:00.048]  I agree with you.
+[00:31:00.208 --> 00:31:01.648]  Netanyahu's about to speak.
+[00:31:01.888 --> 00:31:04.688]  Folks, last day to get a free bottle of ultramethylene blue.
+[00:31:04.768 --> 00:31:07.648]  When you buy one bottle, the allshowstore.com.
+[00:31:07.888 --> 00:31:08.768]  Let's go to Netanyahu.
+[00:31:08.928 --> 00:31:09.248]  Here it is.
+[00:31:10.448 --> 00:31:12.528]  Once again in the White House.
+[00:31:13.168 --> 00:31:19.088]  And second, I want to thank you for your friendship and for your leadership.
+[00:31:19.728 --> 00:31:29.568]  From Jerusalem to Tehran, from the Golan Heights to Gaza, you've proven time and again what I've said many times.
+[00:31:30.128 --> 00:31:34.848]  You are the greatest friend that Israel has ever had in the White House.
+[00:31:35.488 --> 00:31:40.688]  And Mr. President, you and I both know it's not even close.
+[00:31:41.968 --> 00:31:51.808]  While you focus at home on making America great again, your leadership abroad is changing the world for the better.
+[00:31:52.128 --> 00:31:55.728]  Ending wars and advancing peace.
+[00:31:56.928 --> 00:32:09.648]  I believe that today we're taking a critical step towards both ending the war in Gaza and setting the stage for dramatically advancing peace in the Middle East.
+[00:32:10.848 --> 00:32:12.768]  And I think beyond the Middle East.
+[00:32:13.328 --> 00:32:15.328]  Very important Muslim countries.
+[00:32:15.968 --> 00:32:18.688]  I support your plan to end the war in Gaza.
+[00:32:19.088 --> 00:32:19.648]  Back in two minutes.
+[00:32:21.088 --> 00:32:25.408]  This is a total setup where they won't take the deal.
+[00:32:26.048 --> 00:32:28.608]  So the West just takes Gaza.
+[00:32:28.928 --> 00:32:29.968]  We'll be right back in two minutes.
+[00:32:30.048 --> 00:32:30.528]  Stay with us.
+[00:32:30.768 --> 00:32:33.488]  I appreciate it because you have a lot of things to do, and this is important.
+[00:32:34.048 --> 00:32:42.528]  And it reflects the confidence that this will give everyone that things will be followed up on all the commitments made.
+[00:32:42.768 --> 00:32:48.928]  The fact that you're taking this on, I think, helps a lot to make sure that everything flows in the direction that we want.
+[00:32:49.248 --> 00:32:54.768]  Now, if this international body succeeds, we will have permanently ended the war.
+[00:32:55.088 --> 00:33:01.088]  Israel will conduct further withdrawals linked to the extent of disarmament and dealing with.
+[00:33:01.328 --> 00:33:05.248]  As Scalzen predicted before this even started, he said, I don't believe the deal has been made with Hamas.
+[00:33:05.408 --> 00:33:06.288]  It was put out like it was.
+[00:33:06.448 --> 00:33:08.768]  Now the White House has said, no, it hasn't.
+[00:33:08.848 --> 00:33:13.008]  So if Hamas doesn't agree, Trump just gave a total green light.
+[00:33:13.328 --> 00:33:14.528]  We're downloading the club right now.
+[00:33:14.608 --> 00:33:15.648]  Do we have it yet?
+[00:33:16.528 --> 00:33:17.648]  We have it to destroy them.
+[00:33:18.528 --> 00:33:19.568]  And I don't like Hamas.
+[00:33:19.648 --> 00:33:20.288]  I don't like Islam.
+[00:33:20.368 --> 00:33:20.768]  You all know that.
+[00:33:20.848 --> 00:33:23.168]  The point is, they're acting like this is a peace deal.
+[00:33:23.488 --> 00:33:25.648]  This is just a deal to make it look right.
+[00:33:25.968 --> 00:33:28.288]  So they can finish it off, as our guest said almost an hour ago.
+[00:33:28.368 --> 00:33:29.728]  Here's the club of Trump.
+[00:33:30.048 --> 00:33:31.568]  A lot of our leaders are here.
+[00:33:31.728 --> 00:33:36.928]  Our great vice president, Susie Wiles, Steve Witcoff, Jared Kushner.
+[00:33:37.248 --> 00:33:41.088]  They've been so involved in this process.
+[00:33:41.328 --> 00:33:45.088]  I don't think anybody else could have done it or even come close.
+[00:33:45.328 --> 00:33:47.248]  But we're right there.
+[00:33:47.488 --> 00:33:48.128]  We're right there.
+[00:33:48.368 --> 00:33:59.488]  First time in thousands of years, I think you can probably say, if you really look into it, if you study back, if you're a scholar, you would say thousands of years.
+[00:33:59.728 --> 00:34:09.088]  Israel would have my faux back in to finish the job of destroying the threat of Hamas.
+[00:34:09.408 --> 00:34:13.728]  But I hope that we're going to have a deal for peace.
+[00:34:14.367 --> 00:34:19.807]  And if Hamas rejects the deal, which is always possible, they're the only one left.
+[00:34:19.968 --> 00:34:21.887]  Everyone else has accepted it.
+[00:34:22.528 --> 00:34:26.528]  But I have a feeling that we're going to have a positive answer.
+[00:34:26.847 --> 00:34:32.768]  But if not, as you know, BB, you'd have Marfau back in to do what you would have to do.
+[00:34:33.088 --> 00:34:33.327]  All right.
+[00:34:33.408 --> 00:34:35.008]  So there is a big takeaway.
+[00:34:35.327 --> 00:34:39.168]  Trump says he's got the Arab nations and Saudi Arabia and all of them on board.
+[00:34:39.408 --> 00:34:44.688]  That if they don't take this deal, then they're going to completely obliterate it and totally take it over regardless.
+[00:34:44.928 --> 00:34:49.887]  So either your brains or your signature will be on this contract.
+[00:34:50.128 --> 00:34:51.968]  Joel Scowls, what do you make of this?
+[00:34:53.168 --> 00:34:59.248]  Well, first of all, you notice how Netanyahu spent the first two minutes just flattering Trump to death.
+[00:34:59.568 --> 00:35:06.128]  Everybody knows that he's a sucker for flattery, and they deal it out without stopping.
+[00:35:06.448 --> 00:35:07.807]  You are the great salvation.
+[00:35:07.968 --> 00:35:09.168]  You are the great peacemaker.
+[00:35:09.568 --> 00:35:10.847]  This wouldn't happen without you.
+[00:35:11.008 --> 00:35:12.768]  And Trump starts to brag about it.
+[00:35:12.847 --> 00:35:14.367]  This would never happen without me.
+[00:35:14.688 --> 00:35:15.728]  Well, it's not going to happen.
+[00:35:15.887 --> 00:35:24.528]  You know, you talk about thousands of years, how many peace deals, how many wars have ended between Arabs and Israelis, and it's still going on.
+[00:35:24.847 --> 00:35:25.408]  It will never happen.
+[00:35:25.568 --> 00:35:28.048]  That was going on in the Bible thousands of years ago.
+[00:35:28.367 --> 00:35:28.928]  Right.
+[00:35:29.568 --> 00:35:30.048]  That's right.
+[00:35:30.288 --> 00:35:39.887]  Ever since, you know, Abraham, you know, Isaac and Jacob and all of the Arab half-brothers and things, they've been at each other's throats for centuries.
+[00:35:39.968 --> 00:35:41.968]  And I don't think it's ever going to stop.
+[00:35:42.288 --> 00:35:46.048]  So, you know, this is something for Trump to pat himself on the back.
+[00:35:46.367 --> 00:35:50.288]  But believe me, he's given a carte blanche to Netanyahu to go back in.
+[00:35:50.367 --> 00:35:55.008]  Now, remember, I don't think Netanyahu is capable of destroying Hamas.
+[00:35:55.568 --> 00:35:58.528]  If he haven't done it in a year and a half, he's not going to.
+[00:35:58.608 --> 00:36:06.688]  And the reason is it's because of this philosophical problem the Jews have about no resurrection, or at least the majority of Jews.
+[00:36:07.008 --> 00:36:12.128]  They are so afraid of killing and the unpopularity of getting Israeli soldiers killed.
+[00:36:12.367 --> 00:36:23.327]  You know, most of them are reservists, that they just cannot commit to the type of obliterating campaign it would take to really go in and kill Hamas without killing a lot of civilians.
+[00:36:23.648 --> 00:36:28.847]  They've taken the civilian death pass of just bombing their way in, and it doesn't work.
+[00:36:29.168 --> 00:36:31.327]  Hamas is underground.
+[00:36:31.648 --> 00:36:40.128]  And I don't think the Arabs have a chance of going in there with an international incompetent force and finding what the Israeli IDF couldn't find.
+[00:36:40.768 --> 00:36:44.448]  So I think it's a wasted moment.
+[00:36:44.768 --> 00:36:46.288]  But it's for political purposes.
+[00:36:46.448 --> 00:36:52.208]  It's going to give Netanyahu the justification to go right to his people, say, I signed the peace deal.
+[00:36:52.368 --> 00:36:53.887]  Now I'm going after Hamas with a victory.
+[00:36:54.288 --> 00:36:55.408]  Use him cover domestically.
+[00:36:55.488 --> 00:37:01.408]  I want to finish up big picture on the Trump admin and where will be in three years and the indictment of Kami.
+[00:37:01.807 --> 00:37:05.968]  And then we're going to go to our next guest looking at the assassination of Charlie Kerr and the consistency.
+[00:37:06.128 --> 00:37:06.847]  She's in Utah.
+[00:37:07.008 --> 00:37:08.128]  Kate Dali, say with us.
+[00:37:08.448 --> 00:37:09.728]  Wasn't targeting Qatar.
+[00:37:10.048 --> 00:37:14.208]  And of course, we regretted the loss of the Qatari citizen.
+[00:37:14.368 --> 00:37:15.807]  It wasn't our target.
+[00:37:16.768 --> 00:37:28.368]  And I very much appreciate President Trump's proposal to have a trilateral body, the United States, Israel, and Qatar, to work out respective grievances.
+[00:37:28.528 --> 00:37:29.968]  There are quite a few.
+[00:37:30.288 --> 00:37:35.807]  But if we could try to mitigate them or put it on a different footing, I think that'll be good for everyone.
+[00:37:36.768 --> 00:37:42.608]  Above all, all the people, a fine team, many helpers who've done this.
+[00:37:42.928 --> 00:37:45.168]  I want to thank you, Mr. President.
+[00:37:45.807 --> 00:37:53.968]  History has already shown that under your leadership, Israel and America can change the face of the Middle East.
+[00:37:54.288 --> 00:38:01.408]  And today I'm hopeful that your plan to end the war in Gaza will do so again and do so soon.
+[00:38:01.728 --> 00:38:11.568]  It will free our hostages, end Hamas's tyranny in Gaza, and enable a more secure and prosperous future for the peoples of our region.
+[00:38:12.448 --> 00:38:14.368]  Thank you, Mr. President.
+[00:38:15.407 --> 00:38:17.168]  May God bless America.
+[00:38:17.487 --> 00:38:19.168]  May God bless Israel.
+[00:38:19.487 --> 00:38:24.208]  May God bless the indispensable alliance between our countries.
+[00:38:24.768 --> 00:38:33.568]  And may I add in Hebrew, may we all be inscribed in the book of life.
+[00:38:33.887 --> 00:38:34.688]  Thank you.
+[00:38:35.887 --> 00:38:37.487]  Thank you very much, baby.
+[00:38:41.568 --> 00:38:50.768]  So I think while we wait for these documents to be signed and get everybody in line, I think it maybe is not really appropriate to take questions.
+[00:38:51.008 --> 00:38:56.847]  I'm meeting with, as you know, a couple of Democrats a little while about the country.
+[00:38:58.367 --> 00:38:59.248]  Stop right there.
+[00:39:00.208 --> 00:39:01.967]  That's exactly what you're talking about, Joel Scowls.
+[00:39:02.128 --> 00:39:05.807]  And you don't live unless you're described in the book of life.
+[00:39:05.967 --> 00:39:09.407]  Well, if you're with God, then there shouldn't be, you know, an issue of eternal life.
+[00:39:09.967 --> 00:39:11.327]  There's that obsession right there.
+[00:39:11.568 --> 00:39:15.088]  But again, I don't want to just sit there to be negative, but this is a total fiasco.
+[00:39:15.248 --> 00:39:15.887]  You can read it.
+[00:39:16.208 --> 00:39:20.128]  It's a tagular LIBA deal, but that means they claim they've got all these countries on board.
+[00:39:20.288 --> 00:39:22.048]  We'll see if that's actually true.
+[00:39:22.128 --> 00:39:24.367]  But shifting gears, you usually have seen everything.
+[00:39:25.168 --> 00:39:25.728]  You're up to speed.
+[00:39:25.807 --> 00:39:33.887]  But did you see Netanyahu two days ago say the eighth front war is America and the woke Reich and we've taken over TikTok.
+[00:39:33.967 --> 00:39:37.008]  We're going to get X. And our main mission is censoring the American Reich.
+[00:39:37.168 --> 00:39:39.248]  And I get there's a bunch of Hitler worship foaming at the mouth.
+[00:39:39.327 --> 00:39:43.327]  It's a joke to you by the serious, but I'm the one getting censored.
+[00:39:43.487 --> 00:39:47.568]  You others, this is open foreign interference, what they claim the Russians are doing.
+[00:39:47.648 --> 00:39:50.688]  We know they do it some, but my goodness, Netanyahu's out in the open.
+[00:39:51.008 --> 00:39:54.208]  Did you see his video announcement when he's talking to the influencers?
+[00:39:54.528 --> 00:39:57.327]  No, I did not see that, but it doesn't surprise me.
+[00:39:57.488 --> 00:40:06.528]  There's a real underhanded control scheme that the Israelis have always been involved in, not only paying off every congressman, but controlling media.
+[00:40:07.008 --> 00:40:10.528]  Look at how much money they gave to Charlie Kirk, expecting to control him.
+[00:40:10.688 --> 00:40:20.208]  And, you know, he did go off the reservation, started to challenge the October 7th narrative that Israel was the victim there.
+[00:40:20.447 --> 00:40:27.088]  Israel, he knew, had promoted that and allowed themselves to for that attack to happen.
+[00:40:27.407 --> 00:40:29.168]  So I'm still not convinced.
+[00:40:29.248 --> 00:40:35.488]  I haven't seen any conclusive evidence that they killed him, but there was a conspiracy, and I'm convinced it wasn't Tyler Robinson.
+[00:40:35.568 --> 00:40:40.048]  There was a conspiracy, and it's a very sophisticated one, but it involves our own FBI.
+[00:40:41.007 --> 00:40:45.407]  And it shows that the deep state has not been eradicated under Donald Trump.
+[00:40:45.728 --> 00:40:49.807]  So you were just telling me that you had a brain disease.
+[00:40:50.128 --> 00:40:55.327]  I started having seizures like a few years ago, and everybody in my family knows I'm a neuroscientist.
+[00:40:55.568 --> 00:40:56.608]  What did you do to fix it?
+[00:40:56.847 --> 00:40:57.887]  Methylene blue.
+[00:40:58.048 --> 00:40:58.608]  I take it.
+[00:40:58.768 --> 00:40:58.927]  Okay.
+[00:40:59.088 --> 00:40:59.168]  Yeah.
+[00:40:59.407 --> 00:41:00.927]  Mel Gibson was on here talking about it.
+[00:41:01.168 --> 00:41:02.288]  This stuff works, man.
+[00:41:02.528 --> 00:41:03.568]  I take it every day as well.
+[00:41:03.887 --> 00:41:05.568]  And RFK Jr. told me about it.
+[00:41:05.728 --> 00:41:06.847]  Yeah, man, it's fantastic.
+[00:41:07.168 --> 00:41:10.528]  What is Bobby Kennedy Jr. dropping into that glass of water?
+[00:41:10.768 --> 00:41:15.088]  Plenty of folks are wondering what was in that little bottle he uncorked during a flight.
+[00:41:15.327 --> 00:41:16.128]  Methylene blue.
+[00:41:16.288 --> 00:41:17.327]  Shower Kennedy taking.
+[00:41:17.568 --> 00:41:19.088]  Kennedy literally gobbles.
+[00:41:19.327 --> 00:41:20.768]  He must be doing something right.
+[00:41:21.088 --> 00:41:23.728]  That ripped bod is 73 years old.
+[00:41:24.048 --> 00:41:26.208]  You shouldn't have to tell a doctor about methylene blue.
+[00:41:26.288 --> 00:41:27.568]  I think everybody should know about it.
+[00:41:27.807 --> 00:41:29.007]  It's changed my life.
+[00:41:29.248 --> 00:41:30.208]  I was in a wheelchair.
+[00:41:30.367 --> 00:41:32.927]  That methylene blue, I knew what that did for me.
+[00:41:33.248 --> 00:41:38.208]  I knew that it got me up and walking again, and I was having seizures without it.
+[00:41:38.528 --> 00:41:40.688]  And I was bad, really bad.
+[00:41:41.007 --> 00:41:41.887]  So I ordered it.
+[00:41:42.048 --> 00:41:43.007]  I started taking it.
+[00:41:43.327 --> 00:41:45.327]  And boy, let me tell you something.
+[00:41:45.648 --> 00:41:46.608]  What a blessing.
+[00:41:46.847 --> 00:41:51.488]  It clears the brain fog where you're actually able to focus more clearly.
+[00:41:51.728 --> 00:41:55.807]  For me, it's like a fog lifted, but it was like a veil lifted off, you know?
+[00:41:55.967 --> 00:41:56.447]  Incredible.
+[00:41:56.768 --> 00:41:58.688]  Best product that I've searched so far.
+[00:41:58.927 --> 00:42:00.128]  It is a miracle.
+[00:42:00.288 --> 00:42:01.807]  It's been proven for 100 years.
+[00:42:02.128 --> 00:42:04.447]  It's one of the most well-proven drugs out there.
+[00:42:04.688 --> 00:42:05.327]  Let me tell you something.
+[00:42:05.488 --> 00:42:07.007]  I'm walking without a cane.
+[00:42:07.168 --> 00:42:09.967]  I take one pill a day of the Abermaxim with the methylene blue.
+[00:42:10.048 --> 00:42:11.728]  And I got to tell you, what a blessing.
+[00:42:12.128 --> 00:42:13.327]  I am so blessed.
+[00:42:13.648 --> 00:42:14.528]  My kids take it.
+[00:42:14.608 --> 00:42:15.488]  My wife takes it.
+[00:42:15.728 --> 00:42:16.367]  Everybody takes it.
+[00:42:16.608 --> 00:42:26.128]  I used to have to pay, what, $10,000 a week to get it in my arms and sit there for six hours a day to get it pumped in my system.
+[00:42:26.447 --> 00:42:31.168]  And now I can take two pills or drink it once a day and pay what?
+[00:42:31.327 --> 00:42:34.208]  I don't know, $30,000, $40 a bottle of it.
+[00:42:34.528 --> 00:42:35.887]  Depends on what the sale is, yeah.
+[00:42:36.447 --> 00:42:40.288]  And it's helping me to have a quality of life that I didn't have before that I have now.
+[00:42:40.608 --> 00:42:42.288]  And I got to tell you, what a blessing.
+[00:42:42.447 --> 00:42:43.728]  I don't care what anybody says.
+[00:42:43.967 --> 00:42:47.007]  I know what it's like with it, and I know what it's like without it.
+[00:42:47.327 --> 00:42:47.648]  Yeah!
+[00:42:50.528 --> 00:42:52.768]  I'm not paid to say this, not one dime.
+[00:42:52.927 --> 00:42:55.807]  This is the best product guys have ever had.
+[00:42:56.128 --> 00:42:59.887]  You guys got to order it at the alexdenstore.com.
+[00:43:00.048 --> 00:43:03.568]  Our methylene blue, medical grade, made in Florida, is incredible.
+[00:43:03.807 --> 00:43:05.007]  Cleans out your mitochondria.
+[00:43:05.168 --> 00:43:06.528]  Clarity, focus, energy.
+[00:43:06.688 --> 00:43:09.088]  You've seen the Rave reviews of every guest we've had on.
+[00:43:09.248 --> 00:43:09.867]  It's game changing.
+[00:43:10.108 --> 00:43:15.047]  I feel like, wow, there's power in coalescing all your thoughts.
+[00:43:15.327 --> 00:43:17.068]  Did you hear our last guess what she said happened to her?
+[00:43:17.228 --> 00:43:17.487]  No.
+[00:43:17.708 --> 00:43:17.967]  What?
+[00:43:18.148 --> 00:43:19.628]  She said brain fog just lifted.
+[00:43:19.907 --> 00:43:21.248]  That's what it feels like.
+[00:43:21.367 --> 00:43:22.266]  I feel lighter.
+[00:43:23.248 --> 00:43:24.568]  It's really interesting.
+[00:43:24.728 --> 00:43:26.327]  I almost like feel smarter.
+[00:43:26.528 --> 00:43:32.487]  This stuff kicked in and it like instantly, I just felt like this weird meditative energy.
+[00:43:32.787 --> 00:43:33.907]  I don't know how to explain it.
+[00:43:34.106 --> 00:43:35.188]  I don't feel jittery.
+[00:43:35.188 --> 00:43:40.887]  I just felt like instantly, like I went from five hours of sleep like I got last night to like $10.
+[00:43:41.568 --> 00:43:42.688]  I don't know how to explain it.
+[00:43:42.847 --> 00:43:44.527]  This stuff's new to me, but I like it.
+[00:43:44.768 --> 00:43:46.367]  Methylene blue works for me.
+[00:43:46.688 --> 00:43:48.447]  I feel it in my head and neck too.
+[00:43:48.688 --> 00:43:50.367]  My brain's going really fast.
+[00:43:50.688 --> 00:43:51.407]  I really like it.
+[00:43:52.608 --> 00:43:54.927]  Limited power power.
+[00:43:55.678 --> 00:43:56.838]  Volunteer power!
+[00:44:03.287 --> 00:44:09.007]  You feel instant energy, but without the jitteriness of caffeine and focus.
+[00:44:09.168 --> 00:44:11.648]  What I feel, what I felt was focus, mental focus.
+[00:44:11.967 --> 00:44:14.608]  I do feel like it's eliminated the brain fog a lot.
+[00:44:14.847 --> 00:44:17.487]  I do subscribe to the methylene blue.
+[00:44:17.568 --> 00:44:18.048]  I feel better.
+[00:44:18.128 --> 00:44:19.088]  I feel like I'm 25.
+[00:44:19.327 --> 00:44:22.608]  Like I said, I've been taking the methylene blue and it is freaking awesome.
+[00:44:22.927 --> 00:44:27.728]  I actually subscribe monthly now to it and I got a couple other people that I work with.
+[00:44:27.887 --> 00:44:30.048]  I gave them it and they did the same thing.
+[00:44:30.208 --> 00:44:31.887]  I'm jacked up on the methylene blue.
+[00:44:31.967 --> 00:44:33.407]  It's the best thing you guys have ever had.
+[00:44:33.648 --> 00:44:35.407]  Please go to the alexdonstore.com.
+[00:44:35.487 --> 00:44:36.927]  It's powered by methylene blue.
+[00:44:37.007 --> 00:44:37.887]  Ultramethylene blue.

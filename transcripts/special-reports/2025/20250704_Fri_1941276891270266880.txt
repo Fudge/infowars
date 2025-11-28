@@ -1,0 +1,71 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, custom faster_whisper
+[00:00:01.600 --> 00:00:09.359]  Overnight, rivers and creeks raised as much as 25 feet in the Texas Hill Country, just west of Austin, Texas.
+[00:00:09.679 --> 00:00:10.880]  I have deep roots there.
+[00:00:11.120 --> 00:00:12.720]  I have a lot of family lives out there.
+[00:00:12.960 --> 00:00:17.120]  I vacation out there very often, especially around the 4th of July.
+[00:00:17.440 --> 00:00:27.039]  A few weeks ago, I was considering renting a cabin out on the Main River that actually completely flooded over 25 feet.
+[00:00:27.920 --> 00:00:30.960]  It swept away a Christian camp.
+[00:00:31.280 --> 00:00:33.280]  23 little girls are missing.
+[00:00:33.600 --> 00:00:39.039]  You have to understand that the Texas hill country is very, very rocky.
+[00:00:39.200 --> 00:00:43.119]  There's really no soil and it's just a lot of scrub brush.
+[00:00:43.759 --> 00:00:51.359]  And that when it floods and when four or five feet of water hit the ground, it's explosively dangerous.
+[00:00:51.679 --> 00:01:07.200]  So when I got up this morning and saw that huge storm that looked like a hurricane just boiling, and I looked at the time lapse that had been there for five or six hours overnight, I was, I told my family this morning when I got up at like 7 a.m., I said, this is going to be a lot of death.
+[00:01:07.760 --> 00:01:10.079]  But it's worse than I even thought.
+[00:01:11.359 --> 00:01:13.040]  4th of July is when everybody goes out there.
+[00:01:13.120 --> 00:01:17.519]  Willie Nelson used to have his famous 4th of July picnic out there in Lukenbach.
+[00:01:17.840 --> 00:01:20.320]  He's actually having it tonight with Bob Dylan here in Austin.
+[00:01:20.879 --> 00:01:22.480]  So that gives you an idea how many people are out there.
+[00:01:22.640 --> 00:01:28.879]  I mean, I have a lot of friends, a lot of family that actually were vacationing out and around there.
+[00:01:28.960 --> 00:01:30.159]  They weren't on the main rivers.
+[00:01:31.200 --> 00:01:32.159]  But I've made a few calls.
+[00:01:32.320 --> 00:01:33.040]  They haven't called me back.
+[00:01:33.600 --> 00:01:34.640]  It is a disaster zone.
+[00:01:34.719 --> 00:01:35.920]  And here's the other thing.
+[00:01:36.960 --> 00:01:44.480]  You can see the videos on access on the front page with the helicopters and the people you lower down on winches and the sheriff's department, state police.
+[00:01:44.799 --> 00:01:47.760]  I mean, they are out there risking their lives.
+[00:01:47.840 --> 00:01:49.120]  I mean, this is dangerous.
+[00:01:49.439 --> 00:01:54.320]  You're talking about just blasting water like out of a fire hose.
+[00:01:54.640 --> 00:01:55.760]  But, you know, a million times that.
+[00:01:55.920 --> 00:01:58.400]  I mean, it's more than a million times that.
+[00:01:58.799 --> 00:02:00.159]  It's just crazy.
+[00:02:00.480 --> 00:02:02.400]  So, you know, people went to sleep last night.
+[00:02:02.480 --> 00:02:03.120]  They didn't know.
+[00:02:03.439 --> 00:02:03.760]  Boom.
+[00:02:03.920 --> 00:02:05.439]  In this came in the middle of the night.
+[00:02:05.760 --> 00:02:06.640]  So pray for folks.
+[00:02:06.719 --> 00:02:09.680]  This is going to be a major historic disaster.
+[00:02:10.000 --> 00:02:18.479]  I would imagine they're already saying 16 dead now and hundreds and hundreds of missing, 23 at one little girl's camp.
+[00:02:18.800 --> 00:02:20.800]  I think you're going to have hundreds of dead.
+[00:02:21.120 --> 00:02:22.400]  So this has happened before.
+[00:02:22.560 --> 00:02:24.319]  There's hits climate change and all the rest of it.
+[00:02:24.400 --> 00:02:29.039]  No, it's Texas still country, but still doesn't lessen the fact that it's terrible.
+[00:02:29.360 --> 00:02:31.120]  And as California, everybody have moved down here.
+[00:02:31.280 --> 00:02:32.640]  These folks don't know about this.
+[00:02:32.960 --> 00:02:36.719]  Other parts of the country, people will drive across, you know, a stream or a blocked road.
+[00:02:36.800 --> 00:02:38.080]  There's signs everywhere in Texas.
+[00:02:38.479 --> 00:02:39.200]  Don't do it.
+[00:02:39.520 --> 00:02:45.920]  Because it can be six inches of water and 30 seconds later, five feet of it, like a little tsunami comes in.
+[00:02:46.560 --> 00:02:49.200]  And my whole life, my family said, you know, don't do it.
+[00:02:49.280 --> 00:02:52.080]  And a few times I've barely made it going through.
+[00:02:52.240 --> 00:02:56.879]  All of a sudden, the water goes wire going across a couple feet and your car starts going like this and I barely made it across.
+[00:02:57.120 --> 00:02:58.080]  That was when I was a teenager.
+[00:02:58.159 --> 00:03:03.920]  I've learned like you come up to one of those roads with a foot of water on it, don't try it because any second, boom.
+[00:03:05.039 --> 00:03:08.960]  So it's not good.
+[00:03:09.280 --> 00:03:11.599]  So it's going to be really, really bad.
+[00:03:14.400 --> 00:03:24.080]  Like I said, I got friends and family that are out in the general area and they're not answering the phone, so I'm sure they're fine, but it must total beddling.
+[00:03:25.280 --> 00:03:27.280]  Total, total beddling out there.
+[00:03:28.159 --> 00:03:31.599]  Out in Hunt and Fredericksburg and Lukenbach and all those places.
+[00:03:32.000 --> 00:03:35.520]  Like I said, it's all these hills and mountains and then just sheer rock, scrub brush.
+[00:03:35.918 --> 00:03:37.418]  That water comes in and it's just boom.
+[00:03:37.418 --> 00:03:43.427]  I, uh...
+[00:03:43.439 --> 00:03:48.000]  All three of my daughters, even though two are adults, they know are counselors out of a big camp.
+[00:03:48.080 --> 00:03:49.680]  It's out in that area.
+[00:03:50.319 --> 00:03:53.599]  But one of them was a counselor and got back last week.
+[00:03:53.840 --> 00:03:56.480]  And then the younger one's going in a week for her week.
+[00:03:56.560 --> 00:03:59.360]  And then my older daughter goes back as a main counselor.
+[00:03:59.680 --> 00:04:00.960]  So they're even in that area.
+[00:04:01.200 --> 00:04:08.159]  Just to give you a little example of skin of the game, it really hits me because they're not in one of those areas that will be hit like that, but they're close.
+[00:04:08.400 --> 00:04:11.039]  This is like really horrible.
+[00:04:11.439 --> 00:04:12.319]  Pray for these families.
+[00:04:12.400 --> 00:04:14.080]  God, I hope those little girls are okay.
+[00:04:14.960 --> 00:04:16.079]  This really sucks.

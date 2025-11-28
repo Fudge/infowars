@@ -1,0 +1,319 @@
+# Transcription model: large-v3-turbo, custom faster_whisper
+[00:00:12.400 --> 00:00:26.920]  All right, ladies and gentlemen, there's a lot to talk about here, and it would take an hour to give you the whole background and story, but I've been listening to the show for years, and particularly in the last few weeks.
+[00:00:27.539 --> 00:00:41.119]  I've told you that according to all the major war games by all Western governments and big think tanks, for at least 30 years, the main trigger point for nuclear war in World War III has not been Russia and Europe, not in North Korea.
+[00:00:42.030 --> 00:00:43.289]  Or even the US and China.
+[00:00:43.969 --> 00:00:46.130]  It has been India and Pakistan.
+[00:00:47.250 --> 00:00:49.689]  And there's a long history of that.
+[00:00:49.829 --> 00:00:52.570]  India was once almost three times bigger than it is now.
+[00:00:53.409 --> 00:00:55.009]  It has a lot of pride in that.
+[00:00:55.289 --> 00:01:00.170]  The Muslims in the last thousand years have invaded and taken most of the land around it.
+[00:01:00.490 --> 00:01:04.290]  Pakistan, Kashmir, a lot of other areas.
+[00:01:05.590 --> 00:01:10.569]  And Modi is a nationalist, a Hindu nationalist.
+[00:01:13.040 --> 00:01:28.140]  They've taken back most of Kashmir, but India and Pakistan are really just a proxy between the U.S. and China, the whole Belt and Road Initiative and the rest of it.
+[00:01:28.280 --> 00:01:41.700]  But about 10 days ago, dozens of Indians were killed in a terror attack, and that was directly linked to the Pakistan government that backstage is Islamic.
+[00:01:41.700 --> 00:01:47.539]  terror groups and India said they had the intel and they were going to strike them.
+[00:01:47.549 --> 00:01:50.659]  So they hit them with nine missiles about four hours ago.
+[00:01:50.659 --> 00:01:59.120]  Now the Indians have reportedly been shooting down Pakistani aircraft that come into any Kashmir airspace.
+[00:01:59.120 --> 00:02:02.120]  And you've had their defense ministers a week ago threatening to nuke each other.
+[00:02:02.129 --> 00:02:13.650]  When you look at the psychology of these groups People think of Indians as, you know, nice friendly people and they are, but I mean, they're extremely warlike.
+[00:02:13.889 --> 00:02:16.370]  Like every culture, but I mean like really warlike.
+[00:02:16.830 --> 00:02:19.590]  And so, so are the Pakistanis and it's been a real miracle.
+[00:02:19.750 --> 00:02:23.129]  They're basically the same people genetically, but they got Pakistan taken over by the Muslims.
+[00:02:24.310 --> 00:02:26.870]  And they're not scared to die.
+[00:02:28.110 --> 00:02:33.810]  And they, all the psychology has been looked at, all the background has been looked at.
+[00:02:33.909 --> 00:02:35.590]  It's the number one flash mark for nuclear war.
+[00:02:36.090 --> 00:02:37.849]  And you have a global political...
+[00:02:39.579 --> 00:02:44.139]  Realignment happening right now and you have the U.S. winning its trade war against China.
+[00:02:44.599 --> 00:02:46.520]  You have the whole global structure collapsing.
+[00:02:47.419 --> 00:02:55.120]  Yes, Modi wants to get in alignment with the U.S. They've said you have no tariffs on the U.S. and made the big deal in just the last few days.
+[00:02:55.860 --> 00:02:58.780]  And then as soon as that deal with the U.S. was made, India's like, boom.
+[00:03:00.360 --> 00:03:03.919]  So, you know, they're obviously smart scientists.
+[00:03:04.240 --> 00:03:04.860]  They're smart people.
+[00:03:07.400 --> 00:03:13.860]  So in the Pakistanis, they both sides have, they say, you know, 300 nukes in Pakistan, 500 in India.
+[00:03:14.139 --> 00:03:14.659]  Bullshit.
+[00:03:16.120 --> 00:03:18.060]  They got a lot of nukes.
+[00:03:19.039 --> 00:03:25.819]  And just like Israel kept its nukes secret since the 60s, India and Pakistan have tried to keep it quiet, but they got huge arsenals.
+[00:03:26.020 --> 00:03:29.500]  And India has a big Navy aircraft carrier, submarines.
+[00:03:30.199 --> 00:03:32.599]  You know, they got a space program, probes the moon.
+[00:03:34.219 --> 00:03:41.740]  Technologically, they're way more dominant than the Pakistanis, but it doesn't matter when you play this game, because you kick this son of a bitch off, it's over.
+[00:03:42.139 --> 00:03:51.620]  So, I put a post on actually a few hours ago when India started missile attacking, not military targets, but the Islamic Jihad command centers.
+[00:03:51.939 --> 00:03:53.599]  I said, this will let us click quickly.
+[00:03:53.759 --> 00:03:55.000]  That's the threat continuation ladder.
+[00:03:55.819 --> 00:03:58.599]  And that's why the Ukraine war has been so dangerous.
+[00:04:00.039 --> 00:04:02.759]  Because each group keeps upping the ante.
+[00:04:03.659 --> 00:04:09.620]  To try to win, and then you just go right to tactical nukes, and then nukes, and then the rest of it happens in the war games.
+[00:04:10.300 --> 00:04:11.580]  And I don't just go off these war games.
+[00:04:11.719 --> 00:04:12.479]  I can study history.
+[00:04:12.500 --> 00:04:13.659]  I can tell you that's dead on.
+[00:04:14.139 --> 00:04:17.759]  So there isn't a war game out there that doesn't say any of Pakistan is the main trigger for nuclear war.
+[00:04:17.920 --> 00:04:19.120]  Not North Korea, as I said earlier.
+[00:04:19.300 --> 00:04:21.819]  Not Russia and Ukraine.
+[00:04:21.980 --> 00:04:23.720]  That became a close second recently.
+[00:04:27.600 --> 00:04:32.040]  I mean, by the time I check this while I'm live right now, who knows what new stuff's going to go on.
+[00:04:32.120 --> 00:04:33.879]  But both sides are attacking each other right now.
+[00:04:35.019 --> 00:04:43.579]  And again, the last six, seven years, there's been a bunch of military conflicts with India and China, who's backing Pakistan and Afghanistan against India.
+[00:04:45.420 --> 00:04:48.519]  And so, yeah, India is now in alignment with the United States.
+[00:04:49.519 --> 00:04:51.120]  And they feel emboldened by that.
+[00:04:52.079 --> 00:04:54.860]  And Pakistan made their move.
+[00:04:55.920 --> 00:04:58.279]  Because they do shelter those Islamic jihadists.
+[00:04:58.959 --> 00:05:04.579]  And India has attacked and has escalated shooting down Pakistani aircraft.
+[00:05:05.480 --> 00:05:09.199]  And Pakistan says they're going to respond in their own time.
+[00:05:09.720 --> 00:05:12.420]  And when that happens, the Indians are going to go completely crazy.
+[00:05:14.939 --> 00:05:19.139]  So things are spiraling out of control.
+[00:05:19.980 --> 00:05:23.500]  And, you know, I've tried to explain this to...
+[00:05:24.699 --> 00:05:28.579]  The general public, liberal academics, you know, they live in their own twilight zone world.
+[00:05:29.139 --> 00:05:32.959]  If you really studied history and studied the current think tank projections, they're dead alone.
+[00:05:34.759 --> 00:05:36.279]  The U.S. was about to collapse.
+[00:05:36.379 --> 00:05:37.180]  We've been sold out.
+[00:05:37.360 --> 00:05:40.639]  We still have the biggest military, the world reserve currency, and are still the biggest market.
+[00:05:40.699 --> 00:05:41.439]  But that was all fading.
+[00:05:42.120 --> 00:05:48.579]  BlackRock and China had planned, you know, to end the U.S. But China double-crossed the last 15 years, the globalists.
+[00:05:48.740 --> 00:05:51.720]  So that system had already failed, but people just figured it out the last few years.
+[00:05:52.579 --> 00:05:55.040]  So there is no other game in town but America.
+[00:05:55.240 --> 00:05:57.019]  There is no other game in town but capitalism.
+[00:05:57.240 --> 00:06:01.740]  There is no other game in town but stabilization under Trump's plan, which is a peace plan.
+[00:06:02.379 --> 00:06:06.240]  And anybody not supporting that is completely insane.
+[00:06:08.100 --> 00:06:12.100]  And we are all two minutes from midnight here, nuclear war.
+[00:06:13.439 --> 00:06:17.819]  And so, let me explain this to people that don't know history.
+[00:06:19.579 --> 00:06:23.899]  Even regionally throughout history, thousands of years ago, once one war kicked off, others were to kick off.
+[00:06:24.040 --> 00:06:24.899]  It's the way it works.
+[00:06:25.720 --> 00:06:33.899]  And if a war kicks off with nukes in Pakistan, India, which is the number one threat, and all the actuaries, it spreads usually within hours.
+[00:06:34.459 --> 00:06:35.139]  Maximum days.
+[00:06:35.680 --> 00:06:38.259]  Everybody else goes ahead and gets paranoid, gets crazy and goes.
+[00:06:41.259 --> 00:06:41.620]  So...
+[00:06:41.620 --> 00:06:45.920]  I mean, my listeners have been pissed at me the last few months talking about India and Pakistan.
+[00:06:46.040 --> 00:06:47.100]  Like, oh yeah, India and Pakistan.
+[00:06:47.240 --> 00:06:48.339]  Oh sure, oh yeah.
+[00:06:48.829 --> 00:06:51.110]  You know, "Oh, what are the Indians going to run a 7-11?
+[00:06:51.430 --> 00:06:55.449]  Give me a slurpee." You know, I've heard that stuff and it's just like, man, you don't understand.
+[00:06:56.629 --> 00:07:04.470]  The Indians used to be one of the biggest empires in the world and really the progenitor of so much of civilization.
+[00:07:05.250 --> 00:07:17.910]  And they saw their culture, like the West, fall apart and be degraded and degenerated and invaded and taken over.
+[00:07:19.060 --> 00:07:20.779]  Just like the Iranians and the Persians.
+[00:07:22.040 --> 00:07:24.360]  And, you know, I don't get into the whole race issue, but it's interesting.
+[00:07:24.500 --> 00:07:24.740]  Here's for you.
+[00:07:24.819 --> 00:07:27.540]  The Iranians used to be white, forget the term, Aryan.
+[00:07:27.980 --> 00:07:32.360]  And then they went and settled 4,000 years ago and created what was the Indian Empire.
+[00:07:32.779 --> 00:07:35.879]  And then with the wealth and the agrarian society, all these other people moved in.
+[00:07:36.360 --> 00:07:38.079]  And then the Muslims came in and innovated.
+[00:07:38.399 --> 00:07:45.120]  And so, but they still have that memory that they're like the old America or the old West or the old kingpins.
+[00:07:45.600 --> 00:07:49.439]  And then they see their whole empire crushed down to nothing.
+[00:07:49.660 --> 00:07:51.439]  And even inside India, the Muslims always attacking.
+[00:07:51.720 --> 00:07:53.360]  And they're not putting up with it.
+[00:07:54.439 --> 00:08:00.740]  And so the same clash we see in the West, you call civilization in the West.
+[00:08:00.959 --> 00:08:02.079]  That was kind of India before.
+[00:08:03.620 --> 00:08:06.459]  And that's an oversimplification.
+[00:08:06.660 --> 00:08:09.980]  It's very, very historic history.
+[00:08:10.519 --> 00:08:15.019]  But that's where you have the caste society in India, which you can call...
+[00:08:15.180 --> 00:08:15.660]  Slavery.
+[00:08:16.360 --> 00:08:40.200]  And I'm not defending it, but that was where it came from was you had these people that came out of probably the caucuses and other areas that came in and settled with the systems they had and kind of settled India and that created the culture and then all the other groups that wanted the wealth migrated in and took over and then created the society you see now.
+[00:08:41.259 --> 00:08:43.620]  But India is trying to reassert itself.
+[00:08:44.000 --> 00:08:45.679]  And it's the most populous country in the world now.
+[00:08:46.539 --> 00:08:47.379]  They're not stupid.
+[00:08:49.039 --> 00:08:55.379]  And you look at the Korean War with the Chinese, there was really a war with China.
+[00:08:55.559 --> 00:09:03.019]  You look at the Vietnamese and our war with them, I mean, you know, when you live with an Indian, it's almost like an Arab.
+[00:09:03.379 --> 00:09:09.519]  It's a mix of white and Asian, but more of the Arabs or some African in there.
+[00:09:14.259 --> 00:09:17.980]  The point is, they all act really nice and friendly, and they are good people on average.
+[00:09:18.620 --> 00:09:22.899]  But just as a typecast, they're ready to go to war.
+[00:09:24.340 --> 00:09:27.080]  You go study Indian culture, and it's all war.
+[00:09:27.899 --> 00:09:42.320]  Everybody's culture is like that, but I'm just saying, don't think that Indians are like little nice, friendly guys that are working on your computer or whatever, or engineers or whatever, that once this kicks off, I mean, if you don't think they'll hit the button and Newt Pakistan...
+[00:09:42.970 --> 00:09:53.250]  All the estimates, all the psychology tests, all the sociology says the Indians, the Pakistanis, who are genetically basically the same people, are the trigger point.
+[00:09:53.429 --> 00:09:56.389]  They will go to war all the way like that.
+[00:09:57.549 --> 00:10:01.950]  I think the Russians and the Ukrainians are ready to kill each other, which is basically a Russian civil war.
+[00:10:02.549 --> 00:10:04.210]  And the Russians will sure as hell fight, too.
+[00:10:04.309 --> 00:10:05.490]  Like, I've been saying, everybody's like this.
+[00:10:05.909 --> 00:10:09.330]  I'm just saying, Westerners in our culture tend to, like...
+[00:10:09.331 --> 00:10:14.050]  look at China, or look at Vietnam, or look at, you know, India, go, oh yeah, oh yeah, those people.
+[00:10:20.970 --> 00:10:22.710]  They're just as bad or worse than us.
+[00:10:24.830 --> 00:10:26.350]  When it comes to going to killing.
+[00:10:26.990 --> 00:10:27.950]  And look, I'm a killer.
+[00:10:28.289 --> 00:10:31.350]  I mean, I can kill, killing people is easier than taking a shit.
+[00:10:32.169 --> 00:10:34.029]  Okay, that's what we're designed to do if we have to.
+[00:10:34.990 --> 00:10:37.409]  We've got two powerful weapons now, folks.
+[00:10:38.009 --> 00:10:39.750]  It has to stop.
+[00:10:41.370 --> 00:10:45.169]  And Islam is the accelerant for all this stuff.
+[00:10:45.269 --> 00:10:47.929]  Like you say, Israel's got issues, and they do, but Islam keeps expanding.
+[00:10:48.570 --> 00:10:49.850]  Islam keeps expanding on India.
+[00:10:50.129 --> 00:10:51.210]  That's why India's allied with Israel.
+[00:10:51.350 --> 00:10:52.289]  They get that.
+[00:10:53.009 --> 00:10:57.610]  And you can sit around and say all day, well, Israel's bad, or this is bad, or the voting's bad.
+[00:10:59.549 --> 00:11:00.870]  Israel's a little bit tiny country.
+[00:11:01.529 --> 00:11:03.549]  India used to be this big, now it's this big.
+[00:11:04.070 --> 00:11:05.929]  And all I'm pointing out is...
+[00:11:06.120 --> 00:11:15.320]  Is that all of the Soros left kissing Islam's ass and even the right-wing fakes that, you know, just don't want to ever do anything but attack Israel, it's retarded.
+[00:11:15.620 --> 00:11:16.879]  And I'm not even allied with Israel.
+[00:11:17.039 --> 00:11:18.299]  I'm against lots of officialness.
+[00:11:18.840 --> 00:11:22.960]  My point is, is that this is the real geopolitical system we're in.
+[00:11:24.019 --> 00:11:25.279]  And it is deadly dangerous.
+[00:11:25.600 --> 00:11:30.379]  And I'm sure as soon as I end this live stream, like I'm sending the crew right now, they're going to add stuff to it.
+[00:11:32.379 --> 00:11:33.759]  I'm sure new attacks have happened.
+[00:11:33.899 --> 00:11:34.500]  I mean, artillery.
+[00:11:35.289 --> 00:11:37.629]  You know, planes being shot down.
+[00:11:37.769 --> 00:11:38.529]  I mean, that's all going on.
+[00:11:38.649 --> 00:11:39.009]  Missiles.
+[00:11:39.789 --> 00:11:42.210]  And you've got India and Pakistan that are armed camps.
+[00:11:42.990 --> 00:11:44.009]  This is already going on.
+[00:11:44.149 --> 00:11:46.769]  So I just want people to understand that Trump's trying to have peace.
+[00:11:47.830 --> 00:11:51.350]  He's trying to fix this through economic warfare, not military warfare.
+[00:11:52.889 --> 00:11:55.210]  And I'm damn proud to support Trump.
+[00:11:55.330 --> 00:11:55.789]  He's not perfect.
+[00:11:55.870 --> 00:12:02.490]  Neither am I. But why do you think Bill Maher is like, oh, we better get behind Trump because the Democrats are crazy.
+[00:12:02.840 --> 00:12:06.500]  Because they were trying to sell nuclear war with Russia, Sean Penn.
+[00:12:06.659 --> 00:12:08.320]  Well, who says we should have nuclear war off the table?
+[00:12:08.500 --> 00:12:10.379]  Because we all die, you dumb bastard.
+[00:12:14.139 --> 00:12:19.460]  I mean, I'm into, like, my children and having grandkids.
+[00:12:20.179 --> 00:12:24.259]  And I don't want to get killed because the Pakistanis and the Indians have a thousand-year-old beef.
+[00:12:25.139 --> 00:12:27.000]  And I'm not even siding with the Indians.
+[00:12:27.519 --> 00:12:29.120]  I just have to point out...
+[00:12:31.430 --> 00:12:33.210]  That India is the place being invaded.
+[00:12:33.490 --> 00:12:35.590]  And you really can't blame them saying, you know what?
+[00:12:36.590 --> 00:12:37.570]  We're done with this.
+[00:12:38.750 --> 00:12:41.190]  And they've sided with us and they made the deals with Trump.
+[00:12:42.370 --> 00:12:46.389]  And so, like it or not, that's who we're allied with.
+[00:12:50.389 --> 00:12:51.370]  So it really is.
+[00:12:51.830 --> 00:12:53.409]  I've done a lot of these live streams on here.
+[00:12:53.509 --> 00:12:55.570]  It was popping up messages to me.
+[00:12:56.590 --> 00:12:59.990]  I mean, let's talk about who the alliance is.
+[00:13:00.399 --> 00:13:04.919]  And it doesn't mean the alliance partners are perfect or aren't predatory and double dealers.
+[00:13:05.080 --> 00:13:05.940]  That's the way this works.
+[00:13:06.419 --> 00:13:09.279]  But let's talk about who there is.
+[00:13:09.360 --> 00:13:10.320]  So there's the United States.
+[00:13:12.000 --> 00:13:12.820]  And there's India.
+[00:13:16.259 --> 00:13:19.820]  And then they're allied with Israel.
+[00:13:20.360 --> 00:13:21.580]  And we're allied with Israel.
+[00:13:21.919 --> 00:13:23.779]  And then Saudi Arabia wants to stay out of this.
+[00:13:23.899 --> 00:13:24.500]  They're allied with us.
+[00:13:24.559 --> 00:13:24.899]  Smart.
+[00:13:26.079 --> 00:13:29.559]  All the Muslims, I'm saying Muslims in general, are just bad, but their whole thing has been expansionist.
+[00:13:29.820 --> 00:13:30.600]  I hope they were foreign.
+[00:13:30.679 --> 00:13:31.639]  Please, let's not kill each other.
+[00:13:31.720 --> 00:13:32.659]  Please, God, let's stop now.
+[00:13:35.679 --> 00:13:37.679]  You got Japan and South Korea.
+[00:13:39.899 --> 00:13:44.700]  And then the UK system's kind of double-dealing on both sides, was trying to come into this.
+[00:13:45.419 --> 00:13:50.879]  But it's the EU and China that are allied, and then now India and Pakistan are the proxy war for this whole deal.
+[00:13:52.250 --> 00:13:53.269]  So, that's the reality.
+[00:13:53.529 --> 00:13:56.789]  And, you know, you try to go out to some leftist event or even go to debate smile on TV.
+[00:13:56.929 --> 00:13:58.409]  It's like, you're KKK.
+[00:13:58.789 --> 00:13:59.610]  You're Hitler.
+[00:13:59.870 --> 00:14:05.070]  And, you know, like, Hitler was a fucking loser that got a third of the Germans killed.
+[00:14:05.929 --> 00:14:07.929]  And, like, what is this, like, a magic word?
+[00:14:07.950 --> 00:14:08.450]  Oh, you're Hitler.
+[00:14:08.490 --> 00:14:09.269]  I'm just like, you know.
+[00:14:10.090 --> 00:14:12.129]  I mean, like, you're living in 80 years ago?
+[00:14:12.269 --> 00:14:13.169]  I have nothing to do with that.
+[00:14:14.750 --> 00:14:17.250]  Other than both my grandfathers and Army Air Corps were fucking heroes.
+[00:14:18.289 --> 00:14:19.049]  And people get pissed.
+[00:14:19.049 --> 00:14:19.769]  Oh, yeah, you're...
+[00:14:19.820 --> 00:14:22.259]  Oh, your family bombing the Germans, whatever.
+[00:14:22.639 --> 00:14:24.059]  The point is, I'm German.
+[00:14:24.340 --> 00:14:26.000]  The point is, I wish none of this happened.
+[00:14:26.539 --> 00:14:29.759]  But it's just, it's insane.
+[00:14:29.960 --> 00:14:31.019]  The whole thing is insane.
+[00:14:31.840 --> 00:14:35.299]  And so Russia wants to be all over the West.
+[00:14:35.379 --> 00:14:36.580]  They want an economic deal.
+[00:14:37.460 --> 00:14:43.019]  The main U.S. policy used to be until the last 30 years, 20 years, was splitting Russia off from China.
+[00:14:43.659 --> 00:14:48.080]  No, it's a shame we just heard about it, just as we were walking in the doors of the Oval.
+[00:14:48.729 --> 00:14:50.129]  I just heard about it.
+[00:14:50.429 --> 00:14:55.070]  I guess people knew something was going to happen based on a little bit of the past.
+[00:14:55.190 --> 00:14:56.549]  They've been fighting for a long time.
+[00:14:56.710 --> 00:15:03.549]  They've been fighting for many, many decades and centuries, actually, if you really think about it.
+[00:15:04.169 --> 00:15:06.129]  No, I just hope it ends very quickly.
+[00:15:07.090 --> 00:15:15.169]  Well, as you've noticed, the globalists and their entire satanic death cult system is in collapse, not just here, but around the world.
+[00:15:15.759 --> 00:15:24.539]  And they have an admitted strategy of making life hell for those of us at the tip of the spear in the fight, like President Trump, Elon Musk, and myself.
+[00:15:25.019 --> 00:15:26.159]  And I'm not Trump.
+[00:15:26.440 --> 00:15:27.419]  I'm not Elon Musk.
+[00:15:27.580 --> 00:15:31.220]  I don't have $500 billion or $10 billion like they do.
+[00:15:31.539 --> 00:15:34.259]  And they've barely withstood the attacks.
+[00:15:34.559 --> 00:15:37.299]  No, I've got folks like you out there backing me.
+[00:15:37.440 --> 00:15:45.100]  So when I bring you products that I pitch to fund our operation, I want to make sure they're the very best so they really work.
+[00:15:45.200 --> 00:15:50.200]  For you, show that you like the show, you're happy, and you come back and get them again and again.
+[00:15:50.539 --> 00:15:58.019]  I've used the analogy many times that if I owned a restaurant, I would want to have the best high-quality food at reasonable prices with a great service and a great atmosphere.
+[00:15:58.419 --> 00:16:02.100]  I don't want to have a restaurant that you get food poisoning at and totally sucks and we close in one week.
+[00:16:02.960 --> 00:16:06.000]  But the globalist system wants you to eat bugs and cut your son's penis off.
+[00:16:06.120 --> 00:16:10.940]  I mean, that's why I thought forever it'd be easy to beat if we just warned the people and it's actually happening.
+[00:16:11.360 --> 00:16:13.399]  So it's critical to keep the tip of the spear on the air.
+[00:16:13.919 --> 00:16:21.139]  We're recognized by the bad guys this broadcast as one of the main genesis points of their ongoing defeat.
+[00:16:22.279 --> 00:16:23.580]  So yeah, keep us on the air.
+[00:16:23.700 --> 00:16:26.200]  That's a great reason to buy products at realalexjones.com.
+[00:16:26.759 --> 00:16:32.480]  But the bigger issue is you want to get these products because they really, really work.
+[00:16:32.580 --> 00:16:39.080]  Ladies and gentlemen, my medical doctor, six years ago, owns a bunch of wellness clinics around the state.
+[00:16:39.570 --> 00:16:43.029]  I said, hey, you need to take USP, meaning pharmaceutical grade methylene blue.
+[00:16:43.210 --> 00:16:44.710]  I don't sell it, but you can get it on Amazon.
+[00:16:45.110 --> 00:16:52.250]  And so I got five or six different brands over the years, took it here and there, took a little bit of energy from it, cleans out your mitochondria, but I was like, okay, it's all right.
+[00:16:53.409 --> 00:16:59.470]  Then our sponsor, Bigly, that owns and runs RealOxShones.com about six weeks ago or eight weeks ago.
+[00:17:00.139 --> 00:17:03.460]  Mails it in to us from Arkansas and says, hey, you got to take this methylene blue.
+[00:17:03.720 --> 00:17:04.460]  We're about to start selling.
+[00:17:04.539 --> 00:17:05.259]  We want you to pitch it.
+[00:17:05.480 --> 00:17:06.640]  And I'm like, okay, yeah, methylene blue.
+[00:17:06.779 --> 00:17:07.640]  I know what Rod F. Kennedy Jr.
+[00:17:07.740 --> 00:17:08.160]  Posts use it.
+[00:17:08.220 --> 00:17:09.000]  Cleans out your mitochondria.
+[00:17:09.119 --> 00:17:09.480]  Gives you some energy.
+[00:17:09.660 --> 00:17:09.759]  Great.
+[00:17:09.960 --> 00:17:13.900]  And then I actually got told by Chase and by Harrison Smith that we're taking.
+[00:17:13.980 --> 00:17:15.539]  I said, this is way better than any methylene blue we ever took.
+[00:17:15.599 --> 00:17:16.160]  This is crazy.
+[00:17:16.279 --> 00:17:16.980]  Full of electricity.
+[00:17:17.500 --> 00:17:19.160]  You know, we're getting this huge work output.
+[00:17:19.380 --> 00:17:20.299]  Because I came in their offices.
+[00:17:20.339 --> 00:17:20.859]  They're together.
+[00:17:21.000 --> 00:17:22.680]  And I said, you guys, are you guys on something?
+[00:17:23.000 --> 00:17:24.599]  This happened like six, seven weeks ago.
+[00:17:25.279 --> 00:17:26.279]  Yeah, man, methylene blue.
+[00:17:26.880 --> 00:17:28.240]  And I go, I've taken that before.
+[00:17:28.380 --> 00:17:28.559]  Really?
+[00:17:28.660 --> 00:17:29.299]  Oh, you got to try it.
+[00:17:29.720 --> 00:17:32.400]  Well, finally, I tried it about five weeks ago.
+[00:17:32.599 --> 00:17:38.839]  And within 15 minutes, electricity through my hands and body, brain totally clear, like a fog lifted.
+[00:17:38.839 --> 00:17:40.140]  I didn't feel like I was in a fog.
+[00:17:40.279 --> 00:17:41.000]  I already felt great.
+[00:17:42.759 --> 00:17:44.339]  And it's just next level.
+[00:17:44.460 --> 00:17:47.259]  And now my workouts and just everything is incredible.
+[00:17:47.519 --> 00:17:50.299]  We have the ultimate.
+[00:17:50.720 --> 00:17:51.420]  Methylene blue.
+[00:17:51.559 --> 00:17:54.980]  That's what we call it, the name I came up with, because it is ultra.
+[00:17:54.980 --> 00:17:55.880]  It is ultra.
+[00:17:55.880 --> 00:17:57.900]  It is ultra-methylene blue.
+[00:17:58.099 --> 00:18:00.700]  Get your ultra-methylene blue right now.
+[00:18:00.839 --> 00:18:02.359]  USP made right here in America.
+[00:18:02.920 --> 00:18:04.220]  And it is incredible.
+[00:18:04.440 --> 00:18:06.599]  I've given it to over 200 people that I know.
+[00:18:07.079 --> 00:18:09.980]  And two of them had no effects.
+[00:18:10.619 --> 00:18:12.720]  Almost everybody else had explosive effects.
+[00:18:12.799 --> 00:18:14.039]  Some just had moderate effects.
+[00:18:14.400 --> 00:18:16.380]  And three people now.
+[00:18:16.990 --> 00:18:18.990]  One of them's in the office, Derek, said they're scared of it.
+[00:18:19.069 --> 00:18:24.029]  They won't take it again because they were going crazy on it and felt electricity and racing and basically hallucinating almost.
+[00:18:24.150 --> 00:18:26.730]  So you need to talk to your physicians before you take it.
+[00:18:27.069 --> 00:18:28.390]  And people are on SSRIs.
+[00:18:28.410 --> 00:18:29.069]  They say don't take it.
+[00:18:29.210 --> 00:18:30.470]  I mean, this is serious stuff.
+[00:18:33.430 --> 00:18:36.509]  Get the strongest, best methylene blue I've ever tried.
+[00:18:36.990 --> 00:18:38.329]  I believe it's the very best out there.
+[00:18:38.450 --> 00:18:39.849]  If we find something better, we'll get them as a supplier.
+[00:18:40.799 --> 00:18:42.099]  At realalexjones.com.
+[00:18:42.200 --> 00:18:43.079]  Oh, and here's the final point.
+[00:18:43.259 --> 00:18:45.240]  It's the sister site to thealexjonesstore.com.
+[00:18:45.259 --> 00:18:45.900]  Oh, by the same folks.
+[00:18:46.000 --> 00:18:46.180]  It's great.
+[00:18:46.279 --> 00:18:46.700]  You get it there, too.
+[00:18:46.839 --> 00:18:55.559]  But at realalexjones.com, for a limited time, there is a 10% off promo code on ultramethyleneblue at realalexjones.com.
+[00:18:55.680 --> 00:19:01.680]  And it also goes for this great hat, Trump2028 at realalexjones.com.
+[00:19:01.880 --> 00:19:07.960]  And 10% off on this little guy, the Save the Frogs limited edition plushie.
+[00:19:07.960 --> 00:19:09.779]  It's a great conversational piece.
+[00:19:10.119 --> 00:19:21.460]  To explain to people what Atrazine, only legal in the United States, is doing, bending our genders, sterilizing us, and giving us cancer that RFK Jr. at HHS is moving to ban right now.
+[00:19:21.660 --> 00:19:24.880]  So, there's a lot of other big sales going on the site right now.
+[00:19:25.059 --> 00:19:32.579]  You literally fund the tip of the spear, but a tiny fraction of our massive audience actually ever goes to reallogshows.com.
+[00:19:33.679 --> 00:19:40.220]  We have over a 70% reorder right there on the supplements because they're that good, and that's unheard of.
+[00:19:40.440 --> 00:19:51.720]  So experience what I'm talking about with Ultramethylene Blue, Irish Seamoss gummies, the best Shilogy, the best turmeric, all of it at realalexshows.com, and it funds the backup Alex Jones Network.
+[00:19:51.980 --> 00:19:55.240]  So again, thank you so much for your past support, spreading the word, praying for the broadcast.
+[00:19:55.859 --> 00:19:57.579]  People that already have the products are getting it.
+[00:19:57.640 --> 00:19:58.359]  You know how great they are.
+[00:19:58.599 --> 00:20:01.359]  But for folks that haven't tried it, what are you doing?
+[00:20:01.710 --> 00:20:02.769]  The information's hardcore.
+[00:20:02.809 --> 00:20:03.829]  We've totally delivered.
+[00:20:04.069 --> 00:20:06.049]  We are the best there is in the Infowar.
+[00:20:06.250 --> 00:20:08.769]  And you are the reason we're able to do this.
+[00:20:08.869 --> 00:20:11.130]  So you are not our supporters.
+[00:20:11.130 --> 00:20:12.470]  You are the Infowar.
+[00:20:12.549 --> 00:20:13.970]  And I salute you and thank you all.
+[00:20:14.089 --> 00:20:19.150]  Use promo code BLUE for 10% off on key items on top of the big sales right now at Real Alex Jones.
