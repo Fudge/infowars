@@ -1,0 +1,1712 @@
+# Transcription model: CohereLabs/cohere-transcribe-03-2026, MahmoudAshraf/mms-300m-1130-forced-aligner, sat-12l-sm, script v26.04.00, and large-v3-turbo
+# Transcript cleaned with version 0.1.2
+# Source MD5: 03babe5fd0542143052cded9580012b5
+[00:00:00.121 --> 00:00:11.083]  Hey, just a reminder if InfoWars gets shut down tomorrow, you'll still be able to find us on X at Real Alex Jones and on Rumble.
+[00:00:11.187 --> 00:00:13.288]  Just look for The Alex Jones Show.
+[00:00:13.497 --> 00:00:17.025]  We're broadcasting live on both platforms.
+[00:00:17.278 --> 00:00:22.024]  Plus, you'll find special reports and breaking news as it happens.
+[00:00:22.339 --> 00:00:23.179]  So check it out.
+[00:00:23.347 --> 00:00:30.193]  Share the links and let the Democrat Deep State Party know we will never be silenced.
+[00:00:50.039 --> 00:00:54.759]  It is Sunday, April 12th, 2026.
+[00:00:55.079 --> 00:01:07.420]  All of my predictions since this Iran Israel U.S. war began back on March 1st have come true because this Strait of Hormuz war with Iran has been wargamed as much as anything else has.
+[00:01:07.479 --> 00:01:08.879]  It's up there in the very top few.
+[00:01:08.959 --> 00:01:10.280]  It's very well known what the scenarios are.
+[00:01:10.400 --> 00:01:12.180]  It's on record the chairman of the Joint Staff.
+[00:01:12.359 --> 00:01:19.039]  All of them told Trump that this wasn't true what Israel was telling him, but the neocons came in and they lied to Trump.
+[00:01:19.599 --> 00:01:24.819]  I first broke that a month ago, confirmed now by the White House, absolutely insane.
+[00:01:25.979 --> 00:01:31.120]  And now Iran has us by the balls because we started this with Israel.
+[00:01:32.299 --> 00:01:34.219]  They're not going to give the concessions Trump wants.
+[00:01:35.240 --> 00:01:37.039]  The peace deals I predicted last week fell through.
+[00:01:37.759 --> 00:01:45.019]  And now Trump has announced he's going to blockade everybody going through the strait and not let Iran get out its oil.
+[00:01:45.900 --> 00:01:49.800]  Iran's ready to sit there for months or years and play this game of chicken.
+[00:01:50.300 --> 00:01:52.180]  And I've been saying that will be the next move a blockade.
+[00:01:52.580 --> 00:01:56.639]  And why haven't our ships gone in there before when Trump said he was a few weeks ago?
+[00:01:56.740 --> 00:02:00.819]  Because then they can be hit by all the short range and medium range missiles and artillery.
+[00:02:01.900 --> 00:02:03.620]  So this is beyond insane.
+[00:02:04.479 --> 00:02:11.240]  The U.S. will now get the blame even more for the energy crisis that's already spread around the world.
+[00:02:11.620 --> 00:02:12.780]  Inflation numbers came in last week.
+[00:02:13.979 --> 00:02:15.939]  It is causing massive inflation in the United States as well.
+[00:02:17.500 --> 00:02:22.580]  And chain reactions around the planet, like Taiwan not being able to make chips because they can't get the liquid natural gas.
+[00:02:23.539 --> 00:02:24.500]  It goes on and on.
+[00:02:24.699 --> 00:02:33.039]  And Israel knew that when they attacked to drag us into it, that there was a good chance the Moodles wouldn't fall, but they were going to commit us to a full war and then face saving.
+[00:02:33.580 --> 00:02:40.500]  And now Trump is in a huge pissing contest with people that psychologically are not going to back down.
+[00:02:40.680 --> 00:02:44.159]  And I predict the Moodles are not going to fall, at least for six months a year.
+[00:02:44.979 --> 00:02:46.960]  And by then, the economy will be beyond devastated.
+[00:02:47.000 --> 00:02:49.020]  And that's what BlackRock and Larry Fink and the Rothschilds want.
+[00:02:49.060 --> 00:02:50.400]  And they're really happy right now.
+[00:02:50.859 --> 00:02:55.420]  They had the COVID lockdown to kill the economy, and their wealth doubled as the public lost about half theirs on average.
+[00:02:55.480 --> 00:03:02.280]  Now it's going to happen again because they've got all the free money to loan out and they'll put us on the global social credit score and all the rest of it.
+[00:03:03.641 --> 00:03:09.701]  Things were going so well till Trump let the tail wag the dog and Israel control our foreign policy and thus our domestic policy.
+[00:03:10.221 --> 00:03:11.801]  That's the reality in the year 2026.
+[00:03:12.581 --> 00:03:13.681]  Pray for an awakening.
+[00:03:13.721 --> 00:03:17.581]  Pray for Trump to wake up, call out Israel, and pull out of this now and make a real deal with Iran.
+[00:03:17.961 --> 00:03:18.581]  That's the only way.
+[00:03:18.621 --> 00:03:19.521]  It needs to be done now.
+[00:03:20.581 --> 00:03:21.701]  Follow me on the next, Real Alex Jones.
+[00:03:22.421 --> 00:03:24.921]  Full transmission tonight, right here, 4 to 6 p.m.
+[00:03:24.941 --> 00:03:25.881]  4 to 8 p.m.
+[00:03:25.941 --> 00:03:29.921]  Two shows on the Infowars Network, infowars.com forward slash show.
+[00:03:30.021 --> 00:03:31.201]  All right, folks.
+[00:03:31.241 --> 00:03:36.001]  That is a little transmission from our stalwart leader, Alex Jones.
+[00:03:36.061 --> 00:03:37.021]  I'm sitting in for Alex Jones.
+[00:03:37.061 --> 00:03:40.061]  Today, I'm Harrison Smith, of course, host of The War Room.
+[00:03:40.121 --> 00:03:45.301]  We've got a lot to cover in this two hour broadcast and then Sunday Night Live from 6 to 8.
+[00:03:45.341 --> 00:03:49.100]  Very glad that you're here with us in this all important time period.
+[00:03:49.221 --> 00:03:50.561]  Everything is accelerating.
+[00:03:50.621 --> 00:03:55.881]  Everything is getting that much more, well, for lack of a better word, insane.
+[00:03:56.201 --> 00:03:57.961]  Completely and utterly insane.
+[00:03:58.061 --> 00:03:59.100]  And I'd say, tenuous.
+[00:03:59.761 --> 00:04:07.301]  I'd say the sort of liminal character of our civilization is wearing a bit thin.
+[00:04:08.001 --> 00:04:12.761]  And we are on the cusp of some really horrifying stuff, really all over the world.
+[00:04:13.581 --> 00:04:15.901]  And we've seen this type of thing before.
+[00:04:16.461 --> 00:04:21.701]  In fact, if you remember, I did a year in review in 2019 for the year 2019.
+[00:04:21.740 --> 00:04:24.181]  I called it the year the mask came off.
+[00:04:24.821 --> 00:04:36.040]  Because all throughout 2019, there were these uprisings, these upstart revolutions taking place the yellow vests in France, the Hong Kong rebellion against Chinese control there.
+[00:04:36.501 --> 00:04:42.201]  And in every case, the powers that be, Sort of said, yeah, we pretend to be democracies, but not anymore.
+[00:04:42.240 --> 00:04:43.261]  Actually, we're just going to crush you.
+[00:04:43.761 --> 00:04:45.081]  So I called it the year the mask came off.
+[00:04:45.261 --> 00:04:47.701]  Ironic because the next year was the year of the mask.
+[00:04:48.281 --> 00:04:52.540]  I didn't know it at the time, but it was the year that they basically said, you know what?
+[00:04:52.620 --> 00:04:57.161]  We are tyrants and we will crush you and we will do what we want regardless of how it affects the people.
+[00:04:58.021 --> 00:04:59.620]  It feels like we're in that situation again.
+[00:05:00.100 --> 00:05:04.661]  So before 2019, it felt like we were on the cusp of a worldwide revolution and then COVID hit.
+[00:05:05.261 --> 00:05:07.701]  Here we are on the cusp once again and Iran hits.
+[00:05:07.801 --> 00:05:08.421]  Not a coincidence.
+[00:05:08.461 --> 00:05:09.341]  I'll explain it on the other side.
+[00:05:09.381 --> 00:05:09.721]  Stay with us.
+[00:05:10.141 --> 00:05:11.581]  Welcome, ladies and gentlemen.
+[00:05:11.740 --> 00:05:17.301]  Gentlemen, to the Alex Jones Show, I'm your host, Harrison Smith, sitting in for Alex on this Sunday evening broadcast.
+[00:05:17.360 --> 00:05:20.041]  It is the 12th of April, 2026.
+[00:05:20.341 --> 00:05:25.360]  We stand on the cusp of total change, one way or the other.
+[00:05:26.281 --> 00:05:29.421]  It feels like we've been in this position for a while now.
+[00:05:30.841 --> 00:05:37.301]  I remember all the way back in 2018 saying that we are now in the crucible in the process of forging a sword.
+[00:05:37.901 --> 00:05:44.301]  You put a lot of work in, and sort of one of the last steps is the crucible, and it's the Hottest point.
+[00:05:44.461 --> 00:05:53.941]  It's the point in which all of that work that's come before either goes to nothing or succeeds, and you get a nice, you know, brilliantly made sword out of it.
+[00:05:54.341 --> 00:05:55.081]  That's where we're at.
+[00:05:55.161 --> 00:06:11.081]  The most intense heat, most intense pressure, and all of the work that we've done up till this point could easily just be completely spoiled, and we could be in a worse position we were than when we started, or we can get out of this refined, sharpened, honed.
+[00:06:13.141 --> 00:06:14.420]  And successful and victorious.
+[00:06:14.661 --> 00:06:16.401]  And we're sort of on that cusp.
+[00:06:16.500 --> 00:06:20.940]  It feels like we are at the tipping point, one way or the other.
+[00:06:21.781 --> 00:06:25.581]  And if you were watching InfoWars last week, you got to witness a miracle.
+[00:06:25.961 --> 00:06:30.880]  You got to witness an honest to God coincidence beyond coincidence.
+[00:06:31.721 --> 00:06:37.600]  When you had Alex Jones talking to, I believe his name is Pastor James Williams of Darkwater.
+[00:06:39.021 --> 00:06:41.380]  And he goes, he's going on and on about the battle axe.
+[00:06:41.440 --> 00:06:43.201]  And the battle axe arrives at exactly that.
+[00:06:43.260 --> 00:06:46.500]  Time with a letter saying, God told me to send this to you.
+[00:06:46.701 --> 00:06:48.141]  Just crazy coincidences.
+[00:06:49.120 --> 00:06:49.740]  So crazy.
+[00:06:50.260 --> 00:07:00.581]  And this is like kind of one of these ironies you've got some people claiming that we faked it, which it's like hard to even believe people would seriously suggest that if you've watched the video.
+[00:07:02.341 --> 00:07:06.000]  Hard to understand how that would have been faked or why we would have faked it.
+[00:07:06.540 --> 00:07:09.000]  Just kind of a weird thing for them to suggest.
+[00:07:10.021 --> 00:07:12.760]  But what it means is that it's real, right?
+[00:07:12.841 --> 00:07:24.521]  It's like, If it wasn't a real marriage, if it wasn't something actually miraculous, actually beyond, you know, natural description, it seemed a little bit supernatural the way it worked out.
+[00:07:25.281 --> 00:07:29.201]  And people saying it's fake is because they recognize that and they just don't want to believe it.
+[00:07:29.661 --> 00:07:36.341]  But if it was just a ridiculous, like, oh my gosh, I, you know, whatever, I sneezed right when you said that thing.
+[00:07:36.420 --> 00:07:37.201]  So it must be true.
+[00:07:37.240 --> 00:07:40.721]  Like it wasn't just some sort of random minor coincidence.
+[00:07:41.081 --> 00:07:43.781]  This was something so crazy.
+[00:07:44.000 --> 00:07:46.021]  Like even just, and I witnessed it myself.
+[00:07:46.120 --> 00:07:49.641]  I sat there and watched Rob Do walk by with the, With the axe as he was going into the studio.
+[00:07:49.740 --> 00:07:50.961]  My office is right outside the door.
+[00:07:51.000 --> 00:07:52.641]  And it was amazing.
+[00:07:52.760 --> 00:07:56.620]  And again, people recognize how insane it was.
+[00:07:57.000 --> 00:07:59.040]  And so they choose to think, nah, they must have faked it.
+[00:07:59.581 --> 00:08:01.961]  It's too unbelievable that that would have actually happened.
+[00:08:03.201 --> 00:08:04.180]  No, it actually happened.
+[00:08:04.600 --> 00:08:16.461]  And so what you're really expressing here is doubt and skepticism that should, in fact, be wonder and awe and like reverence for what you've witnessed.
+[00:08:17.360 --> 00:08:20.701]  But again, if it wasn't as crazy as we thought it was, nobody would say we faked it.
+[00:08:21.260 --> 00:08:22.140]  They would just say, What the hell?
+[00:08:22.281 --> 00:08:23.380]  So, an act showed up?
+[00:08:23.500 --> 00:08:23.880]  So, what?
+[00:08:23.941 --> 00:08:24.760]  No, it was crazy.
+[00:08:25.360 --> 00:08:29.781]  It was meaningful to those of us that watched it unfold.
+[00:08:32.420 --> 00:08:41.681]  And of course, the coincidence of it happening right before Alex Jones is attacked by Donald Trump was all very spectacular.
+[00:08:41.760 --> 00:08:44.380]  And I thought maybe we should pull that video in.
+[00:08:44.480 --> 00:08:45.561]  So I did a little five minute video.
+[00:08:45.780 --> 00:08:47.520]  Because just watching the video, it's almost not enough.
+[00:08:47.561 --> 00:08:52.860]  You almost need the context of like, here's what actually just happened right in front of all of us.
+[00:08:54.120 --> 00:08:56.701]  And it was really spectacular.
+[00:08:57.120 --> 00:08:59.221]  And then you have Donald Trump.
+[00:09:00.000 --> 00:09:05.941]  Attacking Alex Jones, which again, I can't help but see a sort of like, we witnessed what happened with the axe.
+[00:09:06.061 --> 00:09:06.740]  It was like crazy.
+[00:09:06.860 --> 00:09:07.721]  Alex is crying.
+[00:09:07.800 --> 00:09:11.240]  I'm like holding back tears, like, oh my God, I can't believe that just happened.
+[00:09:11.280 --> 00:09:12.920]  This guy telling Alex Jones, you're the battle axe.
+[00:09:12.961 --> 00:09:14.160]  You're the battle axe of God.
+[00:09:14.321 --> 00:09:18.540]  And then this battle axe like descends from heaven and it's like, I am from God.
+[00:09:19.300 --> 00:09:20.640]  It's like, wow, this was crazy.
+[00:09:21.561 --> 00:09:24.660]  Then three hours later, Donald Trump attacks Alex Jones.
+[00:09:25.341 --> 00:09:33.020]  And suddenly it's like, what was already perceived as a miraculous event takes on this whole new meaning of like, oh, this, maybe this is what it was about.
+[00:09:33.600 --> 00:09:33.880]  Maybe.
+[00:09:34.640 --> 00:09:38.540]  And people, even that, seem to not understand what I'm saying.
+[00:09:39.660 --> 00:09:43.260]  I'm saying that Satan wants Alex Jones enraged.
+[00:09:44.120 --> 00:09:49.520]  Satan wants Donald Trump attacking his own friends, and he wants those friends attacking Donald Trump back.
+[00:09:49.921 --> 00:09:52.841]  Satan wants division and strife and chaos.
+[00:09:54.040 --> 00:10:05.280]  And maybe if the day had gone differently, if Alex was in a terrible mood, if he'd just been hit with some bad bankruptcy decision and stubbed his toe and, you know, all that stuff.
+[00:10:05.380 --> 00:10:08.040]  And then he got hit with, you know, the Donald Trump.
+[00:10:09.081 --> 00:10:12.581]  Diatribe, the hatred diatribe, you know, maybe would have responded differently.
+[00:10:12.620 --> 00:10:16.081]  Maybe would have come out swinging and said, screw you, you know, blah, blah, blah.
+[00:10:16.140 --> 00:10:16.540]  But he didn't.
+[00:10:16.600 --> 00:10:21.561]  He had been given this gift from God as assurance, it seems to us.
+[00:10:22.520 --> 00:10:25.480]  And again, I have people being like, oh, this is very blasphemous.
+[00:10:25.961 --> 00:10:27.201]  I genuinely don't understand that.
+[00:10:27.640 --> 00:10:30.181]  You're saying that it's blasphemous to witness miracles.
+[00:10:31.641 --> 00:10:31.740]  What?
+[00:10:32.980 --> 00:10:42.161]  You're saying that's blasphemous for something to happen, seemingly miraculous thing happens, and we're supposed to go, but that's not from God.
+[00:10:42.221 --> 00:10:47.221]  It's blasphemous to see God's handiwork here in the mortal realm.
+[00:10:47.281 --> 00:10:50.021]  You're not allowed to see God's work here on earth.
+[00:10:50.980 --> 00:10:53.100]  It's like, this is, that's what a crazy thing to think.
+[00:10:53.401 --> 00:10:56.100]  No, the blasphemous thing would be to be if we faked it.
+[00:10:57.120 --> 00:10:57.880]  People get confused.
+[00:11:00.541 --> 00:11:04.980]  A paralyzed person, and you pray to God, and suddenly you can walk, that's a miracle.
+[00:11:06.421 --> 00:11:17.360]  If you're a preacher that brings up a not paralyzed person in a wheelchair and then commands them to walk and they get up and walk and pretend like if they fake it, that's blasphemy.
+[00:11:18.240 --> 00:11:23.801]  If you're pretending to witness or engage in miracles because you want people's money, that's blasphemy.
+[00:11:23.880 --> 00:11:28.021]  That's the worst sin you can commit, according to some interpretations.
+[00:11:28.801 --> 00:11:33.701]  But actually witnessing a miracle and then saying, guys, I'm pretty sure we just saw a sign from God.
+[00:11:34.181 --> 00:11:36.240]  I don't understand how that could be blasphemy.
+[00:11:36.381 --> 00:11:36.980]  I really don't.
+[00:11:37.841 --> 00:11:44.721]  Again, unless you're saying, like, oh, look, a robin landed on the window right as I said that God approves of what I'm saying and we have to do it.
+[00:11:44.980 --> 00:11:45.600]  That's not what we're saying.
+[00:11:45.721 --> 00:11:49.901]  We're saying what we witnessed felt and seemed miraculous in all sincerity.
+[00:11:50.401 --> 00:11:50.721]  It was crazy.
+[00:11:51.141 --> 00:11:57.240]  The reason I'm saying all this, I'm not just like, you know, trying to ramble about this miracle we witnessed, even though it was worth rambling about.
+[00:11:58.461 --> 00:12:05.100]  It's because we're in a situation where we haven't wanted to drop Donald Trump.
+[00:12:05.181 --> 00:12:06.360]  We have not wanted.
+[00:12:07.381 --> 00:12:10.181]  To be on Donald Trump's bad side.
+[00:12:11.401 --> 00:12:19.801]  We have tried against all, you know, prevailing sentiment, perhaps against all reason and logic.
+[00:12:19.881 --> 00:12:22.921]  We have tried so hard to cling on to Donald Trump.
+[00:12:25.201 --> 00:12:27.441]  And it's almost like we needed the slap in the face.
+[00:12:28.381 --> 00:12:30.461]  We needed the outright rejection.
+[00:12:30.581 --> 00:12:34.120]  We needed the ambiguity and the nuance to be stripped away.
+[00:12:35.041 --> 00:12:40.701]  And for what's left over, just to be, Donald Trump is not worth your support.
+[00:12:41.441 --> 00:12:42.281]  It's time to move on.
+[00:12:42.701 --> 00:13:00.020]  And here's the craziest thing about the axe, and the thing that really I think puts it into the realm of the miraculous is that the letter that came along with the axe describes that exact process that I just described of wanting something so badly and thinking that it's possible.
+[00:13:00.061 --> 00:13:03.941]  And even as it gets farther and farther away, you still cling to the dream and you still are.
+[00:13:04.141 --> 00:13:08.120]  But if we could just get him to do the stuff, if we can just get Trump on the.
+[00:13:09.520 --> 00:13:15.221]  Because the guy who made the axe, who by the way is now on X, and I'll get you his account, because now we found.
+[00:13:15.641 --> 00:13:25.161]  The son of the guy, by the way, if you do think that it wasn't a miracle, the guy put the literal shipping receipt so you can see exactly when the axe was shipped and when it arrived.
+[00:13:25.201 --> 00:13:26.980]  Like it's beyond confirmed.
+[00:13:28.140 --> 00:13:33.160]  And so the carpenter, the Cynthia Axe, is now on Axe, and I'll get you his account so you can follow him because that's very cool.
+[00:13:34.660 --> 00:13:51.201]  But he wrote a letter saying, I had this vision, I had this idea, I had this dream, this fantasy that I'd go to the Alex Jones store.com, I'd make a purchase, and I'd win the truck, I'd win the raffle, and I'd get to come down to Austin to meet Alex Jones to pick up my new car, and I'd be able to deliver him the Axe in person, right?
+[00:13:51.260 --> 00:13:54.841]  That's the fantasy, that's the dream, that's the thing he was clinging on to.
+[00:13:54.920 --> 00:14:04.000]  And for months, he clinged, he, Cling to that dream until it was finally his son saying, Look, that may be nice if that were to happen, but like, what if it doesn't happen?
+[00:14:04.060 --> 00:14:04.860]  That might not happen.
+[00:14:04.941 --> 00:14:07.560]  So just go with what you know, right?
+[00:14:08.260 --> 00:14:15.420]  Why cling to the fantastical hope that maybe you could win a raffle and go visit him?
+[00:14:16.480 --> 00:14:20.640]  You know, why put all your money on that when you can just mail it to him and it's a sure thing?
+[00:14:21.581 --> 00:14:31.400]  And so the axe comes along with this message, with this lesson that applies directly to Alex Jones of like, hey, you've got the fantasy, you've got the dream of Donald Trump.
+[00:14:31.841 --> 00:14:32.920]  It's time to let it go.
+[00:14:34.100 --> 00:14:34.820]  It's time to let it go.
+[00:14:37.000 --> 00:14:38.260]  And I've experienced this in my own life.
+[00:14:39.221 --> 00:14:47.240]  Friends or people I worked with, where it's like, I should have maybe years ago been like, I can't work with these guys anymore.
+[00:14:47.300 --> 00:14:48.181]  I got to do something else.
+[00:14:48.221 --> 00:14:49.780]  But you just want to cling on to it.
+[00:14:49.820 --> 00:14:50.721]  You don't want to lose it.
+[00:14:51.240 --> 00:14:56.221]  And you really need a betrayal, a slap in the face to go, okay, God, I get it.
+[00:14:56.941 --> 00:14:59.520]  You're pushing me away from what I'm doing.
+[00:15:00.320 --> 00:15:03.100]  That's how I got the job at InfoWars, by the way, in case you were curious.
+[00:15:04.100 --> 00:15:11.860]  Literally, like clinging on to this impossible dream for so long, and then finally being just completely betrayed and being like, Guess I got to give up on this.
+[00:15:12.000 --> 00:15:14.140]  I guess it's finally time to give up on this dream.
+[00:15:15.160 --> 00:15:17.181]  Better go to Craigslist and see what jobs are out there.
+[00:15:17.900 --> 00:15:19.280]  Boom, first job, InfoWars.
+[00:15:20.640 --> 00:15:21.140]  Crazy stuff.
+[00:15:21.201 --> 00:15:23.040]  Crazy how coincidences like that happen.
+[00:15:23.420 --> 00:15:27.560]  So, all this is to say is that we have gotten the signal now.
+[00:15:27.640 --> 00:15:28.660]  We have received the signal.
+[00:15:28.961 --> 00:15:31.841]  It is no longer ambiguous, it is no longer nuanced.
+[00:15:32.520 --> 00:15:33.941]  Donald Trump is not the guy.
+[00:15:35.081 --> 00:15:46.540]  Maybe we should have, maybe we'd be in a better position if we'd realized this before, but I think our opposition now to Donald Trump is only strengthened and made more legitimate by the fact that we have not thrown him under the bus.
+[00:15:46.640 --> 00:15:49.920]  We did not throw him under the bus for Ron DeSantis, like so many people out there did.
+[00:15:50.480 --> 00:15:56.980]  We did not throw him under the bus when it looked like he was being thrown into prison or persecuted by the left.
+[00:15:57.520 --> 00:16:11.140]  We have, in total good faith, tried desperately to believe in the promise of Donald Trump and finally, out of his own mouth, On his own post, we have been told, I am not the guy.
+[00:16:12.120 --> 00:16:13.160]  Donald Trump is not the guy.
+[00:16:13.300 --> 00:16:14.181]  It's time to move on.
+[00:16:14.260 --> 00:16:15.681]  And everybody's sort of getting that message.
+[00:16:17.620 --> 00:16:25.660]  And to be honest, we probably should have learned it a little while ago because, regardless of what you think about Trump, he's not the candidate in 2028.
+[00:16:25.860 --> 00:16:26.640]  Somebody else is.
+[00:16:27.081 --> 00:16:34.260]  So when you go to CPAC and you see Donald Trump's face blown up the size of buildings everywhere, that's kind of counterproductive.
+[00:16:35.100 --> 00:16:38.920]  He's not going to be a candidate in 2028, he's not a candidate in 2026.
+[00:16:39.380 --> 00:16:44.280]  How is it helpful to have a cult of personality around a guy who's not even going to be running for office?
+[00:16:44.721 --> 00:16:45.400]  It doesn't make any sense.
+[00:16:45.721 --> 00:16:59.880]  Especially when that guy has now completely and totally sacrificed all the goodwill, all the benefit of the doubt, all of the political impetus, the mandate we delivered to him in office, he has squandered it all.
+[00:17:02.080 --> 00:17:15.461]  So, what should have happened and what we were begging Trump to do the entire time was that Trump should have taken his popularity, taken the revolution that he represented in American politics, and brought up a bunch of people with him.
+[00:17:16.701 --> 00:17:20.240]  The only people he brought up with him, he has now casted aside people like Marjorie Taylor Greene.
+[00:17:20.300 --> 00:17:21.441]  She's a great example, right?
+[00:17:21.681 --> 00:17:26.360]  Somebody that rode in on the Trump wave of a bunch of people going, hey, Trump is kicking butt.
+[00:17:26.400 --> 00:17:27.520]  We need more people like him.
+[00:17:28.280 --> 00:17:30.721]  And people like Marjorie Taylor Greene are like him.
+[00:17:30.820 --> 00:17:33.240]  So, They've been tossed to the side.
+[00:17:33.380 --> 00:17:34.600]  Lindsey Graham is now in charge.
+[00:17:35.040 --> 00:17:36.260]  Mark Levin is now in charge.
+[00:17:36.721 --> 00:17:39.661]  They are now MAGA, and you are not, and I am not, and we are not.
+[00:17:39.760 --> 00:17:41.620]  So thank you, Trump, for letting us know.
+[00:17:42.201 --> 00:17:43.000]  Message received.
+[00:17:43.140 --> 00:17:44.020]  It's time to move on.
+[00:17:44.941 --> 00:17:46.161]  And so that's what's happening politically.
+[00:17:46.240 --> 00:17:58.760]  And we can show you some interesting events here over the weekend, including Donald Trump appearing, doing one of his favorite things, and appearing at a UFC event, MMA event.
+[00:17:59.380 --> 00:18:01.441]  And he actually appeared at this event.
+[00:18:02.201 --> 00:18:17.921]  Last year, and the reaction a little bit different, a little bit of a more subdued and muted response, told Donald Trump getting into the UFC.
+[00:18:19.221 --> 00:18:21.740]  And if we can go to that video, it's in my list.
+[00:18:21.780 --> 00:18:22.320]  Do y'all have it?
+[00:18:25.201 --> 00:18:25.980]  Clip number 58.
+[00:18:26.500 --> 00:18:29.721]  Here it is: Trump above in 2025, below in 2026.
+[00:18:30.520 --> 00:18:35.540]  And you'll notice in 2026, they pumped the music quite a bit just to try to drown out the.
+[00:18:36.961 --> 00:18:37.441]  The Booing.
+[00:18:37.640 --> 00:18:38.980]  Let's watch.
+[00:18:52.152 --> 00:18:52.195]  Jay.
+[00:18:58.339 --> 00:18:59.559]  So, just massive energy.
+[00:18:59.940 --> 00:19:01.019]  Everybody's standing.
+[00:19:01.200 --> 00:19:17.879]  Everybody's got their hands in the air with the films, trying to just capture a glimpse of the king, a glimpse of the newly crowned president of the United States as he walks triumphant into the UFC to just deafening cheers and a standing ovation.
+[00:19:18.940 --> 00:19:24.319]  That was one year ago, almost exactly one year ago, with the same people in the train, right?
+[00:19:24.419 --> 00:19:28.680]  Same people coming along with him into this event.
+[00:19:30.099 --> 00:19:31.159]  Pretty different.
+[00:19:32.819 --> 00:19:34.019]  To what happened in 2026.
+[00:19:34.819 --> 00:19:35.819]  Here's 2026.
+[00:19:36.099 --> 00:19:45.940]  The 45th and now 47th President of the United States of America, Donald J. Trump.
+[00:19:45.980 --> 00:19:47.419]  Not a lot of people standing up.
+[00:19:50.759 --> 00:19:52.460]  A little bit lower energy.
+[00:19:52.599 --> 00:19:53.879]  You can just feel it.
+[00:19:56.039 --> 00:19:57.519]  Nobody's reaching out to grab him.
+[00:19:58.159 --> 00:20:01.159]  Nobody's trying desperately just to get a high five from Donald Trump.
+[00:20:04.279 --> 00:20:05.019]  Subdued.
+[00:20:05.700 --> 00:20:07.059]  There were actually a lot of booze there.
+[00:20:07.099 --> 00:20:12.379]  People posted other videos from different angles where you can see not the official audio.
+[00:20:12.519 --> 00:20:14.240]  That was mostly the music.
+[00:20:14.559 --> 00:20:15.379]  Yeah, and who's he?
+[00:20:15.599 --> 00:20:17.559]  I think he shakes hands at Dan Bongino.
+[00:20:18.420 --> 00:20:18.639]  Don?
+[00:20:18.740 --> 00:20:19.139]  Is it Don?
+[00:20:20.460 --> 00:20:20.960]  No joke.
+[00:20:21.099 --> 00:20:23.740]  I literally don't know if his name is Dan or Don Bongino.
+[00:20:23.940 --> 00:20:24.960]  I can never remember.
+[00:20:26.399 --> 00:20:30.379]  That's not just me trying to subtly disrespect him by getting his name wrong.
+[00:20:30.839 --> 00:20:34.319]  That is me overtly disrespecting him by not caring what his name is.
+[00:20:36.099 --> 00:20:38.379]  Dan Don Bonginjo.
+[00:20:39.759 --> 00:20:40.139]  So there you go.
+[00:20:40.980 --> 00:20:45.980]  This, of course, is reflected in the polls that are coming out.
+[00:20:46.019 --> 00:20:54.539]  Of course, not the CNN poll where they're like, we asked five diehard Trump supporters if they liked Iran, and he has 100% approval rating.
+[00:20:55.159 --> 00:20:55.679]  Okay, sure.
+[00:20:56.460 --> 00:21:12.299]  However, a CBS News poll has shown that Trump's approval trend among white non college voters has cratered in just the last few months, not over the course of a year, not over the course of six months, between February and April.
+[00:21:13.500 --> 00:21:14.859]  It went from green to red.
+[00:21:14.980 --> 00:21:19.480]  So, February 2025, one year ago, he was plus 36 with this group of people.
+[00:21:20.920 --> 00:21:24.399]  By the time September rolled around, he was only plus 26.
+[00:21:24.779 --> 00:21:30.720]  So, he'd already lost a bunch of them, probably by getting rid of Doge and starting the bombing campaign on Iran.
+[00:21:30.799 --> 00:21:35.679]  And, you know, but people still overwhelmingly happy with him and in favor of him.
+[00:21:36.579 --> 00:21:40.819]  By the time 2026 of this year rolls around, we're looking at only plus 10.
+[00:21:40.940 --> 00:21:45.319]  So, all right, not great, but not terrible either, at least in the positives.
+[00:21:45.899 --> 00:21:47.240]  Now he's at negative four.
+[00:21:47.639 --> 00:21:56.960]  As of April 2026, that's a net 40 point negative swing in a single year, which is hard to do without killing someone.
+[00:21:58.119 --> 00:21:58.659]  Right?
+[00:21:58.700 --> 00:22:02.940]  I mean, it's like, but I guess he did, only he didn't kill someone.
+[00:22:03.000 --> 00:22:04.099]  He killed our nation.
+[00:22:04.139 --> 00:22:05.519]  He killed America, actually.
+[00:22:06.240 --> 00:22:07.679]  And I'm not even exaggerating there.
+[00:22:08.299 --> 00:22:20.799]  But to me, the even more shocking thing is the 14 point drop in two months 40 points over a year, but 14 points between February and April.
+[00:22:21.220 --> 00:22:21.839]  Of 2026.
+[00:22:22.079 --> 00:22:27.500]  So again, you can blame this on podcasters, but we've been talking the whole year.
+[00:22:28.639 --> 00:22:30.299]  The collapse only came after Iran.
+[00:22:30.559 --> 00:22:33.740]  This isn't about who's criticizing you, it's about what you're doing.
+[00:22:34.599 --> 00:22:42.420]  And this, again, is just the height of absurdity of all of this the fact that they mess up and then want to blame the people talking about their mess ups.
+[00:22:43.299 --> 00:22:49.899]  They betray the country and then want to blame the podcasterslash radio television hosts.
+[00:22:50.500 --> 00:22:51.559]  Hi, I'm on the radio right now.
+[00:22:53.240 --> 00:22:57.079]  For responding to or reacting to the terrible policy decisions.
+[00:22:58.948 --> 00:23:05.500]  And so, this attack on Alex Jones, the attack on Tucker Carlson and others, has been an act of total desperation.
+[00:23:05.605 --> 00:23:08.818]  Here's how Alex Jones responded with JP Sears this weekend.
+[00:23:13.339 --> 00:23:14.599]  Do IQ tests here?
+[00:23:15.180 --> 00:23:16.419]  Yep, that's what we do.
+[00:23:17.079 --> 00:23:18.339]  Okay, because I think I need one.
+[00:23:18.960 --> 00:23:20.319]  Okay, yeah, we can do that.
+[00:23:21.500 --> 00:23:22.259]  Why do you need one?
+[00:23:22.579 --> 00:23:24.779]  Well, I've had some people lately telling me I have a low IQ.
+[00:23:24.899 --> 00:23:27.200]  Ooh, shots fired.
+[00:23:27.539 --> 00:23:30.059]  Gosh, who's been telling you that?
+[00:23:30.559 --> 00:23:37.500]  Well, some people online have been telling me that, like the president, and even my dogs are looking at me a little bit condescendingly now.
+[00:23:38.019 --> 00:23:39.039]  Well, we'll find out.
+[00:23:39.440 --> 00:23:46.680]  So, with this IQ test, I'll just ask you a series of simple, really common sense questions, and you just give me your best answer.
+[00:23:47.039 --> 00:23:48.759]  I'm actually kind of a little bit nervous right now.
+[00:23:49.339 --> 00:23:57.859]  Oh, yeah, you should be because if you turn out to be what some would call a low IQ nut job, then you're pretty much a lost cause.
+[00:23:58.079 --> 00:23:59.119]  Well, that doesn't sound good.
+[00:23:59.419 --> 00:24:03.299]  All right, first question Which word doesn't belong?
+[00:24:04.139 --> 00:24:08.319]  Apple, banana, carrot, orange.
+[00:24:09.399 --> 00:24:09.919]  Is it carrot?
+[00:24:10.680 --> 00:24:13.720]  Very good because it's not a fruit and all.
+[00:24:14.099 --> 00:24:14.819]  It's clever.
+[00:24:15.359 --> 00:24:19.279]  Next question Who would be considered more of a traitor to their country?
+[00:24:19.819 --> 00:24:29.940]  Person A who receives $230 million from a foreign lobby, or person B who receives $0 from a foreign lobby.
+[00:24:30.579 --> 00:24:33.579]  I mean, clearly, person A. Wrong.
+[00:24:33.980 --> 00:24:35.200]  Come on, that's got to be correct.
+[00:24:35.539 --> 00:24:35.980]  Next.
+[00:24:36.299 --> 00:24:37.399]  Hypothetical question.
+[00:24:37.539 --> 00:24:50.920]  If a country has a major shipping waterway that you want to have open, and it's currently open, but they'll close it if you go to war, what would be a smart way to ensure that waterway stays open?
+[00:24:51.480 --> 00:24:52.420]  You don't go to war with them.
+[00:24:52.799 --> 00:24:54.019]  No, not even close.
+[00:24:54.359 --> 00:25:05.839]  Common sense would say go to war with that country and stay at war with that country as a way of putting pressure on them to reopen it after they've closed it because you went to war with them.
+[00:25:06.299 --> 00:25:07.539]  Are you playing with a full deck?
+[00:25:08.159 --> 00:25:10.059]  I don't play cards, but thanks for asking.
+[00:25:10.579 --> 00:25:11.460]  Oh, and this is a good one.
+[00:25:11.740 --> 00:25:19.740]  If you had the desire to take down an international pedophile ring, what would be the best way to follow through on that desire?
+[00:25:19.960 --> 00:25:26.379]  Well, you launch a full investigation using every means necessary, and then you prosecute those bastards to the fullest extent of the law.
+[00:25:27.019 --> 00:25:27.339]  Wrong.
+[00:25:27.740 --> 00:25:27.799]  No.
+[00:25:28.339 --> 00:25:32.119]  You would launch an effort to prevent any investigations and prosecutions.
+[00:25:32.440 --> 00:25:33.299]  That can't be right.
+[00:25:33.700 --> 00:25:36.579]  Well, an ounce of prevention is worth a pound of cure.
+[00:25:37.599 --> 00:25:39.039]  These questions are kind of weird.
+[00:25:39.379 --> 00:25:43.240]  Oh, I assure you, these are standardized IQ test questions, sir.
+[00:25:43.779 --> 00:25:44.440]  Next question.
+[00:25:44.960 --> 00:25:45.940]  Here's a scenario.
+[00:25:46.539 --> 00:25:51.099]  You got a person, they work for America and America only.
+[00:25:52.159 --> 00:25:54.059]  What country does that person work for?
+[00:25:54.420 --> 00:25:54.839]  America?
+[00:25:55.299 --> 00:25:56.220]  That's incorrect.
+[00:25:56.720 --> 00:25:58.200]  They work for Iran.
+[00:25:58.940 --> 00:25:59.460]  Next question.
+[00:25:59.819 --> 00:26:04.779]  Who's more beautiful as a woman, France's first lady, or maybe man, or Candace Owens?
+[00:26:05.059 --> 00:26:05.799]  Candace Owens?
+[00:26:07.539 --> 00:26:07.639]  No.
+[00:26:08.259 --> 00:26:10.079]  Have you seen France's first lady?
+[00:26:10.980 --> 00:26:12.559]  I would totally do her.
+[00:26:12.980 --> 00:26:15.639]  If she had an OnlyFans, I would subscribe.
+[00:26:15.799 --> 00:26:17.059]  Any reasonable man would.
+[00:26:17.539 --> 00:26:20.940]  Okay, how would you describe what America first means?
+[00:26:21.279 --> 00:26:24.500]  Putting America's interests first above any other foreign nation.
+[00:26:24.920 --> 00:26:27.420]  No, you're actually describing anti Semitism.
+[00:26:28.559 --> 00:26:28.819]  Yuck.
+[00:26:29.319 --> 00:26:30.480]  Okay, last question.
+[00:26:31.381 --> 00:26:33.060]  What year did we first land on the moon?
+[00:26:33.461 --> 00:26:34.681]  We've never been to the moon.
+[00:26:36.901 --> 00:26:38.681]  No, we've been to the moon.
+[00:26:39.240 --> 00:26:40.181]  We go all the time.
+[00:26:40.560 --> 00:26:42.020]  Well, your test is complete.
+[00:26:42.240 --> 00:26:44.840]  I've never seen a score like this before.
+[00:26:45.161 --> 00:26:45.641]  What did I get?
+[00:26:46.060 --> 00:26:48.141]  You got an IQ of 65.
+[00:26:48.320 --> 00:26:48.840]  Is that high?
+[00:26:49.401 --> 00:26:52.240]  No, no, that's a very low IQ.
+[00:26:52.980 --> 00:26:54.580]  My life is literally ruined.
+[00:26:55.661 --> 00:26:56.340]  He was right.
+[00:26:57.340 --> 00:26:57.980]  Who was right?
+[00:26:58.300 --> 00:26:59.661]  Just don't worry about that now.
+[00:27:00.141 --> 00:27:04.381]  My big question is what am I going to do with my life now that I've learned that I am so stupid?
+[00:27:04.701 --> 00:27:07.840]  Well, Just remember, you're also not a job.
+[00:27:08.161 --> 00:27:10.381]  But yeah, you're pretty screwed.
+[00:27:10.740 --> 00:27:17.921]  Really, the only option I can give low IQ people such as yourself is to go off and open a Somali daycare.
+[00:27:18.901 --> 00:27:20.221]  I am completely devastated.
+[00:27:25.020 --> 00:27:30.100]  Absolutely brilliant response from JP Sears and Alex Jones.
+[00:27:30.141 --> 00:27:33.901]  You can find that on Alex's ex account at real Alex Jones.
+[00:27:33.941 --> 00:27:37.641]  That's JP Sears and Alex with the perfect response to Donald Trump.
+[00:27:38.421 --> 00:27:39.560]  He wanted rage.
+[00:27:39.621 --> 00:27:40.641]  He wanted outrage.
+[00:27:40.701 --> 00:27:41.540]  He wanted a fight.
+[00:27:41.721 --> 00:27:42.701]  Nah, just mockery.
+[00:27:43.260 --> 00:27:44.060]  You sad old man.
+[00:27:44.560 --> 00:27:54.500]  I'm very pleased to announce two new great products at thealyxrunstore.com that will 100% work and deliver you energy, clarity, and also when you want to relax, great calm, rest, and sleep.
+[00:27:55.020 --> 00:28:00.161]  Now, a lot of our products are very complex, game changing, cutting edge, you name it.
+[00:28:00.760 --> 00:28:06.080]  But there's a lot of things that are very simple and proven that are still the best.
+[00:28:06.580 --> 00:28:09.600]  Now, we have several other great energy formulas at thealyxrunstore.com.
+[00:28:09.701 --> 00:28:10.421]  They're more complex.
+[00:28:11.020 --> 00:28:13.880]  But Ultimate Energy is very, Very simple.
+[00:28:14.300 --> 00:28:20.901]  And this is one of the most popular long running energy combinations on the market at Whole Foods and everywhere else because it really works.
+[00:28:21.300 --> 00:28:22.500]  It's ultimate energy.
+[00:28:22.800 --> 00:28:23.760]  The Alexfield Shore.com.
+[00:28:24.421 --> 00:28:35.260]  Very strong dose of wide spectrum organic time released caffeine with a big dose of high quality L theanine that gives you focus and clarity but relaxes you.
+[00:28:35.641 --> 00:28:40.901]  So with the caffeine, it's very, very smooth without the letdown, lasts up to 10 hours.
+[00:28:41.201 --> 00:28:42.100]  That's ultimate energy.
+[00:28:42.461 --> 00:28:44.921]  But when you're ready to relax, Ultimate chill.
+[00:28:45.480 --> 00:28:51.621]  A strong dose of high quality ashwagandha root, known for thousands of years, gives people rest, clarity, focus.
+[00:28:51.980 --> 00:28:54.921]  Doesn't make you tired, just makes you relax, kind of a zen focus.
+[00:28:55.360 --> 00:29:00.080]  And then on top of that, a big dose of L-theanine that also gives you calm, clear focus.
+[00:29:00.441 --> 00:29:03.201]  Great rest, great relaxation, great dreams.
+[00:29:03.540 --> 00:29:05.820]  It's so good for your immune system, your entire body.
+[00:29:06.260 --> 00:29:15.780]  So some days when I've been working from 5 a.m. to say 10 p.m., and I've been jacked up on our great supplements and you name it, This formula, Ultimate Chill.
+[00:29:16.161 --> 00:29:20.441]  That's why I actually came to Begley and said, Hey, I'm already using a brand from Whole Foods.
+[00:29:20.560 --> 00:29:21.280]  This is what's in it.
+[00:29:21.340 --> 00:29:22.840]  Make it a little bit stronger.
+[00:29:23.320 --> 00:29:25.941]  So, this is a formula I've been using for years to relax.
+[00:29:26.380 --> 00:29:31.661]  I'm having trouble being able to kind of ease into non work mode.
+[00:29:32.060 --> 00:29:37.100]  And this is how I do it simple, proven ingredients that work in a high quality fusion.
+[00:29:37.520 --> 00:29:40.280]  Now available at the Alex Jones Store.com.
+[00:29:44.300 --> 00:29:45.441]  Welcome back, ladies and gentlemen.
+[00:29:45.500 --> 00:29:48.120]  This is Harrison Smith sitting in today for Alex Jones.
+[00:29:48.500 --> 00:29:50.441]  Remember, you support us by going to the Alex Jones Store.com.
+[00:29:50.480 --> 00:29:52.140]  It's the only way to support us.
+[00:29:53.100 --> 00:29:54.020]  We have so much to cover now.
+[00:29:54.060 --> 00:30:01.040]  We're going to get into Iran and the latest there and the failure of the ceasefire talks, courtesy of Israel.
+[00:30:01.360 --> 00:30:03.100]  That's the reporting, at least.
+[00:30:05.000 --> 00:30:10.280]  But just everything is completely insane and exploding all at exactly the same time.
+[00:30:10.780 --> 00:30:14.760]  In some cases, literally, a gigantic volcano has just erupted in.
+[00:30:15.380 --> 00:30:28.100]  Japan, the Sakurajima volcano, Sakurajima volcano disgorging immense amounts of ash into the atmosphere right now.
+[00:30:28.140 --> 00:30:30.160]  And of course, you've been watching InfoWars this week.
+[00:30:30.240 --> 00:30:39.201]  You know that we've talked quite a bit about the changing condition of Earth's ecosystem, the atmosphere, the magnetic shield around us.
+[00:30:39.840 --> 00:30:43.880]  And this is what you would expect as a consequence of that, after all.
+[00:30:45.721 --> 00:30:47.240]  My God, it's just gigantic.
+[00:30:47.480 --> 00:30:47.820]  You've got.
+[00:30:49.120 --> 00:30:57.721]  You know, the Earth's crust, the mantle, all reacting to the radiation that the sun emits, even though a lot of it is blocked.
+[00:30:57.760 --> 00:31:06.820]  But if you take down that magnetic shield, you're going to get more interactions, more chaos, more geological phenomena like that.
+[00:31:07.620 --> 00:31:09.260]  But that's just the natural phenomenon.
+[00:31:09.300 --> 00:31:11.800]  But that's just literally the Earth actually exploding.
+[00:31:12.140 --> 00:31:16.580]  Figuratively, it's exploding with even more force and destructive power.
+[00:31:18.020 --> 00:31:19.000]  And I'm telling you, I just.
+[00:31:19.780 --> 00:31:23.900]  In the break just now, we had like a four minute break as we do once an hour.
+[00:31:25.221 --> 00:31:29.420]  And I just went through, just, you know, liking some things to save them.
+[00:31:30.181 --> 00:31:45.380]  And we have Israeli units nonstop systematically detonating what's left of Taba village in northern Lebanon as they create new settlements there as they drive out the last remaining Christians in the first Christian community, the place where Jesus was born and raised.
+[00:31:45.620 --> 00:31:48.840]  They are being violently driven out and complete.
+[00:31:49.860 --> 00:31:57.340]  Defiance of Donald Trump's explicit demands, by the way, but we should be used now to Trump being utterly humiliated by Israel.
+[00:31:57.940 --> 00:32:04.060]  In North Africa, we have videos of Islamic invaders with clubs, knives, and machetes wrecking havoc on Andalusia, Spain.
+[00:32:05.280 --> 00:32:06.300]  A church has burned.
+[00:32:06.600 --> 00:32:07.780]  Another church has been.
+[00:32:09.320 --> 00:32:11.660]  Lit on fire by Muslims in Ireland.
+[00:32:11.721 --> 00:32:14.100]  At the same time, Ireland is going to war with the Garde.
+[00:32:14.181 --> 00:32:16.820]  I'm going to get to that in just a little bit.
+[00:32:17.140 --> 00:32:20.880]  And there are videos of the Irish actually fighting hand to hand against the Garde.
+[00:32:21.100 --> 00:32:30.380]  Here's the Darth Vader style stormtroopers going in to oppress the natives of Ireland for opposing their wholesale replacement by hostile foreigners.
+[00:32:31.060 --> 00:32:34.020]  We, of course, have the attack on Savannah Hernandez yesterday.
+[00:32:34.100 --> 00:32:38.941]  We are going to get to that video and give you an update as to what's happened there because the.
+[00:32:40.400 --> 00:32:43.860]  Political chaos here at home is simply simmering.
+[00:32:43.941 --> 00:32:45.060]  It is not cooled at all.
+[00:32:45.181 --> 00:32:48.120]  It just is waiting for an opportunity to boil over.
+[00:32:48.660 --> 00:33:08.360]  Israeli Defense Minister Katz gave a press conference from southern Lebanon two hours ago, saying the residents will not return to south of the Latani River, meaning that around 20% of Lebanon's population has now been forcibly evicted from their ancestral homes by the hostile and aggressive land grab of Israel.
+[00:33:08.820 --> 00:33:12.240]  A group of Afghan Muslims set fire to a historic church in Ireland.
+[00:33:13.441 --> 00:33:21.120]  Michigan residents will now be under drone surveillance as Oakland County Board of Commissioners voted to approve a very controversial new drone program for law enforcement.
+[00:33:21.201 --> 00:33:30.820]  So, the physical aspect of the global panopticon control grid going into place here in America, Michigan, of course.
+[00:33:31.300 --> 00:33:42.840]  Six warehouse fires have occurred in only three days as there's become a trend of disgruntled employees literally setting fire to entire warehouses when they don't get a raise.
+[00:33:44.280 --> 00:33:45.540]  Then this volcano erupted.
+[00:33:47.441 --> 00:33:51.640]  And we have some new information about Tyler Robinson and the assassination of Charlie Kirk.
+[00:33:52.820 --> 00:33:57.360]  I'm telling you, folks, that was less than four minutes on X for me.
+[00:33:57.840 --> 00:33:59.400]  And I could spend an hour on every one of these.
+[00:34:01.040 --> 00:34:16.701]  We could talk about the church in Ireland being burned, either as a singular example of yet another terrorist attack against the people of Europe or as one of the latest of a continual, practically daily series of church firebombings that have occurred in Europe.
+[00:34:16.740 --> 00:34:17.701]  I could spend the whole show on that.
+[00:34:18.041 --> 00:34:19.221]  I could spend a whole show on.
+[00:34:19.661 --> 00:34:29.560]  The sudden rise in warehouse fires that have occurred over the last month or so, also paralleling exactly the run up to the COVID 19 lockdown.
+[00:34:31.141 --> 00:34:36.181]  I mean, every one of these I could spend an hour on, and every four minutes I spend on X is that many stories.
+[00:34:36.701 --> 00:34:44.380]  Just to give you an idea of the true chaos engulfing the world right now, just a little hint, all right?
+[00:34:45.621 --> 00:34:46.141]  Just a little hint.
+[00:34:47.320 --> 00:34:53.541]  So I don't even, I wasn't even planning on covering any of those stories because I didn't know about them until just now.
+[00:34:53.820 --> 00:34:54.181]  Whoops.
+[00:34:55.661 --> 00:35:06.840]  So, what we are going to do is talk about what's going on in Iran and the continuing and like bottomless failure of the Trump administration in the war in Iran.
+[00:35:07.481 --> 00:35:09.880]  Failure upon failure upon failure.
+[00:35:10.061 --> 00:35:18.501]  It is inexplicable if you're approaching this from any sort of traditional logical perspective.
+[00:35:18.721 --> 00:35:24.181]  If instead you approach it from the correct perspective, which I'll give you here in just a second, then all of this makes perfect sense.
+[00:35:25.081 --> 00:35:34.920]  See, what you're being told is that we have all of these various war aims, some contradictory, some didn't exist before the war started, some are only existent because the war started.
+[00:35:35.521 --> 00:35:36.161]  They change.
+[00:35:36.240 --> 00:35:37.461]  It doesn't make a lot of sense.
+[00:35:37.541 --> 00:35:38.880]  It's kind of hard to wrap your mind around.
+[00:35:38.920 --> 00:35:40.420]  That's because none of them are real.
+[00:35:41.601 --> 00:35:42.461]  None of them are real.
+[00:35:42.800 --> 00:35:43.681]  None of them are actual.
+[00:35:44.041 --> 00:35:47.001]  None of them are being sought after.
+[00:35:48.280 --> 00:35:48.501]  Okay?
+[00:35:48.780 --> 00:35:56.880]  This is not about replacing the Iran regime with a new regime, it's not about getting rid of their nuclear stockpile.
+[00:35:57.400 --> 00:35:59.201]  It's not about opening the Strait of Hormuz.
+[00:35:59.280 --> 00:36:00.900]  It's not about any of those things.
+[00:36:01.240 --> 00:36:10.681]  Because what they want you to believe is that this war is being waged by America for American interest, Israel for Israeli interest, and Iran for Iranian interest.
+[00:36:13.081 --> 00:36:13.760]  Okay, hold on.
+[00:36:13.860 --> 00:36:14.840]  That is a great idea.
+[00:36:16.501 --> 00:36:17.061]  That is a great idea.
+[00:36:17.101 --> 00:36:18.161]  Nobody steal this idea.
+[00:36:18.961 --> 00:36:19.740]  Maybe I shouldn't say it.
+[00:36:21.440 --> 00:36:30.221]  But an art of war book parody by Donald Trump, where all of the advice is bad advice, that is such a funny idea.
+[00:36:31.201 --> 00:36:36.920]  Just taking the art of war and then replacing the advice in the actual book with whatever Donald Trump does.
+[00:36:38.880 --> 00:36:40.061]  That's like the funniest thing I've ever heard.
+[00:36:40.440 --> 00:36:43.721]  That would be a million dollar idea right there.
+[00:36:43.820 --> 00:36:44.201]  Don't do it.
+[00:36:44.240 --> 00:36:44.561]  It's mine.
+[00:36:44.621 --> 00:36:45.121]  Copyright.
+[00:36:45.521 --> 00:36:46.280]  Don't steal my idea.
+[00:36:46.380 --> 00:36:46.900]  I'm going to write it.
+[00:36:49.300 --> 00:36:50.981]  I got distracted because that is a very funny idea.
+[00:36:53.021 --> 00:36:59.860]  No, the actual purpose of the Iran war is the same purpose of COVID 19, it's the same purpose of the Ukraine war.
+[00:37:00.221 --> 00:37:01.561]  It's the same reason.
+[00:37:02.461 --> 00:37:11.440]  Why Europe is being flooded with migrants, and why we've been saying they've been pushing for World War III since at least 2020.
+[00:37:12.041 --> 00:37:18.081]  And as we've been saying, the Ukraine war was also designed to spiral out into a wider conflict.
+[00:37:18.981 --> 00:37:32.920]  There's been resistance, it hasn't actually happened, in no small part due to Russia's behavior and not crossing the red line, not bombing Europeans, really playing within the laws of international regulation as they are.
+[00:37:34.141 --> 00:37:40.601]  You know, bound to do because they don't get to, you know, flagrantly violate international law like Israel and America does on a routine basis.
+[00:37:41.880 --> 00:37:47.940]  The point of all of it is to get World War III in order to get total control of humanity.
+[00:37:48.260 --> 00:37:51.501]  This was always the plan, and this was the plan before World War I started.
+[00:37:52.380 --> 00:38:07.981]  World War I was about destroying once and for all the last royal houses in Europe, the only royal house that stood after World War I. Before World War I, the German Empire was in place, the Austrian Hungarian Empire was in place, the Russian Empire was in place.
+[00:38:08.320 --> 00:38:09.740]  The British Empire was in place.
+[00:38:10.461 --> 00:38:16.981]  France, of course, succumbed to the revolution about 100 years before that.
+[00:38:18.121 --> 00:38:22.221]  And by the end of World War I, none of them, except for the UK, British royal family.
+[00:38:22.361 --> 00:38:26.941]  That was the only one that really stood as a powerful monarchy after World War I.
+[00:38:27.721 --> 00:38:32.461]  And it was already taken over by the Rothschilds following the Battle of Waterloo 50 years before that.
+[00:38:32.581 --> 00:38:42.561]  So they were spared because they became the vessel by which the Rothschilds and other European banking interests decided to rule the world.
+[00:38:42.621 --> 00:38:46.081]  So World War I was about getting rid of those noble families.
+[00:38:46.541 --> 00:38:47.541]  Check, check, check, right?
+[00:38:47.701 --> 00:38:48.541]  You can mark that right off.
+[00:38:49.521 --> 00:38:49.921]  World War II.
+[00:38:50.921 --> 00:39:01.961]  Was about destroying nationalism, creating the basis for globalism, the Bretton Woods Agreement, establishing the global monetary empire that we've been operating in the entire time, creating the UN.
+[00:39:02.001 --> 00:39:05.441]  Remember, World War I created the League of Nations, but Americans weren't down with it.
+[00:39:05.481 --> 00:39:06.681]  It had to be ratified by the Senate.
+[00:39:06.721 --> 00:39:07.541]  Senators didn't want to.
+[00:39:07.701 --> 00:39:12.921]  It was created by Wilson, it was created by an American president, but America didn't join because they had to get it approved by the Senate.
+[00:39:13.141 --> 00:39:20.961]  This was back at a time when the Senate and the Congress, the House of Representatives, were actually jealous of their power and wielded it effectively.
+[00:39:21.561 --> 00:39:22.761]  That's not really the case anymore.
+[00:39:22.821 --> 00:39:32.061]  Now, the executive does whatever the hell he wants, and Congress and Senate enjoy the fact that they can be totally hands off and not responsible for the actual decisions being made.
+[00:39:32.721 --> 00:39:37.901]  All this is to say World War I, League of Nations, World War II, UN, World War III, global government.
+[00:39:38.021 --> 00:39:39.161]  That was always the plan.
+[00:39:39.501 --> 00:39:42.401]  They're pushing us towards that as rapidly as possible.
+[00:39:42.681 --> 00:39:47.621]  And you see this as Germany has just increased the age of the draft.
+[00:39:48.181 --> 00:39:50.901]  The UK is telling their people, and has been for a while, get ready.
+[00:39:50.981 --> 00:39:52.421]  We're going into total war mode.
+[00:39:52.461 --> 00:39:54.001]  We're going to be a war economy soon.
+[00:39:54.581 --> 00:39:57.561]  America has said, forget all this other stuff.
+[00:39:57.621 --> 00:40:02.381]  We're going into a war economy mode, and that's what's going to be the driver of our success from now on.
+[00:40:03.061 --> 00:40:04.101]  They're pushing towards this.
+[00:40:04.141 --> 00:40:15.161]  So, long story short, when you look at the Iran war through the eyes of these people, then everything's going swimmingly.
+[00:40:15.201 --> 00:40:16.141]  It's all going perfectly.
+[00:40:16.441 --> 00:40:27.121]  The point of the war was to create the economic disaster that we're now witnessing unfold, to create the shortages, to impose the rationing, use rationing to control the people.
+[00:40:27.201 --> 00:40:28.401]  This is always the plan.
+[00:40:29.101 --> 00:40:31.341]  The Strait was supposed to be shut.
+[00:40:31.441 --> 00:40:32.401]  It is supposed to be shut.
+[00:40:32.481 --> 00:40:34.401]  They'd be fine if it went down completely.
+[00:40:34.841 --> 00:40:44.601]  Iran was never supposed to be managed and administered by moderates who could work with their neighbors in America and Israel.
+[00:40:45.101 --> 00:40:53.501]  The plan was always to create a failed state in Iran where it could just be a playground for warring empires for all of time.
+[00:40:53.941 --> 00:40:56.201]  They want it to become Syria or Libya 2.0.
+[00:40:56.240 --> 00:40:59.201]  And again, we've been saying this since before the latest round of this war.
+[00:40:59.301 --> 00:40:59.361]  So.
+[00:40:59.981 --> 00:41:01.641]  I know some people are starting to say this now.
+[00:41:01.681 --> 00:41:05.981]  They're starting to look around and go, gee, after 45 days of war, it looks like this is the.
+[00:41:06.141 --> 00:41:08.021]  We knew this before it started, okay?
+[00:41:08.841 --> 00:41:09.401]  How did we know?
+[00:41:10.621 --> 00:41:19.021]  Because we are looking at it through this dichotomy, not the traditional idea of, oh, we're fighting for America.
+[00:41:19.121 --> 00:41:19.441]  No, we're not.
+[00:41:19.601 --> 00:41:21.161]  America is fighting for the globalists.
+[00:41:22.281 --> 00:41:23.121]  This is obvious.
+[00:41:23.161 --> 00:41:24.401]  This just could not be more obvious.
+[00:41:24.501 --> 00:41:34.681]  And we're seeing the way that against all reason, all logic, all sensibility, all political impetus and the zeitgeist currently, At work in American politics.
+[00:41:34.781 --> 00:41:41.201]  Against all of that, we are doubling down on this war, tripling down on this war.
+[00:41:41.361 --> 00:41:47.740]  We're now almost forcing China and Russia to get involved in this war to a greater degree than they ever were before.
+[00:41:48.161 --> 00:41:49.481]  And they're responding in kind.
+[00:41:50.740 --> 00:41:51.541]  It's all on purpose.
+[00:41:51.581 --> 00:41:54.601]  They are driving us towards World War III on purpose.
+[00:41:54.901 --> 00:41:56.041]  They could get off at any point.
+[00:41:56.201 --> 00:42:00.581]  The off ramp is right there available if Israel doesn't bomb at first.
+[00:42:03.320 --> 00:42:04.661]  And really, that is the off ramp.
+[00:42:04.820 --> 00:42:06.901]  The off ramp is you have to drive through Israel.
+[00:42:06.941 --> 00:42:09.381]  You have to, like, Israel is saying they're blocking the off ramp.
+[00:42:09.461 --> 00:42:14.081]  And if we don't want to go to World War III, that's who we need to run over to get onto the off ramp.
+[00:42:14.141 --> 00:42:14.661]  Do you understand?
+[00:42:15.481 --> 00:42:18.001]  Because it's not even a question at this point.
+[00:42:18.141 --> 00:42:26.561]  It's almost to the degree that they're doing it to provoke us, which may very well be the reality.
+[00:42:28.361 --> 00:42:30.300]  But we've got statements from Trump about this and.
+[00:42:32.461 --> 00:42:34.421]  Here's the real important thing about it.
+[00:42:34.840 --> 00:42:40.201]  U.S. intelligence shows China now taking a more active role in the Iran war.
+[00:42:40.320 --> 00:42:48.141]  China may have shipped missiles to Iran, and Beijing is allowing some companies to sell Tehran supplies that could be used in military production, American officials said.
+[00:42:49.681 --> 00:42:59.381]  Okay, so it seems like knocking out Iranian capability of production and manufacturing isn't actually that effective because they can always source material from China and Russia.
+[00:43:01.300 --> 00:43:01.481]  Duh.
+[00:43:02.800 --> 00:43:12.300]  American intelligence agencies have obtained information that China in recent weeks may have sent a shipment of shoulder fired missiles to Iran for its conflict with the United States and Israel, according to U.S. officials.
+[00:43:13.401 --> 00:43:17.861]  If they're upset about this, have they thought about looking in a mirror?
+[00:43:19.121 --> 00:43:27.461]  Have you thought for a single second about the precedent you set by waging a proxy war against Russia in Ukraine in the full view of everybody?
+[00:43:28.521 --> 00:43:29.280]  It's not a secret.
+[00:43:30.161 --> 00:43:35.901]  Ever since the war began and before, The Ukraine war has been a project of the American deep state.
+[00:43:37.081 --> 00:43:44.641]  Their information that they're getting, the weapons that they're using, the targeting coordinates that they're sending missiles to fire, it all comes from us.
+[00:43:45.201 --> 00:43:50.021]  And yet we're playing this stupid backseat children's game of, but I'm not touching you.
+[00:43:50.541 --> 00:43:51.861]  Oh, but it wasn't us, though.
+[00:43:52.481 --> 00:43:53.760]  Well, you can't blame America.
+[00:43:53.881 --> 00:44:00.961]  It was Ukraine that did that with our money and our information and our weapons and our holding a gun to their head saying go to war with Russia.
+[00:44:01.621 --> 00:44:05.181]  But we're still playing this stupid little game, expecting it never to.
+[00:44:06.001 --> 00:44:07.001]  Be flipped around on us.
+[00:44:07.041 --> 00:44:09.260]  Well, here we are in a direct conflict with Iran.
+[00:44:09.621 --> 00:44:12.481]  You don't think China and Russia are going, okay?
+[00:44:13.481 --> 00:44:13.681]  Cool.
+[00:44:14.581 --> 00:44:15.881]  New board game just opened.
+[00:44:15.981 --> 00:44:18.961]  Let's play with the rules that have been set down over the last couple of years.
+[00:44:20.481 --> 00:44:26.841]  And everything America is doing is setting horrible presidents that will come back to bite us in the ass, one way or another.
+[00:44:26.941 --> 00:44:29.381]  And it's not going to bite the bad people in the ass, it's going to bite us.
+[00:44:31.421 --> 00:44:38.141]  It's not going to be Donald Trump and Jared Kushner that end up being the victims of an Iranian terror attack.
+[00:44:39.041 --> 00:44:40.360]  It's going to be the average Americans.
+[00:44:42.341 --> 00:44:52.881]  And who knows what they're going to attack, but so far we've bombed their universities, their hospitals, their business parks or residential areas, their bridges, their government buildings.
+[00:44:54.101 --> 00:44:58.721]  And every time we do that, we are giving them a pass to do it as well.
+[00:44:58.760 --> 00:44:59.780]  We're giving them a green light.
+[00:45:00.681 --> 00:45:03.401]  And I see people online arguing, going, well, you can't say that.
+[00:45:03.501 --> 00:45:04.181]  I mean, we're in a war.
+[00:45:04.260 --> 00:45:05.760]  Every target's valid in a war.
+[00:45:06.201 --> 00:45:10.780]  It's like, okay, that's the exact same argument Iran could use to target Americans.
+[00:45:11.161 --> 00:45:14.641]  And they'd have the additional argument of saying they started it, they did it first.
+[00:45:16.021 --> 00:45:22.721]  So, what happens if the Golden Gate Bridge gets targeted by a nitrogen bomb, something homemade in a basement somewhere?
+[00:45:22.760 --> 00:45:28.800]  Again, people have this shockingly confident idea that America can't be attacked.
+[00:45:29.521 --> 00:45:33.300]  People are like, what could Iran even do to bring down an American bridge?
+[00:45:33.381 --> 00:45:33.901]  It's like, I don't know.
+[00:45:33.961 --> 00:45:39.341]  The Key Bridge in Baltimore fell over because an Indian person driving a boat went like this for about 10 seconds.
+[00:45:41.401 --> 00:45:42.081]  It's just crazy.
+[00:45:42.201 --> 00:45:50.921]  It's crazy that we're allowing our government to be committing literal terrorism against civilians overseas and expecting that not to come back to us.
+[00:45:51.981 --> 00:45:52.661]  That's insane.
+[00:45:53.101 --> 00:45:54.780]  We should have learned this lesson a long time ago.
+[00:45:58.241 --> 00:45:59.221]  But we're like stuck in this.
+[00:45:59.261 --> 00:46:03.461]  Apparently, we're stuck in this conflict, again, entirely because of Israel.
+[00:46:05.601 --> 00:46:08.841]  And it's beyond apparent that that is the case.
+[00:46:09.461 --> 00:46:17.181]  So, if you really want to cut through all the noise, I can talk about the negotiations, I can talk about the history, how we got here forever and ever.
+[00:46:17.281 --> 00:46:28.581]  It's a very simple thing Israeli influence in America has to be surgically extricated brutally, like.
+[00:46:30.041 --> 00:46:31.321]  With prejudice.
+[00:46:31.361 --> 00:46:32.141]  That's the word I was looking for.
+[00:46:32.341 --> 00:46:33.761]  With prejudice, right?
+[00:46:34.921 --> 00:46:38.521]  Not like, hey, you know, we understand, but you just can't do that right now.
+[00:46:38.921 --> 00:46:45.341]  More like you have committed treason, leave the country or face the consequences.
+[00:46:45.521 --> 00:46:48.121]  Like you can exile yourself.
+[00:46:50.381 --> 00:46:50.921]  That's fine.
+[00:46:51.101 --> 00:46:58.241]  Or we can charge you with treason and give you the due punishment you have earned.
+[00:46:58.681 --> 00:47:00.221]  That really needs to be how, and that's it.
+[00:47:00.701 --> 00:47:01.861]  Do you want to solve the Iran problem?
+[00:47:02.341 --> 00:47:02.701]  Solve the.
+[00:47:03.461 --> 00:47:04.981]  Israeli influence issue.
+[00:47:05.481 --> 00:47:08.121]  You want to solve Trump's problem with the voters?
+[00:47:08.521 --> 00:47:10.501]  You got to solve the Israeli influence issue.
+[00:47:11.441 --> 00:47:16.381]  Do you want to not be arrested by the Democrats for thought crimes in the next few years?
+[00:47:16.721 --> 00:47:25.141]  Then we have to extricate with prejudice all of the Israeli influence that is responsible for us driving headlong towards that eventuality.
+[00:47:25.821 --> 00:47:26.781]  It's very simple.
+[00:47:27.161 --> 00:47:28.721]  This is not a complicated thing.
+[00:47:31.261 --> 00:47:34.841]  It is complicated by the fact that the people doing it are, in fact, Israelis.
+[00:47:37.761 --> 00:47:40.181]  U.S. Iran negotiation ends with no deal.
+[00:47:41.221 --> 00:47:48.201]  After nearly a full day of negotiations, in a terse statement, Vice President JD Vance said the Iranian delegation had rejected U.S. terms.
+[00:47:49.561 --> 00:47:54.961]  The bad news is we have not reached an agreement, and I think that's bad news for Iran much more than it's bad news for the United States of America.
+[00:47:55.381 --> 00:48:00.601]  Again, if you are watching this with any expectation of a positive outcome, you are a fool.
+[00:48:01.661 --> 00:48:03.341]  There was never going to be a positive outcome to this.
+[00:48:04.281 --> 00:48:07.861]  We knew there was never going to be a positive outcome to this because the negotiations themselves.
+[00:48:08.941 --> 00:48:10.341]  We're never even meant to happen.
+[00:48:11.541 --> 00:48:19.481]  The only reason the negotiations are happening is because Donald Trump desperately needed a way to save face and back down on his threat to kill everybody in Iran.
+[00:48:20.961 --> 00:48:25.621]  He put out a tweet saying, I'm going to kill everybody and I'm going to destroy a civilization, never to recover.
+[00:48:26.441 --> 00:48:29.341]  Unless you open the Strait of Hormuz, you have 48 hours.
+[00:48:29.641 --> 00:48:31.361]  They did not open the Strait of Hormuz.
+[00:48:33.381 --> 00:48:34.481]  So they called his bluff.
+[00:48:35.081 --> 00:48:40.361]  So, in order to look like he wasn't having his bluff called, they lied and said, Oh, we accepted this 10%.
+[00:48:40.541 --> 00:48:44.141]  Point basis as a starting point for negotiations, and this will be the end of the war.
+[00:48:44.441 --> 00:48:46.381]  It never was, it was never going to be.
+[00:48:48.261 --> 00:48:51.301]  And we told you this literally the moment it was announced.
+[00:48:51.961 --> 00:48:55.761]  The moment that it was announced, I was on air on a war room and I said, No, this is stupid.
+[00:48:55.821 --> 00:48:56.641]  They're not accepting this.
+[00:48:57.061 --> 00:48:57.861]  They're not accepting this.
+[00:48:57.921 --> 00:48:59.461]  This is a face saving measure from Trump.
+[00:49:00.141 --> 00:49:05.641]  And sure enough, like within a couple hours, they were like, Oh, well, we didn't know that we agreed to Lebanon being part of the ceasefire.
+[00:49:05.841 --> 00:49:06.521]  It's all BS.
+[00:49:07.661 --> 00:49:13.081]  They said yes to the basis of the negotiations, even though they knew they had no ability to stop Israel from bombing Lebanon.
+[00:49:13.441 --> 00:49:18.941]  But they said that they accepted it strictly to have something to present to the American people so it didn't look like.
+[00:49:19.321 --> 00:49:21.441]  Donald Trump just straight up backed out and chickened out.
+[00:49:21.681 --> 00:49:23.461]  But it was never going to happen.
+[00:49:23.501 --> 00:49:24.481]  They were never going to accept it.
+[00:49:24.781 --> 00:49:36.921]  However, we do have information, details about how this negotiation was scuttled because despite the fact that it was always started in bad faith and never had a hope, the conclusion was foregone.
+[00:49:38.041 --> 00:49:38.641]  It could have worked.
+[00:49:38.721 --> 00:49:40.561]  They could have come up with an agreement.
+[00:49:41.981 --> 00:49:47.781]  Just because it starts on a bad footing doesn't mean they couldn't have worked out some, you know, hammered out some agreements in the back rooms.
+[00:49:47.921 --> 00:49:48.641]  But that didn't happen.
+[00:49:48.981 --> 00:49:51.161]  And it didn't happen apparently because Netanyahu.
+[00:49:51.801 --> 00:49:52.621]  Called JD Vance.
+[00:49:53.921 --> 00:49:55.101]  That's the official reporting.
+[00:49:55.141 --> 00:49:56.041]  That's the official story.
+[00:49:56.421 --> 00:49:57.201]  We do have the video of it.
+[00:49:57.241 --> 00:49:58.381]  Let's go to clip number 20 here.
+[00:49:58.781 --> 00:50:03.401]  This is JD Vance announcing the conclusion to the negotiations with Iran.
+[00:50:03.461 --> 00:50:03.781]  Let's watch.
+[00:50:05.741 --> 00:50:08.821]  We've had a number of substantive discussions with the Iranians.
+[00:50:08.881 --> 00:50:09.641]  That's the good news.
+[00:50:10.241 --> 00:50:12.601]  The bad news is that we have not reached an agreement.
+[00:50:13.081 --> 00:50:16.721]  And I think that's bad news for Iran much more than it's bad news for the United States of America.
+[00:50:16.901 --> 00:50:20.481]  So we go back to the United States having not come to an agreement.
+[00:50:20.941 --> 00:50:23.281]  We've made very clear what our red lines are.
+[00:50:23.501 --> 00:50:27.561]  What things we're willing to accommodate them on and what things we're not willing to accommodate them on.
+[00:50:28.221 --> 00:50:31.021]  And we've made that as clear as we possibly could.
+[00:50:31.541 --> 00:50:34.081]  And they have chosen not to accept our terms.
+[00:50:34.861 --> 00:50:35.001]  Yeah.
+[00:50:37.621 --> 00:50:41.581]  Again, it's because we do not have the superior negotiating position.
+[00:50:41.681 --> 00:50:43.061]  We, in fact, are responding to them.
+[00:50:43.161 --> 00:50:47.061]  They are the ones setting terms because we are the ones asking them for something.
+[00:50:48.181 --> 00:50:53.541]  Now we're trying to do some weird, I don't know, I don't even know what to call it because it's almost like.
+[00:50:54.821 --> 00:50:57.381]  It's Kabuki Theater 5D chess, is what it is.
+[00:50:58.321 --> 00:51:02.881]  It's like playing on this idea that people have about Trump playing 5D chess.
+[00:51:04.341 --> 00:51:05.981]  Now we're the ones blocking the strait.
+[00:51:06.721 --> 00:51:12.401]  So now America is going to be the one blocking Iranian and Chinese ships through the strait.
+[00:51:13.901 --> 00:51:23.161]  So that the goal for the war that didn't exist before the war is now being dropped, and we are now the ones doing the thing that we are trying to stop Iran from doing.
+[00:51:23.581 --> 00:51:26.321]  But we also don't really have the ability to do that thing.
+[00:51:26.501 --> 00:51:30.301]  And if we do do that thing, then we will no longer be at war with Iran.
+[00:51:30.621 --> 00:51:36.361]  We'll be at war with whoever owns the ship that we're threatening to bomb, which would almost certainly be somewhere like China.
+[00:51:37.721 --> 00:51:43.541]  So, we are driving full tilt towards World War III on purpose and by design.
+[00:51:44.201 --> 00:51:48.301]  The lockdown measures are already going into place.
+[00:51:48.841 --> 00:51:56.921]  The outrages and uprisings because of the lockdowns and fuel restrictions are already happening.
+[00:51:56.981 --> 00:52:02.741]  In Ireland, there's been a lot of anger for a long time about the migrant crisis, which also plays into Israel.
+[00:52:03.621 --> 00:52:07.941]  It's not a coincidence that both Ireland and Spain.
+[00:52:08.401 --> 00:52:12.181]  Are historically and currently the two countries most opposed to Israel.
+[00:52:13.921 --> 00:52:27.881]  And they suddenly get hit with this massive influx of migrants, Spain especially, just hundreds of thousands of Africans flowing in two days after Netanyahu comes out and gives a speech saying, Spain will pay the price for disobeying us, for going against us.
+[00:52:28.181 --> 00:52:30.501]  Yeah, it's not a coincidence, personally.
+[00:52:30.901 --> 00:52:37.401]  And so you have these fuel restrictions in Ireland that basically set the flame to the tinder that's been piled up for the last couple of years.
+[00:52:37.821 --> 00:52:39.401]  And now there's this combat going on.
+[00:52:39.741 --> 00:52:40.181]  With the Garde.
+[00:52:40.681 --> 00:52:53.241]  We'll get into that later because it gets deeper than you've probably heard about the method by which the globalists are doing in Ireland, they plan to do everywhere else, and we'll need to pay attention to that.
+[00:52:55.821 --> 00:53:01.781]  Vance says The simple question is we do not see a fundamental commitment of will for the Iranians not to develop a nuclear weapon.
+[00:53:02.521 --> 00:53:02.581]  No.
+[00:53:02.961 --> 00:53:03.461]  Well, you know what?
+[00:53:04.941 --> 00:53:12.661]  On February 27th, you had them in total agreement to not only not develop a nuclear weapon, but to give up.
+[00:53:13.541 --> 00:53:14.501]  Their enriched material.
+[00:53:16.301 --> 00:53:17.201]  That was on the table.
+[00:53:17.801 --> 00:53:23.661]  But you decided two weeks before, because of Netanyahu's urging, that it was going to be war.
+[00:53:24.021 --> 00:53:38.381]  And so, if that was really the big issue, if that's the big sticking point still to this day and currently messing up the current negotiations, then maybe we should have accepted that diplomatic solution all the way back then.
+[00:53:40.795 --> 00:53:41.635]  We'll get back into it.
+[00:53:41.677 --> 00:53:47.389]  I'll explain exactly how these talks were scuttled, how exactly Netanyahu apparently just.
+[00:53:47.789 --> 00:53:55.889]  Interrupted them right as they were making some positive progress, and how China and Russia are getting involved in this in a very real way.
+[00:53:56.289 --> 00:53:57.409]  All of that in hour two.
+[00:53:57.588 --> 00:53:58.389]  Stay tuned, folks.
+[00:53:58.429 --> 00:54:00.128]  It's the Alex Jones Show, Infowars.com.
+[00:54:00.469 --> 00:54:16.889]  The bad guys all over the world, the EU, NATO, the Rockefeller Foundation, the Democrat Party, they all recognize Infowars and its history since 1997 when I started the website and started using that name as being probably the most devastating weapon of truth against them.
+[00:54:17.209 --> 00:54:21.409]  And that's why they've tirelessly attacked us, censored us, and tried to shut us down.
+[00:54:21.869 --> 00:54:31.509]  But because you stood with us as modern Paul Revere's, as true Info Warriors, we've not only stayed on air, but we've become more effective and reached even more people, not just here, but around the world.
+[00:54:31.769 --> 00:54:33.369]  This is 1776 worldwide.
+[00:54:33.649 --> 00:54:37.108]  Now, coming up in just the next month or so, it looks like this is finally it.
+[00:54:37.329 --> 00:54:41.829]  They're finally going to be able to shut down InfoWars, but they won't shut you down as InfoWarriors.
+[00:54:41.889 --> 00:54:44.108]  And that term and that name lives forever.
+[00:54:44.469 --> 00:54:45.849]  The InfoWar lives forever.
+[00:54:46.108 --> 00:54:54.989]  In the potential twilight of InfoWars itself, as InfoWars.com, we've launched a limited edition line of the InfoWars 1776 limited edition line.
+[00:54:55.209 --> 00:54:59.249]  A whole bunch of new shirts, a whole bunch of new hats that are limited edition.
+[00:54:59.588 --> 00:55:09.409]  They take a lot of the classic InfoWars shirts, this is the all time bestseller, navy blue with red InfoWars on it, and adding on the shoulder 1776.
+[00:55:09.628 --> 00:55:15.769]  We also have a new line promoting the 250th anniversary of the American Republic, about to show you in a moment.
+[00:55:16.169 --> 00:55:24.989]  But these are historic shirts, and they're symbols of your support and your being part of this operation and helping the operation grow and expand into the future.
+[00:55:25.429 --> 00:55:30.449]  So take action now at the AlishonStore.com and look at these two new amazing lines.
+[00:55:30.769 --> 00:55:35.149]  Again, we the people, that means you and I, literally are the InfoWars.
+[00:55:35.749 --> 00:55:37.209]  We are the eyes and ears on the ground.
+[00:55:37.568 --> 00:55:41.769]  We are the people engaged in the fight to awaken humanity and seeing giant successes.
+[00:55:42.309 --> 00:55:44.929]  This is personally one of my favorite shirts in the new line.
+[00:55:45.309 --> 00:55:49.169]  Dozens of new limited edition shirts in the 1776 line and hats.
+[00:55:49.709 --> 00:55:51.608]  I love this one InfoWars.
+[00:55:52.088 --> 00:55:53.389]  All gut, no quit.
+[00:55:54.149 --> 00:56:01.269]  Remember all the times the last few years where they had the fake auctions and raided us and turned the electricity off and got overturned in court.
+[00:56:01.749 --> 00:56:02.669]  Oh, we're still battling.
+[00:56:03.229 --> 00:56:05.249]  We wouldn't still be here if it wasn't for your fight.
+[00:56:05.469 --> 00:56:06.209]  I'm the InfoWar.
+[00:56:06.829 --> 00:56:08.128]  You are the InfoWar.
+[00:56:08.489 --> 00:56:09.969]  And that's who we are.
+[00:56:10.628 --> 00:56:16.209]  So you want to get this camo classic InfoWar shirt right now at thealexionstore.com.
+[00:56:16.429 --> 00:56:22.749]  A lot of these new shirts and hats are totally new designs, but a lot of them are classics, but limited edition with 1776 on the shoulder.
+[00:56:23.028 --> 00:56:25.769]  Now here's the classic InfoWars logo on a white shirt.
+[00:56:26.009 --> 00:56:27.028]  Never done black on white.
+[00:56:27.068 --> 00:56:27.849]  Seems like we should have.
+[00:56:28.269 --> 00:56:28.749]  Looks great.
+[00:56:29.048 --> 00:56:30.689]  Got the 1776 on the shoulder.
+[00:56:31.229 --> 00:56:36.769]  You are literally funding and supporting and wearing your uniform in the fight to defeat the globalists.
+[00:56:37.128 --> 00:56:40.088]  There's not just the new InfoWar 7076 line of hats.
+[00:56:41.009 --> 00:56:45.829]  There's things like this bad boy, just real clean, classic Americana USA.
+[00:56:46.469 --> 00:56:50.949]  And then, of course, we've got the new limited edition America at 250 years old.
+[00:56:51.469 --> 00:56:53.789]  And the back of these shirts are amazing Americana.
+[00:56:54.088 --> 00:56:57.369]  And I designed this, the Betsy Ross flag with 250 on it.
+[00:56:57.628 --> 00:56:59.588]  Get yours now, thealtoScore.com.
+[00:56:59.989 --> 00:57:01.108]  Semi quintennial.
+[00:57:01.309 --> 00:57:03.369]  That means 250, baby.
+[00:57:03.809 --> 00:57:06.469]  America's birthday with badass hats as well.
+[00:57:06.729 --> 00:57:09.048]  And this is just a small sampling of the designs.
+[00:57:09.329 --> 00:57:10.229]  GallowsStore.com.
+[00:57:10.608 --> 00:57:12.249]  InfoWars is 28 years old.
+[00:57:12.769 --> 00:57:14.449]  America is 250.
+[00:57:14.608 --> 00:57:16.128]  And look at the back of this clean shirt.
+[00:57:16.528 --> 00:57:19.989]  USA 250, 1776, forever.
+[00:57:20.249 --> 00:57:23.128]  Again, from the bottom of my heart, I want to thank you all for your past support.
+[00:57:23.548 --> 00:57:25.769]  And just let you know it's up to you whether this continues on.
+[00:57:26.149 --> 00:57:27.389]  The InfoWar lives on through you.
+[00:57:28.269 --> 00:57:31.309]  I suggest you get some of these classic designs while you still can.
+[00:57:31.349 --> 00:57:35.729]  Because in the future, if they can shut this down, We're going to have big problems selling InfoWars named Apparel.
+[00:57:36.088 --> 00:57:37.169]  Could be your last chance to get it.
+[00:57:37.628 --> 00:57:38.389]  Thanks for your support.
+[00:57:38.649 --> 00:57:40.209]  Take action now at theongstonesstore.com.
+[00:57:40.608 --> 00:57:45.389]  I thank you from the bottom of my heart for being part of the true heart of America and the resistance against globalists.
+[00:57:45.568 --> 00:57:46.789]  God bless you all.
+[00:58:00.920 --> 00:58:05.180]  Explain what happened today because I'm pretty sure it was a miracle.
+[00:58:05.539 --> 00:58:09.860]  So, Alex Jones is on with this preacher, Pastor James Williams, Dark Waters.
+[00:58:09.940 --> 00:58:16.619]  In the context of Alex Jones recently starting to criticize Trump more and break from Trump more, and essentially they're praying for Trump.
+[00:58:16.880 --> 00:58:18.400]  Trump's turning around before it can be done.
+[00:58:19.460 --> 00:58:19.660]  Yeah.
+[00:58:19.900 --> 00:58:22.420]  So, we have to battle for him.
+[00:58:22.460 --> 00:58:22.660]  Watch this.
+[00:58:22.740 --> 00:58:23.639]  I'm going to give you another scripture.
+[00:58:23.680 --> 00:58:28.220]  So, they start reading this one Bible verse, and it's about how you're supposed to be a battle axe for God.
+[00:58:28.500 --> 00:58:30.680]  Thou art my battle axe and my weapon of war.
+[00:58:31.220 --> 00:58:35.440]  What has Donald Trump been doing on behalf of this nation?
+[00:58:35.840 --> 00:58:37.019]  He's a battle axe of the Lord.
+[00:58:37.079 --> 00:58:39.300]  And the preacher is going on about the battle axe as a symbol.
+[00:58:40.099 --> 00:58:41.300]  Alex, you're a battle axe.
+[00:58:41.340 --> 00:58:42.460]  Just running around wrecking everybody.
+[00:58:42.559 --> 00:58:43.220]  Boom, boom, boom.
+[00:58:43.380 --> 00:58:44.099]  I'm a battle axe.
+[00:58:44.460 --> 00:58:46.760]  Every Christian is called to be one of the Lord's battle axes.
+[00:58:46.880 --> 00:58:49.039]  It's all about this battle axe metaphor.
+[00:58:49.940 --> 00:58:52.860]  And this battle axe arrives at the office.
+[00:58:53.220 --> 00:58:56.300]  The moment they're talking about it, Rob Dew just takes it in.
+[00:58:56.920 --> 00:58:57.700]  He just walked in.
+[00:58:58.420 --> 00:59:01.280]  This was delivered to the door by FedEx two minutes ago.
+[00:59:02.360 --> 00:59:03.420]  You talk about a biblical sign.
+[00:59:04.160 --> 00:59:05.599]  This was just delivered.
+[00:59:05.660 --> 00:59:07.000]  And he's like, what just happened?
+[00:59:07.039 --> 00:59:08.000]  Like, this just got delivered.
+[00:59:08.059 --> 00:59:08.700]  Two minutes ago.
+[00:59:09.260 --> 00:59:10.539]  Rob, you just ran in here.
+[00:59:11.260 --> 00:59:11.740]  You got a letter.
+[00:59:11.820 --> 00:59:12.539]  What does this say?
+[00:59:12.980 --> 00:59:13.700]  I mean, this is biblical.
+[00:59:14.559 --> 00:59:15.539]  This is why God works.
+[00:59:16.700 --> 00:59:18.099]  Somebody got touched by God.
+[00:59:18.800 --> 00:59:20.619]  I'm crying right now to mail this.
+[00:59:20.680 --> 00:59:22.400]  This literally just showed up FedEx.
+[00:59:22.740 --> 00:59:23.420]  Rob, come here.
+[00:59:23.700 --> 00:59:24.019]  Sit down.
+[00:59:24.400 --> 00:59:24.700]  Read this.
+[00:59:25.119 --> 00:59:26.039]  What the hell's going on here?
+[00:59:26.519 --> 00:59:30.019]  He just said, I mean, literally, as you said, Battleaxe, FedEx arrived.
+[00:59:30.460 --> 00:59:30.760]  What the?
+[00:59:32.240 --> 00:59:33.019]  And Rob's like, yeah.
+[00:59:33.059 --> 00:59:35.180]  And he opens up the letter, and it's a letter from a guy.
+[00:59:35.320 --> 00:59:36.740]  He's an old carpenter and craftsman.
+[00:59:37.480 --> 00:59:40.500]  And I was making this axe, and God told me it was for Alex.
+[00:59:40.619 --> 00:59:42.340]  Jones is literally what it says right there.
+[00:59:42.579 --> 00:59:43.500]  I mean, it says it right there.
+[00:59:43.539 --> 00:59:47.320]  You just saw this.
+[00:59:47.380 --> 00:59:48.160]  Is this insane?
+[00:59:48.200 --> 00:59:49.139]  This is your battle axe.
+[00:59:49.180 --> 00:59:52.280]  Let me remind you that God loves you and gives you strength and courage.
+[00:59:53.019 --> 00:59:55.480]  The best to you as you move along in this crazy world.
+[00:59:55.800 --> 00:59:58.940]  Like, you could not have scripted it better.
+[00:59:59.380 --> 00:59:59.920]  God bless you.
+[01:00:01.119 --> 01:00:01.619]  Look at Ken.
+[01:00:02.099 --> 01:00:06.780]  He's literally talking about this, and this literally gets delivered to you right as he came on.
+[01:00:07.519 --> 01:00:08.660]  I mean, this is insane.
+[01:00:09.220 --> 01:00:10.340]  I mean, it was insane to witness.
+[01:00:11.380 --> 01:00:12.260]  This is how God works.
+[01:00:12.360 --> 01:00:13.260]  Go ahead, I'm just.
+[01:00:13.300 --> 01:00:13.760]  Look at this.
+[01:00:14.119 --> 01:00:16.220]  Like, it seemed miraculous at the time.
+[01:00:16.480 --> 01:00:18.300]  No, I just, I mean, I just got it and walked in here.
+[01:00:18.340 --> 01:00:19.579]  I'm like, this needs to go on the air.
+[01:00:19.780 --> 01:00:21.099]  It was a sign from God.
+[01:00:21.840 --> 01:00:28.700]  And then, like, three hours later, Donald Trump launches this attack on Alex, where he calls him stupid.
+[01:00:29.039 --> 01:00:30.820]  It's like, I'm glad he's been ruined.
+[01:00:30.880 --> 01:00:32.260]  I'm glad he was bankrupt.
+[01:00:32.659 --> 01:00:38.059]  It was a vicious attack predicated on Alex Jones turning on him and attacking.
+[01:00:38.139 --> 01:00:40.519]  And he's as good as the left, or whatever it is, which it's like.
+[01:00:41.900 --> 01:00:44.900]  And now we intercede on behalf of our president, Donald J. Trump.
+[01:00:45.159 --> 01:00:46.860]  Everyone must join us in praying for Trump right now.
+[01:00:47.199 --> 01:00:48.880]  We're going to break this demonic spell right now.
+[01:00:49.059 --> 01:00:49.559]  In the name of Jesus.
+[01:00:49.619 --> 01:00:51.019]  It doesn't matter if Trump gets off track.
+[01:00:51.079 --> 01:00:51.820]  He belongs to God.
+[01:00:51.860 --> 01:00:53.460]  He's going to do his job if we back him.
+[01:00:53.500 --> 01:00:54.460]  Is that attacking Trump?
+[01:00:54.559 --> 01:00:58.739]  Is praying for Trump and saying, we think he's on the wrong track, but we got to get him back on the right track?
+[01:00:58.779 --> 01:01:04.360]  Does that deserve to, you know, for a guy to say, you know, I think she deserves your children to lose their inheritance?
+[01:01:04.820 --> 01:01:10.900]  And it was after that, I was talking to one of the editors, and he was like, yeah, I think that battle axe was like a gift from God.
+[01:01:10.960 --> 01:01:12.340]  He was like, I think that was God.
+[01:01:12.759 --> 01:01:14.759]  Assuring Alex he was on the right track.
+[01:01:14.900 --> 01:01:16.940]  Perfectly arrives right as you're talking about it.
+[01:01:17.360 --> 01:01:21.380]  That is the power of God literally telling us that your message was true.
+[01:01:21.719 --> 01:01:25.739]  God obviously knows the future, foresaw all this moment to back up what you just said.
+[01:01:26.099 --> 01:01:29.400]  And it signifies your victory over those people who've been coming after you, too, brother.
+[01:01:29.659 --> 01:01:32.779]  There's like deeper meanings to it that are insane as well.
+[01:01:32.880 --> 01:01:36.699]  He says that he made it for Alex and that it's been in his workshop for months.
+[01:01:36.900 --> 01:01:40.059]  So every time I went to the shop, God reminded me that's for Alex.
+[01:01:40.340 --> 01:01:43.059]  But he doesn't send it because he has a fantasy, he has a vision.
+[01:01:43.539 --> 01:01:46.320]  In my fertile imagination, I built a two story that would be.
+[01:01:46.920 --> 01:01:50.840]  Rob Dew is having trouble reading the guy's handwriting, and so it doesn't come across quite clearly.
+[01:01:50.900 --> 01:01:54.279]  Presenting it to you, and I won a truck.
+[01:01:54.340 --> 01:01:56.360]  Because at InfoWars, we do a raffle.
+[01:01:56.519 --> 01:02:02.219]  If you win the truck, you get to come down to pick up the truck in person and come on the Alex Jones show and meet Alex and hang out in the studio.
+[01:02:02.960 --> 01:02:07.619]  And so he's like, I had this fantasy that I would win that truck, and then I would get to deliver the axe in person.
+[01:02:08.400 --> 01:02:09.159]  Well, that didn't happen.
+[01:02:09.299 --> 01:02:11.079]  I wonder what I would do with the axe.
+[01:02:11.119 --> 01:02:13.820]  He said his son finally convinced him, Dad, you just got to send the axe.
+[01:02:13.920 --> 01:02:15.099]  And he said, just send it to him.
+[01:02:15.759 --> 01:02:16.980]  So here's the axe, brother.
+[01:02:17.599 --> 01:02:22.659]  It arrives on air when he's being told he's a battle axe for God.
+[01:02:22.840 --> 01:02:31.880]  Right before Trump launches this ill advised attack that is proven to be ill advised, if you watch that segment and see what Alex's attitude towards Trump really was.
+[01:02:32.779 --> 01:02:37.519]  But everything you just said in God's plan literally had someone make this months ago, be pushed by God.
+[01:02:37.559 --> 01:02:46.960]  His son said, send it now to perfectly arrive not last week, not yesterday, today, 20 minutes ago to Rob Doosie, it delivered it saying, This is for Alex.
+[01:02:47.840 --> 01:02:48.219]  We talked.
+[01:02:48.500 --> 01:02:50.900]  The guy that delivered didn't even know this was going on.
+[01:02:51.739 --> 01:02:52.139]  Perfect.
+[01:02:52.179 --> 01:02:53.880]  That's God's perfection right there.
+[01:02:54.159 --> 01:02:55.739]  You just saw a miracle, folks.
+[01:02:57.119 --> 01:02:58.319]  Welcome back, ladies and gentlemen.
+[01:02:58.500 --> 01:03:00.960]  Second hour of the Alex Jones Show is on.
+[01:03:01.079 --> 01:03:02.059]  I'm your host, Harrison Smith.
+[01:03:03.259 --> 01:03:08.059]  Make sure you're following us at Real Alex Jones on X at InfoWars.
+[01:03:08.300 --> 01:03:09.159]  I'm at Harrison H. Smith.
+[01:03:09.219 --> 01:03:16.380]  Make sure you're following at AJN Live as we will soon be making some changes here.
+[01:03:18.401 --> 01:03:28.041]  And of course, with this attack on Alex by Trump, there's been a lot of discussion about InfoWars recently, about Alex Jones.
+[01:03:29.341 --> 01:03:47.821]  Of course, I said on War Room not to repeat myself, but every time there's an attack on InfoWars like this, or like the bankruptcy, or like us getting, you know, they're trying to lock us out of our office, like, you know, every couple of months there's some significant attack against InfoWars, and it's always.
+[01:03:49.041 --> 01:03:51.021]  Disheartening when that happens, personally.
+[01:03:51.561 --> 01:03:56.641]  It's always kind of like, really, really, we got this on top of everything else we got to deal with.
+[01:03:58.361 --> 01:04:11.721]  But then in response to the attack comes this just overwhelming wave of support and people just from all over the place going, hey, look, I might not even like Trump or whatever, but like Alex Jones is the real deal.
+[01:04:11.801 --> 01:04:14.101]  You can not like him, but like he's the real deal.
+[01:04:14.341 --> 01:04:17.041]  And of course, most people are just saying, hey, Alex Jones is a living legend.
+[01:04:17.841 --> 01:04:18.901]  What the hell are you talking about?
+[01:04:19.321 --> 01:04:21.021]  How dare you question his legitimacy?
+[01:04:21.121 --> 01:04:38.841]  Because again, I just, I can't express how, like, we are the not only are we the most real organization in media at this point, and I can say that with, you know, authority since I know pretty much all of the organizations.
+[01:04:38.941 --> 01:04:49.381]  Infowars works harder than any of them and is more real than any of them and is more independent than any of them, just bar none and by a factor of 10.
+[01:04:50.961 --> 01:04:53.561]  But we also were sued and are currently.
+[01:04:54.301 --> 01:04:57.001]  Still in federal court bankruptcy proceedings.
+[01:04:57.421 --> 01:05:06.141]  So it is just kind of hilarious for anybody to claim that we're getting money from anywhere other than our audience.
+[01:05:07.081 --> 01:05:07.941]  It's not possible.
+[01:05:08.001 --> 01:05:13.661]  Unless you think that somehow the federal court is helping us launder money, like that doesn't make any sense.
+[01:05:13.801 --> 01:05:24.181]  Or whether we would risk long term jail sentences for lying and committing fraud while under the intense scrutiny of the federal court.
+[01:05:24.281 --> 01:05:25.081]  It's just absurd.
+[01:05:25.481 --> 01:05:25.941]  It's absurd.
+[01:05:26.661 --> 01:05:35.521]  We're the only organization ever that you can go to the public court records and see, like, our finances have been combed through with a fine tooth comb.
+[01:05:35.581 --> 01:05:42.041]  If there had been $5 that we weren't supposed to have, they would have found it and it would have been published.
+[01:05:42.081 --> 01:05:43.281]  There would have been articles about it.
+[01:05:44.201 --> 01:05:44.941]  There's nothing.
+[01:05:45.061 --> 01:05:51.241]  So it's just if you've ever wondered if InfoWars is the real deal, it's impossible for us not to be.
+[01:05:51.381 --> 01:05:52.141]  I'm just saying.
+[01:05:52.681 --> 01:05:58.501]  It's so frustrating hearing people lie about us continuously when just 10 minutes of research.
+[01:06:00.361 --> 01:06:01.221]  Should make everything obvious.
+[01:06:01.261 --> 01:06:03.341]  And of course, the video is from like the 90s of Alex Jones.
+[01:06:03.661 --> 01:06:04.401]  It's all amazing.
+[01:06:05.521 --> 01:06:07.901]  But I want to go to a video here because it is one of these.
+[01:06:08.981 --> 01:06:12.101]  And it's kind of troubling how convincing this video could seem.
+[01:06:13.141 --> 01:06:15.601]  Now, the video I'm about to show you is from a user called Bobby Sauce.
+[01:06:15.641 --> 01:06:20.001]  And he's responding to some weirdo, I guess not leftist.
+[01:06:20.181 --> 01:06:22.941]  He seems like a leftist, but I guess he's a Trump supporter.
+[01:06:23.601 --> 01:06:26.881]  But he's just lying about Infowars.
+[01:06:27.761 --> 01:06:32.041]  The things he's insinuating about Infowars are just on the face of it ridiculous.
+[01:06:33.121 --> 01:06:50.981]  But listen to the condescending and self important and the faux superiority and faux authority this guy puts across as he's telling you things that are abjectly and provably false.
+[01:06:52.001 --> 01:06:53.661]  And just keep this in mind, okay?
+[01:06:53.821 --> 01:06:56.821]  I'll talk a little more on the other side, but let's go to clip 49 here.
+[01:06:56.861 --> 01:07:03.881]  This is a video from Bobby Sauce responding to some guy who's really good at dramatic pauses.
+[01:07:04.541 --> 01:07:05.181]  Let's watch.
+[01:07:07.581 --> 01:07:08.380]  Let me ask you a question.
+[01:07:08.920 --> 01:07:12.141]  When was the last time you paid for anything from Alex Jones?
+[01:07:12.961 --> 01:07:13.181]  Never.
+[01:07:13.880 --> 01:07:18.481]  When's the last time you bought one of his suppositories, one of his supplements, one of his t shirts, mugs, hats?
+[01:07:18.900 --> 01:07:21.161]  When's the last time you sent money to Alex Jones?
+[01:07:21.601 --> 01:07:21.780]  Never.
+[01:07:22.721 --> 01:07:23.181]  You haven't?
+[01:07:23.740 --> 01:07:27.181]  No, but he's had an objectively massive audience for literally decades.
+[01:07:27.461 --> 01:07:28.681]  So what exactly does that prove?
+[01:07:29.161 --> 01:07:29.380]  Yeah.
+[01:07:30.101 --> 01:07:30.541]  Weird, huh?
+[01:07:31.101 --> 01:07:32.121]  It's not really that weird.
+[01:07:32.380 --> 01:07:35.141]  I have 700,000 something followers across my platforms.
+[01:07:35.260 --> 01:07:36.820]  Less than 1% have ever given me money.
+[01:07:37.240 --> 01:07:40.121]  Because his organization cost millions to operate.
+[01:07:40.461 --> 01:07:41.380]  Okay, what's the point?
+[01:07:41.981 --> 01:07:43.141]  Yeah, he's fine.
+[01:07:43.880 --> 01:07:44.601]  He keeps growing.
+[01:07:45.721 --> 01:07:47.661]  Like he's got cash coming in from everywhere.
+[01:07:48.101 --> 01:08:02.461]  Look, I've never really listened to Alex Jones regularly, but to pretend like he's just got no money or no audience when he's had hundreds of millions of people following and watching him for decades, had a nationally syndicated radio show, and now has a supplement brand, one of the highest margin items that you could possibly sell.
+[01:08:02.760 --> 01:08:03.940]  What is the implication here?
+[01:08:05.221 --> 01:08:06.141]  We've done the math, folks.
+[01:08:06.181 --> 01:08:07.221]  I've been doing this a long time.
+[01:08:07.481 --> 01:08:08.360]  Done what math?
+[01:08:08.541 --> 01:08:10.340]  Alex is not a publicly traded company.
+[01:08:10.380 --> 01:08:11.021]  You have no idea.
+[01:08:11.280 --> 01:08:12.440]  What he's selling or not selling.
+[01:08:12.641 --> 01:08:17.081]  And those hundreds of millions of people that follow him, a lot of them donate money or they buy the supplements.
+[01:08:17.140 --> 01:08:19.001]  The margin on supplements, 50% plus.
+[01:08:19.301 --> 01:08:23.740]  Everybody knows that the biggest way to monetize your audience is to sell your own manufactured goods.
+[01:08:23.940 --> 01:08:25.900]  His net worth has been estimated in the hundreds of millions.
+[01:08:25.961 --> 01:08:27.721]  Whether that's accurate or not doesn't even really matter.
+[01:08:27.921 --> 01:08:32.280]  But at one point, his court filings showed that InfoWoros was making $800,000 a day.
+[01:08:32.501 --> 01:08:33.661]  And that was like seven years ago.
+[01:08:33.961 --> 01:08:34.280]  A day.
+[01:08:34.860 --> 01:08:34.940]  So.
+[01:08:35.161 --> 01:08:36.280]  I've been doing this a long time.
+[01:08:36.320 --> 01:08:40.201]  Been in broadcasting and advertising marketing since I was 14 years old.
+[01:08:40.240 --> 01:08:41.560]  I've been doing this a long time.
+[01:08:41.801 --> 01:08:43.761]  You were doing broadcast advertising and marketing when you were.
+[01:08:43.780 --> 01:08:45.140]  14, what?
+[01:08:45.201 --> 01:08:46.961]  And even if you have, that doesn't change anything.
+[01:08:47.780 --> 01:08:51.780]  We can't seem to figure out how those suppositories and supplements are paying all the bills.
+[01:08:52.100 --> 01:08:54.060]  One of his best selling supplements is Methylene Blue.
+[01:08:54.140 --> 01:09:01.341]  I don't know the first thing about Methylene Blue, but I looked on the website 50 milliliters, 16 to 17 bucks, originally $50 for 50 milliliters.
+[01:09:01.581 --> 01:09:05.140]  Based on what I see, these milliliters cost 4 to 5 cents to produce in bulk.
+[01:09:05.421 --> 01:09:11.480]  So if you sell a lot of high margin items over decades of time to hundreds of millions of people, like what are you talking about, dude?
+[01:09:13.101 --> 01:09:13.641]  Let that sink in.
+[01:09:13.921 --> 01:09:15.240]  Let what sink in, dude?
+[01:09:15.280 --> 01:09:17.701]  What is the dramatic, like, I know something that you don't know.
+[01:09:17.740 --> 01:09:19.301]  I've been doing this since I was three years old.
+[01:09:19.400 --> 01:09:21.360]  I came out of the womb doing marketing and sales.
+[01:09:21.501 --> 01:09:23.761]  And look, I don't like a lot of what Alex has been talking about here.
+[01:09:23.801 --> 01:09:26.421]  And I've always taken his information with a grain of salt over many years.
+[01:09:26.641 --> 01:09:32.701]  But this, like, tacit implication that you have some type of inside baseball because you have expertise, so you know that this money's coming in from somewhere.
+[01:09:32.900 --> 01:09:40.021]  When there's all these other people that are doing the exact same thing in much more nefarious ways that all of us can see in plain sight, that are provable, that are objective, that we can look at.
+[01:09:40.221 --> 01:09:42.480]  But you did the math and can't figure out where the money's come from?
+[01:09:42.521 --> 01:09:43.581]  What are you even talking about, bro?
+[01:09:43.820 --> 01:09:47.521]  This follows the exact same vein as the rest of his content, which is like, oh, you don't agree with me?
+[01:09:47.641 --> 01:09:48.801]  Well, you're stupid and ignorant.
+[01:09:48.900 --> 01:09:51.761]  It's because you don't know, because I came out of the womb doing policy, bro.
+[01:09:52.301 --> 01:09:52.860]  You love Trump.
+[01:09:52.900 --> 01:09:53.421]  He's the hero.
+[01:09:53.541 --> 01:09:55.440]  How about the billions his family's made in crypto?
+[01:09:56.161 --> 01:09:56.860]  What's more of a threat?
+[01:09:57.021 --> 01:09:58.581]  Alex Jones selling supplements or that?
+[01:09:58.661 --> 01:09:59.081]  Whatever it is.
+[01:09:59.341 --> 01:10:02.961]  This video has 5,000 views on X, and there's people in the comments saying they bought the bone broth.
+[01:10:03.021 --> 01:10:03.801]  They bought the methylene blue.
+[01:10:03.841 --> 01:10:04.501]  It changed their life.
+[01:10:04.581 --> 01:10:06.021]  So, what, dude?
+[01:10:07.301 --> 01:10:09.261]  So, let me clarify some things real quick.
+[01:10:09.320 --> 01:10:10.541]  Let me clarify some things real quick.
+[01:10:10.581 --> 01:10:14.860]  I don't know where he's getting his calculation for what it costs to create methylene blue.
+[01:10:15.320 --> 01:10:17.201]  That's just not the case.
+[01:10:17.240 --> 01:10:18.601]  He's like, it costs like four or five cents.
+[01:10:18.761 --> 01:10:21.121]  No, Go ask Grok because that's what I did.
+[01:10:21.201 --> 01:10:23.061]  I was like, that's not right.
+[01:10:23.221 --> 01:10:25.201]  And if Alex was here, he could tell you the exact breakdown.
+[01:10:25.240 --> 01:10:29.081]  He was talking about it this week because he's like, how are we selling this for 72% off?
+[01:10:29.121 --> 01:10:30.461]  He's like, we're losing money.
+[01:10:31.381 --> 01:10:36.461]  He's like, and I don't want to get the numbers wrong, but he's like, it costs us $16 to make.
+[01:10:36.501 --> 01:10:37.301]  How are we selling it for $17?
+[01:10:37.761 --> 01:10:38.841]  That doesn't make any sense.
+[01:10:38.900 --> 01:10:39.801]  It's like, what?
+[01:10:40.601 --> 01:10:47.240]  So, yeah, sometimes we sell things at cost just as a promotional thing to, You know, because you're going to like the product.
+[01:10:47.301 --> 01:10:49.521]  And once you use the product, you're going to be like, dang, I need to get that again.
+[01:10:49.601 --> 01:10:51.421]  Like, this is normal marketing.
+[01:10:51.461 --> 01:10:52.301]  This is how sales works.
+[01:10:52.841 --> 01:10:59.421]  This actually came up during the bankruptcy, and they were accusing Alex Jones of being extortionary or whatever.
+[01:10:59.461 --> 01:11:02.400]  And they're like, he marks up his products this amount.
+[01:11:02.921 --> 01:11:10.280]  Guys, a lot of our products are literally white labeled consumer products that you can buy on the shelf at major retailers.
+[01:11:10.900 --> 01:11:11.121]  Okay.
+[01:11:11.360 --> 01:11:18.360]  Like, it's stuff that people who hate us have in their pantries and paid more for at the store than they could have at InfoWars.
+[01:11:19.381 --> 01:11:19.881]  It's absurd.
+[01:11:20.221 --> 01:11:29.980]  And if you look at basically every other product, I mean, because at the time during the trial, they were saying he marks it up, you know, however much percent.
+[01:11:30.621 --> 01:11:32.081]  And this is the, I can't believe it.
+[01:11:32.121 --> 01:11:34.001]  This is so just, this is just awful.
+[01:11:34.221 --> 01:11:38.881]  Treating it as if it's like Alex Jones came up with some scheme to like rob people.
+[01:11:38.921 --> 01:11:43.980]  And it's like everything you watch on TV is paid for by advertising.
+[01:11:44.061 --> 01:11:44.621]  Do you know that?
+[01:11:44.721 --> 01:11:45.461]  Do you understand that?
+[01:11:45.681 --> 01:11:51.021]  Everything you watch on TV is only being broadcast on television.
+[01:11:51.681 --> 01:11:58.261]  Because there are ads to sell products, that this is the most normal business structure you could possibly have.
+[01:11:58.740 --> 01:12:03.440]  Only we're doing it under like severe total restriction, right?
+[01:12:03.601 --> 01:12:04.721]  We have to get everything right.
+[01:12:05.501 --> 01:12:08.421]  Again, this is the thing about InfoWars we have to do everything perfectly.
+[01:12:09.381 --> 01:12:14.621]  We have entire industries of people out there all day, every day, studying everything we do.
+[01:12:15.740 --> 01:12:20.301]  Another thing revealed during the trial where you had people come out and going, I'm a disinformation expert.
+[01:12:20.440 --> 01:12:41.761]  I've spent the last several months studying Alex Jones and going through the Incredible literature that's out there, the tens of thousands of articles and scientific investigations by universities around America studying Alex Jones, studying InfoWars, not out of academic curiosity, but like a general studies the battle plans of his enemy general.
+[01:12:42.381 --> 01:12:44.421]  They're studying us to try to defeat us.
+[01:12:45.421 --> 01:12:50.681]  Other places, other retail outlets are going under constantly, going bankrupt constantly.
+[01:12:51.081 --> 01:12:54.641]  All they do is sell products and they can't keep the doors open.
+[01:12:54.940 --> 01:12:57.521]  We sell products to fund our production.
+[01:12:58.721 --> 01:13:09.280]  We are under the same constraints that your average brick and mortar retailer is under, only we also fund an entire news network with the proceeds.
+[01:13:10.601 --> 01:13:12.240]  And we're still succeeding.
+[01:13:12.280 --> 01:13:19.421]  And so I looked into it and it's like, okay, how, you know, whatever, let's take a random well known brand that advertises everywhere.
+[01:13:19.721 --> 01:13:29.521]  If it's so bad that Alex Jones sells good products to, you know, promote his, to fund his production, okay, CNN advertises Coca Cola, right?
+[01:13:29.641 --> 01:13:32.981]  It costs something like five cents for a bottle of Coke.
+[01:13:33.621 --> 01:13:36.621]  They turn around and sell those bottles of Coke for $5 in some cases.
+[01:13:36.761 --> 01:13:38.240]  That's a hundred times mock up.
+[01:13:39.321 --> 01:13:39.801]  So this is the thing.
+[01:13:39.841 --> 01:13:41.161]  If you're going to apply these.
+[01:13:41.801 --> 01:13:45.321]  You know, constrictions, these accusations against InfoWars.
+[01:13:45.881 --> 01:13:50.301]  It's like we do it less than anybody else, and our stuff is better than anybody else.
+[01:13:50.801 --> 01:13:55.240]  We have to be, because if we're not, we'll be destroyed.
+[01:13:56.161 --> 01:13:58.121]  We have to have people come back to buy our products.
+[01:13:58.261 --> 01:13:59.821]  Why would we sell them bunk products?
+[01:14:00.681 --> 01:14:08.041]  We have to deliver what we advertise, or else every DA in America would be salivating to bring us down.
+[01:14:08.601 --> 01:14:11.001]  We have to do it by the book, we have to do it perfectly.
+[01:14:11.461 --> 01:14:14.280]  It's why, you know, Alex got a big tax refund.
+[01:14:15.201 --> 01:14:22.581]  Once the bankruptcy started, because we're so cautious, we know the type of scrutiny we're under, we'll go over and above and beyond, even if we don't have to.
+[01:14:24.601 --> 01:14:35.361]  And when I do War Room, it's like everybody who calls in has a story about how Methyl and Blue or iodine or one of our products has transformed their life.
+[01:14:35.441 --> 01:14:36.581]  We don't tell them to do that.
+[01:14:37.621 --> 01:14:39.321]  I don't even know they're going to do it when I go to their call.
+[01:14:40.041 --> 01:14:42.341]  I'm like, you know, James from Missouri wants to talk about Trump.
+[01:14:42.401 --> 01:14:42.941]  Welcome to the show.
+[01:14:42.981 --> 01:14:46.221]  And he's like, let me tell you about how Methyl and Blue saved my life.
+[01:14:46.321 --> 01:14:46.801]  It's crazy.
+[01:14:46.901 --> 01:14:47.581]  It just happens.
+[01:14:47.921 --> 01:14:48.701]  Our products are amazing.
+[01:14:49.261 --> 01:14:49.501]  Anyway.
+[01:14:49.821 --> 01:14:52.361]  It's just all of this is designed to try to destroy us.
+[01:14:53.381 --> 01:14:58.981]  And we've already been on the brink of destruction for years now because of our support of Donald Trump.
+[01:14:59.261 --> 01:15:03.901]  And then it's Donald Trump himself who comes out and says, actually, it's a good thing this is happening.
+[01:15:03.941 --> 01:15:05.301]  It's a good thing Alex Jones went bankrupt.
+[01:15:06.121 --> 01:15:06.921]  Just infuriating.
+[01:15:07.421 --> 01:15:10.001]  So you do support us by going to the AlexJonesStore.com.
+[01:15:10.501 --> 01:15:12.681]  You are the only way that we get support.
+[01:15:13.280 --> 01:15:21.981]  Unlike every other organization, spokesman, outlet, news, magazine, they all.
+[01:15:22.981 --> 01:15:24.001]  Take money from sponsors.
+[01:15:24.061 --> 01:15:25.501]  They all take money from interest.
+[01:15:26.321 --> 01:15:29.441]  They all take money to say certain things that they don't believe.
+[01:15:29.821 --> 01:15:31.201]  That is the definition of grifting.
+[01:15:31.581 --> 01:15:36.061]  We say exactly what we believe, regardless of who wants to say anything about it.
+[01:15:37.301 --> 01:15:44.401]  And we're able to do that because Alex deliberately created a system that was free from influence, coercion, or control.
+[01:15:45.341 --> 01:15:46.921]  He understood that we would be targeted.
+[01:15:46.961 --> 01:15:52.161]  He understood that if we relied on payment processors like Patreon, we'd be taken down.
+[01:15:52.941 --> 01:15:55.621]  If we relied on subscription models, that could be.
+[01:15:56.561 --> 01:15:58.941]  Done away with by cooperation with big tech.
+[01:15:59.881 --> 01:16:02.921]  If we wanted to do it, what we did was very simple.
+[01:16:03.881 --> 01:16:08.601]  We created a sort of agreement, a sort of contract with our audience.
+[01:16:08.941 --> 01:16:12.601]  We tell you the truth, and in exchange, you go to the Alex Jones store.com.
+[01:16:12.820 --> 01:16:13.161]  That's it.
+[01:16:14.521 --> 01:16:17.240]  Nobody else can determine for you whether or not we're telling the truth.
+[01:16:17.981 --> 01:16:25.341]  All we can do is appeal to your personal discernment and say, hey, I think we've upheld our end of the bargain.
+[01:16:25.521 --> 01:16:32.921]  I think we have told the truth, and it's hurt us, and it's really caused a lot of suffering for all of us individually.
+[01:16:33.201 --> 01:16:34.141]  It has not been an easy.
+[01:16:34.661 --> 01:16:42.461]  A couple of years at this company, let me tell you, not because of anybody here or anything that we're doing, but the attacks that we're under, like we've suffered.
+[01:16:42.761 --> 01:16:48.041]  We've actually suffered and been disadvantaged by all this stuff.
+[01:16:49.481 --> 01:16:49.921]  But it's fine.
+[01:16:49.981 --> 01:16:51.280]  We're going to continue to tell the truth.
+[01:16:51.881 --> 01:16:56.081]  We're going to continue to tell you exactly what we believe and exactly what we think is happening.
+[01:16:56.841 --> 01:17:06.561]  And even if you disagree with us in our interpretation, I hope that you can recognize that we're not BSing you, we're not lying to you, we're not making stuff up, taking stuff out of context.
+[01:17:07.881 --> 01:17:11.481]  Because that would be in violation of the very contract that we established.
+[01:17:12.681 --> 01:17:13.521]  We will tell you the truth.
+[01:17:14.261 --> 01:17:18.761]  You support us in this mission, and it is an unbeatable symbiotic relationship.
+[01:17:19.081 --> 01:17:23.860]  Go to thealexjonesstore.com to purchase one of these incredible products.
+[01:17:24.280 --> 01:17:35.280]  Feel the difference for yourself, and know that you are straight up, as literally as possible at this point, slapping the New World Order in the face.
+[01:17:35.381 --> 01:17:37.740]  Every dollar you spend to thealexjonesstore.com.
+[01:17:38.641 --> 01:17:42.981]  Is a slap in the face and a spit in the eye of the bad guys that want us to go down.
+[01:17:43.641 --> 01:17:47.521]  And that alone, I think, is a good enough reason, but there's also all the other great reasons.
+[01:17:47.740 --> 01:17:49.201]  Anyway, thealexjonestor.com.
+[01:17:49.261 --> 01:17:49.841]  Please do support us.
+[01:17:49.921 --> 01:17:50.701]  We really do appreciate it.
+[01:17:51.801 --> 01:17:58.360]  Here's Donald Trump's statement on, and we're going to finish up with the war in Iran and move on to what happened to Savannah and what's going on in Ireland now.
+[01:17:58.400 --> 01:18:00.061]  But just to close out with Iran here.
+[01:18:01.021 --> 01:18:02.441]  So there you have it, Donald Trump says.
+[01:18:02.501 --> 01:18:03.301]  The meeting went well.
+[01:18:03.400 --> 01:18:06.701]  Most points were agreed to, but the only point that really mattered, nuclear, was not.
+[01:18:06.961 --> 01:18:12.341]  Effective immediately, the United States Navy, the finest in the world, will begin the process of blockading any and all ships.
+[01:18:12.641 --> 01:18:14.961]  Still trying to enter or leave the Strait of Hormuz.
+[01:18:16.441 --> 01:18:19.841]  So we're going to now be bombing Chinese ships, I guess.
+[01:18:20.881 --> 01:18:22.081]  I bet that'll go really well.
+[01:18:22.961 --> 01:18:28.881]  I've also instructed our Navy to seek and interdict every vessel in international waters that has paid a toll to Iran.
+[01:18:31.701 --> 01:18:33.140]  It's beyond Mad King Lear.
+[01:18:33.661 --> 01:18:35.600]  It's beyond King Theoden.
+[01:18:37.680 --> 01:18:41.520]  It's to the point, how I put it last week on War Room.
+[01:18:41.661 --> 01:18:52.360]  It's like Donald Trump is pursuing the madman theory, the madman strategy of Richard Nixon, only he's actually doing the madman thing.
+[01:18:52.880 --> 01:19:00.480]  The whole point of the madman scheme is it works because you're not actually crazy, it doesn't actually work if you're just genuinely insane.
+[01:19:03.701 --> 01:19:08.900]  It's like in the Odyssey, Odysseus pretends to be insane because he doesn't want to go to fight against Troy.
+[01:19:08.980 --> 01:19:09.740]  His son was just born.
+[01:19:09.800 --> 01:19:10.541]  He wants to stay home.
+[01:19:10.900 --> 01:19:12.041]  Telemachus was like two months old.
+[01:19:12.600 --> 01:19:18.440]  And so he's acting crazy and he's like plowing his field and throwing salt instead of seeds.
+[01:19:18.480 --> 01:19:19.961]  And it's like, whoa, this guy's nuts.
+[01:19:20.640 --> 01:19:25.100]  And so the guy that came to recruit him is suspicious and goes, I don't think this guy's really crazy.
+[01:19:25.201 --> 01:19:27.001]  I think he's acting, I think he's pretending.
+[01:19:27.081 --> 01:19:31.600]  And so he puts two month old Telemachus in the field in the way of the plow.
+[01:19:32.121 --> 01:19:36.940]  Thinking if this guy's crazy, if he really is disconnected from reality, he doesn't know his baby from anything.
+[01:19:37.001 --> 01:19:37.921]  He's going to run right over it.
+[01:19:38.020 --> 01:19:41.900]  And of course, Odysseus goes around the baby and the guy goes, haha, you're not really crazy.
+[01:19:41.980 --> 01:19:42.640]  You know what you're doing.
+[01:19:44.360 --> 01:19:49.760]  Trump is doing the madman theory and then he runs over Telemachus and runs over his own son.
+[01:19:49.800 --> 01:19:50.900]  And it's like, oh, okay.
+[01:19:51.001 --> 01:19:52.380]  So you're just actually crazy.
+[01:19:53.300 --> 01:19:56.501]  The whole thing is it's like, whoa, we don't know if he's going to really start a war with Iran or not.
+[01:19:56.581 --> 01:19:57.480]  He could do anything.
+[01:19:57.840 --> 01:20:05.600]  But then you do start the war and you don't have any backup plans and you don't have any offer amps and you kill the people you're negotiating with.
+[01:20:06.661 --> 01:20:08.100]  That's not the madman theory anymore.
+[01:20:08.180 --> 01:20:10.001]  That's just being a crazy person.
+[01:20:11.220 --> 01:20:11.921]  There's a difference.
+[01:20:12.240 --> 01:20:12.740]  It's a big one.
+[01:20:12.921 --> 01:20:13.501]  It's important.
+[01:20:14.780 --> 01:20:17.461]  U.S. warships transit the Strait of Hormuz for the first time.
+[01:20:17.541 --> 01:20:26.001]  Several U.S. warships transited the Strait of Hormuz for the first time since the war in Iran began, as peace negotiations got underway in Pakistan.
+[01:20:26.501 --> 01:20:28.621]  I'm just telling you, we are just the worst, man.
+[01:20:28.720 --> 01:20:29.961]  We really are the worst.
+[01:20:30.220 --> 01:20:30.900]  It sucks.
+[01:20:31.961 --> 01:20:33.300]  Like, I'm reading this, I'm just like, okay.
+[01:20:34.640 --> 01:20:40.161]  So, we really did another round of fake peace ceasefire deals.
+[01:20:41.201 --> 01:20:48.621]  And then took advantage of that to get our ships through the strait, knowing that Iran was bound by the ceasefire that we just did.
+[01:20:49.980 --> 01:21:10.680]  So, just once again, once again, pretty much openly, we pretend to do peace negotiations that were never intended to actually result in a compromise or agreement, but instead is being used as cover to do sneaky, you know, Warcraft things that we wouldn't be able to do otherwise.
+[01:21:13.921 --> 01:21:17.261]  I just, you know, it's, it really is the worst.
+[01:21:17.320 --> 01:21:20.940]  It's like the, it's like the Minsk Accord, the Minsk agreements.
+[01:21:22.020 --> 01:21:25.600]  When Europe comes out and goes, oh, we never intended to actually abide by that.
+[01:21:25.680 --> 01:21:29.640]  That was just to give us some breathing room to build the army to go to war with Russia.
+[01:21:30.060 --> 01:21:32.740]  It's like, you're not supposed to say that, you absolute idiots.
+[01:21:33.320 --> 01:21:35.581]  And that's what, it appears as though that's what we were doing here.
+[01:21:36.180 --> 01:21:38.881]  Well, we don't actually, we're not actually going to do a ceasefire or peace with Iran.
+[01:21:39.261 --> 01:21:44.161]  But if we can get them to stop firing on us, then we can slip those boats in between the Strait of Hormuz.
+[01:21:44.240 --> 01:21:52.940]  So it's just like, Iran, like Russia, are just patience on a monument.
+[01:21:54.320 --> 01:21:59.060]  Several U.S. warships transited the Strait of Hormuz for the first time since the war with Iran began.
+[01:21:59.161 --> 01:22:00.600]  Peace negotiations are underway in Pakistan.
+[01:22:00.640 --> 01:22:07.780]  According to sources who spoke to Axios, the move was not coordinated with Iran and was intended to increase the confidence of commercial ships to cross the Strait.
+[01:22:08.201 --> 01:22:12.140]  It was an operation that focused on freedom of navigation through international waters, a U.S. official said.
+[01:22:12.940 --> 01:22:19.421]  Yeah, because they're on a ceasefire agreement, because Iran actually sticks to the agreements that they make, unlike Israel, unlike America.
+[01:22:21.280 --> 01:22:22.100]  It's just pathetic.
+[01:22:22.161 --> 01:22:23.541]  And again, people will criticize me for that.
+[01:22:23.680 --> 01:22:26.221]  It's like, no, I don't want to be on the side of liars.
+[01:22:26.360 --> 01:22:27.701]  I don't want to be on the side of manipulators.
+[01:22:27.881 --> 01:22:29.240]  I don't want to be on the side.
+[01:22:29.921 --> 01:22:33.280]  I don't want my side thinking that this crap is clever.
+[01:22:33.381 --> 01:22:34.201]  This is not clever.
+[01:22:34.320 --> 01:22:35.221]  It's just evil.
+[01:22:35.820 --> 01:22:36.961]  It's just short sighted.
+[01:22:38.020 --> 01:22:38.701]  Okay, sure.
+[01:22:38.940 --> 01:22:44.440]  You can, you know, humiliate Iran by killing their negotiators.
+[01:22:45.480 --> 01:22:51.501]  Down the road, I mean, again, I'm frankly shocked Iran has not just killed our negotiators.
+[01:22:51.740 --> 01:22:52.461]  Like, why wouldn't they?
+[01:22:52.640 --> 01:22:53.280]  Why haven't they?
+[01:22:53.541 --> 01:22:54.161]  I don't understand.
+[01:22:54.240 --> 01:22:54.581]  We've killed.
+[01:22:55.520 --> 01:22:57.041]  Multiple rounds of their negotiators.
+[01:22:59.400 --> 01:23:05.400]  And yet we would act so upset and surprised if Steve Witkopf and Jared Kushner were like bombed by Iran one day.
+[01:23:05.520 --> 01:23:05.721]  Why?
+[01:23:06.161 --> 01:23:08.480]  These are the rules we're playing by.
+[01:23:09.801 --> 01:23:13.381]  And Iran is not playing by them, but they could at any point and be justified in doing so.
+[01:23:14.640 --> 01:23:17.581]  Of course, Netanyahu says, I'll keep fighting Iran and its proxies.
+[01:23:18.900 --> 01:23:25.661]  But she means America will keep fighting Iran and its proxies because Israel is not fighting Iran and its proxies.
+[01:23:26.320 --> 01:23:28.280]  They are not putting boots on the ground and they never will.
+[01:23:29.041 --> 01:23:37.121]  Netanyahu made the vow in a post on X on Saturday as U.S. President JD Vance was engaged in diplomatic talks to end the war in Islamabad, Pakistan.
+[01:23:37.180 --> 01:23:48.341]  He also took a swipe at Turkey, which he accused of killing its own citizens as they continue to the buildup for the next big Iran threat, which will be Turkey this time, which is why we're threatening to leave NATO, amongst other reasons.
+[01:23:48.940 --> 01:23:50.480]  Quote, You failed to win our trust.
+[01:23:50.581 --> 01:23:53.461]  Iran delegate blames U.S. for collapse of talks.
+[01:23:53.961 --> 01:23:56.721]  Again, do they sound desperate to you?
+[01:23:57.461 --> 01:23:59.301]  Do they sound like the ones begging for a deal?
+[01:23:59.480 --> 01:24:02.201]  Do they sound like the ones holding the cards with the leverage?
+[01:24:02.900 --> 01:24:07.980]  Setting the terms or responding to the terms, or are they the ones setting the terms?
+[01:24:08.081 --> 01:24:11.581]  Are they the ones dictating how this will go?
+[01:24:16.281 --> 01:24:16.901]  It's just pathetic.
+[01:24:17.001 --> 01:24:17.881]  It really is pathetic.
+[01:24:19.101 --> 01:24:22.761]  The leader of the Iranian delegation blamed the U.S. for a collapse of peace talks in Pakistan.
+[01:24:23.241 --> 01:24:30.841]  Quote Before negotiations, I emphasize that we have the necessary good faith and will, but due to the experiences of the two previous wars, we have no trust in the opposing side.
+[01:24:31.021 --> 01:24:31.761]  Of course, why would they?
+[01:24:32.921 --> 01:24:41.221]  I mean, the New York Times article revealed that they had planned on bombing Iran as of around February 11th or 12th.
+[01:24:41.881 --> 01:24:48.641]  That means that from February 12th to February 28th, They were playing the Iranians for fools.
+[01:24:49.861 --> 01:24:56.781]  They spent weeks holding fake negotiations with Iran while our preparations to attack Iran were going into place.
+[01:24:56.821 --> 01:25:02.181]  That is public knowledge and acknowledged, and official confirmed sources have said this.
+[01:25:05.561 --> 01:25:08.281]  So, again, it's like I think Iran would be suckers for trust.
+[01:25:08.421 --> 01:25:09.401]  Why would they trust us?
+[01:25:09.981 --> 01:25:12.121]  We have proven ourselves to be untrustworthy.
+[01:25:13.921 --> 01:25:17.861]  And now the talks have failed, almost certainly because Netanyahu got involved.
+[01:25:17.921 --> 01:25:18.501]  According to all.
+[01:25:19.461 --> 01:25:22.661]  Accounts, JD Vance was doing a pretty good job.
+[01:25:22.741 --> 01:25:29.001]  They were on their way to some sort of agreement when Netanyahu decided to give him a call and suddenly everything went off the rails.
+[01:25:30.761 --> 01:25:33.281]  Because that's our real enemy, Netanyahu.
+[01:25:33.761 --> 01:25:34.781]  I know you're the big health guy.
+[01:25:34.821 --> 01:25:35.821]  You're way better shape than I am.
+[01:25:35.861 --> 01:25:36.521]  Don't kick my ass.
+[01:25:37.101 --> 01:25:38.421]  I've seen you working out with the Liver King.
+[01:25:38.561 --> 01:25:40.581]  You say you've taken methylene before.
+[01:25:41.161 --> 01:25:43.541]  I want you to take our medical grade.
+[01:25:43.861 --> 01:25:45.061]  It takes 30 minutes to kick in.
+[01:25:45.541 --> 01:25:46.721]  I've given this to 500 people.
+[01:25:46.801 --> 01:25:48.101]  Only three people didn't feel it right away.
+[01:25:48.161 --> 01:25:49.001]  So good for your body.
+[01:25:49.461 --> 01:25:50.621]  I'd like you to drink this, Jay.
+[01:25:50.781 --> 01:25:51.481]  You said earlier it would.
+[01:25:51.941 --> 01:25:52.381]  I appreciate it.
+[01:25:52.421 --> 01:25:53.621]  I want to get your true review.
+[01:25:53.661 --> 01:25:54.661]  If it doesn't work, tell me.
+[01:25:55.061 --> 01:25:55.801]  Here it is, brother.
+[01:25:56.841 --> 01:25:57.461]  He's yours.
+[01:25:57.521 --> 01:26:00.381]  It looks just like the stuff from Dune, the water of life.
+[01:26:00.681 --> 01:26:05.801]  He's drinking the juice of a strangled, drowned sandworm right now.
+[01:26:06.301 --> 01:26:08.001]  Baron Harkonnen is not happy.
+[01:26:08.361 --> 01:26:09.781]  We're going to see what happens.
+[01:26:09.801 --> 01:26:11.741]  20 minutes later.
+[01:26:11.901 --> 01:26:15.401]  Personally, I feel like my brain is clearer and working faster.
+[01:26:15.501 --> 01:26:19.781]  I was telling you, I've had a little bit of a cold for the past few days, under rested.
+[01:26:20.281 --> 01:26:22.561]  It felt like my brain was working at.
+[01:26:22.581 --> 01:26:25.301]  50% capacity just felt slow.
+[01:26:25.901 --> 01:26:28.321]  And now, what's it been, a half hour or so?
+[01:26:28.921 --> 01:26:30.881]  It feels like I'm back up to 80%.
+[01:26:31.481 --> 01:26:33.101]  So, yeah, that's my experience.
+[01:26:33.141 --> 01:26:37.481]  Feels like my brain and my energy have had the accelerator hit on them.
+[01:26:37.861 --> 01:26:41.921]  You, and be honest, I know you will be, because we're always trying to find a better methylene blood.
+[01:26:41.961 --> 01:26:43.761]  If you've got one that's better, you said you've taken it before.
+[01:26:43.821 --> 01:26:45.861]  Did you feel the same thing with the other methylene blood?
+[01:26:45.981 --> 01:26:49.681]  No, with other ones I've tried, I didn't have a perceptible difference.
+[01:26:50.201 --> 01:26:51.501]  Yeah, didn't notice anything.
+[01:26:51.981 --> 01:26:52.681]  Well, I got to tell you.
+[01:26:53.501 --> 01:26:55.021]  Bigly, I said, go find me the best.
+[01:26:55.061 --> 01:26:56.661]  They said, this place doesn't sell it to people.
+[01:26:57.061 --> 01:27:00.881]  They sell it for medical dyes for arteries instead of like iodine, radioactive iodine.
+[01:27:00.941 --> 01:27:03.601]  They use this for tracking blood clots or something.
+[01:27:04.141 --> 01:27:05.121]  And I said, okay, great.
+[01:27:05.161 --> 01:27:05.781]  So you got to deal with them.
+[01:27:05.861 --> 01:27:06.921]  I said, well, let me get it.
+[01:27:07.301 --> 01:27:09.201]  And I'd taken a bunch of different brands before.
+[01:27:09.241 --> 01:27:10.061]  It didn't really do much.
+[01:27:10.561 --> 01:27:12.001]  I was like, when I did it.
+[01:27:12.461 --> 01:27:14.521]  And I was like, so they hit a home run with this.
+[01:27:15.021 --> 01:27:17.541]  So you're saying you've taken, we didn't talk about this beforehand.
+[01:27:17.841 --> 01:27:18.361]  We just asked you.
+[01:27:18.721 --> 01:27:21.121]  You've taken others before, though, did not feel like this.
+[01:27:21.421 --> 01:27:22.021]  Yeah, that's true.
+[01:27:22.341 --> 01:27:24.461]  I felt it in my brain and my energy.
+[01:27:24.821 --> 01:27:26.021]  Well, I like it.
+[01:27:26.261 --> 01:27:27.621]  I'm going to get me some before I leave.
+[01:27:27.661 --> 01:27:28.961]  We're going to give you a couple bottles of it, bro.
+[01:27:29.221 --> 01:27:29.741]  We love it.
+[01:27:30.141 --> 01:27:35.241]  Yeah, my understanding, you mentioned this methylene blues, they're not all created equal.
+[01:27:35.481 --> 01:27:41.101]  Some, I believe, are like a fish aquarium grade, but they sell it to humans.
+[01:27:41.541 --> 01:27:45.261]  So, what you found, I'm stoked to really love it.
+[01:27:45.301 --> 01:27:46.281]  Look, I love Bigly.
+[01:27:46.341 --> 01:27:47.441]  Their rule is go out and get the best.
+[01:27:47.501 --> 01:27:49.861]  Most of our products are private labels already top rated.
+[01:27:49.901 --> 01:27:50.621]  So, get the best methylene blue.
+[01:27:51.181 --> 01:27:52.341]  So, I think we've got the best.
+[01:27:52.741 --> 01:27:54.781]  JP Sears didn't even know this backstory that you all know.
+[01:27:55.341 --> 01:27:56.501]  You just saw what just happened to him.
+[01:27:56.881 --> 01:27:57.401]  It's amazing.
+[01:27:57.461 --> 01:28:00.181]  Get yours now, theallshowstore.com.
+[01:28:04.381 --> 01:28:09.640]  Whatever the future may hold, Infowars will always live forever.
+[01:28:09.900 --> 01:28:11.661]  The fight will continue.
+[01:28:11.940 --> 01:28:17.841]  Be sure to follow us on X at RealAlexJones and at AJNLive.
+[01:28:18.121 --> 01:28:22.261]  And now you can download the number one news app in the world.
+[01:28:22.520 --> 01:28:33.780]  Go to AlexJonesApp.com and let the Democrat Deep State Party know that we will never be silenced.
+[01:28:33.820 --> 01:28:34.520]  Welcome back, folks.
+[01:28:34.560 --> 01:28:45.921]  We're going to move on from the Iran war, but I do want to say that the context of the Iran war is bigger than just the war itself, right?
+[01:28:46.020 --> 01:29:01.940]  It's not even so much what we're doing in Iran, it's the fact that we're doing what we're doing in Iran while America continues down the path towards total destruction with absolutely none of the very important things that we sent Donald Trump to Washington, D.C. to deal with.
+[01:29:02.280 --> 01:29:04.341]  None of them have been dealt with, even remotely.
+[01:29:06.320 --> 01:29:07.520]  So it's not, you know.
+[01:29:08.240 --> 01:29:33.320]  If we were doing great, if we'd have 50 million deportations by this point and the border was completely closed, and just like if things were actually going well for us, if inflation was actually down, if gas wasn't $5 a gallon, which I guess is because of the Iran war, but if we were doing well, if Trump was fulfilling his domestic agenda, I still wouldn't like the war in Iran, but it wouldn't be the existential crisis that it's become.
+[01:29:34.600 --> 01:29:42.640]  It would be unfortunate, but it wouldn't necessarily be a A deal breaker again in this fantasy world where we're getting everything we want in America.
+[01:29:43.060 --> 01:29:43.761]  Sure, why not?
+[01:29:44.301 --> 01:29:47.440]  You know, you give us what we want, you can have a little overseas adventure too.
+[01:29:47.701 --> 01:29:55.320]  The problem is the neocons don't work that way, which again is kind of strange because if they were smart, they would.
+[01:29:55.501 --> 01:29:56.860]  I mean, it's crazy that they're not.
+[01:29:57.740 --> 01:30:08.701]  Again, taking this from the perspective of somebody that is seeing things as they're presented, and it seems like the Republicans are both frustrated at the collapse in poll numbers and support.
+[01:30:09.560 --> 01:30:12.060]  And doubling down on all of the stuff that brought that about.
+[01:30:12.100 --> 01:30:13.780]  So that doesn't really make a lot of sense.
+[01:30:14.041 --> 01:30:26.780]  Of course, when you realize that the people around Trump are not Republican and were never Republican and never been Republican, then it makes a little bit more sense why they don't actually care that the Republican Party is being possibly permanently destroyed as a result of this.
+[01:30:28.440 --> 01:30:31.100]  So again, it's not even necessarily about Iran.
+[01:30:31.320 --> 01:30:34.360]  It's about Iran in the light of what's going on here in America.
+[01:30:35.001 --> 01:30:49.721]  As we still are suffering under the uncorrected, Problems of the Biden administration, which themselves were merely piled on top of all of the crap that we were supposed to solve under the first administration.
+[01:30:51.240 --> 01:30:55.860]  Our backlog of justice is out of sight.
+[01:30:55.961 --> 01:30:58.421]  It's beyond human comprehension.
+[01:30:59.801 --> 01:31:07.041]  Russiagate, COVID 19, Russiagate, the investigation, the scam, the fake scandal, and the cover up of the fake scandal.
+[01:31:07.560 --> 01:31:20.520]  COVID 19, the creation of the bio. Lab generated virus and the fake vaccine that now German authorities admit have killed tens of thousands of people.
+[01:31:20.621 --> 01:31:26.581]  Pfizer has recently been forced to admit, I believe, I'm going off memory here, but see if the crew can find that story.
+[01:31:28.121 --> 01:31:34.441]  Tens of thousands dead from the COVID vaccines in an official court proceeding in Germany.
+[01:31:35.121 --> 01:31:36.361]  None of that has been dealt with.
+[01:31:37.361 --> 01:31:56.361]  And all of that existed before Joe Biden and Alejandro Mayorcas opened up the border, before Merrick Garland started deliberately targeting right wingers for investigations, and in some cases, throwing those right wingers into prison for years on end, despite never committing violence, never even really breaking the law.
+[01:31:57.041 --> 01:32:00.801]  Yet they were charged with terrorism and pressured into accepting a plea deal anyway.
+[01:32:01.201 --> 01:32:13.781]  Or if they launched an investigation and nothing came of it, they simply released a fake report about it, which led everybody to think that the right wing was co opted.
+[01:32:13.821 --> 01:32:18.261]  That's what he did to Tim Pool and others with the tenant media thing.
+[01:32:18.661 --> 01:32:22.161]  The whole point of it was that they investigated it and found no wrongdoing by Tim Pool.
+[01:32:22.201 --> 01:32:27.041]  But then he releases something saying, We had very good reason to believe that Tim Pool is a Russian agent.
+[01:32:27.121 --> 01:32:31.101]  Now, to this day, you hear people saying, Oh, Tim Pool, the guy that took Russian money, that's a Russian agent.
+[01:32:32.561 --> 01:32:33.981]  That's criminal.
+[01:32:34.121 --> 01:32:34.681]  Do you understand?
+[01:32:34.801 --> 01:32:55.921]  Like, we gave these people massive privileges under the condition that they don't use them for their own personal gain or to benefit their own political party, but rather wield these powers with the obligation that they're wielded for the betterment of the country as a whole.
+[01:32:56.481 --> 01:33:02.881]  Merrick Garland just turned the DOJ into the Democrat persecution squad, the Gestapo.
+[01:33:04.601 --> 01:33:07.301]  He should be in prison, and everybody who helped him should be in prison.
+[01:33:08.101 --> 01:33:38.041]  But we're so far from any of that because we have decided to dedicate all of our resources and all of our time on benefiting Israel, which has the dual purpose of empowering the Democrats and destroying the Republicans, so that when the Democrats sweep back into power in 2026 and again in 2028, there will be nobody to stand against them as they pass clemency or give citizenship to everybody that arrived.
+[01:33:39.101 --> 01:33:40.361]  Open up the borders once again.
+[01:33:41.501 --> 01:33:46.261]  Could America survive another influx of another 50 to 100 million migrants?
+[01:33:46.301 --> 01:33:48.681]  I mean, we're basically gone now.
+[01:33:50.841 --> 01:33:57.081]  So again, it's not, this isn't just, this isn't like the Iraq war.
+[01:33:57.161 --> 01:33:58.680]  This isn't like the Afghanistan war.
+[01:33:59.261 --> 01:34:19.701]  What's happening now in this moment in which we absolutely needed all of our effort going to the, to like staunching the blood, the desperate emergency measures just to stabilize America so that hopefully in the future we could come back to the brink, from the brink of death.
+[01:34:21.020 --> 01:34:23.381]  We should have been focusing exclusively on that.
+[01:34:23.480 --> 01:34:29.381]  Instead, we have entirely dedicated all of this to Israel.
+[01:34:31.440 --> 01:34:32.701]  And they aren't even happy anyway.
+[01:34:32.980 --> 01:34:34.761]  They don't even, they aren't returning the favor.
+[01:34:34.820 --> 01:34:39.480]  So again, the neocons, if they were smart, they'd go, hey, we got to really do deportations.
+[01:34:39.520 --> 01:34:42.060]  We got to make sure we get that done just to retain the base.
+[01:34:42.900 --> 01:34:45.240]  And then we can do some of this other stuff that they're not happy with.
+[01:34:46.201 --> 01:34:49.860]  But they deliberately spit in our faces about what we want.
+[01:34:51.180 --> 01:34:56.201]  And celebrate and brag and rub in our faces the fact that they're doing all this other crap.
+[01:34:56.961 --> 01:35:00.940]  So, this is from Calvin Froedge on X.
+[01:35:02.140 --> 01:35:04.060]  The promise was record deportations.
+[01:35:04.560 --> 01:35:06.860]  What we got was record H 1Bs.
+[01:35:07.121 --> 01:35:08.661]  The promise was no new wars.
+[01:35:08.761 --> 01:35:10.701]  The reality is more war than ever.
+[01:35:10.881 --> 01:35:11.980]  It's all we care about now.
+[01:35:12.801 --> 01:35:14.301]  The promise was to make America great.
+[01:35:14.360 --> 01:35:16.180]  The reality is we're making Israel great.
+[01:35:16.661 --> 01:35:18.501]  The promise was a manufacturing revival.
+[01:35:18.560 --> 01:35:20.280]  The reality has been economic collapse.
+[01:35:20.701 --> 01:35:22.341]  The promise has been drain the swamp.
+[01:35:22.740 --> 01:35:23.900]  The reality has been.
+[01:35:24.381 --> 01:35:26.900]  He's turned the swamp into a protected wetlands.
+[01:35:28.381 --> 01:35:31.680]  He went in to defeat the swamp creatures.
+[01:35:31.740 --> 01:35:37.201]  He came out demanding that we watch the alligator show on Fox News to find out why we're nuking Iran.
+[01:35:40.301 --> 01:35:44.341]  And of course, immigration is still just as big of a problem as it ever was.
+[01:35:45.440 --> 01:35:52.001]  And the Republicans now are the ones who are helping the foreigners, the immigrants, the invaders.
+[01:35:52.661 --> 01:35:55.900]  The Republicans are the ones putting forward bills.
+[01:35:56.780 --> 01:36:06.480]  To quietly give them citizenship by the back door and to pay off lawyers' student loan debt in exchange for them representing illegal aliens.
+[01:36:07.140 --> 01:36:09.640]  The Republicans put that bill forward.
+[01:36:11.600 --> 01:36:15.201]  So this thing is like, I get why you don't like Trump, but you got to vote Republican.
+[01:36:15.341 --> 01:36:18.621]  It's like, I guess, but why?
+[01:36:19.081 --> 01:36:19.421]  But why?
+[01:36:19.640 --> 01:36:20.820]  They're the ones doing it.
+[01:36:23.320 --> 01:36:26.560]  They're the ones who have an amnesty bill that they put forward.
+[01:36:28.341 --> 01:36:29.301]  Right now, it's sitting there.
+[01:36:29.621 --> 01:36:31.360]  They're voting on it and they're pushing it forward.
+[01:36:31.581 --> 01:36:38.881]  And by the way, everybody who's sponsoring it, there's like 20 people sponsoring it, and like 17 of them were endorsed by Donald Trump.
+[01:36:40.961 --> 01:36:51.180]  So Donald Trump took all of his political leverage, all of his political capital, and used it to endorse people who are now writing a bill to give the invaders amnesty.
+[01:36:53.780 --> 01:37:08.801]  When he could have used all of that to usher in a revolutionary sea change in the Republican Party to where we followed his agenda rather than the neocons, but he has now surrendered completely to the neocons and handed America over to them.
+[01:37:10.400 --> 01:37:21.921]  And we're not seeing a lot of crazy protest and conflict with ICE because ICE backed down because they're not doing the raids, because they gave in, because they got a little bit of bad press.
+[01:37:22.541 --> 01:37:23.661]  And decided to pack it all in.
+[01:37:23.921 --> 01:37:31.121]  Now, for 40 days, they've experienced the worst press they've ever experienced with Iran, but it hasn't affected their drive towards war at all.
+[01:37:32.121 --> 01:37:33.060]  It doesn't matter in that case.
+[01:37:33.201 --> 01:37:42.541]  When it's for Israel, when it's war in Iran, 99.9% of people can be against it, and pretty much they are, and they do it anyway.
+[01:37:44.121 --> 01:37:57.721]  But when you want to actually save the country and expel the tens of millions of foreigners that were forced into our border by the Biden administration over the four years of his presidency, Then, ah, gee, one bad poll and they get cold feet.
+[01:37:57.801 --> 01:37:58.520]  It's all BS.
+[01:37:59.440 --> 01:37:59.961]  It's all BS.
+[01:38:00.221 --> 01:38:02.501]  If they cared about poll numbers, then we wouldn't be in war with Iran.
+[01:38:04.501 --> 01:38:05.221]  It's as simple as that.
+[01:38:05.560 --> 01:38:06.581]  So it's not about the poll numbers.
+[01:38:06.661 --> 01:38:10.020]  They didn't want to expel people, it was all a lie the whole time.
+[01:38:10.301 --> 01:38:18.161]  And now, Savannah Hernandez was attacked by radical leftists, not doing anything wrong.
+[01:38:19.501 --> 01:38:28.001]  And this is important, too, because we'll show you the video of Savannah Hernandez being viciously attacked while reporting on a nice.
+[01:38:29.280 --> 01:38:29.740]  Protests.
+[01:38:30.480 --> 01:38:39.900]  Now she was there alone and without security because she wasn't there to antagonize people or question people, which you do not ever have a right to attack people who are asking questions, obviously.
+[01:38:40.381 --> 01:38:44.221]  I don't want this to be taken as like a justification, but there is a difference.
+[01:38:44.740 --> 01:39:01.060]  There is a difference between somebody going with a microphone to interview people, expecting there to be conflict, expecting, you know, maybe, you know, tempers to run high and being prepared for that and sort of not wanting to get beaten up, obviously, but wanting some contention.
+[01:39:01.140 --> 01:39:03.081]  Like you go in there with that mindset.
+[01:39:03.560 --> 01:39:05.100]  And you're prepared for whatever happens.
+[01:39:06.761 --> 01:39:19.900]  What happened here is a member of the press was doing nothing other than capturing footage of a public event, and she was viciously attacked by a mob of people in a way that literally could have killed her.
+[01:39:20.860 --> 01:39:28.581]  I mean, luckily she's okay, but like when you see the brutality with which a 300 pound man attacks Savannah Hernandez.
+[01:39:31.941 --> 01:39:34.181]  I mean, you hit your head on the concrete and it's over, folks.
+[01:39:35.301 --> 01:39:38.801]  So thank God she's not in the hospital today.
+[01:39:41.061 --> 01:39:56.181]  But the people who did this, at least one of them, was the ringleader along with Don Lemon who invaded the church in Minneapolis to terrorize the random average Americans who were there.
+[01:39:58.161 --> 01:39:59.941]  They weren't racist Trump supporters.
+[01:40:00.001 --> 01:40:00.401]  They weren't.
+[01:40:00.701 --> 01:40:02.161]  Which you wouldn't have been able to do anyway.
+[01:40:02.201 --> 01:40:02.961]  It weren't ice.
+[01:40:03.001 --> 01:40:05.041]  It was random churchgoers.
+[01:40:06.721 --> 01:40:12.141]  What should have happened at that point is everyone who did that should have been, again, given the same treatment that the January 6ers were.
+[01:40:12.921 --> 01:40:23.741]  You are being charged with what you did, and it's being enhanced with a terrorism enhancement because you deserve it, because you are literally on camera saying the reason we did this was to terrify people.
+[01:40:23.821 --> 01:40:24.121]  It's like.
+[01:40:25.501 --> 01:40:29.021]  So, Harmeet Dillon and the DOJ let these people go.
+[01:40:31.061 --> 01:40:42.161]  And the one guy, the main guy, is on camera at multiple locations, in multiple instances, antagonizing National Guard members in D.C., threatening them, going into the church and attacking them.
+[01:40:42.501 --> 01:40:47.201]  And now he's there inciting the mob to go after Savannah Hernandez.
+[01:40:47.441 --> 01:40:50.341]  So Harmony Dillon responds to this on X and says, We're on it.
+[01:40:51.021 --> 01:40:51.881]  Something along those lines.
+[01:40:52.501 --> 01:40:53.161]  Don't worry about it.
+[01:40:53.201 --> 01:40:53.961]  We got it from here.
+[01:40:54.241 --> 01:40:54.841]  Something like that.
+[01:40:56.081 --> 01:40:58.061]  And it's like, You said that last time.
+[01:40:58.161 --> 01:40:59.221]  It's the same guy.
+[01:41:00.061 --> 01:41:01.401]  It's the same guy from the church.
+[01:41:01.561 --> 01:41:02.761]  You didn't punish him for that.
+[01:41:03.841 --> 01:41:05.061]  You're going to punish him for this, though?
+[01:41:05.681 --> 01:41:05.901]  Why?
+[01:41:06.061 --> 01:41:06.501]  Why would you?
+[01:41:06.701 --> 01:41:07.721]  You didn't punish him for the church.
+[01:41:10.681 --> 01:41:15.681]  There's a reason he thinks he can attack people and get away with it because he can, because he does, because he has.
+[01:41:18.061 --> 01:41:18.921]  So I really wonder.
+[01:41:19.121 --> 01:41:22.841]  I mean, again, we're in an impossible situation.
+[01:41:23.021 --> 01:41:31.981]  It's kind of ubiquitous, but it's like, I don't, the last thing I want is for our justice system to collapse.
+[01:41:34.761 --> 01:41:35.360]  Kind of already has.
+[01:41:35.480 --> 01:41:38.480]  I mean, at this point, basically doesn't exist.
+[01:41:38.561 --> 01:41:40.101]  But people still believe in it.
+[01:41:40.201 --> 01:41:41.081]  They still trust it.
+[01:41:42.301 --> 01:42:04.341]  They still will offload their vengeance, revenge, or justice on this massive, complicated system in the belief that the people working for the system will do the best they can to prosecute the people and that the jury sitting in the box deciding actually has the best interest of the average normal American, the innocent.
+[01:42:05.440 --> 01:42:09.601]  And the nation foremost in their mind, but that's not really the case either these days.
+[01:42:10.801 --> 01:42:37.761]  And it's not unlikely that these populations, especially in places like Minneapolis that have been radicalized, they're getting onto juries with the explicit purpose of letting leftists go and doing jury nullification, not out of a principled libertarian, you know, the government has no right to say what I can do with my personal life type of like jury nullification, but basically just it's okay he attacked the person because he believes in the same thing I do politically.
+[01:42:39.721 --> 01:42:41.701]  So, how long are we going to trust the justice system?
+[01:42:43.101 --> 01:42:49.141]  How long until we get to a point where if somebody hurts a loved one of mine, I'm not going to the cops?
+[01:42:50.301 --> 01:42:53.301]  Because that's the one way the dude gets out and I can't do anything to him.
+[01:42:53.461 --> 01:42:55.480]  I'm going to go get my own vengeance.
+[01:42:55.841 --> 01:42:58.780]  I'll be the judge, I'll be the jury, and I'll be the executioner.
+[01:42:59.860 --> 01:43:00.221]  How long?
+[01:43:01.261 --> 01:43:04.820]  Because once that ball starts rolling, there's no stopping it.
+[01:43:07.501 --> 01:43:08.421]  Let's go to some of these videos.
+[01:43:09.081 --> 01:43:09.440]  I've got.
+[01:43:10.621 --> 01:43:11.601]  A couple on my list here.
+[01:43:11.661 --> 01:43:14.980]  Let's go to clip 65.
+[01:43:15.081 --> 01:43:15.681]  Fair warning.
+[01:43:16.400 --> 01:43:17.280]  It's pretty brutal.
+[01:43:17.320 --> 01:43:18.341]  Let's go to 60.
+[01:43:18.701 --> 01:43:22.661]  Actually, let's go to 73 first.
+[01:43:22.681 --> 01:43:22.721]  73.
+[01:43:23.121 --> 01:43:25.141]  This was like the full stream, the first thing they got posted.
+[01:43:25.201 --> 01:43:26.181]  People are live streaming it.
+[01:43:26.341 --> 01:43:34.440]  Here's the attack in its full context against Savannah Hernandez, who was reporting for TPUSA and was viciously attacked by a bunch of hobgoblins.
+[01:43:34.480 --> 01:43:34.980]  Let's watch.
+[01:43:37.400 --> 01:43:39.661]  So here you see the sort of split screen.
+[01:43:40.081 --> 01:43:44.621]  Savannah there on the right, clearly ignoring the woman behind her, trying to film.
+[01:43:44.701 --> 01:43:45.501]  The woman is touching her.
+[01:43:45.541 --> 01:43:47.400]  The woman's putting a dildo in her face.
+[01:43:47.601 --> 01:43:52.801]  That's sexual assault, which would be an additional charge if anything legal were to happen.
+[01:43:53.201 --> 01:44:04.900]  So again, Savannah filming herself, looking away from the protesters against defense, putting her hand up to try to block this woman who is blowing a whistle in her ear, by the way, which is assault.
+[01:44:04.940 --> 01:44:07.001]  Like it can deafen you, and it was incredibly loud.
+[01:44:07.780 --> 01:44:09.301]  So Savannah's just pushing her.
+[01:44:09.900 --> 01:44:11.921]  Whistle away because she's trying to like deafen her.
+[01:44:13.181 --> 01:44:14.081]  Gee, this is what these people do.
+[01:44:14.440 --> 01:44:18.341]  They are all petulant children, which does not give them an excuse to be violent.
+[01:44:19.440 --> 01:44:25.280]  You have to, it's this ridiculous, like she's blowing a whistle as loud as she can in a woman's ear.
+[01:44:27.301 --> 01:44:29.701]  And if you try to push the whistle away, she's going to hit you in the face.
+[01:44:30.360 --> 01:44:33.461]  All of these people, like she should be arrested before it ever gets the violent part.
+[01:44:33.501 --> 01:44:36.221]  There's a person throwing the dildo in the face.
+[01:44:36.261 --> 01:44:38.440]  This woman attacks Savannah, shoves her.
+[01:44:39.061 --> 01:44:43.360]  Savannah bounces back up, again tries to walk away, still hasn't done anything.
+[01:44:44.900 --> 01:44:46.980]  Now she's getting, you know, approached, shoved.
+[01:44:47.641 --> 01:44:48.400]  She shoves the woman back.
+[01:44:48.561 --> 01:44:51.240]  Thank goodness there were a couple guys there that stood up for Savannah.
+[01:44:51.661 --> 01:44:53.740]  You see a lot of the guys just sort of standing around, letting it happen.
+[01:44:53.820 --> 01:44:56.061]  There's the big shove, and we'll show you another angle of that.
+[01:44:57.121 --> 01:44:59.261]  But apparently, all these people attacking her are related.
+[01:44:59.961 --> 01:45:04.400]  There's like two sisters and the dad, and the dad is the one that shoved her.
+[01:45:04.461 --> 01:45:05.601]  There she's knocked to the ground.
+[01:45:06.701 --> 01:45:08.141]  Again, thankfully, there's a few.
+[01:45:08.521 --> 01:45:16.280]  And like, I wonder, you know, for the people that are on the side of the protesters that are now finding themselves protecting Savannah Hernandez, you ever stop to think that maybe you're on the wrong side?
+[01:45:17.320 --> 01:45:21.440]  Maybe the psychotic idiots waving the dildos aren't actually the good guys.
+[01:45:22.480 --> 01:45:24.341]  Do you think that ever went through their minds?
+[01:45:24.681 --> 01:45:25.780]  Because God bless them.
+[01:45:25.881 --> 01:45:30.860]  I mean, they actually did turn around, put their back to Savannah, and held off the insane people.
+[01:45:31.021 --> 01:45:33.940]  But, like, why are you on their side?
+[01:45:35.301 --> 01:45:36.900]  Why are you there protesting with them?
+[01:45:37.440 --> 01:45:38.900]  They're again shoving the dildo in the face.
+[01:45:39.141 --> 01:45:41.860]  It's just these people.
+[01:45:41.961 --> 01:45:43.360]  We should not have to deal with these people.
+[01:45:44.360 --> 01:45:45.940]  Let's go to clip 66 here.
+[01:45:45.980 --> 01:45:46.761]  This is the shove.
+[01:45:46.841 --> 01:45:47.780]  This is the real brute.
+[01:45:48.001 --> 01:45:49.661]  It didn't look as bad from the angle I just showed you.
+[01:45:49.761 --> 01:45:50.280]  Here's the real.
+[01:45:50.641 --> 01:45:51.341]  Angle where you can see it.
+[01:45:51.381 --> 01:46:03.240]  She's not looking, she's pointing, and then just a full fledged body slam from this fat goblin, this bald retard goblin shoving Savannah Hernandez.
+[01:46:04.280 --> 01:46:25.480]  Now, again, if Trump wanted to win back America, if the Republicans wanted to win 2026, if anybody in our government wanted America to continue existing for any length of time, not only would these people already be charged, already be in custody, This would be an attempted murder charge.
+[01:46:26.341 --> 01:46:29.501]  And it would have a terrorism enhancement for attacking members of the press.
+[01:46:31.181 --> 01:46:35.001]  And it would have a hate crime because the racial dynamics at play.
+[01:46:35.581 --> 01:46:40.261]  And because they actually insulted Savannah's race as they were attacking her.
+[01:46:42.400 --> 01:46:47.400]  Now, going by past actions, likely what will happen is literally nothing.
+[01:46:47.820 --> 01:46:48.440]  Literally nothing.
+[01:46:49.400 --> 01:46:50.461]  Maybe they'll be arrested.
+[01:46:50.780 --> 01:46:51.820]  Maybe they'll be fined.
+[01:46:52.240 --> 01:46:55.641]  Almost certainly they will be back on the street doing exactly what they were doing before.
+[01:46:57.461 --> 01:46:58.480]  within 24 hours.
+[01:47:02.261 --> 01:47:11.181]  And maybe, just maybe, because they have to, because it's on camera, maybe they'll get a disturbing peace, disturbing of the peace charge or something like that.
+[01:47:11.440 --> 01:47:12.261]  Because this is what happens.
+[01:47:12.921 --> 01:47:13.501]  This is what happens.
+[01:47:14.161 --> 01:47:20.001]  If you wander through the Capitol high fiving a police on the way in, they call it terrorism, insurrection.
+[01:47:20.061 --> 01:47:21.161]  You tried to overthrow the government.
+[01:47:22.601 --> 01:47:23.601]  Insane, but that's just how it is.
+[01:47:24.280 --> 01:47:36.081]  Meanwhile, if they viciously attack an innocent woman who's there doing her job, As a public service to actually do the thing that the protest is there to do, get attention to the thing.
+[01:47:37.841 --> 01:47:38.641]  They won't be charged with that.
+[01:47:39.360 --> 01:47:40.261]  They should be and they could be.
+[01:47:40.301 --> 01:47:44.121]  But it's never applied that way.
+[01:47:44.181 --> 01:47:51.381]  And now the far left anti ICE extremists who attacked Savannah Hernandez are, of course, now playing the victim after the brutal assault.
+[01:47:52.541 --> 01:48:02.561]  As the Gateway Punnett previously reported, Saturday turned into a nightmare for conservative journalist Savannah Hernandez when a deranged mob of anti ICE protesters physically assaulted her outside Whipple ICE facility in Minneapolis.
+[01:48:03.061 --> 01:48:07.121]  Hernandez was simply standing on a public street filming the protesters' unhinged meltdown.
+[01:48:08.061 --> 01:48:13.161]  Quote, I was just brutally assaulted by multiple people outside of Whipple Ice facility in Minneapolis.
+[01:48:13.261 --> 01:48:15.661]  Multiple people swung on me, and a grown man pushed me to the ground.
+[01:48:15.740 --> 01:48:16.621]  My glasses are broken.
+[01:48:16.721 --> 01:48:17.940]  Antifa is still alive and well.
+[01:48:18.061 --> 01:48:20.181]  I'm talking with police about pressing charges.
+[01:48:21.841 --> 01:48:31.881]  So, again, I just want to say for the sake of our country continuing, these people have to be.
+[01:48:33.641 --> 01:48:34.780]  They have to have the book thrown at them.
+[01:48:34.841 --> 01:48:36.421]  They have to be made an example of.
+[01:48:37.780 --> 01:48:40.961]  And I would love if the Department of Justice would be the ones doing that.
+[01:48:43.360 --> 01:48:44.721]  It's not necessary.
+[01:48:44.921 --> 01:48:45.601]  It's not necessary.
+[01:48:46.740 --> 01:48:47.421]  It's preferable.
+[01:48:48.320 --> 01:48:49.061]  It's not the only option.
+[01:48:50.400 --> 01:49:00.181]  It's just we are desperate to have the legal options made available to us, actual American citizens who actually don't do anything wrong.
+[01:49:00.721 --> 01:49:02.621]  Now, interestingly, from.
+[01:49:03.940 --> 01:49:11.121]  At IndyGRL, IndyGRL on X, statement from the daughter and sister of the family that attacked Savannah Hernandez yesterday.
+[01:49:11.181 --> 01:49:13.841]  So this is the big fat bald goblin.
+[01:49:15.041 --> 01:49:16.101]  This is his daughter, apparently.
+[01:49:16.740 --> 01:49:17.501]  Two daughters were there.
+[01:49:17.561 --> 01:49:19.240]  They were the ones attacking Savannah Hernandez.
+[01:49:19.601 --> 01:49:24.661]  A third daughter wrote this I need to be very clear about where I stand.
+[01:49:24.701 --> 01:49:29.360]  This is Desiree Ostrushko.
+[01:49:29.521 --> 01:49:33.780]  I do not align with my family's actions in this situation at all.
+[01:49:34.141 --> 01:49:35.121]  I don't agree with what was done.
+[01:49:35.320 --> 01:49:37.621]  I don't support it, and I don't stand behind it in any way.
+[01:49:38.021 --> 01:49:42.081]  Violence is never acceptable to me, no matter the circumstances, opinions, or political beliefs involved.
+[01:49:42.400 --> 01:49:44.360]  What happened to Savannah was wrong, plain and simple.
+[01:49:44.521 --> 01:49:48.501]  Everyone has a right to speak, to express themselves, and to be heard without fear of being attacked.
+[01:49:48.601 --> 01:49:49.860]  That's something I'll always stand on.
+[01:49:50.301 --> 01:49:51.161]  I also want to be honest.
+[01:49:51.301 --> 01:49:55.881]  If politics is going to turn into violence, hatred, or harming of other people, I will remove myself completely.
+[01:49:56.041 --> 01:49:59.561]  I will not be a part of it, even if it means creating distance from my own family.
+[01:49:59.940 --> 01:50:01.841]  My values matter, and I refuse to compromise them.
+[01:50:02.221 --> 01:50:03.801]  This isn't easy to say, but it's important.
+[01:50:03.841 --> 01:50:06.121]  I believe in respect, accountability, and doing what's right.
+[01:50:06.521 --> 01:50:08.900]  Even when it's uncomfortable or painful, I stand for peace.
+[01:50:08.940 --> 01:50:12.661]  I stand for people being able to use their voice safely, and I will always stand on that.
+[01:50:13.181 --> 01:50:21.661]  Now, going by her family and sort of some of the hints in this thing, I'm pretty confident in saying someone's probably a liberal.
+[01:50:21.780 --> 01:50:28.320]  Now, to be totally fair, I have no idea what her belief system or fundamental value system really is.
+[01:50:28.421 --> 01:50:33.081]  I can tell you that anybody expressing this sentiment is on our team.
+[01:50:34.881 --> 01:50:35.741]  Is one of the good guys.
+[01:50:35.881 --> 01:50:36.961]  And this is the division.
+[01:50:37.541 --> 01:50:39.261]  There's a lot of false dichotomies out there.
+[01:50:39.881 --> 01:50:41.921]  Left and right is a false dichotomy.
+[01:50:42.341 --> 01:50:44.301]  Small government, big government, false dichotomy.
+[01:50:44.761 --> 01:50:46.261]  Jew, Muslim, false dichotomy.
+[01:50:46.901 --> 01:50:49.681]  The real dichotomy is human beings versus monsters.
+[01:50:50.621 --> 01:50:51.461]  It's good versus evil.
+[01:50:52.281 --> 01:50:59.241]  It's people who can recognize the insanity that you just witnessed there and the people who get off on what you just witnessed.
+[01:50:59.761 --> 01:51:00.721]  That's the real division.
+[01:51:02.281 --> 01:51:03.801]  And that might be the way we saved the country.
+[01:51:04.901 --> 01:51:16.641]  And maybe this, you know, Trump attack on Alex Jones and the cratering and collapsing of the Republican Party, maybe this is the impetus that we need to really look around and ask ourselves, what do we believe?
+[01:51:17.401 --> 01:51:18.801]  What does our group represent?
+[01:51:19.821 --> 01:51:25.021]  Because right now there's this crazy, like, you got people like Shabos Kestenbaum, right?
+[01:51:25.861 --> 01:51:29.461]  Actual liberal, lifelong progressive, still to this day.
+[01:51:29.741 --> 01:51:31.721]  He's giving speeches at the Republican National Convention.
+[01:51:31.801 --> 01:51:32.021]  Why?
+[01:51:32.321 --> 01:51:38.561]  Because they're trying to create the dichotomy that says, Supporting Israel is literally the only conservative value.
+[01:51:39.521 --> 01:51:40.181]  Nothing else matters.
+[01:51:40.901 --> 01:51:48.181]  You can support transgender children and men on women's sports teams and a welfare state.
+[01:51:48.541 --> 01:51:51.781]  And you can believe every, just go down the checklist of every leftist belief.
+[01:51:51.941 --> 01:51:54.161]  But if you're pro Israel, then you're a Republican.
+[01:51:54.241 --> 01:51:55.701]  And if you're anti Israel, you're a Democrat.
+[01:51:56.081 --> 01:52:01.381]  And you can be like me, down the line, straight ballot conservative.
+[01:52:01.901 --> 01:52:03.901]  Everything I believe is right wing and conservative.
+[01:52:04.861 --> 01:52:06.001]  And I don't support Israel.
+[01:52:06.261 --> 01:52:07.581]  And people tell me that makes me a leftist.
+[01:52:07.901 --> 01:52:09.361]  Do you understand how absurd that is?
+[01:52:09.401 --> 01:52:11.481]  Do you understand how stupid that is?
+[01:52:12.641 --> 01:52:13.781]  That is a false dichotomy.
+[01:52:14.261 --> 01:52:15.881]  Just like right and left is a false dichotomy.
+[01:52:16.201 --> 01:52:27.681]  The real dichotomy between psychopath, psychotic, hateful morons like Benjamin Netanyahu and the goblins pushing Savannah Hernandez, they have the same mindset.
+[01:52:27.801 --> 01:52:28.741]  They're on the same side.
+[01:52:28.781 --> 01:52:37.001]  Whatever that side is, it's the dehumanizing, the violent, the vicious and hateful moronic side versus the real human beings.
+[01:52:37.941 --> 01:52:43.741]  Who have empathy for one another, who love one another, who understand the value of free speech, who actually want the best for the world.
+[01:52:44.161 --> 01:52:47.881]  Time for everybody to decide what side they're on.
+[01:52:49.320 --> 01:52:56.501]  Because you might have to break with your family because things are getting crazy, folks, and it's good versus evil, and we're on the side of good.
+[01:52:56.640 --> 01:52:57.260]  Thank you for joining us.
+[01:52:57.740 --> 01:53:00.001]  Everything I sell to you works.
+[01:53:00.820 --> 01:53:05.280]  Obviously, that's the goal so that you get it and you like it and you want to get it again.
+[01:53:05.680 --> 01:53:09.940]  Everything I sell to you, we put deep research into and I personally use.
+[01:53:10.020 --> 01:53:13.961]  Now, I've been promoting zeolites for decades with great sponsors because they really work.
+[01:53:14.001 --> 01:53:14.800]  I want to tell you what they are.
+[01:53:15.001 --> 01:53:20.041]  Well, Bigly, our sponsor, has a really high quality private label, top selling brand that we were able to private label.
+[01:53:20.220 --> 01:53:20.780]  We're bringing to you.
+[01:53:21.340 --> 01:53:21.740]  Right now.
+[01:53:22.041 --> 01:53:29.980]  With the unprecedented toxins in the environment, with the chemtrailing, all the garbage in the food, it is more important than ever to take zeolites on a regular basis.
+[01:53:30.060 --> 01:53:32.180]  But not all zeolites are created equal.
+[01:53:32.480 --> 01:53:35.001]  This is really a high quality zeolite.
+[01:53:35.220 --> 01:53:41.140]  Please do your own research and then go to theolifestonestore.com and secure our high quality zeolite formula.
+[01:53:41.400 --> 01:53:43.201]  Now let's go over just some of the incredible facts.
+[01:53:43.520 --> 01:53:47.600]  We're swimming in toxins every single day metals from the air, chemicals in the food and water.
+[01:53:47.921 --> 01:53:52.520]  Your body needs help binding, eliminating this garbage before it builds up and destroys your cells.
+[01:53:52.820 --> 01:53:53.621]  Enter zeolite.
+[01:53:53.701 --> 01:53:56.081]  Detox defense, advanced binding agent.
+[01:53:56.320 --> 01:53:57.320]  This isn't some gimmick.
+[01:53:57.661 --> 01:54:04.340]  Zeolite is a naturally occurring volcanic mineral with a unique cage like crystalline structure that acts like a molecular trap.
+[01:54:04.740 --> 01:54:14.400]  Through ion exchange and absorption, it selectively grabs positively charged toxins, heavy metals, ammonia, and other unwanted compounds while letting beneficial minerals stay put.
+[01:54:14.880 --> 01:54:17.961]  Then it escorts them straight out of your system through your gut.
+[01:54:18.180 --> 01:54:24.001]  Paired with folic acid, it also supports healthy mineral transport and cleaner internal environment.
+[01:54:24.440 --> 01:54:27.740]  Users report feeling lighter, more balanced, and clear headed.
+[01:54:27.980 --> 01:54:29.201]  With consistent daily use.
+[01:54:29.541 --> 01:54:33.860]  Just one dose a day gives you 60 full servings of detox support.
+[01:54:34.340 --> 01:54:36.421]  Ladies and gentlemen, I don't steer you wrong.
+[01:54:36.680 --> 01:54:37.240]  You know that.
+[01:54:37.480 --> 01:54:47.600]  If you love our Methylene Blue, if you love our Bola Vine Colostrum, if you love the other incredible products like our T3 Ionine, you are going to love this Zeolite detox formula.
+[01:54:47.940 --> 01:54:50.961]  Secure yours now at the Alex Jones Store.com.
+[01:54:51.320 --> 01:55:00.661]  And if you haven't checked out the other supplements like our Methylene Red, that's proprietary to us, our Ultramethylene Blue, that is on record the strongest and the best, then check it out today.
+[01:55:01.001 --> 01:55:09.501]  And while you're there, check out the widest selection of Patriot apparel, baseball caps, t shirts, hoodies, you name it, to spread the word of freedom in America and worldwide.
+[01:55:10.001 --> 01:55:12.461]  Bottom line, thanks for keeping us on the air over the years.
+[01:55:12.800 --> 01:55:15.001]  We're facing some of the biggest challenges ever to stay on the air.
+[01:55:15.300 --> 01:55:19.161]  But thanks to you standing with us as our partners, the InfoWar, we are stronger than ever.
+[01:55:19.541 --> 01:55:20.661]  So thank you so much for your support.
+[01:55:21.041 --> 01:55:23.541]  Now please visit theallochonesstore.com today.
+[01:55:24.060 --> 01:55:29.900]  And if you want to get massive discounts to all the supplements, sign up as a subscriber, lock in your oars in the future.
+[01:55:30.121 --> 01:55:31.180]  You can cancel any time.
+[01:55:31.440 --> 01:55:32.820]  So all you're really locking in is.
+[01:55:32.900 --> 01:55:33.820]  Is the massive discounts.
+[01:55:34.140 --> 01:55:41.201]  Same thing with VIPs, cancel any time, $30 a month, get $40 to spend in the store, special deals, special offers, special sales on everything.
+[01:55:41.440 --> 01:55:44.740]  So if you're buying anything, the Alex Homestore.com, you should be a VIP.
+[01:55:45.180 --> 01:55:46.100]  Thank you so much for your support.
+[01:55:46.320 --> 01:55:49.480]  Now secure your Zeolite formula now at the Alex Homestore.com.
+[01:55:58.120 --> 01:55:59.680]  Big health guy, you're way better shape than I am.
+[01:55:59.720 --> 01:56:00.400]  Don't kick my ass.
+[01:56:00.980 --> 01:56:02.300]  I've seen you working out with the liver king.
+[01:56:02.440 --> 01:56:04.460]  You say you've taken methylene before.
+[01:56:05.039 --> 01:56:07.400]  I want you to take our medical grade.
+[01:56:07.700 --> 01:56:09.860]  The next 30 minutes kick in, so good for your body.
+[01:56:10.340 --> 01:56:11.500]  I'd like you to drink this, Jay.
+[01:56:11.700 --> 01:56:12.340]  You said earlier it would.
+[01:56:12.380 --> 01:56:13.260]  I appreciate it.
+[01:56:13.300 --> 01:56:14.500]  I want to get your true review.
+[01:56:14.539 --> 01:56:15.520]  If it doesn't work, tell me.
+[01:56:15.940 --> 01:56:16.660]  Here it is, brother.
+[01:56:17.720 --> 01:56:21.260]  He's yours, looks just like the stuff from Doom, the water of life.
+[01:56:21.560 --> 01:56:26.680]  He's drinking the juice of a strangled, drowned sandworm right now.
+[01:56:27.160 --> 01:56:28.860]  Baron Harkonnen is not happy.
+[01:56:29.579 --> 01:56:30.640]  We're gonna see what happens.
+[01:56:30.660 --> 01:56:32.579]  20 minutes later.
+[01:56:32.720 --> 01:56:35.740]  I feel like my brain is clearer and working faster.
+[01:56:35.800 --> 01:56:40.180]  It feels like my brain and my energy have had the accelerator hit on them.
+[01:56:40.539 --> 01:56:42.640]  I felt it in my brain and my energy.
+[01:56:43.020 --> 01:56:43.560]  Well, I like it.
+[01:56:43.680 --> 01:56:45.840]  I'm going to get me some before I leave.
+[01:56:45.880 --> 01:56:47.160]  We're going to give you a couple bottles of it, bro.
+[01:56:47.440 --> 01:56:47.960]  We love it.
+[01:56:48.360 --> 01:56:48.880]  It's amazing.
+[01:56:48.940 --> 01:56:51.280]  Get yours now at theologyofstore.com.

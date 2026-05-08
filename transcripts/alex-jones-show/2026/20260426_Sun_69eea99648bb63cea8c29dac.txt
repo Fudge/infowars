@@ -1,0 +1,2180 @@
+# Transcription model: CohereLabs/cohere-transcribe-03-2026, WAV2VEC2_ASR_BASE_960H, sat-12l-sm, script v26.04.01, and large-v3-turbo
+# Transcript cleaned with version 0.1.2
+# Source MD5: f219a58989f5593cbf005baacbd881e4
+[00:00:01.120 --> 00:00:06.889]  While other networks lie to you about what's happening now, InfoWars tells you the truth about what's happening next.
+[00:00:08.192 --> 00:00:12.692]  Visit InfoWars.com forward slash show and support the InfoWars.
+[00:00:12.871 --> 00:00:56.451]  On a regular
+[00:00:56.451 --> 00:01:03.012]  basis knows that I report the facts with the information I have and give you my very best analysis.
+[00:01:04.561 --> 00:01:07.900]  Now, when I learned Friday night, I went to bed early.
+[00:01:07.941 --> 00:01:09.721]  I didn't learn until I woke up about 2 30 in the morning.
+[00:01:10.721 --> 00:01:14.182]  When I woke up at 2 30 in the morning, and my phone was just flooded with, you know, what happened?
+[00:01:14.242 --> 00:01:14.861]  Is it staged?
+[00:01:14.921 --> 00:01:15.421]  Is it real?
+[00:01:17.341 --> 00:01:20.762]  I then spent three hours researching until about 6 a.m. when I began to comment.
+[00:01:21.942 --> 00:01:23.781]  And yes, I believe this was a real shooting.
+[00:01:23.841 --> 00:01:25.043]  I believe this was not staged.
+[00:01:26.162 --> 00:01:30.402]  It's also a deranged leftist school teacher who bragged about.
+[00:01:30.942 --> 00:01:33.362]  How much he hated Trump and all the rest of it, and gave it to Kamala Harris.
+[00:01:34.703 --> 00:01:43.084]  Now, as soon as I came out at 6 a.m. and put out a statement, I got it's not about me, but it's just a bellwether where the public is on X and other places I looked.
+[00:01:44.264 --> 00:01:51.224]  A large portion of people attacking me, saying that I'm saying it was staged when I said the opposite, just because they're so mad that I've criticized Trump.
+[00:01:51.245 --> 00:01:55.545]  They've just decided that I never agree with him or never say he's telling the truth.
+[00:01:55.924 --> 00:01:58.245]  So that's just their bizarre, mentally ill position.
+[00:01:58.645 --> 00:02:00.085]  These are neocon, never Trumpers.
+[00:02:00.105 --> 00:02:01.146]  They're just completely insane.
+[00:02:01.585 --> 00:02:03.325]  I think they know that I said it happened.
+[00:02:03.766 --> 00:02:08.665]  They just think that'll hurt me with viewers and listeners to say that I said that it was real.
+[00:02:09.805 --> 00:02:11.367]  But I've never seen such levels of lying.
+[00:02:12.227 --> 00:02:14.807]  But that was a large portion 30 40% of people.
+[00:02:14.846 --> 00:02:35.829]  Another 30 40%, because I love reading comments, and the video got millions of views, were people saying that I work for Israel or Trump or something because I said it looked like it was real and that absolutely it staged and that Erica Kirk did it and major talk show hosts and influencers came out.
+[00:02:36.329 --> 00:02:38.588]  And just said, it's clear she did it because she was crying.
+[00:02:38.908 --> 00:02:41.248]  I mean, just crazy town.
+[00:02:42.368 --> 00:02:57.010]  So I am very critical of Trump when he does something like not listen to the Pentagon and the intelligence agencies and my own research and goes directly into a disastrous trap in Iran that Blackwater is so happy he did.
+[00:02:57.430 --> 00:02:58.990]  And 58 days later, I've been proven right.
+[00:03:01.070 --> 00:03:05.450]  And when he does stuff like block Kennedy trying to ban glyphosate, I'm like, whoa, dude, you're going the wrong direction.
+[00:03:07.390 --> 00:03:15.831]  But the idea that you either totally agree with Trump or you're a Democrat or you totally disagree with Trump or you're an Israeli spy is just retarded.
+[00:03:16.912 --> 00:03:22.272]  And that's gone from the fringes on X and Facebook and everywhere in TikTok.
+[00:03:22.793 --> 00:03:23.853]  I'm saying those are French sites.
+[00:03:23.893 --> 00:03:28.832]  I'm saying, you know, just some French people on there because X is the biggest thing in the world.
+[00:03:29.052 --> 00:03:29.532]  It is the media.
+[00:03:29.552 --> 00:03:37.913]  But I'm saying fringes of X to really a dominant thought form now where you just look at something instantly when it happens.
+[00:03:38.554 --> 00:03:41.433]  You decide who you want to blame politically, and then you stick with that.
+[00:03:41.993 --> 00:03:43.435]  That is not how I operate.
+[00:03:43.455 --> 00:03:44.914]  That is not how I've ever operated.
+[00:03:44.995 --> 00:03:45.854]  And it's not about me.
+[00:03:46.495 --> 00:03:52.754]  It is the experience of watching the true degeneration of not just the left.
+[00:03:52.775 --> 00:03:57.575]  The left has been out of their mind for decades, totally cuckoo town, delusional.
+[00:03:58.156 --> 00:04:01.116]  But I'm seeing 20, 30% of what you would call conservatives.
+[00:04:02.276 --> 00:04:05.795]  And I didn't mean to pull up Ryan Matta, they just did that randomly.
+[00:04:05.877 --> 00:04:09.576]  But I mean, I think he's one of the more thought out examples.
+[00:04:09.917 --> 00:04:12.437]  I mean, there are people out there with zero evidence saying stuff.
+[00:04:12.736 --> 00:04:14.497]  I probably agree with 85% of what Ryan Mannis says.
+[00:04:14.516 --> 00:04:16.057]  Actually, I actually like the guy, even though he attacks me.
+[00:04:16.596 --> 00:04:17.437]  Most of the time, I agree with him.
+[00:04:18.038 --> 00:04:20.497]  But I saw his stuff and I woke up at 3 in the morning, 2 30.
+[00:04:20.518 --> 00:04:22.978]  He was like, How do you get past security?
+[00:04:24.057 --> 00:04:27.957]  He ran through the security, through the metal detectors, and they shot him before he ever got to the ballroom.
+[00:04:28.918 --> 00:04:30.218]  Somebody's like, He got through security.
+[00:04:30.239 --> 00:04:30.959]  They let him through.
+[00:04:31.038 --> 00:04:31.959]  Oh, my God.
+[00:04:31.979 --> 00:04:32.558]  No, they didn't.
+[00:04:34.178 --> 00:04:35.718]  He bum rushed the first line of security.
+[00:04:35.798 --> 00:04:38.438]  Anyways, it's just, it's unbelievable.
+[00:04:38.598 --> 00:04:39.838]  But what does it say about the country?
+[00:04:40.620 --> 00:04:41.600]  I mean, overall, it's positive.
+[00:04:41.639 --> 00:04:43.180]  Other people don't believe jack crap the media says.
+[00:04:43.240 --> 00:04:45.840]  Thank you.
+[00:04:52.180 --> 00:04:54.760]  It is Sunday, April 26, 2026.
+[00:04:55.000 --> 00:04:58.761]  I'm your host, Alex Jones, and it trended number one on X and everywhere else.
+[00:04:58.781 --> 00:05:00.361]  It was all over corporate media.
+[00:05:01.241 --> 00:05:12.402]  The majority of people, I think it's fair to say, do not believe that a lone leftist 30 year old Democrat school teacher, Cole Allen, went and tried to kill Trump.
+[00:05:13.762 --> 00:05:18.102]  I looked at this intensely this morning for hour after hour after hour.
+[00:05:18.342 --> 00:05:19.942]  Everybody, when I woke up, was like, mad.
+[00:05:19.962 --> 00:05:20.682]  Why would you comment?
+[00:05:20.722 --> 00:05:22.143]  I went to bed early last night.
+[00:05:22.403 --> 00:05:24.443]  I went to bed about nine o'clock, had a long, hard week.
+[00:05:25.423 --> 00:05:30.483]  And, but I woke up about 2 45, went and turned my phone on.
+[00:05:30.743 --> 00:05:35.124]  Hundreds of messages from talk show hosts, well known people, some of the biggest podcasters in the world.
+[00:05:35.144 --> 00:05:36.744]  You can guess, you know, Alex, what do you think of this?
+[00:05:36.764 --> 00:05:38.104]  Can you come on right now in the middle of the night?
+[00:05:38.124 --> 00:05:39.224]  And I've been asleep.
+[00:05:39.244 --> 00:05:41.764]  So I was like, so I said, well, I'm not going back to sleep.
+[00:05:42.204 --> 00:05:54.605]  Got some coffee, got on my computer, and spent three pure hours of research in the dark of night until I shot a video saying, I believe that the shooting is real.
+[00:05:55.945 --> 00:06:04.566]  And I can spend an hour explaining why I already did a 45 minute live stream and did another five minute report, boiled down and doing it on Sean Johnson's show for two hours this morning.
+[00:06:04.586 --> 00:06:07.446]  That's out there on YouTube if you want to get every little description.
+[00:06:07.485 --> 00:06:09.105]  I have all the videos, I have all the facts.
+[00:06:10.027 --> 00:06:13.427]  And here's the deal because this is how the public thinks now.
+[00:06:13.467 --> 00:06:15.267]  It's kind of always been black and white, but it's gotten bad.
+[00:06:16.367 --> 00:06:25.608]  If I criticize Trump on a bunch of stuff, try to get him back on track or at least put public pressure on it, that doesn't mean that I think everything going on with Trump is a lie.
+[00:06:27.368 --> 00:06:34.249]  It is the Democrats, as I told you decades ago, because this already came out many times, that run the Southern Poverty Law Center and the ADL.
+[00:06:34.649 --> 00:06:43.069]  And the Southern Poverty Law Center and the ADL run most of the white supremacist groups in North America and their counterparts in Europe.
+[00:06:43.349 --> 00:06:56.550]  And back when the corporate press was more truthful, the London Guardian or Spiegel used to have articles all the time where German intelligence got caught staging hundreds of bombings against Muslims so they could blame right wing groups and outlaw nationalist groups.
+[00:06:57.509 --> 00:06:59.831]  I used to see those articles all the time, starting about 15 years ago.
+[00:06:59.891 --> 00:07:01.271]  You don't see them anymore, but it's worse than ever.
+[00:07:02.110 --> 00:07:03.291]  And the ADL's been caught.
+[00:07:04.071 --> 00:07:05.291]  The Southern Poverty Law Center's been caught.
+[00:07:06.411 --> 00:07:18.711]  So just remember, folks, while they're up on their high horse criticizing Trump when he does some things that are, you know, a little unhinged, that's because we're not in a cult as populist, conservative, nationalist.
+[00:07:19.292 --> 00:07:23.233]  We want to keep our movement on the straight and narrow.
+[00:07:23.932 --> 00:07:37.754]  But just remember with the Democrats, the organized evil, the staging events, the The astroturfing protesters and Antifa and violence and running the white supremacist groups and Black Lives Matter and all of it, it's all Jesse Smollett on steroids.
+[00:07:37.854 --> 00:07:40.374]  So just always remember that.
+[00:07:41.314 --> 00:07:42.274]  That is so important.
+[00:07:42.334 --> 00:07:45.434]  But here's my basic breakdown, and I'll get into all the clips and more.
+[00:07:47.935 --> 00:07:51.675]  You have a bunch of leftists that want to kill Trump, okay?
+[00:07:52.095 --> 00:07:57.475]  And you have the shooter down at Mar Lago who was connected to the CIA in Ukraine and being protected.
+[00:07:57.514 --> 00:07:58.796]  He's been convicted.
+[00:07:58.876 --> 00:07:59.336]  And you had.
+[00:08:01.696 --> 00:08:11.237]  The shooter up in Pennsylvania, who clearly there was another shooter, and you can even see the trajectory of a higher caliber bullet that hit people and hit their bags.
+[00:08:11.257 --> 00:08:13.777]  First, it's shirts and bags hanging up and then hits a person.
+[00:08:14.757 --> 00:08:15.637]  Another person died.
+[00:08:16.097 --> 00:08:17.817]  So people are trying to say Butler didn't happen.
+[00:08:17.836 --> 00:08:19.157]  You couldn't stage that.
+[00:08:20.456 --> 00:08:22.317]  Steven Spielberg couldn't.
+[00:08:24.158 --> 00:08:33.118]  If he cast Daniel Day Lewis, probably the best living actor, other than like Al Pacino or something, you could not.
+[00:08:33.899 --> 00:08:35.379]  Fake something that real.
+[00:08:36.418 --> 00:08:45.139]  You just, when you know that they even caught the bullet on tape, it killed somebody else behind him, other people got shot, and you hear the acoustics.
+[00:08:45.158 --> 00:08:47.940]  I've talked to top snipers, Delta Force, Navy SEALs, you name it.
+[00:08:49.240 --> 00:08:53.340]  About 50 degrees over from where Crooks is shooting off the top of the roof, 140 yards away.
+[00:08:53.620 --> 00:08:55.541]  Somebody else about 600 yards away from the report.
+[00:08:56.021 --> 00:09:03.241]  But the angle the bullet comes in and hits a bunch of stuff before it sells right by Trump into a person.
+[00:09:04.621 --> 00:09:05.962]  So you got Crooks shooting straight on.
+[00:09:05.982 --> 00:09:07.862]  You got somebody else right over here about 50 degrees off.
+[00:09:08.762 --> 00:09:10.962]  So that was a massive cover up.
+[00:09:10.982 --> 00:09:12.222]  We know there's been a cover up.
+[00:09:12.642 --> 00:09:15.042]  So I don't blame people thinking that everything you see is fake.
+[00:09:16.302 --> 00:09:20.883]  Because the corporate media, because governments lied so much, not just ours, but others, it is really.
+[00:09:21.763 --> 00:09:23.523]  Healthy to question everything.
+[00:09:24.023 --> 00:09:26.503]  And people should be able to question whatever they want to question.
+[00:09:27.403 --> 00:09:31.304]  People should be able to say they think something's fake, even if they're wrong.
+[00:09:32.504 --> 00:09:34.124]  I 100% support that.
+[00:09:34.164 --> 00:09:35.604]  And that's what a free country is all about.
+[00:09:36.204 --> 00:09:47.725]  And of course, all the fake Democrat lawsuits against me with their show trials was about saying you can't question something and misrepresenting what I questioned, and then demonize me, raise hundreds of millions of dollars off my name, and then try to ultimately silence us.
+[00:09:47.785 --> 00:09:56.406]  But I noticed today when I put out multiple videos, But even in the headline, I believe that this is not staged.
+[00:09:56.446 --> 00:09:58.386]  This was real, countering the top trend.
+[00:09:59.826 --> 00:10:01.966]  Laura Loomer came out and said, You are a scumbag.
+[00:10:02.006 --> 00:10:03.706]  I can't believe you say Trump staged this.
+[00:10:04.186 --> 00:10:05.746]  She knows full well that's not what I said.
+[00:10:06.047 --> 00:10:14.667]  She did that just to hurt me because she's a neocon, and their job is to demonize anybody that Trump has previously listened to so they can keep him on the road to total war with Iran.
+[00:10:15.187 --> 00:10:20.488]  But just sickening level of lying by her and a bunch of other people, just truly disturbing.
+[00:10:20.528 --> 00:10:22.428]  But here's what I know.
+[00:10:23.307 --> 00:10:24.807]  I know a bunch of the DC police.
+[00:10:25.768 --> 00:10:27.048]  I know a lot of the Secret Service.
+[00:10:27.148 --> 00:10:29.428]  I know I've been to big events like this, okay?
+[00:10:30.669 --> 00:10:36.369]  And you're not going to have hundreds of DC police, most of which are Democrats.
+[00:10:37.469 --> 00:10:41.889]  They're like 95% Democrats voting there, and over half are Democrats because I've hired them in security.
+[00:10:43.170 --> 00:10:46.050]  You've seen me hire a bunch of DC cops off duty when we were there for big demonstrations.
+[00:10:46.370 --> 00:10:47.570]  I've hired 15 at a time.
+[00:10:48.110 --> 00:10:52.230]  A lot of them are more libertarian than like any party, but I certainly wouldn't call them Trump people.
+[00:10:52.250 --> 00:10:55.891]  Maybe one or two out of 30 cops I've hired, most of them black.
+[00:10:57.490 --> 00:11:04.211]  Wherever Trump supporters, but the point was, you've got them all over the place National Guard, Secret Service, FBI.
+[00:11:04.971 --> 00:11:05.911]  And this guy came in.
+[00:11:06.412 --> 00:11:08.772]  They said he did it in a broom closet or something.
+[00:11:09.092 --> 00:11:14.232]  He'd already gotten the hotel with the gun outside the security perimeter, but multiple witnesses said no.
+[00:11:14.592 --> 00:11:24.073]  He comes in with a backpack about 30, 40 yards from the magnetometers, from the machines, the metal detectors.
+[00:11:24.793 --> 00:11:28.273]  He takes his backpack off, he turns towards the wall.
+[00:11:28.973 --> 00:11:35.374]  And then just instantly pulls up a shotgun, assembles it, and then starts running and blasting in about three seconds.
+[00:11:36.153 --> 00:11:38.994]  And about five seconds later, they've got a timeline, there's video of it.
+[00:11:39.494 --> 00:11:43.975]  He runs by the magnetometers, and then they shoot him twice, and he falls down.
+[00:11:44.015 --> 00:11:45.535]  He never got in the ballroom.
+[00:11:45.775 --> 00:11:51.015]  He got to the stairs to the ballroom, okay?
+[00:11:51.695 --> 00:11:54.536]  So that is the reality of this.
+[00:11:54.855 --> 00:11:56.196]  And he is a leftist.
+[00:11:56.496 --> 00:11:59.816]  He supported and donated money to Kamala Harris.
+[00:12:01.836 --> 00:12:05.936]  And look, if you want to really try to kill somebody, you got a good shot at it, even if you're not well trained.
+[00:12:06.397 --> 00:12:08.877]  People go, well, why is he with his clothes off?
+[00:12:08.957 --> 00:12:11.397]  Well, they strip somebody to see if there's more weapons.
+[00:12:11.497 --> 00:12:13.097]  And when somebody's shot, that's what happens.
+[00:12:13.277 --> 00:12:14.177]  They cut your clothes off.
+[00:12:14.817 --> 00:12:15.297]  Newsflash.
+[00:12:15.737 --> 00:12:17.257]  See if something needs to be tourniqueted or something.
+[00:12:18.118 --> 00:12:19.557]  So I know how these things operate.
+[00:12:19.598 --> 00:12:20.458]  I know how these things work.
+[00:12:20.478 --> 00:12:26.678]  I've talked to a lot of former military and security and current police and security that know people that were there on the scene.
+[00:12:26.758 --> 00:12:29.198]  I made phone calls last night today and they said, absolutely real.
+[00:12:29.758 --> 00:12:31.259]  That's why I look like a Chinese fire drill.
+[00:12:32.859 --> 00:12:59.401]  So, look, if you're willing to run into the entrance to a hotel that then has magnetometers and searches going on, and then they check your invite to the deal and your name and all that, if you're willing to open up on people and try to get the Secret Service to lay down, which they didn't, so you can run through and bum rush to try to get into the auditorium, you're going to have some success.
+[00:13:00.880 --> 00:13:03.802]  So, not everything is staged, ladies and gentlemen.
+[00:13:03.882 --> 00:13:05.142]  Now, this is my opinion.
+[00:13:05.302 --> 00:13:11.861]  Looking at it all, looking at the footage, and people go, Well, wait, you don't like Trump now, so let's say he staged it.
+[00:13:12.142 --> 00:13:13.682]  That's not, it's not that I don't like Trump now.
+[00:13:14.483 --> 00:13:15.442]  That's what the media says.
+[00:13:15.483 --> 00:13:16.603]  It's what Trump came out and said.
+[00:13:16.623 --> 00:13:19.082]  It's what Laura Loomer told him I did.
+[00:13:19.883 --> 00:13:20.143]  Okay?
+[00:13:20.582 --> 00:13:22.003]  But it's not about currying favor with Trump.
+[00:13:22.023 --> 00:13:23.322]  It's not, I'm back on the Trump train.
+[00:13:23.682 --> 00:13:24.802]  Trump got off the Trump train.
+[00:13:25.844 --> 00:13:29.144]  I am simply researched this, talked to my sources.
+[00:13:29.183 --> 00:13:30.183]  They said, You're dead right.
+[00:13:30.923 --> 00:13:31.884]  That's what's going on here.
+[00:13:32.043 --> 00:13:35.403]  A crazy guy came days before, had his gun, was in the hotel.
+[00:13:36.043 --> 00:13:45.884]  Waited until the crowds all went through, security standing around, and then he just rushes like an Olympic sprinter, shooting with his shotgun forward, hoping that they would just lay down.
+[00:13:45.965 --> 00:13:49.065]  He would get through them and get shots off in the ballroom.
+[00:13:49.125 --> 00:13:51.985]  He didn't make it into the ballroom.
+[00:13:54.066 --> 00:14:04.427]  But again, the fact that we've reached this point just goes to show that people have no faith in the system, and that is the corporate media and the government's fault.
+[00:14:05.067 --> 00:14:14.528]  So, in a way, it's healthy people don't believe anything, but at the same time, You can't then just make stuff up when you don't believe an official story.
+[00:14:15.028 --> 00:14:22.168]  Because a lot of times, stuff is what they actually say, especially when it's a big, giant crowd with a bunch of people.
+[00:14:22.628 --> 00:14:23.587]  That's not how it works.
+[00:14:23.628 --> 00:14:28.209]  They don't have the local police and the National Guard and the average Secret Service in on this.
+[00:14:28.849 --> 00:14:37.649]  If you watch the footage, he runs past them, and within, while he's shooting, with a shotgun out in front of him, and within two seconds, they're drawing and shooting at him.
+[00:14:37.710 --> 00:14:38.389]  That's fast.
+[00:14:38.409 --> 00:14:39.049]  They didn't hesitate.
+[00:14:39.070 --> 00:14:39.670]  That's what Trump said.
+[00:14:39.690 --> 00:14:40.330]  No, they did a good job.
+[00:14:41.570 --> 00:14:42.629]  So let's just be clear.
+[00:14:42.649 --> 00:14:46.269]  People are, well, they should have had more people outside that perimeter and then that perimeter.
+[00:14:47.950 --> 00:14:53.811]  They told Trump, that's why he hadn't been there since he had a conversation with Obama 10 years ago.
+[00:14:54.331 --> 00:14:56.010]  We'll play that famous tape in a minute.
+[00:14:57.331 --> 00:14:58.471]  And they told him, don't have it there.
+[00:14:58.490 --> 00:15:01.792]  We need to have a real ballroom facility like every other head of state has.
+[00:15:01.812 --> 00:15:07.971]  And that's why he's been trying to get the ballroom with bulletproof glasses, the proper entrances, and the proper systems there.
+[00:15:08.892 --> 00:15:15.133]  So what you see here with Trump is from all the research I've done, What is the reality?
+[00:15:15.153 --> 00:15:20.452]  Now, the big lie that came out within minutes of it happening is I could track the top stuff.
+[00:15:20.472 --> 00:15:23.873]  Even though I was asleep when it was happening, I woke up and could see what the top trends were when they were posted.
+[00:15:24.393 --> 00:15:27.834]  Within minutes of it happening, why was there no security in the ballroom?
+[00:15:28.074 --> 00:15:29.533]  Why'd they let him into the ballroom?
+[00:15:30.114 --> 00:15:32.014]  Because the media acted like he got in the ballroom.
+[00:15:32.074 --> 00:15:37.495]  They could hear the gunshots from up the stairs near the entrance to the stairs to the ballroom.
+[00:15:38.134 --> 00:15:38.955]  They have maps of this.
+[00:15:39.315 --> 00:15:40.695]  He did not get in the ballroom.
+[00:15:42.434 --> 00:15:44.014]  Just like when I was out in Miami to.
+[00:15:44.174 --> 00:15:56.115]  A few months ago to be on Patrick Ben David, and I drove an hour and a half north to one of the other towns where they had what's the name of that incredible Italian opera guy?
+[00:15:56.816 --> 00:15:57.436]  I forget his name.
+[00:15:57.456 --> 00:15:58.076]  It's just amazing.
+[00:15:58.875 --> 00:16:06.037]  But I don't go to a lot of concerts, but I said, I'm getting in my car and I'm driving up there at night, and I bought tickets, and I got there, and that's exactly how it was.
+[00:16:07.517 --> 00:16:15.758]  You would scan your tickets and all of that, and I needed help with mine, so they sent me over to a desk for whatever reason.
+[00:16:16.918 --> 00:16:23.778]  And Then they said, okay, over here, and they had machines and people with wands, and they were searching everybody's purses.
+[00:16:23.837 --> 00:16:25.278]  And you went through.
+[00:16:26.359 --> 00:16:28.918]  And that's the level of security they have, and that's what they do.
+[00:16:28.958 --> 00:16:30.538]  And Trump said, fine, leave it at that.
+[00:16:31.158 --> 00:16:32.899]  And he's the boss, so that happened.
+[00:16:34.718 --> 00:16:38.500]  There have now been three assassination attempts against President Trump and multiple breaches of security perimeter.
+[00:16:38.720 --> 00:16:40.279]  How and why does this keep happening?
+[00:16:42.220 --> 00:16:44.740]  Dismissing it as sheer incompetence can only explain so much.
+[00:16:45.340 --> 00:16:47.561]  The purpose of any system is what it does.
+[00:16:48.740 --> 00:16:50.740]  We need to be asking, what is the purpose of the system?
+[00:16:51.561 --> 00:16:56.181]  Yeah, we know the Secret Service stood down, only gave about a third of the staffing he needed in Butler.
+[00:16:58.221 --> 00:17:00.141]  We know the head of it had to step down over that.
+[00:17:00.442 --> 00:17:02.042]  We know there was a cover up with crooks having help.
+[00:17:02.201 --> 00:17:02.822]  Absolutely.
+[00:17:03.162 --> 00:17:10.862]  If there is a conspiracy here, it's that he's been given bad security to get him killed, but it's Trump.
+[00:17:11.722 --> 00:17:12.623]  It's been a controversy.
+[00:17:12.643 --> 00:17:13.863]  He's been trying to go there every year.
+[00:17:14.143 --> 00:17:15.343]  He's obsessed with the scala.
+[00:17:15.663 --> 00:17:16.262]  He's a boomer.
+[00:17:16.323 --> 00:17:17.802]  He's obsessed with old media.
+[00:17:18.302 --> 00:17:21.802]  He's obsessed with the White House Correspondence Center, even though it's not heavily watched.
+[00:17:21.823 --> 00:17:22.462]  The clips are.
+[00:17:23.523 --> 00:17:27.223]  And that's why he wants the ballroom done so quick so we can have it there next year.
+[00:17:27.824 --> 00:17:29.824]  I mean, Trump just gets obsessed on certain things.
+[00:17:31.203 --> 00:17:36.744]  He did an interview with Elon Musk, had a billion listeners, but he's worried about the stupid Fox News and CNN and all the rest of it.
+[00:17:36.785 --> 00:17:40.964]  But even that, I got to tell you from what I've seen with Trump and my sources, it's him.
+[00:17:42.004 --> 00:17:43.184]  He doesn't care.
+[00:17:43.704 --> 00:17:44.644]  He's very fatalistic.
+[00:17:44.684 --> 00:17:48.086]  Roger Stone told me that years ago, and now it's just completely fatalistic.
+[00:17:49.445 --> 00:17:51.465]  They come in and just tell him, sir, you probably shouldn't go here.
+[00:17:51.485 --> 00:17:52.306]  You probably shouldn't go there.
+[00:17:52.326 --> 00:17:55.066]  He told him he's going to campaign for the midterms outdoors nationwide.
+[00:17:55.086 --> 00:17:55.985]  They said, sir, don't do it.
+[00:17:56.286 --> 00:17:57.665]  He literally told him, shut the F up.
+[00:17:58.246 --> 00:17:58.826]  It's my life.
+[00:17:58.865 --> 00:17:59.547]  I'll do what I want.
+[00:18:01.126 --> 00:18:05.787]  So, Trump has gone from not giving a damn to really not giving a damn, okay?
+[00:18:06.926 --> 00:18:09.666]  But I think he's got to think about the lives of other people that are going to get killed at one of these things.
+[00:18:11.667 --> 00:18:19.947]  So, and then there's this other footage of the famous Israeli magician, wizard, hypnotist, is what they call him.
+[00:18:20.407 --> 00:18:25.469]  The same guy that on Joe Rogan a few years ago guessed his pin number, and Joe instantly went.
+[00:18:27.148 --> 00:18:31.308]  Well, later on, later show, he said, oh, finally, other show.
+[00:18:31.368 --> 00:18:32.229]  He didn't really confront him.
+[00:18:32.249 --> 00:18:33.209]  He said, I don't feel good.
+[00:18:33.568 --> 00:18:34.908]  I got a bad idea how you got this.
+[00:18:34.969 --> 00:18:35.589]  Then later, Joe.
+[00:18:35.609 --> 00:18:39.109]  I know another show was like, yeah, I wonder if that guy's Israeli intelligence.
+[00:18:39.150 --> 00:18:42.029]  And they hacked my PIN number and just did that to try to impress me.
+[00:18:43.289 --> 00:18:47.150]  But he could guess Joe Rogan's PIN number with only a few questions.
+[00:18:47.891 --> 00:18:49.530]  He was doing that for Melania.
+[00:18:51.911 --> 00:18:54.391]  And the word written on the piece of paper looks like Vatican.
+[00:18:56.810 --> 00:19:00.172]  And right when it happens, people are saying, ooh, that's the proof of something.
+[00:19:00.551 --> 00:19:02.172]  Also, Caroline Lebitt will play the clip.
+[00:19:04.211 --> 00:19:05.831]  She said, oh, there's going to be a big fight tonight.
+[00:19:05.851 --> 00:19:06.392]  A lot of heat.
+[00:19:06.412 --> 00:19:07.132]  Going to be crazy.
+[00:19:07.412 --> 00:19:08.771]  Yeah, shots will be fired.
+[00:19:09.011 --> 00:19:13.113]  Because Trump, she'd seen Trump's speech he wrote, was going to be very mean to the media.
+[00:19:13.432 --> 00:19:15.373]  And that's a term everybody uses shots fired.
+[00:19:15.393 --> 00:19:21.633]  A few weeks ago, he did that J.P. Sears piece where I'm given an IQ test because Trump says I'm low IQ, a comedy piece.
+[00:19:22.133 --> 00:19:23.413]  And he says, Who says you have low IQ?
+[00:19:23.432 --> 00:19:24.074]  Oh, the president.
+[00:19:24.473 --> 00:19:25.513]  Ooh, shots fired.
+[00:19:26.233 --> 00:19:28.733]  So I'll assure you, they staged this.
+[00:19:28.753 --> 00:19:31.074]  They didn't have pregnant Caroline Levitt in on it.
+[00:19:31.574 --> 00:19:33.594]  And she sure as hell wouldn't say shots fired.
+[00:19:33.834 --> 00:19:34.933]  That is an overused term.
+[00:19:34.953 --> 00:19:38.355]  But that is all the proof that they let him through security.
+[00:19:38.454 --> 00:19:38.835]  No, they didn't.
+[00:19:38.855 --> 00:19:40.894]  They shot him three, four seconds after he ran past him.
+[00:19:42.654 --> 00:19:45.394]  And he blasted a Secret Service guy with a shotgun.
+[00:19:45.414 --> 00:19:48.596]  People go, Oh, how come a rifle bullet didn't go through his body armor?
+[00:19:48.816 --> 00:19:50.496]  Because it's Buck shot out of a shotgun.
+[00:19:50.516 --> 00:19:51.635]  That's why it bounces off.
+[00:19:52.155 --> 00:19:52.816]  He's very blessed.
+[00:19:52.836 --> 00:19:53.415]  That's what he had.
+[00:19:55.516 --> 00:20:02.277]  So it turns out it was Oz the Mentalist, guessing that Caroline Lebbet's new baby's name was Vivian.
+[00:20:03.497 --> 00:20:06.557]  And see, the media had spun it and said, Oh, it's Vatican because it kind of looked like that.
+[00:20:08.656 --> 00:20:09.416]  Oz Perlman.
+[00:20:10.696 --> 00:20:12.738]  So we'll be getting to all of that coming up.
+[00:20:12.798 --> 00:20:12.917]  But.
+[00:20:14.238 --> 00:20:19.218]  If you want a show that's going to say everything's staged, everything's a conspiracy without evidence, you got the wrong place.
+[00:20:19.837 --> 00:20:20.097]  All right.
+[00:20:20.597 --> 00:20:22.177]  I'm going to call balls and strikes on Trump.
+[00:20:22.817 --> 00:20:23.659]  It's what I'm going to do.
+[00:20:23.719 --> 00:20:34.180]  But I got to tell you, I'm getting eviscerated by the people that just hate Trump no matter what and by the neocons saying that I'm saying it was staged for simply addressing it being staged.
+[00:20:34.400 --> 00:20:38.540]  Bizarre, just nothing but camps in fighting with each other.
+[00:20:39.020 --> 00:20:43.421]  Meanwhile, it's killing Republican numbers in all the polls, and the Democrats are going to win the med tariffs, probably the Senate.
+[00:20:44.261 --> 00:20:45.861]  So it needs to stop.
+[00:20:47.901 --> 00:20:49.361]  All the garbage needs to stop now.
+[00:20:50.821 --> 00:20:52.461]  It's legitimate to criticize Trump.
+[00:20:53.882 --> 00:21:07.023]  When he comes out and attacks people that criticize him legitimately and only makes people mad at him, his surrogates that attack people that criticize Trump, who are doing it from a place of trying to get the agenda back on track, you're going to empower the Democrats.
+[00:21:08.303 --> 00:21:13.723]  They say us trying to end this war that's going to destroy the economy bare minimum, which it is doing now, economists admit.
+[00:21:14.363 --> 00:21:21.424]  They say that we need to be positive and that we're demoralizing people by pointing out that Israel lied us into this war, which is now confirmed.
+[00:21:21.824 --> 00:21:23.064]  They don't want to listen to the Pentagon.
+[00:21:23.264 --> 00:21:24.784]  They don't want to listen to the intelligence agencies.
+[00:21:24.804 --> 00:21:25.944]  They don't want to listen to me.
+[00:21:26.403 --> 00:21:27.984]  They want to listen to lying Israel.
+[00:21:28.444 --> 00:21:31.325]  Who's got his eight front war going and they're Israeli operatives?
+[00:21:32.645 --> 00:21:35.325]  Most of them are on the Israeli payroll.
+[00:21:35.925 --> 00:21:42.966]  That's why they point their finger at me and say, I work for Iran or Qatar, which is absolutely preposterous.
+[00:21:44.146 --> 00:21:47.706]  Or they say, I work for the Southern Poverty Law Center when I'm not the Southern Poverty Law Center payments.
+[00:21:48.346 --> 00:21:49.666]  They're attacking me all the time.
+[00:21:50.865 --> 00:21:52.606]  I'm never in any of the Epstein documents.
+[00:21:52.626 --> 00:21:53.847]  He's attacking me over and over again.
+[00:21:53.927 --> 00:21:56.427]  I'm not in the Epstein documents in a positive way.
+[00:21:56.447 --> 00:21:58.387]  I'm not in the Southern Poverty Law Center in a positive way.
+[00:21:58.647 --> 00:22:01.086]  The ADL has galas and says, I'm the number one enemy.
+[00:22:02.607 --> 00:22:04.447]  Because I'm not creating white supremacist groups.
+[00:22:04.467 --> 00:22:08.408]  I'm bringing people together against the corrupt agenda of the groups that run Israel right now.
+[00:22:09.568 --> 00:22:12.608]  And I do it from a position of common sense, and they can't stand it.
+[00:22:12.828 --> 00:22:15.048]  They need somebody in a Nazi clown outfit.
+[00:22:15.288 --> 00:22:17.128]  That's why they pay those groups to do that.
+[00:22:19.269 --> 00:22:20.809]  So let's start going to these clips.
+[00:22:22.429 --> 00:22:26.269]  Let's go to 14 first.
+[00:22:27.829 --> 00:22:33.030]  This is Caroline Levitt saying shots fired.
+[00:22:33.050 --> 00:22:35.950]  And they're saying this is the proof that it was staged.
+[00:22:35.970 --> 00:22:36.390]  Well, wait, wait.
+[00:22:37.750 --> 00:22:39.210]  Well, then she's saying real shots are fired.
+[00:22:39.230 --> 00:22:42.971]  No, she's talking about the term, meaning going to have incendiary fights and a lot of hard words.
+[00:22:43.271 --> 00:22:43.831]  Shots fired.
+[00:22:43.851 --> 00:22:44.171]  Here it is.
+[00:22:45.891 --> 00:22:46.831]  He is ready to rumble, is he not?
+[00:22:47.031 --> 00:22:48.351]  He is ready to rumble.
+[00:22:48.611 --> 00:22:53.471]  I will tell you, this speech tonight will be classic Donald J. Trump.
+[00:22:53.912 --> 00:22:54.792]  It'll be funny.
+[00:22:54.852 --> 00:22:55.972]  It'll be entertaining.
+[00:22:56.032 --> 00:22:59.072]  There will be some shots fired tonight in the room.
+[00:22:59.152 --> 00:23:00.552]  So everyone should tune in.
+[00:23:00.612 --> 00:23:01.552]  It's going to be really great.
+[00:23:01.652 --> 00:23:02.872]  I'm looking forward to hearing it.
+[00:23:03.032 --> 00:23:03.612]  I love it all.
+[00:23:03.732 --> 00:23:05.012]  And you wrote most of it, you said.
+[00:23:05.953 --> 00:23:06.893]  I can't take credit.
+[00:23:07.773 --> 00:23:11.153]  In true Donald Trump fashion, the man puts his pen to the paper himself.
+[00:23:11.253 --> 00:23:12.953]  So it's a lot of his own work.
+[00:23:14.113 --> 00:23:19.114]  Now, Nicole Wallace is a reporter.
+[00:23:20.334 --> 00:23:24.354]  She was sitting with Caroline Levitt or another table with her husband.
+[00:23:25.854 --> 00:23:28.134]  And he said, Hey, you need to stay close over here and be careful.
+[00:23:28.153 --> 00:23:29.014]  This is a dangerous night.
+[00:23:29.454 --> 00:23:37.235]  Well, that's because they told Trump not to go and said this is a high probability somebody's going to try to kill you because of the low security and the way the hotel's set up.
+[00:23:37.315 --> 00:23:38.335]  It's not a good facility.
+[00:23:40.055 --> 00:23:41.315]  I'd be concerned if I was there.
+[00:23:41.856 --> 00:23:44.496]  People saw that and said, oh, her phone cut out on Fox.
+[00:23:45.576 --> 00:23:48.115]  And I watched the next two guests and her come back on.
+[00:23:48.136 --> 00:23:52.416]  They all cut out too because so many phone calls, even Kash Patel couldn't get a phone call out.
+[00:23:52.996 --> 00:23:55.097]  They've got special cell phones to get priority on the system.
+[00:23:56.037 --> 00:23:58.117]  You ever been to one of these big events and a big bad thing happens?
+[00:23:58.357 --> 00:24:00.397]  Your cell phone doesn't work because everybody's jamming the lines out.
+[00:24:01.197 --> 00:24:05.336]  But still, I get why people see this and they think, oh, Caroline Levitt said that.
+[00:24:05.838 --> 00:24:08.098]  And her husband told this reporter, look out tonight.
+[00:24:08.138 --> 00:24:09.078]  Well, no kidding.
+[00:24:09.378 --> 00:24:10.758]  They told Trump, don't go to the event.
+[00:24:10.898 --> 00:24:11.258]  Here it is.
+[00:24:12.818 --> 00:24:14.478]  The permission structure for violence.
+[00:24:14.658 --> 00:24:16.278]  You've got polls about political violence.
+[00:24:16.298 --> 00:24:17.638]  Democrats don't think it's a good idea.
+[00:24:17.698 --> 00:24:26.221]  Only Republicans, only people inclined to consume conservative media are now, I think, upward of 50% say that if necessary, violence is okay.
+[00:24:26.562 --> 00:24:29.723]  You've only got the conduct on one of the two sides.
+[00:24:30.283 --> 00:24:31.583]  That's a whole other subject.
+[00:24:32.764 --> 00:24:36.806]  With them saying the number one terror threat, the number one violence is white people, which we know is completely not true.
+[00:24:37.466 --> 00:24:41.227]  I guess I messed up going over these links.
+[00:24:42.188 --> 00:24:42.928]  It's clip 11.
+[00:24:43.328 --> 00:24:44.048]  Thanks for finding it.
+[00:24:44.329 --> 00:24:45.509]  Here's the clip I was talking about.
+[00:24:47.210 --> 00:24:48.910]  I was sitting next to Caroline Levitt.
+[00:24:49.631 --> 00:24:51.391]  The press secretary's husband.
+[00:24:52.032 --> 00:24:53.412]  He was one of our guests.
+[00:24:53.432 --> 00:24:54.633]  He was seated right next to me.
+[00:24:54.933 --> 00:25:00.455]  And, you know, right as the dinner was starting, you know, the national anthem happened.
+[00:25:00.555 --> 00:25:04.056]  And then he kind of leaned over and said, You know, I watched you on TV.
+[00:25:04.096 --> 00:25:04.837]  You do a great job.
+[00:25:05.217 --> 00:25:06.857]  You need to be very safe.
+[00:25:07.057 --> 00:25:09.138]  And he was just very serious when he said that to me.
+[00:25:09.578 --> 00:25:12.840]  And he kind of looked around the room and he said, You know, there are some.
+[00:25:19.380 --> 00:25:20.019]  And then it comes out.
+[00:25:20.060 --> 00:25:21.440]  It looks like we lost Aisha's.
+[00:25:21.860 --> 00:25:24.961]  So we do need to hear from her exactly what he said to her.
+[00:25:26.221 --> 00:25:29.761]  Because that can be innocuous or that could be something.
+[00:25:29.821 --> 00:25:35.781]  And, you know, they could know a guy was coming and they could have had more security and they could let him through, like Butler.
+[00:25:36.521 --> 00:25:39.221]  That's what the former head of the counterterrorism center, Joe Kent, is saying.
+[00:25:39.782 --> 00:25:44.322]  So maybe the conspiracy is Trump rolled the dice and people are going to use it as an advantage to kill him.
+[00:25:45.162 --> 00:25:47.582]  All I know is a real guy came in with a shotgun.
+[00:25:48.102 --> 00:25:49.563]  He shot a Secret Service agent.
+[00:25:49.583 --> 00:25:50.903]  He had a body armor on, though.
+[00:25:51.403 --> 00:25:52.483]  And they shot him twice.
+[00:25:53.663 --> 00:25:54.903]  And the guy's a big leftist.
+[00:25:56.063 --> 00:25:57.682]  And the left's been calling for violence against Trump.
+[00:25:57.983 --> 00:25:59.063]  So that all makes sense.
+[00:25:59.483 --> 00:26:00.343]  That all fits.
+[00:26:01.184 --> 00:26:06.163]  Now, if we see some new evidence come out of something else, I'll cover it and I can change my mind and I can be wrong.
+[00:26:07.804 --> 00:26:10.044]  But I just don't think it's fair.
+[00:26:10.144 --> 00:26:12.124]  I mean, here's an example.
+[00:26:12.724 --> 00:26:16.005]  They've got fake, I checked it myself on Grok and ChatGPT.
+[00:26:16.144 --> 00:26:17.425]  I didn't just believe Grok on X.
+[00:26:17.505 --> 00:26:18.365]  We ran it this morning.
+[00:26:20.945 --> 00:26:25.906]  Cole Allen, they have this photo of him and he's got an Israeli defense force.
+[00:26:28.186 --> 00:26:29.966]  Pull over sweater on.
+[00:26:31.605 --> 00:26:33.446]  And it's a fake AI image.
+[00:26:34.486 --> 00:26:36.865]  So just day one, say Israel did it.
+[00:26:38.807 --> 00:26:43.326]  Even though the guy's a registered Democrat, voted for Kamala, gave her money, did this.
+[00:26:44.247 --> 00:26:46.707]  And then you got the Democrats on TV saying, yeah, it's white males.
+[00:26:46.727 --> 00:26:47.567]  They're the threat everywhere.
+[00:26:47.627 --> 00:26:49.148]  And this guy's not a white male.
+[00:26:49.168 --> 00:26:52.968]  I guess he looks like a mixed mulatto, whatever, black, white.
+[00:26:54.188 --> 00:26:56.028]  But he's a big Democrat.
+[00:26:56.048 --> 00:27:00.088]  It's just like we have to bend over backwards, always to say it's staged, it's staged.
+[00:27:00.888 --> 00:27:04.249]  Well, yeah, it's staged with the Democrats calling for violence, creating this atmosphere.
+[00:27:05.189 --> 00:27:06.209]  The evidence is overwhelming.
+[00:27:06.229 --> 00:27:07.909]  They don't have all these cops in on it, folks.
+[00:27:07.949 --> 00:27:10.249]  It's not how it works when they stage stuff.
+[00:27:10.309 --> 00:27:10.929]  We'll be right back.
+[00:27:10.949 --> 00:27:13.610]  Stay with me.
+[00:27:13.930 --> 00:27:18.670]  All right, we are back live.
+[00:27:19.390 --> 00:27:20.370]  I want to do this.
+[00:27:20.390 --> 00:27:26.911]  I want to open the phones up and get your take on the latest assassination attempt against Trump.
+[00:27:26.931 --> 00:27:34.230]  I mean, people are saying the attempt in Mar-a-Lago was faked, they're saying that.
+[00:27:34.651 --> 00:27:35.651]  Pennsylvania was fake.
+[00:27:35.671 --> 00:27:36.671]  They're saying this was fake.
+[00:27:37.572 --> 00:27:39.112]  I've studied all three of those things.
+[00:27:39.132 --> 00:27:39.692]  They're not fake.
+[00:27:41.272 --> 00:27:42.692]  This is not about defending Trump.
+[00:27:42.752 --> 00:27:44.272]  It's just, I just do the research.
+[00:27:44.492 --> 00:27:45.412]  I defend the truth.
+[00:27:46.172 --> 00:27:46.932]  That's the end of it.
+[00:27:47.092 --> 00:27:48.372]  But in a way, it's healthy.
+[00:27:48.412 --> 00:27:51.133]  Nobody believes anything because the corporate media and government lies so much.
+[00:27:51.853 --> 00:27:56.333]  But if people can't differentiate truth from lies, just in general, we are rudderless.
+[00:27:57.193 --> 00:27:58.253]  So I'm not mad at anybody.
+[00:27:58.673 --> 00:27:59.793]  I just, where am I wrong?
+[00:28:01.934 --> 00:28:07.014]  Now, I will say this this shooter, this 30 year old.
+[00:28:08.274 --> 00:28:16.414]  Teacher, it was Teacher of the Month and all the rest of it, Cole Allen, interned at the Jet Propulsion Laboratories in NASA.
+[00:28:18.215 --> 00:28:20.075]  And there are these lists of dead scientists going around.
+[00:28:20.315 --> 00:28:30.676]  Folks, it's 11 the last few months, including the head of the whole secret UFO project, the top general, who, by the way, said he wanted disclosure and that Trump had ordered to disclose it all.
+[00:28:30.896 --> 00:28:33.296]  He disappeared two weeks after Trump ordered it three months ago.
+[00:28:34.336 --> 00:28:37.417]  They found this other NASA engineer burn up in his car last week.
+[00:28:37.817 --> 00:28:39.457]  Another one said, Oh, they're coming to kill me.
+[00:28:39.477 --> 00:28:40.377]  They told me they're going to kill me.
+[00:28:40.617 --> 00:28:41.717]  Then she commits suicide.
+[00:28:42.937 --> 00:28:46.977]  All these big UFO researchers are dying, two of them this week.
+[00:28:47.356 --> 00:28:48.697]  It is hundreds, okay?
+[00:28:48.737 --> 00:28:53.258]  And it's in Europe, it's in China, people involved with gravitational manipulation.
+[00:28:53.638 --> 00:28:55.418]  They call it anti gravity, that's not what it is.
+[00:28:55.898 --> 00:28:57.218]  It's gravitational manipulation.
+[00:28:57.498 --> 00:28:59.198]  People involved in secret space programs.
+[00:29:00.038 --> 00:29:06.959]  And Trump is the one that said three months ago, I want it all disclosed now, and signed an executive order and gave them until July to do it.
+[00:29:08.759 --> 00:29:17.060]  And then a guy that worked at the Jet Propulsion Laboratory, It was founded by Jack Parsons, the avowed Satanist, and Aleister Crowleyite.
+[00:29:17.460 --> 00:29:18.519]  I know it doesn't sound real.
+[00:29:18.680 --> 00:29:19.639]  It doesn't sound real to me either.
+[00:29:19.720 --> 00:29:25.141]  Just type in Jack Parsons, Alistair Crowley, Satanism, the founder basically of proto NASA.
+[00:29:27.840 --> 00:29:29.360]  Ran sex cults with Alistair Crowley.
+[00:29:29.980 --> 00:29:33.320]  The point is, that was back in the 50s before NASA was formed officially.
+[00:29:34.060 --> 00:29:37.541]  So it's crazy.
+[00:29:38.602 --> 00:29:41.422]  You know, the guy that really shot Sirhan Sirhan, it's well known.
+[00:29:41.862 --> 00:29:47.841]  Even the local police report said that Sirhan Sirhan had his arm pinned and he shot all the rounds out of his handgun into the wall and floor.
+[00:29:48.623 --> 00:30:01.183]  But it was a well known Skunk Works Jet Propulsion Laboratory CIA operative that actually shot RFK's dad, RFK Sr., a bunch in the back there at the hotel in Los Angeles.
+[00:30:01.203 --> 00:30:07.003]  So the fact that, and one of his professors just got killed a few weeks ago.
+[00:30:08.223 --> 00:30:10.144]  Kellen, one of the writers, was just showing me that.
+[00:30:11.163 --> 00:30:14.464]  I mean, you cannot make this stuff up.
+[00:30:14.605 --> 00:30:15.184]  Just look it up.
+[00:30:16.984 --> 00:30:19.605]  Cole Allen worked at the Jet Propulsion Laboratories for NASA.
+[00:30:20.785 --> 00:30:24.444]  Absolutely amazing and gave to Kamala Harris and all the rest of it.
+[00:30:29.326 --> 00:30:30.586]  So that's where we are.
+[00:30:33.945 --> 00:30:35.066]  Absolutely insane.
+[00:30:35.086 --> 00:30:42.606]  Here he is as the teacher of the month in 2024, CTU Education, Torrance, California.
+[00:30:44.267 --> 00:30:45.767]  But oh, what's the corporate media say?
+[00:30:46.846 --> 00:30:53.807]  CNN, New York Times, London Guardian, White House journalist gala ended like many U.S. events do with gun violence.
+[00:30:54.407 --> 00:31:00.648]  It's like when a Muslim runs somebody over with a truck at a Christmas parade and they say, oh, a truck killed a bunch of people.
+[00:31:00.969 --> 00:31:02.068]  It's truck crime.
+[00:31:02.128 --> 00:31:03.648]  It's vehicle crime.
+[00:31:03.729 --> 00:31:05.989]  No, it's a person using a weapon.
+[00:31:09.429 --> 00:31:13.549]  Trump rushed off stage, his shots fired, video, correspondence, dinner, chaos.
+[00:31:14.230 --> 00:31:15.889]  Why we need the ballroom.
+[00:31:17.710 --> 00:31:22.869]  Trump, WHCA dinner with the press turns into a night of tears and terror.
+[00:31:25.290 --> 00:31:27.671]  But again, he didn't even get in the ballroom.
+[00:31:27.691 --> 00:31:30.471]  They all just dove into the tables when they were told to.
+[00:31:30.510 --> 00:31:32.130]  And people say, How do you get in the ballroom?
+[00:31:32.151 --> 00:31:33.471]  How do you get through security?
+[00:31:35.090 --> 00:31:35.530]  He didn't.
+[00:31:35.590 --> 00:31:38.471]  He ran through the first layer of the magnetometers and got shot.
+[00:31:38.831 --> 00:31:43.412]  Though, still, that is not heavy enough security for a presidential event, period.
+[00:31:44.551 --> 00:31:47.491]  And Kerry Lake has come out and said she couldn't believe how lax it was.
+[00:31:48.132 --> 00:31:51.133]  That's why Trump hasn't been there for 10 years, because they said, Don't do it.
+[00:31:51.472 --> 00:31:53.893]  And then the new Trump says, F you, I'm doing it.
+[00:31:58.472 --> 00:31:59.593]  Absolute circus.
+[00:32:00.993 --> 00:32:04.034]  Jack Baselbeck asked, Who let Trump be in such a low security environment?
+[00:32:04.293 --> 00:32:04.693]  Trump?
+[00:32:06.874 --> 00:32:08.713]  Just like he's reckless with this Iran war.
+[00:32:09.594 --> 00:32:11.554]  So I guess at the end of the day, I am criticizing Trump.
+[00:32:14.214 --> 00:32:15.255]  That's what's happening here.
+[00:32:17.095 --> 00:32:29.296]  And it goes on and There's Terry Lake.
+[00:32:29.375 --> 00:32:33.415]  I can't believe how lax the security was at the White House Correspondence Center tonight.
+[00:32:33.935 --> 00:32:38.817]  Upon entering, nobody asked to visibly inspect my ticket nor ask for my photo identification.
+[00:32:38.896 --> 00:32:51.097]  That is a dereliction of duty because most people had to show their invite and an email with their name and a show ID.
+[00:32:55.597 --> 00:32:56.697]  Have one of those mental moments.
+[00:32:57.478 --> 00:32:59.038]  What's the thing you get to come to a party?
+[00:32:59.157 --> 00:32:59.657]  Invitation.
+[00:32:59.677 --> 00:33:02.838]  And I've been to a lot of these types of things.
+[00:33:03.459 --> 00:33:07.358]  I mean, yeah, weeks before they make you do it, sometimes the Secret Service calls you, you've got a special badge.
+[00:33:07.778 --> 00:33:09.898]  They call you the day before, the day of.
+[00:33:09.918 --> 00:33:15.460]  Of course, I've had badges that you can go, like maximum red badges, backstage, anywhere you want.
+[00:33:15.480 --> 00:33:17.900]  And that's why you get a little extra thing, which is fine.
+[00:33:19.180 --> 00:33:30.221]  But when I was like front row down below the inauguration, the front row of his inauguration, they had a Border Patrol senior guy who was older in his Border Patrol uniform.
+[00:33:30.240 --> 00:33:32.141]  He says, Alex, big fan, but still got to check your ID.
+[00:33:32.181 --> 00:33:32.961]  And I said, Well, of course.
+[00:33:33.562 --> 00:33:35.622]  Gave him my invitation, checked my ID, said, Have a good day.
+[00:33:36.602 --> 00:33:37.862]  So they're not doing it.
+[00:33:37.882 --> 00:33:38.542]  And I wasn't mad.
+[00:33:38.582 --> 00:33:39.682]  I was like, Okay, yeah, of course.
+[00:33:39.701 --> 00:33:40.481]  You still should check.
+[00:33:41.302 --> 00:33:45.823]  Because you can't, like, not do it for me and then, you know, not do it for other people.
+[00:33:49.143 --> 00:33:50.682]  So, you got Kerry Lake and a bunch of other people.
+[00:33:50.702 --> 00:33:56.262]  So, listen, what I'm saying is, were they trying to kill Trump because he's for disclosure?
+[00:33:57.824 --> 00:33:59.723]  Did they send one of their program lone wolves?
+[00:34:00.284 --> 00:34:01.183]  Did he act alone?
+[00:34:01.203 --> 00:34:01.903]  I tend to think that.
+[00:34:02.524 --> 00:34:07.544]  But to say this guy didn't run in and didn't run past Kerry and didn't get shot and somehow that stage, what is staged?
+[00:34:08.304 --> 00:34:09.485]  Like the shooting didn't happen?
+[00:34:11.605 --> 00:34:14.345]  Just as there's a photo of him laying naked on the ground, they go, Where's the blood?
+[00:34:14.405 --> 00:34:15.644]  Well, they're not showing you that.
+[00:34:16.845 --> 00:34:18.105]  That's what they do after you get shot.
+[00:34:18.144 --> 00:34:21.545]  They pull your clothes off to tourniquet anything and to look for weapons.
+[00:34:24.405 --> 00:34:25.166]  I mean, newsflash.
+[00:34:25.206 --> 00:34:32.226]  I had a compound fracture when I was 15, and they didn't even just cut the bottom of my pants off.
+[00:34:32.306 --> 00:34:34.367]  And they could have unbuttoned my blue jeans and done that.
+[00:34:34.726 --> 00:34:36.307]  No, they don't mess around.
+[00:34:36.706 --> 00:34:41.787]  They just sat there with these big old clipper things, and I was in so much pain I didn't pay attention.
+[00:34:42.047 --> 00:34:46.528]  And they just started down at the bottom and just cut, in like seven, eight seconds.
+[00:34:47.288 --> 00:34:56.248]  I was down in my underwear, and then they hit me with morphine, thank God, and I didn't think about anything else.
+[00:34:56.987 --> 00:35:02.489]  And then I went into surgery a couple days later, and it was, you know, thank God I got it fixed.
+[00:35:02.509 --> 00:35:05.309]  But until you get a compound fracture, that's next level pain.
+[00:35:05.369 --> 00:35:06.989]  You're like seeing stars, it hurts so bad.
+[00:35:07.688 --> 00:35:08.889]  But yeah, they just cut my pants off.
+[00:35:09.208 --> 00:35:09.650]  That's what they do.
+[00:35:09.690 --> 00:35:12.650]  I guess you've never been in big trauma, you don't know that.
+[00:35:12.670 --> 00:35:16.289]  They tear your clothes off because they got to see what's going on.
+[00:35:16.449 --> 00:35:18.190]  They don't like, oh, let's just pull your shirt up.
+[00:35:18.230 --> 00:35:19.610]  Oh, let's see if there's where the bullet wound is.
+[00:35:19.670 --> 00:35:20.710]  No, they strip your ass.
+[00:35:21.230 --> 00:35:22.030]  You ever seen soldiers?
+[00:35:22.771 --> 00:35:25.990]  Once they get them, you know, to the helicopter, they're naked.
+[00:35:26.070 --> 00:35:27.391]  They cut their clothes off in the field.
+[00:35:28.711 --> 00:35:30.110]  That's why you see the famous Vietnam footage.
+[00:35:30.130 --> 00:35:31.610]  They got naked guys all bleeding.
+[00:35:31.630 --> 00:35:32.831]  They're shoving them in the helicopter.
+[00:35:33.652 --> 00:35:35.371]  So, all these people think they know how things work.
+[00:35:35.391 --> 00:35:36.432]  You don't know how things work.
+[00:35:37.692 --> 00:35:38.432]  A lot of people do.
+[00:35:38.572 --> 00:35:39.932]  You just obviously don't.
+[00:35:41.811 --> 00:35:42.771]  And I'm not mad at you.
+[00:35:44.472 --> 00:35:45.833]  Yes, the guy may have had help.
+[00:35:47.512 --> 00:35:51.413]  Yes, Trump said, I'm going there no matter the fact that he doesn't have good security.
+[00:35:51.893 --> 00:35:53.733]  They should have just ignored him and had more security.
+[00:35:55.992 --> 00:35:57.452]  So, this has yet to happen again.
+[00:35:58.074 --> 00:35:59.873]  People can say, well, then he's not really worried about his security.
+[00:36:00.233 --> 00:36:06.514]  Even if Trump staged this, There are a lot of real crazy people that want to kill him, and it's crazy how little security he goes around with.
+[00:36:09.094 --> 00:36:10.494]  So, here's the toll free number.
+[00:36:10.534 --> 00:36:12.595]  You agree with me, you disagree, you got points to make.
+[00:36:12.615 --> 00:36:14.735]  We don't screen your calls, just you have a clean phone line.
+[00:36:15.695 --> 00:36:17.375]  You want to tell us where you're calling from, how you're listening?
+[00:36:17.394 --> 00:36:17.994]  That's fine too.
+[00:36:18.034 --> 00:36:19.934]  But I don't screen you for your topics.
+[00:36:20.655 --> 00:36:23.815]  If you tell me the topic, then that lets me know when I go to you.
+[00:36:24.036 --> 00:36:26.416]  But we don't say, oh, we're not doing that topic.
+[00:36:28.815 --> 00:36:30.456]  That's when I do general phones open.
+[00:36:32.876 --> 00:36:35.436]  Right now, I am screening you openly on air.
+[00:36:35.617 --> 00:36:39.996]  That's how I do screen occasionally, but not classic screening where if I don't like what you're saying, you don't get on.
+[00:36:40.737 --> 00:36:41.757]  Or if you don't agree, you don't get on.
+[00:36:41.777 --> 00:36:42.677]  That's most of talk radio.
+[00:36:43.537 --> 00:36:45.677]  I'm saying, I want to hear about last night's shooting.
+[00:36:46.117 --> 00:36:49.458]  I want to hear what you think about this massive subject and just Trump in general.
+[00:36:50.157 --> 00:36:51.137]  Toll free number to join us.
+[00:36:51.197 --> 00:36:52.257]  Fire up the phone system, please.
+[00:36:52.637 --> 00:36:54.378]  877 789 2539.
+[00:36:54.498 --> 00:36:56.737]  877 789, Alex.
+[00:36:58.458 --> 00:37:01.958]  And I'll do a major update on the future of InfoWars tomorrow.
+[00:37:03.918 --> 00:37:06.498]  They've kicked us out of the building twice and shut us down before.
+[00:37:06.918 --> 00:37:08.019]  It gets overturned in court.
+[00:37:08.918 --> 00:37:10.199]  There is a very good chance.
+[00:37:10.379 --> 00:37:14.780]  They say they're coming at midnight Thursday to padlock the doors, the Texas receiver, and kick us out.
+[00:37:15.480 --> 00:37:17.221]  We are going to be fighting them more in court.
+[00:37:17.240 --> 00:37:24.402]  Even though we have a backup network and the rest of it, it's just the moral imperative that we do that.
+[00:37:25.061 --> 00:37:30.382]  But we don't lose one way or another as long as we stay on air and as long as you share the coordinates of the new show.
+[00:37:30.842 --> 00:37:40.643]  You'll find it real Alex Jones and on Rumble, the Alex Jones show and our new news site we watched that you can find on those sites right there, alexjoneslive.com.
+[00:37:41.143 --> 00:37:41.823]  It is really.
+[00:37:42.903 --> 00:37:43.603]  That's simple.
+[00:37:43.683 --> 00:37:47.105]  And the stations all know the new satellite coordinates beaming to them.
+[00:37:47.144 --> 00:37:49.164]  They're ready to flip over Friday morning.
+[00:37:51.324 --> 00:37:52.985]  And then we just move forward.
+[00:37:54.245 --> 00:37:59.205]  But I knew about three weeks ago, if you remember, I said, they're not paying the bills.
+[00:37:59.245 --> 00:38:00.025]  They're not paying the rent.
+[00:38:00.045 --> 00:38:01.666]  They're not paying the stuff last month.
+[00:38:02.686 --> 00:38:08.687]  And we've been so steadfast with all of our companies and providers, internet companies and stuff.
+[00:38:08.987 --> 00:38:09.987]  They're like, well, do you need more time?
+[00:38:10.007 --> 00:38:10.527]  What's happening?
+[00:38:11.927 --> 00:38:13.788]  We're like, no, I think we're getting shut down.
+[00:38:14.507 --> 00:38:20.228]  And sure enough, they told us last week, like last Tuesday, they go, Yeah, we're closing you May 1st.
+[00:38:20.308 --> 00:38:21.368]  You'll be out May Day.
+[00:38:21.408 --> 00:38:24.449]  I'm like, Oh, the communist occultic holiday.
+[00:38:24.509 --> 00:38:25.230]  Of course.
+[00:38:26.250 --> 00:38:26.889]  Of course.
+[00:38:27.789 --> 00:38:37.410]  And the onion producer they're bringing in is famous for being obsessed with pedophilia, Satanism, the murder of children, and children defecating on their parents in satanic rituals.
+[00:38:37.670 --> 00:38:38.270]  I'm not kidding.
+[00:38:39.751 --> 00:38:42.231]  He pledged himself to Satan Thursday on air.
+[00:38:43.391 --> 00:38:45.491]  And the left's just, Oh, it's just a joke.
+[00:38:45.531 --> 00:38:46.891]  They're upsetting the Christian Alex.
+[00:38:48.752 --> 00:38:52.172]  I love how the devil tells you that he exists, but then says he does it at the same time.
+[00:38:53.472 --> 00:38:54.992]  Who produces stuff like this?
+[00:38:56.053 --> 00:39:00.393]  This is, they want to have the website info wars so they can misrepresent and act like complete idiots.
+[00:39:03.355 --> 00:39:04.294]  So let's do this.
+[00:39:04.355 --> 00:39:07.814]  Let's go to, I thought really it was wild what Trump said, though.
+[00:39:07.855 --> 00:39:10.975]  He goes, you know, they only try to kill consequential, impactful presidents.
+[00:39:12.135 --> 00:39:13.015]  And he's right.
+[00:39:13.295 --> 00:39:15.895]  And they are definitely trying to kill Trump.
+[00:39:16.035 --> 00:39:20.116]  So the idea that nobody wants to kill Trump is just still preposterous.
+[00:39:21.596 --> 00:39:26.757]  So let's go to President Trump here.
+[00:39:28.117 --> 00:39:29.357]  I got a couple clips of Trump.
+[00:39:33.018 --> 00:39:34.918]  I got so many clips here, I get them all confused.
+[00:39:36.878 --> 00:39:37.418]  I'll find it.
+[00:39:38.158 --> 00:39:41.278]  There's two clips of Trump last night responding.
+[00:39:41.318 --> 00:39:42.259]  I got a little bit late today.
+[00:39:43.899 --> 00:39:45.099]  I woke up so early.
+[00:39:51.739 --> 00:39:53.079]  Yeah, and there's another one too.
+[00:39:53.599 --> 00:39:55.139]  But this is White House Correspondents' Dinner.
+[00:39:55.179 --> 00:39:58.020]  Donald Trump makes first remarks since the shooting.
+[00:39:58.060 --> 00:39:58.380]  Here it is.
+[00:40:00.340 --> 00:40:01.300]  Well, thank you very much.
+[00:40:02.660 --> 00:40:12.021]  That was very unexpected, but incredibly acted upon by Secret Service and law enforcement.
+[00:40:12.061 --> 00:40:22.842]  And this was an event dedicated to freedom of speech that was supposed to bring together members of both parties with members of the press.
+[00:40:24.163 --> 00:40:25.342]  And in a certain way, it did.
+[00:40:26.422 --> 00:40:32.562]  Because the fact that they just unified, I saw a room that was just totally unified.
+[00:40:32.602 --> 00:40:41.643]  It was, in one way, very beautiful a very beautiful thing to see a man charge a security checkpoint armed with multiple weapons.
+[00:40:42.864 --> 00:40:53.224]  And he was taken down by some very brave members of the Secret Service, and they acted very quickly and have just released, for purposes of transparency and clarity.
+[00:40:54.224 --> 00:40:56.464]  I've ordered it to be put out.
+[00:40:56.524 --> 00:40:57.846]  You probably have it by now.
+[00:40:58.165 --> 00:41:01.645]  Put out on Truth and put out on many other platforms.
+[00:41:02.326 --> 00:41:13.306]  A tape showing the violence of this thug that attacked our Constitution and also showing how quickly Secret Service and law enforcement acted on our country's behalf.
+[00:41:14.086 --> 00:41:15.146]  Really did a great job.
+[00:41:16.866 --> 00:41:24.607]  One officer was shot, but saved by the fact that he was wearing obviously a very good bulletproof, Vest.
+[00:41:24.647 --> 00:41:33.027]  He was shot from very close distance with a very powerful gun, and the vest did the job.
+[00:41:33.828 --> 00:41:36.028]  I just spoke to the officer, and he's doing great.
+[00:41:36.068 --> 00:41:37.188]  He's in great shape.
+[00:41:37.969 --> 00:41:45.710]  He has very high spirits, and we told him we love him and respect him.
+[00:41:47.149 --> 00:41:52.309]  He's a very proud guy, he's very proud of what he does, Secret Service agent.
+[00:41:53.409 --> 00:41:58.490]  And we looked at All of the conditions that took place tonight.
+[00:41:58.550 --> 00:42:04.130]  And I will say, you know, it's not a particularly secure building.
+[00:42:05.210 --> 00:42:15.131]  And I didn't want to say this, but this is why we have to have all of the attributes of what we're planning at the White House.
+[00:42:15.211 --> 00:42:18.511]  It's actually a larger room and it's much more secure.
+[00:42:18.531 --> 00:42:21.612]  It's got drone proof, it's bulletproof glass.
+[00:42:21.652 --> 00:42:22.393]  We need the ballroom.
+[00:42:22.413 --> 00:42:25.292]  That's why Secret Service, that's why the military are demanding it.
+[00:42:26.812 --> 00:42:39.134]  They've wanted the ballroom for 150 years for lots of different reasons, but today's a little bit different because today we need levels of security that probably nobody's ever seen before.
+[00:42:40.233 --> 00:42:50.355]  But everyone owes a tremendous debt of gratitude to the courage of law enforcement, the law enforcement, and working with the D.C. police.
+[00:42:50.454 --> 00:42:51.754]  And we just spoke with the mayor.
+[00:42:52.694 --> 00:43:06.015]  And when we're finished, the police chief is going to take over and Discuss it also from their viewpoint, but they also performed exactly as they were supposed to.
+[00:43:06.096 --> 00:43:13.836]  And you see the attacker in different positions, but you also see the attacker totally subdued and under control.
+[00:43:15.716 --> 00:43:27.597]  Now, when I woke up at 2 30 this morning and by 3 o'clock, spent three hours, and I've spent more time since then focusing on this, there are hundreds and hundreds and hundreds of videos of people out in the foyer, outside at night.
+[00:43:28.737 --> 00:43:29.837]  Inside the ballroom.
+[00:43:29.977 --> 00:43:31.737]  So I was able to see it from every angle.
+[00:43:31.777 --> 00:43:36.798]  I watched over, give me a headache, probably 200 videos of different types.
+[00:43:37.278 --> 00:43:38.358]  You've already seen a bunch of them here.
+[00:43:39.418 --> 00:43:42.538]  Whole bunch of witnesses said he wasn't in a broom closet or something.
+[00:43:43.458 --> 00:43:44.698]  He comes into the front doors.
+[00:43:44.719 --> 00:43:46.619]  You got the magnetometers about 30 feet away.
+[00:43:47.039 --> 00:43:53.280]  He turns around with a bag, turns around, assembles the gun instantly, and charges and starts shooting.
+[00:43:57.181 --> 00:43:58.960]  And they shoot him before he gets to the ballroom.
+[00:44:01.121 --> 00:44:02.181]  I'm not defending the security.
+[00:44:02.201 --> 00:44:03.161]  This is what Trump asked for.
+[00:44:05.281 --> 00:44:06.882]  But it's not just this one lady I have.
+[00:44:06.922 --> 00:44:09.442]  I saw at least five, six videos of people that saw the same thing.
+[00:44:09.882 --> 00:44:15.041]  And then there are other videos that show it, just pieces of it, and them shooting him, them jumping on top of him.
+[00:44:15.922 --> 00:44:17.643]  So again, I've done the research.
+[00:44:17.682 --> 00:44:21.322]  He was not inside the security perimeter, but it was a flimsy security perimeter.
+[00:44:21.702 --> 00:44:22.682]  So that is an issue.
+[00:44:22.762 --> 00:44:23.962]  And that's what Trump was told.
+[00:44:24.382 --> 00:44:30.183]  And the fact that he would just let his managers and the Secret Service I mean, listen.
+[00:44:32.344 --> 00:44:34.963]  The Secret Service can take over events and do whatever they want.
+[00:44:35.703 --> 00:44:51.085]  And the fact is that the officers that did fire very quickly and take him down should have been further up at the entrance or wherever, still checking, especially dudes with backpacks.
+[00:44:52.885 --> 00:44:53.445]  I mean, I know this.
+[00:44:53.505 --> 00:44:55.165]  I've been to the RNC, DNC, you name it.
+[00:44:55.185 --> 00:44:57.005]  They don't let you take backpacks and those things.
+[00:44:57.665 --> 00:45:00.165]  And if you've got camera people, they got small bags, they get searched.
+[00:45:00.465 --> 00:45:02.485]  They check your cameras, they make sure they're not really a gun.
+[00:45:02.746 --> 00:45:04.225]  They make you take the big camera apart.
+[00:45:04.866 --> 00:45:07.007]  I mean, it's this was another standout.
+[00:45:07.706 --> 00:45:12.726]  But that doesn't point towards it being staged, that points towards the staging being a standout.
+[00:45:14.246 --> 00:45:16.527]  But the buck stops with Trump rolling the dice like this.
+[00:45:16.547 --> 00:45:17.427]  And I'm not trying to bash him.
+[00:45:17.507 --> 00:45:18.507]  This is crazy town.
+[00:45:19.708 --> 00:45:25.728]  Here's one of the witnesses This military vet tells me that she saw the shooter.
+[00:45:25.947 --> 00:45:34.248]  At the White House correspondence dinner, after those shots rang out nearby, and then she saw the man fall right in front of her, a rifle and several magazines.
+[00:45:34.668 --> 00:45:35.548]  I got her on the phone.
+[00:45:36.028 --> 00:45:36.489]  Take a listen.
+[00:45:36.768 --> 00:45:39.949]  The moment you decided to step outside to make that phone call.
+[00:45:40.630 --> 00:45:40.929]  Okay.
+[00:45:41.529 --> 00:45:44.369]  So there's really bad reception, lots of cell phone pull.
+[00:45:44.429 --> 00:45:50.549]  I couldn't get any text messages out, and I just wanted to check on Alexander, and he was babysitting, so I wanted to make sure he was doing okay.
+[00:45:51.469 --> 00:45:57.690]  And so I just stepped out of the ballroom and walked up a flight of stairs.
+[00:45:57.730 --> 00:45:58.951]  I was still inside the building.
+[00:45:59.871 --> 00:46:02.350]  And I got through to him and he answered.
+[00:46:02.391 --> 00:46:08.172]  And then I heard three really loud bangs, and the gentleman fell right in front of me, face down.
+[00:46:08.711 --> 00:46:09.511]  He had a rifle.
+[00:46:09.531 --> 00:46:11.951]  The rifle fell in front of him, off to the side.
+[00:46:12.572 --> 00:46:18.712]  He was wearing magazines, like with rifle bullets that were kind of similar in fashion to a woman wearing a crossbody bag.
+[00:46:20.652 --> 00:46:22.853]  And then I just got the hell out of there.
+[00:46:22.952 --> 00:46:24.373]  I didn't stop to see if there was any blood.
+[00:46:24.413 --> 00:46:25.492]  I just ran.
+[00:46:25.792 --> 00:46:27.393]  So I ran back down the stairs.
+[00:46:28.653 --> 00:46:31.594]  You probably know by now about this cop who was shot, but.
+[00:46:31.733 --> 00:46:34.773]  Thankfully, their life was saved because they were wearing a bulletproof vest.
+[00:46:36.134 --> 00:46:40.213]  The president just put out some video of the guy running.
+[00:46:40.233 --> 00:46:40.894]  Yeah, I just saw it.
+[00:46:40.914 --> 00:46:42.734]  Yeah, sprinting past some cops.
+[00:46:43.894 --> 00:46:48.654]  And you know, you saying that he fell in front of you quite a distance would be consistent if he was running forward.
+[00:46:49.414 --> 00:46:49.855]  Yeah, yeah.
+[00:46:51.355 --> 00:46:53.235]  So at this point.
+[00:46:53.275 --> 00:46:58.635]  I saw a photo that Trump posted on True Social and it has him face down with his shirt off.
+[00:46:58.655 --> 00:46:59.795]  He had his shirt on when he fell.
+[00:47:00.195 --> 00:47:00.395]  Right.
+[00:47:00.435 --> 00:47:02.355]  I think they probably took it off for medical care or whatever.
+[00:47:03.036 --> 00:47:05.596]  But there was, there's like, you can see this like glass half wall.
+[00:47:05.996 --> 00:47:07.817]  That's where I was standing, it was right there.
+[00:47:08.676 --> 00:47:09.036]  Jeez.
+[00:47:12.116 --> 00:47:14.836]  What was it like once you got back downstairs?
+[00:47:16.536 --> 00:47:17.717]  I was a little.
+[00:47:19.257 --> 00:47:25.697]  I didn't think anybody knew, honestly, but clearly they did because when I got in, everybody's on their tables and the food was all spilled everywhere.
+[00:47:25.817 --> 00:47:33.338]  And somebody, because I was a little shocked, grabbed me and pulled me under the table close to right where the entrance was right when I got inside.
+[00:47:33.358 --> 00:47:34.239]  But I was yelling, shooters.
+[00:47:34.278 --> 00:47:35.239]  All right, let's stop here.
+[00:47:35.778 --> 00:47:36.458]  Here's clip 38.
+[00:47:36.538 --> 00:47:37.458]  It's another lady.
+[00:47:37.998 --> 00:47:39.239]  Who saw the exact same thing?
+[00:47:39.578 --> 00:47:44.179]  Again, I've literally seen so many of these, and then I've seen footage of all the pieces of it together.
+[00:47:44.219 --> 00:47:44.519]  Here it is.
+[00:47:46.039 --> 00:47:48.380]  Okay, so you're taking tickets at the terrace level?
+[00:47:48.400 --> 00:47:51.460]  Yeah, and everyone was pretty much in, and a lot of people had already gone.
+[00:47:51.480 --> 00:47:53.081]  We were doing dinner breaks and shifts.
+[00:47:53.101 --> 00:47:53.521]  Yeah.
+[00:47:53.721 --> 00:48:01.960]  And I was just out there, and there was still security there, and I was even talking to a security guard that had a dog there.
+[00:48:01.980 --> 00:48:02.782]  Yeah.
+[00:48:02.922 --> 00:48:06.001]  And there's a room, well, it was like a makeshift room.
+[00:48:06.362 --> 00:48:10.961]  I think they had it closed off to wheel in the bar carts after the reception.
+[00:48:11.181 --> 00:48:15.922]  All these numerous bar carts going into this area, I think, to go in the elevator to go down the stairs.
+[00:48:16.003 --> 00:48:16.262]  Okay.
+[00:48:16.282 --> 00:48:18.583]  So it looked like a makeshift room.
+[00:48:18.663 --> 00:48:19.402]  He, I was.
+[00:48:19.483 --> 00:48:23.603]  I mean, he was literally from me to that building.
+[00:48:24.643 --> 00:48:28.003]  And there was a security guy there, too.
+[00:48:28.103 --> 00:48:29.804]  I mean, I don't think anyone knew what he was doing.
+[00:48:30.163 --> 00:48:30.543]  Just try it.
+[00:48:30.563 --> 00:48:31.244]  What did he look like?
+[00:48:32.304 --> 00:48:33.344]  I'm not even sure.
+[00:48:33.384 --> 00:48:35.463]  What made you think he's the shooter?
+[00:48:35.583 --> 00:48:36.483]  How do you know?
+[00:48:36.503 --> 00:48:38.804]  I saw him put the gun together and start shooting.
+[00:48:39.364 --> 00:48:39.965]  Oh, my God.
+[00:48:40.144 --> 00:48:40.545]  Yes.
+[00:48:40.864 --> 00:48:47.644]  I mean, he put it together and started and ran towards the stairs to go down to the ballroom.
+[00:48:48.005 --> 00:48:49.065]  Who did he shoot in what direction?
+[00:48:49.085 --> 00:48:49.565]  Did he shoot?
+[00:48:49.824 --> 00:48:51.226]  What did he shoot?
+[00:48:51.266 --> 00:48:52.246]  I don't know what he shot.
+[00:48:52.286 --> 00:48:55.226]  It just seemed like he was shooting all over the place.
+[00:48:55.945 --> 00:48:58.246]  How far away were you when you started shooting from him?
+[00:48:59.405 --> 00:49:00.525]  From that building to here.
+[00:49:01.186 --> 00:49:02.246]  Did he shoot in your direction?
+[00:49:02.547 --> 00:49:05.266]  No, he shot like over towards that way.
+[00:49:05.306 --> 00:49:08.967]  Like the MAGAs to go in were behind me.
+[00:49:09.346 --> 00:49:14.768]  He started shooting into the Secret Service to try to run through them and make them jump on the ground.
+[00:49:14.788 --> 00:49:15.108]  They didn't.
+[00:49:15.128 --> 00:49:15.547]  They shot him.
+[00:49:15.867 --> 00:49:16.347]  Here's Trump.
+[00:49:16.367 --> 00:49:19.268]  This just came out minutes ago in 60 Minutes explaining why he stayed at the event.
+[00:49:19.467 --> 00:49:20.327]  Here it is as we go to break.
+[00:49:24.447 --> 00:49:32.929]  You see the security moving quickly, within seconds, grabbing the vice president by his coat, lifting him up, bringing him out.
+[00:49:33.668 --> 00:49:41.769]  Then the counter assault comes in, took 10 seconds for them to flank you, Mr. President, and then 20 seconds to get you out.
+[00:49:42.329 --> 00:49:43.429]  It looked chaotic.
+[00:49:43.489 --> 00:49:44.730]  At one point, you were down.
+[00:49:44.769 --> 00:49:45.449]  What was happening?
+[00:49:46.090 --> 00:49:49.050]  Well, what happened is it was a little bit me.
+[00:49:49.110 --> 00:49:53.070]  I wanted to see what was happening, and I wasn't making it that easy for him.
+[00:49:53.130 --> 00:49:54.811]  I wanted to see.
+[00:49:55.451 --> 00:49:56.271]  What was going on?
+[00:49:57.351 --> 00:49:58.210]  Yeah, I saw it.
+[00:49:58.230 --> 00:49:58.411]  Pause.
+[00:49:58.451 --> 00:49:59.730]  I'm going to come back with this next hour.
+[00:50:00.291 --> 00:50:01.530]  That's what I thought when I saw it.
+[00:50:01.550 --> 00:50:05.012]  You can see they start pushing him, and Trump pushes back, so they slam him down on the ground.
+[00:50:06.471 --> 00:50:07.532]  That's just Trump, folks.
+[00:50:07.851 --> 00:50:08.552]  I'm telling you.
+[00:50:09.471 --> 00:50:10.251]  You saw Dana White.
+[00:50:10.271 --> 00:50:10.791]  Oh, I love it.
+[00:50:10.811 --> 00:50:11.711]  This is exciting.
+[00:50:11.811 --> 00:50:13.471]  And he didn't fall down and jump down.
+[00:50:14.132 --> 00:50:15.913]  And you saw Kennedy standing up like this.
+[00:50:16.032 --> 00:50:17.032]  And I know Dana White.
+[00:50:17.313 --> 00:50:19.853]  Not well, but I've hung out with him a few times, like forever ago.
+[00:50:20.393 --> 00:50:22.992]  Dana White is a mean, badass son of a bitch.
+[00:50:23.052 --> 00:50:23.793]  Super macho.
+[00:50:23.833 --> 00:50:24.472]  It's not fake.
+[00:50:25.333 --> 00:50:26.653]  I mean, you know, he can.
+[00:50:26.673 --> 00:50:31.273]  You can tell the UFC fighters, back when he was younger, he used to brawl with them.
+[00:50:31.293 --> 00:50:33.614]  They say he could have been an MAA guy at the top.
+[00:50:34.373 --> 00:50:35.074]  He just loves it.
+[00:50:35.293 --> 00:50:36.634]  So, I mean, that's like Trump.
+[00:50:36.653 --> 00:50:37.733]  They're just maniacs.
+[00:50:38.875 --> 00:50:40.735]  And I mean, look at Dana White, he's loving it.
+[00:50:42.034 --> 00:50:43.335]  This guy, he loves excitement.
+[00:50:43.355 --> 00:50:46.715]  He goes and plays like $100,000 hands in poker, okay?
+[00:50:47.355 --> 00:50:49.195]  So that's Dana White for you.
+[00:50:49.715 --> 00:50:51.076]  All right, we'll be back with the hour two.
+[00:50:51.096 --> 00:50:53.815]  I'll go back to this Trump clip, take your phone calls and more.
+[00:50:53.855 --> 00:50:54.355]  What do you think?
+[00:50:54.376 --> 00:50:55.215]  We'll talk to you straight ahead.
+[00:50:55.516 --> 00:50:59.496]  Share the live feeds for real, Alex Show is on X, and follow me on Rumble at the Alex Show.
+[00:50:59.536 --> 00:51:00.076]  It's so important.
+[00:51:00.115 --> 00:51:00.896]  That's where you'll find us.
+[00:51:03.177 --> 00:51:05.596]  There's a fog award to all of this.
+[00:51:07.117 --> 00:51:11.496]  And when I woke up this morning, I saw Trump talking about the guy getting shot, them saying they shot at him and shot him.
+[00:51:11.516 --> 00:51:12.137]  They thought twice.
+[00:51:12.556 --> 00:51:13.536]  Now they're saying they didn't hit him.
+[00:51:13.556 --> 00:51:16.157]  So that's why there was no blood, just to correct that.
+[00:51:16.518 --> 00:51:17.637]  But that's why they stripped him down.
+[00:51:17.657 --> 00:51:19.097]  That's what they do to see if there's any weapons.
+[00:51:20.297 --> 00:51:22.177]  So we'll learn more as this unfolds.
+[00:51:22.197 --> 00:51:29.199]  We don't know all the answers right now, but it's more of a bigger discussion about why so many people do not believe anything they're told officially.
+[00:51:29.219 --> 00:51:30.338]  That's healthy overall.
+[00:51:30.378 --> 00:51:35.318]  But then you also can't just make stuff up until you have more of the answers, which we have to get ourselves.
+[00:51:36.518 --> 00:51:38.159]  We're about to go to your phone calls here in just a moment.
+[00:51:38.840 --> 00:51:39.779]  See some folks that disagree.
+[00:51:39.800 --> 00:51:40.460]  Look forward to that.
+[00:51:40.820 --> 00:51:42.500]  Marcus in Idaho is pissed off at me.
+[00:51:42.519 --> 00:51:43.760]  I need to apologize to Trump.
+[00:51:44.080 --> 00:51:44.960]  I can't wait to hear this.
+[00:51:45.520 --> 00:51:46.400]  By the way, I invite this.
+[00:51:46.460 --> 00:51:47.660]  I'm not mad you called in to be mad at me.
+[00:51:47.680 --> 00:51:48.460]  That's great radio.
+[00:51:49.520 --> 00:51:50.001]  So thanks.
+[00:51:50.581 --> 00:51:52.221]  But here's Trump on 60 Minutes.
+[00:51:54.501 --> 00:52:03.022]  You see the security moving quickly, within seconds, grabbing the vice president by his coat, lifting him up, bringing him out.
+[00:52:03.742 --> 00:52:05.862]  Then the counter assault comes in.
+[00:52:06.502 --> 00:52:11.842]  Took 10 seconds for them to flank you, Mr. President, and then 20 seconds to get you out.
+[00:52:12.402 --> 00:52:13.502]  It looked chaotic.
+[00:52:13.562 --> 00:52:14.803]  At one point, you were down.
+[00:52:14.863 --> 00:52:15.543]  What was happening?
+[00:52:16.163 --> 00:52:19.143]  Well, what happened is it was a little bit me.
+[00:52:19.182 --> 00:52:23.143]  I wanted to see what was happening, and I wasn't making it that easy for him.
+[00:52:23.203 --> 00:52:26.344]  I wanted to see what was going on.
+[00:52:27.644 --> 00:52:38.645]  And by that time, we started to realize maybe it was a bad problem, different kind of a problem, bad one, and different than what would be normal noise from a ballroom, which you hear all the time.
+[00:52:39.605 --> 00:52:46.225]  And I was surrounded by great people, and I probably made them act a little bit more slowly.
+[00:52:46.285 --> 00:52:47.065]  I said, wait a minute.
+[00:52:47.265 --> 00:52:47.965]  Wait a minute.
+[00:52:48.045 --> 00:52:48.545]  Let me see.
+[00:52:48.605 --> 00:52:49.225]  Wait a minute.
+[00:52:49.245 --> 00:52:50.246]  So, you know, I'm telling guys.
+[00:52:50.266 --> 00:52:54.226]  Just at that moment where it looks like you go sort of down with the service, you were telling them to wait.
+[00:52:54.246 --> 00:52:56.986]  Well, I know what happened is then I started walking with them.
+[00:52:57.046 --> 00:53:00.386]  I turned, I started walking, and they said, Please go down.
+[00:53:00.526 --> 00:53:01.947]  Please go down on the floor.
+[00:53:02.547 --> 00:53:05.987]  So I went down, and the First Lady went down also.
+[00:53:06.007 --> 00:53:10.587]  But we were asked to go down by the agents as I was walking.
+[00:53:10.647 --> 00:53:12.227]  In other words, they wanted you almost to crawl.
+[00:53:12.247 --> 00:53:13.727]  I was standing up, pretty much.
+[00:53:14.108 --> 00:53:21.528]  I was standing up and then turned around the opposite direction and started pretty much walking out.
+[00:53:22.208 --> 00:53:27.769]  Pretty tall, a little bent over because I, you know, I'm not looking to be standing too tall.
+[00:53:28.789 --> 00:53:30.409]  And, but I was walking out.
+[00:53:30.629 --> 00:53:32.409]  It was pretty, about halfway there.
+[00:53:32.449 --> 00:53:34.029]  And they said, please go down to the floor.
+[00:53:34.049 --> 00:53:35.129]  Please go down to the floor.
+[00:53:35.149 --> 00:53:36.749]  So I dropped to the floor.
+[00:53:36.769 --> 00:53:37.729]  So did the first lady.
+[00:53:38.930 --> 00:53:41.870]  Which is what you do when you're getting shot at if you don't think you can make it to cover.
+[00:53:43.850 --> 00:53:46.310]  So I want to hit one more clip when we come back.
+[00:53:46.350 --> 00:53:46.790]  It's brief.
+[00:53:48.630 --> 00:53:53.911]  Because people immediately said, look, this weird guy's showing him cards, like some secret message.
+[00:53:54.111 --> 00:53:55.791]  And they're all scared by what they read.
+[00:53:55.911 --> 00:53:59.931]  No, they're looking at the card when they hear the gunshots at the entrance to the ballroom.
+[00:53:59.990 --> 00:54:01.091]  He never made it into the ballroom.
+[00:54:02.052 --> 00:54:04.392]  He got tackled and apprehended before he got in.
+[00:54:04.632 --> 00:54:05.872]  That's an official map.
+[00:54:06.932 --> 00:54:08.812]  So we'll go to break.
+[00:54:08.872 --> 00:54:21.093]  I'll come back with the weird scene with the magician and the famous clip of him predicting Joe Rogan's pin for his debit card.
+[00:54:22.313 --> 00:54:25.693]  And I remember years ago when this happened, I was having dinner with Joe, and his buddies were there.
+[00:54:26.314 --> 00:54:28.254]  They're saying, How do you think that guy had your PIN number?
+[00:54:28.334 --> 00:54:33.034]  He was like, I think he's probably a spook, and they were able to get into my computer or something.
+[00:54:33.054 --> 00:54:33.894]  I know what he was talking about.
+[00:54:34.514 --> 00:54:36.654]  Then later I found out on air he basically said that.
+[00:54:37.855 --> 00:54:44.415]  But yeah, I don't know how this guy does this, but he's this Israeli literal mind reader wizard guy.
+[00:54:45.875 --> 00:54:49.175]  And you know, all the intelligence agencies have access to all that stuff.
+[00:54:49.395 --> 00:54:50.436]  I'm not accusing him of that.
+[00:54:50.556 --> 00:54:52.696]  That's what I think is a serious probability.
+[00:54:54.276 --> 00:54:58.776]  But they were in there guessing the name of Caroline Levitt's new baby that she hasn't told anybody the name of.
+[00:54:59.396 --> 00:55:00.856]  And reportedly, he predicted it correctly.
+[00:55:01.716 --> 00:55:04.977]  I thought when they showed it, it looked like Vatican, but it said it's the name of the baby.
+[00:55:06.537 --> 00:55:18.778]  So we'll show that when we come back on the other side and then go right to Moose, Marcos, Meg, Tim, John, Marie, Max, Jason, Kevin, Dave, Evan.
+[00:55:20.218 --> 00:55:22.658]  And if I can jam in even more calls, I'll do it.
+[00:55:22.718 --> 00:55:24.338]  So we're going to try to be brief as we can.
+[00:55:24.898 --> 00:55:28.359]  Just have your points ready so we get to more great callers on the other side.
+[00:55:28.379 --> 00:55:34.399]  But just remember, Thursday looks like the last day of InfoWars, as this, but the InfoWar belongs to you.
+[00:55:34.459 --> 00:55:37.459]  It just goes to the next level through Alex Jones Live and the Alex Jones Network.
+[00:55:38.340 --> 00:55:41.500]  But just know that it's going to be a big day Thursday.
+[00:55:41.540 --> 00:55:42.880]  We're going to go until late into the night.
+[00:55:43.400 --> 00:55:44.519]  A lot of special guests coming up.
+[00:55:44.539 --> 00:55:45.140]  Be sure and join us.
+[00:55:45.920 --> 00:55:48.400]  All right, we're trying to decipher what happened last night.
+[00:55:49.661 --> 00:55:52.521]  Got a bunch of other news I'm going to be interspersing as well, we haven't gotten to yet.
+[00:55:53.760 --> 00:55:56.760]  But I believe that this was a real attempt on Trump's life.
+[00:55:56.800 --> 00:55:58.061]  It's no secret the Democrats want to kill him.
+[00:55:58.081 --> 00:56:01.442]  The guy was a leftist, Democrat donor, voted for Kamala Harris, on and on and on.
+[00:56:02.082 --> 00:56:11.862]  Got into the hotel two days before as a guest, cased it out, waited until all the big lines got in, then waited until security was more relaxed, ran through him, and got tackled and stopped before he got in the ballroom.
+[00:56:12.442 --> 00:56:13.663]  They'd falsely reported they'd shot him.
+[00:56:13.682 --> 00:56:15.702]  They shot at him, but they didn't hit him.
+[00:56:15.742 --> 00:56:16.003]  So.
+[00:56:18.663 --> 00:56:29.704]  This is a few years ago with Oz Perlman, a mentalist, an Israeli American mentalist, magician, endurance athlete, and Emmy Award winning entertainer.
+[00:56:31.264 --> 00:56:36.003]  Born on July 1962 in Israel, early life education.
+[00:56:36.184 --> 00:56:37.625]  Basically, they say he's a mind reader.
+[00:56:40.065 --> 00:56:40.744]  And here he is.
+[00:56:41.265 --> 00:56:43.085]  And this really happened because Joe does the stage stuff.
+[00:56:43.265 --> 00:56:44.425]  Joe got pissed about this.
+[00:56:45.265 --> 00:56:47.905]  Like I said, I literally heard him talk about it before I'd even seen this clip.
+[00:56:49.385 --> 00:56:50.405]  So I was like, who are you talking about?
+[00:56:50.425 --> 00:56:52.066]  The guy could read your debit card.
+[00:56:52.086 --> 00:56:52.925]  We're sitting there eating steaks.
+[00:56:52.945 --> 00:56:53.846]  I'm like, I don't even believe that.
+[00:56:54.726 --> 00:56:55.846]  You know, knew your passcode?
+[00:56:57.526 --> 00:56:59.786]  And Joe thought it was some inside baseball or something.
+[00:57:00.806 --> 00:57:10.567]  But this is what he was doing with Caroline Levitt, guessing the name, and reportedly he guessed it correctly, of her baby that isn't going to be born for a month or so.
+[00:57:11.247 --> 00:57:13.307]  So here is the clip of him on Joe Rogan.
+[00:57:15.508 --> 00:57:16.568]  You know, I'm screwed, Calc.
+[00:57:16.648 --> 00:57:17.668]  I want it to be spontaneous.
+[00:57:17.768 --> 00:57:19.168]  Would your wife know your ATM pin code?
+[00:57:19.208 --> 00:57:19.327]  No.
+[00:57:19.668 --> 00:57:19.887]  No.
+[00:57:20.988 --> 00:57:21.407]  Lie to me.
+[00:57:21.708 --> 00:57:23.548]  Do not tell me your real ATM pin code.
+[00:57:23.887 --> 00:57:24.168]  Okay.
+[00:57:24.228 --> 00:57:25.548]  Obviously, unless you want to.
+[00:57:26.149 --> 00:57:29.608]  Make up a fake four digit number off the top of your head.
+[00:57:29.628 --> 00:57:35.849]  What feels to you utterly spontaneous when I say go one, two, three, four digit code, random, go.
+[00:57:36.289 --> 00:57:36.509]  Okay.
+[00:57:36.608 --> 00:57:37.849]  Say it 2020.
+[00:57:38.050 --> 00:57:38.510]  2020.
+[00:57:38.590 --> 00:57:38.829]  Okay.
+[00:57:39.690 --> 00:57:41.010]  So you ask me, how do I do what I do?
+[00:57:41.470 --> 00:57:42.849]  I'm going to write down 2020.
+[00:57:43.070 --> 00:57:43.349]  Okay.
+[00:57:47.230 --> 00:57:51.570]  It's weird, but statistically, men will lie bigger, women smaller.
+[00:57:52.110 --> 00:57:53.671]  Men like fly by saying things are bigger, right?
+[00:57:53.691 --> 00:57:54.171]  No shocker.
+[00:57:54.431 --> 00:57:54.550]  Okay.
+[00:57:54.570 --> 00:58:01.132]  So I don't think I would tell you right off the jump for me that that means that your first number, you don't have to say anything yet.
+[00:58:01.632 --> 00:58:02.892]  I wrote 2020, is smaller.
+[00:58:03.032 --> 00:58:04.632]  That's what most people do when they're rushed.
+[00:58:04.692 --> 00:58:06.632]  If I had given you five minutes, you would have done this different.
+[00:58:06.852 --> 00:58:07.432]  No, I wouldn't have.
+[00:58:07.731 --> 00:58:08.352]  No, you would have.
+[00:58:08.452 --> 00:58:09.711]  Why would I have?
+[00:58:09.872 --> 00:58:12.512]  Because you would have thought about it and then people go down a different path.
+[00:58:12.632 --> 00:58:12.791]  Nope.
+[00:58:13.052 --> 00:58:13.233]  Nope?
+[00:58:13.432 --> 00:58:13.593]  Nope.
+[00:58:13.733 --> 00:58:14.073]  Okay.
+[00:58:14.113 --> 00:58:15.093]  Worked out for me either way.
+[00:58:15.532 --> 00:58:16.593]  You'll be honest if I'm right.
+[00:58:17.273 --> 00:58:17.552]  Okay.
+[00:58:19.233 --> 00:58:21.432]  I got a hit, which means it's a zero or one.
+[00:58:21.532 --> 00:58:23.213]  I think the first number of your code's a one, isn't it?
+[00:58:23.233 --> 00:58:23.952]  Your real pin code.
+[00:58:26.934 --> 00:58:28.293]  My ATM pin code.
+[00:58:29.094 --> 00:58:30.193]  Why would I tell you that on the air?
+[00:58:30.834 --> 00:58:32.274]  Should I only show this to you?
+[00:58:32.693 --> 00:58:32.974]  Sure.
+[00:58:33.253 --> 00:58:33.874]  Only show it to you?
+[00:58:34.173 --> 00:58:34.434]  Yeah.
+[00:58:34.474 --> 00:58:36.634]  Can we acquiesce that the first number I got was correct?
+[00:58:36.713 --> 00:58:36.954]  Yes.
+[00:58:37.195 --> 00:58:37.474]  Okay.
+[00:58:38.075 --> 00:58:39.894]  Now, you did repetition.
+[00:58:40.335 --> 00:58:45.375]  So I like the fact when people always say to me it's fake when they watch the videos, they're like, you must have set up.
+[00:58:45.615 --> 00:58:47.075]  Joe doesn't even want this to happen right now.
+[00:58:47.115 --> 00:58:48.175]  He had no idea this was going to happen.
+[00:58:48.655 --> 00:58:50.376]  You used two numbers in repeats.
+[00:58:50.655 --> 00:58:52.476]  What that means is you probably did the same thing.
+[00:58:52.496 --> 00:58:53.756]  You also didn't use any of the same numbers.
+[00:58:53.876 --> 00:58:55.476]  I know there's not a two, a zero, or a two in it.
+[00:58:55.576 --> 00:58:56.376]  I don't think so either.
+[00:58:56.655 --> 00:58:56.936]  Mm hmm.
+[00:58:58.235 --> 00:58:59.256]  And I'm watching you while I say it.
+[00:58:59.276 --> 00:59:01.297]  You put the hand up, you might as well have said yes to me out loud.
+[00:59:01.317 --> 00:59:01.876]  So now I know.
+[00:59:02.797 --> 00:59:06.457]  Think of the second number, third number, fourth number.
+[00:59:06.637 --> 00:59:08.177]  Every time you did it, it's a data point.
+[00:59:09.657 --> 00:59:09.777]  Okay.
+[00:59:09.797 --> 00:59:13.438]  I'm only going to ask you one more question.
+[00:59:13.498 --> 00:59:14.617]  I'm not looking for answers.
+[00:59:14.838 --> 00:59:16.218]  The last number is the biggest, isn't it?
+[00:59:17.358 --> 00:59:17.557]  Yeah.
+[00:59:17.718 --> 00:59:17.978]  Yeah.
+[00:59:18.418 --> 00:59:19.177]  I'm showing this to you.
+[00:59:20.698 --> 00:59:21.458]  Is there a camera behind me?
+[00:59:21.478 --> 00:59:21.998]  I don't want to make sure.
+[00:59:22.018 --> 00:59:22.718]  I'm only going to show it to you.
+[00:59:25.298 --> 00:59:26.119]  It's not 2020.
+[00:59:27.139 --> 00:59:27.759]  How'd I do, Joe?
+[00:59:27.798 --> 00:59:28.798]  Is that your ATM pin code?
+[00:59:28.858 --> 00:59:29.159]  Yeah.
+[00:59:32.959 --> 00:59:33.599]  That's weird.
+[00:59:36.159 --> 00:59:38.960]  I'm skeptical because I've got that pin code in the mail.
+[00:59:40.539 --> 00:59:40.960]  You know?
+[00:59:41.880 --> 00:59:43.941]  He's calling his bank right now and be like, Yo, do you know this?
+[00:59:44.001 --> 00:59:45.222]  Has this guy been playing the long game?
+[00:59:45.242 --> 00:59:46.141]  Yeah, I don't like that.
+[00:59:47.842 --> 00:59:50.744]  All right, we're going to go now to him doing it last night.
+[00:59:50.764 --> 00:59:51.885]  And people are like, Who's this guy?
+[00:59:52.025 --> 00:59:52.965]  Secret code words.
+[00:59:53.405 --> 00:59:57.766]  They were threatening him, showing him these notes, you know, just all this made up stuff.
+[00:59:59.268 --> 01:00:00.769]  And now you know what it actually was.
+[01:00:00.849 --> 01:00:12.074]  But, you know, here he is accurately, they're now saying, predicting the name of Caroline Levitt's new baby girl that no one knew.
+[01:00:12.114 --> 01:00:13.293]  It was a girl, no one knew the name.
+[01:00:14.355 --> 01:00:15.655]  And this guy is an Israeli.
+[01:00:15.695 --> 01:00:17.316]  Yeah, I wonder how they really got it.
+[01:00:18.215 --> 01:00:20.217]  Oh, he's just magically knowing all this.
+[01:00:20.297 --> 01:00:21.157]  Sure, you are, pal.
+[01:00:22.617 --> 01:00:23.199]  Maybe he is.
+[01:00:23.778 --> 01:00:25.159]  Maybe he's Karnak reincarnated.
+[01:00:25.219 --> 01:00:25.619]  Here it is.
+[01:01:01.148 --> 01:01:02.469]  Appreciate himself with world leaders.
+[01:01:05.826 --> 01:01:08.769]  The most reasonable thing is that he's some kind of Mossad operative.
+[01:01:08.789 --> 01:01:13.454]  They have databases of everything, everybody's PIN codes, just like the NSA access everything, and you can do that.
+[01:01:15.776 --> 01:01:18.759]  Or he just magically can just do all this.
+[01:01:25.360 --> 01:01:26.340]  All right, so there you go.
+[01:01:26.420 --> 01:01:28.160]  Now let's take your phone calls.
+[01:01:28.900 --> 01:01:30.780]  I'm going to take these in the order they're received.
+[01:01:32.121 --> 01:01:34.081]  So the first caller is Moose, then Marcos.
+[01:01:35.041 --> 01:01:37.021]  Moose in Virginia on last night.
+[01:01:37.061 --> 01:01:37.760]  What do you think?
+[01:01:38.621 --> 01:01:39.581]  You think I'm accurate?
+[01:01:39.601 --> 01:01:40.481]  You think I'm wrong?
+[01:01:40.501 --> 01:01:41.021]  What do you think?
+[01:01:42.501 --> 01:01:45.622]  Well, hey, it did talk to you, Alex.
+[01:01:46.002 --> 01:01:48.182]  So can you hear me?
+[01:01:48.402 --> 01:01:48.702]  Yes, sir.
+[01:01:49.842 --> 01:01:50.542]  Okay, good.
+[01:01:50.702 --> 01:01:57.423]  So I believe that, well, it's kind of funny how Trump came out right after this.
+[01:01:57.983 --> 01:02:00.923]  And he was talking about how he needs a new ballroom.
+[01:02:01.383 --> 01:02:06.363]  And I think this is a perfect play to get the new ballroom built.
+[01:02:06.844 --> 01:02:15.564]  You know, before it was being held up by Congress or whoever, and now he has the perfect opportunity to build this ballroom.
+[01:02:17.364 --> 01:02:24.144]  Now, I've seen a lot of stuff people saying that there's like a huge underground stuff.
+[01:02:24.905 --> 01:02:28.125]  I don't know what it's really for, but.
+[01:02:28.845 --> 01:02:32.206]  I think it really gives him a good opportunity to really build this.
+[01:02:32.326 --> 01:02:41.546]  So, if it isn't staged, it's really funny how he came out right after this and was talking about how he needs a new ballroom now.
+[01:02:42.186 --> 01:02:43.667]  No, I hear you, and I appreciate your call.
+[01:02:44.547 --> 01:02:49.967]  That was the first thing that was on Drudge this morning when I got up at 2 30, and everybody was saying, Why do you bring up a ballroom?
+[01:02:50.027 --> 01:02:55.807]  He's obsessed with building buildings, he's obsessed with renovating the White House, he's always been obsessed with fixing things.
+[01:02:55.827 --> 01:03:01.788]  That's why he bought the old U.S. Post Office that was being demolished and built a new hotel there in D.C.
+[01:03:03.648 --> 01:03:04.888]  They need it for security.
+[01:03:04.988 --> 01:03:08.629]  Every other major government has a professional government ballroom.
+[01:03:09.429 --> 01:03:10.869]  And you've heard of underground bases.
+[01:03:10.889 --> 01:03:11.709]  That's not speculation.
+[01:03:12.209 --> 01:03:12.989]  Trump's admitted it.
+[01:03:13.369 --> 01:03:16.129]  They've got an underground railway station that goes all over the place under there.
+[01:03:16.149 --> 01:03:17.089]  That's declassified.
+[01:03:17.329 --> 01:03:18.449]  Where it goes is secret.
+[01:03:19.830 --> 01:03:23.490]  You've got them wanting bigger bunkers for nuclear attacks.
+[01:03:23.510 --> 01:03:27.410]  So they're kind of using the construction of that as the cover for the underground base.
+[01:03:27.490 --> 01:03:31.171]  And Trump admitted that to stop the lawsuit to get it done.
+[01:03:31.191 --> 01:03:34.731]  But I don't see how he would order someone to try to come kill him.
+[01:03:35.191 --> 01:03:39.731]  Shooting a shotgun at people and shooting a Secret Service agent so he'd get his ballroom.
+[01:03:40.191 --> 01:03:42.932]  I think he was literally saying, See, we need a real secure facility.
+[01:03:43.872 --> 01:03:49.112]  So, I mean, I just think that's just common sense, but I see why people say it.
+[01:03:49.752 --> 01:03:51.312]  So, I'm not saying you're wrong to think that.
+[01:03:51.692 --> 01:03:52.132]  Good points.
+[01:03:53.072 --> 01:03:55.952]  All right, Marcos in Idaho, who's mad at me, he says.
+[01:03:56.013 --> 01:03:56.613]  Go ahead, Marcos.
+[01:03:58.493 --> 01:03:59.932]  You crazy bastard.
+[01:04:01.193 --> 01:04:06.373]  The whole thing about Owen, when Owen Schroeder, the great Owen Schroeder, went.
+[01:04:07.094 --> 01:04:22.394]  South is because you guys were telling him that you hated Trump, and you're just, and that was the same thing that that little guy that you have on there started hating on Trump and hating on Israel.
+[01:04:23.475 --> 01:04:27.575]  You guys have got to stop just hating on people.
+[01:04:27.595 --> 01:04:32.016]  I mean, like, really, the ridiculousness.
+[01:04:32.155 --> 01:04:35.615]  Trump is the best president that you've ever had.
+[01:04:36.476 --> 01:04:42.536]  Things that he can do for our country and the nation and the future using his power.
+[01:04:42.957 --> 01:04:43.117]  Sure.
+[01:04:43.137 --> 01:04:46.717]  Well, let me stop because I want to hear what you have to say, but I want to understand what you're saying.
+[01:04:47.297 --> 01:04:49.217]  Owen Schroeder, nice guy, whatever.
+[01:04:49.417 --> 01:04:49.937]  He quit.
+[01:04:49.997 --> 01:04:50.377]  He left.
+[01:04:50.437 --> 01:04:51.237]  I didn't fire him.
+[01:04:52.697 --> 01:04:54.417]  And I was being more pro Trump.
+[01:04:54.878 --> 01:04:55.938]  He was bashing Trump.
+[01:04:56.518 --> 01:04:59.698]  I had disagreed with him on air saying, I think Owen's too black pilled.
+[01:04:59.738 --> 01:05:01.178]  That wasn't controlling what Owen said.
+[01:05:01.698 --> 01:05:04.178]  Owen had another sponsor, thought he'd make more money, wanted to go do it.
+[01:05:04.498 --> 01:05:05.298]  That's why he did that.
+[01:05:05.358 --> 01:05:09.499]  I got mad at Owen because he implied I censored him and never said it, which wasn't true.
+[01:05:10.338 --> 01:05:18.840]  Um, And then I'm not somebody that, like I say, has a hard on for Israel, but now Israel's foreign policy is being controlled by Israel.
+[01:05:19.960 --> 01:05:23.220]  Basically, the U.S. ambassador is now an ambassador from Israel, Mike Huckabee.
+[01:05:23.520 --> 01:05:28.420]  Israel did lie to us with intelligence about Iran planning a U.S. strike, according to the Pentagon.
+[01:05:28.440 --> 01:05:30.081]  That's confirmed.
+[01:05:30.541 --> 01:05:36.541]  And I don't like anybody the U.K., Germany, the EU, the Chinese, the Israelis running our foreign policy.
+[01:05:37.041 --> 01:05:38.601]  You say I'm hating on people.
+[01:05:39.101 --> 01:05:41.602]  We're 58 days into this war, as I predicted.
+[01:05:41.922 --> 01:05:42.982]  The Mullahs didn't fall.
+[01:05:43.262 --> 01:05:44.522]  The Strait of Hormuz is closed.
+[01:05:45.022 --> 01:05:46.662]  It's going to kill Trump's recovery.
+[01:05:46.722 --> 01:05:48.622]  Interest rates are going to go up.
+[01:05:48.862 --> 01:05:49.902]  Inflation's going up.
+[01:05:50.742 --> 01:05:53.223]  Consumer sentiments are the lowest in 30 years.
+[01:05:53.923 --> 01:05:59.143]  I mean, how is it hateful to say we shouldn't have Israel drag us into larger wars?
+[01:05:59.723 --> 01:06:00.363]  How is that bad?
+[01:06:03.723 --> 01:06:04.783]  You think it's Israel?
+[01:06:05.103 --> 01:06:12.264]  Personally, I think it's the whole globalist system that has decided what is happening.
+[01:06:12.584 --> 01:06:15.424]  And the globalist system is totally broken.
+[01:06:15.724 --> 01:06:23.585]  So Trump is reinvigorating the system of the world to make it a better system.
+[01:06:23.605 --> 01:06:23.825]  Okay, okay.
+[01:06:23.885 --> 01:06:25.225]  How am I being hateful?
+[01:06:25.625 --> 01:06:29.666]  Saying that Trump was lied to about intelligence, that the war would end in four days.
+[01:06:30.626 --> 01:06:32.086]  I've been proven right.
+[01:06:32.206 --> 01:06:33.266]  How is it hateful?
+[01:06:34.166 --> 01:06:38.286]  Because it's, I mean, even the Secretary of State said Israel struck first to force us to strike.
+[01:06:38.306 --> 01:06:40.006]  Do you think Marco Rubio's lying?
+[01:06:43.367 --> 01:06:44.427]  I think Trump is right.
+[01:06:45.367 --> 01:06:46.447]  I think Trump is right.
+[01:06:46.507 --> 01:06:48.387]  He's got a plan.
+[01:06:49.447 --> 01:06:51.087]  Okay, maybe so.
+[01:06:51.547 --> 01:06:52.227]  Maybe so.
+[01:06:52.727 --> 01:06:55.848]  Why has he declared victory 29 times and said the strait's been opened 10 times?
+[01:07:01.628 --> 01:07:04.008]  The man is beyond me.
+[01:07:04.068 --> 01:07:05.008]  I don't know.
+[01:07:05.229 --> 01:07:11.189]  Okay, so is he playing 3D chess, 5,000D chess, 1 trillion chess, 87 trillion chess?
+[01:07:11.549 --> 01:07:13.509]  What level of godlike chess is he playing?
+[01:07:14.109 --> 01:07:23.350]  I think he's a great president who is remaking the whole global system that will be better for us for 100 years.
+[01:07:25.970 --> 01:07:30.851]  Well, I've said that it's in our hemisphere and gunboat diplomacy and Monroe Doctrine.
+[01:07:32.191 --> 01:07:39.811]  And Barbary pirate policy to do what he did with Maduro to take down Cuba and the Chinese in our hemisphere.
+[01:07:39.831 --> 01:07:41.972]  And I said it's dangerous, but he has the right.
+[01:07:42.652 --> 01:07:43.952]  And so far that's gone okay.
+[01:07:44.592 --> 01:07:45.512]  Still remains to be seen.
+[01:07:46.092 --> 01:07:49.132]  But bringing a campaign promise to go to full war with Iran.
+[01:07:49.352 --> 01:07:50.252]  Remember Midnight Hammer?
+[01:07:50.312 --> 01:07:53.293]  He promised their whole nuclear thing was destroyed and it was all done.
+[01:07:53.313 --> 01:07:57.773]  And I said, you know, back when it happened in June, that I think it's a setup.
+[01:07:57.793 --> 01:07:59.113]  We're going to go to full war the next year.
+[01:07:59.853 --> 01:08:03.353]  I mean, did Trump not run on not going to full war with Iran and say Kamala?
+[01:08:03.613 --> 01:08:05.774]  We'll get us into a full war with Iran, and that's a terrible idea.
+[01:08:06.094 --> 01:08:07.154]  I mean, I can play those clips.
+[01:08:07.174 --> 01:08:08.054]  Do you remember Trump saying that?
+[01:08:10.454 --> 01:08:12.414]  I think that was against Paul Pelosi.
+[01:08:12.974 --> 01:08:17.475]  Midnight Hammer was against Paul Pelosi.
+[01:08:17.755 --> 01:08:18.815]  Paul Pelosi?
+[01:08:19.074 --> 01:08:20.195]  What is Paul Pelosi?
+[01:08:21.355 --> 01:08:21.635]  Oh, okay.
+[01:08:21.675 --> 01:08:22.414]  I appreciate your call.
+[01:08:23.635 --> 01:08:27.975]  You're saying because a guy beat him up at midnight with a hammer, we blew up Iran.
+[01:08:28.855 --> 01:08:29.836]  Oh, don't hang up on Marcos.
+[01:08:30.235 --> 01:08:34.775]  Marcos, you're saying we bombed Iran to do something to Paul Pelosi?
+[01:08:37.155 --> 01:08:38.956]  No, that's a joke.
+[01:08:40.115 --> 01:08:40.976]  I appreciate your call, man.
+[01:08:40.996 --> 01:08:42.417]  If you're not serious, I'm done, okay?
+[01:08:42.476 --> 01:08:43.157]  Just seriously.
+[01:08:44.476 --> 01:08:48.817]  I said back then this is them getting their nose under the tin flap for full war, which it was.
+[01:08:49.137 --> 01:08:50.537]  They were pushing for full war then.
+[01:08:50.837 --> 01:08:52.137]  They want us to do a nuclear attack.
+[01:08:52.277 --> 01:08:53.818]  Israel wants a green light for nuclear attack.
+[01:08:54.097 --> 01:08:54.958]  That's crazy.
+[01:08:55.938 --> 01:09:01.578]  And if Trump wants to launch a preemptive nuclear attack on Iran that goes from bad to worse, I do want the 25th Amendment.
+[01:09:02.618 --> 01:09:06.359]  I don't want the 25th Amendment if he tries to start a nuclear war, damn right.
+[01:09:07.958 --> 01:09:10.079]  You guys need to be serious about this stuff, okay?
+[01:09:10.099 --> 01:09:10.779]  This ain't funny.
+[01:09:13.199 --> 01:09:17.680]  I asked you a question Was Midnight Hammer supposedly took out their nuclear system and was over?
+[01:09:17.960 --> 01:09:18.940]  I said, That's a setup.
+[01:09:19.000 --> 01:09:19.360]  It's not.
+[01:09:19.740 --> 01:09:20.400]  Was I right or not?
+[01:09:20.400 --> 01:09:24.760]  You make a joke about Paul Pelosi, Nancy Pelosi's pervert husband.
+[01:09:26.320 --> 01:09:27.301]  Thanks for the call, Marcos.
+[01:09:27.501 --> 01:09:28.221]  Good God, man.
+[01:09:28.281 --> 01:09:29.201]  You got to get serious here.
+[01:09:29.441 --> 01:09:31.001]  This is, whatever.
+[01:09:33.721 --> 01:09:35.601]  It's like such a joke to you guys, all this stuff.
+[01:09:36.741 --> 01:09:45.442]  And like, Mark Levin, I don't know how the military works, but I think we can take the country with just a few thousand troops and we need to use nuclear weapons.
+[01:09:47.342 --> 01:09:53.543]  And Trump's firing the head of the Navy and firing all these people because they told him the truth.
+[01:09:55.823 --> 01:09:56.703]  Not good, folks.
+[01:09:56.763 --> 01:09:57.223]  Not good.
+[01:09:57.463 --> 01:09:59.783]  M.E.G. from Florida.
+[01:09:59.803 --> 01:10:01.743]  You're on the air, M.E.G. Thanks for calling.
+[01:10:01.763 --> 01:10:04.804]  Go ahead.
+[01:10:04.844 --> 01:10:06.164]  From Florida.
+[01:10:08.104 --> 01:10:11.004]  Listen, I think you're dead on.
+[01:10:11.364 --> 01:10:13.084]  I don't think this was a false flag.
+[01:10:13.264 --> 01:10:17.805]  I think I'm just beyond.
+[01:10:18.185 --> 01:10:19.705]  Well, what is the false flag?
+[01:10:19.845 --> 01:10:24.465]  A guy checks in, a liberal with a shotgun, rushes through the magnetometers and gets taken down.
+[01:10:24.545 --> 01:10:25.365]  I mean, it's right there.
+[01:10:26.746 --> 01:10:27.346]  Exactly.
+[01:10:27.406 --> 01:10:28.786]  I mean, what's the false plan?
+[01:10:29.026 --> 01:10:41.027]  I mean, the only thing that I can think of is the pending investigation into the Southern Poverty Law Center, which I really hope they appoint a much better attorney general to look at this.
+[01:10:42.347 --> 01:10:45.087]  I don't have any confidence in Todd Blanch and looking into this.
+[01:10:45.207 --> 01:10:53.928]  I don't have any confidence in Todd Blanch into looking into this shooting that happened last night at the White House Correspondents' Dinner.
+[01:10:53.968 --> 01:10:54.748]  I really don't.
+[01:10:56.668 --> 01:10:57.768]  I totally agree with you.
+[01:10:58.828 --> 01:10:59.728]  And look, isn't it weird?
+[01:10:59.808 --> 01:11:02.288]  This guy works at the Jet Propulsion Laboratory where all these people are dying.
+[01:11:02.589 --> 01:11:03.929]  Trump's trying to do real disclosure.
+[01:11:03.949 --> 01:11:04.469]  We've confirmed.
+[01:11:04.829 --> 01:11:05.209]  Who knows?
+[01:11:05.249 --> 01:11:07.369]  They may have sent this guy in as some engineering candidate.
+[01:11:09.209 --> 01:11:13.849]  Well, and also, you're saying that he donated to Kamala Harris?
+[01:11:14.189 --> 01:11:17.250]  Well, guess who also funds Kamala Harris?
+[01:11:17.710 --> 01:11:18.450]  George Soros.
+[01:11:19.150 --> 01:11:21.850]  And you know who George Soros is also part of?
+[01:11:22.190 --> 01:11:23.410]  Southern Poverty Law Center.
+[01:11:23.630 --> 01:11:25.210]  He's one of their biggest donors.
+[01:11:26.851 --> 01:11:29.551]  I mean, I don't know what's next.
+[01:11:29.731 --> 01:11:30.751]  And I'm real scared.
+[01:11:30.831 --> 01:11:33.671]  And this war in Iran, this is not what I voted for.
+[01:11:34.011 --> 01:11:37.151]  I didn't vote for Benjamin Netanyahu to be president.
+[01:11:37.171 --> 01:11:38.752]  I voted for President Trump.
+[01:11:38.932 --> 01:11:39.332]  Me too.
+[01:11:39.372 --> 01:11:44.172]  Listen, 58 days ago when it started, I don't know if you saw that Saturday show, I said, I don't like the mullahs.
+[01:11:44.272 --> 01:11:45.232]  I hope Israel's right.
+[01:11:45.252 --> 01:11:45.852]  I hope it works.
+[01:11:46.972 --> 01:11:49.812]  But it was only the intelligence head and deputy head.
+[01:11:50.092 --> 01:11:52.293]  The IDF told Trump it wasn't going to work.
+[01:11:53.593 --> 01:11:54.193]  And don't do it.
+[01:11:54.553 --> 01:11:55.413]  The IDF.
+[01:11:55.993 --> 01:11:57.473]  Oh, I guess they work for Qatar too.
+[01:11:59.213 --> 01:12:00.933]  Well, and the thing that gets me are.
+[01:12:01.113 --> 01:12:18.535]  Because I was listening to, I was, I tuned into a live stream earlier this morning and they're saying, well, I think it was stage and the fact that they rushed JD Vance first before Trump and the real Erica Kirk is like, are you?
+[01:12:19.935 --> 01:12:33.176]  Oh, I woke up this morning at 2 30 and immediately saw videos where people are saying they did this to make Erica Kirk look real, like she really thinks she's getting death threats because she didn't do an event over death threats.
+[01:12:33.376 --> 01:12:34.636]  It's like everything's Erica Kirk.
+[01:12:35.056 --> 01:12:40.237]  If you can connect it to Erica, which is fine to criticize Erica Kirk, all her crying, all of it, she's her own worst enemy.
+[01:12:40.257 --> 01:12:46.677]  But just to like, I got a clip coming up next segment where they just connect her to everything because they think it does get clicks.
+[01:12:47.337 --> 01:12:49.817]  But I mean, what does Erica Kirk have to do with this guy last night?
+[01:12:50.137 --> 01:12:51.818]  But that was the trending thing.
+[01:12:52.258 --> 01:12:54.458]  They did it for Erica Kirk, and they don't even explain it.
+[01:12:54.898 --> 01:12:57.938]  And I saw influencer after influencer with like millions of views.
+[01:12:58.558 --> 01:12:59.818]  So this happened at nine o'clock at night.
+[01:12:59.838 --> 01:13:05.919]  By the time I wake up at three o'clock in the morning, millions of views saying, Erica Kirk staged this to make herself look credible.
+[01:13:06.099 --> 01:13:07.579]  They don't even explain what that means.
+[01:13:07.619 --> 01:13:08.779]  How crazy is that?
+[01:13:10.179 --> 01:13:18.160]  And the whole Erica Kirk thing and the Candace Owens thing, I look at it as the valedictorian picking a fight with the head cheerleader.
+[01:13:18.460 --> 01:13:20.940]  It's just, it's real stupid to just go after her.
+[01:13:21.280 --> 01:13:24.221]  I'm not a fan of Erica Kirk by any stretch of the imagination.
+[01:13:24.261 --> 01:13:24.841]  No, I get it.
+[01:13:24.881 --> 01:13:26.821]  But, like, how is that all anybody talks about?
+[01:13:27.161 --> 01:13:28.241]  It's like, exactly.
+[01:13:28.261 --> 01:13:31.541]  Like, how is Erica Kirk, like, why was she there?
+[01:13:31.601 --> 01:13:34.021]  Well, it's the biggest event of the Republicans this year.
+[01:13:34.041 --> 01:13:34.901]  I mean, what does that mean?
+[01:13:34.961 --> 01:13:41.462]  It's like, well, she was there, so they staged it to make it look like the death threats are real.
+[01:13:41.522 --> 01:13:41.762]  What?
+[01:13:42.362 --> 01:13:43.822]  There's a bunch of people trying to kill Trump.
+[01:13:43.842 --> 01:13:44.702]  I mean, that's what I'm saying.
+[01:13:44.722 --> 01:13:47.962]  It's these weird, like, we're on LSD or something.
+[01:13:48.022 --> 01:13:49.023]  It's like, what?
+[01:13:49.123 --> 01:13:49.343]  What?
+[01:13:49.663 --> 01:13:51.023]  And I sit there and watch these influencers.
+[01:13:51.063 --> 01:13:54.263]  I watched like 30 minutes this morning, like one, no cogent point.
+[01:13:54.983 --> 01:13:55.703]  I didn't see what Elijah said.
+[01:13:55.743 --> 01:13:56.423]  I'm not bashing him.
+[01:13:56.943 --> 01:13:59.043]  No cogent point, no nothing.
+[01:13:59.063 --> 01:14:00.824]  I'm like, where is the beef here?
+[01:14:01.264 --> 01:14:02.244]  Like, give me something.
+[01:14:02.264 --> 01:14:08.004]  You know, the crew's like, well, maybe Jet Propulsion Laboratory, they're killing all these scientists, and one of these guys' professors got killed a few weeks ago.
+[01:14:08.024 --> 01:14:11.104]  And I'm like, yeah, that actually, they have a lot of assassins there.
+[01:14:11.204 --> 01:14:12.345]  Trump's trying to disclose.
+[01:14:12.405 --> 01:14:17.325]  Maybe they sent him in as a lone guy to kill him, you know, because I can't prove that, but maybe.
+[01:14:17.605 --> 01:14:20.385]  But how am I like, well, Erica Kirk was there, so we know she's behind it.
+[01:14:23.525 --> 01:14:24.726]  Does that make sense to you?
+[01:14:24.746 --> 01:14:25.726]  This is just a movie.
+[01:14:25.886 --> 01:14:28.166]  And, you know, get your popcorn.
+[01:14:28.406 --> 01:14:32.386]  And half the time I have to say, you guys are not helping.
+[01:14:32.446 --> 01:14:39.487]  This is why we lost the 2020 election because of rhetoric like this, not just because Joe Biden stole the election.
+[01:14:39.927 --> 01:14:44.867]  It's crap like this saying, oh, Trump is invisible, the real Trump and the real Hillary's.
+[01:14:44.927 --> 01:14:45.247]  And get.
+[01:14:45.747 --> 01:14:47.507]  But give me a friggin' break.
+[01:14:47.527 --> 01:14:49.548]  Where is all this crap even coming from?
+[01:14:49.588 --> 01:14:51.688]  And I have to wonder, like, where they.
+[01:14:52.688 --> 01:14:53.288]  Come up with it.
+[01:14:54.688 --> 01:14:55.448]  Well, look.
+[01:14:55.468 --> 01:14:58.908]  Your show is the only show I really tune into to get any source of news.
+[01:14:59.068 --> 01:14:59.908]  I don't watch Fox.
+[01:15:00.189 --> 01:15:01.649]  I don't watch Newsmax.
+[01:15:01.949 --> 01:15:04.329]  I've been following you since May 2019.
+[01:15:04.469 --> 01:15:07.809]  And let me guess before you tune in, you've already used your head and have the same view.
+[01:15:08.269 --> 01:15:11.129]  You just tune in, not to be validated, because you might learn a little.
+[01:15:11.169 --> 01:15:13.890]  I learn a little from you, but you're tuning in because it's already what you're thinking.
+[01:15:14.770 --> 01:15:17.530]  I mean, I have more of a head on my shoulders than up my ass.
+[01:15:17.630 --> 01:15:18.210]  I'm sorry.
+[01:15:18.270 --> 01:15:21.830]  It's just, you know, I tend to look at the people who's, you know, less crazy.
+[01:15:21.910 --> 01:15:23.930]  And so far, you've been dead on.
+[01:15:23.950 --> 01:15:25.631]  You were dead on about the coronavirus.
+[01:15:26.131 --> 01:15:29.991]  I have two of your books, and they're very insightful.
+[01:15:30.451 --> 01:15:37.292]  And I recommend everybody, product plug, please go pick up The Great Awakening and The Great Reset.
+[01:15:37.712 --> 01:15:40.752]  It also helps fund the operation, and you might learn a lot more.
+[01:15:40.812 --> 01:15:41.152]  Absolutely.
+[01:15:41.192 --> 01:15:42.152]  Thank you so much for the support.
+[01:15:42.172 --> 01:15:47.692]  We're going to go to break with Tim, John, Marie, Max, Jason, Kevin, Dave, Evan, and others when we come back.
+[01:15:48.733 --> 01:15:51.393]  I'm going to play just one of these clips because there were so many.
+[01:15:52.073 --> 01:15:55.173]  And I'm watching them, and they're like, well, Erica Kirk was there.
+[01:15:56.173 --> 01:16:01.514]  I guess she canceled some event a few weeks ago for security threats, and they said the event wasn't heavily attended.
+[01:16:01.534 --> 01:16:07.654]  So they go, to prove her event numbers were high and that there really are death threats, she staged this to make it.
+[01:16:07.674 --> 01:16:09.154]  I mean, it had nothing to do with her.
+[01:16:09.714 --> 01:16:13.115]  They're trying to kill Trump, or he staged it to get a ballroom.
+[01:16:13.155 --> 01:16:13.955]  I don't believe that.
+[01:16:14.635 --> 01:16:17.895]  Just a real crazy came out, ran through the line, got caught.
+[01:16:17.915 --> 01:16:18.835]  It wasn't professional.
+[01:16:19.155 --> 01:16:19.635]  That's it.
+[01:16:19.735 --> 01:16:22.395]  That's the most logical thing on Occam's razor.
+[01:16:24.055 --> 01:16:24.916]  That's all I'm saying.
+[01:16:25.676 --> 01:16:29.796]  But how Eric, and I'm not even defending Eric Kirk, it's like I cannot endorse.
+[01:16:30.076 --> 01:16:30.736]  Horse crap.
+[01:16:32.056 --> 01:16:33.176]  I mean, I'm watching these theories.
+[01:16:33.236 --> 01:16:34.596]  I can't even know what they're saying.
+[01:16:34.616 --> 01:16:36.637]  It's like, look, she was there.
+[01:16:36.997 --> 01:16:37.457]  She did it.
+[01:16:39.057 --> 01:16:41.297]  And I'm just like, okay.
+[01:16:43.197 --> 01:16:43.557]  I get it.
+[01:16:43.577 --> 01:16:44.357]  She cries.
+[01:16:44.997 --> 01:16:45.817]  She does all this stuff.
+[01:16:45.837 --> 01:16:46.737]  She's a theater kid.
+[01:16:46.757 --> 01:16:48.198]  A lot of weirdness.
+[01:16:48.378 --> 01:16:49.358]  I'm not debating any of that.
+[01:16:49.518 --> 01:16:54.018]  I'm just saying you can't say if there's a snowstorm, Erica Kirk farted and caused it.
+[01:16:55.978 --> 01:16:59.438]  We're going to go to break, come back with the club I just talked about in your calls.
+[01:16:59.458 --> 01:17:00.459]  But let me just remind you.
+[01:17:01.319 --> 01:17:04.899]  We're funded not by Qatar or the Israelis, the U.S. government, the Democrats or Republicans.
+[01:17:04.919 --> 01:17:05.819]  We're funded by you.
+[01:17:06.199 --> 01:17:08.499]  That's it with our sponsor, the Alex Jones Store.com.
+[01:17:08.759 --> 01:17:12.800]  And they own the Alex Jones Network, the studios, the systems.
+[01:17:12.820 --> 01:17:13.520]  They're our sponsor.
+[01:17:13.540 --> 01:17:15.640]  When you support them, you make sure we stay on the air.
+[01:17:16.200 --> 01:17:18.700]  When the original InfoWars shuts down, it looks like Thursday night.
+[01:17:19.119 --> 01:17:20.039]  They've said it, it's happening.
+[01:17:20.700 --> 01:17:22.021]  Barring a miracle, they keep happening.
+[01:17:22.041 --> 01:17:23.301]  So I'm just like, it's in God's hands.
+[01:17:23.860 --> 01:17:24.761]  But I need your support.
+[01:17:25.320 --> 01:17:30.441]  Wide selection of Patriot apparel, so many of the very best designs, t shirts, hoodies, ball caps, you name it.
+[01:17:31.501 --> 01:17:43.142]  And this next week, this happens every few months where there's a crossover week where you can, when you buy anything, you put in the sweepstakes for a Ford Raptor and custom H1 Hummer, $10,000 each when you win them.
+[01:17:43.162 --> 01:17:46.483]  You could potentially win both, but most winners win this last week.
+[01:17:47.503 --> 01:17:54.323]  In the last 10 vehicles they gave away, because for every dollar spent, you get entered 100x, not 5x to win.
+[01:17:55.563 --> 01:17:56.483]  So that's another reason.
+[01:17:56.643 --> 01:18:04.524]  Main offer we're giving you $10 free just at checkout, automatically off your bill on anything you buy at the AlexandreStore.com.
+[01:18:04.544 --> 01:18:09.044]  That runs until Monday at midnight, the 27th.
+[01:18:09.624 --> 01:18:12.164]  Five new trench war daggers, limited edition.
+[01:18:12.204 --> 01:18:16.505]  You are the InfoWar, Bowl on Love, Liberty to Death, don't tread on me, and Jesus is King.
+[01:18:17.565 --> 01:18:18.405]  Those are all about.
+[01:18:18.765 --> 01:18:20.925]  Actually, they already sold out at auctionstore.com.
+[01:18:20.985 --> 01:18:21.445]  That's right.
+[01:18:21.465 --> 01:18:21.766]  I forgot.
+[01:18:22.006 --> 01:18:24.686]  They're only available at realauctions.com, but they held a few back.
+[01:18:24.766 --> 01:18:25.386]  I forgot about that.
+[01:18:25.626 --> 01:18:28.506]  We'll be right back with hour number two, or the final segment of this hour two.
+[01:18:28.666 --> 01:18:29.006]  All right.
+[01:18:29.026 --> 01:18:33.026]  We're going back to your phone calls here in a moment, but I wanted to hit this.
+[01:18:33.827 --> 01:18:45.988]  The family said 10 minutes before he went down to the hotel ballroom area and tried to get in and shoot the president and others, that Cole Thomas Allen sent them an email with this information.
+[01:18:46.688 --> 01:18:48.448]  And here is a copy of it right now.
+[01:18:48.988 --> 01:18:50.088]  Hello, everybody.
+[01:18:51.408 --> 01:18:54.448]  So, I may have given a lot of people a surprise today.
+[01:18:54.847 --> 01:18:59.029]  Let me start off by apologizing to everyone whose trust I abused.
+[01:19:03.769 --> 01:19:09.168]  I apologize to my parents for saying I had an interview without specifying it was for most wanted.
+[01:19:10.350 --> 01:19:14.210]  I apologize to my colleagues and students for saying I had a personal emergency.
+[01:19:14.990 --> 01:19:23.151]  By the time everyone reads this, I probably most certainly do need to go to the ER, but can hardly call that not a self inflicted status.
+[01:19:24.171 --> 01:19:28.631]  So he's all just going off the Mangione energy here with California trying to pass bills in his name.
+[01:19:29.271 --> 01:19:40.332]  I apologize to all the people I traveled next to, all the workers who handle my luggage, and all the other non targeted people at the hotel who I put in danger simply to being near.
+[01:19:40.992 --> 01:19:52.552]  I apologize to everyone who was abused or murdered before this, to all those who suffered before I was able to attempt this, to all those who may still suffer after, regardless of my success or failure.
+[01:19:53.693 --> 01:19:54.673]  I don't expect forgiveness.
+[01:19:55.512 --> 01:20:00.014]  But if I could have seen any other way to get this close, I would have taken it.
+[01:20:00.134 --> 01:20:01.634]  Again, my sincere apologies.
+[01:20:01.654 --> 01:20:04.454]  Yeah, for months they announced this event, which is why everybody was so scared.
+[01:20:06.094 --> 01:20:07.753]  On to why I did any of this.
+[01:20:07.994 --> 01:20:11.454]  I am a citizen of the United States of America, Gore for the Jet Propulsion Laboratory.
+[01:20:11.994 --> 01:20:14.454]  What my representatives do reflects on me.
+[01:20:15.115 --> 01:20:21.816]  And I am no longer willing to permit a pedophile, rapist, and traitor to coat my hands with his crimes.
+[01:20:24.136 --> 01:20:26.496]  Well, to be completely honest, I was no longer willing.
+[01:20:26.796 --> 01:20:30.856]  For a long time ago, but this is the first real opportunity I've had to do something about it.
+[01:20:31.136 --> 01:20:33.216]  Yeah, Trump advertised this for months.
+[01:20:34.017 --> 01:20:41.177]  While I'm discussing this, I'll also go over my expected rules of engagement, probably in a terrible format, but I'm not military, so too bad.
+[01:20:42.117 --> 01:20:46.238]  Administration officials, not including Mr. Patel, they are my targets.
+[01:20:46.918 --> 01:20:47.898]  Why is he not?
+[01:20:48.057 --> 01:20:48.438]  Oh, okay.
+[01:20:50.318 --> 01:20:53.518]  Administration officials, not including Mr. Patel, they are my targets.
+[01:20:53.858 --> 01:20:55.677]  Prioritizing from the highest ranking to the lowest.
+[01:20:56.498 --> 01:20:57.358]  Why is he off the list?
+[01:20:57.759 --> 01:20:58.039]  Weird.
+[01:20:58.519 --> 01:20:59.199]  Secret Service.
+[01:20:59.219 --> 01:21:03.699]  They are targets only when necessary and to be incapacitated non lethally.
+[01:21:03.819 --> 01:21:05.599]  Shot one with a shotgun, but he wore body armor.
+[01:21:05.859 --> 01:21:11.039]  Impossible, aka, I hope they're wearing body armor because center of mass with shotguns messes up people who aren't.
+[01:21:12.860 --> 01:21:13.660]  Hotel Security.
+[01:21:14.120 --> 01:21:18.060]  Not targets if any possible, aka useless unless they shoot at me.
+[01:21:18.540 --> 01:21:20.281]  Capital Police, same as hotel security.
+[01:21:20.641 --> 01:21:21.921]  National Guard, same as hotel security.
+[01:21:22.221 --> 01:21:23.941]  Hotel employees, not targets at all.
+[01:21:24.241 --> 01:21:25.141]  Guests, not targets at all.
+[01:21:25.501 --> 01:21:31.601]  In order to minimize casualties, I will also be using buckshot rather than slugs, less penetration through walls.
+[01:21:33.202 --> 01:21:34.202]  That's what I said it was.
+[01:21:34.802 --> 01:21:47.403]  I would still go through most everyone here to get to the targets if it were absolutely necessary, on the basis that most people choose to attend a speech by a pedophile, rapist, and traitor, and thus complicit.
+[01:21:47.763 --> 01:21:49.683]  But it really, hope it doesn't come to that.
+[01:21:51.063 --> 01:21:56.644]  That's reportedly Cole Thomas Allen's manifesto.
+[01:21:56.664 --> 01:22:00.604]  Now, here's a guy called Sword of Truth, and I'm not picking on Sword of Truth.
+[01:22:01.204 --> 01:22:07.644]  I saw a whole bunch of videos like this today when I was researching this, but when you listen to them, there's no facts, there's no evidence.
+[01:22:08.085 --> 01:22:09.205]  Erica Kirk was there.
+[01:22:10.365 --> 01:22:16.185]  Erica Kirk canceled an event a few weeks ago with the vice president because they said it wasn't heavily attended.
+[01:22:16.205 --> 01:22:17.145]  She sent a death threat.
+[01:22:17.505 --> 01:22:19.005]  I'm sure she is getting death threats, but whatever.
+[01:22:20.206 --> 01:22:26.646]  So she staged all this because she's like this master wizard so that people think it was okay.
+[01:22:26.686 --> 01:22:28.826]  She canceled an event in the middle of nowhere.
+[01:22:28.946 --> 01:22:29.306]  I mean, just.
+[01:22:31.086 --> 01:22:32.767]  But you're like, this isn't one influencer.
+[01:22:32.887 --> 01:22:34.907]  I saw this trending everywhere.
+[01:22:35.047 --> 01:22:38.287]  Erica Kirk did this to make it look like she's getting death threats.
+[01:22:38.467 --> 01:22:38.727]  What?
+[01:22:39.507 --> 01:22:41.007]  This guy came to try to kill Trump.
+[01:22:41.287 --> 01:22:42.347]  This is Cuckoo Town.
+[01:22:42.387 --> 01:22:42.827]  Here's the club.
+[01:22:42.847 --> 01:22:43.407]  I'll go to your calls.
+[01:22:45.848 --> 01:22:52.608]  Was the White House Correspondents' Dinner shooting a false flag to justify Erica's cancellation?
+[01:22:52.828 --> 01:22:54.548]  Hey, guys, Sword Truth here.
+[01:22:54.888 --> 01:23:08.050]  Atler DeToe just dropped the take that tonight's gunshots at the White House Correspondents' Dinner were staged to make Erica Kurtz' refusal to take the stage at the recent TPUSA event look legitimate.
+[01:23:08.290 --> 01:23:14.150]  Gunshots rang out inside the ballroom and lobby at the Washington Hilton just as the event started.
+[01:23:14.470 --> 01:23:23.411]  Secret Service agents rushed the dais and escorted President Trump, JD Vance, Melania Trump, and other high profile attendees to safety.
+[01:23:23.691 --> 01:23:29.031]  Attendees scrambled for cover under tables, some flipping tables and chairs in the chaos.
+[01:23:29.331 --> 01:23:32.312]  Erica Kirk was seen crying as she was escorted out.
+[01:23:32.532 --> 01:23:34.492]  The shooter was taken down on scene.
+[01:23:34.772 --> 01:23:37.532]  Neither the president nor the vice president was injured.
+[01:23:37.812 --> 01:23:40.872]  The event was fully evacuated and did not resume.
+[01:23:41.192 --> 01:23:43.552]  President Trump later spoke from the White House.
+[01:23:43.913 --> 01:23:50.293]  The suspect has now been identified as 31 year old Cole Thomas Allen from Torrance, California.
+[01:23:50.473 --> 01:23:56.614]  He was a registered guest at the Washington Hilton, armed with a shotgun, handgun, and multiple knives.
+[01:23:56.934 --> 01:24:02.294]  He charged a security checkpoint, opened fire, and one Secret Service agent was hit.
+[01:24:02.554 --> 01:24:04.434]  But saved by his bulletproof vest.
+[01:24:04.854 --> 01:24:08.895]  Alan was apprehended and is in custody facing serious federal charges.
+[01:24:09.195 --> 01:24:11.415]  This puts Erica right in the middle of it all.
+[01:24:11.715 --> 01:24:15.755]  She was there in the room while bullets flew near the president and vice president.
+[01:24:15.995 --> 01:24:18.815]  She was later seen crying as she was taken to safety.
+[01:24:19.035 --> 01:24:26.716]  The timing lines up perfectly with her recent last minute cancellation of a TPUSA appearance claiming serious threats.
+[01:24:27.056 --> 01:24:47.598]  TPUSA employees and Savannah Hernandez immediately jumped on it, posting to everyone who was mocking Erica for the safety threat she experienced, saying, So it's safe enough for the VP, but not for her, and pointing out here she is at an event with the president of the United States where a gunman still somehow opened fire.
+[01:24:47.958 --> 01:24:48.538]  Let's stop there.
+[01:24:48.558 --> 01:24:49.078]  It goes on and on.
+[01:24:49.098 --> 01:24:50.618]  Now, that's obviously an AI.
+[01:24:50.718 --> 01:24:52.198]  That's an AI person, doesn't exist.
+[01:24:53.078 --> 01:25:03.319]  But whoever's doing this, because this stuff's everywhere, loads this in with a fake guy, and oh, yeah, this was all done to make it look like she's under security threat.
+[01:25:03.519 --> 01:25:03.759]  What?
+[01:25:03.939 --> 01:25:05.779]  That is completely bonkers.
+[01:25:06.299 --> 01:25:08.440]  But it was trending and it was force fed.
+[01:25:08.940 --> 01:25:10.940]  And I had people ask me today, is this about Erica Kirk?
+[01:25:11.140 --> 01:25:11.400]  What?
+[01:25:12.280 --> 01:25:15.560]  This is about defending Erica Kirk, but they shove her into everything.
+[01:25:18.021 --> 01:25:19.261]  It's like a disinfo point.
+[01:25:19.421 --> 01:25:19.881]  It's crazy.
+[01:25:20.781 --> 01:25:22.061]  All right, let's go to your phone calls.
+[01:25:22.081 --> 01:25:22.681]  Thanks for holding.
+[01:25:22.941 --> 01:25:23.681]  We're going to move quickly now.
+[01:25:23.701 --> 01:25:24.661]  We'll get everybody on hold.
+[01:25:24.981 --> 01:25:26.721]  Tim in Washington, you're on the air worldwide.
+[01:25:26.741 --> 01:25:27.061]  Go ahead.
+[01:25:28.421 --> 01:25:28.721]  Hey, Alex.
+[01:25:28.741 --> 01:25:29.602]  How are you doing, brother?
+[01:25:29.662 --> 01:25:30.342]  All right.
+[01:25:31.142 --> 01:25:43.643]  I think a lot of the problem everybody's having is that there are so many inconsistencies in the messaging and whatnot that you taught us to look between the lines as best we can to see what's actually going on.
+[01:25:44.063 --> 01:25:44.983]  Who stands to gain?
+[01:25:45.043 --> 01:25:47.423]  A lot of people think it's because of the ballroom.
+[01:25:48.603 --> 01:25:50.823]  Pun intended, I did say that with two A's.
+[01:25:52.143 --> 01:25:58.124]  But there's a video going around that I need you to debunk because a lot of people are also looking at this and going, what's actually going on?
+[01:25:58.644 --> 01:26:11.665]  There's something about Trump being, there was a bond servant ritual at Butler, something about how the bond servant has to have his right ear publicly pierced in order for the contract to be actual.
+[01:26:12.245 --> 01:26:13.925]  So I was wondering if you could be either.
+[01:26:14.285 --> 01:26:15.185]  I have no idea.
+[01:26:15.205 --> 01:26:16.585]  I have no idea what that means.
+[01:26:17.145 --> 01:26:20.726]  I put it in your replies for the broadcast on X.
+[01:26:21.606 --> 01:26:23.486]  It's by an account by Godfrey.
+[01:26:23.726 --> 01:26:24.666]  He's the one that put it out.
+[01:26:25.206 --> 01:26:25.986]  Let me ask you a question.
+[01:26:26.006 --> 01:26:35.967]  Do you think the best sniper in the world with a 2 2 3 round at 150 yards in wind with a guy moving around can perfectly pierce somebody's right ear?
+[01:26:39.227 --> 01:26:42.908]  I would say maybe because of the technology.
+[01:26:43.088 --> 01:26:46.088]  I don't necessarily know how elaborate the setup was.
+[01:26:46.948 --> 01:26:48.788]  To be able to run out of the house.
+[01:26:48.868 --> 01:26:52.088]  Do you think Erica Kirk staged a shooting to make her look good yesterday?
+[01:26:52.128 --> 01:26:52.348]  No.
+[01:26:53.028 --> 01:26:53.529]  No, I don't.
+[01:26:53.609 --> 01:27:02.309]  But I do think that the establishment messaging around the whole Charlie Kirk thing also leads to them losing credibility in the eyes of everybody.
+[01:27:02.569 --> 01:27:06.570]  I mean, we broke that Kash Patel came in and said, don't look at foreign involvement when they found it.
+[01:27:06.710 --> 01:27:07.210]  I broke that.
+[01:27:08.090 --> 01:27:12.270]  Yeah, no, they've handled it incredibly clumsy and weird, as almost as if they're.
+[01:27:12.290 --> 01:27:14.970]  Well, there's footage of Kash Patel because these new iPhones are so good.
+[01:27:15.130 --> 01:27:17.691]  You can tell he's in the dark with two FBI agents by him.
+[01:27:17.971 --> 01:27:18.871]  He's just been pushed out.
+[01:27:18.891 --> 01:27:19.571]  He doesn't know what's going on.
+[01:27:19.591 --> 01:27:20.511]  He's like, What's happening?
+[01:27:20.831 --> 01:27:21.851]  Oh, he's on his phone.
+[01:27:22.031 --> 01:27:24.771]  You can't, he would get an Academy Award for the acting if it was fake.
+[01:27:25.211 --> 01:27:26.551]  He doesn't know what's going on.
+[01:27:27.031 --> 01:27:29.291]  Like, people give godlike powers to these people.
+[01:27:29.652 --> 01:27:38.852]  The globalists do pull off big scams, but the idea that they could shoot six shots at Trump and just skim his ear on purpose to fulfill some messianic ritual is insane.
+[01:27:39.272 --> 01:27:40.412]  But I'll look at what you sent me.
+[01:27:40.432 --> 01:27:40.652]  Thanks.
+[01:27:40.672 --> 01:27:41.953]  I mean, that's what I mean.
+[01:27:41.973 --> 01:27:48.153]  Like, we're like, the CIA has declassified what I said 25 years ago.
+[01:27:48.393 --> 01:27:50.913]  They created tick borne syphilis at Plum Island.
+[01:27:51.953 --> 01:27:52.753]  We'll cover it tomorrow.
+[01:27:53.133 --> 01:27:54.334]  They've now declassified it.
+[01:27:55.054 --> 01:28:03.574]  They said seven years ago the WF were going to put into these ticks with Lyme disease this enzyme where you're allergic to beef so no one eats beef anymore.
+[01:28:03.854 --> 01:28:06.755]  And now it's spreading all over the U.S. That's like proven.
+[01:28:07.115 --> 01:28:13.095]  In Congress, they have documents where the CDC knew the shots were killing people and maiming them and they covered it up.
+[01:28:13.135 --> 01:28:13.875]  I have all those clips.
+[01:28:13.895 --> 01:28:14.635]  I'm going to play them tomorrow.
+[01:28:14.835 --> 01:28:15.395]  Already played some.
+[01:28:15.595 --> 01:28:18.116]  I mean, but no one cares about absolute smoking gun.
+[01:28:19.156 --> 01:28:22.076]  It's like bond servant, left ear, blah, blah, blah.
+[01:28:22.136 --> 01:28:23.776]  Erica Kirk did it to look good.
+[01:28:23.816 --> 01:28:26.436]  I mean, it's like.
+[01:28:27.016 --> 01:28:30.157]  I'm not those people that just make up weird shit.
+[01:28:31.177 --> 01:28:32.597]  I mean, I just, I'm not that.
+[01:28:32.777 --> 01:28:33.697]  That's all I want to say.
+[01:28:35.557 --> 01:28:42.778]  I know a lot of people love something that's just so weird, you know, and so like CIA reports.
+[01:28:42.838 --> 01:28:43.678]  I can study it myself.
+[01:28:43.738 --> 01:28:44.338]  I agree with it.
+[01:28:44.378 --> 01:28:47.418]  Rand Corporation reports, Saudi Arabian reports.
+[01:28:47.918 --> 01:28:49.358]  The Pentagon saying, don't attack.
+[01:28:49.398 --> 01:28:50.558]  They won't fall in four days.
+[01:28:50.578 --> 01:28:51.678]  They'll hold on probably a year.
+[01:28:52.058 --> 01:28:53.058]  They'll shut down the straight.
+[01:28:53.078 --> 01:28:56.379]  It'll derail interest rates, create a world recession, and kill your plan.
+[01:28:56.399 --> 01:28:56.799]  Don't do it.
+[01:28:57.379 --> 01:28:57.919]  And he did it.
+[01:28:58.419 --> 01:28:59.739]  Like, that's research.
+[01:28:59.799 --> 01:29:00.659]  That's facts.
+[01:29:02.219 --> 01:29:05.580]  Meanwhile, they pierced his ear in a red heifer ritual or whatever.
+[01:29:06.020 --> 01:29:06.960]  Thanks for the call, Tim.
+[01:29:07.320 --> 01:29:08.480]  John in Florida, you're on the air.
+[01:29:08.540 --> 01:29:08.800]  Welcome.
+[01:29:10.180 --> 01:29:11.880]  I'm, you know, I'm still sick of hearing all this.
+[01:29:11.920 --> 01:29:14.039]  I'm a lot older than everybody on here.
+[01:29:14.079 --> 01:29:17.201]  And your Methylene Blue is great for people in their 70s, 80s, and 90s.
+[01:29:18.041 --> 01:29:23.440]  But when you go back to the Lincoln assassination, Kennedy, Hoffa disappearing, there's nothing new under the sun.
+[01:29:23.801 --> 01:29:26.721]  You mentioned a name, Jeff Parsons.
+[01:29:26.761 --> 01:29:29.822]  That's what JPL was initially named after.
+[01:29:30.342 --> 01:29:35.922]  And Parsons, L. Ron Hubbard, they did this thing called the Babylon Ritual, which I'm sure you're familiar with.
+[01:29:36.362 --> 01:29:39.922]  And all kinds of evil started coming into this country in the 19th century.
+[01:29:39.983 --> 01:29:40.722]  50s with the people.
+[01:29:40.743 --> 01:29:43.483]  For those who don't know, it's public that they were Satan worshipers.
+[01:29:43.503 --> 01:29:44.123]  Tell people about it.
+[01:29:45.363 --> 01:29:46.243]  Oh, absolutely.
+[01:29:46.262 --> 01:29:50.804]  Not only were they Satan worshipers, but they were calling in different demons.
+[01:29:51.264 --> 01:29:55.784]  They went into the desert, and everything changed in the 1940s.
+[01:29:56.524 --> 01:30:03.704]  You started to see ritualistic killings in Toledo to begin with, long before taking La Blanca, just everywhere.
+[01:30:03.744 --> 01:30:08.305]  And now you see all these people that are under this influence, and so many politicians.
+[01:30:09.324 --> 01:30:11.324]  Solomon said, There's nothing new under the sun.
+[01:30:11.824 --> 01:30:12.625]  We fight against.
+[01:30:13.045 --> 01:30:16.985]  Demons, principalities, spiritual wickedness, and high places.
+[01:30:17.065 --> 01:30:18.846]  They don't even know they're being manipulated.
+[01:30:19.306 --> 01:30:20.985]  They have no idea.
+[01:30:21.426 --> 01:30:30.207]  And what's going on today, all I can say is this your mind reader in Israel, if you have the blood of Christ and you're a Christian, you really believe in him, nobody can read your mind.
+[01:30:31.087 --> 01:30:32.467]  They can do harm to your body.
+[01:30:32.567 --> 01:30:34.686]  Jesus said, What they do to me, they'll do to you.
+[01:30:35.247 --> 01:30:36.306]  They can't read your mind.
+[01:30:36.627 --> 01:30:43.868]  What do you make of the manifesto writer, the reported shooter saying he wouldn't try to kill Kash Patel, but he'd kill any other.
+[01:30:44.307 --> 01:30:45.628]  Why did he want to protect Kash Patel?
+[01:30:45.648 --> 01:30:46.168]  That's weird.
+[01:30:47.228 --> 01:30:48.927]  Well, look at Kash Patel's background.
+[01:30:49.148 --> 01:30:50.128]  Look who he's living with.
+[01:30:51.048 --> 01:30:52.449]  Look what's going on in his life.
+[01:30:52.969 --> 01:30:54.409]  How did he get the position he's in?
+[01:30:54.909 --> 01:30:58.429]  I mean, the enemy can influence, and look what he did to Jesus.
+[01:30:58.529 --> 01:31:01.009]  He offered Jesus all the kingdoms of the world, Alex.
+[01:31:01.769 --> 01:31:04.270]  They didn't know what to do with him, with Christ.
+[01:31:04.850 --> 01:31:06.529]  He was perfect.
+[01:31:06.710 --> 01:31:10.230]  If they ever would have known that killing him was the plan, they never would have done it.
+[01:31:11.289 --> 01:31:14.270]  So, all these, you know, we need to get on our knees.
+[01:31:15.011 --> 01:31:16.110]  We need to stay in prayer.
+[01:31:16.490 --> 01:31:17.451]  Let all this.
+[01:31:17.591 --> 01:31:20.351]  Misdirection go away and keep our eyes on Christ.
+[01:31:20.690 --> 01:31:21.311]  I hear you, brother.
+[01:31:21.331 --> 01:31:21.771]  Thanks for the call.
+[01:31:21.791 --> 01:31:22.911]  I'm going to move quick to everybody else.
+[01:31:23.411 --> 01:31:24.650]  Marie in Colorado.
+[01:31:24.690 --> 01:31:25.551]  Marie, thanks for holding that.
+[01:31:25.570 --> 01:31:26.511]  Max, Marie, welcome.
+[01:31:28.311 --> 01:31:28.872]  Hey, Alex.
+[01:31:28.992 --> 01:31:29.672]  How are you doing?
+[01:31:30.132 --> 01:31:38.953]  Just a few pointers here that I noticed last night when they were sitting at the table, and I didn't know that that was a magician there, so that's good to know.
+[01:31:39.453 --> 01:31:43.653]  But I'm kind of wondering who the girl was in the white, shiny dress.
+[01:31:44.613 --> 01:31:47.073]  She was ethnic, probably Asian.
+[01:31:47.753 --> 01:31:50.472]  And it looked like Melania went under the table.
+[01:31:51.194 --> 01:31:59.634]  And again, the ethnic girl who looked Asian was crawling later on the floor, maybe with John soon.
+[01:31:59.854 --> 01:32:00.713]  I'm not sure.
+[01:32:00.774 --> 01:32:06.795]  But just looking at the characters that people were filming Dana White, like you said, he's tough.
+[01:32:07.534 --> 01:32:11.614]  And they made Kash Patel look like he didn't know what day it was, you know.
+[01:32:12.114 --> 01:32:17.516]  Then again, he rose to fame pretty quickly and it kind of went to his head, in my opinion.
+[01:32:18.355 --> 01:32:21.896]  And then Erica Kirk walking out with her regular cry.
+[01:32:21.956 --> 01:32:23.836]  Now, listen, I'm not.
+[01:32:24.155 --> 01:32:25.796]  I'm not bashing Erica Kirk.
+[01:32:25.976 --> 01:32:26.775]  I can't judge her.
+[01:32:26.796 --> 01:32:27.257]  No, no, I agree.
+[01:32:27.277 --> 01:32:27.797]  She cries.
+[01:32:27.877 --> 01:32:28.976]  It's all theater girl stuff.
+[01:32:29.016 --> 01:32:29.837]  It just adds to it.
+[01:32:29.877 --> 01:32:32.297]  Yeah, I mean, I can't judge her heart.
+[01:32:32.337 --> 01:32:32.936]  You know what?
+[01:32:33.037 --> 01:32:33.737]  I'm a Christian.
+[01:32:33.856 --> 01:32:35.277]  I'm not a Christian nationalist.
+[01:32:35.817 --> 01:32:36.957]  You know what?
+[01:32:37.297 --> 01:32:40.738]  I'm a member of Christ Church and I'm a boomer.
+[01:32:40.878 --> 01:32:43.458]  So I can't judge her heart, but I don't know.
+[01:32:44.198 --> 01:32:58.378]  And the one thing that was going around, too, on X was after Trump had posted the cover of Time Magazine with Candace's picture on there, people started saying, you know, it's Candace's fault.
+[01:32:59.159 --> 01:33:01.639]  You know, Erica Kirk's crying.
+[01:33:01.899 --> 01:33:03.440]  I'm like, please stop.
+[01:33:04.400 --> 01:33:04.840]  And then.
+[01:33:04.960 --> 01:33:08.119]  Yeah, why is Trump attacking his former supporters instead of the Democrats?
+[01:33:08.500 --> 01:33:09.359]  Exactly.
+[01:33:09.779 --> 01:33:10.519]  Exactly.
+[01:33:10.539 --> 01:33:12.460]  Now, I don't know what to think.
+[01:33:13.199 --> 01:33:21.360]  And oh, and the other thing, too, why is Trump surrounding himself with people like Laura Loomer?
+[01:33:22.041 --> 01:33:37.282]  Again, I can't judge nobody's heart, but Roger Stone had posted on X that the only reason Laura was on the Trump train was because she was performing a sexual act on Corey Lewandowski.
+[01:33:37.421 --> 01:33:41.382]  Well, I know this Laura Loomer, I've known her for a long time, is out of her mind, in my view.
+[01:33:41.962 --> 01:33:44.422]  She came out today and said that I said it was a staged event.
+[01:33:44.722 --> 01:33:47.462]  When the video, she showed a screenshot, didn't show the video.
+[01:33:47.742 --> 01:33:48.563]  I said the opposite.
+[01:33:48.682 --> 01:33:52.743]  I mean, like, she's like literally saying, I'm going to tattle the president.
+[01:33:52.804 --> 01:33:53.363]  You did this.
+[01:33:53.443 --> 01:33:53.804]  Fine.
+[01:33:53.844 --> 01:33:54.604]  Make it up, lady.
+[01:33:55.104 --> 01:33:56.543]  And then I'm saying, I think it was real.
+[01:33:56.703 --> 01:33:58.243]  I mean, just cuckoo town.
+[01:33:58.283 --> 01:33:58.804]  Thanks for the call.
+[01:33:59.123 --> 01:34:01.083]  By the way, you asked the name of the attractive Asian woman.
+[01:34:01.623 --> 01:34:03.824]  She's a chief correspondent at CBS News.
+[01:34:04.465 --> 01:34:06.164]  So we just had that on screen earlier with her name.
+[01:34:06.184 --> 01:34:06.845]  We can put that back up.
+[01:34:07.345 --> 01:34:09.144]  It's Wee Jai.
+[01:34:09.184 --> 01:34:09.664]  Is that right?
+[01:34:10.604 --> 01:34:12.724]  Wee Jai Jang.
+[01:34:13.425 --> 01:34:15.345]  CBS News senior White House correspondents.
+[01:34:15.385 --> 01:34:15.805]  There you go.
+[01:34:16.826 --> 01:34:19.985]  All right, let's go to Max in Wisconsin.
+[01:34:20.046 --> 01:34:20.605]  Max, welcome.
+[01:34:22.145 --> 01:34:22.885]  Hi, Mr. Jones.
+[01:34:22.905 --> 01:34:32.327]  Yeah, I wanted to hear your take on all this weird time travel stuff that they keep building up and putting into the news with this recent assassination attempt.
+[01:34:33.186 --> 01:34:44.268]  I don't know if you saw on Twitter, they had a bunch of references to predictive tweets made years before and pictures and a person working for Lockheed Martin in the mix.
+[01:34:44.307 --> 01:34:45.347]  I don't know.
+[01:34:45.367 --> 01:34:46.007]  Did you see that?
+[01:34:46.887 --> 01:34:51.769]  No, but I know The Simpsons has legitimately predicted thousands of things where they happened.
+[01:34:52.248 --> 01:34:56.668]  And so, I mean, there's a lot of weirdness going on.
+[01:34:57.608 --> 01:35:03.970]  So basically, there was a tweet from 2023 with a Pepe avatar and a tuxedo dude.
+[01:35:04.010 --> 01:35:05.390]  Yeah, the crew's obviously seen it.
+[01:35:05.409 --> 01:35:06.109]  They pulled it up.
+[01:35:06.210 --> 01:35:07.470]  So, what was it?
+[01:35:09.229 --> 01:35:10.590]  This is Cole Allen.
+[01:35:10.609 --> 01:35:10.849]  Yeah.
+[01:35:11.529 --> 01:35:15.211]  Yeah, it has the assassin's name as their only post.
+[01:35:16.211 --> 01:35:19.490]  And then, like, they have an image as the banner.
+[01:35:20.171 --> 01:35:24.390]  And that image is from a website called The Time Machine.
+[01:35:25.591 --> 01:35:36.551]  And it's like some glitchy rainbow image that somehow aligns up with the Trump Butler shooting when he had his fist in the air, one of the iconic photographs.
+[01:35:37.532 --> 01:35:40.773]  And I just think it's a bizarre wink and a nod, like on top of what you said.
+[01:35:40.792 --> 01:35:46.512]  They have a literal magician doing a magic trick, literally, as it happens.
+[01:35:47.092 --> 01:35:48.613]  And it seems to me that if Trump.
+[01:35:48.693 --> 01:35:49.653]  I didn't know about this.
+[01:35:49.672 --> 01:35:50.453]  The crew obviously did.
+[01:35:50.474 --> 01:35:51.514]  They pulled it up when you said it.
+[01:35:51.634 --> 01:35:52.413]  I will look into this.
+[01:35:52.434 --> 01:35:53.094]  This is real.
+[01:35:53.453 --> 01:35:54.193]  This is crazy.
+[01:35:55.453 --> 01:36:00.213]  Has this been confirmed by Grok or by humans to be actually real or not made up?
+[01:36:01.693 --> 01:36:05.515]  Yeah, it's been confirmed to be real, and plus, there's two different.
+[01:36:05.614 --> 01:36:06.835]  Well, I'm glad I took your calls.
+[01:36:06.894 --> 01:36:07.635]  I didn't know about this.
+[01:36:07.755 --> 01:36:07.954]  Wow.
+[01:36:09.015 --> 01:36:10.335]  And think about it, Mr. Jones.
+[01:36:10.434 --> 01:36:17.956]  If you had time travel knowledge or have the ability to time travel, you could dodge assassination attempts pretty easily and use them to your advantage.
+[01:36:20.435 --> 01:36:24.256]  Well, you heard the White House Science Art last year, about a year ago.
+[01:36:24.275 --> 01:36:26.076]  Remember, he said, We control time and space.
+[01:36:26.115 --> 01:36:26.617]  Remember that?
+[01:36:27.317 --> 01:36:27.577]  Yep.
+[01:36:27.997 --> 01:36:28.216]  Yep.
+[01:36:29.756 --> 01:36:30.077]  Wow.
+[01:36:30.916 --> 01:36:31.537]  Thanks for the call.
+[01:36:31.657 --> 01:36:32.056]  Wow.
+[01:36:32.197 --> 01:36:32.497]  Okay.
+[01:36:32.556 --> 01:36:33.676]  I promise you, I'm looking to that.
+[01:36:33.777 --> 01:36:34.497]  I'll know more tomorrow.
+[01:36:35.216 --> 01:36:36.436]  People call in all the time, too.
+[01:36:36.476 --> 01:36:36.976]  He was nice.
+[01:36:37.037 --> 01:36:39.217]  They were like, Why aren't you covering this?
+[01:36:39.417 --> 01:36:40.898]  I don't know about a lot of this stuff.
+[01:36:41.358 --> 01:36:41.657]  Yeah.
+[01:36:41.778 --> 01:36:42.377]  So thank you.
+[01:36:43.177 --> 01:36:44.757]  I promise you, guys, print me all that.
+[01:36:45.377 --> 01:36:46.738]  Send me text messages with it, please.
+[01:36:46.757 --> 01:36:47.778]  So I don't forget.
+[01:36:48.217 --> 01:36:49.358]  That is crazy.
+[01:36:49.797 --> 01:36:51.158]  I guess we have articles on Infowars about it.
+[01:36:51.578 --> 01:36:52.658]  What's the title of the article?
+[01:36:53.618 --> 01:36:54.818]  I read Infowars, but I missed this.
+[01:36:54.858 --> 01:36:55.618]  I got here late today.
+[01:36:56.918 --> 01:36:57.759]  I got up at 2 30.
+[01:36:58.038 --> 01:36:58.778]  I fell asleep.
+[01:36:58.898 --> 01:37:00.019]  I used to get here two hours before.
+[01:37:00.059 --> 01:37:05.819]  I only take like a 30 minute nap if I take one like a few times a week, two hours, slept like a baby.
+[01:37:05.819 --> 01:37:08.679]  And I woke up and it was 3 10.
+[01:37:10.139 --> 01:37:14.600]  And I was so sleepy, I fell asleep on the couch and I just jumped up and drove down here.
+[01:37:14.701 --> 01:37:15.600]  So I didn't really get prepared.
+[01:37:15.621 --> 01:37:16.140]  I apologize.
+[01:37:16.480 --> 01:37:18.900]  I got prepared before, but not extra prepared.
+[01:37:18.920 --> 01:37:21.220]  So let's go to Jason in Florida.
+[01:37:21.240 --> 01:37:21.960]  Jason, you're on the air.
+[01:37:22.000 --> 01:37:22.280]  Welcome.
+[01:37:24.261 --> 01:37:24.681]  Yes, sir.
+[01:37:24.721 --> 01:37:25.481]  Good evening, Alex.
+[01:37:25.501 --> 01:37:27.161]  This is Jason Lowe from Titans of Liberty.
+[01:37:27.181 --> 01:37:37.182]  I just want to say first I think if you're a Trump loyalist and praying for President Trump not to get killed, pray for him to stop funding and backing the killing of innocent women and children in this stupid war.
+[01:37:37.742 --> 01:37:38.622]  Pray for world peace.
+[01:37:39.143 --> 01:37:40.182]  Stop being hypocrites.
+[01:37:41.122 --> 01:37:45.282]  I believe the question we should be asking is who is responsible, not is this fake?
+[01:37:45.762 --> 01:37:49.063]  On the same day, there's another assassination attempt on.
+[01:37:49.103 --> 01:37:49.903]  No, no, I agree.
+[01:37:49.943 --> 01:37:51.503]  I think it was a real assassination attempt.
+[01:37:51.523 --> 01:37:53.123]  Don't say it's fake, say who was behind it.
+[01:37:54.304 --> 01:37:54.523]  Right.
+[01:37:54.603 --> 01:38:00.904]  And, you know, on the same day, there were large demonstrations against Netanyahu's government in Tel Aviv.
+[01:38:01.244 --> 01:38:01.864]  This happened.
+[01:38:01.924 --> 01:38:05.184]  So, you know, why was the vice president rushed out before President Trump?
+[01:38:06.045 --> 01:38:10.204]  I think this is more about eliminating the chance of evacuating the U.S. out of Iran.
+[01:38:10.684 --> 01:38:15.065]  I believe we are stuck in this war, and there's no way out for President Trump but death.
+[01:38:15.665 --> 01:38:17.045]  Israel doesn't want to end this war.
+[01:38:17.206 --> 01:38:21.145]  I saw a picture of the shooter promoting the IDF, but I never confirmed if it's real.
+[01:38:22.206 --> 01:38:24.447]  Why didn't the cameraman freak out and drop the camera?
+[01:38:24.726 --> 01:38:27.447]  You know, maybe he's as tough as Dana White or RFK Jr.
+[01:38:27.586 --> 01:38:29.407]  You know, give that man a raise.
+[01:38:30.166 --> 01:38:31.786]  And I just want to say one more point.
+[01:38:31.866 --> 01:38:39.787]  All these people talking bad about you and Infowars need to realize we broke open the COVID lies, and it's because of banned.video and Infowars.com.
+[01:38:40.207 --> 01:38:41.327]  They're all Johnny Cumlaties.
+[01:38:42.587 --> 01:38:47.527]  Yeah, I mean, I'm not competition with all these new guys, but the fact that they lie about me to one up us is just dumb.
+[01:38:47.849 --> 01:38:49.188]  I'm playing for everybody's future.
+[01:38:49.408 --> 01:38:50.288]  I want to succeed.
+[01:38:50.768 --> 01:38:52.448]  I don't want to be the biggest swinging ding dong.
+[01:38:52.969 --> 01:38:55.548]  I'm, you know, and I'm under attack.
+[01:38:55.948 --> 01:39:02.170]  And I'm under attack by all the Nazi groups, if you notice, that we now know are directly funded by the Southern Property Law Center saying I work for Israel.
+[01:39:02.289 --> 01:39:02.630]  I don't.
+[01:39:02.710 --> 01:39:03.069]  They do.
+[01:39:03.750 --> 01:39:04.250]  Thanks for the call.
+[01:39:04.529 --> 01:39:04.909]  It's a fact.
+[01:39:06.929 --> 01:39:09.189]  We got Royce White coming up, but he's cool with this.
+[01:39:09.229 --> 01:39:11.609]  He understands it's the last Sunday show here at all these studios.
+[01:39:12.230 --> 01:39:14.871]  I'm going to do about 10 more minutes in the next hour than hand the baton to him.
+[01:39:15.210 --> 01:39:16.250]  So I got time to go to Kevin.
+[01:39:16.831 --> 01:39:20.911]  Dave and Evan, and a few more here on the other side.
+[01:39:20.930 --> 01:39:22.170]  Then I'll hand the baton to Royce White.
+[01:39:22.750 --> 01:39:24.531]  Royce will continue on at the Alex Jones Network.
+[01:39:25.072 --> 01:39:32.152]  Find all those coordinates at Real Alex Jones on X, AJ and Live on X, and of course, so the new site, alexjoneslive.com.
+[01:39:33.091 --> 01:39:38.672]  But, and God's come through repeatedly when they shut us down and all this stuff, so we'll see what happens.
+[01:39:39.752 --> 01:39:44.672]  But they told the landlord, because we didn't own this building.
+[01:39:45.052 --> 01:39:48.474]  We've been there 17 years almost, like almost, we're two months short of 17 years.
+[01:39:49.253 --> 01:39:51.273]  They said, even if he beats us in court, we don't care.
+[01:39:51.293 --> 01:39:54.533]  They're going to come in here and they said they would burn this if they had to.
+[01:39:54.573 --> 01:40:01.494]  They're going to just tear it all up, just wreck everything when they get in here.
+[01:40:01.835 --> 01:40:02.974]  And again, there's been no court hearing.
+[01:40:02.994 --> 01:40:08.194]  This hasn't been ruled yet, but Bloomberg backs the onion and they've been telling everybody they're in here.
+[01:40:08.755 --> 01:40:10.974]  Or they got caught with a fake auction a year and a half ago, got reversed.
+[01:40:11.654 --> 01:40:13.615]  They tried to shut us down in private security, that got reversed.
+[01:40:14.015 --> 01:40:18.635]  I hear at midnight Thursday, they're sending private security armed PIs in here.
+[01:40:19.635 --> 01:40:21.235]  As if, you know, this is the Alamo or something.
+[01:40:21.255 --> 01:40:22.076]  We're not going to resist them.
+[01:40:22.095 --> 01:40:22.615]  We're going to be nice.
+[01:40:23.195 --> 01:40:28.376]  I was going to go to about eight or nine at night because I got to get up the next day and launch the Alex Shims Network, the regular showtime, satellites, everything.
+[01:40:28.916 --> 01:40:33.737]  But I'm going to stay up here now just to see this for myself Thursday night and document it.
+[01:40:34.716 --> 01:40:41.537]  But just pray for us because it is crazy and support the broadcast at the Alex Shimsstore.com.
+[01:40:42.157 --> 01:40:42.898]  I don't own that.
+[01:40:42.957 --> 01:40:44.217]  The bad guys have no claim on it.
+[01:40:44.257 --> 01:40:52.458]  It's Big Lee that, you know, does all the sponsorship stuff for Crowder and the Cods Twins and dozens of other people around for many years.
+[01:40:53.219 --> 01:40:55.238]  And they own the new Allen Shows Network.
+[01:40:55.259 --> 01:40:56.918]  They own the studio.
+[01:40:57.038 --> 01:40:58.438]  They're financing the new studio.
+[01:40:58.558 --> 01:41:00.039]  I don't own it, so they have no claim on it.
+[01:41:00.299 --> 01:41:01.639]  They're going to come after them and mess with them.
+[01:41:01.659 --> 01:41:02.519]  It's not going to go anywhere.
+[01:41:02.539 --> 01:41:04.339]  It's all above board as usual.
+[01:41:05.239 --> 01:41:06.899]  And we'll just continue on.
+[01:41:07.099 --> 01:41:14.660]  And then I intend, when I'm the only target, because they can't target these new people anymore, they're going to still mess with me with their fake judgments and stuff.
+[01:41:15.620 --> 01:41:21.041]  I intend, as the news director, to crank this up as quickly as possible and add hard hitting one hour shows.
+[01:41:22.001 --> 01:41:26.821]  They'll still have my show and Harrison doing longer shows and a few others, maybe a late night show that wants to be a heavy hitter.
+[01:41:26.881 --> 01:41:28.441]  We want to do that, a two hour show.
+[01:41:28.461 --> 01:41:30.441]  But everybody else is a one hour live show.
+[01:41:30.821 --> 01:41:35.182]  Come in, cover the top stories, have a quick guest on, come back, other big story, maybe another guest.
+[01:41:35.722 --> 01:41:45.283]  Three or four minutes of ads an hour, hard hitting one hours, which you'll say, well, that's the war room model in the model of TBUSA.
+[01:41:45.363 --> 01:41:47.023]  Yeah, that was the model I was planning.
+[01:41:48.143 --> 01:41:50.503]  We created this model, and that's the smart model.
+[01:41:51.083 --> 01:41:57.344]  One hour live, hard hitting shows, 5 a.m. Central to like midnight.
+[01:41:58.044 --> 01:42:01.104]  There's no reason to go, you know, midnight to 5 a.m.
+[01:42:02.244 --> 01:42:07.964]  And so we're very excited, but it's going to be.
+[01:42:08.504 --> 01:42:12.025]  Your funding that builds all this at the Alex Jones Store.com.
+[01:42:12.705 --> 01:42:15.005]  So get the t shirts, get the products, get it all.
+[01:42:15.625 --> 01:42:16.565]  They're amazing.
+[01:42:17.885 --> 01:42:19.265]  And that's what funds this operation.
+[01:42:19.285 --> 01:42:19.985]  I could have done it without you.
+[01:42:20.005 --> 01:42:22.286]  I want to thank you all for your past support.
+[01:42:22.306 --> 01:42:23.306]  Now take action now.
+[01:42:23.506 --> 01:42:31.026]  The Alex Jones Store.com be the reason we're going to stay on the air in the next phase, the next chapter of the InfoWar.
+[01:42:31.286 --> 01:42:32.587]  We'll be right back with Royce White.
+[01:42:32.627 --> 01:42:35.707]  I'm going to take a few final calls and then hand the baton to him.
+[01:42:35.827 --> 01:42:36.267]  Stay with us.
+[01:42:36.287 --> 01:42:37.367]  The final Sunday show.
+[01:42:38.067 --> 01:42:40.067]  All right, Royce White takes over in about 10, 15 minutes.
+[01:42:40.167 --> 01:42:41.327]  I'm going to finish up with your calls.
+[01:42:41.887 --> 01:42:43.247]  Kevin in Ohio, thanks for holding.
+[01:42:43.267 --> 01:42:44.327]  We're into Sunday Night Live.
+[01:42:44.347 --> 01:42:44.948]  Go ahead, Kevin.
+[01:42:49.828 --> 01:42:50.388]  Can you hear me?
+[01:42:50.608 --> 01:42:51.428]  I sure can, Kevin.
+[01:42:52.448 --> 01:42:52.688]  All right.
+[01:42:52.708 --> 01:42:53.048]  All right.
+[01:42:53.128 --> 01:42:53.748]  I love you, Al.
+[01:42:54.268 --> 01:42:56.168]  Love you, too.
+[01:42:57.089 --> 01:43:01.409]  So, that whole thing about last night was crazy.
+[01:43:02.069 --> 01:43:05.049]  And I think it was not even legitimate.
+[01:43:05.109 --> 01:43:06.209]  I'm not going to lie to you.
+[01:43:06.769 --> 01:43:14.670]  And the reason I say that is the whole thing was like so manufactured.
+[01:43:15.210 --> 01:43:16.650]  But I don't really care.
+[01:43:17.030 --> 01:43:19.530]  Hey, I don't judge you, and you might be right.
+[01:43:20.030 --> 01:43:23.171]  We've been lied to so much, that's fine for you to question it.
+[01:43:23.191 --> 01:43:25.271]  What stuck out to you is particularly manufactured?
+[01:43:26.451 --> 01:43:41.872]  Well, the reason I think it's manufactured is just the fact that if you actually look at it, and I mean, really, if I walked up in there, if I walked up in there myself or you and did that, we'd be dead.
+[01:43:42.812 --> 01:43:45.253]  Well, I've been to a lot of presidential events, and that's true.
+[01:43:46.433 --> 01:43:47.333]  I mean, way back to.
+[01:43:49.333 --> 01:43:51.293]  God, even Reagan, when I was a kid, we had to go through stuff.
+[01:43:51.733 --> 01:43:53.393]  My dad went to go see Reagan speak in Dallas.
+[01:43:53.733 --> 01:43:55.213]  Even open air events, they searched everybody.
+[01:43:55.973 --> 01:43:59.654]  Open air Dallas, they had guys, he goes, look, Stinger missiles on top of the buildings.
+[01:43:59.674 --> 01:44:02.174]  They had guys with missile launchers in case somebody tried to bring a plane in.
+[01:44:03.054 --> 01:44:07.814]  But Carrie Lake and others said no one even checked her ID when she came in.
+[01:44:08.374 --> 01:44:09.955]  So that sounds like a stand down to me.
+[01:44:11.095 --> 01:44:14.335]  It's kind of like the Ursula Vance, that connection.
+[01:44:14.575 --> 01:44:17.515]  I mean, you can't tell me that's not kind of weird.
+[01:44:19.015 --> 01:44:22.276]  No, but that doesn't mean it was staged, it means they stood down.
+[01:44:23.456 --> 01:44:24.496]  I'm not standing on stage.
+[01:44:24.796 --> 01:44:25.576]  I'm just thinking that.
+[01:44:25.616 --> 01:44:26.696]  No, no, I'm not disagreeing with you.
+[01:44:26.716 --> 01:44:27.816]  What are you saying you think?
+[01:44:29.256 --> 01:44:30.976]  Well, I think it was.
+[01:44:31.896 --> 01:44:33.077]  I'm not standing on stage.
+[01:44:33.157 --> 01:44:34.777]  I just think that.
+[01:44:34.797 --> 01:44:36.437]  You're saying you don't think we're getting the truth?
+[01:44:37.877 --> 01:44:39.097]  I don't think we're getting the truth, no.
+[01:44:39.317 --> 01:44:45.018]  Well, we know Kash Patel killed the investigation into foreign involvement in Kirk's killing.
+[01:44:45.058 --> 01:44:50.338]  And then the guy in his manifesto, the family says is real, says he likes Kash Patel.
+[01:44:50.518 --> 01:44:51.378]  Well, that's weird.
+[01:44:54.378 --> 01:44:57.019]  Well, I want to say something though, Alex.
+[01:44:57.379 --> 01:44:58.719]  I love you to death.
+[01:44:59.219 --> 01:45:00.739]  I have followed you forever.
+[01:45:01.500 --> 01:45:04.359]  And I can't wait to get my shirt.
+[01:45:04.420 --> 01:45:04.920]  It's coming.
+[01:45:05.420 --> 01:45:07.041]  You know, I'm a little retarded.
+[01:45:07.560 --> 01:45:08.161]  I like that.
+[01:45:08.661 --> 01:45:09.800]  I am a little retarded, yeah.
+[01:45:10.701 --> 01:45:12.501]  Yeah, I am, Dave.
+[01:45:12.880 --> 01:45:21.001]  But my thing is, I don't think that our federal government is even legitimate at this point.
+[01:45:21.161 --> 01:45:22.421]  I honestly believe that.
+[01:45:23.661 --> 01:45:24.561]  No, I agree with you.
+[01:45:24.621 --> 01:45:27.862]  That's why I'm trying to reform and take it over versus the Civil War.
+[01:45:27.961 --> 01:45:28.902]  How do you think we fix it?
+[01:45:30.442 --> 01:45:31.103]  Well, I think.
+[01:45:31.143 --> 01:45:34.082]  We have to do it at the state level and maybe at the county level.
+[01:45:34.182 --> 01:45:36.063]  And I'll tell you, that's what the Democrats are doing.
+[01:45:36.082 --> 01:45:39.282]  They're taking over the states right now for the first time in 30 years.
+[01:45:39.342 --> 01:45:40.222]  We got a big problem.
+[01:45:41.182 --> 01:45:41.842]  Yeah, we do.
+[01:45:42.082 --> 01:45:49.283]  And I think that's why in Ohio, where I live, I think Casey Putch, I wish you would push him really hard.
+[01:45:49.983 --> 01:45:51.304]  I don't want to.
+[01:45:51.443 --> 01:45:56.244]  Well, let me tell you, I've decided to focus more on state and local stuff because that's where the real fight is.
+[01:45:56.264 --> 01:45:58.844]  So I'll do it, brother.
+[01:45:58.885 --> 01:46:01.005]  So tell us about this candidate you're talking about.
+[01:46:02.125 --> 01:46:04.984]  Okay, well, Casey Push is from Ohio.
+[01:46:05.444 --> 01:46:07.505]  He builds cars.
+[01:46:07.605 --> 01:46:13.286]  He has actually built a diesel engine that runs 100 miles per gallon.
+[01:46:13.746 --> 01:46:14.905]  And he builds watches.
+[01:46:15.365 --> 01:46:17.805]  Did you know Toyota had that in the 70s and they killed it?
+[01:46:19.166 --> 01:46:20.846]  You know, Harrison Smith had him on there.
+[01:46:21.586 --> 01:46:22.206]  We'll get him on.
+[01:46:22.346 --> 01:46:22.966]  Harrison's great.
+[01:46:23.466 --> 01:46:25.046]  Yeah, I don't want to get it wrong.
+[01:46:25.827 --> 01:46:30.286]  Toyota had one that did like 89 miles a gallon in the 70s.
+[01:46:31.387 --> 01:46:32.247]  Yes, you're right.
+[01:46:32.487 --> 01:46:33.207]  And they killed him.
+[01:46:35.167 --> 01:46:37.068]  Well, they just didn't let Toyota put it out.
+[01:46:37.087 --> 01:46:40.087]  But a bunch of people come up with stuff even better and they kill them.
+[01:46:40.228 --> 01:46:40.627]  That's right.
+[01:46:41.648 --> 01:46:42.889]  Yeah, that's exactly what they did.
+[01:46:43.148 --> 01:46:50.889]  And I've actually seen a motor, and Alex, I have been trying to get somebody to say something about this.
+[01:46:51.648 --> 01:46:59.529]  I know a farmer that runs three phase electric grinder on it's crazy.
+[01:46:59.590 --> 01:47:00.389]  You have to see it.
+[01:47:00.630 --> 01:47:04.090]  Yeah, the globalists call it disruptive technology, they're suppressing everything.
+[01:47:04.670 --> 01:47:07.210]  And now they want to cut even the carbon off and keep us off the new stuff.
+[01:47:07.230 --> 01:47:07.730]  Thanks, Nicole.
+[01:47:08.371 --> 01:47:08.871]  Great points.
+[01:47:08.970 --> 01:47:11.411]  All right, Dave and Evan, last callers.
+[01:47:11.430 --> 01:47:17.751]  Then I got a few questions for the great guest that's coming up on the other side.
+[01:47:18.931 --> 01:47:21.072]  This is going to be one hell of the next two hours.
+[01:47:21.091 --> 01:47:22.171]  You definitely want to join us for it.
+[01:47:23.511 --> 01:47:29.192]  And there's the great Royce White about to take over the final Sunday edition of InfoWars.
+[01:47:29.612 --> 01:47:32.252]  They shut us down Thursday night at midnight, rolling into Friday.
+[01:47:32.273 --> 01:47:34.932]  They say you've survived so many bizarre attacks.
+[01:47:35.572 --> 01:47:36.632]  I don't know what's going to happen, but.
+[01:47:37.472 --> 01:47:42.072]  I'm going to at least go eight, nine at night live here Thursday, so be sure and join us then.
+[01:47:42.653 --> 01:47:45.993]  And be sure and support our sponsor, theallshunstore.com, so we can continue the new network.
+[01:47:46.573 --> 01:47:49.413]  Start to keep coming after us, but hey, we just keep fighting because you back.
+[01:47:49.453 --> 01:47:50.453]  As people say, how do you keep fighting?
+[01:47:50.853 --> 01:47:51.733]  I got millions of people back me.
+[01:47:51.753 --> 01:47:52.653]  How am I supposed to not fight?
+[01:47:52.953 --> 01:47:54.573]  I'm supposed to just roll over in a ditch and die?
+[01:47:54.613 --> 01:47:59.755]  It's not even a choice, but you keep me in the fight, so I salute you and thank you from the bottom of my soul.
+[01:48:00.554 --> 01:48:04.175]  All right, Dave in FEMA Region 9 shooting, gaslighting, grievance culture.
+[01:48:04.434 --> 01:48:05.414]  You're on the air worldwide.
+[01:48:05.454 --> 01:48:05.755]  Welcome.
+[01:48:07.076 --> 01:48:11.595]  Yeah, I appreciate the opportunity to speak on your last Sunday night broadcast on the old network, Alex.
+[01:48:12.195 --> 01:48:17.416]  Proud VIP member, do the meth blue, the meth red, and the turmeric every month.
+[01:48:17.675 --> 01:48:22.197]  And I was blessed to be able to buy all five of the new knives.
+[01:48:22.476 --> 01:48:22.796]  Thank you.
+[01:48:22.856 --> 01:48:23.496]  You're incredible.
+[01:48:23.596 --> 01:48:24.936]  Before they all got sold out.
+[01:48:25.197 --> 01:48:26.657]  It's an honor to support you, sir.
+[01:48:27.216 --> 01:48:27.896]  I was blessed.
+[01:48:27.956 --> 01:48:34.677]  Admiral Bannon and Charlie Kirk introduced me to you in 2022 at the seminar.
+[01:48:34.997 --> 01:48:38.177]  You dialed in, you were remote, defeating the great reset.
+[01:48:38.657 --> 01:48:41.157]  And that's immensely changed my life.
+[01:48:41.177 --> 01:48:42.798]  So thank you for all of you guys, sir.
+[01:48:43.878 --> 01:48:44.298]  Yes, sir.
+[01:48:44.858 --> 01:48:50.318]  So this is something you and I have talked about, Chase and I have talked about on the air before, Harrison and I have talked about.
+[01:48:50.878 --> 01:49:00.159]  This is a gaslighting grievance culture, and it's spun up 24 hours a day by the lame stream propaganda media, right?
+[01:49:01.039 --> 01:49:15.460]  It's not only the hypocrisy, lies, and projection that they spin, the most influential path that they have with low information, low IQ voters is intentional information suppression.
+[01:49:16.100 --> 01:49:23.801]  So, like all these people call in, and I understand how it happens because critical thinking has been gone from our republic for probably 30 years.
+[01:49:24.501 --> 01:49:27.761]  But people don't, they can't see the forest for the trees.
+[01:49:28.021 --> 01:49:32.061]  And inherently, everybody distrusts all of our institutions.
+[01:49:32.442 --> 01:49:34.382]  And that's the key to Marxism, right?
+[01:49:34.782 --> 01:49:36.882]  They want you to distrust the American people.
+[01:49:36.922 --> 01:49:39.242]  And then even when there's facts, people don't even know what they are.
+[01:49:39.262 --> 01:49:41.482]  So they know they're being lied to, but they don't know what the lie is.
+[01:49:42.802 --> 01:49:45.143]  Correct, because people lack discernment.
+[01:49:45.543 --> 01:49:47.503]  We have a God problem in this country.
+[01:49:48.023 --> 01:49:55.183]  MAGA, in my humble opinion, should stand for not only make America great again, make America godly again.
+[01:49:55.783 --> 01:50:02.164]  We need Lord Jesus Christ in our hearts, in our society, in our schools, in our workplaces, 24 hours a day.
+[01:50:02.384 --> 01:50:03.344]  I appreciate you, sir.
+[01:50:04.804 --> 01:50:05.264]  I appreciate you.
+[01:50:05.344 --> 01:50:06.404]  You know, God is the answer.
+[01:50:06.984 --> 01:50:08.104]  Royce White talks a lot about that.
+[01:50:08.124 --> 01:50:08.745]  He's come up in a minute.
+[01:50:09.165 --> 01:50:13.605]  Evan in California, last caller on Sunday Night Live in this incarnation here.
+[01:50:14.265 --> 01:50:21.626]  Just remember, we'll be back at the Alex Shomes Network at alexshomeslive.com and everything else that's going to be happening on the new network.
+[01:50:21.706 --> 01:50:23.466]  So bookmark all that and be aware of it.
+[01:50:24.586 --> 01:50:28.826]  With these horrible creatures that think they're coming in and taking over, we're suing the living crap out of them.
+[01:50:29.886 --> 01:50:32.467]  We've just begun to fight, but we'll continue on.
+[01:50:32.487 --> 01:50:34.087]  We put everything in God's hands.
+[01:50:34.467 --> 01:50:37.067]  We commit ourselves to God and Christ Jesus, his son, our Savior.
+[01:50:37.687 --> 01:50:38.027]  Amen.
+[01:50:38.447 --> 01:50:39.827]  Evan in California, you're on the air.
+[01:50:39.887 --> 01:50:40.507]  Final caller.
+[01:50:41.187 --> 01:50:41.487]  Go ahead.
+[01:50:42.827 --> 01:50:44.408]  It's an honor to speak with you today.
+[01:50:45.048 --> 01:50:46.068]  This is Evan Knight.
+[01:50:46.188 --> 01:50:47.948]  We've spoken many times over the years.
+[01:50:48.568 --> 01:51:00.029]  I have something really important to tell you, but just first, let me make a quick comment that they have infrared systems where the Secret Service could have read everything inside every single room of that hotel.
+[01:51:00.549 --> 01:51:03.369]  And they would have seen the outline of a firearm.
+[01:51:03.389 --> 01:51:05.509]  They would have seen a cold shotgun.
+[01:51:05.549 --> 01:51:06.669]  They would have seen a pistol.
+[01:51:06.929 --> 01:51:13.970]  What they actually have is a form of sonar/slash radar that you see in that Batman movie 20 years ago, where they're able to scan the whole city and find stuff.
+[01:51:13.990 --> 01:51:14.790]  They actually do have that.
+[01:51:15.710 --> 01:51:15.890]  Yes.
+[01:51:16.030 --> 01:51:18.910]  So to me, that was to regain the narrative.
+[01:51:18.930 --> 01:51:27.311]  There's a lot of people like Jimmy Dore and stuff that have been pointing out that the butler, how they scrubbed the scene, they washed it clear, they scrubbed his apartment.
+[01:51:27.731 --> 01:51:33.432]  And then you go to Charlie Kirk, they instantly had to remodel the entire area and scrub that.
+[01:51:33.752 --> 01:51:34.692]  These aren't quintets.
+[01:51:35.012 --> 01:51:35.712]  Coincidences.
+[01:51:36.292 --> 01:51:38.072]  They're real cover ups.
+[01:51:38.112 --> 01:51:44.633]  So I believe they were trying to rewrite the narrative and put another assassination attempt in between.
+[01:51:44.993 --> 01:51:49.313]  So why is Trump not investigating something so important?
+[01:51:49.553 --> 01:51:51.533]  It's because there is a cover up there.
+[01:51:51.553 --> 01:51:53.753]  So that's really important stuff.
+[01:51:53.793 --> 01:51:56.053]  So people just got to get their head straight on this.
+[01:51:56.133 --> 01:51:57.234]  They're rewriting the narrative.
+[01:51:57.654 --> 01:52:02.634]  But speaking of the narrative, Alex, I want to point something out really big.
+[01:52:02.694 --> 01:52:04.534]  They want to put everything in your name.
+[01:52:05.114 --> 01:52:06.694]  They want the Alex Jones Network.
+[01:52:06.714 --> 01:52:07.814]  They want it all about you.
+[01:52:08.254 --> 01:52:11.995]  Then you're one drone attack away from being the InfoWars over.
+[01:52:12.395 --> 01:52:16.575]  They want to rewrite the narrative, and I'm doing my best to stop this.
+[01:52:16.615 --> 01:52:19.575]  So I'm at stillinfowars.com.
+[01:52:20.055 --> 01:52:23.376]  You pull up stillinfowars.com, you see my ministry.
+[01:52:23.856 --> 01:52:28.336]  I want the Bigley brothers to comment or to contact me and get this domain from me.
+[01:52:28.376 --> 01:52:29.616]  Well, listen, let's be clear.
+[01:52:29.956 --> 01:52:33.057]  This new network actually even has a whole other name coming out for all their shows.
+[01:52:33.617 --> 01:52:35.477]  My show and stuff, the Alex Jones Network and all that.
+[01:52:36.317 --> 01:52:37.337]  That was just an easy name.
+[01:52:37.837 --> 01:52:39.837]  The InfoWar, we're all the InfoWars.
+[01:52:39.857 --> 01:52:41.017]  So, yeah, this is all about the people.
+[01:52:42.077 --> 01:52:52.678]  But if you just put your thicky cap off in one quick second, stillinfowars.com is a website domain that should be the Biggley brothers should get it.
+[01:52:53.098 --> 01:52:56.918]  Still Infowars is 2.0 Alex Jones after they sued you.
+[01:52:57.158 --> 01:52:59.399]  A lot of people know you not by that.
+[01:52:59.419 --> 01:52:59.599]  I agree.
+[01:52:59.619 --> 01:53:02.079]  Everybody should create their own Infowars websites and mirror our stuff.
+[01:53:02.099 --> 01:53:02.719]  Yeah, it's a great idea.
+[01:53:03.099 --> 01:53:03.979]  Is it signed up right now?
+[01:53:04.859 --> 01:53:05.939]  Well, no, but yes.
+[01:53:06.219 --> 01:53:09.339]  You pull it up, you see my ministry, stillinfowars.com.
+[01:53:09.419 --> 01:53:13.640]  I want to get it to the Biggley brothers because I'm telling you, it's rewriting the narrative.
+[01:53:14.000 --> 01:53:17.580]  That says, no, you didn't get sued for a trillion dollars in lost infowars.
+[01:53:17.960 --> 01:53:20.000]  You could be stillinfowars.com.
+[01:53:20.220 --> 01:53:26.001]  And if you put this up as a question on your website, I think overwhelmingly you will get support.
+[01:53:26.041 --> 01:53:29.121]  Yeah, I mean, and then these guys will sue that, claim anything on it, whatever.
+[01:53:29.521 --> 01:53:30.841]  My point is, it's not all about me.
+[01:53:31.261 --> 01:53:32.321]  I'm not going to save the world.
+[01:53:32.741 --> 01:53:34.421]  I've done a great mission 32 years.
+[01:53:34.481 --> 01:53:37.142]  I'm going to continue on, but everything doesn't rest on me.
+[01:53:37.282 --> 01:53:37.882]  But I hear your point.
+[01:53:37.902 --> 01:53:38.542]  I appreciate your call.
+[01:53:41.262 --> 01:53:47.443]  The big thing I need is listeners to find the new show, hit your email list, your text message list, everybody you know, and say, here's where Alex Jones is at.
+[01:53:47.743 --> 01:53:49.783]  Here's a show they don't want you to have and do it every day.
+[01:53:50.643 --> 01:53:52.383]  When the people get excited, you have all the power.
+[01:53:52.583 --> 01:53:55.083]  When you call and tell me what I need you to do, I'm like, hey, really?
+[01:53:55.503 --> 01:53:56.183]  I'm doing the research.
+[01:53:56.203 --> 01:53:56.883]  I'm doing the show.
+[01:53:57.223 --> 01:53:58.023]  It's all about you now.
+[01:53:58.383 --> 01:53:59.084]  It's a team effort.
+[01:53:59.544 --> 01:54:00.164]  I need your help.
+[01:54:00.424 --> 01:54:01.284]  We're all in this together.
+[01:54:01.644 --> 01:54:03.424]  Support the sponsor, theologylandstore.com.
+[01:54:03.524 --> 01:54:04.644]  And I want to thank you.
+[01:54:05.064 --> 01:54:05.344]  All right.
+[01:54:05.404 --> 01:54:18.085]  Royce White, former professional basketball player, MMA fighter, candidate that's almost won national elections up in Minnesota and fighting so hard, takes over right now for the next hour and 57 minutes.
+[01:54:19.705 --> 01:54:20.405]  No, no, no, no.
+[01:54:20.585 --> 01:54:23.005]  Next hour and 57 minutes.
+[01:54:23.026 --> 01:54:23.946]  Next hour in 40s.
+[01:54:24.426 --> 01:54:24.946]  Yeah, yeah, yeah.
+[01:54:24.966 --> 01:54:25.886]  Next hour in 47 minutes.
+[01:54:26.326 --> 01:54:38.527]  So, but here's the scene before he comes on where in Batman, like 20 years ago or whatever it was, they use the secret NSA technology to track everything and use this sonar off the cell phones to scan and read everything.
+[01:54:39.047 --> 01:54:48.208]  They had this decades ago with Kinects, with all the different video game platforms.
+[01:54:48.228 --> 01:54:49.888]  They could already scan your whole house with them.
+[01:54:50.388 --> 01:54:53.648]  That was admitted with the PlayStations, all of it.
+[01:54:53.888 --> 01:54:54.828]  So, here's this scene.
+[01:54:54.868 --> 01:54:57.788]  Now, after the scene, Royce White takes over, so stay with us.
+[01:54:58.008 --> 01:55:02.129]  He's got a lot to say and share the live feeds for Alex Jones and Rumble the Alex Jones Show.
+[01:55:02.469 --> 01:55:03.449]  That's not a side issue.
+[01:55:03.809 --> 01:55:05.769]  You sharing the links is everything.
+[01:55:06.289 --> 01:55:11.630]  Getting the free app where you'll find the show at AlexJonesApp.com on Android and Apple.
+[01:55:12.590 --> 01:55:14.830]  Right there on the front page, the video and audio feeds.
+[01:55:15.150 --> 01:55:15.930]  Get the free app.
+[01:55:16.010 --> 01:55:17.690]  Tell everybody else this guy's being censored.
+[01:55:17.970 --> 01:55:18.630]  Get the free app.
+[01:55:18.690 --> 01:55:19.310]  It's so simple.
+[01:55:19.370 --> 01:55:21.430]  Your word of mouth is king.
+[01:55:21.790 --> 01:55:23.451]  You must use it to defeat the enemy.
+[01:55:23.771 --> 01:55:25.531]  AlexJonesApp.com.
+[01:55:25.651 --> 01:55:27.131]  AlexJonesApp.com.
+[01:55:27.571 --> 01:55:29.291]  Hit your whole email list, text messages tonight.
+[01:55:29.631 --> 01:55:30.631]  The show's being shut down.
+[01:55:30.671 --> 01:55:31.671]  The new show starts now.
+[01:55:31.711 --> 01:55:36.392]  Find it at alexjonesapp.com and follow us on X, the network at AJN Live.
+[01:55:36.872 --> 01:55:39.172]  But here's the clip from Batman, and then Royce White takes over.
+[01:55:39.832 --> 01:55:43.612]  Beautiful, isn't it?
+[01:55:43.632 --> 01:55:48.453]  Beautiful, unethical, dangerous.
+[01:55:49.613 --> 01:55:55.513]  You've turned every cell phone in Gotham into a microphone and a high frequency generator receiver.
+[01:55:56.053 --> 01:56:00.874]  You took my sonar concept and applied it to every phone in the city.
+[01:56:01.314 --> 01:56:07.934]  With half the city feeding you sonar, you can image all of Gotham.
+[01:56:08.134 --> 01:56:08.954]  This is wrong.
+[01:56:09.474 --> 01:56:11.075]  I've got to find this man, Lucius.
+[01:56:13.435 --> 01:56:14.275]  At what cost?
+[01:56:14.735 --> 01:56:16.695]  The database is Nelke encrypted.
+[01:56:16.715 --> 01:56:19.695]  It can only be accessed by one person.
+[01:56:21.255 --> 01:56:23.036]  This is too much power for one person.
+[01:56:23.636 --> 01:56:24.636]  That's why I gave it to you.
+[01:56:26.316 --> 01:56:28.216]  Only you can use it.
+[01:56:28.256 --> 01:56:29.416]  What a triangle.
+[01:56:29.556 --> 01:56:32.336]  Two weeks ago, he said, oh, we've got to take your rights, keep you safe.
+[01:56:33.676 --> 01:56:34.756]  This is an audio sample.
+[01:56:34.976 --> 01:56:39.497]  If he talks within range of any phone in the city, you can triangulate his position.
+[01:56:40.278 --> 01:56:41.440]  I'll help you this one time.
+[01:56:41.701 --> 01:56:43.163]  Of course.
+[01:56:43.183 --> 01:56:44.806]  But consider this my resignation.
+[01:56:45.167 --> 01:56:48.612]  As long as this machine is at Wayne Enterprises, I won't be.
+[01:56:50.476 --> 01:56:51.157]  When you're finished.
+[01:57:06.259 --> 01:57:09.699]  The great folks at Bigly, our main sponsor, they fund like 90% of the operation.
+[01:57:10.039 --> 01:57:15.260]  They give away an amazing American made vehicle, super truck, you name it, every month.
+[01:57:15.661 --> 01:57:27.942]  And there's a crossover period at the end of each month where you have the old offer and the new offer for one week together, where when you buy any product at thealcoholswar.com, you get put in to win both.
+[01:57:28.061 --> 01:57:33.701]  And in that last week, it's always 50X entries 100 times.
+[01:57:34.261 --> 01:57:36.402]  And most people that win do it during this period.
+[01:57:36.422 --> 01:57:37.262]  basically everybody.
+[01:57:37.643 --> 01:57:41.902]  And so you get the Ford Raptor Custom H1 Hummer.
+[01:57:41.922 --> 01:57:43.402]  These are incredible.
+[01:57:43.822 --> 01:57:44.542]  Plus $20,000 cash.
+[01:57:44.562 --> 01:57:50.523]  You can win one or both for each dollar spent, 100K entries in the sweepstakes.
+[01:57:50.823 --> 01:57:52.143]  Also, flash offer today.
+[01:57:52.163 --> 01:57:53.283]  These sales are totally insane.
+[01:57:53.804 --> 01:57:56.723]  We're giving you $10 free just to check out Automap.
+[01:57:56.804 --> 01:58:00.545]  $10 comes off on anything at the Alex Jones Store.com.
+[01:58:00.564 --> 01:58:05.824]  It could be Bovine Colostrum, it could be Shilogy, it could be Methylene Blue, Methylene Red, it could be anything.
+[01:58:06.464 --> 01:58:07.604]  And that offer ends.
+[01:58:07.724 --> 01:58:08.684]  That runs till Monday.
+[01:58:09.085 --> 01:58:10.505]  That flash shell runs for three days.
+[01:58:12.505 --> 01:58:22.286]  And then we have the five new modern but updated World War II trench daggers with the skull crushers all murdered out, brass knuckles, 10 inch, double edged, razor sharp, stainless steel.
+[01:58:23.046 --> 01:58:24.686]  And they made five designs.
+[01:58:24.826 --> 01:58:31.626]  I only designed one with the Christ is King on one side and the Jerusalem cross on the other.
+[01:58:31.766 --> 01:58:32.926]  I thought that was not.
+[01:58:33.206 --> 01:58:35.147]  I said yesterday, I said, I don't think this is the best design.
+[01:58:35.487 --> 01:58:36.247]  This is my design.
+[01:58:36.268 --> 01:58:37.627]  These others are so amazing.
+[01:58:38.047 --> 01:58:40.927]  Most of the sales were that and it's going to sell out today.
+[01:58:41.247 --> 01:58:42.627]  So my design is the most popular.
+[01:58:42.647 --> 01:58:44.327]  People ask what my marketing plan is.
+[01:58:44.367 --> 01:58:45.888]  Whatever I think is cool, it's just weird.
+[01:58:45.929 --> 01:58:47.608]  I didn't even say this is the cool one.
+[01:58:47.628 --> 01:58:47.848]  Get it?
+[01:58:47.929 --> 01:58:48.748]  The audience is just like me.
+[01:58:48.788 --> 01:58:49.368]  Oh, we want that.
+[01:58:49.788 --> 01:58:52.208]  It's like that's what I like.
+[01:58:52.268 --> 01:58:52.868]  It's what I promote.
+[01:58:52.929 --> 01:58:53.929]  And you seem to like it too.
+[01:58:54.848 --> 01:58:56.128]  So that's just how it works.
+[01:58:57.369 --> 01:58:59.869]  So we just launched five new trench war daggers.
+[01:59:00.750 --> 01:59:02.469]  I thought they would probably sell out in a few days.
+[01:59:02.509 --> 01:59:02.849]  They are.
+[01:59:03.009 --> 01:59:04.329]  They'll be sold out by Monday.
+[01:59:05.609 --> 01:59:06.649]  You are the InfoWar.
+[01:59:07.389 --> 01:59:08.289]  Molan Labe.
+[01:59:08.329 --> 01:59:09.070]  Liberty or Death.
+[01:59:09.090 --> 01:59:09.770]  Don't tread on me.
+[01:59:10.110 --> 01:59:12.210]  And Christ is king.
+[01:59:13.210 --> 01:59:14.190]  With the Jerusalem crust.
+[01:59:14.310 --> 01:59:16.390]  But I think that'll be gone.
+[01:59:16.411 --> 01:59:18.030]  But these are limited edition.
+[01:59:18.390 --> 01:59:20.290]  Well, they told me they had 1,000 of each knife.
+[01:59:20.670 --> 01:59:22.751]  They have like 700 of each knife.
+[01:59:23.692 --> 01:59:26.371]  So they will only produce 300 more of each because it is limited edition.
+[01:59:26.411 --> 01:59:28.671]  So they're going to, it'll be sold out by Monday.
+[01:59:29.031 --> 01:59:30.531]  Another 300 will come in of each and then that's it.
+[01:59:30.551 --> 01:59:31.411]  And then we'll have new designs.
+[01:59:31.751 --> 01:59:33.813]  But these are all limited edition as well, laser etched.
+[01:59:34.353 --> 01:59:35.552]  So you talk about bad.
+[01:59:35.732 --> 01:59:37.012]  I personally like the Spartan one.
+[01:59:38.012 --> 01:59:42.152]  With the Spartan phalanx and the Mulan Labe, personally, I think that's the coolest art there.
+[01:59:42.212 --> 01:59:44.594]  But again, my design, Jesus is King.
+[01:59:45.134 --> 01:59:46.313]  Is the best seller.
+[01:59:46.793 --> 01:59:49.573]  Also, we have other sales going on.
+[01:59:50.333 --> 01:59:55.853]  April 30th is your last chance to get original InfoWars t shirts, products with the original logo, all that.
+[01:59:56.154 --> 01:59:57.134]  That's a limited edition there.
+[01:59:57.694 --> 02:00:02.114]  By a miracle, we might beat them and take it back in the near future, but this is probably your last chance.
+[02:00:02.875 --> 02:00:04.875]  It's all a fundraiser, so thank you so much for your support.
+[02:00:05.514 --> 02:00:11.295]  But I'm telling you what you really want to get from Ethylene Blue and the Irish Seamoss and the Shilaji and all that.
+[02:00:11.335 --> 02:00:12.475]  I mean, it'll just change your life.
+[02:00:12.495 --> 02:00:13.115]  The iodine's incredible.
+[02:00:13.195 --> 02:00:15.735]  I mean, folks, we can only sell stuff that works.
+[02:00:15.875 --> 02:00:17.515]  Why would I sell something that doesn't work?
+[02:00:18.455 --> 02:00:20.116]  The left always, he sells boner pills.
+[02:00:20.136 --> 02:00:21.296]  What are you even talking about?
+[02:00:21.576 --> 02:00:29.896]  I mean, yes, technically, if you take our ultimate life force, it's very similar to our nitric boost, but it has even more stuff in it.
+[02:00:29.976 --> 02:00:31.577]  It's a spike protein detoxer.
+[02:00:31.917 --> 02:00:35.837]  And yes, for men, it has the effect of some interesting things when you wake up in the morning.
+[02:00:36.117 --> 02:00:38.697]  But that's not the main function, it's for your cardiovascular system.
+[02:00:39.957 --> 02:00:42.998]  But obviously, if Johnson's doing good, that shows you the rest of him's doing good.
+[02:00:43.478 --> 02:00:49.418]  The point is that everybody should take at least two rounds of this a year just for spike protein detox.
+[02:00:49.978 --> 02:00:52.238]  But what it does for your cardiovascular system is insane.
+[02:00:52.778 --> 02:00:53.738]  And this is not a bestseller.
+[02:00:54.078 --> 02:00:56.000]  I'm just up for saying, this is what you want.
+[02:00:56.819 --> 02:00:59.899]  From caller comment about something like, wow, whoa, ooh.

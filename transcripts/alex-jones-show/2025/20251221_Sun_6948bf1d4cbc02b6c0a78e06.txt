@@ -1,0 +1,1708 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, sat-12l-sm, and large-v3-turbo
+# Transcript cleaned with version 0.1.2
+# Source MD5: 57b01c3a573c3e68b224349519d1f057
+[00:00:12.720 --> 00:00:15.280]  InfoWars, tomorrow's news, today.
+[00:00:18.879 --> 00:00:29.120]  Between the time when the censors drank the voices of the free and the rise of the unyielding truth seekers, there was an age undreamed of.
+[00:00:29.440 --> 00:00:39.840]  And unto this, Alex Jones, destined to bear the crown of revelation upon a vigilant brow, fighting the shadows of tyranny.
+[00:00:40.160 --> 00:00:47.359]  It is I, his chronicler, who alone can tell thee of his saga.
+[00:00:47.920 --> 00:00:52.240]  Let me tell you of the days of high adventure.
+[00:00:53.000 --> 00:01:06.540]  I'm about to see his truth.
+[00:01:07.359 --> 00:01:10.239]  All of it is verifiable and documented.
+[00:01:10.560 --> 00:01:11.680]  This is reality.
+[00:01:12.000 --> 00:01:14.400]  Truth is stranger than fiction.
+[00:01:14.719 --> 00:01:16.480]  We know the government's planning terrorism.
+[00:01:16.640 --> 00:01:19.040]  We know the joint chiefs of staff wanted to blow up airliners.
+[00:01:19.280 --> 00:01:22.320]  If you do it, we're going to blame you because we know who's up to it.
+[00:01:22.560 --> 00:01:26.640]  Or if you let some terrorist group through it, like the World Trade Center, we know who to blame.
+[00:01:26.960 --> 00:01:28.960]  If any terrorism comes, it's from this government.
+[00:01:29.280 --> 00:01:36.560]  And if there was an outside threat like a bin Laden, who was a known CIA asset in the 80s, he's the boogeyman they need in this Orwellian phony system.
+[00:01:36.799 --> 00:01:39.920]  Long live the Constitution and death, the New World Order.
+[00:01:40.240 --> 00:01:42.000]  Death to the New World Order.
+[00:01:42.320 --> 00:01:44.240]  Shit, the idea of losing our sovereignty.
+[00:01:44.560 --> 00:01:47.120]  We don't like the flag, and we're sick and tired of it.
+[00:01:47.200 --> 00:01:49.280]  The revolution of peaceful information is coming.
+[00:01:49.439 --> 00:01:52.079]  And when it comes time, you people are going to be brought to punishment.
+[00:01:52.400 --> 00:01:54.079]  Don't you stand for America, sir?
+[00:01:54.400 --> 00:01:56.400]  What about the Federal Reserve and CFR?
+[00:01:57.680 --> 00:01:58.879]  You people are being lied to.
+[00:01:59.040 --> 00:02:00.560]  This country's been taken over by Europe.
+[00:02:00.799 --> 00:02:02.560]  And I'm being drug out and laughed at it.
+[00:02:02.879 --> 00:02:06.560]  The truth is out there in front of you, but they lay out this buffet of lies.
+[00:02:06.880 --> 00:02:09.520]  I'm sick of it, and I'm not going to take a bite out of it.
+[00:02:09.599 --> 00:02:10.400]  Do you got me?
+[00:02:10.719 --> 00:02:13.840]  I don't know what's going to happen at the end of this, but you want to fight?
+[00:02:14.000 --> 00:02:16.159]  You better believe you got one.
+[00:02:17.360 --> 00:02:18.319]  I'm here to warn people.
+[00:02:18.479 --> 00:02:19.840]  You keep telling me to shut up.
+[00:02:20.080 --> 00:02:21.120]  This isn't a game.
+[00:02:21.439 --> 00:02:25.439]  1776 will commence again if you try to take our firearms.
+[00:02:25.599 --> 00:02:27.680]  If you want them, come and take them.
+[00:02:30.479 --> 00:02:32.000]  Your reputation's amazing.
+[00:02:32.240 --> 00:02:33.520]  I will not let you down.
+[00:02:33.759 --> 00:02:36.560]  You'll be very, very impressed, I hope.
+[00:02:36.719 --> 00:02:39.840]  Donald J. Trump is now president of the United States.
+[00:02:40.159 --> 00:02:43.120]  InfoWars just lost their war on info.
+[00:02:43.360 --> 00:02:50.719]  Yesterday, Apple, iTunes, Vimeo, and Spotify, YouTube, Twitter, and Facebook have all blocked Alex Jones and InfoWars.
+[00:02:50.960 --> 00:02:52.640]  Google is evil.
+[00:02:53.280 --> 00:02:54.479]  Google is evil.
+[00:02:54.879 --> 00:02:59.759]  Alex Jones, he was subpoenaed by the bipartisan House Committee investigating the insurrection.
+[00:03:00.080 --> 00:03:02.000]  1776!
+[00:03:02.640 --> 00:03:04.479]  1776!
+[00:03:04.800 --> 00:03:08.400]  Alex Jones must sell off nearly all of his personal assets.
+[00:03:08.640 --> 00:03:10.719]  Jones owes $1.5 billion.
+[00:03:11.280 --> 00:03:13.200]  InfoWars is shutting down.
+[00:03:13.520 --> 00:03:16.240]  They may shut him down, but they won't shut him up.
+[00:03:16.560 --> 00:03:20.019]  The most banned man in America, Alex Jones.
+[00:03:21.019 --> 00:03:38.129]  Of the return of President Trump.
+[00:03:39.599 --> 00:03:42.640]  And it's never a light or dull news day.
+[00:03:43.280 --> 00:03:46.800]  Thank you for joining us for this live Sunday night four-hour transmission.
+[00:03:47.120 --> 00:03:51.360]  I'm your host, Alex Jones, here every Sunday, 4 to 6 p.m., sometimes 4 to 8 p.m.
+[00:03:51.680 --> 00:04:02.080]  A lot of times we have a guest host, like the great Royce White, who knocked out of the park last week, hosting the seven to eight o'clock or six and seven o'clock hour.
+[00:04:02.400 --> 00:04:07.920]  So look for him tonight in the third and fourth hour.
+[00:04:08.800 --> 00:04:09.040]  Okay.
+[00:04:10.240 --> 00:04:18.160]  Well, we've hit the winter solstice, the darkest, longest night of the year, and San Francisco is in the dark.
+[00:04:18.480 --> 00:04:20.160]  There was a fire there at one of their stations.
+[00:04:20.319 --> 00:04:21.360]  They don't have any backup power.
+[00:04:21.680 --> 00:04:26.879]  So they're still in the dark for about a day, and they've got a lot of electric cars stalled all over the roads.
+[00:04:27.040 --> 00:04:30.960]  Interesting example of what the great reset causes and does.
+[00:04:31.120 --> 00:04:37.840]  But speaking of energy, Venezuela condemns U.S. active piracy, seizing a second giant oil tanker.
+[00:04:38.160 --> 00:04:46.560]  And the Coast Guard is in hot pursuit near Venezuela, about to grab another third oil tanker.
+[00:04:46.879 --> 00:04:50.160]  U.S. Coast Guard in active pursuit of third vessel off Venezuela coast.
+[00:04:50.319 --> 00:04:51.840]  I'll run down a bunch of the other news.
+[00:04:52.000 --> 00:04:52.560]  It's big.
+[00:04:52.720 --> 00:04:53.280]  Straight ahead.
+[00:05:00.860 --> 00:05:02.699]  Thank you so much for joining us.
+[00:05:02.879 --> 00:05:08.160]  Decided to spend time with us on this Sunday evening, December 21st, 2025.
+[00:05:08.480 --> 00:05:10.720]  Remember, you are the Paul Revere's.
+[00:05:11.040 --> 00:05:29.439]  And when you decide on that local station you're listening to or on X or on Rumble at the Real Alex Jones or the All Shows Network to share that feed with friends, family, neighbors, strangers, your email list, your text message list and say, here is the Vibrotin transmission that the bad guys do not want you to hear or see.
+[00:05:29.680 --> 00:05:31.199]  That's how we're changing the world.
+[00:05:31.519 --> 00:05:33.600]  And we are the tip of the spirit together.
+[00:05:34.240 --> 00:05:42.800]  Myself, the crew, and you, the listeners and viewers that aren't spectators, you're active participants in the animating contest of liberty.
+[00:05:43.439 --> 00:05:44.720]  Well, there's a headline tonight.
+[00:05:44.879 --> 00:05:47.199]  Sunday Live, U.S. Target's third oil tanker.
+[00:05:47.280 --> 00:05:51.600]  They're in hot pursuit, chasing it down right now off Venezuela as tensions melt.
+[00:05:51.920 --> 00:05:54.240]  Netanyahu's traveling to the White House next week.
+[00:05:54.399 --> 00:05:56.480]  Wants U.S. to strike Iran again.
+[00:05:57.040 --> 00:06:04.080]  Democrats move to impeach Bondi and others over full Epstein file release delay.
+[00:06:04.720 --> 00:06:06.960]  And they keep calling it the Epstein files.
+[00:06:07.279 --> 00:06:12.639]  There are civil cases, criminal cases, the Epstein estate, countless new civil cases.
+[00:06:12.960 --> 00:06:15.120]  It just continues on and on.
+[00:06:15.439 --> 00:06:16.320]  And what are we getting?
+[00:06:16.399 --> 00:06:26.080]  Bill Clinton with women in hot tubs and just a bunch of garbage and creepy stuff with Epstein half naked with it.
+[00:06:26.159 --> 00:06:28.240]  Looks like a baby's foot in his hand.
+[00:06:28.399 --> 00:06:32.560]  I mean, it's just, and there's no Donald Trump in there.
+[00:06:35.680 --> 00:06:45.680]  Except the Justice Department's been going through whoever they believe is innocent or just a bystander in any of these tens of thousands of files that have already been released.
+[00:06:46.000 --> 00:06:47.279]  More coming.
+[00:06:50.480 --> 00:06:55.519]  The media goes, look, Donald Trump's name was blacked out of this document.
+[00:06:55.840 --> 00:06:57.279]  And how did they know?
+[00:06:57.600 --> 00:07:01.360]  Because it was a public document that had just been in the files.
+[00:07:02.000 --> 00:07:05.920]  And so they knew that Trump didn't do anything wrong where his name was listed.
+[00:07:06.000 --> 00:07:09.200]  It was just a side issue, a bystander.
+[00:07:10.480 --> 00:07:14.480]  Just mentioned in a report, not with any crime.
+[00:07:16.399 --> 00:07:20.399]  And so they knew that, but they implied, ooh, they're blacking Trump out.
+[00:07:20.720 --> 00:07:21.920]  But here's the bigger question.
+[00:07:22.240 --> 00:07:24.320]  Why is the Justice Department doing that?
+[00:07:24.639 --> 00:07:26.320]  There is nothing to hide there.
+[00:07:26.960 --> 00:07:37.759]  So the Justice Department is setting up these traps for Trump, acting like they're his buddies, but at every point and level, making him look like he's guilty.
+[00:07:38.720 --> 00:07:42.720]  Yeah, Bill Clinton, the main character in the Epstein drop, just can't escape scandal.
+[00:07:48.370 --> 00:07:50.110]  So it goes on and on.
+[00:07:50.240 --> 00:07:57.600]  And there's Larry Summers, Clinton's top economic advisor, later the head of Harvard.
+[00:07:58.879 --> 00:08:02.079]  And they imply, ooh, they're holding back stuff on Trump.
+[00:08:02.400 --> 00:08:03.600]  There's nothing there.
+[00:08:04.560 --> 00:08:10.319]  But the Justice Department continues to drop the ball on purpose to make it look like Trump's guilty.
+[00:08:10.480 --> 00:08:13.199]  Epstein files released by Department of Justice.
+[00:08:13.519 --> 00:08:17.759]  Pam Bondi hit with impeachment threat over Epstein failure.
+[00:08:19.040 --> 00:08:21.840]  They had one month since the bill passed to release all the quote files.
+[00:08:22.000 --> 00:08:28.879]  Epstein files, photos disappear from government website, including one of Trump doing nothing.
+[00:08:30.720 --> 00:08:32.159]  Then we have the examples right here.
+[00:08:32.399 --> 00:08:33.440]  I had some blow-ups of that.
+[00:08:33.680 --> 00:08:35.600]  You guys actually prepared the blow-ups of this, I can show you.
+[00:08:35.919 --> 00:08:40.639]  Oh, look, they blacked out Trump's name in one of the data documents.
+[00:08:40.960 --> 00:08:43.600]  And then it was already publicly available years ago.
+[00:08:43.759 --> 00:08:45.759]  And then you see it's innocuous.
+[00:08:46.399 --> 00:08:49.600]  But that's the type of trick they play.
+[00:08:49.919 --> 00:09:01.120]  Like a few weeks ago, the Democrats cherry picked out of 90-plus thousand Epstein files from the state that his family turned over and only released 19 images.
+[00:09:01.440 --> 00:09:07.039]  One of them, Trump at a socialite event, talking to him, looks like a 40-year-old woman.
+[00:09:07.680 --> 00:09:10.879]  And then you see Epstein standing off a few feet away.
+[00:09:11.200 --> 00:09:11.519]  Okay.
+[00:09:12.480 --> 00:09:14.080]  They both attended the same clubs.
+[00:09:14.399 --> 00:09:18.879]  And then Trump at a beauty pageant with women with flowers around their necks.
+[00:09:19.519 --> 00:09:22.639]  And they blacked out their faces to make it look like they were victims.
+[00:09:22.960 --> 00:09:25.759]  And it turned out it was a public photo from the New York Post in early 90s.
+[00:09:25.920 --> 00:09:34.960]  Again, I predicted this would be the trick over and over again, but I do want to look at some of the stuff that has been released because it's super interesting and super creepy.
+[00:09:35.279 --> 00:09:39.279]  And it just shows you the mind of Epstein and these globalists.
+[00:09:39.440 --> 00:09:50.159]  Bringing on Deputy AG Todd Blanche responds to Massey and others threatening to impeach Pam Bondi over what they've done.
+[00:09:50.480 --> 00:09:51.920]  And they said, look, we had a month.
+[00:09:52.159 --> 00:09:54.799]  We've already released tens of thousands of files just this month.
+[00:09:55.039 --> 00:09:56.639]  We're going to release more.
+[00:09:57.920 --> 00:10:04.799]  But I'm not accusing them specifically of sabotage, but this is what Kyle Seraphin said about 10 months ago that he knows this pattern.
+[00:10:04.879 --> 00:10:05.759]  He's been proven right.
+[00:10:06.000 --> 00:10:15.840]  That it's the middle managers, people that are going through all this are deliberately, even then we heard this was coming, going to black Trump's name out, even if innocuous stuff.
+[00:10:15.920 --> 00:10:18.399]  And just a newsflash, you can look this up.
+[00:10:19.039 --> 00:10:28.639]  When they've declassified big tranches of CIA files since 47, the biggest ever was in the church committee hearings in 76, 77, 78.
+[00:10:28.960 --> 00:10:30.960]  They released millions of files.
+[00:10:31.279 --> 00:10:38.879]  90 plus percent was newspaper clippings and transcripts of what was on the newscast.
+[00:10:39.519 --> 00:10:45.519]  But they would classify it because they wouldn't want people in Fourier requests knowing what they were researching.
+[00:10:46.160 --> 00:10:47.840]  And so that's what most of this is.
+[00:10:48.080 --> 00:10:53.840]  So it's like, oh, we've got, look, it's Trump with six or seven women around him.
+[00:10:54.799 --> 00:10:56.559]  And I looked at their shoulders and arms and stuff.
+[00:10:56.799 --> 00:10:58.480]  I said that they look about 25.
+[00:10:59.120 --> 00:11:00.559]  They got flowers around their necks.
+[00:11:00.799 --> 00:11:02.080]  I could tell that's newsprint.
+[00:11:02.240 --> 00:11:04.000]  That's a photo of a newsprint.
+[00:11:04.320 --> 00:11:08.160]  And it wasn't until hours later we learned it was the New York Post from 92.
+[00:11:08.480 --> 00:11:09.360]  But I assisted.
+[00:11:09.440 --> 00:11:10.879]  I said, that's a public photo.
+[00:11:10.960 --> 00:11:11.600]  I've seen that before.
+[00:11:11.759 --> 00:11:13.039]  I don't remember where.
+[00:11:14.320 --> 00:11:16.399]  We've seen this recycled over and over again.
+[00:11:16.639 --> 00:11:17.759]  I've seen that photo a bunch.
+[00:11:17.840 --> 00:11:19.840]  I said, you can see the news scan.
+[00:11:20.480 --> 00:11:22.080]  You can see the printing.
+[00:11:22.720 --> 00:11:24.240]  It's black and white.
+[00:11:26.480 --> 00:11:28.879]  Or that Sepia style they do, kind of three-tone.
+[00:11:29.200 --> 00:11:31.680]  And then sure enough, hours later, oh, it's the New York Post.
+[00:11:32.320 --> 00:11:34.879]  And the article is, oh, it was so good to be part of this with Trump.
+[00:11:34.960 --> 00:11:36.160]  He's such a gentleman.
+[00:11:36.480 --> 00:11:39.600]  And it shows the women that are all about 25, 30 years old, just like I said.
+[00:11:39.920 --> 00:11:44.960]  But a public photo of him, act like it's secret.
+[00:11:45.279 --> 00:11:46.559]  Yeah, there you go.
+[00:11:48.879 --> 00:11:50.720]  And pretend that you have found Satan himself.
+[00:11:50.879 --> 00:11:53.440]  And again, I just call balls and strikes.
+[00:11:54.080 --> 00:11:56.720]  But so many conservatives are like, I'm done with Trump.
+[00:11:57.040 --> 00:11:58.560]  You know, he's involved with Epstein.
+[00:11:58.879 --> 00:11:59.840]  No, he's not.
+[00:12:00.160 --> 00:12:02.639]  But the mishandling of it has been terrible.
+[00:12:02.960 --> 00:12:04.879]  Absolutely terrible.
+[00:12:05.200 --> 00:12:17.680]  Jeffrey Epstein's partner in crime, Gisley Maxwell, revealed in photos released by the Department of Justice, kissing him, showing off her breast with women rubbing their feet on her breast.
+[00:12:18.320 --> 00:12:24.480]  Yeah, her and the Google, I mean, her and the Apple widow are big buddies.
+[00:12:25.120 --> 00:12:28.800]  Big, buddies.
+[00:12:29.440 --> 00:12:33.680]  So lots of stuff going on out there with these people.
+[00:12:34.240 --> 00:12:36.960]  But I've kind of already hit that.
+[00:12:38.879 --> 00:12:44.160]  I want to get into censorship and control and what the globalists are up to and what they're doing.
+[00:12:44.320 --> 00:12:46.960]  Then we'll get all the war news that's unfolding.
+[00:12:47.040 --> 00:12:59.440]  But a really good move by the Trump admin to kill 41 building, 41 billion in tech deal with UK over online censorship laws.
+[00:13:00.400 --> 00:13:06.560]  And the laws they've now passed in the UK, years in prisons were silently praying.
+[00:13:07.519 --> 00:13:08.080]  You name it.
+[00:13:08.480 --> 00:13:12.960]  If your dog on the street offends Muslims, you are taken to jail.
+[00:13:13.040 --> 00:13:14.800]  Your dog is taken and euthanized.
+[00:13:15.040 --> 00:13:16.400]  I have newscasts saying it.
+[00:13:18.960 --> 00:13:25.600]  And in the new law, they can add anything they want and say it's hateful at any time.
+[00:13:25.680 --> 00:13:27.200]  So it's an open-ended law.
+[00:13:27.519 --> 00:13:34.080]  So I thought I'd give you some examples of that because Australia is trying to pass these exact same laws.
+[00:13:34.400 --> 00:13:37.920]  Canada's already passed about half of the laws in the last month.
+[00:13:38.160 --> 00:13:53.759]  They got the other half tried to pass that just gets rid of all your speech, grabs your bank account, preemptively puts you in jail or house arrest if they think you're going to do something and say something you're not allowed to.
+[00:13:54.400 --> 00:14:01.200]  And they're saying criticism of Islam, criticism of Islam is the main problem.
+[00:14:01.360 --> 00:14:07.600]  Sadiq Khan said the biggest problem facing Europe, the UK, everybody is people that don't like Islam.
+[00:14:07.920 --> 00:14:10.400]  And the only problem in the world under Islam is we're not submitting to you, right?
+[00:14:10.480 --> 00:14:11.120]  That's what it means.
+[00:14:11.360 --> 00:14:12.560]  Submission.
+[00:14:13.200 --> 00:14:19.600]  So U.S. suspends $41 billion tech deal with UK over online censorship laws.
+[00:14:20.879 --> 00:14:21.519]  Just an example.
+[00:14:21.759 --> 00:14:26.240]  British teachers to spot misogyny in boys and target them for re-education.
+[00:14:26.400 --> 00:14:28.400]  But the Muslims are allowed to kidnap and rape women, though.
+[00:14:28.560 --> 00:14:30.080]  That's part of their culture.
+[00:14:30.720 --> 00:14:31.519]  Here's Sadiq Khan.
+[00:14:31.680 --> 00:14:32.560]  In fact, that's on the list, guys.
+[00:14:32.640 --> 00:14:34.400]  I forgot to give you the number, but pull that up.
+[00:14:34.480 --> 00:14:36.560]  I'm just going to hit this now with those other clips in a minute.
+[00:14:37.039 --> 00:14:37.519]  Here's the mayor.
+[00:14:37.600 --> 00:14:42.240]  I don't like to tell you something and then not actually show it because it's just sensational how out in the opening is.
+[00:14:42.480 --> 00:14:52.000]  The mayor of London says people who are against Islam are the real problem, not the grooming gangs or the terrorism.
+[00:14:52.960 --> 00:14:54.400]  I mean, it's just amazing.
+[00:14:54.720 --> 00:15:15.920]  And then we've got Australia saying we're going to take whatever guns are left in response to the Muslims killing a bunch of people last week in Sydney, and we're going to pass an anti-hate law where you will get long prison sentences for anything we say is hateful, specifically being mean to the Muslims.
+[00:15:16.240 --> 00:15:33.120]  Even though the Muslims are now running super creepy TV ads, I'll get to later, where they are literally wanting to outlaw Christmas.
+[00:15:34.720 --> 00:15:36.240]  So that's coming up.
+[00:15:37.440 --> 00:15:40.400]  But here's the new articles, though.
+[00:15:40.960 --> 00:15:45.279]  Now, listen to Orwellian, how Orwellian these headlines are, because we can actually go read the legislation.
+[00:15:45.360 --> 00:15:50.159]  It's point blank banning, criticizing Muslims, open borders, anybody.
+[00:15:50.399 --> 00:15:54.960]  Ministers finalizing definition of anti-Muslim hatred.
+[00:15:55.679 --> 00:15:56.879]  They've already released what they want.
+[00:15:56.960 --> 00:16:03.919]  It's any criticism of Islam, any criticism of any of them in any way, and you're going to spend years in prison.
+[00:16:04.240 --> 00:16:11.679]  Proposed UK Islamophobia definition allows for right to criticize religion, sources say, oh, sure it does.
+[00:16:12.639 --> 00:16:13.919]  That's the Guardian.
+[00:16:14.879 --> 00:16:16.559]  Hate crime and hate speech.
+[00:16:16.720 --> 00:16:17.600]  You get government section.
+[00:16:17.679 --> 00:16:18.960]  You can read right here for yourself.
+[00:16:19.279 --> 00:16:20.159]  And they spit it more.
+[00:16:20.240 --> 00:16:21.519]  England's new free speech law.
+[00:16:21.679 --> 00:16:23.600]  Oh, it's a free speech law.
+[00:16:24.799 --> 00:16:28.799]  Yeah, the censors always say, oh, you have free speech in Germany and Sweden and everywhere.
+[00:16:29.120 --> 00:16:30.799]  Now the UK, but we will put you in jail.
+[00:16:30.960 --> 00:16:34.319]  What you say is hurtful or mean or, you know, we don't like it.
+[00:16:35.840 --> 00:16:40.480]  In Germany, they've put people in jail who've criticized the new Chancellor Murray.
+[00:16:40.639 --> 00:16:44.559]  I covered the article last week for saying he's incompetent.
+[00:16:45.200 --> 00:16:49.120]  And they knock down your door, take your electronics, three years in prison.
+[00:16:49.440 --> 00:16:51.440]  And then you lose your job and you get out.
+[00:16:53.360 --> 00:17:02.319]  So, I mean, this is what the ADL, this is what the Israel lobby wants here.
+[00:17:02.559 --> 00:17:04.799]  And they're in an alliance with the left.
+[00:17:06.400 --> 00:17:11.359]  And I have clips of the left, new ones.
+[00:17:11.680 --> 00:17:18.960]  I have clips in the UK, Canada, Australia saying, you say something mean, putting you in prison.
+[00:17:21.519 --> 00:17:30.799]  And then I've got all the big major Israel lobbies, clips here, just shocking, saying we're using AI to track everybody and what you say.
+[00:17:31.680 --> 00:17:34.240]  And you criticize Israel in any way.
+[00:17:34.880 --> 00:17:39.440]  We are going to take you offline.
+[00:17:40.400 --> 00:17:42.640]  And then we are going to get you fined.
+[00:17:42.960 --> 00:17:44.880]  And we're going to make sure you lose your job.
+[00:17:45.200 --> 00:17:48.079]  And in countries like Europe, we're going to put you in jail.
+[00:17:48.400 --> 00:17:53.519]  And they say the definition is if you criticize Zionism, even.
+[00:17:55.440 --> 00:17:59.200]  So my point in raising this is you've got the left wanting to get rid of free speech.
+[00:17:59.359 --> 00:18:04.000]  And then in the right wing, they call it right wing.
+[00:18:04.319 --> 00:18:06.720]  You've got these big Jewish lobbies doing it.
+[00:18:06.960 --> 00:18:10.319]  And it is just so dangerous and so bad.
+[00:18:10.639 --> 00:18:13.680]  And it's just a huge problem.
+[00:18:13.920 --> 00:18:21.119]  And then you notice at TPUSA and everywhere, you've got Mark Levin and Ben Shapiro running around trying to police everybody.
+[00:18:22.000 --> 00:18:23.759]  Oh, yeah, this video is chilly around here.
+[00:18:23.920 --> 00:18:26.079]  The problem is it's 13 minutes long.
+[00:18:28.319 --> 00:18:48.720]  And these big think tanks with massive money literally say, we have courts, our own private courts, like Sharia law, and we have the Jewish leadership in control of the censorship, which is not completely true, but then if you say Jews are on the censorship in many areas, then they also say we're going to censor you.
+[00:18:48.960 --> 00:18:49.519]  They actually say that.
+[00:18:49.599 --> 00:18:50.559]  I've played the clips before.
+[00:18:51.200 --> 00:18:52.799]  They had a meta-censorship.
+[00:18:53.440 --> 00:18:58.319]  Like Jews control almost all the censorship in the West and all the big tech censorship.
+[00:18:58.639 --> 00:19:01.759]  And if you say that, we're going to censor you and debank you too.
+[00:19:02.079 --> 00:19:04.880]  And I'm just like, well, okay, okay.
+[00:19:05.759 --> 00:19:09.759]  There are a lot of you have to be Jewish, but I'm not even trying to attack Jews in general.
+[00:19:09.920 --> 00:19:11.360]  I just want to stop the censorship.
+[00:19:11.680 --> 00:19:15.119]  And they're like, well, if you point that out, we're going to put you in jail.
+[00:19:15.440 --> 00:19:17.920]  I mean, this is coming very, very quickly.
+[00:19:18.160 --> 00:19:24.240]  So everybody's going to be forced into this situation of asking, why is Sadiq Khan so arrogant?
+[00:19:24.559 --> 00:19:28.559]  Why are the other Muslim leaders so arrogant saying we're invincible, we're taking over, it's over for you.
+[00:19:28.880 --> 00:19:31.940]  Because they're 30, 40, 50, 60, 70, 80, 90%.
+[00:19:31.940 --> 00:19:43.649]  The capital of the EU, Brussels, Belgium, is like 88% Muslim.
+[00:19:44.799 --> 00:19:46.240]  Paris is something like 50%.
+[00:19:47.039 --> 00:19:48.400]  London's over 60%.
+[00:19:49.279 --> 00:19:51.279]  Total 80 plus percent non-white.
+[00:19:52.559 --> 00:20:01.119]  And they teach anti-white, and they teach all the people they bring in to hate the country and to want to overthrow it and to hate white people.
+[00:20:01.759 --> 00:20:12.720]  And that's done with the left, with the globalists, with the Muslims, and then with the leftist Jewish groups and the right-wing ones, London Guardian supporting all this ban on free speech because they're liberal.
+[00:20:13.680 --> 00:20:15.200]  And it's a sick alliance.
+[00:20:15.599 --> 00:20:17.920]  It's beyond a red-green alliance.
+[00:20:18.879 --> 00:20:24.960]  There is a Jewish alliance in the red-green alliance.
+[00:20:25.279 --> 00:20:26.559]  And I won't apologize for saying that.
+[00:20:26.640 --> 00:20:27.680]  It's true.
+[00:20:28.319 --> 00:20:41.920]  And that's why the temperature has been turned up so much in all this racial and religious conflict is above all that is the globalist architects manipulating this clash of civilizations at the end of which we won't have any free speech.
+[00:20:43.200 --> 00:20:48.480]  So if I play all these ministers saying they're going to take your speech and put you in jail, take the whole show.
+[00:20:48.799 --> 00:20:58.480]  Imagine go 30 minutes with just new clips of the powerful Jewish think tank censorship groups in the U.S., in Europe, you name it, just point blank.
+[00:20:58.799 --> 00:21:00.480]  Like, it will not be tolerated.
+[00:21:00.799 --> 00:21:04.480]  You will not talk bad about us and we are going to destroy you.
+[00:21:05.039 --> 00:21:09.759]  Now, what do you think happens when we see Muslims saying we're conquering the West?
+[00:21:10.079 --> 00:21:11.440]  There's nothing you can do.
+[00:21:11.759 --> 00:21:13.920]  A certain percentage of people get motivated.
+[00:21:14.240 --> 00:21:17.119]  What do you think people do when they see the head of meta censorship?
+[00:21:17.680 --> 00:21:22.079]  Almost all the censor heads in government and in big tech are Jewish.
+[00:21:22.400 --> 00:21:26.639]  And if you say it's a Jewish conspiracy, we will crack down on you even harder.
+[00:21:26.960 --> 00:21:28.400]  It's like it's baiting, folks.
+[00:21:28.480 --> 00:21:29.440]  It's baiting, okay?
+[00:21:30.079 --> 00:21:31.440]  So I don't care who runs it.
+[00:21:31.599 --> 00:21:33.680]  I'm not going to attack people because of groups of people or whatever.
+[00:21:33.920 --> 00:21:35.519]  Yeah, I mean, it's like the Somalis.
+[00:21:35.680 --> 00:21:41.039]  I've probably seen 100 videos of Somalis in Minnesota going, listen, white slaves, we own you.
+[00:21:42.000 --> 00:21:44.319]  And you're going to do whatever we say, however we say.
+[00:21:44.480 --> 00:21:46.639]  And people see these and think this can't be real.
+[00:21:46.960 --> 00:21:48.079]  Go to Minneapolis.
+[00:21:48.160 --> 00:21:49.039]  I've been there many times.
+[00:21:49.279 --> 00:21:51.039]  The Genesis Network used to be based up there.
+[00:21:51.200 --> 00:21:53.279]  Been there like 20 times?
+[00:21:53.359 --> 00:21:54.160]  I don't remember.
+[00:21:55.680 --> 00:21:56.799]  I like Minnesota, man.
+[00:21:56.880 --> 00:21:59.519]  I mean, I don't like travel that much, but the hunting and fishing.
+[00:21:59.599 --> 00:22:04.079]  It's just, and so Ted Anderson, the owner of the network, was a big hunter and fisher still is.
+[00:22:04.559 --> 00:22:09.920]  And so he would just take me all expensive paying pheasant hunting, fishing, fishing is the best I've ever seen in the world.
+[00:22:12.079 --> 00:22:14.639]  But then you're in the city and literally the Somalis are arrogant.
+[00:22:14.720 --> 00:22:15.200]  They laugh at you.
+[00:22:15.279 --> 00:22:16.240]  They bump into you.
+[00:22:16.559 --> 00:22:19.680]  I mean, it's like scary as hell because they're arrogant, man.
+[00:22:20.000 --> 00:22:22.240]  And by the way, they do it to black people that aren't Somali.
+[00:22:22.319 --> 00:22:24.799]  They'll tell you, like, I'm like a big old black dude.
+[00:22:25.279 --> 00:22:26.960]  He goes, yeah, I was there to see my son.
+[00:22:27.039 --> 00:22:32.639]  And they just talking, smacked me and, you know, get in my face telling me I'm a scum because I'm not a Somali.
+[00:22:33.279 --> 00:22:34.480]  They are elitist, folks.
+[00:22:34.559 --> 00:22:39.920]  But the point is, is that you've got this consortium of elitists.
+[00:22:41.119 --> 00:22:46.079]  And in Pakistan in many regions, sex slavery is normal.
+[00:22:46.400 --> 00:22:51.039]  And so they set up shop all over the world with sex slavery and pedophilia.
+[00:22:51.359 --> 00:22:53.519]  And it's just so incompatible.
+[00:22:54.079 --> 00:23:02.319]  And then you've got the leftist and right-wing Jewish lobbies wanting to censor everybody.
+[00:23:02.639 --> 00:23:08.480]  And you've got the leftist Jewish lobbies only outdone by Catholic charities flooding us with all the Islamics.
+[00:23:09.680 --> 00:23:11.519]  And it's just a disaster.
+[00:23:12.079 --> 00:23:19.200]  And then if you say, hey, I don't want replacement migration, it's an official ADL UN plan to replace, quote, white Christians.
+[00:23:19.519 --> 00:23:20.639]  You go on the UN website.
+[00:23:20.720 --> 00:23:21.920]  It's on there with foreigners.
+[00:23:22.160 --> 00:23:24.000]  They say, oh, that's going to be illegal.
+[00:23:24.160 --> 00:23:27.440]  That is illegal in Germany, France, Sweden, and now the UK.
+[00:23:27.680 --> 00:23:30.559]  If you say this is replacement migration, you go to prison.
+[00:23:30.880 --> 00:23:34.400]  I can play you magistrates giving people two and three year sentences.
+[00:23:35.519 --> 00:23:41.919]  Did you said that they were bringing in immigrants, migrants to replace the white population and replace the migration?
+[00:23:42.319 --> 00:23:43.919]  That is a code violation.
+[00:23:44.240 --> 00:23:45.679]  Three years in prison.
+[00:23:45.919 --> 00:23:46.399]  Guilty.
+[00:23:46.879 --> 00:23:47.279]  Newty.
+[00:23:47.759 --> 00:23:48.319]  Nilty.
+[00:23:49.439 --> 00:23:53.039]  I mean, you're here in Twilight Zone music play, and it's an official plan.
+[00:23:53.919 --> 00:24:03.599]  But it's got to be illegal to say it because if you're being told you're being replaced and the people coming here are being brainwashed to hate you, well, let's do this.
+[00:24:03.759 --> 00:24:04.959]  Let's do Sadiq Khan.
+[00:24:05.199 --> 00:24:06.000]  I've got to get started here.
+[00:24:06.159 --> 00:24:08.159]  Let's do Sadiq Khan yesterday.
+[00:24:08.479 --> 00:24:12.399]  The problem is people that don't like Islam and don't submit to Islam.
+[00:24:12.719 --> 00:24:14.000]  And that's he's a real Muslim.
+[00:24:14.079 --> 00:24:15.439]  He's like, the problem is you don't submit.
+[00:24:15.599 --> 00:24:18.639]  Only problem the world is bend over, I rule you.
+[00:24:19.519 --> 00:24:24.399]  And then let's go to just one of the latest Somalis saying, you work for me, bitch.
+[00:24:24.719 --> 00:24:27.279]  Get your white ass out there and start working, bitch.
+[00:24:28.480 --> 00:24:28.960]  Here it is.
+[00:24:30.960 --> 00:24:32.720]  Okay, look, non-Muslims here.
+[00:24:33.220 --> 00:24:34.999]  We're not terrorists.
+[00:24:37.039 --> 00:24:38.159]  We're not bad people.
+[00:24:39.038 --> 00:24:46.479]  Unfortunately, some people try and divide communities, try and turn people against Islam and Muslims.
+[00:24:51.759 --> 00:24:56.699]  Bet you didn't see this.
+[00:24:57.439 --> 00:25:05.039]  What you're about to watch is easily one of the scariest, most disturbing things that I personally have ever seen.
+[00:25:05.359 --> 00:25:06.159]  Watch this.
+[00:25:06.480 --> 00:25:10.719]  When you look for a job, when you look for a-playing the wrong clip here, it's fine, not a problem.
+[00:25:10.959 --> 00:25:12.399]  That is not a Somali right there.
+[00:25:12.719 --> 00:25:14.719]  That is the big Jewish censor lady.
+[00:25:15.279 --> 00:25:16.079]  Not a problem.
+[00:25:16.399 --> 00:25:17.279]  I like it.
+[00:25:18.399 --> 00:25:19.039]  We're going to do this.
+[00:25:22.000 --> 00:25:23.599]  We're just going to relax here for a while.
+[00:25:23.679 --> 00:25:24.879]  Just enjoy ourselves.
+[00:25:25.199 --> 00:25:26.079]  Sit back.
+[00:25:26.399 --> 00:25:27.039]  Chill.
+[00:25:28.399 --> 00:25:29.519]  Open a fresca.
+[00:25:30.799 --> 00:25:32.559]  Because I'm super prepared here.
+[00:25:32.879 --> 00:25:35.919]  I've got, and I know we have a limited crew.
+[00:25:37.199 --> 00:25:42.000]  I have 59 clips today.
+[00:25:43.279 --> 00:25:47.439]  And I really want to air them for you.
+[00:25:48.000 --> 00:25:49.439]  Here's what I was talking about.
+[00:25:50.079 --> 00:25:51.599]  And you work all day.
+[00:25:51.679 --> 00:25:52.879]  You don't got shit.
+[00:25:53.839 --> 00:25:58.399]  Thank you for working so hard so I can be home all day free.
+[00:25:58.959 --> 00:26:00.399]  I can use my EBT.
+[00:26:00.639 --> 00:26:03.359]  Go to work for me, white boy, white girl.
+[00:26:03.679 --> 00:26:03.919]  Yeah.
+[00:26:04.480 --> 00:26:06.719]  Go to work for me, you white animals.
+[00:26:07.439 --> 00:26:08.239]  Work for me.
+[00:26:08.559 --> 00:26:10.239]  Yeah, you work for me.
+[00:26:10.559 --> 00:26:14.639]  And the U.S. government is the, they work for me.
+[00:26:14.959 --> 00:26:16.079]  All of you work for me.
+[00:26:16.319 --> 00:26:17.519]  Now go to work.
+[00:26:18.159 --> 00:26:19.599]  Pay them taxes.
+[00:26:19.919 --> 00:26:22.799]  Take care of me and my people.
+[00:26:23.759 --> 00:26:24.159]  All right.
+[00:26:24.319 --> 00:26:25.199]  This is my land.
+[00:26:25.359 --> 00:26:26.399]  I control this place.
+[00:26:26.639 --> 00:26:27.519]  This is my reality.
+[00:26:27.759 --> 00:26:29.039]  You're all going to be in chain.
+[00:26:30.239 --> 00:26:33.839]  I'm going to lock all you guys up if you don't pay your taxes.
+[00:26:34.159 --> 00:26:36.319]  You better pay your taxes.
+[00:26:37.279 --> 00:26:40.559]  This is how they truly feel about us.
+[00:26:40.879 --> 00:26:46.239]  I don't care how many times you vote to give them everything that they want.
+[00:26:46.559 --> 00:26:48.399]  This is how they truly think about you.
+[00:26:48.639 --> 00:27:00.959]  So to all the white liberals who are constantly complaining about the fact that they have no money, that their taxes are high, that all of these things are happening to them because of what they voted for.
+[00:27:01.279 --> 00:27:05.519]  So they can be the good person who allows everyone in.
+[00:27:05.839 --> 00:27:07.439]  This is what you're allowing it.
+[00:27:07.759 --> 00:27:08.639]  This is what you're supporting.
+[00:27:09.199 --> 00:27:09.439]  Rabbit.
+[00:27:09.599 --> 00:27:10.879]  The average leftist knows it.
+[00:27:10.959 --> 00:27:12.319]  They want to slit the country's throat.
+[00:27:12.399 --> 00:27:13.119]  They're Satanists.
+[00:27:13.279 --> 00:27:13.839]  Rabbi.
+[00:27:16.719 --> 00:27:17.359]  All right.
+[00:27:17.679 --> 00:27:19.279]  I want to be very clear here.
+[00:27:20.799 --> 00:27:25.359]  In my 31 years on air, it'll be 32 years coming up in April next year.
+[00:27:25.679 --> 00:27:29.359]  I have always criticized Israel when Israel is doing something wrong.
+[00:27:29.839 --> 00:27:38.079]  And I've exposed what Israel's done and bad things that Israel does and how Israel manipulates our internal politics and the different power blocks in Israel.
+[00:27:38.399 --> 00:27:44.399]  But I've always done it from a place of reality.
+[00:27:45.679 --> 00:27:53.759]  And I also criticize other powerful power blocks that are going against America's interest in our basic freedoms in some cases.
+[00:27:54.079 --> 00:27:58.799]  And I really go through a hit list of which country and which regimes I think are the most dangerous.
+[00:27:59.759 --> 00:28:11.839]  And Israel has gone from being really, I think, down the line, not one of the big threats to the United States, but a potential big threat because it's infiltration and control of our government at many levels in foreign policy.
+[00:28:12.159 --> 00:28:16.159]  Now that Israel's losing control, it's trying to assert control.
+[00:28:16.479 --> 00:28:18.879]  And so it's moved up into being one of the main threats.
+[00:28:19.199 --> 00:28:35.039]  And when they were trying to take us to full war with Iran, they didn't just want those strikes on the reactors and were attacking any Trump supporter, prominent Trump supporter that criticized it as Nazis and all this, and saying we're going to deplatform you.
+[00:28:35.359 --> 00:28:40.719]  At that point and moment, Israel went for a few weeks to the number one threat to America.
+[00:28:41.679 --> 00:28:45.679]  This could have easily led Iran being allied with China and Russia to a full nuclear war.
+[00:28:45.919 --> 00:28:48.079]  Most top analysts agreed.
+[00:28:48.399 --> 00:28:59.279]  So I wasn't spending basically half our time then attacking Netanyahu and the leadership of Israel while missiles were being fired at both sides, which was terrible.
+[00:28:59.359 --> 00:29:00.959]  I don't support the MULAS, certainly not.
+[00:29:01.439 --> 00:29:03.759]  Iran's got bad leadership.
+[00:29:04.399 --> 00:29:09.919]  But Israel became central then because it put itself and us on the front burner.
+[00:29:11.279 --> 00:29:15.679]  And now Netanyahu, two months ago, announced, I'll put a clip in a moment first.
+[00:29:16.639 --> 00:29:20.639]  He said, we're in an eight-front war with people that don't like Israel.
+[00:29:21.119 --> 00:29:26.639]  What you mean is people that want to run their own countries and people that don't want to send our money over to you.
+[00:29:26.959 --> 00:29:28.479]  But let's be clear.
+[00:29:28.799 --> 00:29:36.399]  Just because I don't like Netanyahu trying to run our country, I want to be clear about the low IQ anti-Semites.
+[00:29:37.919 --> 00:29:52.079]  And by low IQ, most of them, some of them are smart in many ways, but the most of them literally just know how to say everybody's a secret Jew agent and just make Jewish slurs and obsess on it.
+[00:29:52.159 --> 00:29:55.119]  And just, it's the only policy you know.
+[00:29:55.439 --> 00:29:56.879]  It's the only thing you know.
+[00:29:57.199 --> 00:29:59.999]  And it's crazy.
+[00:30:01.279 --> 00:30:11.279]  Like Candace Owens comes out with a whole new story after the Egyptian airplane thing got debunked.
+[00:30:11.919 --> 00:30:12.719]  And I like Candace.
+[00:30:12.879 --> 00:30:13.599]  I've always liked her.
+[00:30:13.919 --> 00:30:23.999]  And she's got this new guy that says he's on this military base, Fort Wachuca, and then he stumbles into the big planning meeting to kill Charlie Kirk.
+[00:30:24.319 --> 00:30:25.519]  And I went and looked the guy up.
+[00:30:25.759 --> 00:30:27.439]  He used an alias on her show.
+[00:30:27.679 --> 00:30:31.439]  And it's all, he's obviously a complete loon.
+[00:30:33.119 --> 00:30:35.919]  He claims he's being gangstalked for years.
+[00:30:36.079 --> 00:30:40.399]  And his wife attacked him and held him in the garage and beat him with hammers.
+[00:30:40.479 --> 00:30:41.919]  And the police were in on it.
+[00:30:42.079 --> 00:30:45.519]  And it just goes, lunatic, lunatic, lunatic.
+[00:30:47.439 --> 00:30:48.959]  I mean, just that story alone.
+[00:30:49.279 --> 00:30:50.319]  And I go, what is this?
+[00:30:50.479 --> 00:30:51.119]  This is crazy.
+[00:30:51.279 --> 00:30:53.919]  It doesn't mean there wasn't help killing Charlie Kirk.
+[00:30:53.999 --> 00:30:55.119]  It doesn't mean we shouldn't investigate.
+[00:30:55.199 --> 00:31:00.879]  I've had questions, serious ones, and actually targeted where the real cover-up is.
+[00:31:01.199 --> 00:31:02.559]  And I'll do it again tonight.
+[00:31:02.879 --> 00:31:06.879]  And none of those people ever respond to what I say or what I do.
+[00:31:07.519 --> 00:31:10.239]  They just say, oh, you got money from Netanyahu.
+[00:31:11.199 --> 00:31:15.839]  No, all I got was lawsuits manipulated on record by the ADL.
+[00:31:16.479 --> 00:31:23.119]  And it's come out in federal court with Arctic Frost targeting me for destruction.
+[00:31:27.279 --> 00:31:37.839]  And when the losers support us and we barely survive, the very same people that describe everything, slipping on a banana pill to choose, they go, no, Jones sold out to Elon Musk.
+[00:31:37.919 --> 00:31:40.639]  Elon Musk beat his enemies in court.
+[00:31:40.879 --> 00:31:42.079]  Alex has InfoWars.
+[00:31:42.159 --> 00:31:43.839]  InfoWars is saved.
+[00:31:45.039 --> 00:31:47.039]  And it's their new talking point.
+[00:31:47.359 --> 00:31:52.799]  And that's why he is attacking Candace for Netanyahu because Netanyahu killed Candace.
+[00:31:55.999 --> 00:31:58.159]  And I'm just like, what?
+[00:31:58.799 --> 00:32:01.039]  Oh, you have proof Netanyahu did it, huh?
+[00:32:02.959 --> 00:32:06.239]  I have proof Netanyahu had a standout on October 7th.
+[00:32:06.399 --> 00:32:11.599]  I have proof they asked Qatar to give them billions of dollars a year from Israel.
+[00:32:12.799 --> 00:32:18.479]  I have proof Israel was heavily involved in 9-11 and was the first to break all of that.
+[00:32:18.799 --> 00:32:24.239]  Not just the celebrating Israelis, but the bombs and who did it in the towers.
+[00:32:24.879 --> 00:32:27.839]  And it was the CIA involved as well, but me.
+[00:32:29.599 --> 00:32:41.839]  And it's just bizarre because it's like a black hole where I cover what is true, what I can prove, no matter how bad it is, I go there.
+[00:32:43.039 --> 00:32:45.599]  But I do not make stuff up.
+[00:32:49.279 --> 00:32:51.679]  My assets were taken over by the federal court.
+[00:32:51.999 --> 00:32:56.799]  My assets were transferred to the U.S. Justice Department that intervened on the case.
+[00:32:57.439 --> 00:32:58.559]  They had a fake auction.
+[00:32:58.719 --> 00:32:59.279]  They got in trouble.
+[00:32:59.439 --> 00:33:00.719]  They got kicked back in federal court.
+[00:33:01.039 --> 00:33:04.159]  Then they tried another scam, tried to shut us down without court orders.
+[00:33:04.479 --> 00:33:07.999]  The judge got pissed, kicked it out in the state court this year.
+[00:33:08.639 --> 00:33:12.319]  The judge ordered a receiver to come in and prepare the sale of it.
+[00:33:12.639 --> 00:33:14.159]  We fought them in court.
+[00:33:14.479 --> 00:33:15.359]  We lost.
+[00:33:16.319 --> 00:33:20.319]  Now the receiver is setting an auction sometime in the next month or so.
+[00:33:22.479 --> 00:33:25.839]  And I get to hear all over the place the last few days.
+[00:33:25.999 --> 00:33:47.359]  Oh, he's criticizing Candace Owens because Elon Musk, who also works for Netanyahu, even though the ADL and Israel literally have been trying to shut down X and boycotting his advertisers, and he's had to sue them over that.
+[00:33:47.599 --> 00:33:49.759]  But it just doesn't matter, though, because you don't know anything.
+[00:33:50.079 --> 00:33:52.319]  You just describe everything.
+[00:33:53.279 --> 00:33:55.919]  They go, well, Elon Musk came into the court case.
+[00:33:56.159 --> 00:34:16.159]  Yeah, because the Democrat Party law firm, Paul Weiss, the top law firm, look it up, one that paid $40 million in restitution to Trump, said last year that they owned my name and the 13th Amendment deployed to me and that they owned my social media handles and owned URL addresses on X.
+[00:34:17.199 --> 00:34:18.479]  And it was unprecedented.
+[00:34:18.559 --> 00:34:19.839]  No one had ever asked for that.
+[00:34:20.159 --> 00:34:26.159]  So X had to come in and say, we own that, not you.
+[00:34:27.519 --> 00:34:34.079]  If you get ownership of this stuff, you can claim and pull his content down and claim you own that, but you don't get the X handle.
+[00:34:35.359 --> 00:34:39.119]  That will be retained by X. That's how all social media works.
+[00:34:39.359 --> 00:34:44.239]  You don't own that address on Facebook or YouTube.
+[00:34:46.159 --> 00:34:47.359]  But see, there's my payoff.
+[00:34:47.439 --> 00:34:51.279]  You see, oh, he's not good.
+[00:34:51.519 --> 00:34:52.319]  We're all good.
+[00:34:52.479 --> 00:34:53.359]  We're the cool kids.
+[00:34:53.439 --> 00:34:54.319]  We're the holy ones.
+[00:34:54.559 --> 00:34:56.159]  We're the pure ones.
+[00:34:58.319 --> 00:35:01.919]  And just thousands of accounts today, some of them tens of thousands, hundreds of thousands of views.
+[00:35:01.999 --> 00:35:02.639]  And I don't mind it.
+[00:35:02.719 --> 00:35:04.079]  We'll just send people here for the truth.
+[00:35:04.239 --> 00:35:05.199]  But I mean, I'll just show you.
+[00:35:05.279 --> 00:35:05.839]  I don't just do that.
+[00:35:06.079 --> 00:35:07.599]  Let me get back to the real threat here.
+[00:35:08.239 --> 00:35:21.279]  I'd love it if you guys actually talk about the real Israel think tanks, systems, the Israeli government officially announcing that they're coming to censor Americans and how they're doing it through U.S. corporations and government.
+[00:35:21.519 --> 00:35:24.319]  This is a scandal of scandals.
+[00:35:24.799 --> 00:35:32.799]  But you're too busy accusing everybody and their dog of being a massage agent because it makes you the good guys than actually knowing anything.
+[00:35:33.119 --> 00:35:34.799]  And I understand you're stupid.
+[00:35:35.119 --> 00:35:37.839]  You're low IQ, man.
+[00:35:37.920 --> 00:35:38.799]  I'm talking about most of you.
+[00:35:39.359 --> 00:35:42.239]  I'm not talking about my listeners, but you guys, I mean, you're dumb.
+[00:35:43.199 --> 00:35:45.119]  I am legitimately doing studying.
+[00:35:45.199 --> 00:35:48.960]  I am legitimately when China tries to come in and push us around against it.
+[00:35:49.119 --> 00:36:02.559]  When Mexico and its government does stuff against it, when Canada tries to, you know, do stuff, when Trump's people do something wrong, Trump's AI takeover federal liability protection system, I called it an AI dictatorship.
+[00:36:03.519 --> 00:36:05.839]  People went, oh my God, he's turned on Trump.
+[00:36:06.000 --> 00:36:07.519]  No, on that, it's wrong.
+[00:36:07.839 --> 00:36:08.719]  And I know the argument.
+[00:36:08.879 --> 00:36:15.599]  Well, the Newsome, California pretty much is controlled until now, along with the UN or regulations because the feds wouldn't do it.
+[00:36:15.920 --> 00:36:18.639]  Trump's coming to the vacuum and saying, you're not doing it, UN.
+[00:36:18.960 --> 00:36:22.639]  You're not doing it, EU, you're not doing it, California.
+[00:36:23.279 --> 00:36:27.599]  You're not going to file suits and write the regulations by how you go after AI.
+[00:36:28.480 --> 00:36:29.839]  The federal government will decide.
+[00:36:30.079 --> 00:36:32.719]  And I understand that argument, it's still too dangerous.
+[00:36:33.039 --> 00:36:35.839]  And so I think it has to be battled out.
+[00:36:36.000 --> 00:36:39.039]  And the feds have to battle the states and things when they think they're wrong.
+[00:36:39.279 --> 00:36:41.039]  But I think the states will do some good things sometimes.
+[00:36:41.199 --> 00:36:42.319]  It won't just be Newsome.
+[00:36:42.480 --> 00:36:44.239]  States will have some good stuff for AI.
+[00:36:44.480 --> 00:36:47.679]  And the Feds will, you know, anything centralized like this is bad news.
+[00:36:47.839 --> 00:36:49.119]  I know they want to win the AI race.
+[00:36:49.279 --> 00:36:52.000]  See, that's a nuanced, real thoughtful answer.
+[00:36:52.319 --> 00:36:55.359]  I think anybody with a brain knows, yeah, that makes sense.
+[00:36:55.679 --> 00:36:57.039]  Maybe you disagree on this or that.
+[00:36:57.359 --> 00:36:59.839]  We should do whole shows on how do we handle this.
+[00:37:00.159 --> 00:37:01.679]  Is Trump wrong or right?
+[00:37:02.960 --> 00:37:25.359]  But the point is, is that Israel and the powerful Jewish lobby on the left and right is heavily unified and one of the main groups pushing internet ID, AI censorship, debanking and control.
+[00:37:25.679 --> 00:37:37.039]  And I have been literally the victim of it at the hands of the ADL, the Southern Priority Law Center, the CIA, the DOJ on record in court trying to destroy us and shut us down.
+[00:37:39.199 --> 00:37:43.199]  Sasha Barr Cohen at the ADL gay list saying I need to be arrested.
+[00:37:43.519 --> 00:37:45.679]  We're talking about replacement migration.
+[00:37:46.960 --> 00:37:54.960]  And then I get to have a bunch of unwashed idiots, literally that don't know anything about anything, just spew lies about me all day.
+[00:37:55.119 --> 00:38:04.719]  And I'm not worried they're doing that about me, but I'm like, you guys are fools because all you know how to do is say you're holy, everybody else is bad.
+[00:38:05.039 --> 00:38:14.480]  We have all of this foreign EU and Israel and Kier Starmer through the EU.
+[00:38:14.719 --> 00:38:24.000]  It came out a few weeks ago, Hillary and Obama, when they were out of power, putting requests in the first Trump administration to the EU to file lawsuits and all this stuff, trying to block the U.S.
+[00:38:24.319 --> 00:38:28.480]  And it got even worse under Biden because Congress was already watching what Biden was doing.
+[00:38:28.639 --> 00:38:34.399]  So they were using the EU to censor control Americans by threatening and fine the companies.
+[00:38:35.359 --> 00:38:37.679]  And now they just find Elon 140 million euros.
+[00:38:37.759 --> 00:38:38.880]  Now I'm talking about criminal time.
+[00:38:38.960 --> 00:38:42.799]  And Brazil talked about criminal charges and they seized his companies.
+[00:38:46.000 --> 00:38:47.759]  People go, wow, why is he defending Elon Musk?
+[00:38:47.839 --> 00:38:50.799]  Because Elon Musk is leading the way for free speech.
+[00:38:51.119 --> 00:38:52.239]  And so is Rumble.
+[00:38:54.480 --> 00:38:56.319]  Of course, I'm championing him.
+[00:38:56.480 --> 00:39:02.079]  Not because he gave me any money, but because they're suing him.
+[00:39:02.239 --> 00:39:03.519]  They're attacking his advertisers.
+[00:39:03.679 --> 00:39:06.639]  The same law firms that have sued me are suing Elon.
+[00:39:08.239 --> 00:39:09.359]  Look that up.
+[00:39:10.639 --> 00:39:13.920]  So there's no need to have me and Elon like on the phone.
+[00:39:14.079 --> 00:39:14.880]  Oh, help me, Elon.
+[00:39:14.960 --> 00:39:15.599]  I'll do this for you.
+[00:39:15.839 --> 00:39:16.880]  We have the same enemies.
+[00:39:17.119 --> 00:39:18.159]  We're already aligned.
+[00:39:18.480 --> 00:39:19.119]  We don't need to talk.
+[00:39:19.199 --> 00:39:20.399]  We're Sympotico.
+[00:39:21.359 --> 00:39:21.920]  Got it.
+[00:39:22.399 --> 00:39:23.919]  We already chose the side we're on.
+[00:39:25.759 --> 00:39:31.199]  Alex Jones sounds alarm over Candace Owens' mental state as Charlie Kirk conspiracy spirals.
+[00:39:32.719 --> 00:39:33.679]  Now, here's the article.
+[00:39:33.759 --> 00:39:35.439]  So, you guys are going to read what I just said.
+[00:39:36.079 --> 00:39:44.079]  Sandy Hook families, which means Democrat Party, Paul Weiss Law Firm, D-O-J-C-I-A-W, that's just their front room, want to seize Alex Jones' social media accounts.
+[00:39:44.399 --> 00:39:46.559]  And you read the articles out of Bloomberg, all this they say.
+[00:39:46.719 --> 00:39:49.199]  The 13th Amendment does apply to everybody, but not Alex.
+[00:39:49.359 --> 00:39:50.239]  He's a special case.
+[00:39:50.479 --> 00:39:59.119]  We want to own the name, Alexander Emerick Jones, Alex Jones, and all other similar things, his likeness, and we want his real Alex Jones and all this other stuff.
+[00:40:01.279 --> 00:40:04.719]  And they also told the court any future things, like they wanted to take my name.
+[00:40:06.000 --> 00:40:11.839]  Only people like Prince that could happen to because he signed with Sony what's called a 360.
+[00:40:12.799 --> 00:40:18.319]  You can sign away your name and sign away ever using it again if you leave the contract.
+[00:40:18.639 --> 00:40:21.039]  I never signed a 360 contract.
+[00:40:22.239 --> 00:40:25.759]  Contrary to that, I said everything I've ever done belongs to you.
+[00:40:26.079 --> 00:40:32.079]  25, 26-year-old contracts on the site saying free to air, non-exclusive license of the world.
+[00:40:32.399 --> 00:40:33.599]  You own my show.
+[00:40:34.559 --> 00:40:36.719]  That's why they're in big trouble and freaked out now.
+[00:40:38.239 --> 00:40:40.559]  And that, by the way, was used in court as well.
+[00:40:40.879 --> 00:40:58.319]  So, why would Elon not, when they say they own anything they want on X, they can just go get all these little courts, see, because X was a real target, to say we can take anybody's site on there and we can operate in somebody's skin and somebody's name and take over their followers and their supporters.
+[00:40:58.479 --> 00:41:01.759]  And the Onion said, misrepresent as if we're him.
+[00:41:02.079 --> 00:41:04.639]  They said that on national TV over and over again.
+[00:41:05.279 --> 00:41:06.719]  Isn't that a big scandal?
+[00:41:07.039 --> 00:41:13.839]  Oh, but that's not sexy, like just saying he works for the Jews.
+[00:41:15.359 --> 00:41:24.959]  I tell you what I get from the lawsuits and the attacks and all of it is I get run over by the Israel lobby.
+[00:41:25.039 --> 00:41:26.639]  I certainly have their tire tracks on me.
+[00:41:26.959 --> 00:41:29.119]  But see, you're not a real man or woman in the arena.
+[00:41:29.439 --> 00:41:38.159]  You look at me, the OG, 31 years on air, changing the world with my awesome audience, and you shake your finger at me and you go, There's the bad man.
+[00:41:39.119 --> 00:41:40.799]  He's only on air still.
+[00:41:41.679 --> 00:41:43.279]  I saw these, all these talk shows today.
+[00:41:43.599 --> 00:41:45.119]  He has InfoWars.
+[00:41:45.359 --> 00:41:46.079]  He has his assets.
+[00:41:46.239 --> 00:41:47.839]  Elon Wenten saved InfoWars.
+[00:41:47.919 --> 00:41:48.959]  The hell he didn't.
+[00:41:49.599 --> 00:41:51.199]  He doesn't have that jurisdiction in the case.
+[00:41:51.439 --> 00:41:52.959]  He said, You don't own X.
+[00:41:54.479 --> 00:41:57.359]  And the court agreed because there was no precedent.
+[00:41:57.679 --> 00:41:59.599]  That's why it was unprecedented.
+[00:42:00.239 --> 00:42:04.159]  It was unprecedented Elon came in to help me because he wasn't helping me.
+[00:42:04.399 --> 00:42:05.519]  He was helping himself.
+[00:42:05.839 --> 00:42:20.559]  And when he does that, he helps all of you by not letting him take over X and all his lawsuits against the ADL and all the rest of them, including the very law firms, suing me because they're suing him on other areas.
+[00:42:21.199 --> 00:42:21.759]  Got it?
+[00:42:22.079 --> 00:42:23.759]  See, this is big boy stuff.
+[00:42:24.319 --> 00:42:25.919]  This is big boy stuff.
+[00:42:26.879 --> 00:42:28.000]  Why do you see it?
+[00:42:28.079 --> 00:42:31.519]  Why do you care if Elon got fired 140 million by the EU?
+[00:42:31.759 --> 00:42:33.279]  Oh, you work for him.
+[00:42:33.599 --> 00:42:36.879]  They're fighting him because he won't censor you, you dummies.
+[00:42:37.439 --> 00:42:41.759]  God almighty, what I mean, do you have five brain cells to rub together?
+[00:42:42.399 --> 00:42:43.919]  So go read the articles yourself.
+[00:42:44.000 --> 00:42:45.759]  You can go read the court rulings.
+[00:42:46.079 --> 00:42:49.519]  Sandy Hook families want to seize Alex Jones' social media accounts.
+[00:42:50.159 --> 00:42:53.279]  Sandy Hook families want to seize Alex Jones' social media accounts, The Hill.
+[00:42:54.879 --> 00:42:58.719]  Elon Musk X Corp files notice in Alex Jones' InfoWars bankruptcy case.
+[00:42:58.879 --> 00:42:59.679]  Go read his notice.
+[00:42:59.919 --> 00:43:03.519]  No, you do what you want with him and his company and his stuff.
+[00:43:03.839 --> 00:43:05.679]  You don't get his name.
+[00:43:06.000 --> 00:43:07.679]  You don't get the URL.
+[00:43:08.959 --> 00:43:12.079]  If we decide to kick Jones off, we will not use his name.
+[00:43:12.319 --> 00:43:12.959]  He owns that.
+[00:43:13.199 --> 00:43:15.519]  We own the URL, which is the law.
+[00:43:16.399 --> 00:43:21.439]  Elon Musk is stepping into the legal fight of Raleigh Shones, Info Wars experts say it's unprecedented.
+[00:43:22.399 --> 00:43:34.239]  Unprecedented because no one has ever tried to go say we're going to take over your social media account that you serve at the pleasure of the big company.
+[00:43:34.399 --> 00:43:35.199]  That's how that works.
+[00:43:35.439 --> 00:43:36.639]  You don't own that.
+[00:43:37.279 --> 00:43:40.399]  And now we own it and we own a piece of your platform.
+[00:43:40.559 --> 00:43:41.679]  No, you don't.
+[00:43:42.319 --> 00:43:45.359]  Now you see logic, something these people don't want to use.
+[00:43:45.679 --> 00:43:48.319]  Now, a lot of these influencers, I'm not an influencer, by the way.
+[00:43:48.399 --> 00:43:54.159]  I'm a patriot and a journalist and a pundit and analysis and a futurist and a father and a guy that loves God.
+[00:43:54.719 --> 00:43:58.799]  Influencer comes from the time of Plato and Aristotle and Socrates.
+[00:44:00.319 --> 00:44:06.319]  And influencers are people that use rhetoric without facts and reality and logic to convince dumb people.
+[00:44:06.639 --> 00:44:12.319]  So when the globals call you all influencers and you go, yeah, I'm an influencer, it just shows how stupid you are.
+[00:44:12.639 --> 00:44:14.799]  Stop calling yourselves influencers.
+[00:44:15.119 --> 00:44:16.479]  I'm a philosopher.
+[00:44:16.799 --> 00:44:18.079]  I'm a warrior.
+[00:44:18.399 --> 00:44:19.679]  I'm a game changer.
+[00:44:19.999 --> 00:44:21.359]  I'm a historian.
+[00:44:21.679 --> 00:44:22.719]  I'm a fighter.
+[00:44:22.959 --> 00:44:24.079]  I'm a pioneer.
+[00:44:24.399 --> 00:44:25.439]  I'm an explorer.
+[00:44:25.679 --> 00:44:26.639]  I got red blood.
+[00:44:26.799 --> 00:44:29.119]  It's popping through my big heart fast.
+[00:44:30.079 --> 00:44:32.159]  I like life and freedom and justice.
+[00:44:32.479 --> 00:44:33.839]  I like women.
+[00:44:34.719 --> 00:44:35.999]  I like red meat.
+[00:44:36.879 --> 00:44:37.839]  I like guns.
+[00:44:37.999 --> 00:44:41.519]  I like sunsets and puppy dogs and ladies of the night.
+[00:44:43.359 --> 00:44:44.799]  To quote Wayland Jennings.
+[00:44:45.439 --> 00:44:46.639]  Don't feel melancho.
+[00:44:47.439 --> 00:44:48.559]  Me, no, I'm a boy scout.
+[00:44:48.719 --> 00:44:49.599]  Every day anything wrong.
+[00:44:50.159 --> 00:44:50.559]  All right.
+[00:44:50.879 --> 00:44:53.919]  So I haven't even gotten to this yet because I mean, here's my deal.
+[00:44:54.159 --> 00:45:07.919]  I'm about to expose Israel, literally, Netanyahu two months ago, saying it, and now Israeli officials saying we are going into the United States and into the West, and we're going to take control and censor people.
+[00:45:09.519 --> 00:45:11.279]  That's foreign interference.
+[00:45:11.599 --> 00:45:16.559]  I mean, that's not just the Russians trying to get their view out over here, which is totally legal.
+[00:45:17.519 --> 00:45:21.599]  That's not China financing Hollywood for all this anti-Western garbage that should be illegal.
+[00:45:21.919 --> 00:45:27.439]  No, this is Israel saying we are going to shut up the American people.
+[00:45:28.719 --> 00:45:32.319]  And then what do you think it is when Ben Shapiro runs around trying to police everything?
+[00:45:32.639 --> 00:45:34.559]  He literally works for Netanyahu.
+[00:45:36.079 --> 00:45:43.119]  And then old Ola Vin and all of us.
+[00:45:43.359 --> 00:45:44.159]  Just give me a break.
+[00:45:44.399 --> 00:45:47.519]  I mean, you're literally telling me you're going to censor me.
+[00:45:48.719 --> 00:45:52.159]  And your definition of what's wrong is not.
+[00:45:53.439 --> 00:45:57.759]  I mean, even we said overthrow Israel, rivers of the sea, blow it up, which I don't want.
+[00:46:00.559 --> 00:46:01.839]  A, that's the wrong thing to do.
+[00:46:01.999 --> 00:46:03.199]  B, I don't hate those people.
+[00:46:03.359 --> 00:46:05.519]  I just dislike them trying to make me their slave.
+[00:46:05.679 --> 00:46:06.719]  There's plenty of other groups doing it too.
+[00:46:06.799 --> 00:46:09.439]  So I can't just like, oh, because it's Jews trying to be the boss.
+[00:46:09.519 --> 00:46:10.879]  And you think, well, I'll hate you.
+[00:46:10.959 --> 00:46:12.079]  And all these other groups are going to do.
+[00:46:12.159 --> 00:46:14.079]  No, I just, I just stand up to you.
+[00:46:15.279 --> 00:46:16.879]  But they have nuclear weapons, folks.
+[00:46:17.119 --> 00:46:19.359]  And all it's going to do is get the planet blown up.
+[00:46:19.999 --> 00:46:26.639]  So just like all you leftists that want to nuke Russia, like Sean Penn, I'm like, whether you love or hate Russia, you can't have that.
+[00:46:26.719 --> 00:46:27.439]  That'll end the world.
+[00:46:27.599 --> 00:46:28.879]  That's called mutually assured destruction.
+[00:46:28.959 --> 00:46:29.359]  It's guaranteed.
+[00:46:29.439 --> 00:46:30.399]  Do you understand now?
+[00:46:30.959 --> 00:46:33.039]  Well, they call the Samsung option.
+[00:46:34.959 --> 00:46:39.199]  And so, again, that's where I'm at on all this.
+[00:46:40.479 --> 00:46:41.679]  And it's a big, big deal.
+[00:46:42.239 --> 00:46:43.759]  There's so many of these clips of Netanyahu.
+[00:46:43.839 --> 00:46:44.399]  And these are old.
+[00:46:44.559 --> 00:46:50.479]  I got the new ones coming up with the ambassador, with their embassy head.
+[00:46:50.799 --> 00:46:53.439]  I mean, this is bad stuff, folks.
+[00:46:54.319 --> 00:46:55.839]  This is real bad.
+[00:46:57.359 --> 00:47:07.439]  But Embassy of Israel spokeswoman admits they'll use big tech to spy on people to change policy and influence the governments to stop anti-Semitism, including in America.
+[00:47:08.079 --> 00:47:09.439]  It's 12 minutes long.
+[00:47:09.759 --> 00:47:10.959]  You got to watch every bit of it.
+[00:47:11.839 --> 00:47:12.879]  I'm not going to play the whole thing.
+[00:47:12.959 --> 00:47:14.079]  The upfront's really bad.
+[00:47:14.319 --> 00:47:16.799]  And I mean, this is like declaration of war against our speech.
+[00:47:16.879 --> 00:47:21.759]  And I'm fighting the EU trying to take our speech, not because I hate Germans or Swedes or French.
+[00:47:22.079 --> 00:47:24.879]  And Israel's government is like, bitch, you work for us.
+[00:47:24.959 --> 00:47:26.559]  I'm like, no, we don't.
+[00:47:28.159 --> 00:47:33.199]  And so then I'm going to tie it into Ben Shapiro and what he's up to and all that going on.
+[00:47:33.359 --> 00:47:34.719]  I'm going to shift gears and all this other news.
+[00:47:34.959 --> 00:47:36.879]  But this is a big threat.
+[00:47:37.199 --> 00:47:39.919]  And wherever a threat to our speech, because you lose that, you lose everything.
+[00:47:40.159 --> 00:47:43.759]  They'll have their new lockdowns, their new pandemics that they admit they're planning.
+[00:47:44.079 --> 00:47:46.479]  We've got to defend the First Amendment.
+[00:47:47.119 --> 00:47:48.959]  But the universities are anti-free speech.
+[00:47:49.119 --> 00:47:51.039]  The left's anti-free speech.
+[00:47:52.479 --> 00:47:55.999]  Mainly the Jewish lobby here, the right-wing angle is anti-free speech.
+[00:47:56.239 --> 00:48:05.759]  We got to just say to the leftists and to the right-wing Jews and everybody, no, not only are you not going to stop our speech, but you're the bad guys when you do that.
+[00:48:06.399 --> 00:48:12.079]  And put our foot down on this because this is how they're passing the draconian stuff.
+[00:48:12.239 --> 00:48:13.439]  We even criticize the government.
+[00:48:13.519 --> 00:48:14.959]  You get arrested in the UK and Germany.
+[00:48:15.199 --> 00:48:16.319]  Same thing in Australia.
+[00:48:16.559 --> 00:48:19.119]  It all starts with, oh, some Muslims killed people.
+[00:48:19.279 --> 00:48:20.399]  Don't say it was Muslims.
+[00:48:20.639 --> 00:48:22.719]  We're passing anti-Semitism laws too.
+[00:48:23.039 --> 00:48:25.039]  And we're passing laws you can't criticize the government.
+[00:48:25.279 --> 00:48:26.879]  And then they get all of our speech.
+[00:48:27.119 --> 00:48:28.559]  It is dangerous.
+[00:48:28.879 --> 00:48:30.079]  It is bad.
+[00:48:32.799 --> 00:48:35.919]  And if you address it from a position of you're tyrannical, you're wrong.
+[00:48:36.079 --> 00:48:42.799]  I'm not going to give you your little race game or religion game and, you know, go into some diatribe about who you are and what you are.
+[00:48:43.119 --> 00:48:44.559]  I'm just going to say that's wrong.
+[00:48:44.799 --> 00:48:45.759]  That's anti-freedom.
+[00:48:45.839 --> 00:48:46.559]  And I oppose you.
+[00:48:46.879 --> 00:48:52.559]  They're going to call you Nazi, trying to get you down on their level to change the debate over to that.
+[00:48:52.719 --> 00:48:58.079]  And instead of no, you want to shut us up because you work for a bunch of powerful globalist interests.
+[00:48:58.159 --> 00:48:59.119]  They got a bunch of tyranny.
+[00:48:59.199 --> 00:49:00.479]  They want to carry out their own words.
+[00:49:00.639 --> 00:49:02.879]  And the free speech stands in the way of that.
+[00:49:03.519 --> 00:49:06.239]  So I'm here for a big tent about all this stuff.
+[00:49:07.439 --> 00:49:09.119]  But I do have the unique enjoyment.
+[00:49:09.439 --> 00:49:12.719]  I've got the Nazis hate me probably more than Netanyahu.
+[00:49:13.199 --> 00:49:17.199]  And the crazy leftist Jewish lobby absolutely hates my guts.
+[00:49:17.839 --> 00:49:21.119]  I mean, my God, they'll have me in depositions and just put a fake deposition out.
+[00:49:21.359 --> 00:49:23.919]  We go to the court and get it changed, make the transcript come out.
+[00:49:24.079 --> 00:49:26.799]  Jones attacked Jews in his deposition.
+[00:49:27.119 --> 00:49:27.759]  No such thing.
+[00:49:27.999 --> 00:49:28.719]  They just lie.
+[00:49:28.879 --> 00:49:30.239]  They just add fake stuff in.
+[00:49:30.559 --> 00:49:35.119]  They just need me to be mean to them so they can play victim and then hurt me.
+[00:49:35.439 --> 00:49:38.239]  They want to say you're a Nazi so they can hurt you.
+[00:49:38.879 --> 00:49:42.239]  And if you were a Nazi, long sound illegal, you have a right, but no.
+[00:49:42.719 --> 00:49:45.039]  They want to say you're a Nazi so they can hurt you.
+[00:49:45.679 --> 00:49:57.039]  So I have fought these different Jewish lobbies more than probably, you know, five million of you so-called, you know, little anti-Jew warriors that know everything about it.
+[00:49:57.279 --> 00:49:58.079]  You're not men.
+[00:49:58.159 --> 00:49:59.279]  You've not been in the arena.
+[00:49:59.519 --> 00:50:00.239]  You have no idea.
+[00:50:00.559 --> 00:50:07.199]  You're not telling tens of millions of people right now about the huge Israeli threat to our speech and the coup they're trying to run and the legislation.
+[00:50:07.439 --> 00:50:16.239]  You're too busy running around policing everybody else, calling them Israeli operatives because a bunch of you are actually on the payroll now of Israel.
+[00:50:16.559 --> 00:50:17.039]  Guaranteed.
+[00:50:17.199 --> 00:50:17.919]  It always comes out.
+[00:50:18.079 --> 00:50:21.519]  The worst of the Nazis are always working for the, you know, that's how it works.
+[00:50:22.399 --> 00:50:23.759]  We're going to break.
+[00:50:24.639 --> 00:50:25.519]  I need your support.
+[00:50:25.679 --> 00:50:31.919]  I'm not funded by Qatar or Israel or the Pentagon or Walmart or JCPenney.
+[00:50:32.159 --> 00:50:32.959]  I'm just being stupid.
+[00:50:33.599 --> 00:50:35.519]  Or Puff the Magic Dragon.
+[00:50:35.679 --> 00:50:39.199]  I'm funded by you at thealoishowstore.com.
+[00:50:39.359 --> 00:50:40.719]  Get your orders in.
+[00:50:41.359 --> 00:50:47.359]  I'd get your orders in tonight, and you'll get them anywhere in the U.S. before Christmas, but I'd get them in right now.
+[00:50:47.679 --> 00:50:53.439]  60% off on ultramethylene blue, the Irish CMOS, the Shilajee and the other top-selling supplements.
+[00:50:53.759 --> 00:50:56.079]  Final days of Christmas sale, 60% off MAGA.
+[00:50:56.239 --> 00:50:58.959]  Sale, give yourself the gift of life, energy, clarity, focus.
+[00:50:59.039 --> 00:51:00.479]  All these products are so incredible.
+[00:51:00.799 --> 00:51:02.479]  It ends Tuesday, December 23rd.
+[00:51:02.799 --> 00:51:05.279]  And we've got some other new amazing products in the store.
+[00:51:05.359 --> 00:51:12.479]  We've got gift cards where you get a whole bunch more money on there than you with any other gift card and so much more.
+[00:51:12.879 --> 00:51:15.359]  Cannot do this without you.
+[00:51:16.559 --> 00:51:19.759]  You, the listeners, folks, are what backs this operation.
+[00:51:19.920 --> 00:51:21.839]  You are what allows us to operate.
+[00:51:22.159 --> 00:51:24.079]  And I really, really appreciate you.
+[00:51:25.039 --> 00:51:28.400]  The EllisShowstore.com, why does selection of patriot and more?
+[00:51:28.799 --> 00:51:30.879]  60% off ends in 48 hours.
+[00:51:31.119 --> 00:51:32.960]  Won't have a deal that big for a long time.
+[00:51:33.199 --> 00:51:34.400]  Please take advantage of it now.
+[00:51:38.239 --> 00:51:43.920]  Marrying our existing expertise in decarbonization and infrastructure, it's a perfect partnership.
+[00:51:44.400 --> 00:51:46.159]  I completely agree with Larry.
+[00:51:46.480 --> 00:51:54.000]  This is going to be the golden age of infrastructure investing, both in terms of the need for capital as well as investors who want that capital.
+[00:51:54.159 --> 00:51:54.400]  Okay.
+[00:51:54.719 --> 00:52:10.719]  In a move that's raising alarms across the nation, BlackRock, through its 2024 acquisition of Global Infrastructure Partners, or GIP, has surged into direct ownership of U.S. energy infrastructure.
+[00:52:11.039 --> 00:52:20.639]  BlackRock, one of the largest asset managers on earth, which owns just about everything, appears to be quietly buying up huge pieces of the U.S. energy grid.
+[00:52:20.960 --> 00:52:24.719]  But don't worry, they say it's all about building infrastructure for artificial intelligence.
+[00:52:24.879 --> 00:52:26.000]  So don't worry about it.
+[00:52:26.239 --> 00:52:27.279]  Nothing to see here.
+[00:52:27.599 --> 00:52:34.559]  Shifting from passive investor to hands-on controller of critical utilities and grids.
+[00:52:34.799 --> 00:52:38.079]  The company BlackRock that's fing everybody in America?
+[00:52:38.319 --> 00:52:41.599]  They're going to be buying utility companies now.
+[00:52:42.239 --> 00:52:44.480]  That's right, utility companies.
+[00:52:44.719 --> 00:52:48.880]  They've already purchased an electric company up in Minnesota.
+[00:52:49.519 --> 00:52:49.679]  You.
+[00:52:49.920 --> 00:53:01.759]  They have plans to invest hundreds of billions of dollars into the utility market here in the United States so you can watch your electricity and gas bills go up to nosebleed levels.
+[00:53:02.079 --> 00:53:22.639]  The Minnesota Public Utilities Commission approved a $6.2 billion takeover of Elite, parent of Minnesota Power, by a BlackRock-led consortium with Canada Pension Plan in October of 2025, granting private equity majority control over power serving 150,000 customers.
+[00:53:22.960 --> 00:53:28.559]  This $6.2 billion deal follows months of debate and pushback from groups across Minnesota.
+[00:53:28.880 --> 00:53:37.039]  It is not always going to be in the financial best interest of BlackRock to keep our rates as low as possible.
+[00:53:37.359 --> 00:53:38.719]  That's not the business that they're in.
+[00:53:38.799 --> 00:53:42.000]  They're in the business of making profit from as many things as possible.
+[00:53:42.239 --> 00:53:43.920]  I'm a Minnesota Power customer.
+[00:53:44.239 --> 00:54:00.960]  So if you have read stories over the years about beloved brands like Joann's or Red Lobster being driven into the ground by private equity, now imagine if that was your utility, because that's where private equity sector is going.
+[00:54:01.199 --> 00:54:13.920]  As they have extracted all of the value out of the retail and service sector that they can, they are increasingly turning their attention to infrastructure and the things that make up the material basis of our lives.
+[00:54:14.239 --> 00:54:26.719]  Meanwhile, GIP is in advanced talks for a potential $38 billion acquisition of AES Corporation, which is a major player with renewable assets nationwide.
+[00:54:26.960 --> 00:54:35.039]  Larry's team drafts the game plan for restructuring portfolios, valuing toxic assets, and bailing out collapsing banks.
+[00:54:35.359 --> 00:54:41.279]  Larry Fink had turned the greatest financial disaster of the generation into his greatest triumph.
+[00:54:41.519 --> 00:54:59.519]  While American finance takes years to rebound, he emerges with friends in high places, more money than ever, and what he's always wanted, the influence of a president, a company like a world power without a single campaign nor a single vote.
+[00:54:59.839 --> 00:55:00.719]  True power.
+[00:55:01.039 --> 00:55:08.799]  And while no one was taking notice, he has created a playing field where no matter what, BlackRock always wins.
+[00:55:09.279 --> 00:55:22.799]  Thousands of miles of overhead pylons will be erected to connect offshore wind farms, solar farms, data sheds, and millions of cars and other renewable sources to that national grid.
+[00:55:23.039 --> 00:55:40.559]  In Texas, BlackRock's footprint grows via GIP-owned firms like Eolian developing massive battery storage projects such as the Padua Complex near San Antonio to stabilize ERCOT amid retiring fossil plants and exploding AI-driven demand.
+[00:55:40.880 --> 00:55:45.440]  Blackstone is currently in the process of purchasing the Texas New Mexico grid.
+[00:55:45.599 --> 00:55:47.599]  BlackRock actually started under Blackstone.
+[00:55:47.759 --> 00:55:55.119]  And while they still claim that they're separate now, if you look at their yearly reports and their quarterly reports, they still push the ESG narrative.
+[00:55:55.359 --> 00:56:10.799]  The Texas Attorney General here has a lawsuit against BlackRock for that very reason, where they were manipulating the grids and pushing solar and wind technology and offsetting coal and oil and gas because of them pushing this ESG narrative.
+[00:56:11.119 --> 00:56:27.920]  Consumer advocates and experts warn of profit-driven models loading debt onto the utilities, slashing accountability, and hiking residential bills to subsidize big tech clients, eroding public oversight of essential infrastructure serving millions.
+[00:56:28.159 --> 00:56:32.159]  And private equity prioritizes returns over resilience.
+[00:56:32.480 --> 00:56:34.719]  John Bound, reporting for Infowars.
+[00:56:34.960 --> 00:56:38.880]  John Bound did a great job of this report, but it's way worse than he's saying.
+[00:56:39.199 --> 00:56:46.639]  The data centers, the whole AI thing, BlackRock already owns to its subsidiaries large portions of the U.S. power grid.
+[00:56:46.799 --> 00:56:55.519]  They bought six years before the Maui-Lahina fire that little town's grid has been paid for over 70 years by the locals.
+[00:56:55.839 --> 00:57:00.239]  They bought the little power co-op collective and then said, We're no longer investing.
+[00:57:00.319 --> 00:57:01.679]  It's just a little microcosm.
+[00:57:02.319 --> 00:57:04.559]  We're no longer investing in anything to do with carbon.
+[00:57:04.719 --> 00:57:06.159]  We're not going to fix the power lines.
+[00:57:06.319 --> 00:57:07.199]  We're not going to trim them.
+[00:57:07.279 --> 00:57:07.440]  Nothing.
+[00:57:07.679 --> 00:57:13.440]  Then they left the power on, burned it all down, just like the Palisades.
+[00:57:13.519 --> 00:57:16.799]  And I told you, a 50-minute city, and that they wouldn't let people rebuild.
+[00:57:16.880 --> 00:57:19.279]  And everything I said came true because it's a formula.
+[00:57:19.359 --> 00:57:20.639]  So it's way worse.
+[00:57:20.960 --> 00:57:27.039]  But most of the utilities are state-owned or power collectors of different counties.
+[00:57:27.359 --> 00:57:31.119]  Big companies will come in that partner with them and that make their profit.
+[00:57:31.759 --> 00:57:36.880]  But anywhere you end up getting big areas of the power controlled by private interest, you will be raped.
+[00:57:37.039 --> 00:57:38.319]  Think about Enron.
+[00:57:38.559 --> 00:57:41.440]  And if you think Enron was bad, this is the same group.
+[00:57:43.039 --> 00:57:48.480]  And remember, they also want to cut off all the carbon to make it more expensive and not work.
+[00:57:49.440 --> 00:57:50.880]  And Baume gets into that in his report.
+[00:57:50.960 --> 00:57:52.799]  But there's so many facets to this.
+[00:57:53.119 --> 00:57:56.799]  We're live now, but when we're not live, we re-upload this to X later.
+[00:57:57.199 --> 00:57:58.319]  We'll add the rest of the report in.
+[00:57:58.480 --> 00:58:04.719]  But this is one of their main big moves, and it needs to be absolutely opposed.
+[00:58:05.039 --> 00:58:10.799]  I know it's not as sexy as Egyptian aircraft and stuff like that, but it's really serious.
+[00:58:10.880 --> 00:58:11.679]  It's real.
+[00:58:12.319 --> 00:58:15.199]  Ben Shakur accused me of never giving names or specifics.
+[00:58:15.440 --> 00:58:16.480]  Buddy, that's all I do.
+[00:58:16.559 --> 00:58:17.519]  That's why you don't like me.
+[00:58:17.839 --> 00:58:18.960]  We'll be right back.
+[00:58:21.519 --> 00:58:24.000]  There must be some way out of here.
+[00:58:25.119 --> 00:58:27.039]  Say the joker to the thief.
+[00:58:27.199 --> 00:58:28.719]  There's too much confusion.
+[00:58:29.039 --> 00:58:31.440]  There's too much confusion.
+[00:58:32.719 --> 00:58:34.880]  I can't get no relief.
+[00:58:36.400 --> 00:58:38.880]  Businessmen they drink my way.
+[00:58:49.839 --> 00:58:51.279]  All along the watchtower.
+[00:58:52.079 --> 00:59:00.719]  You know, those people out there that think that life is a joke, they're such fools, but you and I, we've been through that, and it's not our fate.
+[00:59:01.039 --> 00:59:03.440]  So let's stop talking falsely now.
+[00:59:03.599 --> 00:59:05.119]  The hour is getting late.
+[00:59:06.559 --> 00:59:10.000]  That's why, given enough time, Alex Jones is almost always right.
+[00:59:10.320 --> 00:59:14.000]  Sometimes we have enough momentum to stop some bad thing that's going to happen.
+[00:59:14.480 --> 00:59:18.720]  We have such a giant audience of activists, but that's about the only time we're wrong.
+[00:59:20.240 --> 00:59:25.680]  Because I've done my homework and I have on the experts that are consistently right.
+[00:59:28.559 --> 00:59:29.840]  And I'm not defending our record.
+[00:59:30.000 --> 00:59:37.760]  Our record is important so people know and understand that there's a place you can go that's got the best accuracy record out there.
+[00:59:38.079 --> 00:59:43.039]  And that's all God working through us, our guests, our crew, the listeners, one big family.
+[00:59:43.680 --> 00:59:48.000]  Now, I spent a lot of time last hour on this, so I'm going to show you the actual clips.
+[00:59:48.400 --> 00:59:52.320]  There's a bunch of them of Netanyahu saying the eight-front war opens up.
+[00:59:52.400 --> 00:59:53.519]  He said it two months ago.
+[00:59:53.840 --> 01:00:03.280]  In speeches of the Knesset, speeches to big Jewish think tanks, censorship groups, big tech, Congress.
+[01:00:04.800 --> 01:00:15.920]  And now you have the Israeli government and the embassy saying, we're going out with these powerful AI tools and we're tracking who you are and what you're doing and we're going to get you.
+[01:00:16.480 --> 01:00:18.480]  Now, again, there are dozens of new clips.
+[01:00:18.559 --> 01:00:20.240]  Some of these are 10, 15 minutes long.
+[01:00:20.559 --> 01:00:24.960]  So when I show you the clips, we'll also give you the headline where you can find them on X is where I got most of these.
+[01:00:25.200 --> 01:00:27.119]  So you can go watch the full thing for yourself, okay?
+[01:00:27.360 --> 01:00:36.320]  You need to know about this because we spent a lot of time on the EU coming in with its rules and the UK and suing U.S. companies and coming after U.S. individuals to get our speech.
+[01:00:36.400 --> 01:00:38.320]  And Trump's starting to fight that, and that's good.
+[01:00:38.880 --> 01:00:44.559]  Another 40 million euro fine on Elon and all of it.
+[01:00:44.880 --> 01:00:50.079]  But Israel, under Netanyahu, declared a war on our free speech.
+[01:00:51.760 --> 01:00:58.320]  It is the stereotype cliché of a foreign power trying to manipulate and control America.
+[01:00:58.559 --> 01:01:01.920]  It's bad enough if our own government does it, but really bad if they do.
+[01:01:02.240 --> 01:01:04.960]  And I mean the Chinese, the Israelis, anybody.
+[01:01:05.519 --> 01:01:09.360]  So this is a big deal and it is outrageous.
+[01:01:09.680 --> 01:01:14.400]  But Israel thinks by labeling anybody against this anti-Semitic, everybody will just cower.
+[01:01:15.680 --> 01:01:22.240]  People are sick of being guilted, Netanyahu, by the left, by you, by everybody.
+[01:01:22.559 --> 01:01:33.119]  And you guys have been so anti-Western, so anti-Christian, so anti-white on the left and the Islamics and some of the Israelis that you made actually a lot of people become what you said they were.
+[01:01:33.200 --> 01:01:34.159]  Oh, you sent out Hitler?
+[01:01:34.240 --> 01:01:34.960]  Okay, I like Hitler.
+[01:01:35.200 --> 01:01:37.680]  Well, that's not me because I've studied too much history.
+[01:01:38.000 --> 01:01:41.200]  I don't like Hitler and I don't like you, Netanyahu.
+[01:01:42.720 --> 01:01:48.400]  I don't like Islam and I don't like expansionist global greater Israel at our expense.
+[01:01:48.720 --> 01:01:49.440]  Got it?
+[01:01:50.320 --> 01:01:53.039]  But I always try to explain to the numbskulls out there.
+[01:01:53.920 --> 01:01:55.680]  They're like pro-Islam.
+[01:01:55.840 --> 01:02:00.559]  Jones is covering up for the Jews by saying Islam is a threat.
+[01:02:02.480 --> 01:02:07.760]  I don't want to be run over by an 18-wheeler or by a MAC truck.
+[01:02:08.720 --> 01:02:12.159]  I don't want to be shot in the head with a shotgun or a 357 Magnum.
+[01:02:13.039 --> 01:02:16.000]  I don't want Russian nuclear bombs to rain on us or Chinese.
+[01:02:16.320 --> 01:02:17.519]  And I don't want NATO to start that.
+[01:02:17.680 --> 01:02:22.000]  See, you can have lots of things you know, not just one thing you know.
+[01:02:22.079 --> 01:02:24.640]  It doesn't take away from that one magic thing, you know.
+[01:02:24.960 --> 01:02:39.840]  The Jews obsessing on themselves and saying everybody's coming after them and then trying to censor and control everybody and creating the self-fulfilling prophecy, which Netanyahu knows he's doing, which will get him more power with the Jews.
+[01:02:40.480 --> 01:02:44.880]  Just like black groups will go stir up and create fake hate crimes so they'll get more funding.
+[01:02:45.680 --> 01:02:47.440]  Humans all act the same, folks.
+[01:02:47.760 --> 01:02:48.000]  Okay?
+[01:02:49.440 --> 01:02:53.680]  So corruption, evil, false flags, manipulation is not exclusive to any one group.
+[01:02:53.840 --> 01:03:03.760]  It doesn't take away from one of the groups doing it that it's bad, but you have no real moral authority when you try to only say corruption can come from one group of people.
+[01:03:04.240 --> 01:03:05.680]  Just not true.
+[01:03:08.880 --> 01:03:10.720]  That is a defense of reality.
+[01:03:11.039 --> 01:03:13.599]  Now let us expose what you've already been doing.
+[01:03:13.680 --> 01:03:29.599]  Is has been building, but now it's hitting a whole new level of tempo and acceleration and again the Israel lobby has been suing and undermining and attacking X and trying to crash into the market and doing all this and he's now suing them back.
+[01:03:29.920 --> 01:03:43.680]  So Elon's all smiley face and everything in public, But in his actions, he's taking action and has an incredible maverick for the unprecedented level of free speech that is flourishing on X.
+[01:03:44.240 --> 01:03:47.440]  And a lot of it's a train wreck and it's crazy, but that's what freedom's about.
+[01:03:47.599 --> 01:03:49.039]  Rumble's doing an excellent job as well.
+[01:03:49.200 --> 01:03:53.280]  It's forcing the other tech companies because they're losing market share to start easing off.
+[01:03:53.599 --> 01:03:55.200]  This is revolutionary.
+[01:03:56.400 --> 01:04:04.320]  So I do absolutely get excited about that and thank Elon Musk for his courage and maverick leadership.
+[01:04:05.280 --> 01:04:06.079]  Is that what we wanted?
+[01:04:06.159 --> 01:04:07.200]  Is that what we need?
+[01:04:07.680 --> 01:04:09.360]  You can get horse in the mouth.
+[01:04:10.559 --> 01:04:13.519]  So I said, pull up the Netanyahu Club when he declared eight front war.
+[01:04:13.680 --> 01:04:14.880]  They were telling me, well, which one, sir?
+[01:04:14.960 --> 01:04:15.519]  There's like 50.
+[01:04:16.159 --> 01:04:24.800]  Let's do the first one where he's in the with the young American Jews in the media and he's telling them how they've got to go fight.
+[01:04:24.880 --> 01:04:27.119]  And then we've got him at big public meetings.
+[01:04:27.680 --> 01:04:29.440]  Let's go ahead and play those clips.
+[01:04:31.599 --> 01:04:40.800]  So something I would like to raise, which was actually my first published paper, was how you and the Likud Party are cut from the same ideological cloth as Trump and the GOP in America.
+[01:04:41.119 --> 01:04:46.559]  And so specifically with Charlie Kirk's assassination, who was a big mentor of mine, he's my first mentor in this space.
+[01:04:47.360 --> 01:04:55.039]  Evangelicals, from all my research, evangelicals are the reason that Israel has been supported in public sphere outside of disputes.
+[01:04:55.360 --> 01:05:06.639]  So with Charlie's assassination and with the trajectory that we see with like Candace Orwins and Tucker Carlson, I guess I'm curious about what's another game plan if we lose evangelical support for the state of Israel.
+[01:05:06.800 --> 01:05:11.280]  What's our backup plan to be strong outside of the diaspora?
+[01:05:13.360 --> 01:05:15.840]  Christian influencers, okay.
+[01:05:16.480 --> 01:05:19.200]  You said you talked about the woke right.
+[01:05:19.440 --> 01:05:21.599]  And you said, I call it the woke Reich.
+[01:05:22.960 --> 01:05:24.720]  That's a brilliant observation.
+[01:05:25.360 --> 01:05:30.880]  The woke Reich, because these people, you know, they're not any different from the woke left.
+[01:05:31.039 --> 01:05:32.000]  I mean, they're insane.
+[01:05:32.079 --> 01:05:32.800]  They're movies.
+[01:05:33.920 --> 01:05:36.240]  But they're actually meeting on some of the things.
+[01:05:36.559 --> 01:05:45.440]  And what we have to do is we have to secure that part of the base of our support in the United States that is being challenged systematically.
+[01:05:45.760 --> 01:05:48.079]  A lot of this is done with money.
+[01:05:48.720 --> 01:05:53.599]  Money of NGOs, vast money of governments, faster.
+[01:05:54.240 --> 01:05:54.559]  Okay?
+[01:05:54.880 --> 01:05:56.079]  We have to fight back.
+[01:05:56.400 --> 01:05:57.440]  How do we fight back?
+[01:05:57.760 --> 01:05:59.119]  Our influencers.
+[01:05:59.440 --> 01:06:01.840]  I think you should also talk to them if you have a chance.
+[01:06:02.159 --> 01:06:03.760]  To that community.
+[01:06:03.920 --> 01:06:05.039]  They're very important.
+[01:06:05.680 --> 01:06:09.440]  And secondly, we're going to have to use the tools of battle.
+[01:06:09.760 --> 01:06:12.079]  You know, the weapons change over time.
+[01:06:12.400 --> 01:06:14.240]  You can't fight today with swords.
+[01:06:14.400 --> 01:06:15.440]  That doesn't work very well.
+[01:06:15.599 --> 01:06:15.840]  Okay.
+[01:06:16.480 --> 01:06:18.559]  And you can't fight with cavalry.
+[01:06:18.639 --> 01:06:19.760]  That doesn't work very well.
+[01:06:20.079 --> 01:06:23.360]  And you have these new things, you know, like drones, things like that.
+[01:06:23.519 --> 01:06:24.400]  I won't get into that.
+[01:06:24.720 --> 01:06:30.559]  But we have to fight with the weapons that apply to the battlefields in which we're engaged.
+[01:06:30.880 --> 01:06:33.360]  And the most important ones are social media.
+[01:06:33.680 --> 01:06:39.680]  And the most important purchase that is going on right now is class followers.
+[01:06:41.680 --> 01:06:42.000]  TikTok.
+[01:06:42.960 --> 01:06:43.440]  TikTok.
+[01:06:43.680 --> 01:06:44.320]  Number one.
+[01:06:44.639 --> 01:06:45.280]  Number one.
+[01:06:45.599 --> 01:06:49.360]  And I hope it goes through because it can be consequential.
+[01:06:49.680 --> 01:06:52.079]  And the other one, what's the other one that's most important?
+[01:06:52.800 --> 01:06:56.639]  X. X. Very good.
+[01:06:57.280 --> 01:06:59.760]  And, you know, so we have to talk to Elon.
+[01:06:59.840 --> 01:07:00.800]  He's not an enemy.
+[01:07:01.119 --> 01:07:01.920]  He's a friend.
+[01:07:02.400 --> 01:07:03.120]  We should talk to them.
+[01:07:03.680 --> 01:07:05.760]  Now, if we can get those two things, we get a lot.
+[01:07:06.000 --> 01:07:08.720]  And I could go on on other things, but that's not the point right now.
+[01:07:09.040 --> 01:07:11.520]  We have to fight the fight, okay?
+[01:07:12.160 --> 01:07:20.400]  To take, give direction to the Jewish people and give direction to our non-Jewish friends or those who could be our Jewish friends.
+[01:07:20.640 --> 01:07:22.000]  Are we going to succeed with everyone?
+[01:07:22.160 --> 01:07:22.400]  No.
+[01:07:22.640 --> 01:07:24.080]  Will there be a strong counterpart?
+[01:07:24.240 --> 01:07:24.320]  Yes.
+[01:07:24.800 --> 01:07:28.000]  Not only the burning of Israeli flags, and this is consequential.
+[01:07:28.320 --> 01:07:34.320]  You see the burning of American flags, British flags, Canadian flags, French flags.
+[01:07:34.640 --> 01:07:44.880]  That's not an accident because the people who are leading this charge are basically challenging Western civilization or free societies as we understand them.
+[01:07:45.440 --> 01:07:54.160]  When you celebrate these killers, you're celebrating the complete breakdown of civilized society as we understand it.
+[01:07:54.480 --> 01:08:02.160]  So what Israel is fighting here is not merely a seven-front war, which I'll have to attend to in a few minutes, but an eighth-front war.
+[01:08:02.400 --> 01:08:07.680]  It's the war, ultimately, of civilization against barbarism.
+[01:08:08.000 --> 01:08:09.360]  Now, how does this war proceed?
+[01:08:09.440 --> 01:08:13.600]  There are certain patterns of anti-Semitism that we've seen down the ages.
+[01:08:13.840 --> 01:08:14.400]  Oh, impossible.
+[01:08:14.560 --> 01:08:15.280]  It's always a conflict.
+[01:08:15.520 --> 01:08:19.840]  Same thing's being done in Australia, the UK, all over Europe.
+[01:08:20.159 --> 01:08:27.199]  The Muslims attack that have been brought in by the globalists, brought in by the ADL, brought in by the Jewish charities, the Catholic ones.
+[01:08:27.840 --> 01:08:32.560]  And then when they attack, they go, oh, we're going to pass laws taking all your free speech and your guns.
+[01:08:32.880 --> 01:08:44.480]  But then when you study what the ADL and its counterparts in Europe are doing, they're really going after the conservatives and the populace that are opposing open borders and opposing the tyranny.
+[01:08:44.800 --> 01:08:46.800]  And they're not even going after the Muslims.
+[01:08:47.119 --> 01:08:48.400]  So see, it sounds good.
+[01:08:48.560 --> 01:08:50.159]  Oh, we're fighting for the West.
+[01:08:50.239 --> 01:08:51.840]  Oh, we're fighting barbarism.
+[01:08:52.480 --> 01:09:00.239]  But the Israel lobby is hiding their activities and saying, oh, we're on your side.
+[01:09:00.320 --> 01:09:01.119]  We're against the Muslims.
+[01:09:01.199 --> 01:09:08.960]  So it's true, people say that people are using the Muslim attacks as a diversion from Israel.
+[01:09:09.840 --> 01:09:13.280]  But then they say, and Islam isn't a threat, and Islam's not a problem.
+[01:09:13.520 --> 01:09:15.039]  No, it is a huge problem.
+[01:09:15.680 --> 01:09:23.520]  And in the long term, absolutely, you know, you have different Israeli administrations, different groups, it goes on and off, good, bad, whatever.
+[01:09:24.720 --> 01:09:30.880]  With Muslims, man, it is, they'll tell you they're your friends, but in the long game, it's in the Quran, they're lying to you, it's about to take over.
+[01:09:31.440 --> 01:09:32.720]  And now they've got their numbers up high enough.
+[01:09:32.800 --> 01:09:34.560]  They say, no, it's time for the Islam and Jihad.
+[01:09:34.640 --> 01:09:36.800]  It's time for the intifada.
+[01:09:37.920 --> 01:09:39.039]  And you see that.
+[01:09:39.680 --> 01:09:44.000]  So, and the Muslims want censorship, too.
+[01:09:44.640 --> 01:09:47.760]  They all come from societies that don't have free speech.
+[01:09:48.400 --> 01:09:52.640]  So here's Netanyahu at the government press office of Israel giving the speech.
+[01:09:53.760 --> 01:09:54.880]  He just said it's a front war.
+[01:09:54.960 --> 01:09:57.119]  Let's move on from that because I got too much to get to.
+[01:09:58.079 --> 01:10:11.039]  Here is the Israeli embassy spokesperson admits they use big tech to spy on people all over the Western world in America, change policy, and influence the governments to stop anti-Semitism.
+[01:10:11.199 --> 01:10:14.159]  And they work through the corporations, the banks, to censor and control people.
+[01:10:14.320 --> 01:10:15.760]  And they say, we're watching you.
+[01:10:16.079 --> 01:10:17.600]  This is foreign meddling.
+[01:10:17.840 --> 01:10:19.039]  This is election meddling.
+[01:10:19.199 --> 01:10:20.000]  This is tyranny.
+[01:10:20.239 --> 01:10:21.280]  Here it is.
+[01:10:22.239 --> 01:10:23.600]  Bet you didn't see this.
+[01:10:23.920 --> 01:10:31.520]  What you're about to watch is easily one of the scariest, most disturbing things that I personally have ever seen.
+[01:10:31.840 --> 01:10:32.720]  Watch this.
+[01:10:33.039 --> 01:10:41.119]  When you look for a job, when you look for a spouse, when you look for a nanny, when you look for anything, our work will always be documented.
+[01:10:41.360 --> 01:10:43.280]  Again, thanks to Google and SEO.
+[01:10:43.840 --> 01:10:50.800]  In corporations where DEI leaders smeared Israel, excused Hamas, we pressured CEOs.
+[01:10:51.119 --> 01:10:52.079]  Some resigned.
+[01:10:52.320 --> 01:10:53.520]  Many were terminated.
+[01:10:53.840 --> 01:10:55.760]  But policies were changed, thankfully.
+[01:10:56.000 --> 01:10:58.640]  So this is Leora Rez, I think that's how you say her name.
+[01:10:59.359 --> 01:11:02.559]  The founder of the organization, Stop Anti-Semitism.
+[01:11:02.800 --> 01:11:05.039]  Oh, I'm just going to kind of break this down as we go.
+[01:11:05.599 --> 01:11:07.519]  But first, I need you to understand something.
+[01:11:07.840 --> 01:11:17.119]  As you're watching this, consider the fact that this is the organization that I was talking about a little while ago that said that Miss Rachel was an anti-Semite.
+[01:11:17.279 --> 01:11:17.439]  Okay.
+[01:11:17.519 --> 01:11:23.920]  She brought a little girl who was blown up by the IDF and who had to have her leg amputated.
+[01:11:24.239 --> 01:11:26.319]  She had her on her show and showed her love and care.
+[01:11:26.559 --> 01:11:32.079]  And because of that, these people, this woman, this organization called her an anti-Semite.
+[01:11:32.399 --> 01:11:36.079]  Not only an anti-Semite, they nominated her for anti-Semite of the Year.
+[01:11:36.319 --> 01:11:37.760]  Okay, so keep that in mind as you watch this.
+[01:11:38.159 --> 01:11:38.720]  For years, we exposed it.
+[01:11:39.279 --> 01:11:40.319]  Back up two seconds.
+[01:11:40.639 --> 01:11:42.559]  And what do you think is dead on?
+[01:11:42.639 --> 01:11:43.679]  He's been a guest for.
+[01:11:44.559 --> 01:11:51.279]  But just like I have here in my stack, I showed you earlier, the UK's new law that bans any type of speech they don't like puts you in prison.
+[01:11:51.679 --> 01:11:53.599]  Criticism of Islam, you name it.
+[01:11:54.239 --> 01:11:57.199]  That the Israel lobby is supporting, because you can't criticize Israel either.
+[01:11:57.359 --> 01:11:58.720]  Sorry, a free society, you can.
+[01:11:58.880 --> 01:12:00.800]  If your ideas are so great, then let it out there.
+[01:12:01.119 --> 01:12:01.439]  Okay?
+[01:12:04.000 --> 01:12:07.439]  We have a list of what the Israeli embassy is saying at once.
+[01:12:08.720 --> 01:12:16.079]  And I showed a few weeks ago when they had a meta was reading off of it saying we've gotten the rules changed.
+[01:12:16.720 --> 01:12:20.960]  She said, we Jews in almost every position of power in big tech, she says that.
+[01:12:21.279 --> 01:12:24.399]  If you're a new listener, I've already played like 10 times last month, so I'm not going to play it again.
+[01:12:25.039 --> 01:12:25.599]  Maybe we should.
+[01:12:26.159 --> 01:12:27.039]  It's so crazy.
+[01:12:27.359 --> 01:12:30.239]  But she says it.
+[01:12:30.800 --> 01:12:34.960]  And then she says, if you criticize Zionism, we're going to take you offline.
+[01:12:35.119 --> 01:12:36.239]  We're going to take your bank account.
+[01:12:36.319 --> 01:12:37.039]  We're going to destroy you.
+[01:12:37.519 --> 01:12:38.399]  I mean, you know.
+[01:12:40.880 --> 01:12:42.960]  Well, Zionism is now the greater Israel policy.
+[01:12:43.119 --> 01:12:46.399]  I'm against Israel expanding and taking over and having huge wars.
+[01:12:46.479 --> 01:12:48.239]  I don't want to get rid of Israel.
+[01:12:50.800 --> 01:12:51.840]  Yeah, there she is.
+[01:12:52.159 --> 01:12:54.639]  So, I mean, this is bonkertown, folks.
+[01:12:54.960 --> 01:12:56.800]  And I have to oppose this.
+[01:12:57.760 --> 01:13:03.519]  But I do it from a position of just being reasonable and saying, hey, everybody needs to say this is wrong, including American Jews.
+[01:13:03.679 --> 01:13:04.559]  A lot of them are.
+[01:13:06.079 --> 01:13:10.559]  But again, I want to play the whole thing, but it's like 15 minutes long here.
+[01:13:10.639 --> 01:13:11.599]  So just go back to it.
+[01:13:12.800 --> 01:13:16.720]  For years, we exposed hate, pressured institutions, and delivered consequences.
+[01:13:17.039 --> 01:13:22.479]  But after 10-7, the scale of threat and the urgency of our mission changed dramatically overnight.
+[01:13:22.720 --> 01:13:39.199]  Yeah, I bet it did ramp up because after October 7th, a lot of people started to wake up and realize what was going on in the Middle East, specifically that the Israeli government is literally committing war crimes and genociding and ethnically cleansing an entire people.
+[01:13:39.519 --> 01:13:40.319]  See, that's what happened.
+[01:13:40.399 --> 01:13:41.359]  People started to realize that.
+[01:13:41.519 --> 01:13:43.359]  So I'm sure that everything ramped up for you.
+[01:13:43.519 --> 01:13:45.519]  Yeah, that makes perfect sense.
+[01:13:45.840 --> 01:13:50.000]  Since that day, we have featured more than 1,000 anti-Semites on our platforms.
+[01:13:50.239 --> 01:13:51.359]  1,000.
+[01:13:51.679 --> 01:13:57.119]  Not theorized about them, not quietly documented them, featured them publicly, clearly, and with evidence.
+[01:13:57.439 --> 01:13:58.880]  The results speak for themselves.
+[01:13:59.199 --> 01:14:05.679]  Approximately 400 of these Jew haters have faced real consequences, including firings, suspensions, and expulsions.
+[01:14:06.000 --> 01:14:17.199]  More than 300 of them remain in an active investigatory state across universities, corporations, DEI departments, unions, hospitals, nonprofits, and yes, unfortunately, federal government agencies.
+[01:14:17.519 --> 01:14:20.239]  She's literally saying the quiet part out loud.
+[01:14:21.119 --> 01:14:34.559]  They are literally targeting people and calling them Jew haters for things like criticizing the Israeli government, for things like calling out genocide, for things like standing up for innocent civilians that are being murdered at mass.
+[01:14:34.880 --> 01:14:41.439]  She's literally saying they give them the label Jew hater, and then they and then they go on a witch hunt after all these people.
+[01:14:41.760 --> 01:14:42.639]  That's what she's saying.
+[01:14:42.880 --> 01:14:43.359]  There's more.
+[01:14:43.519 --> 01:14:44.639]  Keep watching.
+[01:14:44.960 --> 01:14:51.119]  And yes, five arrests to date tied directly to threats and violence of anti-Semitic conduct we helped expose.
+[01:14:51.439 --> 01:14:52.880]  This is what accountability looks like.
+[01:14:53.119 --> 01:14:54.319]  This is what action looks like.
+[01:14:54.559 --> 01:15:00.799]  This is what pushing back hard looks like against the tidal wave of hate that has consumed the United States and global population.
+[01:15:01.039 --> 01:15:12.319]  The tidal wave of hate or the tidal wave of awareness and realization of the subversion and manipulation and gaslighting of this entire situation.
+[01:15:12.639 --> 01:15:13.599]  Which one did you actually mean?
+[01:15:14.079 --> 01:15:15.439]  I think that's what you actually meant.
+[01:15:15.679 --> 01:15:17.279]  I think that's what you're actually talking about.
+[01:15:17.519 --> 01:15:20.319]  I think that's what the tidal wave has been.
+[01:15:20.639 --> 01:15:24.239]  From our founding, stop anti-Semitism has operated on one guiding belief.
+[01:15:24.479 --> 01:15:27.519]  Anti-Semitism thrives when there are no consequences.
+[01:15:27.759 --> 01:15:29.759]  So we created consequences, a lot of them.
+[01:15:29.999 --> 01:15:30.639]  We stepped in.
+[01:15:30.799 --> 01:15:31.919]  We documented the offenders.
+[01:15:32.079 --> 01:15:34.799]  We worked with attorneys, lawmakers, and victim families.
+[01:15:34.959 --> 01:15:37.439]  And we ensured the message was not mistakable.
+[01:15:37.759 --> 01:15:40.959]  If you target Jewish students, your actions will not disappear into the darkness.
+[01:15:41.279 --> 01:15:45.919]  We will shine a light on you that thanks to Google and SEO will follow you for the rest of your life.
+[01:15:46.239 --> 01:15:47.839]  Oh, thanks to Google and SEO.
+[01:15:47.999 --> 01:15:48.159]  Yeah.
+[01:15:48.479 --> 01:15:51.919]  So that whole like buying out Google thing.
+[01:15:52.639 --> 01:15:56.159]  So it really was just to create this narrative.
+[01:15:56.319 --> 01:16:07.199]  It really was just to target people who oppose this regime and oppose what they're doing in the Middle East and oppose all the subversion and manipulation and infiltration of our government and agencies and all these other things.
+[01:16:07.519 --> 01:16:08.479]  Okay, got it.
+[01:16:08.799 --> 01:16:09.359]  Got it.
+[01:16:09.679 --> 01:16:11.599]  And it'll follow you for the rest of your life.
+[01:16:11.919 --> 01:16:12.239]  Okay.
+[01:16:13.599 --> 01:16:14.239]  There's more.
+[01:16:15.039 --> 01:16:24.399]  Online, where anonymous accounts spread violent threats, we trace patterns, elevated evidence, and worked with authorities leading to arrests from Florida, South Carolina, New York, California, and Texas.
+[01:16:24.639 --> 01:16:25.919]  And we're not slowing down, sadly.
+[01:16:26.159 --> 01:16:42.239]  Today, Stop Anti-Semitism, I'm proud to say, runs one of the most robust anti-Semitic enforcement operations in the United States, monitoring campuses, digital networks, activist groups, and public officials, documenting incidents in real time, and mobilizing millions of people of allies that are quietly by our side.
+[01:16:42.479 --> 01:16:45.199]  But the fight is bigger than the exposure, and it's about securing a future.
+[01:16:45.359 --> 01:16:48.959]  A future where employers understand that anti-Semitism is not activism.
+[01:16:49.199 --> 01:16:51.839]  It's bigotry, and it will cause you to lose your job.
+[01:16:52.159 --> 01:16:55.359]  A future where fact, not propaganda, shapes policy.
+[01:16:55.679 --> 01:17:00.319]  I'm sorry, a future where fact, not propaganda, shapes policy.
+[01:17:00.959 --> 01:17:01.199]  Okay.
+[01:17:03.999 --> 01:17:14.239]  A future where global institutions, from Google to chat, GPT, from governments to universities to media, finally treats Jew hatred with the serious of other minority-targeted hate.
+[01:17:14.479 --> 01:17:15.679]  Together, we need three things.
+[01:17:15.919 --> 01:17:17.359]  Action, real action, as I listed.
+[01:17:17.599 --> 01:17:22.319]  Accountability, relentless vigilance, because anti-Semitism does not take breaks.
+[01:17:22.639 --> 01:17:23.919]  It doesn't wait for elections.
+[01:17:24.159 --> 01:17:26.239]  It doesn't disappear because we are exhausted and tired.
+[01:17:26.479 --> 01:17:29.759]  And when I tell you myself and my team are exhausted and tired, that's the least of it.
+[01:17:29.999 --> 01:17:33.759]  Stop anti-Semitism has never been more essential, more strategic, or more effective than it is now.
+[01:17:34.079 --> 01:17:35.199]  But we cannot do this alone.
+[01:17:35.359 --> 01:17:40.399]  The demand, the volume of tips, the number of investigations, sadly, it continues to grow instead of decrease.
+[01:17:40.719 --> 01:17:44.399]  If we want a safer future for the Jewish people, this is the moment to stand together and act.
+[01:17:44.639 --> 01:17:48.959]  We have to push harder to make it clear that Jewish safety is a non-negotiable.
+[01:17:49.199 --> 01:17:52.959]  Tonight, I'm asking you to always be in the fight with us, not just in spirit, but in true action.
+[01:17:53.119 --> 01:17:54.239]  Participate in calls to action.
+[01:17:54.399 --> 01:17:55.919]  Write letters to your governmental officials.
+[01:17:56.159 --> 01:17:57.679]  When we act, lives change.
+[01:17:57.919 --> 01:18:03.839]  And anti-Semites learn, sometimes for the very first time in their lives and history, that targeting Jews will come at a price.
+[01:18:03.999 --> 01:18:07.519]  And together, we can ensure that Jew hatred never goes unanswered again.
+[01:18:07.839 --> 01:18:10.719]  As a former refugee from the USSR, I say this with all of my heart.
+[01:18:10.959 --> 01:18:12.159]  God bless the United States.
+[01:18:12.319 --> 01:18:12.959]  God bless Israel.
+[01:18:13.039 --> 01:18:13.999]  And Amazrel High.
+[01:18:14.239 --> 01:18:14.879]  Thank you so much.
+[01:18:15.199 --> 01:18:16.479]  This lady is really something.
+[01:18:16.799 --> 01:18:17.919]  Understand something, guys.
+[01:18:18.239 --> 01:18:25.119]  People like this, organizations like this, are what are causing anti-Semitism to grow, like actual anti-Semitism, okay?
+[01:18:25.279 --> 01:18:26.399]  Because here's the thing.
+[01:18:26.719 --> 01:18:29.119]  She's not talking about anti-Semitism, okay?
+[01:18:29.279 --> 01:18:31.359]  She's not talking about Jew hatred.
+[01:18:31.679 --> 01:18:49.679]  This organization is, while they probably have targeted some people that are actually anti-Semitic and actually hating on Jews, there's people, like I said, Miss Rachel and other people who are not Jew haters and they're not anti-Semitic and they are not doing things that are anti-Semitic, okay?
+[01:18:50.319 --> 01:18:52.238]  If you remember what happened to Dave Portnoy.
+[01:18:52.499 --> 01:18:53.618]  Hey, fuck the Jews.
+[01:18:53.839 --> 01:18:54.878]  Fuck you, Dave Portnoy.
+[01:19:13.798 --> 01:19:15.279]  That's Jew hatred, okay?
+[01:19:15.439 --> 01:19:16.239]  And that's not okay.
+[01:19:16.559 --> 01:19:17.279]  You can't do that.
+[01:19:17.519 --> 01:19:19.199]  That is actual Jew hatred.
+[01:19:19.519 --> 01:19:23.759]  That's something we should absolutely not do and we should absolutely criticize.
+[01:19:24.079 --> 01:19:30.559]  And honestly, if they were going to expose that person for being as hateful as they are, like, okay, cool.
+[01:19:30.799 --> 01:19:31.359]  I get it.
+[01:19:32.159 --> 01:19:33.359]  That's understandable.
+[01:19:33.679 --> 01:19:35.679]  But that's not what these people are doing.
+[01:19:35.999 --> 01:19:52.799]  They are using anti-Semitism and Jew hatred as a guise to go after anyone and everyone that opposes the Israeli government, their actions in the Middle East, Zionism, and the Zionist agenda, both in the Middle East and in the United States of America.
+[01:19:53.039 --> 01:19:53.759]  Don't believe me?
+[01:19:53.999 --> 01:19:54.559]  Watch this.
+[01:19:54.879 --> 01:20:01.919]  They're picking out individuals who they think are critical of Israel and they're smearing them.
+[01:20:02.239 --> 01:20:13.199]  And they're telling them that what's going to happen here is if you don't cease and desist from acting like this, we in the end will do much to destroy your career.
+[01:20:13.439 --> 01:20:17.519]  A few years later, these individuals are applying for jobs within your company.
+[01:20:17.759 --> 01:20:23.759]  Canary Mission's promotional video threatens to pass these smears on to prospective employers.
+[01:20:24.159 --> 01:20:27.519]  Ensure that today's radicals are not tomorrow's employees.
+[01:20:30.399 --> 01:20:37.599]  Canary Mission is highly, highly effective to the extent that we monitor the students for justice in Palestine and their allies.
+[01:20:40.239 --> 01:20:43.119]  I mean, not we, but the sub anonymous group.
+[01:20:43.519 --> 01:20:48.719]  If you're Jewish and you're watching this right now, you need to stand up.
+[01:20:49.599 --> 01:20:52.559]  You need to stand up and you need to say this isn't okay.
+[01:20:53.119 --> 01:20:58.479]  It's okay, because it's one thing to combat actual hatred towards you and your people.
+[01:20:58.799 --> 01:21:05.679]  It's another to label any opposition to the government of Israel as hateful or anti-Semitic.
+[01:21:05.839 --> 01:21:19.919]  It's another thing to say that criticizing politicians and people who are taking tons and tons and tons of money from another country in order to change and manipulate policy in our country is anti-Semitic or hateful.
+[01:21:20.239 --> 01:21:23.999]  And why is it okay for the people in Israel to want it to be all about Israel?
+[01:21:24.319 --> 01:21:31.599]  Why is it okay for them to have nationalistic pride in their country and talk all about their country?
+[01:21:31.919 --> 01:21:33.119]  Why is that okay?
+[01:21:33.439 --> 01:21:39.199]  But when we do it here, we're called anti-Semitic and hateful because we're about America and not Israel.
+[01:21:39.519 --> 01:21:46.159]  I'll tell you what, this kind of stuff is how you create actual hatred and actual anti-Semitism.
+[01:21:46.399 --> 01:22:03.599]  While I am smart enough and grounded enough to not allow this to create actual hatred in my heart for an entire people based on the sins of a few or even the sins of many, there are many people who are not able to separate that and who will straight up just say, you know what?
+[01:22:03.919 --> 01:22:04.639]  I'm done.
+[01:22:04.959 --> 01:22:09.759]  So stand up, get loud and fight this because it's only going to get worse.
+[01:22:09.999 --> 01:22:17.679]  And that's exactly what these people want because it creates more ability to control everything we do, everything we say, and everything we believe.
+[01:22:17.999 --> 01:22:20.639]  But hey, I'm just a conspiracy theory.
+[01:22:23.759 --> 01:22:24.959]  And everything he's saying is accurate.
+[01:22:25.119 --> 01:22:26.639]  It's in the list of what they're doing.
+[01:22:26.959 --> 01:22:33.199]  But she's saying in the U.S. through regulatory agencies, this is foreign meddling openly in the U.S.
+[01:22:34.159 --> 01:22:39.839]  It's one thing you got a bunch of jihadis at some college that are here, you know, getting free tuition and all the rest of it.
+[01:22:39.999 --> 01:22:41.839]  They're saying, you blow up America, blow up everything.
+[01:22:41.999 --> 01:22:43.199]  Sure as hell, shovel them out of here.
+[01:22:43.359 --> 01:22:44.159]  All for that.
+[01:22:44.719 --> 01:22:46.959]  But no, they're going after citizens, folks.
+[01:22:47.599 --> 01:22:49.679]  And it's tyrannical and it's wrong.
+[01:22:50.479 --> 01:22:52.559]  And it's not going to work.
+[01:22:53.199 --> 01:22:54.479]  So just stop.
+[01:22:55.439 --> 01:22:58.800]  Now you know what the eight-front war is.
+[01:22:59.760 --> 01:23:02.399]  It's not just, oh, put your ideas out, which is fine.
+[01:23:02.719 --> 01:23:03.599]  I'll have you on.
+[01:23:04.159 --> 01:23:06.399]  I've had a bunch of pro-Israel people on to hear their perspectives.
+[01:23:06.639 --> 01:23:08.880]  And I don't try to have the really super cookie ones on.
+[01:23:09.199 --> 01:23:16.479]  That's why I don't have Shmoly on because it's like if I really wanted to hurt Israel, I'd have them on every day.
+[01:23:17.039 --> 01:23:19.039]  I try to have like really thoughtful, smart Jews on.
+[01:23:19.279 --> 01:23:20.960]  So I'm going to hear their perspective.
+[01:23:21.199 --> 01:23:23.519]  And they're like disagreeing with most of the censorship and this other stuff.
+[01:23:23.599 --> 01:23:25.199]  And, you know, what's happening.
+[01:23:25.519 --> 01:23:28.479]  So it's very frustrating.
+[01:23:28.559 --> 01:23:34.399]  But here's Ben Shapiro a few days ago attacking me at a TPUSA.
+[01:23:34.719 --> 01:23:36.399]  And he attacked Tucker.
+[01:23:36.719 --> 01:23:38.399]  He attacked all these other people.
+[01:23:40.239 --> 01:23:52.719]  And you already lost that fight by kicking Nick Toyne tests out over all these years and doing all this censorship.
+[01:23:53.039 --> 01:23:55.519]  The Streisand effect was engaged.
+[01:23:56.159 --> 01:24:04.960]  And so now you notice half the questions are about Israel at TPUSA, which again, why it's something about America isn't all about Israel because you made it that way.
+[01:24:05.599 --> 01:24:06.719]  You made it the fetish.
+[01:24:06.880 --> 01:24:09.199]  You made it the thing you're not supposed to do.
+[01:24:09.519 --> 01:24:13.599]  And I'm glad the stuff's coming out because that shows you it's not working.
+[01:24:13.920 --> 01:24:17.359]  It's healthy that people are concerned about this overall.
+[01:24:17.679 --> 01:24:20.399]  Those people are doing healthy things, bringing up the USS Liberty and things.
+[01:24:20.639 --> 01:24:34.399]  What's not healthy is in turning around and making stuff up without evidence, not just about Israel, but about people that don't accept the stuff that's made up and say, listen, we don't need to be making stuff up.
+[01:24:35.599 --> 01:24:36.239]  You understand?
+[01:24:37.519 --> 01:24:41.760]  And later, Ben Shapiro came out this week and said, I'm sorry, I got lied to.
+[01:24:41.840 --> 01:24:44.159]  I didn't know the shots were poison and deadly.
+[01:24:44.719 --> 01:24:45.840]  Yes, he did.
+[01:24:47.760 --> 01:24:50.960]  But you notice he says, I want you doomed and gloomed.
+[01:24:51.199 --> 01:24:52.960]  I want you to believe you have no hope.
+[01:24:53.279 --> 01:24:54.559]  I don't ever name names.
+[01:24:55.679 --> 01:24:57.920]  I talk about shadowy groups.
+[01:24:58.239 --> 01:25:08.399]  No, I expose BlackRock and the private Federal Reserve and the UN and the WF and the treaties and the documents and the legislation and the plans.
+[01:25:10.960 --> 01:25:15.199]  And I talk about other big issues like, oh, they're about to get rid of the Yin Kerry trade, what that'll do.
+[01:25:15.359 --> 01:25:21.199]  And I mean, this is an adult program of actual real discussion.
+[01:25:22.159 --> 01:25:26.639]  And I know a lot of people tune in that have just woken up and it's easier to know about one subject.
+[01:25:26.960 --> 01:25:29.840]  It's like all leftists know is about Palestine, Palestine, Palestine.
+[01:25:30.079 --> 01:25:31.439]  Oh, they're poor babies and they're perfect.
+[01:25:32.880 --> 01:25:34.800]  Or the left, oh, transgenderism.
+[01:25:35.599 --> 01:25:43.599]  That's the Democrat Party's big thing because it's just some low-grade moron, one-issue thing cause celeb people of God.
+[01:25:45.679 --> 01:25:48.239]  So I challenged Ben last week, and I'm not holding my breath.
+[01:25:48.399 --> 01:25:51.439]  He won't debate me because he knows I'll destroy him.
+[01:25:51.599 --> 01:25:55.359]  Oh, he can debate some zit-faced college kid that's been brainwashed by the left.
+[01:25:55.599 --> 01:25:57.679]  That's like debating a fence post.
+[01:25:57.920 --> 01:25:59.439]  But he can't debate me.
+[01:26:00.319 --> 01:26:05.599]  He got up there and said the USS Liberty was attacked on accident and the Israelis sent boats to save it.
+[01:26:05.840 --> 01:26:07.679]  You mean torpedo boats to sink it?
+[01:26:08.000 --> 01:26:13.119]  It's been in the Israeli news that they were trying to sink it to blame it on Egypt and get a full war going.
+[01:26:14.479 --> 01:26:26.960]  They had people at TPUSA, these preachers that actually do go to Israel and get paid to be influencers here in meetings with Netanyahu, the very preachers that are there in meetings pledging allegiance to Israel and saying, coming back.
+[01:26:27.599 --> 01:26:35.279]  And they go, well, the USS Liberty was spying on Israel for Egypt.
+[01:26:35.599 --> 01:26:37.039]  And LBJ was bad.
+[01:26:37.359 --> 01:26:38.479]  And so Israel.
+[01:26:40.000 --> 01:26:41.279]  A, no one has ever said that.
+[01:26:41.439 --> 01:26:42.559]  B, that's not true.
+[01:26:42.880 --> 01:26:45.840]  C, I've interviewed more people on the boat than anybody else.
+[01:26:46.479 --> 01:26:48.479]  The U.S. was on the side of Israel.
+[01:26:48.960 --> 01:26:53.920]  LBJ was working with Israel to sink the boat to go to war with Egypt and maybe suck Russia in.
+[01:26:54.239 --> 01:26:56.000]  And that's been partially declassified.
+[01:26:56.239 --> 01:26:59.600]  And I interviewed the chairman of his mouse staff before he died about it.
+[01:27:00.880 --> 01:27:02.640]  So you talk about nasty.
+[01:27:02.720 --> 01:27:03.920]  You got Shapiro up there.
+[01:27:04.159 --> 01:27:11.760]  I'll play the clip when we come back saying, I don't give any receipts and I don't, and I want you to be gloomed and doomed.
+[01:27:11.840 --> 01:27:15.600]  Don't want you to be optimistic, informed, engaged, and to win.
+[01:27:15.920 --> 01:27:19.520]  And we're doing that in the info war.
+[01:27:20.400 --> 01:27:21.600]  But then I got these other clips.
+[01:27:21.760 --> 01:27:23.279]  I mean, I don't even want to go there.
+[01:27:23.360 --> 01:27:25.199]  I don't want to make the whole show about Israel.
+[01:27:25.520 --> 01:27:37.360]  And there's these very influencers, these big preachers that I saw a couple months ago at a meeting with the U.S. Ambassador to Israel, Huckabee, and Netanyahu in the front row.
+[01:27:37.680 --> 01:27:42.400]  And they got like 500 of them in there, and they're all saying, we're going to go back in the eight-front war.
+[01:27:42.720 --> 01:27:43.920]  Oh, that clip's even crazier.
+[01:27:44.000 --> 01:27:45.680]  I played it like a few weeks ago.
+[01:27:46.320 --> 01:27:53.360]  We're going to go back in the eight-front war and we're going to stop these anti-Semites.
+[01:27:53.440 --> 01:27:56.720]  And stopping anti-Semites means, yeah, there's the clip right there.
+[01:27:56.880 --> 01:27:58.159]  This was yesterday.
+[01:27:58.480 --> 01:28:01.119]  Oh, no, the U.S.S. Liberty was traitorous.
+[01:28:02.000 --> 01:28:04.880]  U.S. Liberty was hurting Israel.
+[01:28:05.680 --> 01:28:07.840]  LBJ wanted to attack Israel.
+[01:28:08.159 --> 01:28:08.800]  What the?
+[01:28:09.279 --> 01:28:11.600]  I mean, talk about conspiracy theories.
+[01:28:11.920 --> 01:28:13.119]  This is sick.
+[01:28:14.640 --> 01:28:16.079]  You know, I'll play that clip too.
+[01:28:16.319 --> 01:28:17.840]  I mean, this is just unbelievable.
+[01:28:23.769 --> 01:28:26.938]  So, go where the facts are after you research.
+[01:28:27.119 --> 01:28:28.640]  Sometimes we discover stuff right away.
+[01:28:28.720 --> 01:28:30.320]  Sometimes we have to dig into it.
+[01:28:30.640 --> 01:28:33.760]  But Charlie Kirk's body wasn't even cold yet.
+[01:28:34.079 --> 01:28:37.440]  And people said Israel did it and just put out that that was the narrative.
+[01:28:37.760 --> 01:28:43.440]  And I saw on international Islamic TV scholars going, well, we want to go after Israel.
+[01:28:43.520 --> 01:28:45.279]  So we put that idea out first.
+[01:28:45.840 --> 01:28:47.840]  Now, has Israel ever killed U.S. citizens?
+[01:28:47.920 --> 01:28:49.279]  Does Israel get involved in our politics?
+[01:28:49.520 --> 01:28:52.320]  Is Israel saying there's an eight-front war here to control speech?
+[01:28:52.400 --> 01:28:55.600]  Was Charlie starting to say, I'm not going to do what Netanyahu says?
+[01:28:55.840 --> 01:28:56.079]  Yeah.
+[01:28:56.400 --> 01:28:58.320]  Could Israel have killed him?
+[01:28:58.640 --> 01:29:02.159]  I said, yeah, but I need to see some evidence.
+[01:29:03.440 --> 01:29:09.440]  You have Tyler Robinson and 10 of the local trainees saying he'll be dead when he comes here tomorrow.
+[01:29:10.079 --> 01:29:13.199]  You have the leftist down front screaming, I shot him, I shot him.
+[01:29:13.520 --> 01:29:15.840]  And he said later, oh, I did it so the shooter could get away.
+[01:29:16.159 --> 01:29:18.640]  You had a bunch of the crowd yelling and cheering.
+[01:29:18.800 --> 01:29:21.680]  They didn't think they get shot from the shooter.
+[01:29:22.000 --> 01:29:23.440]  Yay, good job.
+[01:29:23.760 --> 01:29:34.800]  And then I saw him in court this week, giggling and laughing and looking so satisfied with his trans flag tie on, his parents crying behind him that turned him in.
+[01:29:37.039 --> 01:29:40.720]  Oh, remember, oh, we saw still image, such a nice young boy.
+[01:29:41.039 --> 01:29:43.199]  He would never, you look up close footage coming up.
+[01:29:43.279 --> 01:29:45.199]  He looks like Jeffrey Dahmer.
+[01:29:46.079 --> 01:29:48.000]  The left said they wanted Charlie Kirk dead.
+[01:29:48.159 --> 01:29:52.000]  So many of these attacks are trans and their supporters.
+[01:29:52.640 --> 01:29:56.079]  And then I'm like, no, they said they want him dead.
+[01:29:56.159 --> 01:29:57.520]  They're celebrating it.
+[01:29:58.800 --> 01:30:04.560]  They're celebrating all over the country as death still and demonizing him.
+[01:30:05.199 --> 01:30:17.840]  And I look at this guy, and he looks like a total demonic punk, arrogant, proud of himself, smirking, smiling, evil ass eyes.
+[01:30:21.360 --> 01:30:22.960]  Looks like a killer to me.
+[01:30:23.840 --> 01:30:25.440]  Did he have people helping him?
+[01:30:26.079 --> 01:30:26.320]  Yeah.
+[01:30:28.480 --> 01:30:30.640]  And Kash Patel, I broke it.
+[01:30:33.520 --> 01:30:47.199]  Kash Patel got in a big fight with Tulsa Gabbard and said, I don't want to look at intelligence of him having accomplices, even though we all had it with them saying we're going to kill him tomorrow in the town.
+[01:30:47.360 --> 01:30:49.120]  And when he died, saying, See, we told you.
+[01:30:49.360 --> 01:30:50.160]  We're like, we're not joking.
+[01:30:50.240 --> 01:30:51.360]  Guaranteed he's dead tomorrow.
+[01:30:51.520 --> 01:30:52.000]  See?
+[01:30:54.560 --> 01:30:56.720]  And then Patel goes and kills it.
+[01:30:58.000 --> 01:31:02.880]  And then a month after I tell you that, in mid-September, it comes out, indeed, that fight happened.
+[01:31:03.200 --> 01:31:04.880]  And I said, I believe there's a cover-up here.
+[01:31:05.040 --> 01:31:06.480]  I don't know what it is.
+[01:31:08.960 --> 01:31:11.440]  Gabbard said there's evidence of foreign involvement.
+[01:31:11.680 --> 01:31:13.200]  That's the director of national intelligence.
+[01:31:13.359 --> 01:31:14.159]  incredible credibility.
+[01:31:21.038 --> 01:31:26.839]  When they sent the guy from the U.S. guy that was trained in Ukraine to kill Trump, they use Ukraine as a cutout.
+[01:31:26.880 --> 01:31:27.440]  Could it be Ukraine?
+[01:31:27.520 --> 01:31:28.080]  Could it be Israel?
+[01:31:28.160 --> 01:31:28.960]  Could it be the U.K.?
+[01:31:29.520 --> 01:31:31.360]  Obama's running a lot of his operations out of the UK.
+[01:31:31.440 --> 01:31:32.320]  I don't know.
+[01:31:33.280 --> 01:31:35.280]  But Patel got that shut down.
+[01:31:35.920 --> 01:31:40.000]  So people are saying to me, Oh, you don't want to look at accomplices.
+[01:31:40.160 --> 01:31:41.040]  You don't want to investigate.
+[01:31:41.120 --> 01:31:42.400]  That's not what I said.
+[01:31:43.280 --> 01:31:46.240]  The Egyptian plane thing, we went and had it checked.
+[01:31:46.400 --> 01:31:46.880]  Others did.
+[01:31:47.040 --> 01:31:48.400]  We put out the findings.
+[01:31:48.640 --> 01:31:50.480]  It was complete horsepucking.
+[01:31:51.760 --> 01:32:08.960]  And now this new guy pops up, says he's on Fort Wachuca in Arizona and goes into a room with 12 colonels and all these people and the head of TPUSA security and changes who it was and then from his letter on Candace and then used an alias on the show and another one.
+[01:32:09.120 --> 01:32:12.080]  And then you go look, all Brock has his stuff he's claimed.
+[01:32:12.400 --> 01:32:13.520]  I've been gangstalked.
+[01:32:13.680 --> 01:32:14.160]  I've been this.
+[01:32:14.240 --> 01:32:20.880]  I've been held prisoner in a garage and beat with hammers and by the all this craziness.
+[01:32:23.440 --> 01:32:33.280]  They don't decide to kill you a day before at Fort Wachuca and a guy randomly walks in and there's 12 colonels in a room and Erica Kirk's there.
+[01:32:33.440 --> 01:32:35.680]  And she didn't say Erica Kirk was there.
+[01:32:37.280 --> 01:32:39.040]  He didn't say Erica Kirk was there until he went on Candace.
+[01:32:39.200 --> 01:32:41.360]  He goes, and I've got something new to tell you.
+[01:32:42.000 --> 01:32:51.920]  Not only was there the head of TPUSA security, there was the day before the killing.
+[01:32:53.760 --> 01:32:54.720]  It was Erica Kirk.
+[01:32:54.800 --> 01:32:56.400]  I'll never forget those eyes.
+[01:32:57.040 --> 01:32:57.840]  Oh, yeah.
+[01:32:58.800 --> 01:33:02.960]  Yes, that's how the government are doing this would have a have those people.
+[01:33:03.280 --> 01:33:05.440]  I mean, you know nothing about how that stuff even works.
+[01:33:05.600 --> 01:33:07.200]  I've studied it historically.
+[01:33:07.520 --> 01:33:10.880]  So it's absolute horse crap.
+[01:33:11.200 --> 01:33:14.560]  The Israelis are following her planes for years.
+[01:33:16.160 --> 01:33:19.600]  For intelligence, they hack into your phones and track you that way.
+[01:33:20.240 --> 01:33:21.920]  But I thought she was already an Israeli agent.
+[01:33:22.000 --> 01:33:23.840]  So you don't need to track her with planes.
+[01:33:24.160 --> 01:33:25.280]  And she's already backed off that.
+[01:33:25.520 --> 01:33:29.280]  Oh, well, the planes were different TPUSA planes.
+[01:33:29.440 --> 01:33:31.920]  Oh, you don't even list TPUSA planes in your thing.
+[01:33:32.240 --> 01:33:34.240]  And admit, well, you put some columns wrong.
+[01:33:34.480 --> 01:33:37.120]  You're going to fix it with a website and show us all about it.
+[01:33:37.280 --> 01:33:42.320]  But you've already moved on to the Fort Wachuca guy that gave you the metadata.
+[01:33:42.960 --> 01:33:43.360]  Oh, what?
+[01:33:43.440 --> 01:33:45.680]  Photos of the people, who they are in the meeting?
+[01:33:46.000 --> 01:33:48.160]  Or you mean you went on Fort Wachuca?
+[01:33:51.680 --> 01:33:53.440]  I mean, metadata.
+[01:33:53.600 --> 01:33:54.720]  I flew to the moon last night.
+[01:33:54.800 --> 01:33:55.800]  have meditated to prove it.
+[01:34:04.838 --> 01:34:06.418]  Israel stood down on October 7th.
+[01:34:06.560 --> 01:34:06.880]  We have the proof.
+[01:34:06.960 --> 01:34:07.440]  It's come out.
+[01:34:07.600 --> 01:34:08.960]  We said the first day.
+[01:34:10.240 --> 01:34:11.840]  Israel's done all sorts of stuff we can prove.
+[01:34:12.000 --> 01:34:13.520]  Founded Hamas, funded him.
+[01:34:13.840 --> 01:34:14.720]  Not Qatar.
+[01:34:14.800 --> 01:34:16.240]  They gave the way to Qatar to do it.
+[01:34:17.840 --> 01:34:18.800]  Ron Paul was talking about it.
+[01:34:18.880 --> 01:34:19.840]  I was talking about it 30 years ago.
+[01:34:19.920 --> 01:34:21.280]  I'll play clips in a moment.
+[01:34:21.600 --> 01:34:27.520]  My point is, is that you can't just make stuff up because when it comes out, it isn't true later.
+[01:34:27.760 --> 01:34:29.280]  It discredits everything.
+[01:34:31.440 --> 01:34:34.160]  But let's go back to Ben Shapiro because he's met with Netanyahu.
+[01:34:34.240 --> 01:34:35.680]  He's involved in the eight-front war.
+[01:34:35.840 --> 01:34:38.080]  He thinks he can come in and take over TPUSA.
+[01:34:38.720 --> 01:34:40.160]  And you're like, well, you're making our point for us.
+[01:34:40.240 --> 01:34:44.320]  No, there's no doubt all these lobbies and the neocons, others want to take control of it.
+[01:34:46.720 --> 01:34:57.520]  So, my point is point out what's out of the open to people and that Israel's openly declared war in our speech and is trying to take over our country and point that out and make a big deal about the videos I just showed.
+[01:34:57.840 --> 01:35:10.560]  Not completely discredited, crazier than hell looking at people when you look them up that just constantly make fantastic claims with no proof.
+[01:35:12.160 --> 01:35:14.720]  And you go check the police records, it's the opposite of what you're being told.
+[01:35:15.039 --> 01:35:16.800]  Oh, well, that's because they're on it too.
+[01:35:18.320 --> 01:35:19.840]  Everybody's in on it.
+[01:35:22.400 --> 01:35:31.760]  The French, the Israelis, the Egyptians, the U.S. military, the police, TPUSA, Erica Kirk.
+[01:35:31.920 --> 01:35:33.039]  They're all just saving.
+[01:35:33.360 --> 01:35:36.240]  I'm surprised he didn't say, I walked into a stadium of 80,000 people.
+[01:35:36.400 --> 01:35:38.000]  They were planning the murder right there.
+[01:35:38.640 --> 01:35:41.200]  Nothing about planning murders or assassinations.
+[01:35:41.760 --> 01:35:45.200]  Maximum three people, all compartmentalized, orders go out.
+[01:35:45.680 --> 01:35:47.360]  Not how it's done, folks.
+[01:35:48.960 --> 01:35:50.560]  And the globalists know this.
+[01:35:51.760 --> 01:35:56.000]  That's how they've been caught with JFK and stuff because they got larger than that.
+[01:35:58.560 --> 01:36:01.680]  So again, I'm not even trying to say we shouldn't investigate this.
+[01:36:01.760 --> 01:36:08.560]  I've been doing it, but you don't, none of you guys want to touch because I think up the chain, these things come down to create diversions from the real thing.
+[01:36:08.880 --> 01:36:18.320]  Why were there 10 people three days before, two days before, a day before, six the day before, two, two days before, and two, three days before saying he'll be dead when he comes here.
+[01:36:18.560 --> 01:36:19.520]  He'll be destroyed.
+[01:36:19.760 --> 01:36:20.560]  He will be drained.
+[01:36:20.720 --> 01:36:21.360]  He will be crushed.
+[01:36:21.520 --> 01:36:25.120]  And then minutes after he's dead, see, I told you I wasn't joking.
+[01:36:25.760 --> 01:36:30.480]  And I learned from who was in the White House meeting that Patel ordered it all shut down, created a big fit.
+[01:36:32.000 --> 01:36:38.400]  Then I learned from people at TPUSA that met with Patel and he said, yeah, we did interview 10 of those people, but we can't prove it.
+[01:36:38.640 --> 01:36:40.640]  Yeah, they knew, but they probably weren't involved.
+[01:36:40.800 --> 01:36:42.000]  So we're just going to move on.
+[01:36:42.080 --> 01:36:43.440]  We can't get convictions.
+[01:36:45.680 --> 01:36:48.080]  Next, they're going to say he's a right-winger, like the pipe bomber.
+[01:36:48.320 --> 01:36:51.840]  And that poor black guy that now admits totally retarded and basically blind.
+[01:36:53.120 --> 01:36:54.800]  So, yeah, there's a cover-up going on.
+[01:36:54.880 --> 01:36:55.560]  That's my point.
+[01:37:02.338 --> 01:37:03.819]  There's our article back in October.
+[01:37:05.920 --> 01:37:12.880]  Global bomb show Kash Patel officially caught trying to block Tulsi Gabbard's investigation into foreign government's involvement in the Charlie Kirk cessation.
+[01:37:13.760 --> 01:37:18.960]  That came from a well-known person in the cabinet room with probably only 20 people.
+[01:37:19.280 --> 01:37:21.760]  And I stuck my little weed around the table to tell you that.
+[01:37:21.920 --> 01:37:23.200]  You think I'm making friends doing that?
+[01:37:23.440 --> 01:37:24.080]  That was real.
+[01:37:24.400 --> 01:37:28.800]  That wasn't some nutball with a huge history of making stuff up.
+[01:37:30.080 --> 01:37:33.120]  And then it came out a month later, exactly what I said in the meeting.
+[01:37:33.440 --> 01:37:36.320]  That's called reality, boys and girls.
+[01:37:40.160 --> 01:37:42.800]  But none of the trendies, none of the conspiracy lords.
+[01:37:43.039 --> 01:37:44.880]  See, people just call me a conspiracy theorists.
+[01:37:45.039 --> 01:37:47.920]  The CIA created that in 64 when only he bought the Kenny assassination.
+[01:37:48.240 --> 01:37:50.880]  99% of what I do is not some speculation about something.
+[01:37:51.039 --> 01:37:52.160]  It's look at this legislation.
+[01:37:52.240 --> 01:37:52.880]  Look at this bill.
+[01:37:53.039 --> 01:37:53.600]  Look at this plan.
+[01:37:53.680 --> 01:37:54.160]  Look at this video.
+[01:37:54.320 --> 01:37:55.600]  Oh, let's talk to this expert.
+[01:37:55.920 --> 01:37:57.360]  I'm actually a policy wonk.
+[01:37:57.440 --> 01:37:58.080]  I'm an analyst.
+[01:37:58.160 --> 01:37:59.440]  I'm a futurist.
+[01:38:00.080 --> 01:38:01.760]  That's why they don't like me.
+[01:38:02.720 --> 01:38:06.560]  I'm not the person that says flying saucers were in my backyard last night.
+[01:38:06.800 --> 01:38:08.160]  I'm not the guy doing all that.
+[01:38:08.480 --> 01:38:09.760]  Or the guy look.
+[01:38:10.000 --> 01:38:12.800]  I mean, if I wanted huge raises, because people love a puzzle.
+[01:38:12.880 --> 01:38:13.280]  They love a.
+[01:38:14.560 --> 01:38:18.400]  I'll play a few things for you at the end of the show that are example of a conspiracy theory.
+[01:38:18.720 --> 01:38:20.640]  And one of them has credibility, the other doesn't.
+[01:38:20.960 --> 01:38:25.280]  But if I wanted 50 million views on each one of these, I'd come in, I'd talk about it, wouldn't have to lie.
+[01:38:25.360 --> 01:38:26.240]  I'd just say, I don't know.
+[01:38:26.320 --> 01:38:27.280]  What do you think?
+[01:38:27.840 --> 01:38:33.120]  And then it's just some little brain puzzle that never goes anywhere like you're a hamster on a wheel.
+[01:38:33.360 --> 01:38:35.120]  We ain't about being a hamster on a wheel.
+[01:38:35.360 --> 01:38:45.760]  We're about changing the world, getting populist elections everywhere, getting Trump in, predicting 1776 worldwide 20 years ago, predicting the world populist movement to the date you now see.
+[01:38:46.400 --> 01:38:47.520]  We're about credibility.
+[01:38:47.760 --> 01:38:49.760]  And it isn't about tooting our horn that we have that.
+[01:38:49.920 --> 01:38:52.240]  It's about saying we know what we're doing.
+[01:38:54.800 --> 01:38:57.760]  So here's Shapiro suddenly, oh, I'm so sorry.
+[01:38:57.920 --> 01:38:59.680]  I didn't know the shots were bad.
+[01:39:00.640 --> 01:39:02.560]  Oh, but I did before they even rolled him out.
+[01:39:02.880 --> 01:39:04.720]  Specifically, Shapiro, because I have the documents.
+[01:39:04.960 --> 01:39:06.720]  But I'm the guy that never gives specifics.
+[01:39:06.960 --> 01:39:08.320]  I'm the guy that never gives solutions.
+[01:39:08.560 --> 01:39:10.080]  I'm the guy that says it's shadowy groups.
+[01:39:10.240 --> 01:39:10.480]  Really?
+[01:39:10.640 --> 01:39:17.200]  The Rothschilds, the big central banks, the UN, their control system set up by the UN, set up by Rothschild Rockefeller.
+[01:39:17.520 --> 01:39:23.440]  It's political arm, the WEF, the ESG, corporate global governance systems, all of this.
+[01:39:23.760 --> 01:39:24.800]  I name specifics.
+[01:39:24.960 --> 01:39:25.920]  I name how it's happening.
+[01:39:26.080 --> 01:39:30.560]  And now we got state of Texas winning huge lawsuits against BlackRock, trying to racketeer and shut off our energy operations.
+[01:39:30.800 --> 01:39:38.240]  We're fighting BlackRock trying to take over energy sectors and our power plants and giving specifics and legislation to fight it.
+[01:39:38.480 --> 01:39:39.360]  No, bitch.
+[01:39:39.680 --> 01:39:41.760]  All we do is meat and potatoes.
+[01:39:42.000 --> 01:39:45.120]  All we do is from 35,000 feet down to one inch.
+[01:39:45.360 --> 01:39:53.120]  All we do is action and precision and information because we think you're smart enough to be able to pick up on it and do something about it.
+[01:39:56.560 --> 01:39:58.560]  Here's a few Shapiro clips.
+[01:39:58.880 --> 01:40:00.960]  And then let's go to Brown University.
+[01:40:03.440 --> 01:40:06.480]  Now it's Steve Bannon to Ben Shapiro.
+[01:40:06.880 --> 01:40:08.400]  Go ahead and play 44B8.
+[01:40:08.960 --> 01:40:19.319]  And then let's go ahead and play, get us out of the way, 28 on the USS Liberty.
+[01:40:19.520 --> 01:40:21.180]  This is a real criticism of Israel.
+[01:40:22.160 --> 01:40:26.960]  This is a real question to Ben Shapiro and him laughing about it and lying about it.
+[01:40:27.200 --> 01:40:28.560]  This is how it's done.
+[01:40:28.880 --> 01:40:29.920]  This is something real.
+[01:40:30.080 --> 01:40:31.040]  Here it is.
+[01:40:32.240 --> 01:40:34.400]  But we now know that we were lied to by everyone.
+[01:40:34.640 --> 01:40:36.240]  We were lied to by the scientists.
+[01:40:36.400 --> 01:40:37.440]  We were lied to by Pfizer.
+[01:40:37.520 --> 01:40:38.320]  We were lied to by the government.
+[01:40:38.480 --> 01:40:39.760]  We were lied to by the Biden administration.
+[01:40:39.920 --> 01:40:40.320]  We were lied to.
+[01:40:41.360 --> 01:40:42.240]  I don't like being lied to.
+[01:40:42.320 --> 01:40:42.960]  I don't know about you.
+[01:40:46.480 --> 01:40:49.520]  We have a duty to propose solutions.
+[01:40:49.840 --> 01:40:53.360]  That's why we have to talk about our problems in order to find the solutions.
+[01:40:53.680 --> 01:40:58.320]  That's what politics was supposed to be about, after all, finding solutions to our common problems.
+[01:40:58.640 --> 01:41:09.600]  If we speak endlessly about the problems we face, without ever positing a solution other than wrecking the system or centralizing power in a cult-like figure, we are not finding solutions.
+[01:41:09.920 --> 01:41:12.320]  We are merely making problems worse.
+[01:41:12.640 --> 01:41:19.760]  Just asking questions, positing vague conspiracies, raving like Alex Jones about the secret confederacies that control your life.
+[01:41:20.080 --> 01:41:21.840]  None of it makes your life better.
+[01:41:22.160 --> 01:41:23.200]  None of it.
+[01:41:23.520 --> 01:41:26.080]  In fact, it makes your life markedly worse.
+[01:41:26.400 --> 01:41:32.800]  That's because if you truly come to believe that nothing in your life is in your control, you can't even take control of your own life.
+[01:41:33.120 --> 01:41:37.840]  You despair of your ability to change your own circumstances, and then you fail.
+[01:41:38.160 --> 01:41:41.040]  And you must not fail.
+[01:41:43.600 --> 01:41:50.800]  Now, Benji Shapiro sat up here last night, and he was all, you know, I'm going to, you know, it's all about the truth.
+[01:41:51.120 --> 01:41:53.200]  Ben, I've known you a long time, brother.
+[01:41:53.359 --> 01:41:54.639]  You can't handle the truth.
+[01:42:01.798 --> 01:42:02.698]  Let's face it.
+[01:42:02.839 --> 01:42:05.538]  Ben Shapiro is the farthest thing from MAGA.
+[01:42:05.920 --> 01:42:07.360]  Let's be blunt.
+[01:42:09.840 --> 01:42:12.240]  He is a hardcore, never Trumper.
+[01:42:12.480 --> 01:42:14.240]  He's a hardcore never Trumper.
+[01:42:15.360 --> 01:42:19.600]  In the spring of 16, he tried to upend Breitbart.
+[01:42:19.680 --> 01:42:24.480]  He walked off the job, made a big deal about some incident in Mar-a-Lago with Corey Lewandowski.
+[01:42:24.640 --> 01:42:30.080]  He tried to turn it to Ted Cruz from Donald Trump because he hated Donald Trump.
+[01:42:30.400 --> 01:42:33.440]  In the general election, he barely supported Donald Trump.
+[01:42:33.920 --> 01:42:46.079]  The first sign of when President Trump gets sent back to Mar-a-Lago, the very first individual that jumped on the Ron DeSantis train, the Israel first train, was Ben Shapiro.
+[01:42:46.880 --> 01:42:49.119]  And those are the darkest days we had.
+[01:42:49.440 --> 01:42:52.159]  In 21 and 22, you guys were there.
+[01:42:53.119 --> 01:42:58.480]  He's consistently been against Trump, and now that President Trump doesn't back the Greater Israel Project.
+[01:42:58.720 --> 01:42:59.520]  What is Greater Israel?
+[01:42:59.680 --> 01:43:01.280]  It's not about Israel itself.
+[01:43:01.600 --> 01:43:08.000]  It's about an expansionist Israel, an imperial Israel that Netanyahu and that crowd have thought up.
+[01:43:08.320 --> 01:43:11.840]  And the Israel first crowd is Ben Shapiro, Tel Aviv.
+[01:43:12.480 --> 01:43:12.720]  And he's done.
+[01:43:14.800 --> 01:43:15.440]  This is truthful.
+[01:43:17.760 --> 01:43:19.680]  Reasonable and truthful, not hateful.
+[01:43:20.320 --> 01:43:21.119]  We don't hate you, Jesus.
+[01:43:21.280 --> 01:43:22.000]  You ain't running us.
+[01:43:22.640 --> 01:43:24.960]  Jew hate is a serious sin.
+[01:43:25.520 --> 01:43:27.680]  What do I mean by high-performance people?
+[01:43:28.000 --> 01:43:34.960]  The Jews are a talented and hard-working people, and Jewish mothers are always pleased to introduce you to my son, the doctor.
+[01:43:35.280 --> 01:43:40.560]  But they are also aware of the people who are in the world.
+[01:43:40.720 --> 01:43:44.960]  At the end, he says, maybe the USS Liberty was bad working with our enemies.
+[01:43:45.280 --> 01:43:45.600]  Just remember.
+[01:43:45.920 --> 01:43:47.360]  Oh, your enemies, like you're not an American?
+[01:43:48.239 --> 01:43:48.560]  Of course it was.
+[01:43:49.520 --> 01:43:51.600]  LBJ set it up with Israel to sink it.
+[01:43:51.840 --> 01:43:52.480]  It's worse than that.
+[01:43:53.840 --> 01:43:55.039]  And see, we were evil, so were they.
+[01:43:56.159 --> 01:43:58.880]  Are angry because the Jews don't believe in Jesus.
+[01:43:59.199 --> 01:44:01.280]  Jews are the enemy, it is thought.
+[01:44:01.600 --> 01:44:06.960]  But Jesus commanded his followers to love their enemies, which you are manifestly not doing.
+[01:44:07.280 --> 01:44:10.640]  So why should Jews listen to Jesus if you don't?
+[01:44:10.960 --> 01:44:18.960]  Last thing, and you may consider this a little bonus round item, I mention it only because I believe it was brought up at this conference earlier.
+[01:44:19.280 --> 01:44:26.159]  This bonus topic is the USS Liberty, attacked by Israeli planes in 1967, killing 34 Americans.
+[01:44:26.480 --> 01:44:28.480]  I'm making no assertions here.
+[01:44:28.800 --> 01:44:30.800]  All I am doing is noticing.
+[01:44:31.119 --> 01:44:36.480]  All I'm doing is asking questions, you know, like Candace does, recklessly connecting dots.
+[01:44:36.800 --> 01:44:41.119]  The Liberty was an intelligence-gathering ship, and LBJ was president.
+[01:44:41.440 --> 01:44:44.720]  Israel was in the middle of a hot 1967 war.
+[01:44:45.039 --> 01:44:50.320]  How confident are you personally that there was no American deep state in 67?
+[01:44:50.640 --> 01:44:55.520]  How confident are you that we weren't playing both sides and feeding intel to Egypt?
+[01:44:55.840 --> 01:45:01.119]  How confident are you that America can only be double-crossed and can never be the double-crosser?
+[01:45:01.440 --> 01:45:05.600]  Your confidence in the essential goodness of the CIA is endearing.
+[01:45:08.720 --> 01:45:25.760]  I want to close by saying, and this is crucial, I want to close by saying that I believe that debates about foreign policy and America's relationship to Israel and what happened to the USS Liberty or anything like that are totally inbounds and inbounds at a conference like this.
+[01:45:26.400 --> 01:45:27.039]  All right.
+[01:45:28.000 --> 01:45:31.680]  I have interviewed more people from the USS Liberty than anybody else because most of them are dead.
+[01:45:31.840 --> 01:45:32.800]  The interviews are all out there.
+[01:45:32.960 --> 01:45:33.440]  People are finding them.
+[01:45:33.520 --> 01:45:34.079]  They're digging them up.
+[01:45:34.159 --> 01:45:34.720]  It's incredible.
+[01:45:35.039 --> 01:45:41.840]  Not just the survivors, the people on board the aircraft carrier, the son of the admiral, because he was dead already.
+[01:45:43.039 --> 01:45:43.920]  All of them.
+[01:45:44.560 --> 01:45:46.640]  LBJ wanted to go the Tonkin.
+[01:45:46.960 --> 01:45:48.320]  He got us in Vietnam in 64.
+[01:45:48.400 --> 01:45:49.360]  This is 67.
+[01:45:51.199 --> 01:45:54.000]  Congress didn't want to give weapons to Israel, didn't want to come in against Egypt.
+[01:45:54.159 --> 01:45:56.480]  Israel's under attack from all these sides.
+[01:45:56.800 --> 01:46:00.239]  And Israel and LBJ made a deal.
+[01:46:01.760 --> 01:46:06.239]  And they took the support frigate away from the Liberty, the most decorated ship in U.S. history.
+[01:46:06.400 --> 01:46:09.920]  After that, McGonagall, the captain, got paranoid.
+[01:46:10.560 --> 01:46:16.320]  They ordered him right up to the edge of international waters to go back and forth on Israel.
+[01:46:18.480 --> 01:46:20.720]  He had a bad feeling and said, put up our biggest flag.
+[01:46:21.199 --> 01:46:26.720]  It's a long story, but I interviewed the Judge Advocate General that ran the secret hearings on it.
+[01:46:27.360 --> 01:46:31.920]  I interviewed the Joint Chiefs of Staff Head, Admiral Moore.
+[01:46:32.000 --> 01:46:35.520]  He was the head of the Navy at the time, but also gave the choice just after that.
+[01:46:36.239 --> 01:46:38.479]  And I talked to people that heard it over the sat phone.
+[01:46:38.560 --> 01:46:40.960]  They had satellites then, patch link.
+[01:46:41.920 --> 01:46:48.399]  They shot the fighter jets twice to go save the ship during the two-plus-hour attack.
+[01:46:49.039 --> 01:46:50.560]  And then McNamara, they got an order.
+[01:46:50.640 --> 01:46:51.840]  McNamara says, recall it.
+[01:46:51.920 --> 01:46:52.159]  He refuses.
+[01:46:52.239 --> 01:46:53.439]  McNamara gets on the phone.
+[01:46:53.760 --> 01:46:55.359]  The Admiral pulls it back.
+[01:46:55.680 --> 01:46:57.359]  The ship's still begging.
+[01:46:57.680 --> 01:46:58.319]  Still being attacked.
+[01:46:58.399 --> 01:47:00.159]  Now by torpedo boats, the admiral goes, that's it.
+[01:47:00.239 --> 01:47:01.039]  Launch fighters again.
+[01:47:01.199 --> 01:47:04.800]  They're like an hour away by jet, like 10 minutes away.
+[01:47:06.319 --> 01:47:08.560]  And he says, I want to hear it directly from the president.
+[01:47:08.880 --> 01:47:14.640]  LBJ comes on the phone and says, I want that GD boat at the bottom.
+[01:47:17.199 --> 01:47:20.079]  Because, see, the problem was they said our ships got attacked in Tonkin.
+[01:47:20.239 --> 01:47:23.520]  They came back six months later to San Diego and said, no, we weren't attacked.
+[01:47:23.680 --> 01:47:25.439]  It hit the San Diego newspapers.
+[01:47:25.760 --> 01:47:28.239]  Declassified 2004, it was staged.
+[01:47:28.560 --> 01:47:31.520]  Including LBJ's tapes with McNamara the night before we're going to stage this.
+[01:47:31.600 --> 01:47:32.319]  This is how you do it.
+[01:47:32.640 --> 01:47:35.039]  He's like, well, they'll attack us tomorrow and here's what you say.
+[01:47:35.199 --> 01:47:36.159]  You know, they don't say it stage.
+[01:47:36.720 --> 01:47:37.600]  They're saying it.
+[01:47:39.520 --> 01:47:40.800]  Well, they wanted to go to war with Russia.
+[01:47:41.199 --> 01:47:42.079]  This is Operation.
+[01:47:46.880 --> 01:47:55.840]  It's the same operation that they tried under Kennedy and before that with Eisenhower, Northwoods.
+[01:47:56.560 --> 01:48:09.600]  They were to use Cuba in a fake attack on us on ships, on troops, on bases, Guantanamo Bay, inside the U.S., military bases, malls, movie theaters, to blame it on the Cubans as an excuse to go to war with Russia.
+[01:48:09.760 --> 01:48:10.720]  So they wanted this.
+[01:48:10.960 --> 01:48:12.880]  They wanted to go to war with Russia.
+[01:48:14.479 --> 01:48:16.560]  So it doesn't take away from what Israel did.
+[01:48:16.880 --> 01:48:19.760]  The Nazis always get mad when I say, no, no, no, this is with the U.S. government.
+[01:48:19.920 --> 01:48:20.800]  It's the reality.
+[01:48:21.119 --> 01:48:24.000]  See, the truth is what sets you free, not lies.
+[01:48:24.880 --> 01:48:28.079]  Does it take away from what Israel did, you idiots?
+[01:48:28.720 --> 01:48:31.279]  I interviewed the top people to find out.
+[01:48:31.520 --> 01:48:37.680]  I made films on it when Candace Owens was in junior high.
+[01:48:38.000 --> 01:48:39.199]  And I'm not comparing myself to her.
+[01:48:39.279 --> 01:48:41.039]  I've liked Candace in the past.
+[01:48:41.359 --> 01:48:45.939]  It's just I have too much knowledge, and I will not play the games with you.
+[01:48:54.648 --> 01:49:01.938]  All right, here's a clip of a young man talking to Shapiro and nailing him with the USS Liberty.
+[01:49:02.079 --> 01:49:03.840]  And Shapiro laughs, this is an accident.
+[01:49:03.920 --> 01:49:06.079]  She says the torpedo boats were coming to help.
+[01:49:06.720 --> 01:49:08.479]  Then they sent commandos on helicopters.
+[01:49:08.560 --> 01:49:11.039]  They refused to get out and kill who was left.
+[01:49:12.319 --> 01:49:14.800]  Some of the first wave of jets wouldn't attack, turn back.
+[01:49:14.880 --> 01:49:16.159]  That's the bit of the Israeli news.
+[01:49:17.039 --> 01:49:19.680]  There's more truth in the Israeli news about this than there is here.
+[01:49:20.000 --> 01:49:21.359]  And Shapiro knows all this.
+[01:49:21.439 --> 01:49:22.560]  He's a little rat.
+[01:49:22.880 --> 01:49:24.880]  Just say, Israel's done bad stuff.
+[01:49:25.119 --> 01:49:26.079]  It's a bad chapter.
+[01:49:26.319 --> 01:49:26.880]  He's not dumb.
+[01:49:26.960 --> 01:49:28.159]  He knows LBJ was involved.
+[01:49:28.399 --> 01:49:33.920]  Tell the story of a famous false flag and move on instead of acting like your shit doesn't stink.
+[01:49:34.239 --> 01:49:34.479]  Okay?
+[01:49:36.239 --> 01:49:39.760]  The anti-Israel people just say only their crap stinks.
+[01:49:43.920 --> 01:49:46.399]  And then Israel says, no, our crap doesn't stink.
+[01:49:46.479 --> 01:49:47.039]  Yours does.
+[01:49:48.079 --> 01:49:48.560]  We take a dub.
+[01:49:48.720 --> 01:49:50.159]  It's like a unicorn.
+[01:49:50.399 --> 01:49:52.000]  Flowers and glitter comes out.
+[01:49:52.159 --> 01:49:54.319]  And I'm just like, grow up, people, and stop it.
+[01:49:54.560 --> 01:49:56.399]  Call balls and strikes.
+[01:49:56.720 --> 01:49:58.399]  Here, here's the question.
+[01:50:00.960 --> 01:50:02.560]  Thank you for being here, Ben.
+[01:50:02.880 --> 01:50:09.039]  You cited during your speech truth as the most important tenet of American conservatism.
+[01:50:09.359 --> 01:50:23.600]  Why, therefore, did you call irrelevant the Israeli attack in 1967 on the USS Liberty, which left dozens of American servicemen dead and hundreds wounded?
+[01:50:24.000 --> 01:50:24.640]  Shapiro laughing.
+[01:50:26.000 --> 01:50:42.880]  So what I actually said is that if we're looking at modern Israeli-American relations, looking at an attack that happened mistakenly by multiple Navy reports, multiple Israeli reports, and all available evidence, and using that attack in order to undermine today's relations between Israel and America, that's irrelevant.
+[01:50:43.119 --> 01:50:50.640]  As irrelevant as it would be to cite a piece of evidence from World War II or from 1776 to define America's relations with, for example, Great Britain or Germany today.
+[01:50:50.960 --> 01:50:56.079]  That does not mean that the attack wasn't horrible for the Americans involved, that it wasn't bloody and terrible.
+[01:50:56.400 --> 01:50:59.680]  The Israeli government paid reparations to the people who were killed.
+[01:51:00.000 --> 01:51:06.079]  If you look at the actual military record of what happened on the USS Liberty, it was clearly a mistaken and tragic attack.
+[01:51:06.400 --> 01:51:11.199]  The people who frequently cite the USS Liberty, however, are not talking about the specifics of the USS Liberty.
+[01:51:11.360 --> 01:51:20.880]  I suspect that the vast majority of people who bring this up are doing so in order to suggest that Israel deliberately attacked an American ship because Israel deliberately wants to harm America.
+[01:51:21.039 --> 01:51:23.199]  It is connected generally with a larger point.
+[01:51:23.360 --> 01:51:23.760]  I wonder if it's not.
+[01:51:24.079 --> 01:51:27.360]  I know it wanted to get us into full war with Egypt and the U.S. wanted to go to war with Russia.
+[01:51:27.600 --> 01:51:33.440]  If the New York matters, then the Israeli government must be held accountable for that attack.
+[01:51:33.760 --> 01:51:37.039]  The American flag was flying on that ship.
+[01:51:37.360 --> 01:51:40.319]  You do not mistake an American ship for a full-time.
+[01:51:40.400 --> 01:51:40.960]  Here's the big takeaway.
+[01:51:41.600 --> 01:51:42.880]  The blue creme is over, guys.
+[01:51:43.119 --> 01:51:44.720]  You're not going to censor a Shapiro.
+[01:51:44.960 --> 01:51:46.800]  And the more you try to do it, the worse it's going to get for you.
+[01:51:46.880 --> 01:51:48.239]  We're out of time on that.
+[01:51:50.159 --> 01:51:52.079]  Royce White, incredible job last week.
+[01:51:52.159 --> 01:51:53.199]  He takes over right now.
+[01:51:53.440 --> 01:51:54.400]  I can't do this without you.
+[01:51:54.480 --> 01:51:57.840]  I'm not funded by Israel or the Qataris or the U.S. government, anybody.
+[01:51:57.920 --> 01:51:59.039]  I'm funded by you.
+[01:51:59.360 --> 01:52:01.199]  So I'm going to sell you things that really work.
+[01:52:01.520 --> 01:52:04.560]  You are missing out if you don't get our methylene blue.
+[01:52:04.880 --> 01:52:06.319]  We have the best.
+[01:52:06.640 --> 01:52:09.680]  I ran to a lady today in the parking lot, not here, another parking lot.
+[01:52:09.920 --> 01:52:11.440]  She goes, I've got your methylene blue a month ago.
+[01:52:11.520 --> 01:52:12.159]  I haven't taken it yet.
+[01:52:12.400 --> 01:52:14.079]  And I said, what are you waiting for?
+[01:52:14.400 --> 01:52:15.360]  It works so good.
+[01:52:15.440 --> 01:52:16.079]  It's so good for you.
+[01:52:16.239 --> 01:52:17.680]  Such clean energy, don't let down.
+[01:52:18.000 --> 01:52:21.199]  60% off on the supplements ends tomorrow.
+[01:52:21.840 --> 01:52:23.119]  Get your Christmas orders in now.
+[01:52:23.199 --> 01:52:24.239]  You'll still get them before Christmas.
+[01:52:24.400 --> 01:52:26.400]  ThealexShowstore.com.
+[01:52:27.039 --> 01:52:27.840]  God bless you.
+[01:52:28.319 --> 01:52:29.199]  God bless you all.
+[01:52:29.520 --> 01:52:30.840]  Royce White takes over now.
+[01:52:40.510 --> 01:52:43.129]  Infowars tells you the truth about what's happening next.
+[01:52:48.079 --> 01:52:53.039]  I am making this historic announcement on Friday, December 12th, 2025.
+[01:52:53.279 --> 01:52:55.600]  The future of InfoWars hangs in the balance.
+[01:52:55.760 --> 01:52:57.600]  It is in your hands.
+[01:52:57.920 --> 01:53:05.520]  They're having a state auction in January next year in about a month, but we don't even have the money for payroll or for satellites or for bandwidth.
+[01:53:05.680 --> 01:53:10.079]  We've got this next shot to survive, but if we don't get the funds in, we shut down.
+[01:53:10.400 --> 01:53:20.640]  So we're selling three emergency limited edition posters at InfoWarStore.com right now that are critical to us staying on the air.
+[01:53:20.800 --> 01:53:30.079]  And I want to encourage you to go now to get, I have not yet begun to fight, John Paul Jones poster and two others, Make No Peace with Evil and Defend the West.
+[01:53:30.400 --> 01:53:31.680]  Iconic Crusades.
+[01:53:32.000 --> 01:53:38.079]  Go now to InfoWarStore.com to get one or more of these iconic posters, limited edition.
+[01:53:38.319 --> 01:53:39.440]  We cannot do it without you.
+[01:53:39.680 --> 01:53:41.039]  I have fired the bat signal.
+[01:53:41.279 --> 01:53:45.600]  Take action now if you want to stand with us in this fight at InfoWarStore.com.

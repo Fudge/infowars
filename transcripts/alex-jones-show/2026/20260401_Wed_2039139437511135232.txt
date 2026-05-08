@@ -1,0 +1,1202 @@
+# Transcription model: CohereLabs/cohere-transcribe-03-2026, MahmoudAshraf/mms-300m-1130-forced-aligner, sat-12l-sm, script v26.04.00, and large-v3-turbo
+# Transcript cleaned with version 0.1.2
+# Source MD5: a2aa2d2c483a4bba179efd7c74bbd72c
+[00:00:14.879 --> 00:00:18.199]  Jones Network is tomorrow's news today.
+[00:00:19.320 --> 00:00:25.100]  This information we cover is not number one, it's everything.
+[00:00:25.219 --> 00:00:27.699]  This is not some political genre.
+[00:00:29.359 --> 00:00:33.359]  This is a fight for civilization and our very lives.
+[00:00:34.620 --> 00:00:40.280]  You hear all these movies about coaches and stuff get out there and win and they all care and they come together and it's triumphant.
+[00:00:40.320 --> 00:00:41.719]  That's for a game.
+[00:00:42.480 --> 00:00:46.399]  But we recognize that because we're supposed to be able to come together and do great things.
+[00:00:46.480 --> 00:00:50.599]  So The system goes, Oh, you go out and do a children's thing, you go out and play a sport.
+[00:00:51.400 --> 00:00:52.780]  That's where you put your manhood.
+[00:00:52.859 --> 00:00:53.780]  That's who we honor.
+[00:00:53.859 --> 00:00:54.819]  That's who we admire.
+[00:00:55.519 --> 00:00:58.319]  Then they even take that away from you and put men and women in sports.
+[00:00:58.379 --> 00:01:01.260]  It's all about taking every human institution and destroying it.
+[00:01:01.400 --> 00:01:02.280]  That was sweet, huh?
+[00:01:02.359 --> 00:01:03.679]  Did you like that?
+[00:01:04.799 --> 00:01:05.280]  Yeah.
+[00:01:05.700 --> 00:01:10.260]  So you watch these coaches in games, especially the playoffs, and they're just, Oh, they're all nervous.
+[00:01:10.299 --> 00:01:11.260]  Everybody looks at the coach.
+[00:01:11.319 --> 00:01:11.760]  That's good.
+[00:01:11.819 --> 00:01:12.819]  It's how a man's supposed to act.
+[00:01:12.859 --> 00:01:13.500]  He really cares.
+[00:01:13.540 --> 00:01:14.700]  He's got the numbers, the facts.
+[00:01:14.739 --> 00:01:15.679]  He knows the other side.
+[00:01:15.739 --> 00:01:16.299]  He's on the ball.
+[00:01:16.659 --> 00:01:20.100]  Because you're supposed to do that in life and business and culture and health.
+[00:01:20.400 --> 00:01:26.500]  And with your relationship with God, you're supposed to act like that about the real world, like Trump and Elon Musk are.
+[00:01:27.380 --> 00:01:41.760]  Instead, these evil little nerds who weren't in the cool club and hate everybody and they love passive aggressive murder, it thrills them to know they're growing spike protein in everyone and killing everyone and making money off of it while they do it.
+[00:01:41.799 --> 00:01:44.140]  And we're too stupid to figure it out.
+[00:01:45.000 --> 00:01:48.659]  And you look at that photo with Fauci holding Hotels.
+[00:01:48.719 --> 00:01:52.240]  And Hotels was on TV, like, there'll be 11 new pandemics.
+[00:01:53.799 --> 00:01:54.280]  Trump will have.
+[00:01:54.400 --> 00:01:55.400]  Crashing down.
+[00:01:55.500 --> 00:01:56.400]  He won't stop us.
+[00:01:57.620 --> 00:01:59.180]  Your children need more shots.
+[00:02:00.100 --> 00:02:01.260]  You don't think they don't know what it's doing?
+[00:02:01.320 --> 00:02:02.180]  They did it on purpose.
+[00:02:03.500 --> 00:02:08.319]  And so you've seen FBI chief counsel in Connecticut go, yeah, we wouldn't start the lawsuits on Jones.
+[00:02:08.639 --> 00:02:10.939]  You've seen the CIA FBI undercover videos.
+[00:02:10.979 --> 00:02:12.759]  We're like, yeah, we couldn't take him out criminally.
+[00:02:13.319 --> 00:02:15.819]  We investigated him and found out he didn't do anything wrong.
+[00:02:15.879 --> 00:02:18.579]  And yeah, under national security.
+[00:02:18.719 --> 00:02:24.000]  So we went and set all this up and ran PR about him and demonized him with stuff he never did so we could then do this.
+[00:02:24.579 --> 00:02:27.259]  They did that to America, they did that to families.
+[00:02:27.459 --> 00:02:28.560]  They did that to God.
+[00:02:28.899 --> 00:02:31.280]  They did that to X and Y chromosome.
+[00:02:31.319 --> 00:02:35.319]  They're attacking it all because it's in the way of their devilish plan.
+[00:02:35.379 --> 00:02:38.699]  It's to kill, steal, and destroy.
+[00:02:40.979 --> 00:02:42.119]  Alex Jones.
+[00:02:42.699 --> 00:02:44.579]  Tomorrow's news today.
+[00:02:45.339 --> 00:02:47.579]  For Tupacan Govu.
+[00:02:57.920 --> 00:03:03.140]  From the front lines of the information war, it's Alex Jones.
+[00:03:07.881 --> 00:03:12.700]  All right, it's 5.03 Central Time on March 31st, 2026.
+[00:03:13.820 --> 00:03:18.881]  I appreciate Jesse Beltran coming on the broadcast this evening.
+[00:03:19.501 --> 00:03:20.781]  This is so important.
+[00:03:21.401 --> 00:03:22.521]  And I wanted to get him on.
+[00:03:22.580 --> 00:03:28.580]  I'm going to have him on the main InfoWork show coming up in a couple of days and next week.
+[00:03:28.640 --> 00:03:35.640]  But we're going to be doing a lot of deep dives here where we can basically go commercial free or go for hours without commercials, where we can really get into all this.
+[00:03:35.680 --> 00:03:41.680]  They're going to come into town soon with doctors and scientists that they've been working with that we previously interviewed.
+[00:03:41.721 --> 00:03:52.441]  But they have declassified that the CIA, starting in '52, there's an overhead shot of that, was adding poisonous chemicals and compounds to food.
+[00:03:52.941 --> 00:03:55.600]  Water and vaccines to control and dumb down the public.
+[00:03:56.401 --> 00:04:01.161]  And they've also declassified new documents, not just from the 50s, but from the 70s, about implantable chips.
+[00:04:01.581 --> 00:04:07.161]  And now they've got all these patents for liquid chips in the injections, self replicating nanotech.
+[00:04:08.480 --> 00:04:09.120]  This is a big deal.
+[00:04:09.180 --> 00:04:11.401]  They've also been producing Died Suddenly.
+[00:04:11.461 --> 00:04:14.240]  We've got exclusive trailers information on that coming up.
+[00:04:15.281 --> 00:04:17.120]  But there's also ways to counter this.
+[00:04:17.260 --> 00:04:19.141]  God has always given us ways to do that.
+[00:04:19.180 --> 00:04:20.980]  We'll be getting into that as well.
+[00:04:21.040 --> 00:04:23.480]  But this is a huge global awakening.
+[00:04:24.000 --> 00:04:25.380]  That is happening right now.
+[00:04:26.161 --> 00:04:27.480]  It is so important.
+[00:04:28.701 --> 00:04:37.941]  And we also, again, have Congress confronting the Department of Energy and others, and RFK Jr. exposing that it's DARPA behind the chemtrailing, which you search documents for that, they don't exist.
+[00:04:38.021 --> 00:04:38.880]  It's geoengineering.
+[00:04:39.521 --> 00:04:40.661]  It's all coming out.
+[00:04:40.740 --> 00:04:41.521]  What a time to be alive.
+[00:04:41.860 --> 00:04:44.961]  Now, Jesse Beltram, I'll get to in a moment, was a firefighter.
+[00:04:46.040 --> 00:04:51.161]  And then he got into the medical field and began to talk to people that were having all these issues.
+[00:04:51.721 --> 00:04:52.880]  And it's just an incredible story.
+[00:04:53.401 --> 00:04:55.060]  But again, these are not the traditional chips.
+[00:04:56.321 --> 00:04:57.201]  Like a classic chip.
+[00:04:57.341 --> 00:05:02.120]  It's liquid and it self replicates, and we know that's what's going on with the spike protein.
+[00:05:02.841 --> 00:05:04.860]  Major updates with him tonight.
+[00:05:05.420 --> 00:05:09.441]  All of you watching on X, also on Rumble, share the live feed on your email, your text message.
+[00:05:09.760 --> 00:05:12.061]  Important stuff about secret government projects.
+[00:05:12.100 --> 00:05:15.721]  It's the American people now declassified and admitted, and it's all coming out.
+[00:05:15.760 --> 00:05:16.941]  You can say Trump's gone sideways.
+[00:05:16.980 --> 00:05:21.441]  He has them, anyways, but there has been more declassification in the last year than there's been ever.
+[00:05:21.480 --> 00:05:23.760]  And so that's why I don't throw the baby out with the bathwater.
+[00:05:23.841 --> 00:05:25.420]  I'm just horrified by the things Trump's doing.
+[00:05:26.360 --> 00:05:29.240]  Now saying, you know, he'll just leave the straight-up hormones closed, just pull out.
+[00:05:29.401 --> 00:05:32.880]  I mean, it is wild, the stuff that's going on.
+[00:05:33.740 --> 00:05:39.240]  But we're going to be breaking that down as well and get Jesse Beltran's take on that and others that he's working with.
+[00:05:40.240 --> 00:05:44.581]  Matt Hazen, an incredible individual, has really been quarterbacking this and getting all these scientists together, medical doctors.
+[00:05:44.620 --> 00:05:47.181]  We're going to be having on in the next few days and next few weeks.
+[00:05:47.221 --> 00:05:48.100]  We're going to go deep dive.
+[00:05:48.140 --> 00:05:49.661]  This is the first look tonight.
+[00:05:50.061 --> 00:05:55.480]  But let's go back to myself back in October being scanned for implantable chips.
+[00:05:56.040 --> 00:05:58.281]  And I came up with kind of the subset.
+[00:05:59.661 --> 00:06:03.841]  Because now, when he was doing this decades ago or many years ago, it was a small percentage.
+[00:06:04.581 --> 00:06:09.061]  Now it's the majority who have the chips because it's in the food, it's in the water, it's nanotech.
+[00:06:09.281 --> 00:06:15.161]  Bill Gates is spraying all these special chemicals that are nanotech, appeal and things on food.
+[00:06:15.620 --> 00:06:20.061]  Now they're saying the average person has a plastic in their brain the size of a plastic spoon if you put it all together.
+[00:06:20.721 --> 00:06:21.540]  It's just amazing.
+[00:06:21.620 --> 00:06:22.561]  This is their takeover.
+[00:06:22.600 --> 00:06:24.961]  This is their hostile corporate takeover of our bodies.
+[00:06:25.000 --> 00:06:29.781]  So here he was scanning me back in October of 2025.
+[00:06:34.941 --> 00:06:39.792]  So, if you put that camera in there, you see how it says probably silicone?
+[00:06:39.855 --> 00:06:41.620]  That means it's an electronic component.
+[00:06:43.383 --> 00:06:47.163]  And it's not unusual to find that in the posterior ear area.
+[00:06:48.549 --> 00:06:49.767]  So, wait, I got a higher reading than him?
+[00:06:50.271 --> 00:06:51.657]  No, his was higher than yours.
+[00:06:51.741 --> 00:06:52.014]  Oh, yeah.
+[00:06:52.644 --> 00:06:54.702]  Yeah, but you did get a positive reading there.
+[00:06:57.810 --> 00:07:04.782]  So, you are getting the base of the neck, is what we typically see, scapula area.
+[00:07:08.519 --> 00:07:09.360]  You got them too, buddy.
+[00:07:12.180 --> 00:07:13.139]  And the lower lumbar.
+[00:07:13.180 --> 00:07:13.860]  The goddess.
+[00:07:15.040 --> 00:07:19.000]  And again, what we're finding is after post COVID, this is very typical.
+[00:07:19.079 --> 00:07:21.240]  We're completely barred by this stuff.
+[00:07:24.819 --> 00:07:26.939]  And again, it says silicone based.
+[00:07:31.139 --> 00:07:31.660]  The apex.
+[00:07:36.019 --> 00:07:38.139]  Now you see Sean Johnson, former Navy SEAL right there.
+[00:07:38.240 --> 00:07:38.819]  In the abdomen.
+[00:07:39.459 --> 00:07:40.560]  Afghanistan, Iraq, you name it.
+[00:07:40.699 --> 00:07:43.040]  He had chips, but they found a special operations all over.
+[00:07:43.879 --> 00:07:44.399]  Way higher than me.
+[00:07:44.439 --> 00:07:45.659]  So, what does that say?
+[00:07:46.220 --> 00:07:47.180]  Comparable or let list?
+[00:07:47.259 --> 00:07:48.040]  Well, you know what?
+[00:07:48.220 --> 00:07:54.980]  If we were to do a thorough exam, which takes a little bit longer, we would want to do the RF scan with the JM20 Pro first.
+[00:07:55.060 --> 00:07:59.879]  Then we would come back with the frequency reader to obtain the numerical frequencies that we're detecting.
+[00:08:00.560 --> 00:08:02.399]  And that would complete the whole process.
+[00:08:02.659 --> 00:08:05.680]  Do you have to take them out in order to get that numerical number?
+[00:08:05.879 --> 00:08:05.920]  No.
+[00:08:06.300 --> 00:08:06.340]  No?
+[00:08:06.620 --> 00:08:07.800]  No, we can detect it remotely.
+[00:08:07.840 --> 00:08:09.899]  And I noticed on your, you have the profile of different people.
+[00:08:09.980 --> 00:08:12.100]  Did my profile pick up like a soldier's or somebody else's?
+[00:08:12.600 --> 00:08:14.000]  Very typical of a civilian.
+[00:08:14.379 --> 00:08:14.480]  Yeah.
+[00:08:14.860 --> 00:08:15.639]  Yeah, yeah.
+[00:08:15.720 --> 00:08:17.040]  You're going to bring that next time you come?
+[00:08:17.079 --> 00:08:18.240]  So, why do you find over and over?
+[00:08:18.319 --> 00:08:18.920]  He showed it earlier.
+[00:08:19.300 --> 00:08:21.040]  Why do you find soldiers have this particular pattern?
+[00:08:21.079 --> 00:08:21.360]  We don't know.
+[00:08:22.319 --> 00:08:22.600]  Don't know.
+[00:08:23.040 --> 00:08:23.340]  Don't know.
+[00:08:24.459 --> 00:08:29.720]  You know, all we can say is that we can typically see what that pattern is based on the study.
+[00:08:30.199 --> 00:08:32.080]  I don't have to know anything about the person.
+[00:08:32.680 --> 00:08:37.539]  I can look at the profile and say, well, this is probably a soldier or this is probably someone who was involved.
+[00:08:37.580 --> 00:08:41.019]  And what are you finding with the State Department and CIA folks you scanned?
+[00:08:41.240 --> 00:08:43.419]  Very typical of what we would find on a soldier.
+[00:08:45.819 --> 00:08:45.899]  So.
+[00:08:46.019 --> 00:08:47.680]  Well, this sounds alien to me.
+[00:08:48.159 --> 00:08:49.480]  So, this is the total takeover.
+[00:08:50.000 --> 00:08:52.600]  And again, maybe we can pull up the old clip of Sean getting scanned.
+[00:08:52.639 --> 00:08:55.419]  It's like a Christmas tree everywhere, and it's all where the nerve centers come out.
+[00:08:55.460 --> 00:08:57.220]  We're going to Jesse Beltran in just a moment.
+[00:08:57.340 --> 00:08:59.720]  I want to give you just people that missed this a little bit more.
+[00:09:00.220 --> 00:09:04.100]  We have Harrison being tested, but let's go to clip seven, phase three testing.
+[00:09:04.379 --> 00:09:05.279]  I'll get Jesse to get into this.
+[00:09:06.080 --> 00:09:18.600]  They went into an EU controlled special chamber beyond a Faraday cage with the EU's own more advanced, fancy super devices and tested normal people and then the government officials off the charts.
+[00:09:19.519 --> 00:09:21.819]  So, they're being targeted their food, their water, the shots.
+[00:09:22.259 --> 00:09:22.980]  That's what Beltran says.
+[00:09:23.080 --> 00:09:24.419]  I totally, this is the corporate takeover.
+[00:09:25.019 --> 00:09:29.740]  This is the final frontier, turning us into basically these nanobots, turning us into these interfaces.
+[00:09:29.799 --> 00:09:30.539]  That's the plan.
+[00:09:31.000 --> 00:09:33.799]  They admit the whole Google plan is a cybernetic interface with all of us.
+[00:09:34.159 --> 00:09:39.480]  It's called the Intergalactic Communication System, the ARPA DARPANET, 1958, declassified 62, the overall plan.
+[00:09:39.519 --> 00:09:40.500]  It's what we live under.
+[00:09:40.899 --> 00:09:47.879]  Here's clip seven phase three testing, symptomatic and nonsymptomatic test persons from the same show.
+[00:09:47.940 --> 00:09:48.159]  Here it is.
+[00:09:48.240 --> 00:10:03.299]  So here's where we brought in the control person and the, The gentleman on the left there on the screen is someone we had a preliminary RF scan done in the field where we were detecting frequencies.
+[00:10:03.360 --> 00:10:07.240]  So we wanted to see what would happen if we had them in a controlled environment.
+[00:10:07.639 --> 00:10:12.299]  And again, see the red light is flashing, and lo and behold, we are detecting frequencies.
+[00:10:12.600 --> 00:10:12.779]  Okay.
+[00:10:14.340 --> 00:10:14.680]  Yes.
+[00:10:16.281 --> 00:10:17.641]  Okay.
+[00:10:17.681 --> 00:10:18.581]  And what type of frequencies?
+[00:10:19.841 --> 00:10:24.021]  These are frequencies in the megahertz range, and that was in the low megahertz range.
+[00:10:24.500 --> 00:10:30.641]  And now we're going to put her in the same exact location because we know that we tested her before as a control.
+[00:10:31.321 --> 00:10:35.860]  And our expectation again, there's the flashing red light scanning for frequencies zero.
+[00:10:36.681 --> 00:10:46.480]  And this was a phenomenal moment for us because it was at this point that we conclude, for whatever reason, a frequency was emitting from the human body.
+[00:10:47.141 --> 00:10:50.701]  And frequency emissions from the human body are not normal.
+[00:10:51.841 --> 00:10:55.500]  And now you're finding people in graves that are giving back Apple IDs.
+[00:10:56.581 --> 00:10:58.620]  They're finding Mac addresses.
+[00:10:58.821 --> 00:11:11.281]  There was a study done in the UK, and for whatever reason, they are going back to a one bit transmission that is always going back to an Apple device.
+[00:11:12.120 --> 00:11:18.301]  Now, remember, Cronenberg's new movie two years ago was all about internet addresses to people in graves.
+[00:11:19.000 --> 00:11:21.301]  And it's only going back to people that died in the last 10 years or so.
+[00:11:22.141 --> 00:11:25.181]  So, this is 100% going on.
+[00:11:25.221 --> 00:11:25.360]  Okay.
+[00:11:25.740 --> 00:11:25.941]  This is 100%.
+[00:11:25.980 --> 00:11:28.081]  We're being seeded with this through everything.
+[00:11:28.681 --> 00:11:29.421]  It's being done.
+[00:11:31.360 --> 00:11:33.120]  These chips now are nanotech size.
+[00:11:33.201 --> 00:11:36.281]  You can't even see a lot of it with a microscope.
+[00:11:37.461 --> 00:11:37.701]  Incredible.
+[00:11:37.740 --> 00:11:38.441]  We've got so much more.
+[00:11:38.480 --> 00:11:41.620]  But I wanted to just start the interview series.
+[00:11:41.661 --> 00:11:43.461]  I want to do like 10 interviews the next month.
+[00:11:44.100 --> 00:11:54.520]  And we're going to get the medical doctors and everybody else here because there's been so many new findings and so much declassification and such a public ready to hear this and Congress asking questions.
+[00:11:54.801 --> 00:11:55.541]  This is an amazing moment.
+[00:11:55.961 --> 00:11:59.041]  So, Jesse Beltran, great to have you here.
+[00:11:59.441 --> 00:12:01.901]  MindNexusLive, mindnexuslive.com.
+[00:12:03.260 --> 00:12:06.260]  It is really good to have you here with us to talk about this.
+[00:12:06.841 --> 00:12:12.821]  Also, I'm just going to tell you point blank zeolites are known as a detoxifier for heavy metals and compounds and toxins.
+[00:12:14.061 --> 00:12:16.681]  Their sponsor is the best, and I recommend everybody get on it.
+[00:12:17.100 --> 00:12:19.921]  The sleep you get, the dreams you have, everything, what it does to your brain is amazing.
+[00:12:20.581 --> 00:12:21.961]  Masterpiece is the name of this.
+[00:12:22.000 --> 00:12:22.461]  It's been private.
+[00:12:22.581 --> 00:12:23.661]  A bunch of people are selling it now.
+[00:12:24.221 --> 00:12:28.641]  Masterpiece.healthForwardSlashAlex gets you 11% off.
+[00:12:29.301 --> 00:12:30.401]  This is such a game changer.
+[00:12:30.441 --> 00:12:31.841]  If you love methylene blue, you're going to love this.
+[00:12:32.381 --> 00:12:33.141]  This is beyond that.
+[00:12:33.661 --> 00:12:39.721]  Masterpiece.health forward slash Alex, 11% off when you go to that URL, or go to just masterpiece.health.
+[00:12:39.980 --> 00:12:42.561]  Use promo code Alex for 10% off just to check out.
+[00:12:42.721 --> 00:12:46.801]  But 11% if you go to that actual URL, and we'll later put that on screen.
+[00:12:46.881 --> 00:12:48.561]  We just overhead shot some people with the URL here.
+[00:12:49.081 --> 00:12:51.980]  Masterpiece.health forward slash Alex.
+[00:12:52.701 --> 00:13:00.660]  Masterpiece.health forward slash Alex for 11% off, or masterpiece.health use promo code Alex for 10% off.
+[00:13:00.900 --> 00:13:09.740]  And what we do is we expose the stuff, then we sell you things to keep us on the air that help you so you have a great response and you know that we're on the same team.
+[00:13:10.500 --> 00:13:10.800]  Do it.
+[00:13:10.941 --> 00:13:11.581]  It's amazing.
+[00:13:12.040 --> 00:13:13.961]  And it goes in for the zeolites on record.
+[00:13:14.000 --> 00:13:19.701]  But this is a particular type of special zeolite that's been merged with these special sea compounds, minerals in the ocean.
+[00:13:19.980 --> 00:13:22.980]  So it doesn't just remove the toxins, it replaces it with the good minerals.
+[00:13:23.341 --> 00:13:26.240]  The dreams you'll have, what happens on this, are literally insane.
+[00:13:26.721 --> 00:13:33.081]  Masterpiece.healthforward slash Alex for 11% off, or just when you go to Masterpiece.health and to check out use Alex, you get 10% off.
+[00:13:33.120 --> 00:13:35.680]  But I recommend you just go to that URL with Alex at the end to get that.
+[00:13:35.961 --> 00:13:39.160]  Take action now at Masterpiece.healthforward slash Alex.
+[00:13:39.201 --> 00:13:41.341]  So again, we'll put that URL on screen coming up for you.
+[00:13:41.800 --> 00:13:43.800]  All right, Jesse, great to have you.
+[00:13:43.841 --> 00:13:49.560]  We're supposed to be on at four, but last night I'm eating a steak and my tooth breaks off.
+[00:13:50.081 --> 00:13:53.341]  So I go in, and the doctor today says, I'm going this morning.
+[00:13:53.400 --> 00:13:54.821]  He says, come back in, you know, at 2 30.
+[00:13:55.221 --> 00:13:56.040]  We'll just do it real quick.
+[00:13:56.100 --> 00:13:57.400]  He goes, well, we'll just do the surgery right now.
+[00:13:57.941 --> 00:13:59.841]  And it took him a lot longer fighting traffic, getting here.
+[00:13:59.880 --> 00:14:00.461]  I apologize.
+[00:14:01.020 --> 00:14:02.560]  But I appreciate you holding to do that.
+[00:14:02.600 --> 00:14:04.221]  And I appreciate the crew doing that.
+[00:14:04.260 --> 00:14:06.540]  But I'm here and everything's great.
+[00:14:06.900 --> 00:14:09.540]  So they just removed the tooth and they decided to do that.
+[00:14:09.620 --> 00:14:10.461]  So I'm getting an implant.
+[00:14:10.600 --> 00:14:11.560]  A little bit of honey here.
+[00:14:11.920 --> 00:14:12.980]  My face is a little bit numb.
+[00:14:13.841 --> 00:14:14.360]  I'm all right.
+[00:14:14.441 --> 00:14:15.660]  You know, getting old, 52.
+[00:14:15.900 --> 00:14:17.941]  But here we are, ladies and gentlemen.
+[00:14:18.540 --> 00:14:23.380]  Despite my face being numb, I'm so excited because you're being so vindicated, Jesse Beltran.
+[00:14:24.620 --> 00:14:29.681]  Tell us just a quick snapshot of me a little bit of your history, what you discovered, and how deep this is getting.
+[00:14:29.721 --> 00:14:31.860]  And now the incredible whistleblowers and intel you're getting.
+[00:14:31.920 --> 00:14:32.360]  It's amazing.
+[00:14:33.900 --> 00:14:46.980]  Yeah, well, I'm a retired Sacramento City firefighter paramedic out of California, and I am a TSCM investigator, which is technical surveillance countermeasures.
+[00:14:47.060 --> 00:14:54.081]  And I specialize in signals intelligence, in which I have been doing publicly for the last 15 years.
+[00:14:54.780 --> 00:15:04.500]  And I've been traveling the world helping civilians who have been complaining about this AHI phenomenon or the Havana syndrome.
+[00:15:05.201 --> 00:15:11.240]  Which our United States government only claims is happening to federal employees and their family members.
+[00:15:11.900 --> 00:15:25.640]  But I have been helping them since 2010, documenting evidence of anomalous frequencies at very specific areas around the human body.
+[00:15:25.961 --> 00:15:32.841]  And we utilize what the audience was watching was in the early days, the JM20 Pro.
+[00:15:33.040 --> 00:15:47.640]  And then what we were using on you and Sean was a nonlinear junction detector, which detects harmonic reflections off of silicon based materials, which are all comprised of electronic components.
+[00:15:48.180 --> 00:15:52.140]  And that device there is highly, highly sensitive.
+[00:15:52.680 --> 00:16:02.240]  And what is interesting is there was a study put out by Dr. Young, two years prior to anyone else even analyzing what was in the vaccines.
+[00:16:02.341 --> 00:16:09.260]  And back then, he was detecting basically nanomaterials, grappling knot sites specifically.
+[00:16:09.880 --> 00:16:13.000]  And I was just in the UK and we conducted a study.
+[00:16:14.040 --> 00:16:22.020]  I was a third party investigator asked to help with the study where they were testing individuals who had some had taken the vaccine, some hadn't.
+[00:16:22.841 --> 00:16:38.540]  And they wanted me to establish whether or not these areas of harmonic we've Reflections could be detected of semiconducted baselines and silicon baselines, specifically, where a silicon load is what we were looking for.
+[00:16:39.140 --> 00:16:44.701]  And we took at baseline, the average was somewhere anywhere between 12 and 1400 on individuals.
+[00:16:45.180 --> 00:16:52.800]  And the average location was around 18 to 20 locations that we were typically finding that were lighting up.
+[00:16:53.360 --> 00:16:59.320]  And I came back two months later after they had been on 30 drops per day.
+[00:16:59.780 --> 00:17:01.920]  And, you know, I wasn't sure what to expect.
+[00:17:01.961 --> 00:17:08.401]  Because in 20 years, I've had a lot of people come to me and say, Hey, if you give your clients these products, they'll feel better.
+[00:17:08.500 --> 00:17:15.880]  And I've always tested them with equipment to establish whether or not they were legitimate.
+[00:17:15.921 --> 00:17:17.641]  And they were never legitimate.
+[00:17:18.701 --> 00:17:29.280]  And this was the first time that someone offered a baseline study that showed that the graphing and blood results were going down while they were taking this Zeolite Z product.
+[00:17:30.240 --> 00:17:33.961]  And so when I came back two months later, I was shocked.
+[00:17:34.260 --> 00:17:48.201]  There were about, if we took out the two anomalies, one was exposed to the vaccine during the study, and the other was in a relationship with someone who had just taken two vaccines.
+[00:17:48.640 --> 00:17:57.260]  So there is a shedding effect that happens, and there are now doctors who are coming out and showing how this can be transmitted via body fluids.
+[00:17:57.980 --> 00:18:02.181]  Now, what I saw was Nothing short of remarkable.
+[00:18:03.100 --> 00:18:14.320]  An 80% reduction overall when you took out the anomalies and the locations for the first time in 20 years, I've seen disappear.
+[00:18:14.961 --> 00:18:24.500]  So once someone tested positive for an RF emission somewhere around their person at those focal areas, they were always testing positive, no matter where I took them on the globe.
+[00:18:25.260 --> 00:18:27.480]  And now we understand the reason why that is.
+[00:18:28.500 --> 00:18:32.360]  But for the first time, we saw people decrease.
+[00:18:33.441 --> 00:18:35.461]  In those spots, they disappeared.
+[00:18:36.000 --> 00:18:43.760]  Some were testing at 19 at baseline, went down to three locations, which was phenomenal.
+[00:18:44.500 --> 00:18:46.461]  But, you know, what is this really about?
+[00:18:46.941 --> 00:19:05.520]  Where this all stemmed from was Project Operation Paperclip, where we took the Nazi scientists who were experimenting in the concentration camps on the Jews, and we brought them over and we gave them.
+[00:19:06.560 --> 00:19:07.941]  Falsified backgrounds.
+[00:19:08.020 --> 00:19:10.380]  We rewrote their biographies.
+[00:19:10.500 --> 00:19:14.520]  We gave them documents to allow them to come over here and continue their work.
+[00:19:14.660 --> 00:19:23.120]  And that later turned into Project Chatter, which basically the whole methodology of all these programs were about mind control.
+[00:19:23.240 --> 00:19:25.380]  How can we manipulate the human brain?
+[00:19:25.941 --> 00:19:34.441]  And Project Chatter was institutionalized by the Navy and they used drug based interrogation research, is what they were doing.
+[00:19:34.980 --> 00:19:37.181]  And that eventually went into Project Bluebird.
+[00:19:38.280 --> 00:19:44.600]  Which was again an interrogation research program instituted by the CIA.
+[00:19:45.480 --> 00:19:48.040]  And that turned into Project Artichoke.
+[00:19:48.240 --> 00:20:04.161]  And Project Artichoke is where it really started to develop, where they started utilizing drug therapeutics, electric shock therapy, they used hypnosis, and they were trying to create a Manchurian candidate.
+[00:20:04.440 --> 00:20:11.480]  They were trying to see if they can split someone's personality utilizing trauma and other methodologies.
+[00:20:12.080 --> 00:20:27.300]  And splitting their personality so that one can become the assassinator and not remember what they've done when they were given a code word or an anchor, which becomes a trigger.
+[00:20:28.300 --> 00:20:31.000]  And it could be anything, it could be a word, it could be a sound.
+[00:20:31.280 --> 00:20:37.580]  And we noticed a whole bunch of the killers of John Lennon and the other, it's all catcher in the rye, seem to be the mass programming book.
+[00:20:39.060 --> 00:20:39.400]  Correct.
+[00:20:39.460 --> 00:20:45.500]  And there were two who had contacted me in recent years, which was Aaron Alexis.
+[00:20:45.580 --> 00:20:54.740]  He was a U.S. soldier who was complaining about all of these Havana syndrome, AHI type symptoms, and said, I was told that you could help me.
+[00:20:55.480 --> 00:20:59.980]  And I said, I could, but it's not a quick fix.
+[00:21:00.160 --> 00:21:01.280]  It's going to be a long journey.
+[00:21:01.440 --> 00:21:03.360]  And I thought he was going to go along with the program.
+[00:21:03.880 --> 00:21:07.060]  And within a week or two, he went and he killed 12 people at the Navy Yard.
+[00:21:07.520 --> 00:21:10.700]  Same thing happened with Myron May, who was an attorney out of. Florida.
+[00:21:10.740 --> 00:21:12.220]  Whoa, you were talking to that guy?
+[00:21:12.360 --> 00:21:12.760]  I remember that.
+[00:21:12.820 --> 00:21:16.860]  And he had the gun saying, you get because ultra low frequency.
+[00:21:16.900 --> 00:21:23.800]  He described ELF into the butt of his rifle, extremely low frequency, and what that represented.
+[00:21:24.400 --> 00:21:37.760]  And what is really interesting about that is I just came back from the Virginia Beach territory, and we believe that we have now discovered the frequency which is being emitted.
+[00:21:38.640 --> 00:21:41.100]  And they are in the VLF, ULF range.
+[00:21:41.680 --> 00:21:44.940]  And they tell you, like in the movie, they live, there's a frequency they're sending out.
+[00:21:46.300 --> 00:21:46.660]  Correct.
+[00:21:47.280 --> 00:21:57.620]  And this frequency is anywhere from the low hertz into the kilohertz range.
+[00:21:58.260 --> 00:22:05.460]  And the distance propagation of this frequency is 124,000 miles minimum.
+[00:22:06.000 --> 00:22:09.180]  It penetrates everything and anything.
+[00:22:09.660 --> 00:22:12.580]  That's what they use to communicate with submarines, it's that ultra low frequency.
+[00:22:13.520 --> 00:22:15.540]  Which, by the way, Princeton just confirmed ESP.
+[00:22:16.340 --> 00:22:20.360]  Through ultra low frequency with computers tracking humans in ESP.
+[00:22:20.940 --> 00:22:22.700]  So they're literally jamming our normal ESP.
+[00:22:23.560 --> 00:22:27.020]  And that's what Dr. Nick Begage said, told me 25 years ago.
+[00:22:27.540 --> 00:22:29.360]  His brother was a senator, his father, a congressman.
+[00:22:30.360 --> 00:22:35.700]  He's got a lot of secret documents that the government knew we already had this ESP, already had a group collective communication.
+[00:22:35.980 --> 00:22:36.920]  They were trying to jam that.
+[00:22:38.920 --> 00:22:39.320]  Correct.
+[00:22:39.380 --> 00:22:45.221]  But now they can influence your thoughts, they can erase memory sets, they can imprint memory sets.
+[00:22:45.680 --> 00:22:48.020]  The Russians have really mastered it.
+[00:22:48.060 --> 00:22:49.320]  They just released a study.
+[00:22:49.820 --> 00:23:03.560]  Where they're now propagating in the terahertz range, and they're able to specifically target specific areas on the human brain, whether it be right occipital, left occipital, parietal, temporal lobes, frontal lobes.
+[00:23:03.600 --> 00:23:07.520]  They can institute, they can transmit voices into your mind.
+[00:23:07.580 --> 00:23:13.200]  They can make you have optical visualization experiences.
+[00:23:13.940 --> 00:23:19.000]  And so this is now treading in an area where I don't think anyone had imagined.
+[00:23:19.040 --> 00:23:22.840]  Our forefathers sure enough haven't, but this is the final frontier.
+[00:23:23.580 --> 00:23:25.260]  This is the final battleground.
+[00:23:25.840 --> 00:23:39.180]  And what we're finding is this ultimately, when everyone understands, specifically now that we're in this nanotech era, that this is probably worse than any nuclear weapon that has ever been created.
+[00:23:40.121 --> 00:24:02.820]  Because if they can control you via RF emissions, and we now know that they exist, we were able to prove it over this last weekend, and then you will never know or have the future of our children or genealogies to come any cognitive liberty whatsoever.
+[00:24:03.661 --> 00:24:06.760]  You'll believe it's always been that way and it's normal.
+[00:24:08.560 --> 00:24:14.000]  Your freedoms to be creative, to use your Your human gifts are going to be taken away.
+[00:24:14.681 --> 00:24:16.961]  And that's what Project Artichoke was all about.
+[00:24:17.540 --> 00:24:23.381]  They were using vaccines back then to deliver these drugs in order to interrogate people.
+[00:24:23.841 --> 00:24:24.941]  They were using LSD.
+[00:24:25.861 --> 00:24:27.941]  And that was the assassination research.
+[00:24:28.040 --> 00:24:37.040]  And Project Artichoke then transitioned into Project MKUltra, which had about 150 plus sub projects under MKUltra.
+[00:24:37.221 --> 00:24:42.520]  No one knows about Project 95, where they were trying to turn animals into weapons.
+[00:24:42.560 --> 00:24:47.841]  They were putting Chips into their brains in order to make them be aggressive and attack people.
+[00:24:49.040 --> 00:25:01.121]  They were chipping people's children as young as five years old, giving them the drug therapies, and then children as young as 11, to be corrected, putting brain implants in them.
+[00:25:02.260 --> 00:25:04.760]  So this has been around for a long time.
+[00:25:04.820 --> 00:25:07.240]  And we know it was Ewing Cameron, under him, Jolly and West.
+[00:25:07.300 --> 00:25:09.221]  Jolly and West is number two in MKL3 classified.
+[00:25:09.701 --> 00:25:11.621]  He was Jack Ruby's doctor.
+[00:25:12.820 --> 00:25:14.921]  He was Sirhan Sirhan's doctor.
+[00:25:16.121 --> 00:25:16.841]  He was.
+[00:25:17.681 --> 00:25:20.060]  A whole bunch of the other assassins, doctor, they don't even hide this.
+[00:25:21.841 --> 00:25:22.320]  Correct.
+[00:25:23.101 --> 00:25:47.840]  And what is so great, Alex, recently, because of our public education campaigns that we've been doing in order to disseminate the data that we've been able to prove, and we talked about the Bonnie Kellerby case where she had three surgical implants removed from her that were non consensually done, and she was diagnosed with schizophrenia because she claimed what?
+[00:25:48.520 --> 00:25:53.141]  She claimed that she was implanted without her consent, but she was telling the truth.
+[00:25:53.661 --> 00:25:59.141]  And so now the mental health industry is now in a paradigm that they are going to have to deal with this.
+[00:26:00.181 --> 00:26:00.881]  By the way, just a minute.
+[00:26:00.921 --> 00:26:04.820]  You guys have chips removed by doctors on camera that's got this weird coat on it.
+[00:26:05.740 --> 00:26:09.381]  You were close to figuring out what that language was or where it came from.
+[00:26:09.421 --> 00:26:10.101]  Have you found that out yet?
+[00:26:12.840 --> 00:26:17.000]  We were about to release what we have discovered.
+[00:26:18.300 --> 00:26:21.401]  And currently, what I was about to get into, we had an MI6.
+[00:26:22.161 --> 00:26:22.401]  Go ahead.
+[00:26:22.861 --> 00:26:28.181]  Asset, who is equivalent to a four star general, contacted me.
+[00:26:28.581 --> 00:26:35.061]  And as soon as he said, he says, Jesse, I can't sit, stand by, and let this happen to humanity anymore.
+[00:26:35.941 --> 00:26:37.161]  I'm ready to tell the world.
+[00:26:37.280 --> 00:26:42.181]  And as soon as he offered that, we were on a plane and we interviewed him for four hours.
+[00:26:42.280 --> 00:26:47.500]  And tonight, you're going to be one of the first to play that interview.
+[00:26:48.181 --> 00:26:52.320]  But before we get into that, it might be a good time to show everyone.
+[00:26:52.901 --> 00:26:56.181]  About what our project has been about.
+[00:26:56.300 --> 00:27:06.881]  I'm being followed by Edward Zalt, who is the producer of Died Suddenly One, and now he's doing Died Suddenly Two, Nano Sapiens.
+[00:27:07.340 --> 00:27:11.840]  And if we could play that, that might be a good time so people can understand really what we're dealing with.
+[00:27:12.181 --> 00:27:13.221]  And this is at the forefront.
+[00:27:13.540 --> 00:27:15.240]  Everyone is talking about it now.
+[00:27:16.020 --> 00:27:28.500]  And once we show and we compile that interview, along with another whistleblower who actually discovered the MKUltra documents that were misfiled.
+[00:27:29.760 --> 00:27:37.221]  And that's how it came to fruition, where it became public and the church committee hearings happened.
+[00:27:38.161 --> 00:27:40.600]  But we're about to interview him as well.
+[00:27:41.260 --> 00:27:45.760]  And we're going to compile both of those interviews, along with we.
+[00:27:46.320 --> 00:27:50.780]  Have figured out the frequency, and this is not anything that we anticipated.
+[00:27:51.600 --> 00:28:05.000]  Typically, when you look at spectrum analyzers and we do a waterfall to see whether data is being transmitted on that frequency, typically it's vertical, and we've always seen it vertical.
+[00:28:05.840 --> 00:28:06.860]  But this is different.
+[00:28:07.401 --> 00:28:16.740]  This signal propagates instantaneously across multiple frequencies at once, and it is going to be virtually impossible.
+[00:28:17.381 --> 00:28:21.580]  But we're going to give it our darn college try to decrypt.
+[00:28:22.040 --> 00:28:27.100]  And we believe we can develop something to block it.
+[00:28:27.820 --> 00:28:30.040]  But that is going to be in the works here.
+[00:28:30.520 --> 00:28:34.480]  But tonight, Alex, you'll be the first to number one, to show the trailer.
+[00:28:35.121 --> 00:28:36.121]  It hasn't been shown before.
+[00:28:36.740 --> 00:28:44.080]  And number two, we've compiled short snippets of what this MI6 whistleblower discloses.
+[00:28:44.480 --> 00:28:46.941]  He's Harvard educated, PhD from Oxford.
+[00:28:47.600 --> 00:28:52.721]  Oxford educated with a PhD and has been in the Middle East.
+[00:28:53.421 --> 00:28:55.701]  He headed platoons in Somalia.
+[00:28:56.721 --> 00:28:58.500]  We verified all of his documentation.
+[00:28:58.820 --> 00:29:01.020]  And now the stuff's out there for us to care about.
+[00:29:01.621 --> 00:29:06.060]  Like we all forget now about all the Epstein stuff about delivering kids to eat and rape and murder.
+[00:29:06.681 --> 00:29:07.780]  These are real things.
+[00:29:07.820 --> 00:29:13.161]  I mean, this is so Twilight Zone, but it's not episode Twilight Zone written by Rod Serling.
+[00:29:13.201 --> 00:29:13.860]  This is real.
+[00:29:14.820 --> 00:29:17.980]  How would you quantify the time we're in and all this stuff coming out?
+[00:29:18.020 --> 00:29:19.401]  And what do you think is happening with Trump?
+[00:29:21.000 --> 00:29:21.701]  Well, interesting.
+[00:29:21.961 --> 00:29:23.260]  You talk about the Epstein files.
+[00:29:23.760 --> 00:29:30.560]  Even in the Epstein files, he discloses EMF and RF government and military technology.
+[00:29:30.641 --> 00:29:32.520]  He's talking about this very frequency.
+[00:29:32.560 --> 00:29:33.480]  He's obsessed with it.
+[00:29:34.300 --> 00:29:35.681]  He talks about A frequency.
+[00:29:35.820 --> 00:29:36.161]  I forgot that.
+[00:29:36.201 --> 00:29:37.181]  He talks about A frequency.
+[00:29:38.480 --> 00:29:46.441]  Yeah, and how the police agencies and military were targeting individuals as young as 15 years old to 50 years old.
+[00:29:47.461 --> 00:29:49.320]  And they were using this remotely.
+[00:29:49.721 --> 00:30:00.201]  And since the early 2010s, and I really didn't understand it in the beginning, women would always say that they were being silently raped remotely.
+[00:30:01.861 --> 00:30:04.661]  And they were being targeted in those areas.
+[00:30:05.181 --> 00:30:07.221]  And they were just in tears.
+[00:30:07.260 --> 00:30:09.421]  And some of them just committed suicide because of it.
+[00:30:09.800 --> 00:30:10.800]  They just couldn't take it.
+[00:30:11.441 --> 00:30:16.921]  But it specifically talks about that sexual targeting that they were utilizing with this system.
+[00:30:17.520 --> 00:30:19.500]  It is just disgusting and sick.
+[00:30:19.961 --> 00:30:34.121]  But the bottom line is there's such a predominance of evidence now that we don't understand why our government agencies are not opening up a forum in which they are addressing the civilian cases.
+[00:30:34.341 --> 00:30:42.060]  Back in 2010 11, under the Obama administration, they had the Presidential Bioethics Commission.
+[00:30:42.681 --> 00:30:52.540]  In which, in their first meeting, that they allowed public testimony about this, 300 people showed up and they all gave testimony.
+[00:30:52.621 --> 00:30:55.240]  And what they were being told, you're just going to have to live with it.
+[00:30:55.800 --> 00:31:08.081]  And following those subsequent meetings of the presidential bioethics commissions, they stopped giving public testimony because of so many people showing up wanting to talk about this.
+[00:31:08.701 --> 00:31:12.141]  So they've known this for quite some time, they've swept it under the rugs.
+[00:31:12.540 --> 00:31:25.841]  There's no reason why the head doctor of a three letter agency would contact someone like me to tell me, yes, the symptoms are the same, but you have cases where you were surgically removing biosensors out of individuals.
+[00:31:26.421 --> 00:31:27.760]  Now, that's the old technology.
+[00:31:27.881 --> 00:31:30.681]  We're now into this nanotech phenomenon.
+[00:31:31.800 --> 00:31:40.780]  And this is why everyone needs to wake up now because the trailer will explain to you just exactly why you need to be concerned.
+[00:31:43.260 --> 00:31:44.260]  Well, it's just incredible.
+[00:31:45.221 --> 00:31:46.600]  But what about the paradox of Trump?
+[00:31:47.300 --> 00:31:48.181]  Because I'm only your opinion.
+[00:31:48.280 --> 00:31:48.900]  It's not some sign.
+[00:31:49.380 --> 00:31:54.320]  I mean, he's done so much good, and suddenly about eight months ago, he starts changing course, and I was getting worse and worse.
+[00:31:57.040 --> 00:31:58.300]  I'm very concerned about it.
+[00:31:59.201 --> 00:32:00.600]  Well, his ankles are huge now.
+[00:32:00.760 --> 00:32:01.660]  I mean, that's heart failure.
+[00:32:03.040 --> 00:32:03.380]  Correct.
+[00:32:04.360 --> 00:32:05.740]  Well, that is peripheral edema.
+[00:32:06.020 --> 00:32:12.860]  That means that the right side of the heart, for whatever reason, is now excreting fluid into the extremities.
+[00:32:13.900 --> 00:32:22.620]  Particularly, it starts on the right side and then eventually go to left sided heart failure, and then you'll start getting it into the lungs completely.
+[00:32:23.840 --> 00:32:25.480]  I hope they stay on top of that.
+[00:32:26.160 --> 00:32:27.461]  I am concerned about that.
+[00:32:27.880 --> 00:32:32.441]  But what is also concerning is he's accelerating the 6G implementation.
+[00:32:32.961 --> 00:32:37.540]  And he was asked by a reporter on that video, and it's out there if you search for it.
+[00:32:38.120 --> 00:32:41.020]  And she asked if he knew what it did.
+[00:32:41.120 --> 00:32:44.360]  And he goes, Oh, it penetrates the skin a little deeper, doesn't it?
+[00:32:44.961 --> 00:32:46.360]  I thought that was very odd.
+[00:32:47.060 --> 00:32:49.100]  And that should be concerning to everyone.
+[00:32:49.620 --> 00:32:51.120]  I forgot about that clip a few months ago.
+[00:32:51.681 --> 00:32:52.340]  What about 6G?
+[00:32:52.620 --> 00:32:53.560]  Oh, it penetrates the skin.
+[00:32:53.600 --> 00:32:58.120]  They admit it manipulates the body, the brain, the heart, and your respiratory system.
+[00:32:59.880 --> 00:33:00.240]  Correct.
+[00:33:00.640 --> 00:33:09.221]  They're trying to make everyone think that this new form of medicine, this frequency medicine, is going to be a great thing for you.
+[00:33:09.800 --> 00:33:20.160]  But I can tell you right now, I'm dead serious when I say this is probably worse than any nuclear bomb that has been created in our history because.
+[00:33:20.860 --> 00:33:22.080]  Just think about this.
+[00:33:22.600 --> 00:33:33.020]  You can be remotely tasted from a distance when this is integrated with this graphene oxide silicon based materials and this nanotech that's in you.
+[00:33:33.320 --> 00:33:39.320]  Let's be clear the nanotech they're putting in us on record with the shots and the food is the plug in, it's the receiver.
+[00:33:39.681 --> 00:33:41.360]  They're putting the receiver in us right now.
+[00:33:43.020 --> 00:33:43.880]  That is the antenna.
+[00:33:44.340 --> 00:33:50.540]  And that's why it's important to extrude as much of these toxic metals that make you the human antenna out of you.
+[00:33:52.600 --> 00:33:58.380]  What else, what else other than the zeolite, and this particular one is the best we know, what else does it?
+[00:34:00.561 --> 00:34:08.921]  You know, quite honestly, in my experience as an investigator, I haven't seen anything out there that produced the results that we have seen.
+[00:34:09.441 --> 00:34:10.141]  A period.
+[00:34:11.320 --> 00:34:16.900]  I just know this I go to Big Bend or the middle of the desert with no cell phone service, and I feel like I'm 10 years old again.
+[00:34:18.900 --> 00:34:22.101]  And I go into a big city, it's not psychosomatic, it's not placebo.
+[00:34:22.800 --> 00:34:25.001]  Everyone I know immediately feels sick once they go into a city.
+[00:34:26.820 --> 00:34:36.941]  Well, Alex, you know, when I just said I was in Virginia Beach, And we were detecting this new form of frequency in the waterfalls on the spectrum.
+[00:34:37.641 --> 00:34:40.961]  No longer is this frequency vertical, it is actually horizontal.
+[00:34:41.001 --> 00:34:42.360]  And we thought it was an anomaly.
+[00:34:43.461 --> 00:34:45.701]  And then we realized that it had a regular pattern.
+[00:34:46.441 --> 00:34:49.541]  And we realized this was that magic signal.
+[00:34:49.701 --> 00:34:53.340]  This is why it penetrates everywhere throughout this planet.
+[00:34:54.041 --> 00:35:02.041]  Let's be clear they know that with these giant bases in Australia, up by Dallas, you name it, these ultra low frequencies, they admit is matching Princeton and Minson.
+[00:35:02.760 --> 00:35:20.461]  The frequency of how butterflies that are born in Mexico takes three generations to get to Canada, and a super butterfly, there's documentaries on this, the monarch, is three times bigger, flies all the way down to the same tree where its ancestors were born to lay eggs that didn't do it.
+[00:35:21.021 --> 00:35:26.981]  And it's all these cones and rods and this electromagnetic stuff we have that the geese have, we have everything.
+[00:35:27.360 --> 00:35:30.820]  They're literally countering and challenging the very code of the universe.
+[00:35:30.860 --> 00:35:31.421]  It's insane.
+[00:35:32.941 --> 00:35:36.181]  Yeah, well, when we were down there on the beach, I thought.
+[00:35:37.260 --> 00:35:38.240]  I noticed something odd.
+[00:35:39.280 --> 00:35:45.201]  There were dead fish everywhere all over the beach, and the birds weren't eating them.
+[00:35:45.521 --> 00:35:48.521]  So I thought, well, this would be a meal fest for the seagulls there.
+[00:35:49.280 --> 00:35:52.780]  And the birds would not even touch these dead fish.
+[00:35:53.521 --> 00:36:05.941]  And we, someone we were interviewing there who had military connections, said that they're being told it's because of this frequency.
+[00:36:06.221 --> 00:36:07.161]  The fish are dying.
+[00:36:07.300 --> 00:36:09.201]  And the whales are beaching themselves.
+[00:36:09.300 --> 00:36:10.621]  The whales are beaching themselves.
+[00:36:11.081 --> 00:36:12.021]  Insect populations.
+[00:36:12.661 --> 00:36:13.800]  I mean, I'm 52.
+[00:36:14.300 --> 00:36:15.681]  And about, it started about 20 years ago.
+[00:36:16.121 --> 00:36:20.380]  You went anywhere in the spring, the summer, the fall, your car was covered with dead bugs.
+[00:36:22.161 --> 00:36:25.280]  I drive to our ranch in East Texas, two bugs on the windshield.
+[00:36:26.921 --> 00:36:27.581]  What is that?
+[00:36:30.961 --> 00:36:31.101]  Yeah.
+[00:36:31.641 --> 00:36:41.181]  Well, that whistleblower, when we released the full interview, he talks about, again, he had his PhD from Oxford in chemistry.
+[00:36:41.981 --> 00:36:47.041]  And he speaks about now this is completely in our ecosystem.
+[00:36:47.740 --> 00:36:51.780]  He says it's in our grasses, it's in our water, it's in our trees, it's everywhere.
+[00:36:52.721 --> 00:36:54.441]  Do you remember like 15 years ago?
+[00:36:55.820 --> 00:36:57.641]  What was the Johnny Depp movie, Singularity?
+[00:36:58.401 --> 00:37:03.320]  He is the AI and he becomes a dust and takes over the planet to guard it, but instead is to kill us.
+[00:37:05.280 --> 00:37:06.300]  It was called Singularity, right?
+[00:37:07.721 --> 00:37:07.901]  Yes.
+[00:37:08.501 --> 00:37:09.421]  Yes, I believe it was.
+[00:37:10.061 --> 00:37:11.401]  But I remember the film.
+[00:37:12.081 --> 00:37:14.361]  And that is what they're trying to create.
+[00:37:14.701 --> 00:37:21.541]  They say it's a smart dust because that's how you totally conquer people is a smart dust that invades them, takes over all lives, and the bugs all die.
+[00:37:23.840 --> 00:37:23.981]  Yeah.
+[00:37:24.181 --> 00:37:26.760]  Well, it's funny you talk about smart dust.
+[00:37:26.840 --> 00:37:30.421]  Wells Fargo Bank has a patent on.
+[00:37:31.320 --> 00:37:41.061]  Technology that utilizes smart dust in order to allow our biometrics to engage in commerce.
+[00:37:41.461 --> 00:37:49.701]  So, in other words, just utilizing your own human body to do monetary transactions.
+[00:37:50.641 --> 00:37:52.101]  And that was very recent.
+[00:37:52.401 --> 00:37:56.161]  Why does the banking system know about this or have access to it?
+[00:37:56.401 --> 00:38:03.901]  And Bill Gates has an eight year old patent on nanotech in our bodies, tracking us with satellites and controlling our movement.
+[00:38:06.240 --> 00:38:06.521]  Correct.
+[00:38:06.581 --> 00:38:12.740]  With his 65 satellites, he says he can cover every aspect of this planet just with 65.
+[00:38:15.240 --> 00:38:18.221]  Why do you think Trump had all this declassified and has now gone sideways?
+[00:38:20.221 --> 00:38:23.260]  I think he just, I think they might have dumped something in his drink or something.
+[00:38:25.121 --> 00:38:27.461]  Well, or he's being mind controlled.
+[00:38:29.161 --> 00:38:31.081]  And he's definitely being manipulated.
+[00:38:31.820 --> 00:38:46.001]  And the first thing that comes to mind, and it's very unsettling to me, Is that whoever is advising him on this is not being completely transparent about what this system is about?
+[00:38:48.081 --> 00:38:48.621]  Well said.
+[00:38:48.981 --> 00:38:49.820]  All right, let's do this.
+[00:38:50.701 --> 00:38:52.181]  Let's premiere the Died Suddenly 2.
+[00:38:52.421 --> 00:38:53.621]  When's Died Suddenly 2 coming out?
+[00:38:53.941 --> 00:38:55.141]  It was watched over 200 million times.
+[00:38:55.860 --> 00:38:56.760]  When's this part 2 coming out?
+[00:38:58.320 --> 00:39:01.280]  It's actually over a billion times, Died Suddenly 1.
+[00:39:01.681 --> 00:39:06.300]  And this one should be out, I've been told, in about two to three months.
+[00:39:06.501 --> 00:39:07.021]  All right.
+[00:39:07.561 --> 00:39:11.780]  We're going to air a Died Suddenly trailer, the MI6 whistleblower.
+[00:39:13.841 --> 00:39:17.781]  Rafae Hassell, Oxford educated, PhD chemistry, MI6 asset.
+[00:39:19.241 --> 00:39:24.981]  And then I want to air the clip three, two on these chips and all the rest of it.
+[00:39:25.021 --> 00:39:27.341]  But folks, this is all confirmed.
+[00:39:27.801 --> 00:39:31.261]  They're admitting it because they have to tell you in fine print, okay, we're doing it.
+[00:39:32.501 --> 00:39:34.061]  And you can see it everywhere.
+[00:39:35.121 --> 00:39:37.821]  Oh, big tech, billion dollar fines.
+[00:39:37.921 --> 00:39:40.241]  Oh, they tried to brainwash kids.
+[00:39:40.361 --> 00:39:41.421]  Yeah, it's everywhere.
+[00:39:42.041 --> 00:39:44.541]  And I say it's alien because the whole thing is anti human.
+[00:39:44.601 --> 00:39:45.781]  It's so sophisticated.
+[00:39:46.221 --> 00:39:47.101]  It's so powerful.
+[00:39:47.841 --> 00:39:52.141]  So let's air clip one, two, and three back to back.
+[00:39:52.181 --> 00:40:02.821]  And then we're going to get the great guy you've been working with, the visionary that has been dealing with all of this, Matt Hazen, on the other side of this because this is so important.
+[00:40:02.861 --> 00:40:06.241]  But folks, you've got to realize that we're powerful.
+[00:40:06.281 --> 00:40:07.501]  There's 9 billion of us.
+[00:40:08.401 --> 00:40:11.521]  And we are the ones that envisioned AI, we're the ones that came up with all this.
+[00:40:11.641 --> 00:40:13.161]  We are made the image of God.
+[00:40:13.221 --> 00:40:15.121]  We're not God, but as.
+[00:40:15.841 --> 00:40:18.161]  Genesis tells us we're made in the image of God, little God.
+[00:40:18.841 --> 00:40:20.521]  We are meant to challenge this.
+[00:40:20.601 --> 00:40:26.041]  We are meant to take on this threat and defeat it before we go to the next level.
+[00:40:26.421 --> 00:40:28.201]  This is all a giant test.
+[00:40:29.241 --> 00:40:30.221]  And it's so simple.
+[00:40:30.301 --> 00:40:32.561]  We have to ask God for guidance.
+[00:40:32.601 --> 00:40:34.421]  We have to get informed, use our brains.
+[00:40:35.561 --> 00:40:37.941]  People perish for lack of knowledge, and we have to understand it.
+[00:40:38.701 --> 00:40:40.981]  The globalists win if we're in the dark and don't admit this is happening.
+[00:40:41.141 --> 00:40:45.461]  I know it seems like a tall order to admit all this, but it's a bigger, tall order to surrender to this.
+[00:40:46.061 --> 00:40:48.061]  That's why God respects those that join evil.
+[00:40:48.661 --> 00:40:51.841]  More than those that just don't even know it and just, yeah, they're cowards.
+[00:40:52.121 --> 00:40:52.821]  God hates cowards.
+[00:40:53.561 --> 00:40:55.341]  God loves those that fight tyranny the most.
+[00:40:55.921 --> 00:40:58.001]  He's going to punish those that serve evil consciously.
+[00:40:58.421 --> 00:41:02.621]  But the ones that God hates the most are the lukewarm, I spit you out of my mouth.
+[00:41:03.241 --> 00:41:09.981]  So I would tell people, join God and fight this and be fully empowered and be given next level information and dial into the real transmission system.
+[00:41:10.521 --> 00:41:11.481]  That's what you should do.
+[00:41:11.601 --> 00:41:12.661]  Or join Satan.
+[00:41:13.421 --> 00:41:15.361]  You're in a better position than those that just are lazy.
+[00:41:16.721 --> 00:41:18.441]  Join God or join Satan.
+[00:41:18.601 --> 00:41:20.001]  Do not be in the middle of the road.
+[00:41:20.261 --> 00:41:20.881]  You get run over.
+[00:41:21.101 --> 00:41:21.681]  Here's these clips.
+[00:41:22.641 --> 00:41:25.261]  Well, it was once considered a conspiracy theory.
+[00:41:25.581 --> 00:41:27.581]  Mysterious brain injuries.
+[00:41:27.821 --> 00:41:37.521]  Declassified CIA documents prove that, yes, the CIA actually has been for decades researching how vaccines could be used for mind control.
+[00:41:37.721 --> 00:41:39.741]  A previously unknown weapon.
+[00:41:39.901 --> 00:41:45.461]  Brutal directed energy weapon systems that are designed to incapacitate.
+[00:41:45.561 --> 00:41:47.401]  Wounded by a secret weapon.
+[00:41:47.601 --> 00:41:51.721]  Individual over a certain period of time will produce psychological and physical reactions.
+[00:41:52.061 --> 00:41:52.901]  I immediately felt.
+[00:41:53.041 --> 00:41:54.401]  Fullness in my head.
+[00:41:54.781 --> 00:41:55.801]  Full body convulsion.
+[00:41:56.001 --> 00:41:57.681]  And just a piercing headache.
+[00:41:57.841 --> 00:41:59.281]  Like someone squeezing your head.
+[00:41:59.581 --> 00:42:01.761]  Absolutely life altering.
+[00:42:01.941 --> 00:42:04.761]  The incidents became known as Havana syndrome.
+[00:42:04.901 --> 00:42:05.721]  Havana syndrome.
+[00:42:05.841 --> 00:42:08.181]  Directed energy attacks on U.S. soil.
+[00:42:08.241 --> 00:42:16.261]  It was happening not only to our diplomats, it's happening to the best of our best in the FBI, the CIA, and now congressional members in Congress.
+[00:42:16.421 --> 00:42:18.741]  It is essentially a declaration of war against the United States.
+[00:42:18.841 --> 00:42:20.381]  Well, I'm not allowed to talk about it.
+[00:42:20.681 --> 00:42:22.901]  It discombobulated everything.
+[00:42:22.961 --> 00:42:24.521]  Is the government trying to mind control me?
+[00:42:24.761 --> 00:42:30.121]  There are a number of Resources that wanted to step out, and they're not alive anymore.
+[00:42:30.241 --> 00:42:33.921]  And they began to basically beat him to death.
+[00:42:34.101 --> 00:42:35.881]  Unfortunate that I didn't die.
+[00:42:36.061 --> 00:42:39.901]  Nobody on this planet has any right to battle tag human beings.
+[00:42:40.121 --> 00:42:41.781]  Nobody.
+[00:42:50.320 --> 00:42:51.680]  My name is Rafe Hassell.
+[00:42:51.720 --> 00:42:57.539]  I'm a British citizen after graduating from Oxford University with a degree in chemistry.
+[00:42:58.280 --> 00:43:08.340]  I was coerced into becoming an intelligence asset here in the United Kingdom.
+[00:43:09.700 --> 00:43:21.019]  The work, in inverted commas, that I've been doing involved a lot of technology that became known as related to Havana.
+[00:43:21.700 --> 00:43:22.200]  Syndrome.
+[00:43:22.340 --> 00:43:24.300]  There are several flavours of this technology.
+[00:43:24.980 --> 00:43:26.740]  It is not just for surveillance.
+[00:43:27.120 --> 00:43:33.160]  Fairly brutal directed energy weapon systems that are designed to incapacitate.
+[00:43:33.480 --> 00:43:39.720]  So, in my case, it is a dental implant, which I had absolutely no need for.
+[00:43:39.920 --> 00:43:48.240]  And in fact, the x rays show that it is a weird shaped object that is in my upper right molar.
+[00:43:48.620 --> 00:43:53.840]  I think it is completely fair to describe this technology as a means of synthetic.
+[00:43:54.460 --> 00:43:54.940]  Telepathy.
+[00:43:55.440 --> 00:43:56.519]  It has been used against me.
+[00:43:57.060 --> 00:44:02.000]  They wanted me to use this system for communications.
+[00:44:02.320 --> 00:44:07.980]  It can provide a digital signal of your internal monologue.
+[00:44:08.180 --> 00:44:24.780]  It was absolutely clear as day voice of one of my handlers to explain to me this is what we've got, this is where we're going with this, and actually, we think you're going to like it in the end.
+[00:44:24.920 --> 00:44:26.480]  So just stick with it.
+[00:44:26.760 --> 00:44:27.480]  And I was.
+[00:44:29.500 --> 00:44:33.200]  Shocked and I was furious.
+[00:44:35.460 --> 00:44:45.519]  I had what I then came to understand was a common attack vector, which is that I was at the sink.
+[00:44:45.720 --> 00:44:46.700]  This is so powerful.
+[00:44:46.760 --> 00:44:50.880]  That's been the case of a number of people that were washing my hands.
+[00:44:50.940 --> 00:44:55.400]  So clearly there is conductive effect, metal, sink, and so on.
+[00:44:56.200 --> 00:44:56.900]  By the way, hit pause.
+[00:44:56.960 --> 00:44:57.900]  Back this up 20 seconds.
+[00:44:58.980 --> 00:45:01.060]  I got here late because I don't want to review this before we play it.
+[00:45:01.340 --> 00:45:02.660]  This is premier stuff they're doing.
+[00:45:04.100 --> 00:45:05.680]  And I said synthetic telepathy.
+[00:45:05.760 --> 00:45:10.740]  I said artificial telepathy to block our regular telepathy that the Princeton just confirmed last month.
+[00:45:11.280 --> 00:45:14.580]  I hadn't seen this because normally I watch everything get ready for hours.
+[00:45:14.720 --> 00:45:15.760]  I had to go to a medical appointment.
+[00:45:15.840 --> 00:45:16.300]  I missed this.
+[00:45:16.920 --> 00:45:19.120]  I said artificial telepathy systems to block it.
+[00:45:19.580 --> 00:45:21.260]  And then you got the MI6 guy on record.
+[00:45:21.300 --> 00:45:22.380]  This is blowing me away.
+[00:45:22.519 --> 00:45:23.080]  Go back to it.
+[00:45:24.481 --> 00:45:31.521]  Back vector, which is that I was at the sink, and I think that's been the case of a number of people who have reported.
+[00:45:32.361 --> 00:45:37.681]  I was washing my hands, so clearly there is a conductive effect, metal, sink, and so on.
+[00:45:38.621 --> 00:45:52.260]  And then suddenly I just heard the crackle of electricity around the back of my head, but it was incredibly powerful and it knocked me to the floor.
+[00:45:53.141 --> 00:45:54.461]  I couldn't breathe.
+[00:45:54.901 --> 00:45:57.441]  It took me Years to recover.
+[00:45:58.621 --> 00:46:02.601]  But I was just a year or so, and I'm fortunate that I didn't die.
+[00:46:02.941 --> 00:46:09.101]  And that was my introduction, let me say, to the alternative version.
+[00:46:09.541 --> 00:46:12.401]  And that was not by my own government.
+[00:46:12.721 --> 00:46:13.661]  Wearable devices.
+[00:46:13.760 --> 00:46:25.280]  So these are brain sensors that are starting to be embedded in everyday devices, but until now have been a number of niche companies that really have focused on mindfulness and meditation.
+[00:46:25.401 --> 00:46:41.561]  The use of, for example, Brain sensors that can pick up electrical activity in the brain at a pretty low resolution, but advances in AI have both improved what the signal is that can come from the brain and enabled the miniaturization of those products.
+[00:46:42.181 --> 00:46:45.340]  We're not talking about implanted devices of the future.
+[00:46:45.901 --> 00:46:53.481]  I'm talking about wearable devices that are like Fitbits for your brain, but already using consumer wearable devices.
+[00:46:53.981 --> 00:46:59.041]  These are headbands, hats that have sensors that can pick up your brain.
+[00:46:59.081 --> 00:47:00.981]  You're not saying they're going to monitor employees with us.
+[00:47:01.240 --> 00:47:04.141]  Headphones, tiny tattoos that you can wear behind your ear.
+[00:47:04.961 --> 00:47:08.760]  We can pick up emotional states like, are you happy or sad or angry?
+[00:47:09.501 --> 00:47:12.381]  We can pick up and decode faces.
+[00:47:13.301 --> 00:47:14.721]  That you're seeing in your mind.
+[00:47:15.561 --> 00:47:20.061]  Simple shapes, numbers, your PIN number to your bank account.
+[00:47:20.501 --> 00:47:26.081]  You mentally move the cursor to the left and scroll through your brain data over the past few hours.
+[00:47:26.881 --> 00:47:36.661]  You can see your stress levels rising as the deadline to finish your memo approached, causing a peak in your beta brainwave activity right before an alert popped up.
+[00:47:36.701 --> 00:47:40.101]  I've now found that human brains are better for AI than silicon.
+[00:47:40.661 --> 00:47:42.981]  Are we prepared to be hardware for the hive mind?
+[00:47:44.841 --> 00:47:45.501]  We're brain chips.
+[00:47:45.601 --> 00:47:46.221]  We are the chips.
+[00:47:47.241 --> 00:47:51.221]  You send a text message to your doctor with a mental swipe of your cursor.
+[00:47:52.141 --> 00:47:53.961]  Could you take a quick look at my brain data?
+[00:47:54.761 --> 00:47:55.881]  Anything to worry about?
+[00:47:56.261 --> 00:48:01.261]  Initially, what they will be capable of doing is very high level brain state reading.
+[00:48:01.721 --> 00:48:03.141]  Things like are you tired?
+[00:48:03.481 --> 00:48:04.401]  Are you paying attention?
+[00:48:04.501 --> 00:48:05.721]  Is your mind wandering?
+[00:48:06.101 --> 00:48:07.421]  Are you happy or sad?
+[00:48:08.101 --> 00:48:13.301]  They maybe enable interaction like up, down, left, right for interaction with other technologies.
+[00:48:13.801 --> 00:48:16.921]  Artificial intelligence has enabled advances.
+[00:48:17.481 --> 00:48:19.081]  And decoding brain activity in.
+[00:48:19.121 --> 00:48:23.241]  There was a video where they said, like two years ago, we're going to track you at your job with earbuds.
+[00:48:23.981 --> 00:48:31.661]  A somber cloud has fallen over the office, along with emails, text messages and Gps location data.
+[00:48:32.421 --> 00:48:36.621]  The government has subpoenaed employees brainwave data from the past year.
+[00:48:36.841 --> 00:48:42.801]  They have compelling evidence that one of your co-workers has committed massive wire fraud.
+[00:48:43.601 --> 00:48:46.201]  Now they're looking for his co-conspirators.
+[00:48:46.981 --> 00:48:57.381]  You discover they are looking for synchronized brain activity Between your co worker and the people he has been working with, there's some really interesting research that we can plant false memories in the brain.
+[00:48:57.661 --> 00:49:14.261]  Or she successfully, in a number of experiments, has planted false memories, including people believing that they've been at Disney World with characters who are not Disney characters, taking photographs with those characters, or that they've seen a stop sign that wasn't actually there simply by manipulating images and stories that she tells to them.
+[00:49:14.301 --> 00:49:18.121]  And then they come back into the lab and they are convicted in their belief.
+[00:49:18.821 --> 00:49:21.121]  So we're going to treat you all, you're guilty until proven innocent.
+[00:49:21.301 --> 00:49:22.801]  They're the bad guys, they're going to program you.
+[00:49:22.841 --> 00:49:23.681]  This is MKUltra.
+[00:49:24.101 --> 00:49:26.181]  Going from beta to mainstream, isn't it, Jesse?
+[00:49:27.761 --> 00:49:28.421]  Absolutely.
+[00:49:29.261 --> 00:49:35.901]  This is basically psychic driving on steroids in a way we never could have imagined.
+[00:49:36.381 --> 00:49:40.141]  Now, you know, a lot of what she was talking about is old, old hag.
+[00:49:40.201 --> 00:49:40.981]  That's old news.
+[00:49:41.661 --> 00:49:44.141]  Yeah, they're just announcing the old stuff to the slaves.
+[00:49:44.201 --> 00:49:44.941]  You know the new stuff.
+[00:49:46.141 --> 00:49:46.521]  Correct.
+[00:49:46.661 --> 00:49:46.821]  Yeah.
+[00:49:47.261 --> 00:49:50.901]  And what that whistleblower disclosed, he said, you know, he had a different perspective.
+[00:49:50.941 --> 00:50:09.801]  He said, this synthetic telepathy system that, Is being, their agents are being basically ordered to utilize, and that they also are putting this in unknown individuals and they are becoming surveillance nodes.
+[00:50:10.301 --> 00:50:13.021]  So, you know, let's talk about that, but it's not about me being smart.
+[00:50:13.721 --> 00:50:14.721]  I just study this constantly.
+[00:50:15.161 --> 00:50:16.581]  Notice I usually review everything.
+[00:50:16.721 --> 00:50:17.821]  I didn't, I know these clips.
+[00:50:18.361 --> 00:50:23.741]  I said at the start, they want to block our normal telepathy with the synthetic, and then that's in the clip.
+[00:50:23.821 --> 00:50:25.801]  If that's what this is, like this is the truth.
+[00:50:26.701 --> 00:50:29.181]  Just like the fact that I even recognize it up front, this is it.
+[00:50:31.001 --> 00:50:31.721]  Yeah, absolutely.
+[00:50:32.201 --> 00:50:36.081]  And he says, you know, this system actually saved his life as a spy.
+[00:50:37.920 --> 00:50:46.260]  You know, it saved them because they didn't have to use traditional means like digital drop boxes and so forth, how they used to exchange information.
+[00:50:47.661 --> 00:50:57.461]  So, this was a way to create plausible liability when you're with the foreign entity that you're spying on and trying to get information from.
+[00:50:59.041 --> 00:51:01.721]  Well, this has happened a little bit in my life, but in the last five years.
+[00:51:02.760 --> 00:51:05.501]  The last five years, I've told the story and I've shown it on air.
+[00:51:05.940 --> 00:51:09.920]  I'm like, I've just been told Trump will announce this winning at 1 27, didn't say the time zone.
+[00:51:10.300 --> 00:51:11.380]  And it was because this thing happened.
+[00:51:12.481 --> 00:51:16.721]  But I literally get woken up and then said, Turn your phone on at this exact time, pay attention to this.
+[00:51:16.780 --> 00:51:17.880]  I'm saying, Is this like God?
+[00:51:18.400 --> 00:51:22.280]  Are you saying that could be maybe them using the broadcast system to do it, or who would be doing that?
+[00:51:22.800 --> 00:51:24.181]  Or would that be good guys using this?
+[00:51:24.561 --> 00:51:26.461]  Because do good guys have this control of this?
+[00:51:28.061 --> 00:51:29.601]  Well, here's the problem we're in a war.
+[00:51:30.400 --> 00:51:31.641]  We have several countries.
+[00:51:31.721 --> 00:51:32.521]  We have this tech.
+[00:51:32.800 --> 00:51:35.760]  Russia has been ahead of us on this tech.
+[00:51:36.260 --> 00:51:42.061]  For some time, you have the Chinese, you have the UK, and then you have India.
+[00:51:42.661 --> 00:51:42.961]  Okay.
+[00:51:43.780 --> 00:51:50.340]  What this whistleblower accidentally did is he disclosed who was doing this.
+[00:51:52.420 --> 00:52:10.800]  You know, the Colonel Egrin, and when they had that hearing on May 8th, 2024, in front of Congress, and when he discloses this is happening here on our homeland, and they come in, they did an investigation and say there's no Viable evidence that this is being done by a foreign adversary.
+[00:52:11.641 --> 00:52:15.440]  So the smart question would be then, is it us?
+[00:52:16.201 --> 00:52:17.581]  And they're denying it's us.
+[00:52:18.420 --> 00:52:24.880]  But the question that was never asked is this an ally who's experimenting on us?
+[00:52:25.440 --> 00:52:33.601]  And they've utilized plausible deniability by allowing access to us as citizens to be experimented on.
+[00:52:33.641 --> 00:52:34.340]  And that's what they always do.
+[00:52:34.420 --> 00:52:36.880]  They always use a foreign government for plausible deniability.
+[00:52:38.181 --> 00:52:38.461]  Correct.
+[00:52:39.121 --> 00:52:41.581]  But they never said it was an ally.
+[00:52:42.241 --> 00:52:44.361]  And that's the question that needed to be asked.
+[00:52:44.501 --> 00:52:50.021]  And when we compiled this interview, like I said, I interviewed him for, I had the opportunity to.
+[00:52:50.061 --> 00:52:52.021]  When is the full MI6 interview coming out?
+[00:52:52.101 --> 00:52:52.701]  That was amazing.
+[00:52:54.121 --> 00:52:55.201]  We're compiling it now.
+[00:52:55.621 --> 00:53:00.241]  We're compiling it now and we're strategizing on how to disseminate to the world.
+[00:53:01.381 --> 00:53:04.541]  Well, please, if you want to premiere it here, let's bring in Matt Hazen.
+[00:53:05.741 --> 00:53:07.061]  Tell us about Matt Hazen before we bring him in.
+[00:53:07.101 --> 00:53:10.961]  Because this guy has gone through so much and with the product.
+[00:53:11.441 --> 00:53:21.501]  Masterpiece, them trying to seize sea salts, that's just a normal thing, say it's a drug and everything to produce masterpiece that they definitely do not want people to have.
+[00:53:21.961 --> 00:53:22.781]  Tell us about Matt Hazen.
+[00:53:24.201 --> 00:53:28.561]  Well, Matt is the CEO of the company that produces masterpiece.
+[00:53:29.261 --> 00:53:31.901]  And him and I have become really, really good friends lately.
+[00:53:32.021 --> 00:53:35.241]  And I'll tell you, I rarely align myself.
+[00:53:35.561 --> 00:53:36.681]  My circle is very small.
+[00:53:37.461 --> 00:53:40.541]  And I can proudly say that Matt is now in my circle.
+[00:53:40.681 --> 00:53:41.761]  He's got a great heart.
+[00:53:42.401 --> 00:53:46.201]  He's got the right mission, and the mission is to save humanity.
+[00:53:47.001 --> 00:53:56.221]  And he just wanted to create something out there that can get rid of all of these poisonous toxins that we are being bombarded with.
+[00:53:56.421 --> 00:54:04.421]  And with the help of some just incredible people he surrounded himself with, he was able to accomplish that.
+[00:54:05.261 --> 00:54:06.401]  And we're working with top scientists.
+[00:54:06.441 --> 00:54:07.261]  Let's bring in Matt Aysen.
+[00:54:07.681 --> 00:54:10.221]  Matt, listening to this, I appreciate you holding when I was an hour and a half late.
+[00:54:10.261 --> 00:54:10.821]  I apologize.
+[00:54:11.641 --> 00:54:12.741]  Incredible what you're doing.
+[00:54:13.161 --> 00:54:19.201]  I was told when I first met you guys, like, you know, A year ago, that only air six months ago, like take desk, the dreams, everything.
+[00:54:19.241 --> 00:54:19.701]  It's amazing.
+[00:54:20.401 --> 00:54:23.141]  Zeolites overall pull out heavy metals that are great for detoxification.
+[00:54:23.181 --> 00:54:24.541]  Everybody knows that as a chelator.
+[00:54:24.821 --> 00:54:28.601]  But what is different about Masterpiece and what is it like to be in the middle of this big journey right now?
+[00:54:29.841 --> 00:54:30.661]  Yeah, absolutely.
+[00:54:30.821 --> 00:54:48.681]  So, you know, when we first started researching how we're going to come up with a formula that is going to get these toxins out of people, because we knew Agenda 2030, their keystone portion of that plan was to poison the people and, you know, obviously the poisons with the internal biosystem.
+[00:54:49.401 --> 00:54:59.101]  So, what we found was zeolite was known as the master binder, meaning it was just the very best at grabbing out all these poisons and toxins and environmental pollutants.
+[00:54:59.801 --> 00:55:05.981]  They, 99% of them, of the pollutants, have a positive magnetic charge.
+[00:55:06.841 --> 00:55:24.481]  And so, what we wanted to, what we ended up coming up with, with the help of the greatest nano colloidal formulators of our time that really put their very best and their wisdom and experience and their nanolabs that they were founders for into it for free.
+[00:55:24.721 --> 00:55:26.161]  Mind you, these guys did it for free.
+[00:55:26.281 --> 00:55:27.281]  What's to help humanity?
+[00:55:27.401 --> 00:55:35.641]  They've seen what the biotechnology segment of AI was leading to with this biometric interfacing, W band stuff.
+[00:55:36.281 --> 00:55:41.221]  And they knew that it was the end for not just their kids and families, but for all of us.
+[00:55:41.801 --> 00:55:49.501]  So, what we came up with was to get natural, the highest source zeolite down to the nanometer and picometer size.
+[00:55:49.581 --> 00:55:53.321]  And for anybody at home, that's like 10,000 times smaller than a single cell.
+[00:55:54.001 --> 00:56:00.421]  But that zeolite isn't just by itself, zeolite by itself is wonderful at pulling out toxins.
+[00:56:00.501 --> 00:56:10.021]  If you take powdered zeolite or if you put powdered zeolite in water, it is going to, whatever toxins the size of it is capable of getting to, it will grab out.
+[00:56:10.681 --> 00:56:11.901]  It won't get into your brain.
+[00:56:11.961 --> 00:56:17.581]  It won't get into the deepest recesses of your body unless you get it down to the nanometer and subnanometer size.
+[00:56:17.641 --> 00:56:19.041]  So that's what we did.
+[00:56:19.661 --> 00:56:23.341]  And it's joined up with the healthiest minerals.
+[00:56:23.781 --> 00:56:26.401]  So literally, the zeolite acts as a carrier.
+[00:56:27.141 --> 00:56:33.901]  It has the minerals magnetically on its back and it carries in those minerals to the deepest, deepest parts of the body.
+[00:56:34.521 --> 00:56:43.381]  Where when a toxin is magnetically drawn to it and it attracts to it, it hits the zeolite Z and displaces the minerals right where those toxins were.
+[00:56:43.861 --> 00:56:44.740]  So it's a very gentle.
+[00:56:45.501 --> 00:57:04.101]  But in our completed clinical studies, which we've done every type of clinical study there is out there to test detox and ability, we are the only ones that have actually completed the clinical studies that have been made into the gold standard of scientific validation, meaning it's beyond claims.
+[00:57:05.181 --> 00:57:15.001]  We are speaking facts and findings of the results from completed third party tested clinical studies that were also placebo controlled.
+[00:57:15.521 --> 00:57:19.501]  And what we found is graphene oxide, hydrogel, microplastics.
+[00:57:19.881 --> 00:57:22.401]  Heavy metals like aluminum, glyphosate.
+[00:57:22.501 --> 00:57:24.341]  Oh my gosh, glyphosate's a big one.
+[00:57:24.901 --> 00:57:32.281]  What we unfortunately found, Dallas, was even if people had fasted or not, whether they were in the United Kingdom or in America or not.
+[00:57:33.661 --> 00:57:37.861]  Everybody's loaded up with these poisons and toxins and pollutants and heavy metals.
+[00:57:38.541 --> 00:57:42.141]  And it's affecting everybody's health on every level.
+[00:57:43.161 --> 00:57:51.321]  We certainly didn't in the beginning think that we were going to be bringing Jesse Beltran into a study where he was the third party analyzer.
+[00:57:53.221 --> 00:57:54.541]  He was the most qualified.
+[00:57:55.581 --> 00:58:03.781]  We were forced to, but we had to see if our graphene oxide and silicon ability to.
+[00:58:04.081 --> 00:58:08.401]  We were removing graphene and silicon and microplastics and heavy metals.
+[00:58:08.981 --> 00:58:16.401]  We thought, well, this internal biosystem, since we can measure its strength and its operating capacity, then it should reduce.
+[00:58:17.221 --> 00:58:30.721]  And for us to complete the study and it be filmed, and it be filmed by maybe the most reputable film crew out there, the Died Suddenly Film Crew has never misappropriated anything.
+[00:58:30.901 --> 00:58:33.361]  So they actually filmed every minute of that study.
+[00:58:34.321 --> 00:58:42.781]  And for us to have real hope for humanity, And this will get out 80% of that biosystem.
+[00:58:43.861 --> 00:58:45.081]  It's been amazing, Alex.
+[00:58:45.461 --> 00:58:46.181]  We're targeted.
+[00:58:47.141 --> 00:58:50.001]  It's been unreal.
+[00:58:50.081 --> 00:58:50.881]  It's been surreal.
+[00:58:51.741 --> 00:59:02.081]  But we also know that everybody out there knows the significance, even the people in the agencies know the significance of the work that Jesse's uncovering and exposing and working on.
+[00:59:02.181 --> 00:59:07.801]  And there's a whole species of us that needs to be preserved.
+[00:59:08.181 --> 00:59:08.761]  Absolutely.
+[00:59:08.861 --> 00:59:11.341]  Let me go to this clip of one of the top British doctors in the UK.
+[00:59:12.021 --> 00:59:12.981]  He has billions of views.
+[00:59:13.681 --> 00:59:14.141]  Here he is.
+[00:59:14.701 --> 00:59:15.281]  He didn't believe in this.
+[00:59:15.341 --> 00:59:22.781]  He was pro-CobaShot admitting that it's creating these nanotech systems that we now know literally emit a frequency.
+[00:59:22.881 --> 00:59:23.341]  Here's the clip.
+[00:59:25.321 --> 00:59:28.241]  And the doctors and the pathologists aren't bouncing up and down about this.
+[00:59:28.301 --> 00:59:30.401]  It's just inexplicable.
+[00:59:31.041 --> 00:59:32.161]  Look, doctor.
+[00:59:32.781 --> 00:59:33.601]  Look, journal.
+[00:59:33.901 --> 00:59:35.001]  Here is the evidence.
+[00:59:35.041 --> 00:59:36.661]  Let me show it to you just in case you haven't got it.
+[00:59:37.081 --> 00:59:37.761]  There it is.
+[00:59:39.081 --> 00:59:39.721]  There it is.
+[00:59:40.241 --> 00:59:42.981]  Explain that because it's new.
+[00:59:44.721 --> 00:59:49.901]  So, senior research Bruce Rapley, one of the doctors, this is not just a big blood clot.
+[00:59:49.961 --> 00:59:52.301]  This is a fundamentally different architecture.
+[00:59:52.341 --> 00:59:54.981]  We're dealing with something new here.
+[00:59:56.461 --> 01:00:01.781]  The profound deficiency in plasminogen is like a building, building a structure impervious to its future demolition.
+[01:00:02.401 --> 01:00:06.141]  So, there's no plasminogen to be converted to plasmin to break the clot down.
+[01:00:06.621 --> 01:00:08.061]  So, it's not broken down, it persists.
+[01:00:08.541 --> 01:00:15.841]  And we've seen great big long versions of this that have been taken out of blood vessels in the embalming situation.
+[01:00:17.321 --> 01:00:21.081]  It's designed to persist, or it persists.
+[01:00:22.761 --> 01:00:29.501]  The elemental data confirms it's not just protein, it's a hybrid material our bodies are forced to make, but not equipped to clear.
+[01:00:31.021 --> 01:00:33.001]  This holds a significant health implication.
+[01:00:33.701 --> 01:00:48.881]  The researchers note that the formation of such persistent obstructing material in blood vessels, particularly in the microvasculature, will lead to chronic oxygen lack, organ damage, pain exhaustion, and cascades of inflammatory.
+[01:00:49.801 --> 01:00:50.541]  Pathology.
+[01:00:51.321 --> 01:00:56.821]  And of course, if they're big, it's inconsistent with life because it's going to block off the circulatory system.
+[01:00:58.740 --> 01:01:03.641]  Again, just making it so much more surprising that this is not talked about in the mainstream journals.
+[01:01:06.821 --> 01:01:07.861]  This can't be hidden forever.
+[01:01:07.941 --> 01:01:09.281]  It will come out sooner or later.
+[01:01:09.321 --> 01:01:11.021]  This is such an obvious new pathology.
+[01:01:11.961 --> 01:01:14.021]  It will come out, but not yet.
+[01:01:15.321 --> 01:01:19.181]  Only in these publications.
+[01:01:20.240 --> 01:01:22.201]  That makes it public but are not mainstream.
+[01:01:23.401 --> 01:01:43.321]  The study concludes that the clots, the anomalous intravascular casts, AICs, provide a mechanistically coherent explanation for persistent vascular obstruction, impaired tissue perfusion, inflammation, and a broad spectrum of acute and chronic organ dysfunction.
+[01:01:44.061 --> 01:01:51.221]  And of course, I would add it might make it so that some people are no longer with us anymore.
+[01:01:53.261 --> 01:01:55.641]  So, this is a giant attack, Matt Hazen.
+[01:01:56.381 --> 01:02:00.921]  This is going on, and humanity is waking up to it.
+[01:02:01.681 --> 01:02:02.581]  Your take on this.
+[01:02:04.601 --> 01:02:05.721]  You know, this is very real.
+[01:02:05.780 --> 01:02:12.381]  Guys, suddenly, film crew spent a lot of time going around with an embalmer and seeing those types of microplots.
+[01:02:12.421 --> 01:02:16.320]  These things were not happening in human bodies before 2021.
+[01:02:16.921 --> 01:02:24.961]  My best friend, Dr. Robert Oldham Young, the most published peer reviewed scientist of our time, was also publishing on the different vials.
+[01:02:25.021 --> 01:02:32.740]  He had 1,200 samples and he did a double blinded peer reviewed study showing that we have an mRNA delivery system that is.
+[01:02:33.300 --> 01:02:41.381]  Bringing in payloads of graphene oxide and silicon and lanthanides, the components that build an electronic circuitry system.
+[01:02:41.941 --> 01:02:51.760]  And go figure World Economic Forum for three decades wasn't talking about their end game being the fourth industrial revolution, the takeover of the human body from the inside out.
+[01:02:51.820 --> 01:02:54.300]  They weren't actually playing, they were very serious.
+[01:02:54.881 --> 01:02:55.800]  And that day's come.
+[01:02:55.861 --> 01:03:02.561]  We're dealing with people at very high levels that are being very well controlled with the system.
+[01:03:02.981 --> 01:03:10.721]  That MI6 whistleblower, who has the same level as a lieutenant general, He says that this is synthetic telepathy.
+[01:03:10.840 --> 01:03:15.981]  That this system for these agents, they don't have to record stuff and email anymore.
+[01:03:16.121 --> 01:03:22.280]  Everything they're seeing, everything they're hearing, everything they're thinking is being recorded by this system.
+[01:03:22.941 --> 01:03:26.461]  That means it has a permanent harvesting data ability to it.
+[01:03:26.541 --> 01:03:28.161]  That's obviously our interface.
+[01:03:28.421 --> 01:03:31.881]  They now know 5G, all of it is right at the same brain wavelength.
+[01:03:32.800 --> 01:03:33.461]  It's all coded.
+[01:03:33.521 --> 01:03:34.081]  They can get it all.
+[01:03:35.280 --> 01:03:36.840]  Yeah, they can get it all.
+[01:03:36.901 --> 01:03:38.621]  And the brain initiative.
+[01:03:39.141 --> 01:03:46.561]  Barack Obama didn't start spending a billion dollars a year leveraging every gain of function and nanolab and university lab for no reason.
+[01:03:46.641 --> 01:03:47.921]  They wanted to figure out how to do it.
+[01:03:47.961 --> 01:03:53.641]  And they want the AI to track it all in live time because they're getting the data now, but they don't know how to process it all.
+[01:03:54.061 --> 01:03:55.421]  That's what the total AI is about.
+[01:03:56.521 --> 01:03:57.740]  Yeah, absolutely.
+[01:03:57.820 --> 01:04:13.901]  And we're seeing it in real time because what we're seeing is we're seeing people like Donald Trump and other people of influence and power and resources that should be above the law and should be making better decisions to, well, save America, save everything.
+[01:04:14.381 --> 01:04:16.721]  Save our species, and they're doing the exact opposite.
+[01:04:16.760 --> 01:04:19.481]  Yeah, why do you think Trump started going sideways the last eight months?
+[01:04:20.641 --> 01:04:37.361]  You know, my personal take is this every single person that Jeffy Beltran has analyzed since 2021, including the healthiest people on earth that I know that I brought to him specifically, is testing for these radio frequency emitting silicon based electronic circuitry locations in their body.
+[01:04:37.961 --> 01:04:54.061]  And if they're beta testing schizophrenics and UFO abductees and all these people, and we're seeing it in all the agencies that they're using aspects and facets of the system, I'd have to say Donald Trump is having this system used on him and making and forcing him.
+[01:04:54.521 --> 01:04:58.961]  He knows he better make the right decision because it's a button away from him being a robot.
+[01:04:59.061 --> 01:04:59.521]  That's right.
+[01:04:59.581 --> 01:05:00.441]  We know they have this.
+[01:05:00.501 --> 01:05:01.661]  They're turning him into a robot.
+[01:05:02.501 --> 01:05:03.481]  Yeah, yeah.
+[01:05:03.561 --> 01:05:05.781]  Everybody needs to know about Masterpiece ZLIZ.
+[01:05:06.421 --> 01:05:10.740]  The fact of the matter is, it's something to grab the toxins out of the deepest parts of the body.
+[01:05:10.781 --> 01:05:12.721]  President Trump needs the antidote.
+[01:05:12.781 --> 01:05:13.441]  He needs this.
+[01:05:13.721 --> 01:05:15.421]  Yes, yes, absolutely.
+[01:05:15.661 --> 01:05:16.321]  You better believe it.
+[01:05:16.601 --> 01:05:18.541]  Everybody that needs to make a decision, listen.
+[01:05:19.181 --> 01:05:21.801]  By the way, anything going on in the universe, God always gives an antidote.
+[01:05:22.481 --> 01:05:24.761]  And I'm sure this is one, but there's others.
+[01:05:25.541 --> 01:05:27.801]  You obviously need to do whatever it is that blocks this.
+[01:05:28.881 --> 01:05:29.901]  Yes, yes.
+[01:05:30.281 --> 01:05:42.081]  Alex, this formula, what we're talking about, is identical to what we see on planet Earth, which is where we can all look for antidotes in nature, God's creation.
+[01:05:42.561 --> 01:05:48.901]  And where do we find the cleanest, purest, most vibrant, electrically conductive seawaters?
+[01:05:49.121 --> 01:05:55.201]  Which, by the way, our bodies are 99.5% identical isotonic sea plasma.
+[01:05:55.521 --> 01:05:59.161]  That's what our bodies are made of minerals and water molecules.
+[01:05:59.781 --> 01:06:12.361]  And where we look into nature and find the cleanest waters, all we did was nano size that zeolite, put it together with the seawater, structure it in the most natural, best way to do that, and let it do its work.
+[01:06:12.601 --> 01:06:13.321]  But that makes sense.
+[01:06:13.421 --> 01:06:17.981]  Not just have a zeolite pull toxins, repair it with good minerals on top of it.
+[01:06:18.021 --> 01:06:18.240]  That's right.
+[01:06:18.281 --> 01:06:18.601]  Yes, it has to be.
+[01:06:18.641 --> 01:06:19.001]  Zeolite is amazing.
+[01:06:19.041 --> 01:06:25.501]  It's just not a hundredth of what nano size zeolite with minerals does for the body.
+[01:06:25.541 --> 01:06:27.961]  Yes, that's right.
+[01:06:28.001 --> 01:06:28.501]  Incredible.
+[01:06:29.141 --> 01:06:29.521]  All right.
+[01:06:29.601 --> 01:06:33.341]  Well, Just in general, then, I'm going to have you guys back up.
+[01:06:33.421 --> 01:06:36.881]  I got a bunch of medical doctors and scientists you're working with, we've already interviewed, but that was six months ago.
+[01:06:37.001 --> 01:06:37.581]  Time flies.
+[01:06:37.641 --> 01:06:38.661]  We need to get on this now.
+[01:06:39.541 --> 01:06:42.221]  But this is a revolution, and we can't just sit here and take this.
+[01:06:42.281 --> 01:06:43.161]  We've got to take action.
+[01:06:44.121 --> 01:06:47.301]  So I want to go back to Jesse Beltran and get final comments for you, Matt Hazen.
+[01:06:47.761 --> 01:06:52.001]  Jesse, five minutes, closing comments here about what's coming next, where we're going, what's happening.
+[01:06:53.461 --> 01:07:02.801]  Well, what's coming next is, like I said, we're about to interview the whistleblower who found the MKUltra documents that were misfiled.
+[01:07:03.661 --> 01:07:08.461]  And he's a neurologist, and so it'll be interesting to get his take.
+[01:07:08.641 --> 01:07:20.901]  I know he's very well versed in this topic and the mind control agenda, and putting that together with the full disclosed disclosure that the MI6 whistleblower gave us.
+[01:07:21.481 --> 01:07:29.661]  Plus, we're going to be showing everyone this frequency anomaly that we found that basically penetrates the entire globe.
+[01:07:29.681 --> 01:07:34.601]  124,000 mile propagation.
+[01:07:35.861 --> 01:07:39.141]  Basically, it circles our planet five times.
+[01:07:39.821 --> 01:07:42.301]  And so, this is what we're dealing with.
+[01:07:42.581 --> 01:07:44.401]  It's important that everyone wakes up.
+[01:07:45.581 --> 01:07:46.761]  We need your help out there.
+[01:07:46.901 --> 01:07:54.021]  There's a website called stop3024.com, which basically allows right now.
+[01:07:54.161 --> 01:07:54.740]  Say that again.
+[01:07:54.921 --> 01:07:56.501]  Stop, stop.
+[01:07:57.981 --> 01:07:58.601]  Stop3024.com.
+[01:07:59.201 --> 01:08:03.801]  It is legal to experiment on us currently without our consent.
+[01:08:04.521 --> 01:08:05.181]  So, it's important.
+[01:08:05.221 --> 01:08:07.601]  Oh, U.S. Code Title 32, Subchapter 1.
+[01:08:08.341 --> 01:08:09.981]  It's in the U.S. Code, the illegal testing.
+[01:08:10.781 --> 01:08:11.481]  I mean, they admit it.
+[01:08:12.941 --> 01:08:13.261]  Correct.
+[01:08:13.881 --> 01:08:14.701]  And we need to stop it.
+[01:08:15.221 --> 01:08:15.921]  It needs to stop.
+[01:08:16.421 --> 01:08:18.400]  There is no future for our children for freedom.
+[01:08:18.541 --> 01:08:25.740]  This is slavery on a level that no human being has ever been.
+[01:08:25.780 --> 01:08:26.801]  And it's not denied.
+[01:08:26.860 --> 01:08:28.261]  They admit they've been doing this now.
+[01:08:28.681 --> 01:08:32.421]  Why do you think, as bad as Trump's gotten, at least a bunch of this came out?
+[01:08:32.480 --> 01:08:33.280]  What was the point of that?
+[01:08:33.360 --> 01:08:35.121]  What do you guys think, Matt?
+[01:08:35.201 --> 01:08:44.601]  You know, my wheelhouse has to remain in protecting and securing the antidote, literally.
+[01:08:45.841 --> 01:08:50.721]  And so I have to keep my framework solely based in that, Alex.
+[01:08:51.161 --> 01:08:51.661]  I really do.
+[01:08:51.980 --> 01:09:00.641]  I just can see from all the work of watching Jesse, everybody has this system has been dropped in everybody.
+[01:09:00.740 --> 01:09:03.561]  We've seen very healthy people where the system is in them.
+[01:09:04.280 --> 01:09:08.480]  And their personal sovereignty has been taken from them.
+[01:09:08.601 --> 01:09:16.701]  And we have to assume the people at the top that had handlers and controllers this is the new way to do it on steroids to control them.
+[01:09:17.341 --> 01:09:19.400]  And, you know, so we want to.
+[01:09:20.860 --> 01:09:37.101]  My job is to literally make people aware of there is filmed, completed, proper clinical studies which show the dismantling of this internal transhuman biosystem, this interfacing system to the globalist hack of humanity.
+[01:09:37.201 --> 01:09:38.480]  We're exposing the globalist hack.
+[01:09:39.501 --> 01:09:43.541]  The keystone of the endgame of Agenda 2030.
+[01:09:43.841 --> 01:09:49.721]  We have filmed with the most reputable film crew how to get 80% of their game plan out of your body.
+[01:09:51.021 --> 01:09:51.501]  Incredible.
+[01:09:53.161 --> 01:09:55.900]  Jesse Beltran, you guys tell me who to get on.
+[01:09:55.940 --> 01:09:57.021]  I know you have this medical daughter's side.
+[01:09:57.061 --> 01:09:58.301]  We already had them on, but you have them back.
+[01:09:58.701 --> 01:09:59.621]  We need to hit the service.
+[01:09:59.661 --> 01:10:00.721]  People are ready for the truth right now.
+[01:10:00.801 --> 01:10:01.240]  Jesse Beltran.
+[01:10:01.280 --> 01:10:22.881]  Yeah, well, you know, the experts that we need to bring forward need to be rest assured that their medical licenses and their livelihoods are not going to be taken away because these doctors who are coming forward.
+[01:10:24.181 --> 01:10:30.161]  Have had their license taken away, particularly the ones who have done the surgeries when they were told you are not to take out implants out of humans.
+[01:10:31.201 --> 01:10:32.820]  So we need to stop that.
+[01:10:32.921 --> 01:10:38.681]  So, just like the hundreds of thousands of nurses and doctors that were fired for exposing COVID fraud.
+[01:10:39.900 --> 01:10:46.381]  Yeah, and fortunately enough, we do have some doctors who are stepping up, but they want us to protect them.
+[01:10:46.480 --> 01:10:53.201]  And like currently, there is a doctor on the East Coast that we're utilizing now who's stepped up and he's a hero.
+[01:10:54.201 --> 01:10:55.621]  But we have strict NDAs.
+[01:10:55.980 --> 01:11:05.921]  We have to protect these doctors so that they can continue to help people freely without concern that their livelihood is going to take away because everyone's got a mortgage.
+[01:11:05.980 --> 01:11:07.501]  Everyone has to support their families.
+[01:11:07.560 --> 01:11:09.801]  Everyone has to put food on the table.
+[01:11:10.280 --> 01:11:12.860]  So we really have to change these dynamics.
+[01:11:14.001 --> 01:11:17.020]  We do have some whistleblowers who are willing to come forward.
+[01:11:17.421 --> 01:11:30.780]  I think Dr. Madaj, which is a good friend of Matt, she talked about how, you know, these corporate agencies were trying to tell her to be on the other side because being on our side was not going to be good.
+[01:11:30.860 --> 01:11:32.060]  It was going to be very bad.
+[01:11:33.341 --> 01:11:40.381]  There are a lot of doctors like this who have disclosed this, and we need to continue to push forward this mission.
+[01:11:40.900 --> 01:11:43.820]  People like you, Alex, I mean, you're an American hero.
+[01:11:44.520 --> 01:11:45.921]  You're, you know, we're all.
+[01:11:46.360 --> 01:11:48.400]  We're all red blooded Americans.
+[01:11:48.480 --> 01:11:49.301]  We bleed the same.
+[01:11:49.360 --> 01:11:50.221]  We breed the same.
+[01:11:50.801 --> 01:12:01.060]  And this divide and conquer mechanism, which is by design and keeping us in fear in these altered states, which makes us more hypersuggestible.
+[01:12:01.461 --> 01:12:09.240]  And then you utilize technology in order to alter your biochemistry, your moods, your thinking.
+[01:12:10.121 --> 01:12:12.640]  All of this is by design and construct.
+[01:12:12.961 --> 01:12:15.721]  But as G.I. Joe says, knowing is half the battle.
+[01:12:17.121 --> 01:12:17.480]  Correct.
+[01:12:18.121 --> 01:12:21.400]  Being aware and educated is the first line of defense.
+[01:12:21.541 --> 01:12:28.740]  Knowing what your internal voice is, your moral compass is, whatever that may be, you know what that God given voice is.
+[01:12:28.820 --> 01:12:32.820]  And we know the whole media, the whole cultures, and assault families and humans.
+[01:12:32.881 --> 01:12:34.740]  It's a satanic alien attack.
+[01:12:35.261 --> 01:12:36.140]  Gentlemen, incredible.
+[01:12:37.400 --> 01:12:38.701]  Matt Hazen, how do people find you?
+[01:12:38.881 --> 01:12:41.180]  How do people find the great work you're doing, particularly you individually?
+[01:12:43.940 --> 01:12:44.721]  You know what, Alex?
+[01:12:45.261 --> 01:12:54.940]  Besides me being the main steward for Masterpiece, and I mean, I have a plethora of experts that are surrounding me and with me, I'm just a dad from Kansas.
+[01:12:55.461 --> 01:13:01.020]  So look me up, you're just going to find about a regular old guy that just wants a better world for his family.
+[01:13:01.140 --> 01:13:05.180]  And I know that leads to a better world for all of our communities and all of our world.
+[01:13:05.780 --> 01:13:14.041]  But I will say if you want to be a part of the solution, it starts with your individual empowerment, keeping your mental sovereignty.
+[01:13:14.621 --> 01:13:18.320]  Keeping your ability to critically think, feeling better, thinking better, doing better.
+[01:13:18.621 --> 01:13:24.280]  That's all going to be done by getting out the biggest part of their game plan against all of humanity, which was poisoning us.
+[01:13:25.041 --> 01:13:25.980]  Literally.
+[01:13:26.020 --> 01:13:27.140]  And so they're doing that.
+[01:13:27.261 --> 01:13:29.541]  And this is the counter research to do that.
+[01:13:29.581 --> 01:13:31.221]  What you guys have done is groundbreaking.
+[01:13:31.261 --> 01:13:32.560]  We're sure there'll be other things that are discovered.
+[01:13:32.900 --> 01:13:33.600]  They don't like this.
+[01:13:33.680 --> 01:13:34.721]  They don't want to recognize the enemy.
+[01:13:34.761 --> 01:13:35.961]  They don't want to know about the problem.
+[01:13:36.501 --> 01:13:38.661]  I want to salute you and Jesse Beltran.
+[01:13:39.240 --> 01:13:40.381]  Jesse, again, where do people find you?
+[01:13:42.520 --> 01:13:44.221]  Mind Nexus Live.
+[01:13:44.360 --> 01:13:46.301]  M I N D N E X U S Live.
+[01:13:47.881 --> 01:13:49.421]  You can go there, ask any questions.
+[01:13:49.501 --> 01:13:53.761]  If you think this is happening to you or someone you love or care about, just reach out.
+[01:13:53.881 --> 01:13:56.740]  Our staff is pretty diligent on getting back to you very quickly.
+[01:13:57.320 --> 01:14:00.560]  And then we can coach you on how to go through the process.
+[01:14:00.600 --> 01:14:04.701]  At MindNexusLiveOnX and MindLexusLive.com, MindLexus.com.
+[01:14:04.921 --> 01:14:06.940]  All right, gentlemen, let's do a whole bunch of interviews.
+[01:14:07.520 --> 01:14:08.761]  Let's hammer this hard.
+[01:14:08.801 --> 01:14:09.661]  People are ready for the truth.
+[01:14:10.001 --> 01:14:10.600]  Thank you so much.
+[01:14:10.680 --> 01:14:11.221]  Incredible job.
+[01:14:11.261 --> 01:14:15.480]  People can get the masterpiece Zeolite with the special CSULs.
+[01:14:16.020 --> 01:14:16.900]  That's a whole other story.
+[01:14:17.060 --> 01:14:19.360]  I try to stop you guys even doing this, which is just CSUL.
+[01:14:19.701 --> 01:14:20.581]  How scared they are.
+[01:14:21.180 --> 01:14:22.721]  Of all of this, this is incredible.
+[01:14:23.161 --> 01:14:25.060]  Thank you so much for everything evil, folks.
+[01:14:25.100 --> 01:14:26.461]  There's something 10 times stronger with good.
+[01:14:26.900 --> 01:14:28.121]  That's what it's all about, gentlemen.
+[01:14:28.221 --> 01:14:28.780]  Great job.
+[01:14:29.301 --> 01:14:31.680]  Come on the next few days on my InfoWars show.
+[01:14:32.081 --> 01:14:32.900]  Let's do it next week.
+[01:14:33.400 --> 01:14:34.060]  Tell me who to get on.
+[01:14:34.100 --> 01:14:34.400]  All the best.
+[01:14:34.480 --> 01:14:35.721]  I know I already had some of the doctors on.
+[01:14:36.121 --> 01:14:36.841]  Great job and thank you.
+[01:14:36.881 --> 01:14:38.541]  Awesome.
+[01:14:38.820 --> 01:14:39.360]  Thank you, Alex.
+[01:14:39.421 --> 01:14:40.841]  We appreciate you doing what you're doing now.
+[01:14:40.881 --> 01:14:42.301]  Keep doing what you're doing.
+[01:14:42.360 --> 01:14:44.820]  You and Tucker and Candace, there's not too many of you guys doing.
+[01:14:44.881 --> 01:14:46.381]  Just push, keep going.
+[01:14:46.421 --> 01:14:47.001]  We're trying, brother.
+[01:14:47.041 --> 01:14:47.320]  Thank you.
+[01:14:47.841 --> 01:14:48.440]  All right, listeners.
+[01:14:48.780 --> 01:14:49.820]  That's it for this transmission.
+[01:14:49.860 --> 01:14:50.240]  Great job.
+[01:14:50.280 --> 01:14:51.661]  The crew working so hard.
+[01:14:51.701 --> 01:14:53.081]  Some of the people have been here since 6 a.m.
+[01:14:53.560 --> 01:14:54.701]  Running American Journal this morning.
+[01:14:54.740 --> 01:14:55.940]  Want to thank Matt and the rest of the crew.
+[01:14:57.180 --> 01:15:00.020]  I'll see you tomorrow, 11 a.m. Central, for the Infor Studios.
+[01:15:00.461 --> 01:15:01.180]  We're so embattled.
+[01:15:01.221 --> 01:15:01.881]  Thanks for the support.
+[01:15:02.221 --> 01:15:04.020]  Masterpiece.health.
+[01:15:04.860 --> 01:15:06.780]  And then you go to masterpiece.health.
+[01:15:08.221 --> 01:15:09.561]  And there's a forward slash in that.
+[01:15:10.681 --> 01:15:15.441]  And then you can forward slash Alex, masterpiece health.
+[01:15:16.401 --> 01:15:17.021]  forward slash Alex.
+[01:15:17.301 --> 01:15:18.461]  We might want to add that to that.
+[01:15:18.581 --> 01:15:19.501]  That'd probably be good for him.
+[01:15:19.861 --> 01:15:20.201]  There you go.
+[01:15:20.501 --> 01:15:23.721]  Masterpiece. health forward slash Alex for 11% off.
+[01:15:24.321 --> 01:15:30.581]  Or if you just go to masterpiece. health and then just say Alex at promo code is 10% off.
+[01:15:30.921 --> 01:15:31.821]  It really is amazing.
+[01:15:32.301 --> 01:15:35.541]  I remember like a year ago, they still got a train with.
+[01:15:35.581 --> 01:15:37.021]  He's like, you got to take this masterpiece.
+[01:15:37.501 --> 01:15:38.240]  I'm not taking zeolite.
+[01:15:38.280 --> 01:15:38.841]  You got to detoxify.
+[01:15:38.941 --> 01:15:39.561]  Yeah, you piss purple.
+[01:15:39.621 --> 01:15:40.041]  It's good for you.
+[01:15:40.081 --> 01:15:40.541]  I take them.
+[01:15:40.941 --> 01:15:41.641]  You know, I got something.
+[01:15:41.681 --> 01:15:43.641]  You're like, no, this is different.
+[01:15:43.681 --> 01:15:44.740]  And so I took it about six months ago.
+[01:15:44.780 --> 01:15:49.921]  I'm like, whoa, the dreams, everything, all of it together, the methylene blue, all of it.
+[01:15:49.981 --> 01:15:50.561]  I'm just like, whoa.
+[01:15:51.361 --> 01:15:54.481]  And I started talking to these guys because of Sean Johnson.
+[01:15:55.041 --> 01:15:57.601]  That's the only reason when Sean Johnson interviewed these guys, I didn't even know what they were doing.
+[01:15:57.941 --> 01:16:00.721]  All this crazy stuff, all these interviews, all these whistleblowers.
+[01:16:00.761 --> 01:16:05.780]  Because there's so much people always call me on the air and they go, hey, why aren't you covering this?
+[01:16:06.041 --> 01:16:07.341]  And I'm like, what is it?
+[01:16:07.621 --> 01:16:09.280]  And I'm like, whoa, I know what's happening.
+[01:16:09.801 --> 01:16:10.701]  Dude, I ain't God.
+[01:16:10.881 --> 01:16:11.601]  I'm far from it.
+[01:16:12.421 --> 01:16:13.561]  There's a lot I don't know.
+[01:16:14.701 --> 01:16:18.261]  And so I want to thank Sean Johns for telling me about Jesse Beltran.
+[01:16:18.341 --> 01:16:20.461]  He said, Hey, I'm going to get this like eight months ago.
+[01:16:20.501 --> 01:16:21.661]  He goes, Jesse's going to fly here.
+[01:16:22.161 --> 01:16:23.301]  So Jesse came to my house tomorrow.
+[01:16:23.341 --> 01:16:24.661]  We had breakfast, went for a long hike.
+[01:16:25.481 --> 01:16:27.381]  And I was like, Wow, this guy's really smart.
+[01:16:27.941 --> 01:16:28.961]  And that's how this works.
+[01:16:29.021 --> 01:16:31.061]  So listeners are always like, Do you know about this?
+[01:16:31.121 --> 01:16:31.521]  You know about that?
+[01:16:31.621 --> 01:16:33.461]  No, guys, I'm teaching you.
+[01:16:33.601 --> 01:16:34.341]  You're teaching me.
+[01:16:35.780 --> 01:16:35.961]  Okay.
+[01:16:37.721 --> 01:16:40.121]  But I hadn't seen the clips they sent.
+[01:16:40.321 --> 01:16:42.121]  It's almost always I watch the clips before you go on air.
+[01:16:43.141 --> 01:16:44.240]  I said, Send me your stuff on air.
+[01:16:44.901 --> 01:16:45.461]  And I got it.
+[01:16:46.701 --> 01:16:48.621]  But I was, I got here late so I could see it.
+[01:16:48.661 --> 01:16:52.841]  And I'm like, they want to challenge our normal latent psychic powers that God gave us.
+[01:16:53.121 --> 01:16:53.581]  And I explained them.
+[01:16:53.621 --> 01:16:54.740]  And then all of a sudden, I put the clips.
+[01:16:54.780 --> 01:16:55.761]  It's all about that with MI6.
+[01:16:57.001 --> 01:16:59.961]  See, this stuff finishes the sentences for itself.
+[01:17:00.401 --> 01:17:01.141]  It's simpatico.
+[01:17:01.581 --> 01:17:02.061]  It's the truth.
+[01:17:02.521 --> 01:17:05.621]  So I'm very thankful to the crew, very thankful to all of you keeping us on air.
+[01:17:05.921 --> 01:17:08.141]  So when you call in and thank me, no, I want to thank you for keeping us on air.
+[01:17:08.761 --> 01:17:15.881]  But you owe it to yourself to go now to the URL that we just gave you and get this.
+[01:17:16.641 --> 01:17:18.821]  Zeolite, because we sell it other Zeolite.
+[01:17:18.861 --> 01:17:20.321]  It's a top name brand.
+[01:17:20.361 --> 01:17:20.701]  It's great.
+[01:17:20.761 --> 01:17:21.240]  It's good for you.
+[01:17:21.280 --> 01:17:22.001]  It's a detoxifier.
+[01:17:22.041 --> 01:17:22.341]  It's great.
+[01:17:22.961 --> 01:17:25.141]  At the Alex Jones Show and the Alex Jones Store.com.
+[01:17:25.541 --> 01:17:25.821]  It's great.
+[01:17:26.481 --> 01:17:28.041]  This one, though, has the sea salts added.
+[01:17:28.501 --> 01:17:29.240]  It's amazing.
+[01:17:29.941 --> 01:17:35.141]  So get yours now at masterpiece.health forward slash Alex.
+[01:17:35.501 --> 01:17:36.461]  Let's put that URL up again.
+[01:17:37.521 --> 01:17:38.121]  Yeah.
+[01:17:38.161 --> 01:17:46.981]  Masterpiece.com, masterpiece.health forward slash Alex, 11% off, or just when you check out at masterpiece.health, put Alex in a promo code 10% off.
+[01:17:47.780 --> 01:17:48.701]  Thank you all for your support.
+[01:17:49.061 --> 01:17:49.481]  We love you.
+[01:17:49.561 --> 01:17:50.081]  We appreciate you.
+[01:17:50.121 --> 01:17:50.821]  Great job with the crew.
+[01:17:51.481 --> 01:17:57.001]  Lord willing, I'll see you back tomorrow at 11 a.m. Central from Infowars Studios to cover all the latest developments.
+[01:17:57.240 --> 01:17:58.181]  God bless and good luck.
+[01:18:00.280 --> 01:18:04.541]  In the Bible, we're told that the people perish for lack of knowledge.
+[01:18:04.860 --> 01:18:06.961]  And then, of course, knowledge is power.
+[01:18:07.621 --> 01:18:08.440]  And it certainly is.
+[01:18:08.940 --> 01:18:17.320]  You know, starting in the 1920s, they noticed that in the Midwest and places where they were getting any iodine from fish, that IQs were plunging 10, 15, 20 points.
+[01:18:17.801 --> 01:18:19.041]  Massive birth defects, you name it.
+[01:18:19.640 --> 01:18:28.860]  So by the 30s, there's an article about it, they started adding a low grade form of bound iodine to the salt, and IQs went up on average 15 points.
+[01:18:29.581 --> 01:18:36.780]  The UN admits on Wikipedia, Directly to their site, that over 2 billion people have cognitive disabilities because of iodine deficiency.
+[01:18:37.400 --> 01:18:40.320]  It is an essential element of the periodic table.
+[01:18:40.621 --> 01:18:46.940]  The problem is that most iodine, there's a bunch of different types, gets bound to other elements so your body doesn't fully absorb it.
+[01:18:47.201 --> 01:18:55.261]  So it was Dr. Group, like 15 years ago, came to me and said, Hey, those sunspots you got on your face, all this other stuff, I'm coming out with pure atomic iodine.
+[01:18:55.360 --> 01:18:56.560]  You have to have a DEA license to have it.
+[01:18:57.001 --> 01:18:57.761]  Nobody else has it.
+[01:18:58.081 --> 01:19:01.520]  You hear the term atomic, it's not radioactive, it means it's on the periodic table.
+[01:19:01.841 --> 01:19:02.520]  It is pure iodine.
+[01:19:02.740 --> 01:19:09.001]  But we went through several versions of this, but now we have the third version and the very best we've ever had.
+[01:19:09.421 --> 01:19:10.461]  We haven't had this for over a year.
+[01:19:10.780 --> 01:19:11.440]  The previous one was X2.
+[01:19:12.240 --> 01:19:19.600]  This is T3, and it is maybe the same lab that made the original X2, and it is so powerful.
+[01:19:20.081 --> 01:19:24.541]  It is pure atomic iodine, meaning the DEA version of this, they have to have a license bill to make it.
+[01:19:24.860 --> 01:19:28.201]  You throw a little crystal of it onto the ground, it turns like a purple cloud.
+[01:19:28.240 --> 01:19:29.600]  It just gases up.
+[01:19:29.841 --> 01:19:32.701]  And the DEA controls it because it can be used as a precursor for a bunch of bad things.
+[01:19:33.020 --> 01:19:34.060]  You watch Breaking Bad, you know that.
+[01:19:34.400 --> 01:19:39.320]  Well, this is all legal now once it's put into this process, into this organic glycerin.
+[01:19:39.581 --> 01:19:42.480]  It takes six to 10 weeks to make this.
+[01:19:43.280 --> 01:19:48.841]  It is a long process, but finally, a limited run came in just last week.
+[01:19:49.221 --> 01:19:50.400]  Another run's coming in a few months.
+[01:19:50.560 --> 01:19:51.421]  This is going to sell out quick.
+[01:19:51.961 --> 01:19:58.201]  Here's the UN UN calls for renewed effort to eliminate Ionide deficiency and risks to mental health.
+[01:19:58.761 --> 01:20:02.841]  Over 2 billion people with cognitive deficiencies because of it.
+[01:20:03.341 --> 01:20:06.581]  Reproductive energy, your brain, your mood.
+[01:20:06.961 --> 01:20:13.001]  Dry skin, cold hands and feet, thyroid problems, prostate problems, herpes problems, irregular menstrual cycle.
+[01:20:13.341 --> 01:20:14.201]  It goes on and on.
+[01:20:14.640 --> 01:20:20.240]  Look this up for yourself and then know we have the very best, truly pure iodine.
+[01:20:20.301 --> 01:20:22.581]  Anybody else telling you they have atomic iodine is a liar.
+[01:20:22.841 --> 01:20:23.980]  It has to be absolutely pure.
+[01:20:24.221 --> 01:20:25.560]  There's only one lab that does this.
+[01:20:26.041 --> 01:20:27.600]  We're the people that got them to make it.
+[01:20:27.820 --> 01:20:32.020]  Because it's so powerful, it goes right in your cells, it can interact with some medications.
+[01:20:32.060 --> 01:20:39.360]  So be sure you talk to your physician first before you take T3, trifecta iodine, because it is so incredibly powerful.
+[01:20:39.661 --> 01:20:42.940]  It's all available and waiting for you at reallogshows.com.
+[01:20:43.480 --> 01:20:44.940]  Again, we only sell you stuff that really works.
+[01:20:45.221 --> 01:20:46.881]  These are game changing products.
+[01:20:47.180 --> 01:20:49.400]  Secure your T3 exclusively.
+[01:20:49.721 --> 01:20:52.680]  Only place on earth to get it right now at reallogshows.com.
+[01:20:53.001 --> 01:20:54.020]  And thanks for keeping us on the air.
+[01:20:58.661 --> 01:21:03.921]  My friends know that I usually think everything's a scam from supplements and products and vitamins.
+[01:21:04.041 --> 01:21:05.360]  I don't take anything.
+[01:21:05.520 --> 01:21:11.041]  I usually buy it, try it, don't feel the results, end up tossing it and wasting money.
+[01:21:11.560 --> 01:21:14.261]  So, I love Alex Jones and the InfoWars crew.
+[01:21:14.661 --> 01:21:21.600]  And Alex kept playing this video of Robert Kennedy Jr. putting some blue drops in what looked like water.
+[01:21:22.001 --> 01:21:23.740]  And I wanted a way to support the team.
+[01:21:23.940 --> 01:21:26.600]  So, I decided to buy this Methylene Blue.
+[01:21:26.740 --> 01:21:29.560]  This Methylene Blue, it is tremendous.
+[01:21:29.621 --> 01:21:31.881]  I would not be making this video if I didn't believe in it.
+[01:21:32.381 --> 01:21:36.360]  After I take it throughout the day, I start feeling better and better and better.
+[01:21:36.740 --> 01:21:41.041]  My workouts, I feel like I'm 15 years younger than I am.
+[01:21:41.461 --> 01:21:44.480]  And the app that I record my running on proves.
+[01:21:44.661 --> 01:21:46.680]  That my workouts are getting better.
+[01:21:46.921 --> 01:21:52.841]  So I gotta tell you what God, family, country, InfoWars, and Methylene Blue.
+[01:21:53.100 --> 01:21:54.381]  Get it while you can.
+[01:21:58.894 --> 01:22:05.908]  And it's time for humanity to stand up in the info war and say, I don't know what's going to happen at the end of this, but you want to fight?
+[01:22:06.202 --> 01:22:08.533]  You better believe you've got one.

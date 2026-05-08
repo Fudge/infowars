@@ -1,0 +1,1552 @@
+# Transcription model: nvidia/canary-1b-v2, sat-12l-sm, and large-v3-turbo
+# Transcript cleaned with version 0.1.2
+# Source MD5: 9793c4366a3d848c1b7d102823ea5138
+[00:00:03.359 --> 00:00:09.599]  Ladies and gentlemen, it is Sunday, January 4th, 2026.
+[00:00:10.240 --> 00:00:14.080]  I'm your host, Alex Jones, and believe me, this is going to be a broadcast you're not going to want to miss.
+[00:00:14.800 --> 00:00:18.839]  Infowars, the most banned network in the world.
+[00:00:34.179 --> 00:00:44.939]  In my 31 years on air, this has been the first regime change that I have, at least in concept, supported.
+[00:00:46.160 --> 00:00:51.840]  And I have walked through all the reasons of that and the pitfalls and the dangers.
+[00:00:54.320 --> 00:00:58.719]  But when you understand the Venezuela on record, this is not some new thing.
+[00:00:59.679 --> 00:01:04.000]  I mean, I was covering it 25, 26 years ago.
+[00:01:04.560 --> 00:01:12.480]  So was Lou Dobbs about SmartMatic that's run by the Venezuelan government and is really behind Dominion, Sequoia, you name it.
+[00:01:13.840 --> 00:01:14.560]  It's all on record.
+[00:01:16.239 --> 00:01:23.439]  And it's the mothership, just an hour and a half flight into the United States.
+[00:01:26.000 --> 00:01:27.359]  And it controls Mexico.
+[00:01:29.439 --> 00:01:30.560]  It's in bed with Cuba.
+[00:01:33.280 --> 00:01:36.320]  And it's been the piggy bank for the Democratic Party and the deep state.
+[00:01:38.159 --> 00:01:50.320]  So if you want to return U.S. sovereignty, then you've got to get rid of Maduro and try to have real elections down there.
+[00:01:50.560 --> 00:01:56.240]  Now, do I support the long history of the U.S. and regime change with the CIA since 47, almost all of the period?
+[00:01:56.560 --> 00:01:56.960]  Well, no.
+[00:01:58.240 --> 00:02:00.640]  This is going back to the Monroe doctrine.
+[00:02:05.519 --> 00:02:09.759]  And Trump said he was going to do this.
+[00:02:11.920 --> 00:02:18.960]  And they gave Maduro chances to leave and go to Switzerland and other places and even take a bunch of money with him, but he wouldn't do it.
+[00:02:21.439 --> 00:02:26.000]  And so when you understand they're manipulating our elections, we understand they have the biggest oil reserves in the world.
+[00:02:26.719 --> 00:02:30.719]  that if China and others are able to get full control of, which they're doing, they can complete.
+[00:02:30.719 --> 00:02:33.360]  They can completely leverage us out in our own hemisphere.
+[00:02:35.200 --> 00:02:43.680]  So this is about U.S. power, but not power for the globalists to build their world government and then we pay for it and get all the hatred.
+[00:02:44.240 --> 00:02:49.120]  Not the power to build the greater Israel or those other projects.
+[00:02:49.360 --> 00:02:53.520]  No, this is back just to good old-fashioned American policy.
+[00:02:54.800 --> 00:02:56.719]  And we are the main superpower.
+[00:02:57.520 --> 00:03:06.800]  And Trump's making all the right moves to pragmatically secure the dollar, secure our jobs, secure our future, secure our security.
+[00:03:07.840 --> 00:03:08.640]  Very pragmatic.
+[00:03:09.840 --> 00:03:11.039]  I'm a policy wonk.
+[00:03:11.759 --> 00:03:13.759]  I mean, I really study all of this.
+[00:03:14.240 --> 00:03:16.159]  And I told you there's going to be regime changes there.
+[00:03:16.640 --> 00:03:18.400]  And I told you Trump wasn't bluffing.
+[00:03:20.000 --> 00:03:20.800]  I was right again.
+[00:03:21.680 --> 00:03:23.200]  Now, there's still a lot of dangers.
+[00:03:24.159 --> 00:03:26.400]  And they got a lot of communist militias and stuff there.
+[00:03:26.480 --> 00:03:28.640]  And I don't think we want boots on the ground.
+[00:03:28.719 --> 00:03:33.120]  And I think we just want to push them to have a free and fair election, you've got to navigate out of this.
+[00:03:33.920 --> 00:03:44.080]  But so far, the operation was scary, precise, and just unbelievable.
+[00:03:45.360 --> 00:03:56.000]  Nobody in the world can even approach that level of execution and that whole Joint Force Command and the army on the ground.
+[00:03:56.240 --> 00:04:23.279]  mean it's just unbelievable so if you want the facts today you want to know what's really going on and I'll just get mindless talking points you're gonna get it here because I know this up one side and down the other I interview and talk to all the main experts that are proven experts on this.
+[00:04:24.480 --> 00:04:26.639]  like Patrick Byrne and General Flynn and others.
+[00:04:27.040 --> 00:04:30.720]  And Flynn had reservations about doing this too because of the danger.
+[00:04:31.040 --> 00:04:34.800]  And the CIA could set Trump up, but he navigated through that so far.
+[00:04:35.199 --> 00:04:37.040]  I didn't have a Bay of Pigs 2.0.
+[00:04:38.720 --> 00:04:41.199]  But constitutionally, Trump had the right to do it.
+[00:04:41.519 --> 00:04:43.519]  Is it in our ultimate interest for the average American?
+[00:04:43.920 --> 00:04:45.759]  Yeah, this is policy for you.
+[00:04:46.639 --> 00:04:50.159]  This is policy for your future and the Venezuelans' future.
+[00:04:50.800 --> 00:04:52.639]  I mean, this is classic Americana.
+[00:04:53.040 --> 00:04:53.839]  We'll be right back.
+[00:04:54.079 --> 00:04:54.480]  Stay with us.
+[00:04:58.079 --> 00:05:05.360]  The United States of America is taking back control of its destiny and destroying the New World Order.
+[00:05:09.199 --> 00:05:21.958]  And the main command base in this hemisphere protecting globalist, BlackRock, Chi-Com power, stealing our elections, controlling the Mexican drug cartels, working with Cuba, is Venezuela.
+[00:05:22.617 --> 00:05:30.028]  Now, Trump is upending the international order, the rules-based order.
+[00:05:30.240 --> 00:05:31.199]  That means you in control.
+[00:05:32.800 --> 00:05:34.560]  You can say it's a gamble, which it is.
+[00:05:35.199 --> 00:05:37.199]  You can say it's fraught with danger, which it is.
+[00:05:38.800 --> 00:05:56.319]  But in the main, everything Trump is doing is what you would do to stabilize a nation, to empower a nation, to empower the dollar, to empower our security, to control the borders, to stabilize the planet.
+[00:06:01.279 --> 00:06:07.680]  That's why when Hegseth came out and a reporter's like, this is like Iraq regime change, he says it's the opposite.
+[00:06:09.680 --> 00:06:16.879]  Because the previous regime change was about destabilizing the Middle East and balkanizing it.
+[00:06:17.279 --> 00:06:26.080]  The United States wants to go in and have free and fair elections and turn Venezuela of its own power back into the most wealthy country in Latin America.
+[00:06:28.879 --> 00:06:30.000]  But you have to know the history.
+[00:06:30.159 --> 00:06:31.759]  You have to know the Maronroe doctrine.
+[00:06:31.840 --> 00:06:33.759]  You have to know what gunboat diplomacy is.
+[00:06:34.000 --> 00:06:37.519]  You have to know the barbary policy of Thomas Jefferson.
+[00:06:38.560 --> 00:06:44.639]  You have to understand all of that to understand this is a no-brainer.
+[00:06:46.000 --> 00:06:55.439]  If you're actually for U.S. sovereignty and for the people of America and Venezuela, you don't want.
+[00:06:57.279 --> 00:07:17.680]  a communist dictatorship right off your coast, not to mention the 8 million Venezuelans that have flooded us, including opening up their prisons, but those also fleeing political persecution and coming up here and the incredible destabilization.
+[00:07:19.360 --> 00:07:26.159]  And Cuba basically runs Venezuela as the brain trust, funded by the communist Chinese.
+[00:07:26.879 --> 00:07:33.680]  They basically declared war on the U.S. over this, said they're going to pay in blood to stop Trump.
+[00:07:36.000 --> 00:07:46.080]  And even international organizations that are socialists and communists admitted Maduro stole the last election by a massive margin.
+[00:07:46.240 --> 00:07:47.759]  He lost by about 85%.
+[00:07:50.399 --> 00:07:53.680]  So this is a good thing.
+[00:07:54.400 --> 00:07:56.480]  And remember, I predicted Trump was going to do this.
+[00:07:59.840 --> 00:08:00.639]  And of course he did.
+[00:08:01.360 --> 00:08:03.120]  And I'm saying the aims are good.
+[00:08:04.720 --> 00:08:06.240]  I said, you know, it's super bold.
+[00:08:06.400 --> 00:08:11.519]  I don't even know if Trump should do it because the CIA can sabotage and leak.
+[00:08:12.079 --> 00:08:17.120]  And the Democrats are on, you know, the Maduro payroll can leak the attack.
+[00:08:17.519 --> 00:08:24.400]  And that's why Trump wisely five times since Christmas had the planes all in the air.
+[00:08:24.960 --> 00:08:27.120]  the Delta Force on the helicopters.
+[00:08:27.439 --> 00:08:31.280]  They're out there over a month in the ocean, believing they were about to go in.
+[00:08:31.439 --> 00:08:37.919]  And right before they'd hit the airspace, a few times they went into it, he would order the attack halted.
+[00:08:38.000 --> 00:08:38.879]  And only he knew.
+[00:08:42.879 --> 00:08:49.840]  And that totally got them off balance so that they, even if there were leakers, no one knew it was actually going to happen.
+[00:08:50.159 --> 00:08:51.840]  And that's why it was flawless.
+[00:08:52.879 --> 00:08:54.080]  That's one big component of it.
+[00:08:54.799 --> 00:08:55.919]  The true element of surprise.
+[00:09:00.080 --> 00:09:08.720]  So let me lay out the big picture here and then I'll go in and drill into each piece of it.
+[00:09:12.399 --> 00:09:16.960]  After World War II, the Rothschilds and Rockefellers publicly set up the UN.
+[00:09:17.440 --> 00:09:21.440]  They wanted the League of Nations after the First World War, but that didn't work.
+[00:09:22.560 --> 00:09:24.799]  Tyrannical, anti-human, communist.
+[00:09:24.960 --> 00:09:28.799]  communistic globalist system that you sign your sovereignty over.
+[00:09:29.600 --> 00:09:31.360]  Carbon taxes, the end of the family.
+[00:09:31.840 --> 00:09:34.799]  The UN Global Peacekeeping Force is the only military on Earth.
+[00:09:34.960 --> 00:09:37.519]  It goes around enslaving whoever it wants, killing whoever it wants.
+[00:09:38.560 --> 00:09:46.320]  UN, WHO, global vaccine passports, social credit scores, forced injections, a true nightmare.
+[00:09:48.080 --> 00:09:51.120]  So when you hear rules-based order, you've got to go to the UN.
+[00:09:51.440 --> 00:09:54.560]  You've got to get its approval to ever stand up for yourself.
+[00:09:55.200 --> 00:09:58.240]  And Trump has basically pulled out of the UN already.
+[00:09:58.320 --> 00:10:17.920]  He's already gotten us out of most of the treaties, most of the obligations, most of the systems, not just the carbon tax operation, the Paris Accords, but the pandemic treaties, all of it, the migration treaties, just he's basically pulled out 90%.
+[00:10:19.360 --> 00:10:23.120]  He still leaves the institutions there, but they're just kind of lame ducks.
+[00:10:24.960 --> 00:10:29.120]  And by doing this, the United States reasserts its authority.
+[00:10:31.519 --> 00:10:36.879]  And if you look at every point, richest oil country in the world, production down 95%.
+[00:10:37.840 --> 00:10:39.600]  The communists just can't even run anything.
+[00:10:40.080 --> 00:10:41.440]  There are people starving to death.
+[00:10:42.160 --> 00:10:42.720]  Absolute hell.
+[00:10:44.080 --> 00:10:45.680]  Trump doesn't have to spend U.S. money.
+[00:10:45.840 --> 00:10:47.039]  The oil companies will go in.
+[00:10:47.360 --> 00:10:48.160]  He oversees it.
+[00:10:48.320 --> 00:10:52.160]  He makes them redistribute the majority of the wealth of the people.
+[00:10:53.680 --> 00:11:00.720]  You've already seen him do that policy-wise here, where he told oil companies, when he got an ear go, he said, all right, you're not really getting any profits.
+[00:11:01.279 --> 00:11:04.559]  National Security, slash prices, basically increase production.
+[00:11:04.799 --> 00:11:14.080]  He got the Saudis increase production at the same time because he said, I want to help the whole world, we have to lower inflation globally, which is true, can't just do it here.
+[00:11:14.320 --> 00:11:16.320]  I mean this is humanitarian stuff.
+[00:11:16.559 --> 00:11:23.039]  Folks Trump around the clock on every issue is trying to cut prices.
+[00:11:23.440 --> 00:11:27.759]  He called in the four big beef packer companies that have a monopoly.
+[00:11:27.920 --> 00:11:31.519]  That's where 90% of the profit is, ripping off the consumer and the ranchers.
+[00:11:31.920 --> 00:11:35.279]  He's cracked their heads and said, you're going to do this, and you already see it starting.
+[00:11:35.600 --> 00:11:37.039]  I mean, he just goes down the line.
+[00:11:38.000 --> 00:11:39.680]  So I understand Trump's philosophy.
+[00:11:40.000 --> 00:11:41.039]  I know where he comes from.
+[00:11:42.160 --> 00:11:43.200]  I know why he's doing it.
+[00:11:45.519 --> 00:11:48.160]  And the question is, will it be successful?
+[00:11:48.559 --> 00:11:57.920]  Well, if it's not successful, The globalists have set it up where China was going to dominate the new century we're in, the Chinese century.
+[00:11:58.720 --> 00:11:59.920]  We were set up for collapse.
+[00:12:00.320 --> 00:12:01.200]  It was all maneuvered.
+[00:12:01.840 --> 00:12:04.960]  Trump became a speed hump eight years ago, but didn't get it done.
+[00:12:05.280 --> 00:12:06.400]  This time he intends to.
+[00:12:06.560 --> 00:12:10.160]  And already you see 19 trillion flooding back into the U.S.
+[00:12:10.880 --> 00:12:13.440]  The world betting on us, signing on with us.
+[00:12:13.680 --> 00:12:14.560]  We're actually winning.
+[00:12:15.040 --> 00:12:16.560]  The corporate media won't tell you that.
+[00:12:17.440 --> 00:12:19.360]  And they're telling you you need instant gratification.
+[00:12:19.520 --> 00:12:20.640]  You need a great economy right now.
+[00:12:20.720 --> 00:12:21.920]  You've already got energy prices down.
+[00:12:22.080 --> 00:12:26.480]  You've already got inflation slowed massively, but it was still super high, so it's still super painful.
+[00:12:29.600 --> 00:12:37.840]  The alternative is the great reset and literally austerity and us being poor and controlled by design, Cloward and Pivon.
+[00:12:39.920 --> 00:12:48.080]  So by Trump grabbing $18 trillion in oil that's now on the U.S. balance sheet, and that's damn right what it is.
+[00:12:48.480 --> 00:12:48.560]  What?
+[00:12:48.640 --> 00:12:55.040]  Do you think we, the Us, didn't go around grabbing stuff before?
+[00:12:56.400 --> 00:13:02.000]  Think we didn't grab Cuba from Spain and then turn around and give it to them?
+[00:13:02.640 --> 00:13:06.320]  But as long as you know they, let us have a military base there, for god.
+[00:13:06.560 --> 00:13:11.600]  I mean, the Us has been the partner to have that won't screw you over and let you run things.
+[00:13:12.000 --> 00:13:25.920]  Just don't screw us until the into World War II and then the CIA and we become globalists and then all the things that came out of it, because we're working for globalist interest, British Empire, inter interest, new world order interest, not the people's interest.
+[00:13:26.720 --> 00:13:35.680]  But if you think in this world that we can have our country and just hide in it and can't be engaged or can't be involved, well, I got a bridge I'm happy to sell you.
+[00:13:36.160 --> 00:13:51.840]  So we're going back to U.S. policy here that was previous to World War II, that is good policy, that is smart policy that came out of George Washington, Thomas Jefferson, and then right through to Monroe and McKinley and the rest of them.
+[00:13:54.080 --> 00:13:55.920]  So that's what this is all about.
+[00:13:57.440 --> 00:13:58.480]  Now here's the big news.
+[00:13:58.640 --> 00:13:59.760]  And if we can, let's show up.
+[00:14:00.240 --> 00:14:05.280]  Let's throw up the live show feed headline from X or infowars.com, which is important.
+[00:14:08.000 --> 00:14:11.920]  I talked about this a little bit yesterday and it went super viral all over the place.
+[00:14:13.360 --> 00:14:17.760]  And I want to then elaborate on it because I guess people don't seem to know that this is not my opinion.
+[00:14:17.920 --> 00:14:18.400]  This is no.
+[00:14:20.160 --> 00:14:22.720]  I said the fact that they've been able to grab Maduro.
+[00:14:25.840 --> 00:14:35.040]  And that he's been the back man for the globalist deep state, the ChiCombs, Cuba, and others as the underling of Hugo Chavez going back 26 years.
+[00:14:37.040 --> 00:14:46.880]  Now that they have him, he will end up singing like a canary about all the networks and the money and how it operated.
+[00:14:47.280 --> 00:14:48.800]  And we know that literally.
+[00:14:50.480 --> 00:14:57.200]  The majority of Democrats in Congress have been getting money through NGOs in the U.S. that he personally operates.
+[00:14:57.440 --> 00:14:58.000]  That's known.
+[00:14:59.600 --> 00:15:04.880]  So you talk about sending a shiver of fear up the Democratic and deep state spine.
+[00:15:06.720 --> 00:15:08.560]  Let's put that live show headline back up.
+[00:15:10.000 --> 00:15:15.840]  Sunday Live, learn the secret reasons Trump rolled the dice and took out Maduro.
+[00:15:16.640 --> 00:15:19.520]  Alex Jones is live on it right now revealing powerful truths.
+[00:15:20.160 --> 00:15:21.600]  You're not going to get anywhere else.
+[00:15:21.920 --> 00:15:24.800]  Bottom line, Trump is taking down the globalist new world order.
+[00:15:27.120 --> 00:15:29.120]  So you can debate how he's doing it.
+[00:15:29.440 --> 00:15:30.560]  You can say it's not going to work.
+[00:15:30.720 --> 00:15:31.600]  You can say he's wrong.
+[00:15:32.960 --> 00:15:43.680]  But this is absolutely the United States doing this on its own, not asking permission from anybody like George Herbert, Walker, Bush, and the whole Iraq thing in 1991.
+[00:15:45.680 --> 00:15:47.280]  In that case, he was CIA.
+[00:15:47.680 --> 00:15:54.880]  Saddam was told to attack Iran in the seven-year Iran-Iraq war in the 80s.
+[00:15:55.280 --> 00:15:57.920]  Then he was told to pay back money that he was promised he didn't have to.
+[00:15:58.800 --> 00:16:01.200]  And then he told the U.S. ambassador, I'm just going to invade Kuwait.
+[00:16:01.280 --> 00:16:02.960]  They're stealing my oil to pay you back.
+[00:16:03.200 --> 00:16:04.080]  She said, that's fine.
+[00:16:04.720 --> 00:16:05.120]  And he did.
+[00:16:05.760 --> 00:16:06.560]  And he was set up.
+[00:16:08.240 --> 00:16:09.840]  Saddam Hussein wasn't a communist.
+[00:16:10.080 --> 00:16:11.760]  He was an anti-radical Islamist.
+[00:16:13.280 --> 00:16:17.280]  He was trained in the 50s by the CIA under the old policy.
+[00:16:18.720 --> 00:16:19.520]  He got set up.
+[00:16:21.840 --> 00:16:27.840]  Saddam Hussein was an angel compared to Maduro, even though they look like me brothers.
+[00:16:30.720 --> 00:16:31.920]  Maduro is in our business.
+[00:16:32.240 --> 00:16:33.520]  Maduro is stealing our elections.
+[00:16:33.680 --> 00:16:35.680]  Maduro is paying off the politicians.
+[00:16:38.400 --> 00:16:43.280]  Venezuela controls the election fraud, not just here, but in over 120 nations.
+[00:16:45.920 --> 00:16:51.120]  The five largest global electronic voting machine companies for the last 26 years.
+[00:16:51.360 --> 00:17:20.400]  years all use smart matic software run and controlled by the government of Venezuela but the programs are built by the Chinese it's all come out it's all confirmed it was on Lou Dobbs 18 years ago I'd have election fraud experts on and all they talk about smart matic and Sequoia and Dominion.
+[00:17:22.960 --> 00:17:24.720]  We'll play some of those newscasts tonight.
+[00:17:27.680 --> 00:17:29.200]  So people here are thinking, what?
+[00:17:29.360 --> 00:17:30.320]  Venezuela or elections?
+[00:17:30.560 --> 00:17:31.360]  That sounds crazy.
+[00:17:32.640 --> 00:17:42.720]  Venezuela has more gold than Africa, more oil than Saudi Arabia and the U.S. and Russia, incredible volcanic soil, everything else.
+[00:17:44.560 --> 00:17:57.120]  And I'll guarantee you, if we can get a real election down there and get a populist in there, in like two years it'll be like El Salvador.
+[00:17:58.400 --> 00:17:59.360]  They'll be crapping.
+[00:17:59.840 --> 00:18:05.680]  You know, Tiffany Cufflinks down there and you'll be able to send your kids to school where you want.
+[00:18:05.920 --> 00:18:07.120]  You'll be able to, I mean, if you do.
+[00:18:07.360 --> 00:18:08.320]  You say Venezuela.
+[00:18:08.480 --> 00:18:14.080]  It is a hell hole with thousands starving to death every week for at least 15 years.
+[00:18:14.400 --> 00:18:15.760]  They ate all the dogs and cats.
+[00:18:16.160 --> 00:18:17.200]  You don't see pigeons there.
+[00:18:17.680 --> 00:18:18.640]  You don't see squirrels.
+[00:18:19.440 --> 00:18:20.880]  If you see communists, they're big and fat.
+[00:18:21.040 --> 00:18:22.400]  Everybody else is is skinny.
+[00:18:24.160 --> 00:18:40.560]  I can tell you how many Venezuelans I've known personally, great people, they'll tell you, we had one guy who was a computer programmer, a bunch of our stuff here, ended up moving to Chicago, Max Cabrera, and he talked about his family just had a small private school, less than 100 kids.
+[00:18:40.880 --> 00:18:45.920]  They'd had it for generations and Catholic school.
+[00:18:46.880 --> 00:18:50.240]  And here comes the government one day, goes, You're all fired.
+[00:18:50.400 --> 00:18:51.120]  We're moving to the school.
+[00:18:51.280 --> 00:18:51.760]  We run it now.
+[00:18:52.160 --> 00:19:17.920]  and they put like fat communists in to be the school teachers and they literally had the little kids and you look this up it's something they pray to hugo chavez when they get there when they eat lunch and stuff and they said oh by the way uh your family's had your house at the back here for generations and this is your uh get your stuff out you're gone and they weren't rich they just had their little school get your stuff get out
+[00:19:22.720 --> 00:19:23.920]  And what's Mandavi say?
+[00:19:24.319 --> 00:19:29.819]  do one thing I don't like as a renter, as a landlord, I'll just take your property in New York.
+[00:19:37.059 --> 00:19:40.538]  So communism isn't a failure.
+[00:19:40.800 --> 00:19:45.440]  It is a totalitarian system of hyper-predatory viciousness.
+[00:19:48.160 --> 00:20:09.680]  So after the break, I'll elaborate on it more, but Venezuela working with the CIA and then using China as a cutout has been the main paymaster for the Chinese to buy off politicians here in the United States.
+[00:20:13.600 --> 00:20:16.400]  Obama used the Brits to spy on Trump and run all those blackouts.
+[00:20:16.560 --> 00:20:19.920]  You always want to use a foreign power to run the op against your own country.
+[00:20:21.120 --> 00:20:34.320]  Venezuela has been the mothership, the clearinghouse for election fraud and for directing the major cartels all over the world on hitting the U.S.
+[00:20:34.560 --> 00:20:37.600]  So the media is like, well, most of the FitMill comes out of Canada now.
+[00:20:38.320 --> 00:20:39.120]  So what's that mean?
+[00:20:40.560 --> 00:20:44.000]  And out of Mexico, yeah, directed by Maduro.
+[00:20:46.480 --> 00:20:48.160]  And the Latin drug gangs they control.
+[00:20:49.520 --> 00:20:50.880]  They have the intelligence network.
+[00:20:53.040 --> 00:20:57.360]  You already see drug overdoses in less than the year since Trump got in plunging.
+[00:20:59.840 --> 00:21:05.520]  So I've also seen, I'll get to this, because it's not about me, but it's an example of propaganda.
+[00:21:06.240 --> 00:21:12.720]  All these big Democrat talk show hosts taking a clip out of context yesterday, like a 30-second clip.
+[00:21:14.000 --> 00:21:20.720]  Where I'm saying Trump loves to see golf courses and Trump towers and everybody happy and a future for his kids.
+[00:21:22.640 --> 00:21:31.360]  And that got translated into Trump's doing this so he has Trump golf courses and towers and so his kids can make billions.
+[00:21:32.560 --> 00:21:39.120]  No, I explained how when he went and met with Kim Jong-un and showed him a video graphic of look how wealthy South Korea is.
+[00:21:39.360 --> 00:21:42.880]  You can be that way with all these factories and businesses and golf courses and hotels.
+[00:21:43.280 --> 00:21:46.400]  And Kim Jong-un reportedly cried and said, China won't let me.
+[00:21:49.840 --> 00:21:52.720]  So I was explaining Trump doesn't like war.
+[00:21:53.760 --> 00:21:54.720]  He likes prosperity.
+[00:21:54.880 --> 00:21:56.000]  He's a hospitality man.
+[00:21:56.320 --> 00:21:57.760]  He doesn't like plunging economies.
+[00:21:58.080 --> 00:21:58.960]  That's not good for business.
+[00:22:01.600 --> 00:22:11.680]  But the headline is, Jones can't wait for corporations to loot Venezuela and fantasizes about Don Jr. making millions.
+[00:22:11.840 --> 00:22:14.480]  He didn't say Don Jr. didn't list a company, none of that.
+[00:22:14.880 --> 00:22:21.360]  Trump said, we're going to go in there and get their people production up and get them jobs and get them their money.
+[00:22:22.480 --> 00:22:29.040]  And we've seen him do that with no tax on tips and all the other things he's done to try to every policy is what he does.
+[00:22:31.200 --> 00:22:33.120]  And the Democrats try to stand in the way of that.
+[00:22:35.040 --> 00:22:41.840]  But the talk show hosts all take that clip out and go, look, he's celebrating looting and billions for the Trump sons.
+[00:22:42.240 --> 00:22:44.960]  I said he cares about his children and the future.
+[00:22:45.920 --> 00:22:46.960]  And yeah, wants to see.
+[00:22:47.760 --> 00:22:51.040]  And he envisions Trump towers and things around the world, which he already does.
+[00:22:51.360 --> 00:22:55.760]  My point is he wants that model, not, oh, this is about putting Trump towers down there.
+[00:22:56.400 --> 00:22:58.000]  I was explaining the Trump psychology.
+[00:22:58.160 --> 00:23:05.600]  You've all heard me tell the story a hundred times, talk about Kim Jong Un and Trump's philosophy and how he's a hospitality guy.
+[00:23:05.760 --> 00:23:07.920]  Well, hospitality guys like the economy to be doing well.
+[00:23:08.160 --> 00:23:14.800]  They're not globalists that want to squeeze in and crush it with a great reset and make you poor so they can control you and dictate your surrender.
+[00:23:15.040 --> 00:23:16.880]  Oh, like communism, same thing.
+[00:23:18.800 --> 00:23:21.280]  Communists in their own manuals admit they make you poor.
+[00:23:21.520 --> 00:23:22.720]  They admit they destroy the economy.
+[00:23:23.040 --> 00:23:27.360]  They admit they do it because then you're so busy just trying to get enough food to eat, you can never rise up against them.
+[00:23:29.040 --> 00:23:30.080]  They want you desperate.
+[00:23:31.200 --> 00:23:39.520]  And I was comparing communism and globalism and domestication versus free market empowerment and that Trump is for that.
+[00:23:40.400 --> 00:23:43.840]  And somehow that gets spun into some great evil.
+[00:23:46.800 --> 00:23:48.000]  But that's all they got, folks.
+[00:23:48.160 --> 00:23:55.520]  So remember, whenever you see 30-second clips of me and they say I'm saying something, you better go find the full clip because you know I'm long-winded.
+[00:23:57.360 --> 00:23:59.280]  Like what I said, Israel should not go into Gaza.
+[00:23:59.440 --> 00:24:00.800]  They should just kill the leadership of Hamas.
+[00:24:02.640 --> 00:24:08.160]  Yes, they can start on one end and carpet bomb to the other and drive everybody out, but that's genocide.
+[00:24:08.480 --> 00:24:10.880]  And that'll empower the globalists in the world against Israel.
+[00:24:11.120 --> 00:24:12.640]  And it'll make Israel super unpopular.
+[00:24:12.880 --> 00:24:14.000]  So Israel shouldn't do that.
+[00:24:14.320 --> 00:24:31.520]  They took a 17-second clip. of me saying, yeah, Israel could hypothetically carpet bomb from one end to the end and get this mission they want done, but that'll be genocide, that's wrong, and it'll kill the civilians, it'll turn the world against Israel, which happened.
+[00:24:31.600 --> 00:24:39.360]  That's what I do, I war game, but they took the clip out of context so they could be the heroes and I could be the pro-Israel genocide guy.
+[00:24:39.680 --> 00:24:40.480]  That's what these people do.
+[00:24:40.640 --> 00:24:41.840]  And it's not about defending me.
+[00:24:42.320 --> 00:24:44.320]  Just be aware of the deception.
+[00:24:45.040 --> 00:24:47.200]  Be aware of the tricks these people play.
+[00:24:47.920 --> 00:24:51.440]  They think you're stupid and they're counting on you being stupid.
+[00:24:53.600 --> 00:24:55.280]  There's a lot of angles I want to get into.
+[00:24:55.440 --> 00:24:59.360]  You know Trump's Maduro installed because he knows he was on the way out.
+[00:24:59.920 --> 00:25:19.200]  He's super unpopular, this lady, and now she's running her mouth against Trump and says the Sionists remove Maduro, because she knows that's globally popular to say people Israel's most unpopular country in the world and that'll rally the world, she thinks, to their aid.
+[00:25:21.280 --> 00:25:26.080]  Israel has very little to do with Venezuela and the reason Trump went in.
+[00:25:26.720 --> 00:25:30.480]  Though Huckabee wants to make Israel the center of the universe, so he said this is good for Israel.
+[00:25:30.720 --> 00:25:33.440]  Well, yeah, they've been funding and supporting Hamas and Hezbollah.
+[00:25:34.000 --> 00:25:42.160]  This is about 18 trillion in oil on our balance sheet to secure the dollar and our future because if it crashes, Great Depression, and I mean, it's insane.
+[00:25:42.720 --> 00:25:44.400]  It's about stopping the election fraud.
+[00:25:44.720 --> 00:25:46.400]  It's about stopping the payoff of the Democrats.
+[00:25:46.560 --> 00:25:52.880]  It's about cutting off this mothership of corruption, this command and control base that's been manipulating our internal politics.
+[00:25:53.440 --> 00:25:55.440]  It's about empowering and freeing the people down there.
+[00:25:56.240 --> 00:26:01.519]  It's about stabilization 100% instead of Venezuela being a destabilization force.
+[00:26:03.120 --> 00:26:04.800]  And that's why Trump is doing this.
+[00:26:07.280 --> 00:26:11.360]  But you've got the people running around saying that it is the opposite.
+[00:26:11.840 --> 00:26:12.480]  And it's not.
+[00:26:14.080 --> 00:26:14.320]  I mean.
+[00:26:15.760 --> 00:26:41.920]  Again, here they are running armored vehicles into peaceful protesters a few years ago and killing people ramming them whenever Maduro stole the election and so you got the current lady that Trump's given the chance to hold elections he doesn't want to you know send in troops and knock heads he wants them to just you know do the right thing it's like they gave Maduro a chance to leave and she's like nope You are a Zionist.
+[00:26:42.480 --> 00:26:46.400]  And she thinks that'll rally the world behind communism and dictatorship in communist China.
+[00:26:47.360 --> 00:26:50.480]  In Cuba, if you just flash the Zionist card.
+[00:26:51.600 --> 00:26:51.920]  All right.
+[00:26:52.640 --> 00:26:53.280]  I don't blame people.
+[00:26:53.360 --> 00:26:58.960]  In fact, I think it's a great instinct, a great revulsion to offensive war.
+[00:27:00.240 --> 00:27:01.440]  I'm proud of the American people.
+[00:27:01.600 --> 00:27:04.800]  The 80-plus percent are against our involvement in Ukraine.
+[00:27:06.640 --> 00:27:08.800]  I opposed all these wars, and I was right.
+[00:27:10.000 --> 00:27:14.080]  And I told you, Trump is going to remove Maduro and have free elections.
+[00:27:14.160 --> 00:27:15.600]  And if they don't, we're going to go in there.
+[00:27:17.680 --> 00:27:19.760]  Because this is a return to the Monroe doctrine.
+[00:27:20.800 --> 00:27:21.760]  You need to research it.
+[00:27:21.920 --> 00:27:22.640]  You need to know it.
+[00:27:22.960 --> 00:27:24.560]  Just type in the Monroe doctrine.
+[00:27:24.720 --> 00:27:29.040]  Go read a historical encyclopedia, just a few pages, and understand it.
+[00:27:30.480 --> 00:27:36.320]  Trump said, we're returning to the Monroe doctrine and the model used by William McKinley.
+[00:27:38.640 --> 00:27:49.360]  And If foreign powers are projecting their power into our hemisphere and setting up states and governments to manipulate our internal operations, we are going to smash your ass.
+[00:27:50.960 --> 00:27:56.080]  You know how many times we've gone into Latin America and Mexico before World War II?
+[00:27:58.160 --> 00:27:58.720]  Hundreds of times.
+[00:28:00.720 --> 00:28:03.600]  Because of foreign powers coming in trying to manipulate and control.
+[00:28:04.880 --> 00:28:06.160]  We built the Panama Canal.
+[00:28:06.640 --> 00:28:09.440]  We had it for eternity in the deal.
+[00:28:09.760 --> 00:28:11.120]  Carter signed it away.
+[00:28:11.680 --> 00:28:12.720]  Obama finished it.
+[00:28:13.360 --> 00:28:17.600]  Trump came in with EgSeth and told Panama, hey, the ChiComs are pushing in.
+[00:28:18.960 --> 00:28:20.640]  Make a deal with us or we're going to come in.
+[00:28:20.720 --> 00:28:22.640]  They said, nope, we'll push the Commies out.
+[00:28:22.800 --> 00:28:23.600]  Come right in, please.
+[00:28:26.240 --> 00:28:27.120]  And Trump said, good.
+[00:28:27.360 --> 00:28:29.680]  We'll invest $500 billion.
+[00:28:30.000 --> 00:28:30.640]  How's that sound?
+[00:28:32.240 --> 00:28:32.960]  They built it.
+[00:28:34.480 --> 00:28:35.040]  It's ours.
+[00:28:36.400 --> 00:28:38.800]  And you can say, oh, well, you know, we need to be isolationists.
+[00:28:38.960 --> 00:28:39.920]  I'm all about America First.
+[00:28:40.000 --> 00:28:40.720]  This is America First.
+[00:28:40.720 --> 00:28:40.720]  first.
+[00:28:40.720 --> 00:28:40.960]  This is America first.
+[00:28:41.840 --> 00:28:42.880]  But it's our stuff.
+[00:28:43.280 --> 00:28:45.920]  We built the main oil fields and refineries.
+[00:28:46.480 --> 00:28:51.520]  We built the main Houston and Louisiana refineries, trade port for Venezuelan oil.
+[00:28:51.680 --> 00:28:52.640]  It's a particular type.
+[00:28:53.680 --> 00:28:54.080]  Very thick.
+[00:28:58.240 --> 00:29:03.520]  And they're at 6% production what they were 26 years ago.
+[00:29:04.480 --> 00:29:05.840]  The Communists just turned it off.
+[00:29:08.480 --> 00:29:14.160]  Now it'll help American oil companies and American oil producers if we just don't have that oil.
+[00:29:14.800 --> 00:29:15.840]  But it doesn't help the world.
+[00:29:16.640 --> 00:29:18.320]  Trump's turning it on for everybody.
+[00:29:18.640 --> 00:29:20.880]  He just twisted the Saudis' arms three months ago.
+[00:29:20.960 --> 00:29:23.920]  Nobody thought they'd do it to basically double production.
+[00:29:26.400 --> 00:29:27.360]  You know why he did that?
+[00:29:27.600 --> 00:29:32.720]  He said, again, we just can't cut energy prices here.
+[00:29:33.920 --> 00:29:34.800]  And not around the world.
+[00:29:35.120 --> 00:29:38.160]  We've got to cut inflation everywhere if we're going to fix it.
+[00:29:38.320 --> 00:29:39.040]  It's a global problem.
+[00:29:39.840 --> 00:29:48.320]  You have Trump for the first time ever, no president, going and twisting arms to increase oil production around the world.
+[00:29:50.640 --> 00:29:54.320]  Not for U.S. companies, for the people.
+[00:29:56.240 --> 00:29:58.560]  The main control he's got is energy prices.
+[00:30:00.240 --> 00:30:02.720]  And he's desperately trying to save the world economy.
+[00:30:04.000 --> 00:30:05.760]  And he's making all the right moves.
+[00:30:06.800 --> 00:30:15.360]  and ending our long surrender, these one-sided trade deals and the W. World Trade Organization is screwing us in China with most favored trading status.
+[00:30:16.480 --> 00:30:19.600]  And this move sends a very strong message to China and all the rest of them.
+[00:30:21.440 --> 00:30:24.960]  So this is about the Monroe Doctrine.
+[00:30:27.280 --> 00:30:30.800]  And it's about Venezuela being the base of election fraud.
+[00:30:30.880 --> 00:30:32.400]  And we'll get the clips of that coming up.
+[00:30:32.960 --> 00:30:37.920]  And it is about shutting off the money laundering and the drug dealing.
+[00:30:38.160 --> 00:30:48.080]  that's already about exercising American will and America making the decisions, not the globalists, not BlackRock, not the UN, but the president we elected.
+[00:30:48.640 --> 00:30:54.640]  And quite frankly, I said, don't go in, even though you have the right and I can see that you're going to do it.
+[00:30:56.000 --> 00:30:56.560]  And I know why.
+[00:30:57.600 --> 00:30:58.960]  And if you do it, I'll back it.
+[00:30:59.200 --> 00:31:04.320]  But I think it's a very dangerous gamble because, again, they'll leak the information to the Venezuelans.
+[00:31:04.400 --> 00:31:05.680]  And Trump talked about that yesterday.
+[00:31:06.240 --> 00:31:09.280]  And I had inside sources say, oh, they didn't, they weren't just ready Christmas.
+[00:31:10.000 --> 00:31:14.160]  Four other times they had helicopters, jets, everything.
+[00:31:14.800 --> 00:31:15.600]  It was a go order.
+[00:31:16.560 --> 00:31:18.640]  And then Trump was going to do the final order.
+[00:31:18.960 --> 00:31:26.400]  And minutes before, even when our aircraft were over Venezuela, he would say abort.
+[00:31:27.280 --> 00:31:28.720]  And it wasn't just because of the weather.
+[00:31:29.040 --> 00:31:34.160]  He was doing it under good advice from Eggseth so that they wouldn't know when the real attack came.
+[00:31:34.720 --> 00:31:39.760]  And they were also planning disinformation to track who in Congress and who in the Pentagon is leaking.
+[00:31:40.240 --> 00:31:43.920]  I mean, on those fronts, this is a new Trump.
+[00:31:46.079 --> 00:31:54.730]  And he doesn't have control of the Justice Department because it's such a viper's nest, but he does have control of the Pentagon by and large.
+[00:32:02.848 --> 00:32:04.089]  So that's a big deal.
+[00:32:04.109 --> 00:32:07.949]  But let me hit the Monroe Doctrine right now, then I'll get into the big one.
+[00:32:10.960 --> 00:32:16.640]  Maduro had a chance to leave with $200 million to Switzerland or several other places that was taken.
+[00:32:17.440 --> 00:32:18.080]  He refused.
+[00:32:19.360 --> 00:32:22.400]  He tried to play big boy, as Rubio said.
+[00:32:24.320 --> 00:32:32.320]  And now they're going to come to him and say, listen, you give us the networks, the money, how he uses diplomatic planes to ship the drugs around the money, which is on record.
+[00:32:33.600 --> 00:32:34.640]  You turned evidence.
+[00:32:38.160 --> 00:32:42.080]  against the Democrat Party operatives and we're going to let your ass go.
+[00:32:46.960 --> 00:32:50.160]  And I think there's about a 90% chance Maduro turns against him.
+[00:32:51.200 --> 00:32:58.400]  And folks, when this house of cards starts falling perfectly this year, the 250th anniversary of this country, what a present.
+[00:33:01.520 --> 00:33:05.280]  And Trump intends all of this to be going and done by July 4th.
+[00:33:07.200 --> 00:33:08.320]  And that's what I've been told.
+[00:33:12.400 --> 00:33:17.840]  And the only reason I got reddit a little bit on policy was because I already knew the policy.
+[00:33:18.240 --> 00:33:19.360]  I'd already understood it.
+[00:33:19.680 --> 00:33:23.840]  And I had policymakers, people asked me in the last eight, nine months, well, how do you know this?
+[00:33:24.000 --> 00:33:24.800]  How do you know the whole plan?
+[00:33:25.760 --> 00:33:30.880]  You know, obviously, I mean, under a lot of surveillance too.
+[00:33:31.840 --> 00:33:32.880]  by the good guys and bad guys.
+[00:33:32.960 --> 00:33:34.560]  And I said, well, it's completely all obvious right there.
+[00:33:34.880 --> 00:33:36.080]  Trump said what he's doing.
+[00:33:36.160 --> 00:33:36.880]  I understand the policy.
+[00:33:37.760 --> 00:33:38.160]  I get it.
+[00:33:38.800 --> 00:33:41.040]  I got it before he ever got in office.
+[00:33:41.120 --> 00:33:42.000]  This is what I would do.
+[00:33:42.560 --> 00:33:44.480]  Operation 1776 worldwide.
+[00:33:46.080 --> 00:33:49.840]  I wrote policy papers, you know, nine years ago and eight years ago to Trump on this plan.
+[00:33:50.560 --> 00:33:51.360]  This was part of the plan.
+[00:33:51.840 --> 00:33:53.520]  I mean, I do a lot of serious work, folks.
+[00:33:56.880 --> 00:34:02.400]  So this is a broadcast for people that actually want to be informed, actually want to know how things work.
+[00:34:02.720 --> 00:34:04.000]  You can verify everything I'm saying.
+[00:34:04.160 --> 00:34:05.040]  It's all open source.
+[00:34:06.480 --> 00:34:08.720]  And people go, well, Rubio used to be a neocon.
+[00:34:08.880 --> 00:34:10.320]  And yeah.
+[00:34:12.720 --> 00:34:14.480]  And then he used to be Darth Vader.
+[00:34:14.640 --> 00:34:18.160]  And then he flew Emperor Palpatine down the mine shaft or down the reactor shaft.
+[00:34:18.640 --> 00:34:19.680]  I don't trust Rubio.
+[00:34:21.200 --> 00:34:23.680]  Threatened to kick my ass for no reason, famously.
+[00:34:25.760 --> 00:34:27.920]  I mean, he was a smart mouth to me for no reason.
+[00:34:28.240 --> 00:34:31.040]  When I came over, you know, in a scrum he was doing, I had questions.
+[00:34:31.600 --> 00:34:32.640]  I smart mouth back to him.
+[00:34:32.720 --> 00:34:37.760]  He said, I'llve never thought he was incompetent, always thought he was smart.
+[00:34:37.840 --> 00:34:42.480]  But now that he's on the team, he is really smart, kicking ass, delivering.
+[00:34:42.720 --> 00:34:47.920]  And all the polls is the most popular person in politics in America right now.
+[00:34:48.640 --> 00:34:49.360]  So that's great.
+[00:34:50.160 --> 00:34:51.520]  So I'm not in need with Rubio.
+[00:34:53.040 --> 00:34:55.600]  And when I hear him speak, everything he says is true now.
+[00:34:56.160 --> 00:34:58.320]  Because now he knows America's back.
+[00:34:58.640 --> 00:35:00.240]  Yeah, he was going to serve the neocons.
+[00:35:00.400 --> 00:35:01.760]  He was going to serve the power structure.
+[00:35:02.240 --> 00:35:04.080]  He was going with what he thought DC was.
+[00:35:04.320 --> 00:35:10.720]  Well, now there's a new gameame in town and part of victory is we're going to have some of the heavy hitters from the bad guys join us.
+[00:35:12.720 --> 00:35:16.800]  That doesn't mean down the road, you know, I'd always completely trust Rubio.
+[00:35:17.600 --> 00:35:20.480]  But the point is he just keeps racking up all the good things he's doing.
+[00:35:22.480 --> 00:35:23.360]  So that's where we are.
+[00:35:24.720 --> 00:35:25.840]  And that's reality of this.
+[00:35:26.800 --> 00:35:29.360]  I would never trust Lindsey Graham, ever.
+[00:35:30.960 --> 00:35:33.520]  But Graham was still backstabbing Trump a few years ago.
+[00:35:34.079 --> 00:35:38.079]  Rubio flipped over to Trump nine years ago.
+[00:35:38.320 --> 00:35:43.599]  He hasn't stabbed Trump in the back one way since he said, I pledge allegiance.
+[00:35:45.200 --> 00:35:45.360]  Great.
+[00:35:45.519 --> 00:35:46.159]  That's honorable.
+[00:35:46.320 --> 00:35:46.480]  Great.
+[00:35:46.960 --> 00:35:47.840]  He came over to our team.
+[00:35:49.599 --> 00:35:50.880]  Not the case with Lindsey Graham.
+[00:35:51.119 --> 00:35:53.200]  Constant back biting, constant stabbing.
+[00:35:54.880 --> 00:35:56.720]  Trump should not support him for the Senate race.
+[00:35:56.800 --> 00:35:57.440]  He's a monster.
+[00:35:58.400 --> 00:35:59.920]  That's a side issue on Rubio.
+[00:36:02.079 --> 00:36:06.960]  Very smart, hardworking, very competent, knows what he's talking about, a true statesman.
+[00:36:08.880 --> 00:36:11.360]  Not just in comparison to Kamala Harris and these vegetables.
+[00:36:11.519 --> 00:36:15.519]  That's not saying much, but in global standards, he knows what he's talking about.
+[00:36:15.760 --> 00:36:19.599]  And it's refreshing to see stuff like that.
+[00:36:20.400 --> 00:36:24.639]  And he just destroys these pundits with their garbage.
+[00:36:25.200 --> 00:36:30.079]  So here he was today on Meet the Press explaining that there's a new sheriff in town.
+[00:36:31.680 --> 00:36:34.800]  States need to take over the Venezuelan oil industry.
+[00:36:37.039 --> 00:36:37.920]  Well, we don't need to.
+[00:36:38.400 --> 00:36:39.599]  First of all, let me go back up.
+[00:36:39.760 --> 00:36:41.039]  We don't need Venezuela's oil.
+[00:36:41.119 --> 00:36:42.480]  We have plenty of oil in the United States.
+[00:36:42.720 --> 00:36:48.639]  What we're not going to allow is for the oil industry in Venezuela to be controlled by adversaries of the United States.
+[00:36:49.039 --> 00:36:51.119]  You have to understand why does China need their oil?
+[00:36:51.360 --> 00:36:52.559]  Why does Russia need their oil?
+[00:36:52.720 --> 00:36:54.000]  Why does Iran need their oil?
+[00:36:54.639 --> 00:36:55.760]  They're not even in this continent.
+[00:36:55.920 --> 00:36:56.960]  This is the Western Hemisphere.
+[00:36:57.119 --> 00:36:57.840]  This is where we live.
+[00:36:58.079 --> 00:37:03.599]  And we're not going to allow the Western Hemisphere to be a base of operation for adversaries, competitors and rivals of the United States.
+[00:37:04.079 --> 00:37:05.119]  have specific oil companies.
+[00:37:05.519 --> 00:37:07.760]  We also want to see that oil and the proceeds from it.
+[00:37:08.400 --> 00:37:08.720]  Hold on.
+[00:37:08.960 --> 00:37:12.240]  We want to see the oil proceeds of that country benefit the people of Venezuela.
+[00:37:12.559 --> 00:37:14.720]  Why have eight million people left Venezuela?
+[00:37:14.960 --> 00:37:27.360]  eight million, the single largest mass migration probably in modern history left Venezuela since 2014 because all the wealth of that country was stolen to the benefit of Maduro and his cronies and the regime, but not to the benefit of the people of Venezuela.
+[00:37:27.519 --> 00:37:30.720]  You know how destabilizing eight million migrants is?
+[00:37:30.960 --> 00:37:40.320]  Do you know the number one fear that Brazil has, that Colombia has, that all these countries. in the region have about what's happening in Venezuela and our involvement is they're afraid of another mass migration event.
+[00:37:40.639 --> 00:37:41.440]  That's what they fear.
+[00:37:41.599 --> 00:37:43.200]  This is deeply destabilizing stuff.
+[00:37:43.599 --> 00:37:44.800]  It's not going to continue to happen.
+[00:37:45.039 --> 00:37:52.559]  They are not going to come from outside of our hemisphere, destabilize our region in our own backyard, and us have to pay the price for it, not under President Trump.
+[00:37:52.880 --> 00:37:53.920]  Let's talk big picture.
+[00:37:55.280 --> 00:37:56.000]  That's all true.
+[00:37:59.440 --> 00:38:02.240]  So, I'm going to say it again.
+[00:38:03.519 --> 00:38:05.920]  I want to talk about a few minutes minutes yesterday and it went viral.
+[00:38:06.320 --> 00:38:08.079]  And people were like, oh, it's his opinion.
+[00:38:08.240 --> 00:38:08.880]  Oh, is it right?
+[00:38:09.119 --> 00:38:10.079]  Oh, is that wow?
+[00:38:10.639 --> 00:38:11.760]  No, it's not my opinion.
+[00:38:14.079 --> 00:38:23.599]  China has used Venezuela more than any other country as its errand boy to come in with NGOs and companies and buy off the Democrats particularly.
+[00:38:24.320 --> 00:38:25.760]  A few Republicans, but not many.
+[00:38:26.800 --> 00:38:30.240]  Cuban intelligence basically has run Venezuela for 26 years.
+[00:38:30.800 --> 00:38:31.599]  They brag about it.
+[00:38:32.480 --> 00:38:38.079]  They've been the mothership, the nerve center running the election fraud over in over 100 countries, particularly the Us.
+[00:38:39.440 --> 00:38:42.400]  Not just Smart Matic, that's the main software.
+[00:38:42.960 --> 00:38:51.920]  Five other companies at least Sequoia Dominion, you name it all confirmed, and so it's projecting all this power.
+[00:38:52.159 --> 00:38:55.280]  It is this base that the globalists are using to do this.
+[00:38:56.639 --> 00:39:04.320]  If Trump's serious about our sovereignty and our country being successful, he had to do this and he gave Maduro a chance to leave and then rolled the dice in.
+[00:39:04.320 --> 00:39:06.639]  The militaryary did a superlative job.
+[00:39:11.280 --> 00:39:13.039]  And now they're trying to organize the military.
+[00:39:13.280 --> 00:39:15.680]  They're talking about striking the U.S, all this crap.
+[00:39:17.760 --> 00:39:19.280]  Their public's not going to put up with it.
+[00:39:19.760 --> 00:39:23.920]  The momentum is on our side, but there's still some pitfalls here.
+[00:39:25.280 --> 00:39:40.800]  But the fact that Maduro is in New York and is now in law enforcement custody, and you know that they are going to be meeting with him, you know, it's already happening and saying, look, give us the networks, give us the groups that already have us, former intelligence chiefs and others.
+[00:39:44.160 --> 00:39:48.480]  And confirm this, go public, and you can walk.
+[00:39:50.400 --> 00:39:54.320]  And it will dismantle completely the Democrats.
+[00:39:58.480 --> 00:40:06.880]  And then if Trump can get a real AG and some real people to actually prosecute, this is the death blow.
+[00:40:08.960 --> 00:40:10.640]  So it's a historic moment.
+[00:40:10.880 --> 00:40:12.000]  It's extremely dangerous.
+[00:40:12.320 --> 00:40:13.360]  It's extremely bold.
+[00:40:15.440 --> 00:40:19.840]  But then you've got to understand separately, we've followed these elections.
+[00:40:20.720 --> 00:40:25.360]  Even the global leftist UN monitoring groups said Maduro stole the last two elections.
+[00:40:27.760 --> 00:40:30.880]  They torture them to death.
+[00:40:31.200 --> 00:40:32.480]  They do all this terrible stuff.
+[00:40:33.600 --> 00:40:43.600]  And all over the world, Venezuelans came out cheering by the millions for what happened here.
+[00:40:45.600 --> 00:40:48.160]  And so I stand with them in solidarity.
+[00:40:49.600 --> 00:40:52.000]  So this is a return to the Monroe doctrine.
+[00:40:53.440 --> 00:41:16.979]  This is a return to America first policy, this is a limited military law enforcement operation, special military operation to use a Putin term, to reassert U.S. dominance in this hemisphere and let foreign powers know you will not use these wealthy nations you've hijacked and controlled to project your power into the United States.
+[00:41:24.789 --> 00:41:25.550]  That's it.
+[00:41:25.920 --> 00:41:27.600]  Now, I'm going to ask the listeners this.
+[00:41:28.880 --> 00:41:37.600]  Would you have it that we just let China and Cuba all do this and continue to run our election systems and continue to flood us with all the drugs and all the rest of it?
+[00:41:40.960 --> 00:41:46.080]  It is a fact that Venezuela controls the major Mexican drug cartels.
+[00:41:47.120 --> 00:41:47.600]  It is a fact.
+[00:41:47.920 --> 00:41:51.200]  They don't just control TDA out of Venezuela.
+[00:41:51.360 --> 00:41:52.560]  They control MS13.
+[00:41:54.880 --> 00:41:57.440]  Venezuelan intelligence sits above all of them.
+[00:42:00.000 --> 00:42:04.400]  And the production facilities up in Canada, they bossed flooding Fentanyl Land.
+[00:42:04.640 --> 00:42:07.200]  Is Venezuela, is TDA?
+[00:42:08.640 --> 00:42:09.120]  Look it up.
+[00:42:10.640 --> 00:42:13.840]  They go, oh, not much of it comes out of Venezuela itself.
+[00:42:14.000 --> 00:42:16.080]  Well, yeah, it's a global corporation.
+[00:42:16.160 --> 00:42:17.120]  It's a global mafia.
+[00:42:17.519 --> 00:42:19.599]  It has its operatives all over the world.
+[00:42:26.548 --> 00:42:33.079]  Venezuelan's intelligence groups had, last time I checked, 10 times the funding of the CIA.
+[00:42:33.680 --> 00:42:35.920]  Do you have any idea how much money they've got?
+[00:42:38.080 --> 00:42:39.440]  Yeah, their people don't get it.
+[00:42:41.519 --> 00:42:42.800]  More gold than all of Africa.
+[00:42:43.079 --> 00:42:45.239]  More oil than all the U.S. and Saudi Arabia.
+[00:42:53.358 --> 00:42:59.128]  And if this was a normal globalist operation, they'd go in there, we'd take over Iraq, and then China's given the oil fields.
+[00:43:04.080 --> 00:43:15.200]  With Trump, everything he goes and does literally is maximized to pump as much money into the average person's pockets as possible because Trump understands his hospitality man.
+[00:43:15.840 --> 00:43:20.320]  If the little guy ain't making money, you're not going to have an infrastructure to spin yours.
+[00:43:20.640 --> 00:43:22.480]  Henry Ford was the guy that innovated this.
+[00:43:23.600 --> 00:43:27.200]  He said, I'm going to pay my employees three times what other car companies do.
+[00:43:27.520 --> 00:43:28.800]  I'll have all the best workers.
+[00:43:29.520 --> 00:43:32.400]  And I'll give them discounts on Ford vehicles.
+[00:43:33.360 --> 00:43:36.240]  And then almost every employee bought the vehicles.
+[00:43:38.560 --> 00:43:38.640]  Yeah.
+[00:43:39.520 --> 00:43:43.360]  That's grow the pie model, not the great reset make-over-money-poor model.
+[00:43:44.960 --> 00:43:49.280]  Not the New World Order communist model, but the American model.
+[00:43:51.680 --> 00:43:53.840]  And did Henry Ford get less?
+[00:43:54.160 --> 00:44:02.000]  Less powerful, or he became totally dominant in just a decade and was selling, if you look it up, more vehicles than everybody combined.
+[00:44:02.160 --> 00:44:17.760]  Because of that one move, because he paid three times what anybody else did to his employees and he gave them a discount, a massive discount, and basically sold them vehicles at costs, but he scaled up his operation with that.
+[00:44:18.960 --> 00:44:20.000]  That's the Trump model.
+[00:44:22.000 --> 00:44:23.120]  That's how you do it.
+[00:44:24.480 --> 00:44:26.080]  You make the little guy successful.
+[00:44:26.320 --> 00:44:28.080]  That makes you ten times more successful.
+[00:44:29.040 --> 00:44:35.840]  But this globalist chicken shit thing is, no, The Soros model is bankrupt everything, destroy everything, and rule over ashes.
+[00:44:36.880 --> 00:44:38.800]  That is needle dick behavior.
+[00:44:40.400 --> 00:44:41.440]  They have a name of it.
+[00:44:41.520 --> 00:44:43.120]  It's the most common form of government in history.
+[00:44:43.280 --> 00:44:44.240]  It's called feudalism.
+[00:44:45.440 --> 00:44:46.160]  Keep them poor.
+[00:44:46.480 --> 00:44:47.360]  Keep them under your thumb.
+[00:44:47.760 --> 00:44:48.800]  That's what communism is.
+[00:44:49.360 --> 00:44:52.160]  I got dozens of these clips, but let's go to clip 70.
+[00:44:52.320 --> 00:44:53.360]  Here's a Venezuelan lady.
+[00:44:53.680 --> 00:44:57.600]  Talk about the reality and here's a man on the street showing all these white liberals.
+[00:44:57.920 --> 00:45:00.800]  It all turns out paid by Soros and some other groups all over the country.
+[00:45:01.120 --> 00:45:04.000]  The same sign, same group saying, hey, you've been to Venezuela.
+[00:45:04.160 --> 00:45:04.720]  What do you know?
+[00:45:04.880 --> 00:45:05.600]  Here's a clip.
+[00:45:06.160 --> 00:45:09.040]  If you're not from Venezuela, you better shut the fuck up.
+[00:45:09.600 --> 00:45:14.800]  I've seen a lot of videos of gringos trying to explain Venezuela to Venezuelans.
+[00:45:15.120 --> 00:45:17.920]  You don't even know the difference between Venezuela and Mexico.
+[00:45:18.320 --> 00:45:20.560]  You can't even point at Venezuela in a fucking map.
+[00:45:20.800 --> 00:45:22.640]  You don't know what it means to live in starvation.
+[00:45:23.120 --> 00:45:31.760]  You never saw a family. member dying because you didn't have the medication while the members of the Chavismo are walking with relics in their hands?
+[00:45:32.240 --> 00:45:36.560]  Do you want to know how many people died trying to come to America, going through a jungle?
+[00:45:37.040 --> 00:45:39.280]  Do you want to know how many women were raped there?
+[00:45:40.400 --> 00:45:44.640]  We are eight million Venezuelans who have left Venezuela.
+[00:45:45.200 --> 00:45:46.800]  You don't know what it means to live like that.
+[00:45:47.040 --> 00:45:51.360]  You are too freaking busy eating your Starbucks with almond milk, you motherfucker.
+[00:45:51.520 --> 00:45:52.720]  I have a question for you guys.
+[00:45:53.120 --> 00:45:55.600]  Where were you when they were killing us?
+[00:45:56.240 --> 00:45:58.720]  Where were you when they were killing students?
+[00:45:59.280 --> 00:46:01.120]  Students who didn't have any weapons?
+[00:46:01.760 --> 00:46:11.360]  You were too freaking busy drinking your Starbucks with all milk, so you better shut the fuck up and take Venezuela out of your filthy mouth.
+[00:46:12.400 --> 00:46:13.280]  How are you guys?
+[00:46:13.440 --> 00:46:14.400]  Where are you from guys?
+[00:46:16.320 --> 00:46:16.400]  No.
+[00:46:16.880 --> 00:46:17.760]  Hi guys, where are you?
+[00:46:17.840 --> 00:46:18.320]  No more war.
+[00:46:18.560 --> 00:46:19.120]  Where are you from?
+[00:46:19.680 --> 00:46:19.760]  Here.
+[00:46:20.800 --> 00:46:21.120]  From here?
+[00:46:21.920 --> 00:46:23.680]  And why are you protesting right now?
+[00:46:23.680 --> 00:46:24.640]  Right now, today.
+[00:46:25.120 --> 00:46:26.400]  No more wars in Venezuela.
+[00:46:27.120 --> 00:46:28.560]  No more wars in Venezuela.
+[00:46:28.800 --> 00:46:31.040]  And you know about the situation in Venezuela?
+[00:46:31.440 --> 00:46:31.520]  Yes.
+[00:46:32.720 --> 00:46:35.120]  What do you know about the situation in Venezuela?
+[00:46:39.920 --> 00:46:41.920]  So you want to give me an answer?
+[00:46:44.480 --> 00:46:45.360]  Because we can talk.
+[00:46:45.760 --> 00:46:47.280]  I'm not aggressive or anything.
+[00:46:48.240 --> 00:46:49.920]  I just want to talk, actually.
+[00:46:51.440 --> 00:46:57.680]  So we have here a group of people that they are protesting because they don't want any more war in Venezuela.
+[00:46:58.880 --> 00:47:02.480]  But all these people, there's no one here from Venezuela.
+[00:47:04.000 --> 00:47:07.760]  So from all these people, no one is from Venezuela.
+[00:47:08.560 --> 00:47:15.600]  These are people from the United States, these are people from other places, but there's no people from Venezuela.
+[00:47:16.720 --> 00:47:19.680]  And actually, I am from Venezuela.
+[00:47:20.880 --> 00:47:25.040]  Andres Bermudez Portillo from Maracaibo, Venezuela.
+[00:47:25.760 --> 00:47:29.520]  I spent time in jail because of the regiment of Nicolás Maduro.
+[00:47:30.160 --> 00:47:43.280]  We have 25 years with a dictatorship and right now, in the moment that somebody takes attention of that situation, people decide to protest because they don't want war.
+[00:47:44.880 --> 00:47:50.960]  So in the past five years of 30 million people that live in Venezuela, more than 10 million.
+[00:47:53.760 --> 00:48:03.440]  So these people is right now protesting because they don't want that we, the Venezuelan people, recover all freedom.
+[00:48:04.800 --> 00:48:08.480]  So these people don't want that Venezuela be free.
+[00:48:09.360 --> 00:48:13.920]  These people is just here because they want to attack Donald Trump.
+[00:48:14.800 --> 00:48:34.320]  And they want to use the name of my country and the name of my people to do this without caring about all the people that has died and is suffering right now in a jail in Venezuela because of this regime.
+[00:48:35.760 --> 00:48:37.040]  We got three more hours coming up.
+[00:48:37.200 --> 00:48:46.960]  I could fill the whole three hours with eloquent Venezuelans in Venezuela, in the US, in Brazil, in Spain, in all just incredible speakers, by the way.
+[00:48:47.840 --> 00:48:49.040]  It's explaining what goes on.
+[00:48:49.280 --> 00:48:50.000]  You can study it.
+[00:48:50.720 --> 00:48:51.440]  It's incredible.
+[00:48:52.160 --> 00:49:02.240]  Now, I want to come back, get into their manipulation or election fraud on record, why Trump did this, the pitfalls, the attacks that are going to come, and more.
+[00:49:04.320 --> 00:49:13.200]  But before we do that, remember, I'm funded by you, the listeners, not by Israel, not by Qatar, not by the Republicans, not by the Democrats.
+[00:49:14.560 --> 00:49:19.760]  I am funded by the Aleksandr Store.com, the best supplements, the widest selection of Patriot apparel.
+[00:49:20.240 --> 00:49:21.360]  T-shirts, ball caps, all.
+[00:49:21.360 --> 00:49:49.280]  sure it's ball caps all of it ultramethylene blue we have the best game changer you're insane if you don't get it you can right now buy any supplement and get a free huge bottle of shilogy gummies talk about a super nutrient compound libido stamina energy clarity focus immune system or atomic defense is a supercharged immune boosting system great to take during the winter You can pick either one of the supplements free.
+[00:49:49.520 --> 00:49:50.320]  Buy any other supplement.
+[00:49:50.560 --> 00:49:54.160]  Buy a $20 supp supplement and then get the shell jeans like $40.
+[00:49:54.480 --> 00:49:56.480]  Methylene blue is like $35 free.
+[00:49:57.600 --> 00:49:58.720]  That is one hell of a deal.
+[00:49:58.800 --> 00:50:03.440]  We have the creatine gummies the highest quality creatine, five milligrams per gummy that's your allowance every day.
+[00:50:03.760 --> 00:50:06.640]  So good for you, not just for your exercise, it's great for your brain.
+[00:50:08.080 --> 00:50:09.120]  Free gift right now.
+[00:50:09.360 --> 00:50:15.280]  That deal is running until january 8th at Theologystore.com and I thank you all for your support.
+[00:50:15.680 --> 00:50:18.640]  We're not like comics, put a gun to your head and then use your money against you.
+[00:50:18.800 --> 00:50:19.440]  No, it's free.
+[00:50:19.520 --> 00:50:27.040]  Will you make the decision to go to Thealekshonestore.com and if you're going to buy anything there, become a vip canceling time for free.
+[00:50:27.920 --> 00:50:28.960]  You spend 30 a month.
+[00:50:29.040 --> 00:50:29.680]  Be a vip.
+[00:50:29.920 --> 00:50:33.440]  You get 40 instantly every month to spend in the store.
+[00:50:33.600 --> 00:50:35.520]  Special deals, special offers, special sales and everything.
+[00:50:35.680 --> 00:50:38.800]  So if you're going to buy anything, become a vip hour number two straight ahead.
+[00:50:43.600 --> 00:50:46.560]  All right, let me talk about this briefly and we'll come back into all the big news.
+[00:50:47.280 --> 00:51:00.800]  I I did a special saturday show yesterday and you've you've heard me talk about this hundreds of times as a regular listener that Trump went with Kim Jong-un and showed him a video graphic of factories and hotels and golf courses and said, you can empower your people.
+[00:51:01.040 --> 00:51:04.080]  Look at South Korea as the most successful country per capita in the world.
+[00:51:04.560 --> 00:51:05.520]  You guys are the same people.
+[00:51:05.760 --> 00:51:06.240]  You're smart.
+[00:51:06.480 --> 00:51:07.040]  Get out from under this.
+[00:51:07.200 --> 00:51:11.280]  And Kim Jong-un literally cried and said, came out in the news, China won't let me.
+[00:51:12.480 --> 00:51:18.720]  So I always talk about Trump being a hospitality man, hotels and resorts and golf courses.
+[00:51:19.760 --> 00:51:21.440]  It's not about him individually making money.
+[00:51:21.680 --> 00:51:22.960]  Obviously, it is at one level.
+[00:51:23.200 --> 00:51:28.640]  He just understands prosperity in general is good for society and a rising tide raises all ships, as Kennedy said.
+[00:51:28.800 --> 00:51:30.000]  So that's always what I explain.
+[00:51:31.040 --> 00:51:38.160]  And that Trump sees how wealthy Venezuela is and really wants to empower it like his no tax on tips and all the stuff he's doing here and trying to get all the investment here.
+[00:51:39.120 --> 00:51:40.160]  And he understands that.
+[00:51:40.960 --> 00:51:45.360]  And so I explained that and said he cares about his family and his future and his legacy.
+[00:51:45.840 --> 00:51:46.800]  Well, that got spun.
+[00:51:46.960 --> 00:52:07.920]  And look at this by secular talk, Kyle Kalinskysky and all these other Democrats working with the man that's very proud of his Hitler love, Stew Peters, is their old ally because it's anti-Trump, anti-American, misrepresenting saying, I want big corporations to profit and I'm jerking off thinking about billions for the Trump kids and golden statues.
+[00:52:08.320 --> 00:52:09.120]  That's not what I said.
+[00:52:10.160 --> 00:52:16.880]  So they cut out what I said at the front and back and explained that Trump wants prosperity, the globalists want austerity.
+[00:52:17.920 --> 00:52:18.720]  That's the great reset.
+[00:52:18.960 --> 00:52:38.960]  So do you want communism and forced austerity and locked in your house and forced injections or do you want Trump trying to get the free market laissez faire system going again and retake control of American sovereignty in our hemisphere and the Monroe doctrine getting back to what made America great, back to what we're designed to do.
+[00:52:41.600 --> 00:52:42.960]  That's what we're talking about here.
+[00:52:44.080 --> 00:52:48.720]  But the best they can do is say Jones wants corporations to loot Venezuela.
+[00:52:48.880 --> 00:52:52.800]  No, the communists and the ChiComs already did that.
+[00:52:53.760 --> 00:52:57.040]  And they already stole our elections with their smart matte systems and all the rest of it.
+[00:52:58.640 --> 00:53:00.720]  So that's what I said yesterday.
+[00:53:01.200 --> 00:53:02.240]  You can go watch the show.
+[00:53:03.040 --> 00:53:07.040]  It's a real-time show on X and Rumble and InfoWars yesterday Saturday show, very informative.
+[00:53:07.440 --> 00:53:09.520]  And you can go watch what I said today in full.
+[00:53:09.840 --> 00:53:13.280]  They'll probably take this clip out of context and say I said something else.
+[00:53:13.840 --> 00:53:19.280]  This is all they can do, folks, because they can't stand against the reality of what I'm laying out here.
+[00:53:19.840 --> 00:53:20.480]  America's back.
+[00:53:20.880 --> 00:53:22.080]  America's making the decisions.
+[00:53:22.240 --> 00:53:24.000]  You can say Trump's making a wrong decision.
+[00:53:24.240 --> 00:53:26.000]  I respect Tucker saying that at MTG.
+[00:53:26.160 --> 00:53:27.680]  They're doing it from a place of being reasonable.
+[00:53:27.760 --> 00:53:29.040]  I'll play those clips coming up.
+[00:53:29.200 --> 00:53:29.840]  This could go wrong.
+[00:53:30.000 --> 00:53:32.720]  I said Trump probably shouldn't do it, but I understood why he was doing it.
+[00:53:33.520 --> 00:53:33.840]  All right.
+[00:53:34.160 --> 00:53:36.720]  So here's the out-of-context clip to misrepresent.
+[00:53:37.200 --> 00:53:37.920]  We'll come right back.
+[00:53:38.160 --> 00:53:38.640]  Stay with us.
+[00:53:40.159 --> 00:53:47.679]  If Trump didn't leave the government in place, it's been oppressing people, but still has the infrastructure, it would descend into total collapse.
+[00:53:47.840 --> 00:53:54.570]  He's got to get the infrastructure turned back on, crank up the funding.
+[00:53:54.880 --> 00:54:00.720]  He can get these big corporations to commit to go in with major aid projects, major hiring projects.
+[00:54:00.880 --> 00:54:01.680]  That's what Trump does.
+[00:54:02.160 --> 00:54:03.280]  He's a hospitality guy.
+[00:54:03.440 --> 00:54:07.200]  He looks at that and goes, God, we can build a lot of Trump towers and golf courses down there.
+[00:54:07.760 --> 00:54:10.560]  And he wants to have his kids down there after he's dead in 10 years.
+[00:54:11.120 --> 00:54:14.240]  And there's just Trump towers everywhere and golf courses and everybody's filthy rich.
+[00:54:14.880 --> 00:54:16.480]  And that's what Trump likes.
+[00:54:16.640 --> 00:54:18.400]  He likes golden toilets and jet airplanes.
+[00:54:18.480 --> 00:54:23.040]  And he likes seeing a nice neighborhoods and happy people because they come into his hotels.
+[00:54:23.200 --> 00:54:25.280]  I mean, it's just a normal actual view.
+[00:54:26.400 --> 00:54:27.760]  The globalists are feudalists though.
+[00:54:27.840 --> 00:54:28.640]  They're feudal lords.
+[00:54:28.720 --> 00:54:29.760]  They want you poor to control you.
+[00:54:29.840 --> 00:54:30.800]  That's the great reset.
+[00:54:31.040 --> 00:54:31.760]  That's her operation.
+[00:54:32.000 --> 00:54:37.920]  So at first, the middle of the night after the attacks happened, a few hundred would show up here, a few thousand there.
+[00:54:38.240 --> 00:54:47.280]  Then by dawn, you could hear everyone celebrating from their windows and screaming and celebrating from the starvation and death and oppression.
+[00:54:47.520 --> 00:54:49.360]  And then by the morning, there were millions in the streets.
+[00:54:50.240 --> 00:54:51.760]  Let's roll, start over with audio.
+[00:54:51.840 --> 00:54:52.180]  Here it is.
+[00:54:59.660 --> 00:55:04.689]  I'm definitely going to do this tomorrow, but we should probably do it a little bit tonight.
+[00:55:06.880 --> 00:55:08.400]  I'm going to open the phones up here.
+[00:55:08.800 --> 00:55:24.480]  I got a lot of news to hit, but I'm going to take five or six calls Specifically from Venezuelans, whether you're in Venezuela or whether you're in the United States or whether you're in Brazil or Spain or wherever you are, I'd like to hear from Venezuelans.
+[00:55:24.640 --> 00:55:26.880]  By the way, if you disagree with me, I'd love to hear from you too.
+[00:55:29.040 --> 00:55:30.640]  But let's hear from Venezuelans.
+[00:55:30.800 --> 00:55:33.280]  And I'm going to definitely take a lot of calls from Venezuelans tomorrow.
+[00:55:33.440 --> 00:55:34.320]  We'll take some tonight.
+[00:55:35.280 --> 00:55:37.680]  Before the show, I was like, oh, let me open the phones up for Venezuelans.
+[00:55:37.760 --> 00:55:38.240]  And I forgot.
+[00:55:38.320 --> 00:55:39.920]  I'm like, oh, that's what I wanted to do.
+[00:55:40.960 --> 00:55:43.520]  So we're going to turn on the phone system here right now.
+[00:55:44.800 --> 00:55:53.600]  And we're going to give the toll-free number out to intersperse Venezuelans on your take on what I've said.
+[00:55:53.760 --> 00:55:54.320]  Is it accurate?
+[00:55:54.400 --> 00:55:54.960]  You disagree?
+[00:55:55.120 --> 00:55:55.520]  You agree?
+[00:55:56.640 --> 00:56:00.880]  And by the way, Tucker has said he was against regime change and laid out really good reasons.
+[00:56:01.840 --> 00:56:05.280]  MTG went on the news this morning and said that she thinks it's not in America's interest.
+[00:56:05.840 --> 00:56:07.200]  And she makes some really good points.
+[00:56:08.560 --> 00:56:36.400]  I've said understanding the Monroe doctrine, what Trump said he would do, understanding his reasons for it i get it i understand it i think it was dangerous and roll the dice i'm against israel trying to get us to strike iran again i was against it when they did last time but now they want to go to full war that was my concern now they want to hit all the missile sites not just nuke sites i know trump didn't overthrow Syria that happened right before he got in and I don't think he's meeting with the new leader of it, but you know, he's doing it.
+[00:56:36.560 --> 00:56:37.600]  I said, I think that's wrong.
+[00:56:37.680 --> 00:56:38.800]  I call balls and strikes.
+[00:56:38.960 --> 00:56:43.040]  And the listeners that are totally pro-Trump get upset and they go, wait a minute, you're defending Trump, but you also criticize him a lot.
+[00:56:43.120 --> 00:56:44.880]  Well, that's just what I do.
+[00:56:45.840 --> 00:56:50.720]  I have my research, my worldview, what I believe is accurate, which has been proven to be the most accurate thing out there, I think.
+[00:56:51.760 --> 00:56:53.920]  And when Trump's going the wrong direction, I say it.
+[00:56:54.240 --> 00:56:56.800]  But in general, he really cares about the country.
+[00:56:57.680 --> 00:56:58.640]  He wants prosperity.
+[00:56:58.880 --> 00:56:59.680]  He does want peace.
+[00:57:01.120 --> 00:57:02.000]  In fact, I have the clip.
+[00:57:02.080 --> 00:57:03.120]  I forgive if there's so many.
+[00:57:03.280 --> 00:57:04.960]  I sent him like 100 clips, literally.
+[00:57:05.680 --> 00:57:07.040]  Pull up the Hag Sethwin.
+[00:57:08.080 --> 00:57:09.760]  I know it's in here because I sent it to you.
+[00:57:10.080 --> 00:57:12.720]  I just got in here and then the list was so long I couldn't read the whole thing.
+[00:57:13.040 --> 00:57:13.760]  I sent all the videos.
+[00:57:13.840 --> 00:57:15.920]  It's one thing I said them, then I'm going to go over them all again.
+[00:57:17.760 --> 00:57:23.680]  But Hegseth was on the news and they're interviewing me and they said, well, this is like Iraq regime change.
+[00:57:23.920 --> 00:57:25.600]  He said, no, that was for destabilization.
+[00:57:26.960 --> 00:57:29.040]  He said, this is about stabilization.
+[00:57:30.000 --> 00:57:33.600]  The globalists were using Venezuela for destabilization.
+[00:57:35.040 --> 00:57:38.000]  And that's absolutely true.
+[00:57:39.040 --> 00:57:46.000]  So we're just going to let these foreign powers come in here and do this and let them do this.
+[00:57:46.240 --> 00:57:51.040]  And, you know, Maduro had a chance to leave, but he didn't.
+[00:57:53.920 --> 00:57:55.600]  So that's where we are right now.
+[00:57:58.320 --> 00:58:12.400]  But even CNN has to admit that this operation went so well, it sent shockwaves through the world and has really, upset the globalists.
+[00:58:12.640 --> 00:58:26.080]  And that's what this is really all about, is the whole globalist new world order system being dismantled and not letting these international bodies and globalist groups control our country anymore.
+[00:58:26.240 --> 00:58:28.720]  You can say Trump is not doing the best job.
+[00:58:28.960 --> 00:58:30.240]  You can say it's too dangerous.
+[00:58:30.640 --> 00:58:31.680]  Maybe he shouldn't do it.
+[00:58:32.000 --> 00:58:38.619]  You cannot disagree that he's in charge and we elected him and that this is a departure from everything we've seen in the past.
+[00:58:44.338 --> 00:58:59.018]  And you cannot deny that Nicolas Maduro opened up his prisons and flooded the U.S. in a deal with Biden with their most hardened criminals, who then are the foot soldiers of Maduro for the drug dealing and the murder for hire and the extortion.
+[00:58:59.200 --> 00:58:59.840]  all the rest of it.
+[00:59:02.400 --> 00:59:05.840]  So here's the toll-free number for Venezuelans to call in, only Venezuelans.
+[00:59:07.520 --> 00:59:10.000]  877-789-2539.
+[00:59:10.960 --> 00:59:24.560]  You're just your country code and then 877-789-2539-877-789-2539-877-789-2539.
+[00:59:25.040 --> 00:59:30.320]  While we're finding the Rubio clip, I know I had the, I'm not going to send that one to you.
+[00:59:30.480 --> 00:59:31.280]  Point is that just clear.
+[00:59:31.520 --> 00:59:32.080]  It doesn't matter.
+[00:59:32.800 --> 00:59:37.680]  Wow, even CNN's Russia, China, and Iran are privately impressed by this military dominance in Venezuela.
+[00:59:37.840 --> 00:59:38.400]  Here's a clip.
+[00:59:39.920 --> 00:59:42.720]  Tell me how this news is being received in Iran?
+[00:59:43.040 --> 00:59:44.640]  How is it being received in Russia?
+[00:59:45.360 --> 00:59:46.720]  How is it being received in China?
+[00:59:48.800 --> 00:59:54.240]  All three, predictably, will deplore this kind of activity publicly.
+[00:59:55.360 --> 01:00:00.320]  Privately, they will be impressed with the military capability here.
+[01:00:01.280 --> 01:00:06.560]  I would argue none of those three militaries could have executed an operation like this.
+[01:00:07.040 --> 01:00:09.680]  And again, we just we tend to just breeze by this.
+[01:00:11.040 --> 01:00:23.280]  The idea of finding, fixing, kidnapping, taking him out alive with his wife, no casualties on the side of the US, that's an extraordinary military operation.
+[01:00:23.920 --> 01:00:37.040]  So I think while there will be a lot of public condemnation of the United States, predictably, from those three nations, privately they'll be saying to themselves, hmm, that's a very capable military.
+[01:00:37.360 --> 01:00:42.960]  That's not a bad thought to pop up in Beijing, Moscow and Tehran these days.
+[01:00:45.520 --> 01:00:52.400]  Remember when Trump wouldn't do regime change on Maduro eight years ago, we have the clips, CNN all of them said he's a Russian agent.
+[01:00:52.560 --> 01:00:52.960]  That's why.
+[01:00:54.000 --> 01:00:56.240]  Now they knew Venezuela was their bad man paying them money.
+[01:00:56.400 --> 01:00:57.280]  They didn't want regime change.
+[01:00:57.600 --> 01:01:00.480]  They just wanted to say, oh, look, Trump won't go do regime change.
+[01:01:00.960 --> 01:01:02.560]  So he's on Russia's payroll.
+[01:01:04.000 --> 01:01:06.240]  Russia's involved some of Venezuela, but nothing like China.
+[01:01:06.640 --> 01:01:09.280]  So it was all just ways to score points.
+[01:01:11.280 --> 01:01:16.080]  But again, do you want the U.S. to be dominant in this hemisphere or do you want the Chi-Congs?
+[01:01:17.520 --> 01:01:18.640]  This is geopolitics.
+[01:01:19.760 --> 01:01:20.960]  And we got overextended.
+[01:01:21.040 --> 01:01:22.240]  We shipped our jobs to China.
+[01:01:22.800 --> 01:01:23.760]  The dollar's in trouble.
+[01:01:24.480 --> 01:01:39.200]  This action and this 18 trillion now on the balance sheet just put the U.S. in an even more powerful position to have everybody pull out of China, which is happening, and move their money here.
+[01:01:40.480 --> 01:01:41.040]  It's now over.
+[01:01:41.200 --> 01:02:06.480]  over it was 19 trillion that's been budgeted to come here from the world about nine trillions already here in less than a year with this 18 trillion put on the sheet if it's successful and because the the fish is up to the boat but we ain't got it you know in in the boat yet but it's up to the boat i mean just this move alone The U.S. is in the dominant position.
+[01:02:06.720 --> 01:02:08.480]  Everybody sees us as dominant and winning.
+[01:02:08.720 --> 01:02:10.000]  They move the resources back here.
+[01:02:10.320 --> 01:02:10.640]  We win.
+[01:02:10.960 --> 01:02:12.400]  That's how you get out of the debt.
+[01:02:12.560 --> 01:02:14.000]  The globalist position is for collapse.
+[01:02:14.560 --> 01:02:17.200]  That's how you innovate your way out of this.
+[01:02:18.000 --> 01:02:20.159]  This is the move.
+[01:02:26.358 --> 01:02:31.219]  We'll get to Hank Seth talking about this being the opposite of destabilization.
+[01:02:31.280 --> 01:02:32.880]  This is stabilization in a moment.
+[01:02:33.120 --> 01:02:35.440]  But let's look at white liberal women.
+[01:02:36.160 --> 01:02:42.960]  fuming the following United States saying how dare you violate somebody's sovereignty well how dare them send their prisoners here and eight million people displaced.
+[01:02:43.200 --> 01:02:46.640]  And how dare they starve by death and how dare they steal our elections.
+[01:02:46.800 --> 01:02:47.280]  How about that?
+[01:02:48.640 --> 01:02:51.120]  And people just hear this and go, Venezuela's seeing elections.
+[01:02:51.840 --> 01:02:53.440]  I've been covered for 25 years.
+[01:02:54.800 --> 01:02:55.280]  It's on record.
+[01:02:55.600 --> 01:02:58.320]  I'll play the newscast from CNN 18 years ago.
+[01:02:58.560 --> 01:02:59.440]  It's not even a secret.
+[01:03:01.360 --> 01:03:05.040]  The top five election companies are all really run by SmartMatic in Venezuela.
+[01:03:07.520 --> 01:03:13.120]  They have federal judges default Mike Lindell last year and say, well, these machines cannot be remotely accessed.
+[01:03:13.440 --> 01:03:14.720]  You lied, so you're guilty.
+[01:03:14.800 --> 01:03:16.560]  Now we'll have a jury trial and how guilty.
+[01:03:16.720 --> 01:03:19.360]  The damn things have cell phones built into them.
+[01:03:19.600 --> 01:03:24.080]  And every time you test them, or look, they've got foreign governments jacking in, stealing it.
+[01:03:24.400 --> 01:03:30.800]  And then when people show the evidence and get a thumb drive in Colorado or wherever, you go to prison.
+[01:03:33.600 --> 01:03:38.080]  I've got congressional testimony where they're hacking the machines on TV in front of you.
+[01:03:40.080 --> 01:03:41.840]  They plug the damn things into the internet.
+[01:03:43.760 --> 01:03:47.200]  Oh, but the machines aren't on the internet, they don't.
+[01:03:47.360 --> 01:03:48.240]  They're not just on the internet.
+[01:03:48.800 --> 01:03:50.880]  We caught them doing it over and over again.
+[01:03:55.120 --> 01:03:56.400]  Hear from these leftist women here.
+[01:03:56.400 --> 01:04:13.680]  It is going into another country with enough firepower to take their president and then saying you're going to charge their president with criminal charges in our country is such an insane breach of sovereignty, I'm like, so shook.
+[01:04:20.448 --> 01:04:38.800]  yeah just a quick question um just so we're all aligned in 2026 we know we're not the good guys right Okay, well, if you're not a bot, which you might be, I don'tt even care.
+[01:04:40.080 --> 01:04:44.240]  Do you know what happens when the United States starts bombing and invading a sovereign state?
+[01:04:44.480 --> 01:04:46.560]  Why do these liberal white women all look like space aliens?
+[01:04:46.800 --> 01:04:48.000]  Why do you mean white people?
+[01:04:48.560 --> 01:04:52.480]  These white women that are liberals all look like insects, like praying manicis?
+[01:04:53.199 --> 01:04:59.179]  The United States bombed Venezuela and then abducted their president and his wife.
+[01:05:10.519 --> 01:05:17.528]  Be honest, who's secretly rooting for Venezuela and Iran?
+[01:05:18.269 --> 01:05:21.788]  Donald Trump, I know that you may not see this video.
+[01:05:22.080 --> 01:05:23.280]  I know, I'm not clear.
+[01:05:24.080 --> 01:05:30.080]  But coño, you can't take the privilege of showing us a photo of that coño and his mother trash the reja.
+[01:05:30.240 --> 01:05:31.840]  Okay, please, we're asking you.
+[01:05:32.320 --> 01:05:35.920]  Today is the best day of our life for all those Venezuelans.
+[01:05:36.240 --> 01:05:38.400]  God my God, today is a blessed day.
+[01:05:38.400 --> 01:05:40.000]  day blessed that we're never going to forget.
+[01:05:40.160 --> 01:05:42.320]  I think that nobody can understand the emotion.
+[01:05:44.160 --> 01:05:50.480]  But since my seven years, me took living in a country where they're crying, thank you Trump.
+[01:05:50.720 --> 01:05:51.520]  You don't speak Spanish.
+[01:05:52.160 --> 01:05:53.360]  But it cuts to white liberals.
+[01:05:53.600 --> 01:05:54.720]  Cocked men groveling.
+[01:05:56.080 --> 01:05:57.520]  They say they do have Maduro.
+[01:05:57.600 --> 01:05:58.080]  Who did he say?
+[01:06:25.589 --> 01:06:29.008]  The Democrats want to set the exact same dictatorship here through election fraud.
+[01:06:30.400 --> 01:06:35.040]  All the blue cities and states are already like Venezuela, total election fraud.
+[01:06:35.119 --> 01:06:37.378]  We got total proof on that, by the way, coming up.
+[01:06:37.779 --> 01:06:39.138]  So this is so massive.
+[01:06:43.429 --> 01:06:48.969]  And this is about the U.S. exercising its authority again, not under globalists, not to build their world government.
+[01:06:49.840 --> 01:06:51.360]  This is about America standing up.
+[01:06:52.800 --> 01:06:55.120]  And it went better than I thought it would.
+[01:06:55.680 --> 01:06:56.400]  I understood the reasons.
+[01:06:56.640 --> 01:06:58.160]  I said I'd back it if it happened.
+[01:06:58.480 --> 01:07:02.800]  But I said don't do it because it's you got too many infiltrators.
+[01:07:02.960 --> 01:07:05.040]  They're going to leak it and sabotage the operation.
+[01:07:05.520 --> 01:07:09.760]  But Trump got around that by having five attacks planned and always pulling back last minute.
+[01:07:10.320 --> 01:07:11.680]  No one knew when he was going to do it.
+[01:07:12.160 --> 01:07:17.760]  The last time he said, literally, when they were in the airspace attack, and they didn't have time to set us up.
+[01:07:18.480 --> 01:07:20.480]  I mean, that is amazing.
+[01:07:21.200 --> 01:07:22.560]  Where Trump's good, he's the best.
+[01:07:22.720 --> 01:07:24.400]  I mean, he's definitely got this down.
+[01:07:25.040 --> 01:07:27.600]  And he's definitely got a Pentagon under his control to a great extent.
+[01:07:27.680 --> 01:07:29.520]  So the globalists are in deep trouble.
+[01:07:29.600 --> 01:07:32.240]  They've got Maduro to turn state secrets and expose their whole network.
+[01:07:32.560 --> 01:07:33.360]  We already know the network.
+[01:07:33.520 --> 01:07:35.200]  We already have their other intelligence chiefs and people.
+[01:07:35.520 --> 01:07:37.680]  I mean, it's ours to lose now.
+[01:07:38.240 --> 01:07:39.840]  The problem is the weak Justice Department.
+[01:07:43.120 --> 01:07:45.760]  All right, we've got Christopher in Ecuador.
+[01:07:47.120 --> 01:07:49.200]  And I guess he's Venezuelan in Ecuador.
+[01:07:49.760 --> 01:07:51.600]  We've got Juan in Denver, Venezuelan.
+[01:07:51.760 --> 01:07:52.960]  Let me give out the toll free number.
+[01:07:53.040 --> 01:07:53.360]  That's great.
+[01:07:53.440 --> 01:07:54.080]  We've got two of you.
+[01:07:54.080 --> 01:07:55.360]  I'm going to go to Breaker in a few minutes.
+[01:07:55.440 --> 01:07:55.920]  Come back to you.
+[01:07:56.000 --> 01:07:56.480]  Please stay there.
+[01:07:56.800 --> 01:08:01.360]  877 789 2539 877 789 2539.
+[01:08:01.440 --> 01:08:04.000]  In fact, I'll go to your calls here in just a moment.
+[01:08:05.280 --> 01:08:08.400]  I know it's hard to call 800 numbers sometimes from overseas.
+[01:08:08.720 --> 01:08:11.280]  I forget what's our regular line?
+[01:08:13.600 --> 01:08:17.440]  Yeah, 512-646-1776.
+[01:08:17.680 --> 01:08:22.960]  So you just put in your country code, 512-646-1776.
+[01:08:23.360 --> 01:08:25.280]  The toll-free line won't work for you overseas.
+[01:08:25.920 --> 01:08:31.520]  Your country code, access, 512-646-1776.
+[01:08:32.640 --> 01:08:32.960]  All right.
+[01:08:33.280 --> 01:08:34.240]  We'll go to you guys in a moment.
+[01:08:34.400 --> 01:08:36.400]  Since I mentioned it, I like to always show you what I mentioned.
+[01:08:36.400 --> 01:08:36.640]  I like to always show you what I mentioned.
+[01:08:36.720 --> 01:08:41.280]  Here's Exodus saying this is the opposite of Iraq, where he was a highly decorated combat veteran.
+[01:08:41.600 --> 01:08:44.640]  This is to stop destabilization here at us.
+[01:08:45.440 --> 01:08:57.280]  Mr. Secretary, in the aftermath of this successful mission, there were tears of joy in Caracas, in Miami, Venezuelan refugees, obviously thrilled to see Maduro out of power, his capture.
+[01:08:57.680 --> 01:09:02.880]  You can understand why they've got all that oil, and yet the country itself has skyrocketing prices.
+[01:09:03.520 --> 01:09:06.080]  His own people have been starving, and yet a meaningful.
+[01:09:06.640 --> 01:09:14.400]  number of Americans would wake up to this news and they'd be ripped back 20 years to another American president, another U.S. intervention.
+[01:09:14.560 --> 01:09:15.920]  I'm thinking of the war in Iraq.
+[01:09:16.480 --> 01:09:21.120]  And that led to a significant loss of U.S. treasure and of U.S. blood.
+[01:09:21.680 --> 01:09:29.360]  Many of the president's own supporters tonight are wondering how is this this time around going to be different and how is it in the U.S. interest?
+[01:09:31.440 --> 01:09:32.560]  It's the exact opposite.
+[01:09:32.880 --> 01:09:39.600]  I mean, we spent decades and decades and spent purchasased in blood and got nothing economically in return.
+[01:09:39.840 --> 01:09:41.680]  And President Trump flips the script.
+[01:09:42.160 --> 01:09:52.560]  He says, through strategic action, we can ensure that we have access to additional wealth and resources, enabling a country to unleash that without having to spend American blood.
+[01:09:52.640 --> 01:09:55.920]  I mean, this was a bold and audacious move, but it was thought through.
+[01:09:56.640 --> 01:09:58.320]  It was well orchestrated.
+[01:09:58.480 --> 01:09:59.920]  Our military had time to set it up.
+[01:10:00.160 --> 01:10:03.040]  He provided the resources, and then he took that bold stroke.
+[01:10:03.360 --> 01:10:05.360]  And through it, we flipped that very dynamic.
+[01:10:05.920 --> 01:10:07.200]  And Americans will benefit.
+[01:10:07.520 --> 01:10:10.080]  Venezuela has a long history of being a rich and prosperous country.
+[01:10:10.640 --> 01:10:14.720]  It has been stolen away from its people by horrific leadership.
+[01:10:15.120 --> 01:10:21.808]  We can do both, help them and help the United States in the Western Hemisphere by re-establishing the Monroe Doctrine.
+[01:10:22.208 --> 01:10:26.768]  Peace through strength with our allies was demonstrated last night.
+[01:10:27.248 --> 01:10:31.728]  And I think the hemisphere, I know the hemisphere will benefit from President Trump's bold action.
+[01:10:31.968 --> 01:10:32.288]  That's right.
+[01:10:32.528 --> 01:10:36.608]  And Trump a month ago put out the new international strategic operation.
+[01:10:37.328 --> 01:10:39.408]  And Russia said, well, we don't totally agree with it.
+[01:10:39.648 --> 01:10:42.208]  We know we're in competition, but at least you're being honest.
+[01:10:42.368 --> 01:10:43.488]  And China had to go, okay.
+[01:10:44.288 --> 01:10:46.528]  Because it's like, you make your decisions, we make ours.
+[01:10:46.688 --> 01:10:48.928]  We're not having the UN and BlackRock do that.
+[01:10:49.168 --> 01:10:49.488]  That's over.
+[01:10:50.048 --> 01:10:52.848]  And we're not going to put troops on your border.
+[01:10:53.088 --> 01:10:54.208]  You don't put them on ours.
+[01:10:54.608 --> 01:10:54.688]  Okay.
+[01:10:55.328 --> 01:10:56.848]  And we're not going to tell you how to run your country.
+[01:10:57.488 --> 01:10:58.928]  Trump's been totally transparent.
+[01:10:59.008 --> 01:11:07.248]  This isn't a betrayal like the left's trying to, oh, they're going to turn against MAGA because Trump, you know, is gone against his promises.
+[01:11:07.808 --> 01:11:08.688]  He said he would do this.
+[01:11:10.768 --> 01:11:12.368]  And Maduro had to play big boy.
+[01:11:14.208 --> 01:11:17.328]  Now, I will say God's hands on this because the fact that this major operation happened.
+[01:11:18.368 --> 01:11:21.248]  and not one U.S. serviceman died is wild.
+[01:11:22.368 --> 01:11:26.928]  All right, let's go to Juan in Denver, Colorado, who is Venezuelan.
+[01:11:28.848 --> 01:11:32.128]  Obviously, a lot of Venezuelans fleeing tyranny live there.
+[01:11:32.608 --> 01:11:34.448]  And Juan, what do you make of this?
+[01:11:34.608 --> 01:11:35.328]  Have I been accurate?
+[01:11:35.488 --> 01:11:36.288]  What can you correct?
+[01:11:36.528 --> 01:11:38.048]  What is your view and where do you see this going?
+[01:11:39.328 --> 01:11:39.808]  Hi, Alex.
+[01:11:40.288 --> 01:11:41.088]  Thanks for having me.
+[01:11:43.568 --> 01:11:47.248]  Well, for one, I'm ecstatic of what the US did.
+[01:11:47.728 --> 01:11:52.608]  with Maduro, and I believe the 100% of the country believes that.
+[01:11:54.048 --> 01:11:59.648]  Only the people that are being bought by the cartels and the ideology are fighting against it.
+[01:12:01.968 --> 01:12:06.368]  I'm not happy the vice president became president, but I understand the reasons why.
+[01:12:08.528 --> 01:12:24.288]  And I hope that Trump makes her follow the rules and the guidelines the US gives them so they don't steer away, because already yesterday she was giving um a speech, an Anti-trump, Anti-us speech.
+[01:12:25.008 --> 01:12:28.448]  So they're probably now she's trying to organize the militias and military to fight back.
+[01:12:28.608 --> 01:12:32.048]  Agree, but again, Trump doesn't want to go to full war, he wants to force them to have an election.
+[01:12:32.128 --> 01:12:36.288]  But absolutely now she's blaming Sionists because she knows that Israel is very unpopular.
+[01:12:36.528 --> 01:12:38.688]  For my research, Israel has almost nothing to do with this.
+[01:12:38.928 --> 01:12:45.648]  It's all about sovereignty, it's all about oil, it's all about election fraud, it's all about destabilization and stopping that.
+[01:12:46.208 --> 01:12:47.968]  And again, i'll bash Israel all Day.
+[01:12:48.128 --> 01:12:49.168]  I don't like what Israel does.
+[01:12:49.488 --> 01:12:55.648]  My point is she also gave this anti-Zionist speech trying to rally the world like this is the new Gaza to prop her up.
+[01:12:55.968 --> 01:12:57.888]  So it does look like she's going to cause a problem.
+[01:12:58.688 --> 01:13:01.008]  And so Trump may have to drop the hammer.
+[01:13:01.168 --> 01:13:01.648]  What do you think?
+[01:13:02.688 --> 01:13:03.328]  I believe so.
+[01:13:03.808 --> 01:13:03.888]  Yes.
+[01:13:04.448 --> 01:13:07.728]  Trump will need to go a second time like he said it yesterday.
+[01:13:09.008 --> 01:13:10.928]  We'll elaborate on that for people that don't know.
+[01:13:11.328 --> 01:13:19.888]  What, give us your snapshot of what happened in the last 26 years from the wealthiest country per capita, wealthier than the average American to where you are now.
+[01:13:20.208 --> 01:13:24.048]  Describe, have I been accurate or what have I been wrong about?
+[01:13:24.688 --> 01:13:27.488]  Yeah, yeah, I'll keep, I'll give a brief summary.
+[01:13:27.728 --> 01:13:33.488]  So, it all started in 1992, coup d'état by Chavez and a group of military.
+[01:13:34.048 --> 01:13:40.048]  The coup d'état was supported by Venezuelan elites thinking they could control Chavez.
+[01:13:41.728 --> 01:13:47.408]  While he was going to be processed for treason because of the coup d'état, the elite gave him a pardon.
+[01:13:48.128 --> 01:13:52.528]  So he became politically involved and won the election in 1998.
+[01:13:53.248 --> 01:13:57.728]  Then he changed the constitution in 1999 to the new constitution.
+[01:13:58.368 --> 01:14:04.608]  And with that new constitution, he started changing all the institutions in the country with the support of the drug cartels.
+[01:14:06.048 --> 01:14:19.408]  In 2004, he rigged an election, a referendum That everyone knew he rigged it, but because of the power and how he fought even opposition leaders, the people had to follow that.
+[01:14:19.888 --> 01:14:23.168]  And a lot of people died because of that, fighting against it.
+[01:14:23.728 --> 01:14:31.968]  So fast forward, multiple years of protest, fighting, Venezuelans disappeared, opposition.
+[01:14:32.288 --> 01:14:39.568]  My dad is a former Navy officer, had to leave in 2013 because he was, they were waiting for him to kill him.
+[01:14:39.888 --> 01:14:42.688]  So he had to stay in the US US, but then keep going.
+[01:14:42.928 --> 01:14:44.768]  They keep buying the opposition leaders.
+[01:14:45.888 --> 01:14:52.208]  And because of that, is why Venezuela hasn't been able to get their justice.
+[01:14:53.168 --> 01:15:00.528]  And luckily, we have Donald Trump that is doing it now because Venezuelans cannot do it with the current status of the country.
+[01:15:01.248 --> 01:15:04.768]  And the key point you made is people don't realize how rich Venezuela is.
+[01:15:04.848 --> 01:15:05.728]  The people don't get the money.
+[01:15:06.448 --> 01:15:08.128]  Literally, so many people are on the payroll.
+[01:15:08.288 --> 01:15:10.208]  We hear about Israel or Qatar, and they're doing it too in China.
+[01:15:10.688 --> 01:15:14.608]  Venezuela is one of the top players buying people, buying things.
+[01:15:14.768 --> 01:15:20.848]  We have the fake right wing and left wing attacking Trump, attacking me, attacking Venezuelans, defending Maduro.
+[01:15:21.488 --> 01:15:22.768]  How disgusting is that?
+[01:15:24.048 --> 01:15:35.968]  Yeah, no, I experienced it in 2012, I went to San Francisco to vote against Chavez and there were probably two hundred Venezuelans in the line to vote.
+[01:15:36.128 --> 01:15:44.128]  And then the other side of the street of the Venezuelan consulate, there was like fifty percent people chanting for Chavez.
+[01:15:44.448 --> 01:15:47.728]  And I went to the other side and asked them, okay, where are you from?
+[01:15:48.208 --> 01:15:49.408]  What's going on in Venezuela?
+[01:15:49.488 --> 01:15:50.848]  And they were not Venezuelans.
+[01:15:51.648 --> 01:15:54.128]  They were, they didn't know what was going on in Venezuela.
+[01:15:54.368 --> 01:16:00.448]  They were being paid to be like a source of popularity for Chavez, and it's not true.
+[01:16:00.608 --> 01:16:01.808]  And it's happening all over the world.
+[01:16:02.448 --> 01:16:03.808]  It's been happening all over the world.
+[01:16:04.368 --> 01:16:14.208]  How crazy is it your country, richest per capita in this hemisphere, got taken over as a globalist base, is now manipulating hundreds of elections around the world, controlling the software.
+[01:16:14.448 --> 01:16:16.848]  The average American goes, oh yeah, Latin America, right.
+[01:16:17.088 --> 01:16:19.008]  They have no idea how powerful Venezuela is.
+[01:16:20.128 --> 01:16:20.208]  Yes.
+[01:16:20.768 --> 01:16:32.448]  I So I have not believed the election system, but everybody, all the politicians back home, even opposition would tell me, no, Venezuela is Chavista.
+[01:16:32.608 --> 01:16:33.968]  And I'm like, no, that's not true.
+[01:16:34.208 --> 01:16:54.528]  I always had it in my heart until I followed some of the reports from I forgot the name of the authors of this last book of the elections, stolen elections, 77 nations, what happened in the Philippines and the real weird behavior in the United States, very similar to what was happening in Venezuela with smart mafia.
+[01:16:55.888 --> 01:17:03.168]  So yeah, it is crazy, but they have that power, drug money has that power and the evil acts of the world.
+[01:17:04.608 --> 01:17:05.808]  That's right, it's the base.
+[01:17:06.448 --> 01:17:13.088]  Well, hey, it's in bold, is he not, Juan?
+[01:17:15.248 --> 01:17:15.488]  He is.
+[01:17:18.288 --> 01:17:18.768]  He is, man.
+[01:17:18.928 --> 01:17:19.568]  He is something else.
+[01:17:19.648 --> 01:17:20.288]  Thanks, Juan.
+[01:17:20.368 --> 01:17:20.928]  We're back.
+[01:17:23.488 --> 01:17:25.968]  And we'll do this again tomorrow on the main broadcast.
+[01:17:26.048 --> 01:17:27.568]  Hope the phone's up for Venezuelans.
+[01:17:29.728 --> 01:17:31.088]  We got Christopher in Ecuador.
+[01:17:32.848 --> 01:17:34.608]  Of course, a lot of Venezuelans are going to stake.
+[01:17:34.688 --> 01:17:35.328]  Debbie in Florida.
+[01:17:35.488 --> 01:17:35.648]  Why?
+[01:17:37.408 --> 01:17:38.608]  Because there is a war on.
+[01:17:39.088 --> 01:17:43.648]  Or Ellen Judy in California, part of Venezuela, to get your take on it.
+[01:17:43.808 --> 01:17:45.168]  But I've got a bunch of the news to hit.
+[01:17:45.408 --> 01:17:53.888]  But look, the big news is this is Trump reasserting American will and the Monroe doctrine, whether you agree with it or not.
+[01:17:54.288 --> 01:18:00.688]  This is a big, bold move shaking up international order, discrediting the UN, the rules-based order, as they call it.
+[01:18:02.368 --> 01:18:03.088]  This is massive.
+[01:18:03.488 --> 01:18:18.688]  And I've got a whole stack of Lou Dobbs and myself and everything, 15, 16, 18 years ago, explaining Smart Mac and all the fraud and then newscast now suddenly confirming it all and now it's okay to talk about it.
+[01:18:20.208 --> 01:18:21.008]  It's just wild.
+[01:18:21.328 --> 01:18:23.728]  So much is happening, so much is being revealed.
+[01:18:24.128 --> 01:18:28.928]  Yeah, we'd love to fix all this overnight, but we're moving the needle way faster than we ever had before.
+[01:18:29.648 --> 01:18:42.208]  And now they've got Maduro, who was the bag man for the ChiCom's, go to Christopher in Ecuador, lives and works a lot of Venezuelans.
+[01:18:42.528 --> 01:18:43.808]  What is your view on the situation?
+[01:18:45.408 --> 01:18:46.608]  Hey Alex, how's it going?
+[01:18:46.928 --> 01:18:47.568]  Good to talk to you.
+[01:18:47.728 --> 01:18:48.048]  Thank you.
+[01:18:49.808 --> 01:18:51.568]  So I'm an American Ecuadorian.
+[01:18:51.728 --> 01:18:54.048]  My dad's from Massachusetts, my mom's from Ecuador.
+[01:18:54.208 --> 01:18:58.608]  I've lived decades, both in the States and down here in Latin America.
+[01:18:59.168 --> 01:19:00.608]  I'm currently here in Ecuador.
+[01:19:01.408 --> 01:19:05.888]  And as you know, the situation in Ecuador has been really bad in the last couple of years.
+[01:19:06.848 --> 01:19:20.288]  heightened violence and crime and the narco networks, the same people who are basically departing from Venezuela into the Caribbean into the USA, they pass through Ecuador.
+[01:19:21.568 --> 01:19:24.048]  And in the past, we had a leftist president.
+[01:19:24.528 --> 01:19:29.008]  Now we have a new president who seems to be more aligned with the U.S.
+[01:19:29.408 --> 01:19:34.048]  He was in Donald Trump's inauguration, first row.
+[01:19:34.768 --> 01:19:36.768]  I think he was even next to Tucker Carlson.
+[01:19:37.888 --> 01:19:46.848]  So we've seen a huge wave of Venezuelan immigration in the last ten years, and a lot of them are good people.
+[01:19:47.728 --> 01:19:57.808]  It's always the debate about immigration, but some of them have told me like, hey, I'm so happy to just be a waiter here, because they eat freaking cats, and they were, you know, hard it was down there.
+[01:19:58.048 --> 01:20:07.088]  So Ecuador has always Latin America in general has always been struggling with this socialism, this leftism, and it's always been like that down here.
+[01:20:08.048 --> 01:20:12.768]  And I guess just as an American Ecuadorian who's been in both places, I'm super thankful.
+[01:20:13.008 --> 01:20:15.968]  I love America and I'm actually trying to move back this year.
+[01:20:17.168 --> 01:20:25.728]  I just wanted to say, sometimes we lose the forest for the trees and we forget just how privileged we are to be Americans.
+[01:20:26.768 --> 01:20:29.768]  I challenge any American, come down here for a second.
+[01:20:30.047 --> 01:20:31.387]  Yeah, there's pretty places.
+[01:20:31.606 --> 01:20:35.917]  There's Jersey places, beaches, whatever, but it's not good.
+[01:20:36.448 --> 01:20:39.408]  So I just wanted to give a little bit of that perspective.
+[01:20:39.808 --> 01:20:41.328]  I wish the Venezuelans the best.
+[01:20:41.648 --> 01:20:47.408]  Even down here in Ecuador, people were really happy that Maduro is going down.
+[01:20:48.448 --> 01:20:55.808]  And hopefully, the only thing they're worried about now here in Ecuador is that they're closing down the Venezuela drug route.
+[01:20:56.688 --> 01:21:11.488]  Hopefully, that won't mean that Colombia and Ecuador suffer either more migration or a moving of the drug routes to Ecuador, Peru, Colombia, as they now have closed the Venezuelan drug routes.
+[01:21:11.568 --> 01:21:13.888]  So that's just a little bit of what I wanted to share.
+[01:21:14.048 --> 01:21:14.928]  Well, let me ask you this.
+[01:21:15.488 --> 01:21:21.328]  The Venezuelans you talked to, a rough estimate, what percentage are supportive of what Trump just did?
+[01:21:23.568 --> 01:21:29.328]  The other day we ordered like Uber Eats or something and there was a popular vote just on that day.
+[01:21:31.248 --> 01:21:35.568]  The president who is in charge right now, Daniel Nawal, he unfortunately lost.
+[01:21:35.888 --> 01:21:37.008]  It was just a yes or no.
+[01:21:37.728 --> 01:21:43.888]  But the Venezuelan dude who gave me like a hamburger or something, he was like, man, hopefully yes wins.
+[01:21:44.048 --> 01:21:46.048]  Man, I don't want this country to become my country.
+[01:21:47.728 --> 01:21:55.888]  So they're all they're super they're the Venezuelans here just Ecuador isn't the best, but it's definitely a little bit better than Venezuela.
+[01:21:56.048 --> 01:22:02.288]  So the good ones are super thankful to be here just as a waiter, as a bartender, whatever.
+[01:22:03.008 --> 01:22:12.048]  There's super good people, hardworking people, but also in that mass migration, a bunch of the criminals came and, you know, all these criminal networks got connected.
+[01:22:12.128 --> 01:22:21.168]  So I'm glad Trump is, you know, people have been dreaming of this, people have tried this, and I'm not surprised it took Trump to do this, you know?
+[01:22:21.728 --> 01:22:23.088]  Well, not of the woods yet.
+[01:22:23.168 --> 01:22:24.528]  We're going to see what happens, but thank you.
+[01:22:24.848 --> 01:22:26.448]  They're trying to get military opposition to this.
+[01:22:26.608 --> 01:22:27.888]  It's going to get nasty if they do.
+[01:22:28.288 --> 01:22:32.608]  But I think Trump's as they had a god on him so far, it's incredible.
+[01:22:32.688 --> 01:22:33.168]  Thank you so much.
+[01:22:33.808 --> 01:22:37.408]  Judy in California, part Venezuelan, give us your view on the situation.
+[01:22:38.448 --> 01:22:44.368]  Yeah, I've been a fan for a long time, Alex, since probably day one, listening to almost every show.
+[01:22:44.608 --> 01:22:49.088]  I'm a big fan and thanks for everything you've done to help wake up America and people.
+[01:22:50.448 --> 01:22:57.728]  My family in Venezuela is skeptical because of their distrust for the American government.
+[01:22:58.128 --> 01:23:06.608]  They feel that the American government has been infiltrated and is owned by a Sionist Jewws and that is not a faithful remark.
+[01:23:06.848 --> 01:23:09.888]  That is really what my family and I'll tell you.
+[01:23:10.128 --> 01:23:17.968]  The fact that they're leaving the vice president and I think Trump's gonna make them have an election they should be worried about the deep state of the you know, keeping bad people in charge.
+[01:23:19.088 --> 01:23:29.968]  Yeah, they were worried about it, especially all of them, their connections to Israel and the president also of Mexico and the rest of them, all connected to the same international globalist, Helmutic Jews.
+[01:23:30.928 --> 01:23:33.408]  Sure, but you understand Trump going.
+[01:23:33.648 --> 01:23:37.488]  Going after Cuba, after Venezuela, after Mexico, Shinebaum's mad at Trump.
+[01:23:38.048 --> 01:23:38.928]  Cuba's mad at Trump.
+[01:23:39.248 --> 01:23:40.208]  They're not happy about this.
+[01:23:40.928 --> 01:23:53.328]  Well, there's just one way to keep people going along with this and then to make it seem like it's real, but it is all controlled by these Israeli forces and the Sionist groups and most people can see that now and that's what we're fighting for.
+[01:23:53.488 --> 01:23:59.248]  So you think it's not about election fraud, it's not about oil, it's not about China, who's the main force there.
+[01:24:00.048 --> 01:24:05.968]  You agree with the newly installed president of Venezuela, the communist that that Israel did this.
+[01:24:07.088 --> 01:24:15.408]  No, no, what most people believe is that Israel is behind all this and that we have a common enemy and that we should take out Israel first and give ourselves a chance to get along.
+[01:24:15.968 --> 01:24:17.728]  So you'd rather have Maduro still there.
+[01:24:18.848 --> 01:24:19.728]  No, that is not the case.
+[01:24:20.128 --> 01:24:21.408]  That is absolutely a straw man.
+[01:24:23.648 --> 01:24:24.688]  Trump is a Zionist, right?
+[01:24:24.928 --> 01:24:26.528]  Like he works for Scheinbaum.
+[01:24:27.408 --> 01:24:28.448]  No, he is a Zionist.
+[01:24:28.848 --> 01:24:33.168]  I don't think he works for Scheinbaum, but I think he works for the same bankers that Scheinbaum works for.
+[01:24:34.448 --> 01:24:38.848]  Okay, so what should Trump shouldn't have gotten Maduro then?
+[01:24:40.048 --> 01:24:41.408]  Maybe not, maybe not.
+[01:24:41.568 --> 01:24:48.128]  Maybe there's a lot of stuff that we shouldn't be doing that is just for show for us to continue to get our shekels taken from us.
+[01:24:48.448 --> 01:24:49.728]  All right, well, thanks for the call.
+[01:24:50.368 --> 01:24:51.408]  Always back to Israel.
+[01:24:51.888 --> 01:24:56.288]  I mean, I see Israel on a scale of one to ten, like a half a point involved.
+[01:24:56.448 --> 01:25:05.408]  I mean, there's some involved because Venezuela, Maduro has been criticizing Israel and funding, you know, some of the Islamic groups, but I just, it's all about the that oil, brother, 18 trillion.
+[01:25:05.568 --> 01:25:10.928]  It's all about national sovereignty, Monroe doctrine, the election fraud, then putting the money in.
+[01:25:11.088 --> 01:25:12.208]  But I see it in the news.
+[01:25:12.288 --> 01:25:13.328]  I started the show with it.
+[01:25:15.648 --> 01:25:17.248]  You got the lady who controls the country right now.
+[01:25:17.408 --> 01:25:18.768]  Trump's trying to make him have an election.
+[01:25:18.848 --> 01:25:20.368]  She says, we're battling Zionists.
+[01:25:20.848 --> 01:25:21.568]  Keep us in power.
+[01:25:22.928 --> 01:25:24.128]  What does that even have to do with anything?
+[01:25:25.648 --> 01:25:28.208]  Because people don't understand politics or geopolitical things.
+[01:25:28.368 --> 01:25:30.528]  It's just so easy to go, oh, Israel again.
+[01:25:31.008 --> 01:25:33.168]  And when Israel does something wrong, I'm all over him.
+[01:25:34.048 --> 01:25:35.488]  It's super popular to bash Israel.
+[01:25:35.648 --> 01:25:40.608]  I'd be way more popular if I just talked about Israel all day because it's simple and people understand it and that's it.
+[01:25:42.128 --> 01:25:42.928]  So you heard him.
+[01:25:43.088 --> 01:25:44.688]  Yeah, maybe leave Maduro in.
+[01:25:45.248 --> 01:25:45.648]  The Zionists.
+[01:25:45.888 --> 01:25:45.968]  Okay.
+[01:25:46.128 --> 01:25:46.448]  All right.
+[01:25:47.888 --> 01:25:52.048]  Trump's Venezuela moves could get could further reshape global order.
+[01:25:52.288 --> 01:25:52.688]  Here's how.
+[01:25:53.168 --> 01:25:53.568]  Damn right.
+[01:25:55.408 --> 01:25:59.168]  Trump plunges the U.S. into a new era of risk in Venezuela.
+[01:25:59.408 --> 01:25:59.888]  That's true.
+[01:26:01.168 --> 01:26:04.768]  Margaribbeau issues huge warning to Cuba after Maduro captured.
+[01:26:07.168 --> 01:26:12.528]  Yeah, it's all about the Chinese controlling Cuba, controlling Venezuela, controlling our elections.
+[01:26:15.248 --> 01:26:17.648]  That's the whole point of this, but that's too complex for people.
+[01:26:18.688 --> 01:26:20.128]  We just use the word shekels.
+[01:26:22.128 --> 01:26:27.888]  Meanwhile, Shinebaum is totally pissed about this in Mexico because she knows her boss just got arrested.
+[01:26:32.048 --> 01:26:37.808]  Inside Operation Absolute Resolved, the U.S. incursion that deposed Venezuela's Maduro.
+[01:26:39.088 --> 01:26:43.728]  Trump rolls the dice on nation building with a vow to run Venezuela until they have elections.
+[01:26:45.728 --> 01:26:46.928]  And you've got the headlines.
+[01:26:47.968 --> 01:26:53.728]  Maduro's brazen gestures to onlookers as he arrives in rat-infested hell-ole prison in Brooklyn.
+[01:26:54.608 --> 01:26:55.888]  He flashes the victory sign.
+[01:26:57.808 --> 01:27:00.448]  Trump says the U.S. will run Venezuela until safe transition.
+[01:27:02.368 --> 01:27:14.368]  And in here I've got in the stack where you have the new president of Venezuela saying it's a battle against the Zionists.
+[01:27:15.088 --> 01:27:16.288]  I thought I had it in the stack.
+[01:27:19.328 --> 01:27:19.968]  You just pull it up.
+[01:27:20.208 --> 01:27:24.048]  New leader of Venezuela says it's a battling Zionists.
+[01:27:25.008 --> 01:27:25.568]  Nice and simple.
+[01:27:25.888 --> 01:27:26.288]  There it is.
+[01:27:26.768 --> 01:27:30.528]  Venezuelan acting president blames Zionists for Maduro's capture.
+[01:27:31.008 --> 01:27:37.808]  So now Israel is the most unpopular country in the world in Gallup polls, and I agree that's happening.
+[01:27:38.688 --> 01:27:41.088]  And so now she's desperate to stay in power.
+[01:27:41.408 --> 01:27:42.848]  So it's Zionists, you see.
+[01:27:44.368 --> 01:27:44.688]  How simple.
+[01:27:45.008 --> 01:27:45.968]  It's not about the oil.
+[01:27:46.128 --> 01:27:48.368]  It's not about SmartMatic.
+[01:27:48.528 --> 01:27:49.408]  It's not about Cuba.
+[01:27:49.648 --> 01:27:52.048]  It's not about Cuban intelligence and Mayor Bass.
+[01:27:52.448 --> 01:27:54.128]  No, back to Zionists.
+[01:27:55.008 --> 01:27:55.568]  There you go.
+[01:28:00.368 --> 01:28:03.408]  So people predicted that this could go disastrously and I said it could.
+[01:28:03.568 --> 01:28:06.208]  I didn't predict it, but it's gone well so far.
+[01:28:06.528 --> 01:28:09.088]  But keep your fingers crossed, ladies and gentlemen.
+[01:28:10.208 --> 01:28:13.648]  But speaking of Zionist, I've got a clip of Candace Owens here.
+[01:28:14.208 --> 01:28:17.248]  Not trying to bash Candace, it's very interesting psychology, though.
+[01:28:18.368 --> 01:28:30.208]  She said a year ago, August of last year, less than a year ago 2025, is that like seven, eight months ago?
+[01:28:31.168 --> 01:28:34.528]  She said, well, you'll see the clip.
+[01:28:34.688 --> 01:28:42.608]  She said, we can't support anybody running for office in Latin America that has blue eyes.
+[01:28:43.648 --> 01:28:49.488]  And the inference is because Nazis escaped Germany at the end of World War II there.
+[01:28:53.088 --> 01:29:00.368]  And she talks about all the things that are unfolding.
+[01:29:03.008 --> 01:29:17.488]  Candace Owens in August last year at Venezuela's rigged election, she decided to side with Maduro and attacked Javier Millay, who is openly Jewish and his family's been there for hundreds of years, who demanded transparency surrounding the election results.
+[01:29:17.808 --> 01:29:25.568]  She insinuated that because Millay has blue eyes, his family were Nazis, even agreeing with Maduro that Millay is a fascist.
+[01:29:26.528 --> 01:29:55.968]  While parroting Maduro's propaganda in true Candace Owens fashion, she made the terrible prediction my suspicion is he's actually about to be killed so it's it's like this game you don't know geopolitics you don't have any depth you just go oh Javier Malay has blue eyes he must be a Nazi but if you look at Candace Owens her first site was a doxing site called social autopsy where you could set up Republicans and Conservatives,
+[01:29:56.208 --> 01:29:59.328]  your boyfriends, and get their text messages and dox them and destroy them.
+[01:29:59.808 --> 01:30:01.408]  But then she becomes the big conservative.
+[01:30:02.688 --> 01:30:08.768]  And now she says you can't vote for blue-eyed people because they got blue eyes.
+[01:30:09.488 --> 01:30:11.008]  I mean, how do you defend that?
+[01:30:11.728 --> 01:30:17.008]  Well, I guess it was a meeting at Fort Wachuca where space aliens were there and they said blue eyes are of the devil.
+[01:30:17.808 --> 01:30:18.768]  Blue-eyed devils.
+[01:30:19.728 --> 01:30:22.688]  I mean, this is all just cuckoo town stuff.
+[01:30:23.328 --> 01:30:25.648]  By the way, they've cut inflation in half.
+[01:30:25.888 --> 01:30:27.568]  They've increased wages by almost double.
+[01:30:28.528 --> 01:30:30.208]  The experiment with Javier.
+[01:30:30.688 --> 01:30:31.728]  Malay is working.
+[01:30:34.848 --> 01:30:35.968]  I'm not saying he's perfect.
+[01:30:36.928 --> 01:30:38.768]  But the point is everybody knows he's Jewish.
+[01:30:42.768 --> 01:30:45.008]  She didn't say don't vote for him because he's Jewish.
+[01:30:46.928 --> 01:30:50.128]  She said, you know who ran there after World War II, you know, the blue eyes.
+[01:30:50.688 --> 01:30:52.848]  I mean, what type of cuckoo crap is this?
+[01:30:53.408 --> 01:30:55.168]  It's verifiably a lie on its face.
+[01:30:57.008 --> 01:30:59.008]  But man, there was an asteroid coming and hit the planet.
+[01:30:59.088 --> 01:31:01.968]  And I'm like, we got to get nuclear missiles up there and stop it.
+[01:31:03.808 --> 01:31:05.808]  They'd be like, why are you coming up for the Jews?
+[01:31:06.448 --> 01:31:10.128]  I'll literally a few months ago cover Chernobyl got hit and it's melting down again.
+[01:31:10.368 --> 01:31:11.648]  And I'm like, we got to deal with this.
+[01:31:11.728 --> 01:31:12.448]  We got to stop the war.
+[01:31:12.608 --> 01:31:13.568]  We got to fix Chernobyl.
+[01:31:13.728 --> 01:31:15.728]  And half the comments were, why are you coming up for Israel?
+[01:31:16.368 --> 01:31:19.168]  It's like, China's about to invade Taiwan.
+[01:31:19.328 --> 01:31:20.608]  I'm like, this is a big problem.
+[01:31:20.848 --> 01:31:22.048]  Why are you coming up for Israel?
+[01:31:22.448 --> 01:31:25.328]  It's like a mental illness where you only talk about Israel.
+[01:31:25.728 --> 01:31:30.448]  You can talk about Israel all day, but it's mental illness when you don't know any other facts.?
+[01:31:31.648 --> 01:31:33.328]  Don't vote for Javier Malay.
+[01:31:33.728 --> 01:31:34.528]  He's got blue eyes.
+[01:31:36.128 --> 01:31:37.328]  Or maybe she can clarify.
+[01:31:37.568 --> 01:31:41.088]  Are you saying he's a Nazi or the Jews have blue eyes?
+[01:31:41.328 --> 01:31:45.328]  Most of them don't or am I not good as I got blue eyes?
+[01:31:47.248 --> 01:31:48.768]  I mean, explain yourself.
+[01:31:49.648 --> 01:31:50.928]  Oh, Goddess of all truth.
+[01:31:51.808 --> 01:31:53.408]  We can't vote for a blue-eyed person.
+[01:31:54.688 --> 01:31:55.328]  What does that mean?
+[01:31:57.328 --> 01:31:57.968]  Here's a clip.
+[01:31:59.168 --> 01:32:00.128]  In Venezuela because.
+[01:32:00.128 --> 01:32:08.368]  Because they had an election and their incumbent president, Nicolas Maduro, we all know who Nicolas Maduro is, and my suspicion is he's actually about to be killed.
+[01:32:08.448 --> 01:32:09.408]  And I'll tell you why.
+[01:32:09.968 --> 01:32:14.928]  Now, I just want to be clear, I'm not a Nicolas Maduro apologist by any means whatsoever.
+[01:32:15.168 --> 01:32:28.368]  I am just recognizing a very clear pattern here, and I find it interesting that the regional leaders of other countries are demanding that they recalculate the votes.
+[01:32:28.848 --> 01:32:34.048]  They are demanding essentially, that the winner be declared Edmundo Gonzalez.
+[01:32:34.208 --> 01:32:35.728]  They're calling it electoral scam.
+[01:32:36.288 --> 01:32:39.408]  First among them, Mille in Argentina.
+[01:32:39.568 --> 01:32:40.528]  Now, I want to be very clear.
+[01:32:40.768 --> 01:32:44.528]  I don't trust anything that crawls out of Argentina with blue eyes.
+[01:32:45.568 --> 01:32:46.368]  There's a reason for that.
+[01:32:47.488 --> 01:32:52.128]  And that reason is because after World War II, a lot of Argentinians suddenly had blue eyes.
+[01:32:53.088 --> 01:32:54.688]  And so I don't trust Mille.
+[01:32:54.928 --> 01:32:55.728]  I'm happy to say that.
+[01:32:55.968 --> 01:32:56.768]  Call it what you want.
+[01:32:57.008 --> 01:33:00.128]  Something about him just reeks of a state plant to me.
+[01:33:00.688 --> 01:33:06.928]  And how much the media is in love with him and he just is doing the absolute most despite just getting into office.
+[01:33:07.328 --> 01:33:13.248]  And so he has kind of led the pack declaring this to be a fraud, not his country, but he's like, this is an absolute fraud.
+[01:33:13.568 --> 01:33:14.048]  It is wrong.
+[01:33:14.208 --> 01:33:21.248]  He is demanding that Maduro publish proof of his victory, such as a district by district breakdown of votes tally.
+[01:33:21.568 --> 01:33:21.648]  Okay.
+[01:33:22.048 --> 01:33:29.328]  So a neighboring country being led by Malay is demanding a breakdown, district by district, of the votes tally.
+[01:33:29.568 --> 01:33:34.608]  And Maduro is ignoring that, which is prompting further protests in his country.
+[01:33:35.568 --> 01:33:44.128]  People are calling him, actually Maduro responded to Millay by calling him a cowardly bug and a traitor to the homeland and a fascist.
+[01:33:44.688 --> 01:33:46.208]  Now the fascist part might be true.
+[01:33:46.528 --> 01:33:46.928]  I don't know.
+[01:33:47.248 --> 01:33:52.048]  I have to see his genealogy because I just don't trust anything with blue eyes that comes from Argentina.
+[01:33:52.208 --> 01:33:53.008]  That's all I'm saying.
+[01:33:53.248 --> 01:33:53.648]  Cut it out.
+[01:33:53.728 --> 01:33:53.808]  Okay.
+[01:33:54.128 --> 01:33:54.608]  Call me names.
+[01:33:54.768 --> 01:33:55.088]  I get it.
+[01:33:55.168 --> 01:33:55.488]  I get it.
+[01:33:55.808 --> 01:33:57.168]  I shouldn't be this honest.
+[01:33:57.408 --> 01:33:57.888]  I just am.
+[01:33:58.688 --> 01:34:09.408]  So here's the thing, Maduro has now spoken out, Maduro said the North Americans put a smile on their face, diplomatic face of deception, but behind them they carry a dagger.
+[01:34:09.648 --> 01:34:13.168]  And if you believe their smile, if you get careless, they turn around and stab you.
+[01:34:13.568 --> 01:34:22.608]  So they have acted for almost two hundred years assassinating presidents, assassinating leaders around the world, assassinating presidents in the USA, John F. Kennedy, who killed him?
+[01:34:23.168 --> 01:34:24.368]  The system proven.
+[01:34:27.088 --> 01:34:52.768]  So let's do it this way what if I said you can't trust anybody with brown eyes well that'd be three of my four children Charlotte's got green eyes Rex has got hazel eyes I just got two kids with brown eyes hazel and green I got green blue eyes.
+[01:34:53.008 --> 01:34:53.888]  I'm bad because of that.
+[01:34:54.128 --> 01:34:57.808]  So imagine if I said don't trust anybody with brown eyes.
+[01:34:58.208 --> 01:34:59.408]  What the fuck is this stuff?
+[01:35:00.048 --> 01:35:01.248]  This is kook crap.
+[01:35:02.928 --> 01:35:04.528]  Millay's family's well known.
+[01:35:04.608 --> 01:35:05.248]  They're Jewish.
+[01:35:07.168 --> 01:35:10.288]  But she just gets up there and says he's a Nazi.
+[01:35:12.368 --> 01:35:13.408]  Oh, she didn't say it.
+[01:35:13.648 --> 01:35:16.208]  She just says he crawled out and the Nazis were there.
+[01:35:17.168 --> 01:35:17.728]  What is this?
+[01:35:19.008 --> 01:35:21.328]  Fort Wachukami, he confirmed he was a Nazi.
+[01:35:23.808 --> 01:35:27.088]  It's disgusting and it's wrong and it's sick.
+[01:35:27.568 --> 01:35:32.528]  And Millay has totally turned around his country just like Bukeley.
+[01:35:34.928 --> 01:35:37.488]  Bukeley's got brown eyes, but I like him.
+[01:35:38.208 --> 01:35:39.088]  He's a beautiful person.
+[01:35:39.808 --> 01:35:40.448]  Does great job.
+[01:35:41.888 --> 01:35:42.688]  Trump's got blue eyes.
+[01:35:42.928 --> 01:35:43.488]  Does great job.
+[01:35:43.648 --> 01:35:45.168]  What is this crap about what color your eyes are?
+[01:35:45.648 --> 01:35:47.328]  This is literal Nazi crap.
+[01:35:47.888 --> 01:35:50.288]  The Nazis said it matter what color your eyes were.
+[01:35:50.528 --> 01:35:53.088]  Now Candace Owens says it matters what color your eyes are.
+[01:35:53.248 --> 01:35:55.168]  She can't escape statements like this.
+[01:35:56.848 --> 01:35:58.688]  You cannot escape crap like that.
+[01:35:58.848 --> 01:36:03.088]  That this is insane.
+[01:36:03.328 --> 01:36:05.088]  Well, now he's got blue eyes, so it's okay.
+[01:36:05.728 --> 01:36:07.968]  I mean, what the hell did I just hear?
+[01:36:09.568 --> 01:36:16.128]  It's not about what Javi R Mili does.
+[01:36:17.008 --> 01:36:20.928]  It's not about what Bukele does.
+[01:36:21.008 --> 01:36:21.888]  It's not about what Trump.
+[01:36:22.127 --> 01:36:23.387]  It's all about what we look like.
+[01:36:30.127 --> 01:36:32.427]  Let's go to Candace in Nashville, Venezuelan.
+[01:36:32.848 --> 01:36:33.888]  Candice, you're on the air.
+[01:36:34.128 --> 01:36:34.448]  Welcome.
+[01:36:37.168 --> 01:36:53.088]  Hey Alex, at Queen of the Juicy on X, at Queen of the Juice on True Social, except for since I'm a whistleblower, Trump only let me on True Social for three days before suspending my account.
+[01:36:53.248 --> 01:36:53.968]  That's what I'm saying.
+[01:36:54.048 --> 01:36:55.328]  Okay, well, we're going to have some sad issues.
+[01:36:56.768 --> 01:36:58.608]  You want to comment on Venezuela and what's happening?
+[01:37:00.928 --> 01:37:01.088]  Sure.
+[01:37:03.088 --> 01:37:04.688]  I love cheap gas and oil.
+[01:37:04.928 --> 01:37:05.568]  How about you, Alex?
+[01:37:07.488 --> 01:37:11.088]  Well, I really love people not stealing our elections and having a Chinese Communist base.
+[01:37:13.888 --> 01:37:21.248]  Yeah, but look at our last election, it was a free and fair election, 2024, wasn't it?
+[01:37:23.248 --> 01:37:25.248]  We had a landslide that mitigated the fraud.
+[01:37:26.768 --> 01:37:33.408]  Yeah, at the local levels too, I guess all of the machines are on the up and up now with the technocrats.
+[01:37:33.728 --> 01:37:37.328]  The techno grows like Trump and all of his technocratic friends.
+[01:37:38.288 --> 01:37:40.768]  They got the voting machines in order, huh?
+[01:37:41.488 --> 01:37:42.528]  Well, you're doing riddles.
+[01:37:42.688 --> 01:37:43.888]  If you want to make a point, go ahead.
+[01:37:45.888 --> 01:37:52.848]  Yeah, I just think it's incredible how corrupt Trump, all of the American government is.
+[01:37:53.408 --> 01:37:54.528]  I don't think you're Venezuelan.
+[01:37:54.608 --> 01:37:55.488]  I appreciate your call.
+[01:37:56.448 --> 01:37:57.088]  I appreciate it.
+[01:37:57.488 --> 01:37:58.608]  I don't mind bashing Trump.
+[01:37:58.768 --> 01:38:06.528]  It's just people calling him drunk and it's like, it's retarded.
+[01:38:07.808 --> 01:38:12.528]  Because you wake up the public, they're being lied to, but still a bunch of the public has no idea what's going on though.
+[01:38:12.608 --> 01:38:13.728]  They know they're being lied to.
+[01:38:14.608 --> 01:38:18.208]  So everything just sinks back to the most mindless, idiotic point possible.
+[01:38:19.168 --> 01:38:21.008]  Debbie in Florida, wife of a Venezuelan.
+[01:38:21.728 --> 01:38:22.608]  Go ahead, Debbie.
+[01:38:23.728 --> 01:38:24.848]  Hi, how are you doing, Alex?
+[01:38:25.248 --> 01:38:26.608]  I love you guys so much.
+[01:38:27.568 --> 01:38:30.048]  Thank you for telling us you're a Christian now.
+[01:38:30.448 --> 01:38:32.448]  That makes my heart feel very, very good.
+[01:38:33.728 --> 01:38:35.488]  I just wanted you to know that first.
+[01:38:36.688 --> 01:38:38.528]  Second of all, I'm running out of time.
+[01:38:38.688 --> 01:38:39.648]  What is your view on Venezuela?
+[01:38:40.768 --> 01:38:43.568]  Well, my view on Venezuela is twofold.
+[01:38:44.608 --> 01:38:57.168]  We need to let those poor, the poor people, the people who never got the chance to vote, give them their chance to vote in a free and fair election.
+[01:38:58.368 --> 01:38:59.968]  Libertad de Venezuela.
+[01:39:01.408 --> 01:39:04.448]  We want good things for our people.
+[01:39:05.568 --> 01:39:09.008]  We always had a beautiful just a beautiful country.
+[01:39:09.648 --> 01:39:10.528]  People don't know.
+[01:39:11.328 --> 01:39:12.288]  They have no idea.
+[01:39:13.328 --> 01:39:14.048]  It's worth it.
+[01:39:15.088 --> 01:39:16.528]  Venezuela is worth it.
+[01:39:16.928 --> 01:39:22.288]  So you're married to a Venezuelan and so you've learned about how it was a really successful country got run to the ground?
+[01:39:23.328 --> 01:39:24.608]  I got married there, Alex.
+[01:39:25.568 --> 01:39:26.848]  I chose to live there.
+[01:39:28.128 --> 01:39:30.368]  My husband was very wealthy.
+[01:39:33.008 --> 01:39:36.368]  His grandfather owned the largest jewelry store in Venezuela.
+[01:39:37.088 --> 01:39:37.168]  Okay?
+[01:39:38.528 --> 01:39:45.728]  He was not a poor man, but by the time we left Venezuela, we were los pobre.
+[01:39:46.528 --> 01:39:55.568]  I was teaching in a park, Plaza de la República, which is in Maracaibo, shouting out to all my maracuchas out there.
+[01:39:59.728 --> 01:40:00.288]  No food.
+[01:40:00.608 --> 01:40:01.568]  I had eaten a dog.
+[01:40:02.208 --> 01:40:02.848]  Yes, I have.
+[01:40:03.488 --> 01:40:04.368]  I've eaten rats.
+[01:40:04.768 --> 01:40:08.288]  I've eaten a lot of things that most people would turn their nose up at.
+[01:40:09.408 --> 01:40:09.568]  Why?
+[01:40:10.368 --> 01:40:12.048]  Because I felt compelled to.
+[01:40:12.368 --> 01:40:17.248]  The people of Venezuela are worth so much more than what they've got right now.
+[01:40:18.208 --> 01:40:22.768]  But thank God Trump liberated the poor people.
+[01:40:23.248 --> 01:40:24.208]  He liberated them.
+[01:40:24.528 --> 01:40:27.968]  He has no idea how Venezuelans actually live.
+[01:40:27.968 --> 01:40:29.328]  people actually feel about him.
+[01:40:30.368 --> 01:40:36.928]  He saved the city of Maracaibo, which is a very deeply religious city.
+[01:40:38.288 --> 01:40:38.848]  That's my question.
+[01:40:39.088 --> 01:40:43.568]  Talking to Venezuelans, you know, what percentage would you say are supportive of what Trump just did?
+[01:40:44.688 --> 01:40:56.848]  Oh my God, they're overwhelmingly supportive except for the communists, the chavistas, the medoorists, the communistas, the communists of the country.
+[01:40:57.648 --> 01:40:58.208]  That's who?
+[01:40:58.848 --> 01:41:01.568]  Those who flew over to the United States.
+[01:41:01.808 --> 01:41:04.768]  Well, we're almost out of time, but what do you expect him to do now?
+[01:41:05.648 --> 01:41:07.728]  I don't think Trump's won yet.
+[01:41:09.808 --> 01:41:14.048]  Well, he's won the hearts and minds of the average Venezuelan.
+[01:41:14.688 --> 01:41:15.168]  I know that.
+[01:41:16.208 --> 01:41:21.568]  Oh, I agree, but I mean, now the new public president is trying to get a resistance going.
+[01:41:21.728 --> 01:41:25.888]  We're about to get ready and maybe that's our job to do.
+[01:41:26.688 --> 01:41:33.248]  Maybe that's our job is to get out the scum that are there now, the communist.
+[01:41:33.728 --> 01:41:33.968]  I agree.
+[01:41:34.128 --> 01:41:35.088]  Debbie, thanks for the call.
+[01:41:35.488 --> 01:41:39.088]  Now, Royce White's about to take over on these feeds.
+[01:41:39.248 --> 01:41:41.408]  I'm going to do a little bit in the next hour, only a few minutes.
+[01:41:41.568 --> 01:41:43.888]  I'll introduce Royce White coming up straight ahead.
+[01:41:44.048 --> 01:41:45.248]  But yeah, this is a big deal.
+[01:41:45.888 --> 01:41:48.528]  However you slice it, it's a return to the American Republic.
+[01:41:49.408 --> 01:41:52.288]  It is the U.S. expressing its will.
+[01:41:52.608 --> 01:41:53.088]  Stay with us.
+[01:41:53.168 --> 01:41:53.888]  We'll be right back.
+[01:41:58.368 --> 01:41:59.808]  All right, it's Sunny Night Live.
+[01:41:59.968 --> 01:42:02.288]  The great Royce White is about to take over.
+[01:42:02.608 --> 01:42:04.048]  Let me just put an end cap on this.
+[01:42:06.528 --> 01:42:15.387]  If you want America to become sovereign again, if you want America to come back from the dead, you've got to realize we were already an empire, and we were being set up for China to take over.
+[01:42:15.988 --> 01:42:28.898]  Trump is doing a magical job clawing back our power, clawing back our resources, and shutting down different CHICOM globalist command bases, chief amongst them in our hemisphere, Venezuela.
+[01:42:30.128 --> 01:42:31.488]  You can disagree with how it was done.
+[01:42:31.648 --> 01:42:33.488]  You can say it was rolling the dice certainly was.
+[01:42:33.728 --> 01:42:35.008]  It's gone way better than I thought.
+[01:42:36.208 --> 01:42:48.768]  But this is the first regime change that I've tacitly supported in my 31 years on air, because this is for American interest, this is for stabilization, and people misrepresented what I've said, what I've done here.
+[01:42:49.808 --> 01:42:57.008]  But If the dollar dies, with our debt and our deindustrialization.
+[01:42:57.248 --> 01:42:59.248]  Trump's fast-decaying trying to rebuild.
+[01:43:00.528 --> 01:43:02.848]  It will make the Great Depression look like a cake walk.
+[01:43:03.808 --> 01:43:03.888]  Okay.
+[01:43:04.368 --> 01:43:08.688]  We had 90% of people rural, half of them self-sufficient.
+[01:43:08.848 --> 01:43:10.608]  That's 47% self-sufficient.
+[01:43:13.008 --> 01:43:15.088]  We got maybe 5% self-sufficient today.
+[01:43:15.808 --> 01:43:16.848]  We break down folks.
+[01:43:17.008 --> 01:43:18.688]  It'll look like World War Z for real.
+[01:43:19.488 --> 01:43:23.808]  So just from a place of survival, I'm thinking.
+[01:43:24.208 --> 01:43:25.088]  God for Trump over the day.
+[01:43:25.568 --> 01:43:27.808]  Do we get on his ass when he doesn't do what we think is best?
+[01:43:28.368 --> 01:43:28.768]  Damn right.
+[01:43:29.168 --> 01:43:31.008]  But he's night and day compared to the Democrats.
+[01:43:32.368 --> 01:43:39.648]  And this bold operation, and now they got Maduro to expose the Democrat networks, the money laundering, the election fraud, all of it.
+[01:43:39.808 --> 01:43:41.088]  I was all loaded for Barron that.
+[01:43:41.168 --> 01:43:44.768]  I'll cover tomorrow on the proof of Smartmatic and all the rest of it.
+[01:43:45.008 --> 01:43:45.648]  This is huge.
+[01:43:47.328 --> 01:43:49.168]  You can disagree with how it's deployed.
+[01:43:49.408 --> 01:43:50.688]  It was actually bashfully done.
+[01:43:51.168 --> 01:43:52.528]  But if you want to disagree, that's fine.
+[01:43:52.688 --> 01:43:53.248]  We're a free country.
+[01:43:53.488 --> 01:43:54.688]  MTG's got our issues.
+[01:43:54.768 --> 01:43:55.408]  So does Tucker.
+[01:43:55.648 --> 01:43:55.968]  I love them.
+[01:43:56.128 --> 01:43:56.768]  It's reasonable.
+[01:44:00.208 --> 01:44:03.648]  But you cannot disagree with the fact that if we lose the dollar, we're done.
+[01:44:03.808 --> 01:44:12.608]  And this $18 trillion now in our books that'll actually go to the people there, that just made U.S. stock go up that much stronger.
+[01:44:13.008 --> 01:44:15.168]  Trump knows what he's doing when it comes down to this.
+[01:44:16.848 --> 01:44:18.048]  So this is the real world, folks.
+[01:44:18.208 --> 01:44:23.728]  You think we're going to get out of the global new world order and not exert ourselves, not stand.
+[01:44:23.968 --> 01:44:37.248]  stand up for ourselves, not stake out who we are under the Monroe doctrine that is the U.S. policy we got rid of after World War II and go about diplomacy, Thomas Jefferson, all of us support what Trump's doing.
+[01:44:38.128 --> 01:44:39.808]  Foreign powers coming into our business.
+[01:44:40.768 --> 01:44:41.648]  That's an act of war.
+[01:44:43.168 --> 01:44:44.448]  It's about taking down Cuba.
+[01:44:44.928 --> 01:44:46.768]  Venezuela controls Mexico.
+[01:44:47.568 --> 01:44:48.128]  Shinebaum.
+[01:44:49.328 --> 01:44:51.168]  I hear these idiots calling in one of them.
+[01:44:51.408 --> 01:44:53.008]  Oh, Shinebaum runs Trump.
+[01:44:53.168 --> 01:44:54.048]  She's Jewish, bro.
+[01:44:54.368 --> 01:44:56.208]  Shinebomb shitting our bitches right now.
+[01:44:57.568 --> 01:44:59.648]  Because Trump just laid his dick on the table.
+[01:45:00.288 --> 01:45:00.848]  And guess what?
+[01:45:01.488 --> 01:45:03.088]  He put his cards on the table and won.
+[01:45:04.448 --> 01:45:08.448]  He bet on his roulette wheel and won over and over again.
+[01:45:09.408 --> 01:45:11.088]  We need to see more bold action from Trump.
+[01:45:12.528 --> 01:45:14.688]  We need to see the same energy we just saw in Venezuela here.
+[01:45:14.928 --> 01:45:19.648]  Not helicopters with Pete Auger taking Democrats for rides out to the Gulf of Mexico, Gulf of America.
+[01:45:20.128 --> 01:45:22.368]  We need to see getting rid of the filibuster.
+[01:45:22.608 --> 01:45:24.128]  Because they've already said they're going to do it.
+[01:45:24.128 --> 01:45:24.528]  They've already said they're going to do it.
+[01:45:24.688 --> 01:45:26.368]  We're at the crossroads, the time of change.
+[01:45:26.848 --> 01:45:28.848]  Now's the time for bold action.
+[01:45:29.328 --> 01:45:30.048]  The war is here.
+[01:45:30.288 --> 01:45:33.968]  Patrick Henry said, listen, I don't want a war, but sorry, it's already here.
+[01:45:34.528 --> 01:45:35.248]  Why sit here?
+[01:45:35.488 --> 01:45:38.128]  We idle and appease our enemies.
+[01:45:38.288 --> 01:45:40.768]  Hey, if you want to let your chain sit lightly on you, that's great.
+[01:45:41.568 --> 01:45:44.928]  But you think America is just going to be isolationist and pull back.
+[01:45:45.088 --> 01:45:48.688]  We are being America first, but that means using our power to support the Republic.
+[01:45:50.368 --> 01:45:51.648]  I like what I'm seeing out of Trump.
+[01:45:51.968 --> 01:45:54.048]  I'm like, I like seeing them taking action.
+[01:45:54.848 --> 01:45:55.808]  We need this domestically.
+[01:45:55.968 --> 01:45:56.848]  We need to remove Bondi.
+[01:45:57.008 --> 01:45:58.448]  We need to remove the DOJ scum.
+[01:45:59.728 --> 01:46:05.328]  Because how are you going to get Maduro to roll over and expose a deep state if you got a bunch of people in the Southern District that won't do their job?
+[01:46:06.688 --> 01:46:08.048]  But I like what I'm seeing here.
+[01:46:08.288 --> 01:46:09.168]  This is a good thing.
+[01:46:10.128 --> 01:46:11.248]  My gut told me to do it.
+[01:46:11.408 --> 01:46:11.888]  I understood it.
+[01:46:12.048 --> 01:46:13.088]  Trump said he'd do this.
+[01:46:13.488 --> 01:46:19.168]  First time in 30 something years, I supported regime change with the proviso he could be set up.
+[01:46:19.648 --> 01:46:28.128]  But Trump masterfully had the troops in the air five times and he made the final decision we were already in their airspace to hit them.
+[01:46:28.368 --> 01:46:31.968]  That way they couldn't leak and shoot down our forces with the traitors.
+[01:46:32.288 --> 01:46:35.568]  All it is Royce white straight ahead back in 60 seconds.
+[01:46:35.728 --> 01:46:37.568]  Channel those, those live feeds right now.
+[01:46:37.887 --> 01:46:38.908]  You are the Paul Revere's.
+[01:46:39.067 --> 01:47:02.738]  Now take you live to the Central Texas Command Center in the heart of the resistance.
+[01:47:03.328 --> 01:47:05.428]  You're listening to Alex Jones.
+[01:47:16.437 --> 01:47:19.597]  If you think we're going to reestablish our sovereignty.
+[01:47:19.728 --> 01:47:30.928]  We've been totally sold out to China and everybody else without... without Trump jerking the globalist chain and shutting down their command bases that were stealing our elections and flooding us with all the drugs and pale politicians.
+[01:47:31.008 --> 01:47:32.448]  I don't know what planet you're on.
+[01:47:32.848 --> 01:47:38.768]  The default move before Trump even got back in was to take out the dictatorship in Venezuela.
+[01:47:39.488 --> 01:47:42.448]  And I said, he better do that when he gets back in.
+[01:47:43.088 --> 01:47:47.808]  So it's not like I'm riding Trump's weenie here and supporting some neocon war.
+[01:47:48.368 --> 01:47:49.148]  This is the opposite.
+[01:47:50.488 --> 01:47:55.387]  But for those of you that have never cracked a history book and don't know this stuff, I get it.
+[01:47:55.888 --> 01:47:56.848]  I'm not mad at you.
+[01:47:58.688 --> 01:48:06.208]  But you understand, if we hadn't been sold out to China the last 40 years, if we had our industry and our jobs, we wouldn't need to shut down China and Venezuela.
+[01:48:07.088 --> 01:48:08.288]  But the dollar's in trouble.
+[01:48:09.088 --> 01:48:10.208]  The world bet against us.
+[01:48:10.768 --> 01:48:12.688]  In just a year, Trump's reversed that course.
+[01:48:12.928 --> 01:48:19.648]  And now with 18 trillion on our sheet again, you're going to see even bigger success.
+[01:48:20.368 --> 01:48:25.728]  19 trillion pledged, 9 trillion already in, Trump is busting his ass.
+[01:48:27.888 --> 01:48:28.928]  No tax on tips.
+[01:48:29.888 --> 01:48:31.408]  Democrats state's trying to block it.
+[01:48:31.728 --> 01:48:36.048]  At every level, he's doing everything he can to cut energy prices.
+[01:48:36.448 --> 01:48:42.448]  He is literally running around with a bull whip to the corporations saying, you don't get profits, you give them the damn money.
+[01:48:42.688 --> 01:48:44.528]  Because he knows they stall the engine.
+[01:48:44.768 --> 01:48:49.248]  If this engine stalls out, this ain't like a car that's easy to restart.
+[01:48:50.448 --> 01:48:51.248]  Is it self interest?
+[01:48:51.408 --> 01:48:55.968]  It's like Elon Musk said a couple years ago, he said, this is the best house in a bad neighborhood.
+[01:48:56.128 --> 01:48:58.128]  I need a base to go to Mars or my operations.
+[01:48:58.288 --> 01:48:59.248]  Everything's falling apart.
+[01:48:59.968 --> 01:49:01.568]  America is the central pillar of the West.
+[01:49:01.968 --> 01:49:03.008]  The West holds up the world.
+[01:49:03.488 --> 01:49:06.688]  I'm trying to hold up the world because he's a smart rich man.
+[01:49:08.128 --> 01:49:11.568]  These other globalists want to make everybody poor and control them so they have more power over them.
+[01:49:12.288 --> 01:49:13.888]  You'll have no where to spend your money.
+[01:49:14.128 --> 01:49:15.328]  Everybody will want to kill you.
+[01:49:16.608 --> 01:49:20.368]  An aristocrat is not insecure of other people being successful.
+[01:49:21.168 --> 01:49:26.608]  They want to make the little guy success's successful and the little woman's successful and that raising tide raises all ships.
+[01:49:30.368 --> 01:49:32.608]  But the needle dick globalists are the opposite of that.
+[01:49:33.968 --> 01:49:35.968]  They don't have innate power and will.
+[01:49:37.008 --> 01:49:37.968]  They know they're crooks.
+[01:49:38.288 --> 01:49:39.168]  They know they're lying.
+[01:49:39.408 --> 01:49:45.728]  So they want to dumb everybody down and poison everybody and turn us against each other so they can run around and rule over us in the dark.
+[01:49:47.248 --> 01:49:49.568]  But I want to read you the Maroon doctrine because I meant to do this.
+[01:49:49.728 --> 01:49:51.168]  will handle the baton to Royce Wife.
+[01:49:51.728 --> 01:49:56.288]  But before the Monroe doctrine, Thomas Jefferson was the isolationist.
+[01:49:56.848 --> 01:49:59.568]  He said, until we get the country going and manifest destiny.
+[01:50:01.248 --> 01:50:06.608]  And he said, we're not going to get involved in Fire Nantucket unless we're attacked.
+[01:50:06.848 --> 01:50:12.128]  Well, the Muslims were grabbing all our ships, demanding equivalent like $100 billion a year.
+[01:50:12.288 --> 01:50:13.568]  Everybody else was paying their bounty.
+[01:50:14.288 --> 01:50:15.888]  He said, we're not paying that bounty.
+[01:50:16.048 --> 01:50:25.648]  And he sent at first only like 20 ships for the Marines and the Bar.bary Pirates had a whole bunch of states and a whole bunch of command bases in the Middle East, you name it.
+[01:50:26.048 --> 01:50:32.048]  And it took three years to win the war, but we won and they dropped the tribute that had to be paid.
+[01:50:33.728 --> 01:50:35.168]  So that sets the first precedent.
+[01:50:35.648 --> 01:50:37.168]  Then you've got the Monroe doctrine.
+[01:50:37.248 --> 01:50:39.968]  Then you've got William McKinley and you've got all the stuff that happened there.
+[01:50:40.288 --> 01:50:41.808]  Trump is following U.S. law.
+[01:50:43.168 --> 01:50:44.928]  And Venezuela is stealing our elections.
+[01:50:45.488 --> 01:50:48.048]  projecting all this money doing all this with communist China.
+[01:50:48.368 --> 01:50:49.728]  We'd be a fool not to do that.
+[01:50:49.808 --> 01:50:52.048]  That's a country actually attacking us.
+[01:50:52.528 --> 01:50:55.648]  That's why Russia went into Ukraine, that NATO uses a proxy.
+[01:50:56.208 --> 01:50:59.888]  When somebody's on your doorstep doing something, you got a right to stand up for yourself.
+[01:51:00.048 --> 01:51:01.168]  We're not over nation building.
+[01:51:01.328 --> 01:51:03.888]  Trump says we're not getting involved in your business overseas anymore.
+[01:51:04.528 --> 01:51:09.408]  But if you get in our business and you come and punch us in the nose, you're going to get punched back in the nose.
+[01:51:10.448 --> 01:51:13.008]  He's destroying the rules-based order of the UN.
+[01:51:13.488 --> 01:51:18.928]  Which sounds good, rules-based, where the UN, the globalists decide who can stand up, who has sovereignty, who can do what.
+[01:51:19.088 --> 01:51:24.208]  No, this is about, no, America. has been disconnected, paralyzed from its own powers.
+[01:51:25.888 --> 01:51:28.768]  This is about the American people electing a president that will actually stand up for us.
+[01:51:28.848 --> 01:51:30.368]  And you'll get each policy he does.
+[01:51:31.408 --> 01:51:32.048]  It is for the people.
+[01:51:33.088 --> 01:51:34.768]  He has failings with the DOJ, all that.
+[01:51:34.928 --> 01:51:35.808]  That's a side issue.
+[01:51:36.768 --> 01:51:39.728]  No one can deny that Trump is trying to help the average person.
+[01:51:42.128 --> 01:51:47.328]  And he better, because they want to sell communism with Mandami as the answer if this fails.
+[01:51:48.128 --> 01:51:57.248]  So Monroe doctrine. is the United States' foreign policy position that opposes European colonialism in the Western Hemisphere.
+[01:51:57.488 --> 01:51:58.288]  That means China today.
+[01:51:58.928 --> 01:52:07.888]  It holds that any intervention in the political affairs of Americas by foreign powers is a potentially hostile act against the United States.
+[01:52:08.448 --> 01:52:14.208]  The doctrine was created to American grand strategy in the 20th century.
+[01:52:15.168 --> 01:52:28.048]  President James Monroe first articulated the doctrine on December 2, 1823. during his seventh annual State of the Union address to Congress, though it was not named after him until 1830.
+[01:52:28.368 --> 01:52:34.048]  At the time, nearly all Spanish colonies in the Americas had either achieved or were close to independence.
+[01:52:34.528 --> 01:52:53.408]  Monroe asserted that the New World and the Old World were to remain distinctly separate spheres of influence, and thus further efforts by European powers to control or introduce sovereign states in the region would be viewed as a threat to the U.S. security.
+[01:52:53.888 --> 01:53:03.008]  In turn, the United States would recognize and not interfere with existing European colonies, not meddle in the affairs of European countries.
+[01:53:03.968 --> 01:53:05.888]  Now, let me explain this while I hand over the time.
+[01:53:07.568 --> 01:53:08.288]  Nobody even knows this.
+[01:53:08.448 --> 01:53:10.128]  You know why Mexicans got great beer?
+[01:53:10.368 --> 01:53:12.128]  Because Germany colonized it.
+[01:53:12.848 --> 01:53:18.368]  They had all these princes out of the Austrian Empire and they had Maximilian, all the rest of them, and they were they had big rebellions.
+[01:53:18.528 --> 01:53:21.888]  The Mexicans would kill them and they'd send more German. princes and killed them.
+[01:53:22.448 --> 01:53:31.168]  But the point was is that the Germans were constantly attacking the United States, constantly funding Mexican bandits and stuff to just try to push people around.
+[01:53:32.048 --> 01:53:38.448]  And in World War One, did you know they launched a Mexican army into Texas and killed a bunch of people?
+[01:53:38.768 --> 01:53:41.648]  They had to send Black Jack Pershing down there and all that.
+[01:53:41.888 --> 01:53:45.488]  You only hear in the media, oh, Black Jack Pershing invaded Mexico.
+[01:53:45.568 --> 01:53:46.368]  They don't tell you why.
+[01:53:47.088 --> 01:53:50.848]  Because all over Texas they launched tens of thousands of people attacking and murdering everyone.
+[01:53:51.568 --> 01:53:58.608]  But the point is that not only against the Mexicans, the Austro-Hungarian Empire was manipulating and all these other powers were.
+[01:53:59.168 --> 01:54:03.248]  And under the Monroe doctrine, we're like, hey, listen, you're not doing that.
+[01:54:03.808 --> 01:54:08.048]  You're not using China over Venezuela to do all this with smart matte.
+[01:54:08.688 --> 01:54:10.208]  So that's all this is, folks.
+[01:54:10.768 --> 01:54:13.248]  And people need to learn about it.
+[01:54:13.488 --> 01:54:14.448]  They need to understand it.
+[01:54:15.168 --> 01:54:16.128]  And that's where we are.
+[01:54:17.808 --> 01:54:21.488]  So what Trump is doing is one hundred percent he believes in inter the interest of America.
+[01:54:21.728 --> 01:54:22.768]  It's a very bold move.
+[01:54:23.568 --> 01:54:25.248]  It kills the UN control system.
+[01:54:27.328 --> 01:54:28.448]  It's over the top, amazing.
+[01:54:28.768 --> 01:54:44.768]  Royce White.substack.com. Royce White on X. Royce White takes over right now. Royce White, God bless you. Thank you, brother. I appreciate it. While other networks lie to you about what's happening now,

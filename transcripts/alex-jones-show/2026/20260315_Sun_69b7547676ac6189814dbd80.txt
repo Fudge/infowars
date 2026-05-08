@@ -1,0 +1,1448 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, sat-12l-sm, and large-v3-turbo
+# Transcript cleaned with version 0.1.2
+# Source MD5: 55a833cb47e82d80ed6cc84eab8e2232
+[00:00:03.040 --> 00:00:06.080]  It's Sunday, March 15th, 2026.
+[00:00:06.320 --> 00:00:07.520]  This is the IDES of March.
+[00:00:07.600 --> 00:00:16.320]  This is when 2,000 plus years ago, Julius Caesar was betrayed in the Roman Senate and stabbed to death by the other senators, including Brutus.
+[00:00:16.640 --> 00:00:21.039]  Now, on this live transmission, Chase Geyser is going to break down the latest developments.
+[00:00:21.199 --> 00:00:23.760]  But bottom line, a new world war has begun.
+[00:00:24.080 --> 00:00:29.440]  All the ingredients of multiple major powers through proxy wars fighting each other that is escalating.
+[00:00:29.600 --> 00:00:31.519]  That's the definition of world war.
+[00:00:31.839 --> 00:00:34.719]  Call it World War III, World War IV, whatever you want to call it.
+[00:00:35.039 --> 00:00:39.759]  Pentagon calls, CIA calls the Cold War, World War III.
+[00:00:40.000 --> 00:00:41.359]  So I call this World War IV.
+[00:00:41.679 --> 00:00:44.000]  Regardless, how much you want, it's a new world war.
+[00:00:44.320 --> 00:00:45.759]  We're breaking it all down today.
+[00:00:45.840 --> 00:00:48.079]  It's a big deal whether you're for it or against it.
+[00:00:48.240 --> 00:00:49.520]  Cuba's about to fall.
+[00:00:49.840 --> 00:00:52.240]  The whole global order is changing.
+[00:00:52.560 --> 00:00:57.120]  I believe Trump believes he's doing the best thing he can, but I told him they closed their door most a few days ago.
+[00:00:57.280 --> 00:00:57.759]  They now have.
+[00:00:58.160 --> 00:00:59.920]  Everybody's escalating so fast.
+[00:01:00.240 --> 00:01:01.759]  We'll be breaking it all down tonight.
+[00:01:02.000 --> 00:01:04.400]  The special reports I'll be calling you live and more.
+[00:01:04.719 --> 00:01:07.920]  Now, let's take you to the InfoWars Command Center and Chase Keyser.
+[00:01:08.159 --> 00:01:09.120]  Show us my feeds.
+[00:01:15.939 --> 00:01:19.799]  Ladies and gentlemen, welcome to the Alex Jones Show.
+[00:01:19.920 --> 00:01:21.439]  I am Chase Geyser, your host.
+[00:01:21.600 --> 00:01:24.320]  It is good to be back, ladies and gentlemen.
+[00:01:24.480 --> 00:01:38.240]  Despite the circumstances of us being on the cusp of the next world war, whether you believe it's World War III or World War IV, it's good to be back in the seat and back in the information war, which is, by the way, more important now than ever.
+[00:01:38.560 --> 00:01:40.879]  And I know we've been saying that over and over again over the years.
+[00:01:41.040 --> 00:01:44.159]  It's more important now than ever that you do this or that you pay attention or that you share the clips.
+[00:01:44.320 --> 00:01:52.799]  And it's because every single time that we've said it, it's been more and more important because we've been closer and closer to this existential, this extermination that is the next world war.
+[00:01:52.879 --> 00:02:01.120]  And, you know, I understand why Alex says that we're on the cuffs of World War IV and how World War III was the Cold War.
+[00:02:01.439 --> 00:02:24.159]  But the challenge with that is nobody understands or feels or realizes that they're feeling the negative effects of the Cold War, of the massive inflation that took place, of the buildup of the military-industrial complex, of just the policy after policy after policy eroding over and over again all of our rights, which led, of course, to the Patriot Act eventually and its culmination.
+[00:02:24.240 --> 00:02:26.879]  And now everything that we're seeing with Palatine and other things.
+[00:02:27.840 --> 00:02:30.319]  But World War IV is not going to be like World War III.
+[00:02:30.479 --> 00:02:39.120]  World War IV is going to be the death of billions and billions and billions of people.
+[00:02:39.759 --> 00:02:46.640]  And I think the mistake that we make is we think that, oh, you know, oh, United States of America, it's world wars are great.
+[00:02:46.719 --> 00:02:48.960]  They're the only wars that we win, which is true.
+[00:02:49.200 --> 00:02:50.800]  World wars are the only wars that we seem to win.
+[00:02:50.879 --> 00:02:56.080]  If you believe that we won World War I and or you believe that we won World War II, it seems like world wars are kind of our thing.
+[00:02:56.159 --> 00:02:57.120]  We're the strongest one.
+[00:02:57.360 --> 00:02:58.960]  It's more conventional.
+[00:02:59.599 --> 00:03:01.280]  But I don't think that's going to be the case this time.
+[00:03:01.439 --> 00:03:12.640]  I think that we're really in the last 36 months of being able to stop something, probably 36 weeks of being able to stop something that we can't go back from.
+[00:03:12.960 --> 00:03:16.480]  In this war with Iran, I was thinking about it before the show started.
+[00:03:18.000 --> 00:03:22.240]  You know, when we went to Afghanistan, we knew that it was, you know, about 9-11.
+[00:03:22.400 --> 00:03:23.439]  That's what they told us anyway.
+[00:03:23.520 --> 00:03:26.000]  Of course, it wasn't actually about 9-11, but we had a reason.
+[00:03:26.159 --> 00:03:27.200]  And then we went to Iraq.
+[00:03:27.439 --> 00:03:35.840]  They were still able, this media-industrial complex, this political-industrial complex, to convince us that going to Iraq was about 9-11, too.
+[00:03:36.480 --> 00:03:44.159]  Something about war on terror and finally finding wherever Osama bin Laden is or was, even though they knew he wasn't there.
+[00:03:45.120 --> 00:04:01.200]  But the funniest thing about this, World War IV, that we're about ready to enter, this operation that we have against Iran right now is I don't think you could really ask an average person why it is that we're engaged in this conflict with Iran, and they would be able to give you a very straight answer.
+[00:04:01.280 --> 00:04:11.840]  They'd come up with something about terrorism against our greatest ally in the Middle East or issues over oil or just some vagary.
+[00:04:13.680 --> 00:04:23.759]  And I just don't understand how we've arrived at a place as a civilization where things like this can happen and nobody knows why and nobody seems to care.
+[00:04:23.840 --> 00:04:24.560]  We're going to get more into this.
+[00:04:24.639 --> 00:04:28.319]  We have an awesome report from Alex Jones on the other side of this very short quick stand.
+[00:04:31.519 --> 00:04:34.639]  It's Sunday, March 15th, 2026.
+[00:04:35.280 --> 00:04:36.160]  And we're live.
+[00:04:36.480 --> 00:04:38.800]  And I'm here to ask my fellow info warriors, what are you doing?
+[00:04:38.960 --> 00:04:41.840]  We're not going to win this war against the globals without you taking action.
+[00:04:42.160 --> 00:04:45.280]  So share the live feeds now, almost radio stations you're listening to.
+[00:04:45.439 --> 00:04:49.360]  InfoWars.com forward slash show and banned.video and relax shows on X and Rumble.
+[00:04:49.519 --> 00:04:50.319]  Tell the show show.
+[00:04:50.720 --> 00:04:53.840]  The Globals are fighting hard to shut us down because they know we've got the truth.
+[00:04:54.000 --> 00:04:55.199]  They know we've got the answers.
+[00:04:55.519 --> 00:04:56.879]  We know we can beat them.
+[00:04:57.120 --> 00:04:57.680]  We've proven it.
+[00:04:57.840 --> 00:04:58.879]  We've turned the tide.
+[00:04:59.199 --> 00:05:04.160]  So share those live feeds now and take action because humanity has only begun to fight.
+[00:05:04.399 --> 00:05:07.120]  And the answer in 1984 is 1776.
+[00:05:07.439 --> 00:05:08.639]  I salute you all.
+[00:05:22.158 --> 00:05:25.819]  Fourteen days ago, President Trump and Israel launched attacks on Iran.
+[00:05:27.040 --> 00:05:32.639]  And I said then Iran will close the Strait of Hormuz, 27% of the world's energy.
+[00:05:33.519 --> 00:05:37.439]  And then when Trump tries to stop them, they will just double down.
+[00:05:37.759 --> 00:05:40.080]  I predicted the regime would not fall.
+[00:05:40.399 --> 00:05:43.120]  That was the assessments, the Joint Chiefs of Staff to Trump.
+[00:05:43.439 --> 00:05:45.199]  But Israel drug us into it.
+[00:05:45.759 --> 00:05:54.800]  Now Trump is deploying a Marine Expeditionary Force, amphibious ships, 5,000 Marines, the 82nd Airborne, you name it, already being deployed.
+[00:05:55.120 --> 00:06:00.720]  As I said a week ago, to retake or take the Iranian side of the Strait of Hormuz.
+[00:06:00.879 --> 00:06:02.240]  People said, oh, you're conspiracy theorists.
+[00:06:02.320 --> 00:06:06.560]  No, now it's official as of Friday, yesterday.
+[00:06:07.200 --> 00:06:28.240]  And so now Trump has called on the nations of the earth, the EU, the UK, China, India, to send their navies to the Persian Gulf and to the Strait of Hormuz so that Iran won't attack their ships using them as human shields so that Iran will be in checkmate.
+[00:06:28.320 --> 00:06:31.600]  It won't close the Strait of Hormuz, which they've already basically closed.
+[00:06:32.560 --> 00:06:34.639]  Iran doesn't care.
+[00:06:35.920 --> 00:06:39.600]  Iran's already being obliterated, but you can't get rid of their ground troops.
+[00:06:39.920 --> 00:06:42.720]  So you get rid of their offensive military to a great extent.
+[00:06:42.800 --> 00:06:47.439]  They're still firing missiles at Israel and others, but you can mitigate that, but you can't get them to stop.
+[00:06:47.759 --> 00:06:50.399]  And it doesn't matter if they sink the Iranian Navy.
+[00:06:50.560 --> 00:06:57.759]  It doesn't matter if all these other aircraft carriers show up from India and China and everywhere else, which China's ally with them, they're not going to do.
+[00:06:59.040 --> 00:07:09.120]  Because the Iranians have a giant army that the CIA tried to take down in the 80s using Iraq, and 2 million people died, and the Iranians didn't give up.
+[00:07:09.439 --> 00:07:14.720]  And the Pentagon told Trump it was a 90% probability that they wouldn't fall for years.
+[00:07:15.360 --> 00:07:21.120]  So a week ago, Trump's like, fine, we'll fight for 20 years or we'll obliterate your whole country, on and on.
+[00:07:22.159 --> 00:07:24.720]  But then he figured out that that's not actually going to happen.
+[00:07:25.040 --> 00:07:26.879]  So now he's like, okay, you need to give up.
+[00:07:27.200 --> 00:07:29.279]  He announced today the war is over.
+[00:07:29.600 --> 00:07:33.519]  Well, no, it's not because the Iranians didn't give up.
+[00:07:34.720 --> 00:07:36.000]  So that's where we are.
+[00:07:36.320 --> 00:07:38.800]  And to all my critics, man, aren't you proven wrong again?
+[00:07:40.160 --> 00:07:45.840]  All the pro-war neocons that thought you were going to take over the Trump administration, which you have to a great extent on foreign policy.
+[00:07:46.080 --> 00:07:51.360]  And Netanyahu and everybody else, even the Israeli newspapers have been, wow, Iran was harder to beat what we caught.
+[00:07:51.600 --> 00:07:54.000]  Well, they just keep having more missiles.
+[00:07:54.960 --> 00:07:56.879]  So, this is total insanity.
+[00:07:57.759 --> 00:08:02.080]  And it took 90,000 Marines to take Iwo Jima.
+[00:08:02.720 --> 00:08:07.520]  That's the in the island hopping towards Japan in the Pacific War in World War II.
+[00:08:07.840 --> 00:08:09.759]  90,000 one island.
+[00:08:11.040 --> 00:08:17.360]  You think 5,000 Marines and 7,000 82nd airborne-that's the combat contingent.
+[00:08:17.439 --> 00:08:21.520]  It's like 18,000, but only 7,000 are actual fighters.
+[00:08:22.480 --> 00:08:31.200]  Do you think 12,000 troops and Marines have you looked at the straight of Hormuz on the Iranian side?
+[00:08:31.280 --> 00:08:33.279]  It's like it was designed by God to be a trap.
+[00:08:33.920 --> 00:08:45.120]  Multi-thousand-foot cliffs and then mountains, a perfect bowl with their main military station, thousands of pieces of artillery, hidden missiles, spider holes, you name it.
+[00:08:45.440 --> 00:08:48.080]  They can fly their drones out all day long.
+[00:08:49.039 --> 00:08:52.080]  They can hit Israel thousands of miles away or 800 miles away with drone.
+[00:08:52.240 --> 00:08:53.120]  Can they hit the ships?
+[00:08:53.279 --> 00:08:53.440]  Yeah.
+[00:08:54.399 --> 00:08:59.600]  So if France sticks this ship out there, if anybody does it, it doesn't matter.
+[00:08:59.680 --> 00:09:01.600]  The Iranians are up against a wall.
+[00:09:01.920 --> 00:09:03.120]  They are belligerent.
+[00:09:03.360 --> 00:09:04.879]  They are emboldened.
+[00:09:05.759 --> 00:09:12.240]  It doesn't mean in the end of this, they won't be defeated, but it's called a period of victory for the United States.
+[00:09:13.200 --> 00:09:17.680]  Because if you look at all the economics and what the economists are saying, Trump's recovery plan was a great plan.
+[00:09:17.759 --> 00:09:19.279]  That's why I supported it.
+[00:09:19.600 --> 00:09:22.000]  But it's all based on inflation being curtailed.
+[00:09:22.320 --> 00:09:25.440]  And the base of inflation is energy.
+[00:09:26.080 --> 00:09:35.440]  And if oil gets up to $90 to $100 a barrel for just a few months, as I warned six months ago with economists on the show, it will derail the plan.
+[00:09:35.680 --> 00:09:42.160]  It'll be way worse than the Federal Reserve not cutting interest rates early, way worse than that.
+[00:09:43.360 --> 00:09:50.879]  Because beyond even interest rate on mortgages and things or on car loans is the price of energy.
+[00:09:50.960 --> 00:09:52.960]  That's the most baseline of everything.
+[00:09:53.600 --> 00:09:55.600]  And poor people get destroyed with inflation.
+[00:09:55.840 --> 00:09:57.920]  Rich people just get hurt.
+[00:09:58.879 --> 00:10:00.320]  So this is a big deal, folks.
+[00:10:00.480 --> 00:10:02.399]  So the globalists wanted to derail Trump's plan.
+[00:10:02.720 --> 00:10:05.279]  COVID was their way to derail his recovery the first time.
+[00:10:05.600 --> 00:10:06.480]  Totally set him up.
+[00:10:06.560 --> 00:10:07.200]  We know that.
+[00:10:07.840 --> 00:10:09.039]  This time they've done it again.
+[00:10:09.279 --> 00:10:10.720]  And he now knows he was set up.
+[00:10:11.039 --> 00:10:13.120]  He's trying to stomp the brakes.
+[00:10:13.759 --> 00:10:17.680]  Went from oh, unconditional surrender because the Iranians actually said we're not going to surrender.
+[00:10:17.759 --> 00:10:18.399]  So Trump was okay.
+[00:10:18.560 --> 00:10:19.200]  Unconditional surrender.
+[00:10:19.440 --> 00:10:20.399]  That was a week ago.
+[00:10:20.720 --> 00:10:23.039]  Now it's like you give up, the war's over, we've won.
+[00:10:23.120 --> 00:10:24.240]  We've taken out your military.
+[00:10:24.560 --> 00:10:28.160]  See, first it was just get rid of their nukes or nuke capacity.
+[00:10:28.320 --> 00:10:29.279]  Then it was get rid of their missiles.
+[00:10:29.440 --> 00:10:30.720]  It was like, no, regime change.
+[00:10:30.960 --> 00:10:32.080]  That didn't happen.
+[00:10:32.720 --> 00:10:33.840]  So now it's like, well, we're done.
+[00:10:33.920 --> 00:10:35.440]  It's over, but it's not over.
+[00:10:36.000 --> 00:10:38.799]  So you have to think second, third, fourth, fifth order.
+[00:10:39.440 --> 00:10:41.360]  You have to think multi-steps ahead.
+[00:10:41.440 --> 00:10:42.560]  That's what strategy is.
+[00:10:42.879 --> 00:10:44.399]  And I've studied this for a long time.
+[00:10:44.560 --> 00:10:48.080]  I predicted it all, but I don't need to just think I'm right.
+[00:10:48.960 --> 00:10:56.480]  Eric Prince is not just the founder of Blackwater and super successful strategist international business, but he's done so many other things.
+[00:10:56.799 --> 00:11:06.960]  And of course, he was going off the reports of the CIA, of the Office of National Intelligence, and of the Pentagon, and of Kane, the chairman, who said, We'll do this, obviously, Mr. President.
+[00:11:07.120 --> 00:11:11.360]  We order it, but we don't really see any scenario where this makes things better.
+[00:11:12.240 --> 00:11:21.360]  But Israel and their unpopular president, Netanyahu, or prime minister, drug us into this, and here we are.
+[00:11:21.680 --> 00:11:25.759]  And Israel only thinks about things one-dimensionally, what's good for Israel.
+[00:11:26.080 --> 00:11:29.200]  But really, if you pull back, it's not even good for Israel down the road.
+[00:11:30.160 --> 00:11:31.600]  This is an unmitigated disaster.
+[00:11:31.680 --> 00:11:37.600]  It's made the MOLAS the underdog when they're detestable people, But they are hard fighters.
+[00:11:37.680 --> 00:11:38.960]  They're not going to give up.
+[00:11:39.920 --> 00:11:44.960]  And it has put our entire economic recovery in jeopardy.
+[00:11:45.280 --> 00:11:47.040]  And of course, I don't want to hear we got to fight them over there.
+[00:11:47.120 --> 00:11:48.080]  It's going to fight them over here.
+[00:11:48.320 --> 00:11:50.800]  How did all those wars, 25 years of wars turn out?
+[00:11:50.960 --> 00:11:55.360]  20 trillion of debt from the wars, basically our whole debt, most of it.
+[00:11:55.920 --> 00:12:01.120]  And we brought 15 times what we're here 25 years ago, Muslims into the U.S. and Europe.
+[00:12:01.440 --> 00:12:04.160]  The globalists are playing this against each other, folks.
+[00:12:04.480 --> 00:12:05.600]  It's that simple.
+[00:12:06.240 --> 00:12:17.200]  And now, if things go bankrupt and we can't have a recovery, now the Trump recovery doesn't work, where he's unilaterally pulled out of the U.N., out of the World Trade Organization, which was good.
+[00:12:18.080 --> 00:12:20.640]  Now that repudiates all of that and it fails.
+[00:12:21.840 --> 00:12:40.320]  And Ludnick, with his family and their company, betting against the tariffs and buying the insurance if the Supreme Court overturned the tariffs, buying up the billions of dollars of insurance so they make tens of billions of dollars on the 178 billion that's been overturned.
+[00:12:40.640 --> 00:12:43.360]  I mean, Trump is being set up at every level.
+[00:12:43.520 --> 00:12:44.800]  I don't say they'll give him a pass.
+[00:12:45.280 --> 00:12:46.480]  I know the inside baseball.
+[00:12:46.640 --> 00:12:47.920]  It's the same story over and over again.
+[00:12:48.160 --> 00:12:50.960]  He's smart in many ways, but you know, not sophisticated than others.
+[00:12:51.040 --> 00:12:53.120]  He admitted, I didn't know how Washington ran eight years ago.
+[00:12:53.360 --> 00:12:54.080]  I was naive.
+[00:12:54.320 --> 00:12:56.400]  Well, you're really naive right now, Trump.
+[00:12:57.040 --> 00:13:06.800]  And I told you that just because you're going to say, finally, let's pull out, let's declare victory, as I said 14 days ago, I said, you have to declare it early so the Iranians don't double down.
+[00:13:07.200 --> 00:13:09.200]  I said, if you kill their leaders, they're going to double down.
+[00:13:09.520 --> 00:13:10.560]  And then it's a game of chicken.
+[00:13:11.600 --> 00:13:13.040]  They're not going to give up.
+[00:13:13.920 --> 00:13:16.160]  So they decide now when it's over.
+[00:13:16.720 --> 00:13:26.400]  And if you think they care, the French military, I mean, our military is 50, 100 times more lethal than the French.
+[00:13:26.720 --> 00:13:30.160]  The Israeli military is more powerful than the French military, other than their nukes.
+[00:13:30.480 --> 00:13:33.760]  The Israeli is formidable military.
+[00:13:34.960 --> 00:13:37.120]  So they're already being hit by Israel in its face.
+[00:13:38.080 --> 00:13:39.200]  They don't care.
+[00:13:39.520 --> 00:13:46.160]  So now Trump thinks if he gets a bunch of international ships out there, Iran will go, ooh, we better not attack.
+[00:13:47.360 --> 00:13:48.720]  They're cornered.
+[00:13:49.040 --> 00:13:50.000]  Think through the strategy.
+[00:13:50.160 --> 00:13:52.560]  They've already said we'll attack all those ships.
+[00:13:53.200 --> 00:13:56.320]  So it's all empty threats, folks, because you've cornered these people.
+[00:13:56.960 --> 00:14:00.880]  And they didn't fall like your political advisors told you.
+[00:14:01.200 --> 00:14:09.280]  Your military advisors told you, almost all of them, except the head of SETCOM, who's basically an Israeli operative, that this was going to fail.
+[00:14:09.600 --> 00:14:12.400]  But you didn't listen to them because you were emboldened by Venezuela.
+[00:14:12.560 --> 00:14:14.480]  A totally different case.
+[00:14:14.800 --> 00:14:16.080]  Totally different animal.
+[00:14:16.400 --> 00:14:18.080]  Which I tacitly approved of.
+[00:14:18.480 --> 00:14:28.800]  My own view for gunboat diplomacy, Monroe Doctrine, Thomas Jefferson's president with the Barbary Pirates, the fact that they were involved with Cuba, destabilizing us.
+[00:14:28.960 --> 00:14:29.680]  That's all true.
+[00:14:30.000 --> 00:14:33.280]  That is a real group attacking us, controlling Mexican drug cartels.
+[00:14:33.520 --> 00:14:35.360]  Still, I said, though, you'll probably be set up in that.
+[00:14:35.440 --> 00:14:39.680]  So I said, I academically understand what you're doing and don't say it's unconstitutional.
+[00:14:39.760 --> 00:14:40.640]  I still wouldn't do it.
+[00:14:40.960 --> 00:14:42.800]  And we're still going to see how that turns out.
+[00:14:43.120 --> 00:14:46.480]  As I said 14 days ago, I hope this turns out okay.
+[00:14:47.440 --> 00:14:50.960]  I hope magically the mullahs get overthrown and some great thing happens.
+[00:14:51.120 --> 00:14:56.640]  But then, will we put somebody good in or will we put somebody like the head of al-Qaeda in in Syria?
+[00:14:57.600 --> 00:14:59.520]  You see, this we've seen this story before.
+[00:14:59.760 --> 00:15:01.040]  They don't want stable governments.
+[00:15:01.120 --> 00:15:02.320]  Israel doesn't want stable governments.
+[00:15:02.480 --> 00:15:03.760]  The West doesn't want that.
+[00:15:04.080 --> 00:15:05.600]  That's why Israel created Hamas.
+[00:15:06.240 --> 00:15:08.400]  That's why they shut down on October 7th.
+[00:15:10.000 --> 00:15:10.240]  No.
+[00:15:12.000 --> 00:15:13.920]  So this is really upsetting.
+[00:15:14.480 --> 00:15:21.440]  And for all the kind of people that woke up and became Trump supporters lately, a lot of the neocons have finally got on board.
+[00:15:21.520 --> 00:15:29.760]  I mean, neocon constituents, to just see this is just another Afghanistan, another Iraq, cost us $20 trillion and got 10,000 troops killed.
+[00:15:29.920 --> 00:15:32.480]  No, this is hundreds of times worse potentially.
+[00:15:32.960 --> 00:15:43.600]  And I just wish you understood that when Trump has bad advice and has bad forces telling him what to do, we've been able to get him off of that in many cases.
+[00:15:43.920 --> 00:15:56.400]  So by you attacking those of us that told the truth and were right, that we're actually informed and saying we're Qatari agents, we're traitors, and by saying do whatever the neocons say, you've sold all of us down the river.
+[00:15:56.720 --> 00:15:58.560]  And I hope it's not too late.
+[00:15:59.200 --> 00:16:06.720]  When the Democrats win the midterms, if we're literally eating dog food in a few years because of what you did, Trump ran on not having a full war with Iran.
+[00:16:06.880 --> 00:16:07.440]  He understood it.
+[00:16:07.520 --> 00:16:08.960]  His advisors understood it.
+[00:16:09.280 --> 00:16:16.160]  The Office of National Intelligence, 16 intelligence agencies in the Pentagon, Defense Intelligence, gave Trump a report one week before he struck.
+[00:16:16.400 --> 00:16:18.080]  That's 21 days ago.
+[00:16:19.040 --> 00:16:21.200]  And laid out all the scenarios that are happening now.
+[00:16:21.520 --> 00:16:25.440]  Now, that wasn't released, that report, parts of it, until last week.
+[00:16:25.680 --> 00:16:32.240]  But if you look what's in that report, I said the exact same thing a week before because it's already been working so many times.
+[00:16:32.480 --> 00:16:34.160]  This is known, people.
+[00:16:35.440 --> 00:16:43.120]  Like this type of tire, when you get up to this many miles, you know, 50,000 miles on it, it has a 90% chance it's going to blow out.
+[00:16:43.280 --> 00:16:44.240]  You know what I mean?
+[00:16:44.560 --> 00:16:50.400]  Or great film based on the court transcripts, The Deepwater Horizon.
+[00:16:51.360 --> 00:16:56.240]  And they have these executives at BP in London and in Houston.
+[00:16:56.560 --> 00:17:02.800]  Because when you watch that movie, because there's actually documentaries about it where they have the audio of it, the executives recorded all this stuff.
+[00:17:03.760 --> 00:17:04.640]  They recorded their calls.
+[00:17:04.720 --> 00:17:05.440]  They were proud of it.
+[00:17:05.759 --> 00:17:08.800]  They're talking to head engineers on the deepest well ever driven at that time.
+[00:17:09.120 --> 00:17:11.200]  It was costing like $30 million a day to do.
+[00:17:11.840 --> 00:17:14.080]  And they're like, yeah, don't dump concrete into the hole.
+[00:17:14.240 --> 00:17:17.039]  And they go, with the pressure, sir, it'll explode.
+[00:17:17.360 --> 00:17:20.800]  And they said, nah, we'll save 30, 40 million a day, not putting concrete in.
+[00:17:21.039 --> 00:17:22.640]  Saltwater will just pressurize it.
+[00:17:22.720 --> 00:17:24.160]  And they're like, you're not an engineer.
+[00:17:24.240 --> 00:17:24.640]  You don't know that.
+[00:17:24.800 --> 00:17:25.759]  It's going to blow up.
+[00:17:26.080 --> 00:17:27.600]  They said, do the pressure test.
+[00:17:28.240 --> 00:17:28.560]  They did it.
+[00:17:28.800 --> 00:17:29.600]  Didn't blow up right away.
+[00:17:29.680 --> 00:17:31.440]  They said, stop dumping the mud.
+[00:17:31.519 --> 00:17:32.880]  That's what it's called mud.
+[00:17:33.759 --> 00:17:35.039]  And they said, okay.
+[00:17:35.360 --> 00:17:36.080]  And you know what it did?
+[00:17:36.240 --> 00:17:38.080]  It blew up a few hours later.
+[00:17:38.400 --> 00:17:40.080]  This is math, folks.
+[00:17:40.400 --> 00:17:41.600]  War is math.
+[00:17:41.840 --> 00:17:42.800]  It's probabilities.
+[00:17:43.120 --> 00:17:46.880]  They're sitting rolling dice at a casino.
+[00:17:47.200 --> 00:17:47.519]  Okay.
+[00:17:48.880 --> 00:17:53.360]  And I have spent decades studying this, decades.
+[00:17:54.000 --> 00:17:59.039]  And for those of you that this is a joke, this isn't funny, okay?
+[00:17:59.680 --> 00:18:01.360]  This isn't funny.
+[00:18:03.279 --> 00:18:05.279]  We were supposed to already collapse under Kamala.
+[00:18:05.360 --> 00:18:07.519]  Trump's economic plan is excellent.
+[00:18:07.840 --> 00:18:10.960]  The no tax on tips, the 20 trillion investment coming back in the U.S.
+[00:18:11.279 --> 00:18:12.960]  This just so happens to be our military debt.
+[00:18:13.279 --> 00:18:14.400]  All of that is great.
+[00:18:15.200 --> 00:18:16.400]  It works.
+[00:18:16.720 --> 00:18:17.440]  Reagan did it.
+[00:18:17.519 --> 00:18:20.800]  You cut taxes, income increases.
+[00:18:21.440 --> 00:18:23.440]  You just can't increase spending massively.
+[00:18:23.759 --> 00:18:25.200]  Does K was doing a great job.
+[00:18:25.360 --> 00:18:27.279]  It got run off because it was too good.
+[00:18:27.600 --> 00:18:30.000]  That was me of the end, running Elon off.
+[00:18:30.320 --> 00:18:33.920]  But everybody made it like a high school popularity contest.
+[00:18:34.240 --> 00:18:36.080]  Oh, who are you for, Trump or Elon?
+[00:18:36.160 --> 00:18:37.360]  I said, I'm against this whole thing.
+[00:18:37.519 --> 00:18:38.240]  I'm for both of them.
+[00:18:38.320 --> 00:18:40.080]  But I said, Trump's wrong here.
+[00:18:40.559 --> 00:18:41.600]  Now you see it.
+[00:18:41.920 --> 00:18:45.920]  Trump needs pressure from the public, the constituents.
+[00:18:46.880 --> 00:18:49.759]  Not, oh, he's some Chinese emperor in the Forbidden City.
+[00:18:49.920 --> 00:18:51.920]  We're not supposed to be involved.
+[00:18:52.000 --> 00:18:53.280]  Just listen to the neocons.
+[00:18:53.440 --> 00:18:54.640]  Listen to Susie Wiles.
+[00:18:54.800 --> 00:18:55.840]  Listen to what they have to say.
+[00:18:56.000 --> 00:18:57.840]  They're going to get us all killed.
+[00:18:59.680 --> 00:19:01.519]  Now I learned they spun what KD Vance said.
+[00:19:01.600 --> 00:19:06.000]  His whole statement was, I don't think we should go to war with Iran, but if we do, hit them hard, hit them fast, and get out.
+[00:19:06.320 --> 00:19:08.080]  Which, yeah, get out quickly.
+[00:19:08.400 --> 00:19:10.160]  Blow up their missiles.
+[00:19:10.480 --> 00:19:11.519]  Blow up their main military.
+[00:19:11.600 --> 00:19:12.400]  You can do that a couple days.
+[00:19:12.480 --> 00:19:14.320]  Most of them are already gone, like Trump said.
+[00:19:14.640 --> 00:19:15.920]  But now it's about regime change.
+[00:19:16.080 --> 00:19:17.200]  We're in two weeks.
+[00:19:17.519 --> 00:19:19.759]  We're told it's been going for six months.
+[00:19:20.080 --> 00:19:22.559]  But Trump didn't think about the Strait of Ormondus.
+[00:19:22.640 --> 00:19:23.920]  They now admit he didn't.
+[00:19:24.559 --> 00:19:31.280]  Iran voted nine months ago in the last attack, Midnight Hammer, to close the Strait of Remote as soon as we did this.
+[00:19:31.519 --> 00:19:35.680]  And they've only done it by shooting some missiles and drones and blow up a few tankers.
+[00:19:36.240 --> 00:19:38.240]  They can mine that whole sucker right now.
+[00:19:38.559 --> 00:19:39.039]  They already have.
+[00:19:39.200 --> 00:19:40.160]  He's got to activate them now.
+[00:19:40.799 --> 00:19:42.960]  They can sit there from those hills.
+[00:19:43.039 --> 00:19:45.039]  It's only a few miles across the strait.
+[00:19:46.319 --> 00:19:48.480]  And we can sit and attack helicopters and wipe them out.
+[00:19:48.559 --> 00:19:49.680]  They'll just send more fighters in.
+[00:19:49.839 --> 00:19:51.599]  And we put the Marines in, we can capture it.
+[00:19:51.839 --> 00:19:55.680]  But then they'll be pinned down in a bowl with mountains above them.
+[00:19:56.000 --> 00:19:57.920]  5,000-foot mountains.
+[00:19:59.519 --> 00:20:01.119]  2,000-foot bowl.
+[00:20:01.440 --> 00:20:04.240]  Have you looked at the Strait of Hermes on the Iranian side?
+[00:20:04.559 --> 00:20:06.960]  Which, by the way, they've always known would be the main invasion point.
+[00:20:07.279 --> 00:20:09.279]  They got underground tunnels everywhere.
+[00:20:09.519 --> 00:20:12.720]  It'll make the VC look like choir boys.
+[00:20:13.599 --> 00:20:16.400]  And I'm talking to Army Special Operations.
+[00:20:17.359 --> 00:20:19.920]  I already know this, but I call and I double-check and go, you're absolutely right.
+[00:20:20.000 --> 00:20:21.039]  It's a fucking nightmare.
+[00:20:21.359 --> 00:20:22.879]  But don't listen to the Delta Force.
+[00:20:23.039 --> 00:20:26.559]  Don't listen to Navy SEAL, SIL Team 6, SIL Team, you name it.
+[00:20:26.879 --> 00:20:28.639]  Don't listen to the actual battle plans.
+[00:20:28.720 --> 00:20:30.079]  Don't listen to the war games.
+[00:20:30.400 --> 00:20:32.079]  Just shoot your mouths off.
+[00:20:34.000 --> 00:20:39.359]  And then we now learn Tucker Carlson's had a criminal complaint opened on him that he dare interview the Iranians.
+[00:20:39.680 --> 00:20:41.680]  And people are calling for his arrest.
+[00:20:42.319 --> 00:20:46.480]  That's why I've got on my ex-account picture of me and Tucker because I respect his courage.
+[00:20:46.799 --> 00:20:55.599]  Tucker is an American patriot who admits he was conned by Neo-Constantly, woke up 14 years ago, came to me in Austin to apologize to me and say, I'm never going to do it again.
+[00:20:55.920 --> 00:20:58.160]  That's what a journalist does is interviews with foreign leaders.
+[00:20:58.400 --> 00:21:00.879]  And remember when it first came out, he was spot on by the NSA legally.
+[00:21:00.960 --> 00:21:03.039]  They said, oh, you're a conspiracy theorist that it came out they were.
+[00:21:03.279 --> 00:21:05.920]  And that they blocked his interviews with foreign leaders.
+[00:21:06.240 --> 00:21:07.119]  And now they've done it again.
+[00:21:07.279 --> 00:21:09.519]  And they're like, yeah, we're going to arrest you.
+[00:21:10.160 --> 00:21:12.240]  Arrest him for being right?
+[00:21:14.799 --> 00:21:20.960]  Arrest him saying he works with a foreign power when Israel brags that they're basically running our foreign policy.
+[00:21:21.920 --> 00:21:24.240]  And the ADL's called for my arrest?
+[00:21:26.160 --> 00:21:32.639]  I mean, down that the Justice Department and CIA targeted me and my family and my operation the last eight years all came out declassified.
+[00:21:32.799 --> 00:21:40.319]  And Todd Blanche, the Democrat lawyer that Trump has in there, the deputy AG, the real AG, he killed Ed Martin's investigation into that.
+[00:21:40.480 --> 00:21:41.599]  That was open and shut.
+[00:21:41.920 --> 00:21:43.119]  They bragged on the stand.
+[00:21:43.200 --> 00:21:44.480]  The FBI and CI did it.
+[00:21:45.039 --> 00:21:47.119]  The DOJ funded illegally.
+[00:21:48.000 --> 00:21:54.160]  And Ed was hired by Trump to have the government weaponization committee and he got killed.
+[00:21:54.480 --> 00:22:00.400]  And of course they killed the Autopit investigation two weeks ago.
+[00:22:00.720 --> 00:22:02.880]  Well, about a week and a half ago.
+[00:22:03.200 --> 00:22:16.400]  They had Biden's chief of staff came in and turned state evidence to the DOJ how it was all illegal and how committee ran everything and Biden was not even cognizant.
+[00:22:16.960 --> 00:22:18.480]  And that's all killed now too.
+[00:22:19.599 --> 00:22:23.119]  And the DOJ is covering up Epstein, even though it's all Democrats.
+[00:22:24.720 --> 00:22:25.200]  95%.
+[00:22:26.160 --> 00:22:27.519]  Other than Howard Ludden.
+[00:22:29.440 --> 00:22:31.279]  So that's where we are, folks.
+[00:22:31.599 --> 00:22:34.400]  And it's very upsetting, but I'm going to say this.
+[00:22:34.639 --> 00:22:47.680]  I am all for not being under the UN, the World Trade Organization, the IMF, the globalist system that's in all the WikiLeaks and all the Epstein stuff with David Rockefeller running a shadow world government and their plan.
+[00:22:47.759 --> 00:22:48.400]  It's all right there.
+[00:22:48.720 --> 00:22:52.720]  I told you decades ago, Epstein on Trial Commission.
+[00:22:54.319 --> 00:23:01.759]  I'm all about the U.S. making its own decisions, but we're working with other countries as partners, unilaterally, but not giving over our sovereignty.
+[00:23:01.839 --> 00:23:14.880]  But you notice now Trump's hit the panic button begging an international coalition, including our arch enemy China, who gets half the royal out of the Strait of Hermuse, to come there and put their ships there so that hoping Iran won't shoot at them.
+[00:23:15.200 --> 00:23:18.160]  Iran already gives the Chinese ships passage out.
+[00:23:19.119 --> 00:23:21.599]  Five, six oil takers a day leave.
+[00:23:24.160 --> 00:23:27.920]  Trump knows he can't put our ships there because there's all those missiles.
+[00:23:28.240 --> 00:23:34.240]  And if he does, our ships are going to get sunk, and then we're going to be at full war when the American people blow their tops.
+[00:23:34.559 --> 00:23:39.839]  But, you know, Israel or others could be a false flag on the Abraham Lincoln or the Gerald R. Ford.
+[00:23:40.799 --> 00:23:41.759]  You ever think about that?
+[00:23:42.000 --> 00:23:47.759]  Just like the U.S.S. Liberty was meant to get us into war with Egypt and then Russia in 67.
+[00:23:48.400 --> 00:23:49.920]  Do you know about the Gulf of Tonkin?
+[00:23:50.480 --> 00:23:51.920]  The Levant Affair.
+[00:23:53.120 --> 00:23:54.880]  Operation Ajax.
+[00:23:56.160 --> 00:23:58.880]  Do you know about Operation Northwoods?
+[00:23:59.519 --> 00:24:00.960]  Do you know about this stuff?
+[00:24:02.799 --> 00:24:03.839]  I know it's work.
+[00:24:04.160 --> 00:24:05.519]  I know it's hard.
+[00:24:05.839 --> 00:24:11.519]  And to the left out there, in all the wars you started, you want nuclear war with Russia.
+[00:24:11.680 --> 00:24:13.440]  Sean Penn, why don't we use nukes?
+[00:24:13.759 --> 00:24:15.279]  You're way worse than Trump.
+[00:24:15.359 --> 00:24:15.920]  So let's be clear.
+[00:24:16.079 --> 00:24:17.360]  Don't be up there on your high horse.
+[00:24:17.519 --> 00:24:18.640]  Always had an eclipse of me.
+[00:24:18.799 --> 00:24:20.720]  Like, oh, Jones admits he was wrong all the time.
+[00:24:20.960 --> 00:24:21.839]  Oh, yeah, Trump's.
+[00:24:22.640 --> 00:24:25.039]  I'm proud we got Trump in despite all you did.
+[00:24:25.440 --> 00:24:26.559]  Voted for him three times.
+[00:24:26.880 --> 00:24:27.759]  We changed the world.
+[00:24:27.920 --> 00:24:28.960]  We killed the carbon taxes.
+[00:24:29.039 --> 00:24:29.920]  It would kill 2 billion people.
+[00:24:30.000 --> 00:24:31.680]  It's estimated major actuaries.
+[00:24:31.920 --> 00:24:32.960]  They cut half the carbon.
+[00:24:33.279 --> 00:24:34.400]  We have secured the border.
+[00:24:34.960 --> 00:24:35.599]  We've done so much.
+[00:24:35.680 --> 00:24:41.920]  That's why it's so sad to see Trump getting hijacked by this and deviating so much.
+[00:24:42.240 --> 00:24:43.920]  I'm going to end this live stream now.
+[00:24:44.559 --> 00:24:45.279]  Saturday evening.
+[00:24:45.440 --> 00:24:49.920]  We'll be back online tomorrow at 4 p.m. Central at the M4 studios.
+[00:24:50.559 --> 00:24:51.839]  We're being shut down finally.
+[00:24:51.920 --> 00:24:54.000]  They've tried so many times, but it's the state receiver.
+[00:24:54.160 --> 00:24:56.799]  They're just not paying the bills, the internet, the electricity.
+[00:24:57.440 --> 00:24:58.799]  They're just shutting it all off.
+[00:24:59.200 --> 00:25:03.680]  Infowars.com, contracts up to like April 2nd.
+[00:25:04.319 --> 00:25:05.039]  That'll be shutting down.
+[00:25:05.119 --> 00:25:05.839]  You'll see that go down.
+[00:25:06.799 --> 00:25:09.039]  Then we'll move the new network, the Alexon's network.
+[00:25:09.119 --> 00:25:10.400]  But I mean, here it is.
+[00:25:10.720 --> 00:25:14.559]  And because we survived so long, people will take that seriously.
+[00:25:15.119 --> 00:25:22.559]  Through all the fake, you know, court hearings and rigged show trials and the onions saying they bought it with a fake auction.
+[00:25:22.640 --> 00:25:23.440]  We challenged that.
+[00:25:23.759 --> 00:25:24.960]  But now it's finally happening.
+[00:25:25.039 --> 00:25:27.839]  It's just indicative of how much trouble this country's in.
+[00:25:27.920 --> 00:25:37.279]  So follow me, Real Aux Jones on X and at AJN Live, just Alex Jones Network, AJN Live on X, and on Rumble, the Alex Jones show.
+[00:25:38.240 --> 00:25:42.400]  We've got new news sites that are going to be launching and all the rest of all Tales names soon.
+[00:25:42.720 --> 00:25:46.000]  But I'm not really worried about myself at the end of the day.
+[00:25:46.079 --> 00:25:47.360]  We've been vindicated, unfortunately.
+[00:25:47.519 --> 00:25:48.559]  I wish this was not true.
+[00:25:49.519 --> 00:25:50.880]  I wish it wasn't real.
+[00:25:51.440 --> 00:25:54.720]  But the whole thing, everything we told you is right out in the open now.
+[00:25:55.519 --> 00:25:56.240]  And that's the good news.
+[00:25:56.319 --> 00:26:04.720]  As negative as things are, if you just stop a nuclear war or a total energy war that crashes everything, which looks like it's happening, the renaissance is here.
+[00:26:04.799 --> 00:26:07.279]  And that's why the bad guys are so dangerous because they know that.
+[00:26:09.440 --> 00:26:12.079]  So Trump's calling on an international coalition.
+[00:26:14.000 --> 00:26:15.920]  Every time I shoot these videos, I see the comments.
+[00:26:16.640 --> 00:26:18.799]  A lot of them are bots and trolls, but some are just dumb.
+[00:26:19.039 --> 00:26:20.640]  Where's the proof of that?
+[00:26:21.279 --> 00:26:23.519]  Like when Trump said last weekend, the war is over.
+[00:26:23.680 --> 00:26:24.079]  Where's that?
+[00:26:24.160 --> 00:26:25.119]  And I had to show you the video.
+[00:26:25.839 --> 00:26:28.559]  Where's Trump calling for an international coalition of ships?
+[00:26:28.799 --> 00:26:30.000]  You look it up yourself, okay?
+[00:26:30.160 --> 00:26:30.799]  I can post it.
+[00:26:30.880 --> 00:26:32.079]  In fact, I already did.
+[00:26:33.039 --> 00:26:34.880]  But don't try that game, okay?
+[00:26:35.039 --> 00:26:36.640]  Or ask retarded Grok what's going on.
+[00:26:36.799 --> 00:26:38.160]  We're light years ahead of Grok.
+[00:26:38.319 --> 00:26:44.559]  Rock is better than most AIs, but it goes and it asks authoritative sources, the ADL, CNN, MSNBC.
+[00:26:45.039 --> 00:26:45.680]  Give me a break.
+[00:26:45.839 --> 00:26:50.640]  Though CNN is reporting, Trump hits the panic button, asks for international coalition to come and all the rest of it.
+[00:26:50.960 --> 00:26:53.279]  Even our allies are saying, yeah, Trump miscalculated.
+[00:26:53.360 --> 00:26:54.559]  Why do you think about the Strait of Hormuz?
+[00:26:54.720 --> 00:26:55.519]  That was their main move.
+[00:26:56.640 --> 00:27:01.440]  In June of last year, when we bombed them, the last time, Midnight Hammer, they said we will close it first thing.
+[00:27:02.400 --> 00:27:06.160]  And now Trump thinks if he gets the French out there, the frogs.
+[00:27:07.360 --> 00:27:10.960]  Again, China is allied with Iran, giving them a lot of their weapons.
+[00:27:11.119 --> 00:27:17.759]  They're not, Trump asked China to come basically go to war with Iran.
+[00:27:17.920 --> 00:27:22.400]  I mean, I don't want to criticize Trump, but it's like he's so good at business many ways.
+[00:27:22.720 --> 00:27:24.559]  He's really good at aesthetics.
+[00:27:25.200 --> 00:27:26.640]  But I know people are doing well.
+[00:27:27.279 --> 00:27:29.199]  He doesn't understand the military.
+[00:27:31.439 --> 00:27:36.559]  So, a lot of people are saying that Israel is trying to get the United States into a war with Iran, but it's actually more complicated than that.
+[00:27:36.719 --> 00:27:39.199]  The United States wants to get into a war with Iran.
+[00:27:39.439 --> 00:27:39.759]  Here's why.
+[00:27:40.000 --> 00:27:46.879]  So, back in 1971, Nixon took us off of the gold standard because, well, we were printing more money than we had backed by gold.
+[00:27:47.199 --> 00:27:49.119]  All of our allies called us on it.
+[00:27:49.359 --> 00:27:52.639]  We knew we didn't have the gold to pay them, so Nixon just took us off the gold standard.
+[00:27:52.879 --> 00:27:57.039]  But since the dollar was no longer backed by gold, we had to back it with something else.
+[00:27:57.359 --> 00:28:10.000]  So, Nixon negotiated the OPEC petro dollar, where he ensured that all the Middle Eastern nations would trade oil using U.S. dollars, which created an artificial demand for the dollar, even though it wasn't backed by anything.
+[00:28:10.239 --> 00:28:16.719]  This is the reason that we were able to remain the global reserve currency and protect the dollar, despite the fact that it was worthless.
+[00:28:17.039 --> 00:28:21.039]  Decades went by, and we needed to ensure that oil would always be traded in dollars.
+[00:28:21.119 --> 00:28:26.159]  So, we got involved in coup after coup and war after war, wars like the ones in Afghanistan, Iraq.
+[00:28:26.399 --> 00:28:32.000]  We assassinated Gaddafi from Libya, all people who threatened to trade oil in something other than the dollar.
+[00:28:32.239 --> 00:28:40.319]  Iran's doing the same thing today, as well as China supporting Iran because, well, they want to be the global reserve currency, not the United States.
+[00:28:40.559 --> 00:28:59.119]  Now, since we've been applying so much pressure to China and the entire region for the course of the last like 50 years or so, China has tried to establish the Belt and Road Initiative, which is something that they mean to use to undermine the dollar as a global reserve currency by establishing a trade monopoly in the entire hemisphere.
+[00:28:59.199 --> 00:29:00.719]  You can see it there on that video.
+[00:29:01.359 --> 00:29:14.879]  Interesting enough, Bibi Netanyahu, a month before the October 7th terrorist attacks happened in Israel, announced the IMEC corridor, which is meant to go through Saudi Arabia from India and to the port of Haifa in Israel.
+[00:29:15.199 --> 00:29:17.279]  Now, we all know what happened exactly a month later.
+[00:29:17.519 --> 00:29:26.479]  There was this terrorist attack, what appeared to be a stand down, which Bibi Netanyahu has used to justify it, basically wiping out every breathing thing in the Gaza Strip.
+[00:29:26.719 --> 00:29:28.399]  The reason they're committing a genocide over there?
+[00:29:28.639 --> 00:29:35.839]  Well, it's because you can't establish a trade corridor through the port of Haifa if Haifa, like in this video, is always being bombed by terrorists.
+[00:29:36.079 --> 00:29:38.079]  So, they decided that there was no two-state solution.
+[00:29:38.399 --> 00:29:53.519]  They were going to do was just coax them in to commit a terrorist attack and then use that atrocity as an excuse to just annihilate and evacuate everyone from the region to secure Israel for the sake of establishing the trade route to compete with China and save the U.S. dollar.
+[00:29:54.000 --> 00:29:56.399]  So, does Israel want a war with Iran?
+[00:29:56.639 --> 00:29:57.039]  Absolutely.
+[00:29:57.199 --> 00:30:01.279]  They stand to make a lot of money off of this I-MET corridor, but so does the United States.
+[00:30:01.599 --> 00:30:13.119]  The United States wants this war with Iran because it will be a proxy war with China, which will allow us to establish the IMEC corridor and save the fake dollar for the time being and remain the global reserve currency.
+[00:30:13.439 --> 00:30:18.358]  So ultimately, all these conflicts in the Middle East have nothing to do with democratic values or religious ideals.
+[00:30:18.558 --> 00:30:20.898]  They have everything to do with money, money, money.
+[00:30:28.499 --> 00:30:30.158]  Well, there you have it, ladies and gentlemen.
+[00:30:30.959 --> 00:30:33.359]  That was back in April of 2025.
+[00:30:33.679 --> 00:30:40.559]  I was saying, just like many others have said over the course of many years, going all the way back to AJ from the Sopranos.
+[00:30:41.519 --> 00:30:56.719]  I was saying back in April of 2025 that the United States wants a war with Iran, has very little to do with Judeo-Christian values, has very little to do with protecting a democracy in the region or protecting our key strategic ally in the region.
+[00:30:56.959 --> 00:31:06.719]  Yes, of course, the blackmail plays into this, but fundamentally speaking, all of this conflict, the entirety of this conflict, is centered around protecting the dollar as a global reserve currency.
+[00:31:06.799 --> 00:31:08.319]  I mean, the real enemy is the Federal Reserve.
+[00:31:08.480 --> 00:31:10.799]  I don't want to sound like Ron Paul.
+[00:31:11.199 --> 00:31:29.759]  I love Ron Paul, but I don't want to sound like I'm just repeating Ron Paul talking points or just badgering away like some libertarian constantly on, you know, how we have to have a gold standard and laissez-faire capitalism versus a mixed economy and Keynesian economics versus Austrian economics.
+[00:31:29.839 --> 00:31:36.559]  But fundamentally speaking, we are about ready to enter a massive world war because our money is a lie.
+[00:31:36.879 --> 00:31:42.959]  The only way that we can sustain it is to create artificial demand for it by linking it directly to oil.
+[00:31:43.039 --> 00:31:44.959]  And Iran, nobody's really talking about this.
+[00:31:45.039 --> 00:31:54.719]  You realize that Iran came out like a day ago or two days ago and said that they'd be happy to open the straight of Hormuz as long as all the oil shipments that are exported or passed through are traded in the end.
+[00:31:57.519 --> 00:32:00.799]  Iran is to China what Israel is to the United States.
+[00:32:01.119 --> 00:32:05.599]  China plays through Iran just like we play through Israel and they play each other back too.
+[00:32:05.679 --> 00:32:06.239]  I understand.
+[00:32:06.559 --> 00:32:08.399]  There's some reciprocity here in the corruption.
+[00:32:08.639 --> 00:32:23.119]  But you realize that every conflict, every major foreign policy decision that has taken place over the course of this Trump administration and the Latin half of the Biden administration has fundamentally been the military-industrial complex doing everything that it can to protect the dollar as a global reserve currency.
+[00:32:23.439 --> 00:32:25.439]  I'm going to play clip one here in a second.
+[00:32:25.759 --> 00:32:29.839]  Not ready to play it just yet, but all the experts are saying the same exact thing.
+[00:32:30.159 --> 00:32:41.119]  And by experts, I mean actual experts, people who actually think critically about things, not the experts that the CNNs or the MSNBCs or the NBCs, the NPRs would have you believe, not the experts that would have you wear a mask or whatever.
+[00:32:42.000 --> 00:32:49.679]  I mean, these key analysts understand, these economic analysts understand, these billionaires understand what's really at stake here.
+[00:32:50.000 --> 00:32:59.679]  And here's what's particularly interesting about this escalation compared to, say, World War I or World War II, or even World War III, if you believe the Cold War was actually World War III.
+[00:33:00.559 --> 00:33:04.479]  The difference is in those other wars, we had an access and we had allies.
+[00:33:04.799 --> 00:33:09.839]  We had the United States and the United Kingdom and others taping up against Germany and Japan.
+[00:33:10.159 --> 00:33:14.959]  Russia, of course, playing both sides of the fence, depending on which time period of the war that you're looking at.
+[00:33:15.599 --> 00:33:23.359]  But now it seems that this next world war is not going to be America and its allies against China and China's allies.
+[00:33:23.599 --> 00:33:29.199]  It's going to be the United States of America coupled with its proxy Israel against basically everybody else.
+[00:33:29.359 --> 00:33:30.399]  It's positively biblical.
+[00:33:30.559 --> 00:33:34.959]  I mean, it even says, I think, in the book of Revelation, that Israel will be surrounded on all sides by enemies.
+[00:33:35.839 --> 00:33:39.839]  But that's the difference here because Trump asked the world to send warships.
+[00:33:40.159 --> 00:33:41.439]  Here's what every country said.
+[00:33:41.519 --> 00:33:44.559]  I'm just going to read this straight from this tweet from Whale.guru.
+[00:33:44.879 --> 00:33:48.159]  France, officially rejected, will not send warships.
+[00:33:48.479 --> 00:33:51.439]  China, no response, called it a sovereign right.
+[00:33:51.759 --> 00:33:55.039]  The United Kingdom, discussing options with allies, no commitment.
+[00:33:55.359 --> 00:33:56.319]  Japan, silence.
+[00:33:56.479 --> 00:33:59.439]  70% of Japan's Middle East oil comes through Hormuz.
+[00:33:59.599 --> 00:34:01.439]  South Korea, no confirmation.
+[00:34:01.839 --> 00:34:04.479]  Sol cop between Washington and its own oil dependency.
+[00:34:04.719 --> 00:34:06.319]  Germany, no convoy support.
+[00:34:06.559 --> 00:34:07.839]  Norway, rejected.
+[00:34:08.159 --> 00:34:11.839]  Qatar already stopped gas production, declared force majeure.
+[00:34:12.400 --> 00:34:15.679]  Their energy minister said this will bring down the economies of the world.
+[00:34:16.000 --> 00:34:19.759]  UAE Gulf states tried to stop this war because they knew the implications.
+[00:34:20.079 --> 00:34:24.159]  Iran, still attacking ships, still laying mines, still blocking the strait.
+[00:34:24.319 --> 00:34:26.880]  10 countries, zero warships.
+[00:34:27.759 --> 00:34:30.079]  Where was Gondor when the West Fold fell?
+[00:34:30.719 --> 00:34:32.239]  I mean, it's positively biblical.
+[00:34:32.319 --> 00:34:33.920]  It's straight from all of our pop culture.
+[00:34:34.159 --> 00:34:38.480]  We are about ready to enter into World War III or four, whatever world war you want to call it.
+[00:34:38.799 --> 00:34:41.920]  And we're not going to have any allies except for Israel.
+[00:34:43.119 --> 00:34:48.559]  And forgive me, but they're not exactly outstanding to work with.
+[00:34:49.839 --> 00:34:51.679]  Let's play a little bit of clip one here.
+[00:34:52.319 --> 00:34:55.199]  Look, we've degraded Iranian capabilities massively.
+[00:34:55.440 --> 00:34:59.279]  Their army, navy, air force all been destroyed.
+[00:34:59.599 --> 00:35:01.599]  This is a good time to declare victory and get out.
+[00:35:01.759 --> 00:35:04.559]  And that is clearly what the markets would like to see.
+[00:35:04.880 --> 00:35:08.480]  You are seeing, however, a faction of people.
+[00:35:09.279 --> 00:35:23.519]  I'd say largely, but not exclusively in the Republican Party who want to escalate the war and who are calling for things like ground troops or regime change, or they simply want the pounding of Iran to just keep going on and on.
+[00:35:23.679 --> 00:35:29.759]  I saw an op-ed in the Wall Street Journal to that effect that we shouldn't try and find an off-ramp, we should just keep going with this.
+[00:35:30.079 --> 00:35:36.960]  And I just want to lay out, I think, some of the risks of what an escalatory approach could entail.
+[00:35:37.119 --> 00:35:42.159]  So, first of all, we're all seeing that the Straits of Ormoz are closed right now.
+[00:35:42.480 --> 00:35:45.679]  We don't want that to persist longer than it has to.
+[00:35:46.000 --> 00:35:49.119]  But there are actually worse outcomes than that.
+[00:35:49.440 --> 00:35:59.519]  So, if the Iranians get hit, if their oil and gas infrastructure gets hit, they've already said they're going to engage in tit-for-tat retaliation against the Gulf states.
+[00:35:59.839 --> 00:36:05.119]  And we saw there was recently the Iranians blew up this giant oil depot in Oman.
+[00:36:05.679 --> 00:36:07.119]  You saw some of those images.
+[00:36:07.440 --> 00:36:12.799]  They could continue to target the oil and gas infrastructure across the Gulf states.
+[00:36:13.119 --> 00:36:20.079]  And if that happens, it won't really matter if the straits get reopened because you won't be able to restart oil and gas production in the Middle East.
+[00:36:20.159 --> 00:36:25.679]  So that would be, I think, a much worse outcome that could result from escalation.
+[00:36:26.000 --> 00:36:33.199]  Furthermore, there's an even worse, I think, scenario from there, which is the region is very dependent on desalination plants.
+[00:36:33.519 --> 00:36:37.920]  I think something like 70% of Riyadh gets their water from desalination.
+[00:36:38.079 --> 00:36:40.319]  I think it's something like 100 million people on the Iranian.
+[00:36:41.839 --> 00:36:43.519]  The region needs fresh water.
+[00:36:43.679 --> 00:36:44.480]  Everything's saltwater.
+[00:36:44.559 --> 00:36:46.239]  You have to have the desalinization.
+[00:36:47.440 --> 00:36:48.719]  Everybody depends on the oil.
+[00:36:48.799 --> 00:36:52.880]  But what everybody's missing is that it's not about the oil.
+[00:36:53.039 --> 00:36:55.519]  It's about making sure the oil is traded in dollars.
+[00:36:55.839 --> 00:37:01.839]  That's why Iran said that it would open up the strait immediately as long as oil was going to be traded in the yen instead of the dollar.
+[00:37:02.079 --> 00:37:04.079]  It's the whole reason that we were involved in Afghanistan.
+[00:37:04.159 --> 00:37:05.679]  It's the whole reason that we were involved in Iraq.
+[00:37:05.759 --> 00:37:07.199]  It's the whole reason that we're involved in Iran.
+[00:37:07.359 --> 00:37:08.400]  And Trump has the audacity.
+[00:37:08.559 --> 00:37:09.519]  I mean, God bless him.
+[00:37:09.839 --> 00:37:16.159]  I fought like hell to get Trump elected because can you freaking imagine if Kamala Harris was the president right now?
+[00:37:17.759 --> 00:37:21.119]  But he has the audacity to say that the war in Iran has already been won.
+[00:37:21.279 --> 00:37:23.119]  We couldn't win in Afghanistan for 20 years.
+[00:37:23.279 --> 00:37:24.239]  We couldn't win in Vietnam.
+[00:37:24.480 --> 00:37:27.759]  We couldn't win in Iraq, but all of a sudden we've taken down Iran.
+[00:37:28.400 --> 00:37:30.079]  Hey, man, Iran.
+[00:37:33.279 --> 00:37:43.039]  And here's what happens: this level of collapse, this level of conflict always leads to massive inflation because you have to print money to fund it.
+[00:37:43.359 --> 00:37:50.880]  Inflation leads to the total erosion of the middle class, the total eradication of any middle class whatsoever.
+[00:37:51.039 --> 00:38:02.400]  So the rich get richer, and they're always going to talk to you about how the DAO is over 50,000, even though nobody in America has any money to put in the Dow and the SP 500 in any of the index funds because they're all living paycheck to paycheck.
+[00:38:02.719 --> 00:38:10.400]  The exact same thing happened in Germany in the 1920s, particularly after 29 when the crash happened into the 30s, which got the Nazis elected.
+[00:38:10.719 --> 00:38:18.159]  Talk about how great the stock market is and how incredible everything is, and everything's really good for the uber rich and the political class and the political-industrial complex.
+[00:38:18.480 --> 00:38:22.400]  And then this massive inflation leads to just total erosion and crippling of the middle class.
+[00:38:22.719 --> 00:38:24.400]  Nobody knows why we're at war whatsoever.
+[00:38:24.559 --> 00:38:27.440]  So suddenly we become just so bitter.
+[00:38:27.759 --> 00:38:33.440]  Like you realize that what's going to happen now because of what's taken place in this administration is we're totally going to lose the election.
+[00:38:33.519 --> 00:38:36.079]  By we, I mean, Republicans, not even to say that I am one.
+[00:38:36.719 --> 00:38:38.559]  I'm post-partisan, ladies and gentlemen.
+[00:38:38.880 --> 00:38:41.359]  But Republicans are going to lose in 2026.
+[00:38:41.679 --> 00:38:43.759]  Democrats are going to take over, make things even worse.
+[00:38:44.079 --> 00:38:53.679]  Then, since we have a Republican president, Republicans are going to lose again in 28 because when the Democrats make everything worse under a Republican president, people don't have any of the nuance to perceive that.
+[00:38:54.000 --> 00:38:57.119]  Then we're going to have massive turmoil from 28 to 32.
+[00:38:57.359 --> 00:39:01.279]  Another stock market crash, just like what happened in 1929, is going to happen in 2029.
+[00:39:01.440 --> 00:39:04.799]  And then in 2032, we're going to elect a fascist.
+[00:39:06.639 --> 00:39:08.319]  I want to show you clip nine here, actually.
+[00:39:08.719 --> 00:39:13.920]  Clip nine, this is an actor who dressed as Hitler, walked around, drove through Germany.
+[00:39:14.159 --> 00:39:14.818]  Look what's happening.
+[00:39:14.939 --> 00:39:16.077]  It's happening again in Germany.
+[00:39:16.199 --> 00:39:17.358]  It's going to happen here in the United States.
+[00:40:00.807 --> 00:40:05.108]  So we're going to wind up giving unlimited power to a fascist in 2032.
+[00:40:05.759 --> 00:40:08.239]  And look, I understand Hitler had a lot of charm.
+[00:40:08.480 --> 00:40:17.440]  He wore the Hugo boss, he put the chrome on the bends, he rallied entire people in the name of their identity, in the name of nationalism and populism simultaneously.
+[00:40:17.599 --> 00:40:20.639]  He fought off the communists, did a lot of wonderful things for Germany.
+[00:40:20.880 --> 00:40:22.480]  It was suffering when he came into power.
+[00:40:22.799 --> 00:40:24.639]  And he did all sorts of terrible things.
+[00:40:25.279 --> 00:40:40.079]  And one of the things that just pisses me off the most about this like Holocaust hyper focus, whether it's from the right or from the left, everyone on the left is like, not the left, I guess, everybody that supports Israel, all the Zionists rather, are just like Holocaust was so bad, Holocaust was so bad, Holocaust was so bad, Holocaust was so bad.
+[00:40:40.239 --> 00:40:41.599]  And then you have this like right-wing extremism.
+[00:40:41.759 --> 00:40:42.880]  It's like, barely even happened.
+[00:40:42.960 --> 00:40:43.519]  It barely even happened.
+[00:40:46.159 --> 00:40:48.639]  But I don't even give a shit about the Holocaust.
+[00:40:48.960 --> 00:40:49.279]  I don't.
+[00:40:49.360 --> 00:40:50.000]  I'm sorry.
+[00:40:50.159 --> 00:40:50.960]  I don't.
+[00:40:51.599 --> 00:41:04.320]  I'm more concerned about all of the other stuff that the Third Reich did while it was in power, like the massive censorship that took place, the eradication of all freedom of speech, the eradication of all political opposition whatsoever.
+[00:41:04.960 --> 00:41:13.360]  And what's going to happen here in the United States of America, if we continue down this road of trying to control oil in the Middle East, is it's going to collapse our entire economy.
+[00:41:13.599 --> 00:41:18.960]  And in an effort to save the dollar, we will have sacrificed it because we're fighting the wrong enemy.
+[00:41:19.279 --> 00:41:21.679]  The enemy is not Iran or Iraq or Afghanistan.
+[00:41:21.840 --> 00:41:23.519]  The enemy is not even really Israel.
+[00:41:23.679 --> 00:41:26.319]  It's the Federal Reserve Bank.
+[00:41:26.960 --> 00:41:36.400]  And I think the only way to really bring it down and have some semblance of a peaceful revolution in this country is for everybody to just declare bankruptcy like tomorrow.
+[00:41:36.559 --> 00:41:38.079]  I mean, have you seen Fight Club?
+[00:41:38.239 --> 00:41:40.159]  Either declare bankruptcy or get out of debt.
+[00:41:40.319 --> 00:41:41.360]  Take no credit card debt.
+[00:41:41.519 --> 00:41:49.039]  Just the entire monetary system that we live in in the United States of America is wholly dependent on people getting into as much debt as possible.
+[00:41:49.119 --> 00:41:50.079]  It's the way money's printed.
+[00:41:50.159 --> 00:41:51.679]  It's the way that money is distributed.
+[00:41:52.000 --> 00:41:53.440]  It's the way the entire economy works.
+[00:41:53.599 --> 00:41:55.279]  It's this massive Ponzi scheme.
+[00:41:55.519 --> 00:42:00.000]  Otherwise, we're going to wind up with what we see here in Clip 27 happening all over again.
+[00:42:00.079 --> 00:42:01.279]  I mean, it's hysterical.
+[00:42:01.599 --> 00:42:03.279]  But let's watch Clip 27.
+[00:42:04.800 --> 00:42:09.759]  That was a painting done by a famous artist, a German chappie.
+[00:42:10.960 --> 00:42:11.920]  Hang on, Fitler.
+[00:42:12.239 --> 00:42:12.880]  He painted that.
+[00:42:12.960 --> 00:42:14.480]  Yeah, he's a good painter, wasn't he?
+[00:42:14.800 --> 00:42:16.000]  He's very good at oratory.
+[00:42:16.159 --> 00:42:19.840]  He's a very good history, very good with children, and he loved music.
+[00:42:20.159 --> 00:42:21.440]  And he's good with dogs.
+[00:42:21.759 --> 00:42:22.880]  You sound like a fan.
+[00:42:23.039 --> 00:42:26.480]  No, he was slightly difficult for other reasons.
+[00:42:26.800 --> 00:42:28.400]  So you've got to purchase that.
+[00:42:30.000 --> 00:42:30.480]  Yes.
+[00:42:31.119 --> 00:42:36.400]  That is just German art of about that period, and you have to respect it.
+[00:42:36.719 --> 00:42:40.880]  I wouldn't want his painting in my house because of what he did to humanity.
+[00:42:41.119 --> 00:42:43.279]  That is a horror of a human being.
+[00:42:43.599 --> 00:42:45.759]  And his artwork doesn't belong to be shown.
+[00:42:45.840 --> 00:42:47.039]  It needs going to the toilet.
+[00:42:47.199 --> 00:42:49.519]  Do you not see that that's that abhorrent to some people?
+[00:42:49.840 --> 00:42:52.719]  No, it's your choice, but nobody understood he could paint.
+[00:42:53.039 --> 00:42:55.039]  You're upperclass as a fucking farming, isn't it?
+[00:42:55.119 --> 00:42:56.480]  You ran a fucking twist.
+[00:42:59.039 --> 00:42:59.599]  Sorry.
+[00:42:59.759 --> 00:43:01.199]  I said, Show it.
+[00:43:01.840 --> 00:43:05.679]  And look, I understand why people are becoming sympathetic to Hitler.
+[00:43:05.840 --> 00:43:06.319]  I really do.
+[00:43:06.559 --> 00:43:14.799]  It's the nationalism, it's the populism, it's the reclaiming of your identity, it's the purging of everyone who isn't your identity from your country.
+[00:43:15.119 --> 00:43:20.960]  And just like Alex said at the beginning of this broadcast tonight, 15 times the number of Muslims in the United States is before 9-11 took place.
+[00:43:21.199 --> 00:43:25.920]  Why is it that we waged war on terror and then we just imported as many terrorists as possible?
+[00:43:26.880 --> 00:43:28.320]  Have you seen what happened to London?
+[00:43:28.480 --> 00:43:29.920]  What's happened to the entirety of Europe?
+[00:43:30.079 --> 00:43:31.119]  Even it's happening in Berlin now.
+[00:43:31.279 --> 00:43:36.079]  That's why people are giving just sing heil back to the guy dressing up like Hitler.
+[00:43:38.000 --> 00:43:47.840]  Because when an entire nation, civilization, people is rotted from the center out, it creates a power vacuum so massive.
+[00:43:49.039 --> 00:44:01.039]  And what we have to be asking ourselves now is not so much whether or not we, the people, are going to win, but we have to be asking ourselves, what are we going to do with the power?
+[00:44:02.000 --> 00:44:06.960]  Are we going to go down this road that's going to lead to the collapse of Berlin eventually, just like happened in 45, right?
+[00:44:07.279 --> 00:44:15.599]  Are we going to go down this road where we can somehow resurrect a dead nation in some messianic level of a miracle?
+[00:44:17.840 --> 00:44:24.320]  And look, I know there's been rumors circulating that, circulating that Bibi Nenya, who died, he didn't appear in some key meetings for a couple of days.
+[00:44:24.400 --> 00:44:25.039]  Nobody saw him.
+[00:44:25.199 --> 00:44:27.759]  All the videos that have come out of him are completely weird.
+[00:44:27.840 --> 00:44:30.719]  But I think the biggest indicator that something's seriously wrong is clip number 16.
+[00:44:30.799 --> 00:44:32.159]  I'm going to show this in a second.
+[00:44:32.480 --> 00:44:39.679]  Treasury Secretary Scott Bassent just the other day, interrupted in the middle of an interview, called into the situation room, apparently, comes out.
+[00:44:39.920 --> 00:44:42.719]  Obviously, he'd been yelled at, or something was terribly wrong.
+[00:44:42.880 --> 00:44:43.840]  Let's watch.
+[00:44:44.800 --> 00:44:48.559]  I listened to you on the President Watson.
+[00:44:49.920 --> 00:44:51.199]  The President wants to look at this very.
+[00:44:54.880 --> 00:44:55.039]  Okay.
+[00:44:59.519 --> 00:45:00.000]  See you shortly.
+[00:45:00.079 --> 00:45:01.920]  Okay, you have to work that in.
+[00:45:02.480 --> 00:45:11.039]  Mr. Secretary, I have to say, it's a first, I'm sure, a loss as well, that an interviewee has been pulled away to go to the situation room.
+[00:45:11.679 --> 00:45:12.480]  How's the president?
+[00:45:13.119 --> 00:45:13.920]  Was he stressed?
+[00:45:14.559 --> 00:45:18.159]  No, the president is in great spirits.
+[00:45:19.039 --> 00:45:23.679]  The Iranian mission is proceeding well ahead of schedule.
+[00:45:24.000 --> 00:45:33.679]  And I have to tell you, Wolf, that I'm a teenage teenager who's considering military service.
+[00:45:34.000 --> 00:45:42.000]  And I could give this team my highest compliment from President Trump to the head of the Joint Chiefs to the Secretary of War.
+[00:45:42.559 --> 00:45:47.577]  I would say that I would trust my child's life in their hands.
+[00:45:54.459 --> 00:45:55.639]  Send your kids to war.
+[00:45:55.920 --> 00:45:57.920]  They won't, your kids won't die.
+[00:45:58.559 --> 00:46:01.840]  And look, I'm not just like, I'm not on some like Trump bashing train.
+[00:46:01.920 --> 00:46:08.079]  I understand that it's easy for broadcasters or personalities or people on the internet to be critical of whoever's in power whenever they're in power.
+[00:46:08.159 --> 00:46:09.279]  I've seen a lot of that from our side.
+[00:46:09.360 --> 00:46:11.199]  That's not what I'm trying to do here.
+[00:46:11.840 --> 00:46:15.119]  But can we at least acknowledge that war, generally speaking, is very bad?
+[00:46:15.279 --> 00:46:25.599]  I mean, it's one of the reasons why I'm so proud to have been associated with InfoWars for as long as I was, because InfoWars has been against virtually every war that we've ever been in, aside from the Revolutionary War.
+[00:46:25.920 --> 00:46:27.119]  That was the one good one.
+[00:46:27.199 --> 00:46:30.239]  It was all downhill from there, unattended.
+[00:46:31.840 --> 00:46:33.039]  But now we've arrived at this place.
+[00:46:33.119 --> 00:46:34.719]  I'm going to show clips 10 and 11 in a second.
+[00:46:34.800 --> 00:46:35.599]  Get 10 ready first.
+[00:46:35.679 --> 00:46:39.119]  I'll talk for a minute and then pitch to 11 in a second.
+[00:46:39.440 --> 00:46:44.800]  We've arrived at this place where we're being mocked for even wanting freedom of speech.
+[00:46:45.119 --> 00:47:01.519]  We're being mocked for even having a question, asking anything whatsoever, while we literally cannot get a straight, honest answer from the establishment, whether it's the Trump administration or the military-industrial complex, the deep state, whatever you want to call it, as to why is it we are at war with Iran?
+[00:47:01.599 --> 00:47:02.639]  And they're saying, oh, it's not war.
+[00:47:02.719 --> 00:47:03.759]  It's just a military operation.
+[00:47:04.079 --> 00:47:09.599]  Then, what the fuck is the difference between war and a military operation?
+[00:47:09.920 --> 00:47:12.720]  Pardon my language, I know it was a family-friendly broadcast.
+[00:47:13.039 --> 00:47:14.480]  Let's watch clip 10.
+[00:47:15.440 --> 00:47:22.800]  Conspiracy theorists, you may hate this, but there's one person protecting your right to be a conspiracy theorist that actually has a seat at the table, and that person is me.
+[00:47:23.119 --> 00:47:24.880]  You may not want to hear that truth.
+[00:47:25.119 --> 00:47:28.880]  Palantir's CEO firing back conspiracy theories.
+[00:47:29.200 --> 00:47:30.880]  And he's going to go on and swear, so we can cut the clip.
+[00:47:31.039 --> 00:47:32.079]  But let's go straight into 11.
+[00:47:32.159 --> 00:47:33.200]  Let's see what Palantir is doing.
+[00:47:33.280 --> 00:47:43.280]  I mean, if Palantir is defending conspiracy theorists for freedom of speech, and it's that guy, Alex Karp, that is the one solely responsible for the fact that we have freedom of speech at all, given the fact that we definitely don't.
+[00:47:43.440 --> 00:47:46.639]  Look what happened to Alex Jones getting shut down in the coming weeks.
+[00:47:47.280 --> 00:47:56.159]  Then, why is it that they could, how could you say that you support freedom of speech and conspiracy theorists when you see clips like 11?
+[00:47:56.320 --> 00:47:56.800]  Watch.
+[00:47:58.000 --> 00:48:00.000]  This is Maven Smart System.
+[00:48:00.639 --> 00:48:06.240]  Palantir's software as a service product that we are deploying across the entire department.
+[00:48:06.559 --> 00:48:10.880]  As you can see, it's not just one data feed, it's multiple.
+[00:48:11.200 --> 00:48:21.200]  And instead of having eight or nine systems for those decision makers to look at every single day in order for them to make decisions, you then fuse it into a single visualization tool.
+[00:48:21.519 --> 00:48:35.599]  The single visualization tool allows you to select, deselect different types of data, look at different approaches to data, but more importantly, action from the same system that you're trying to develop your workflows around.
+[00:48:35.920 --> 00:48:47.519]  Once you have a detection that you want to actually move and actually move into a targeting workflow, for example, this is what we do: left-click, right-click, left-click, magically, it becomes a detection.
+[00:48:48.159 --> 00:48:53.360]  That detection then gets moved into a workflow.
+[00:48:53.680 --> 00:48:57.760]  This is standard digitized workflow, but I want to walk you through it quickly.
+[00:48:58.400 --> 00:49:00.079]  You have different types of targets that are identified.
+[00:49:01.280 --> 00:49:05.119]  I'm sorry, but you understand the massive surveillance.
+[00:49:05.440 --> 00:49:06.559]  And they make it boring on purpose.
+[00:49:06.800 --> 00:49:07.519]  You don't pay attention to it.
+[00:49:07.599 --> 00:49:13.039]  I mean, it's like they intentionally make C-SPAN as boring as possible so you don't pay attention to it whatsoever.
+[00:49:13.920 --> 00:49:27.119]  And they just try to make Satanism as entertaining and awesome as possible in Hollywood, which we'll get into with our guest, Jason Hollis, in the next segment, so that you pay attention to Satanism, but you're not paying attention to the subversive nature of this entire system.
+[00:49:27.440 --> 00:49:32.559]  And here's the question I want to present to you: here's the reframing that I want to talk to you about specifically.
+[00:49:33.760 --> 00:49:36.800]  Everybody's always saying, What if China wins the AI war?
+[00:49:36.960 --> 00:49:38.159]  What if they win the AI war?
+[00:49:38.240 --> 00:49:39.280]  What if they win the space race?
+[00:49:39.440 --> 00:49:40.880]  What if they beat us in AI?
+[00:49:40.960 --> 00:49:45.440]  What if they get the robotics and the artificial intelligence and they continue to dominate manufacturing?
+[00:49:45.680 --> 00:49:55.680]  What if they install their surveillance grid and they just dominate the entire planet through the Belt and Road Initiative, coupled with massive technology advancements, despite the fact that their population is collapsing right before our eyes?
+[00:49:56.000 --> 00:49:58.960]  What if they win the ultimate war for humanity?
+[00:49:59.039 --> 00:50:02.320]  And I ask you back: what if we win?
+[00:50:04.720 --> 00:50:08.480]  Not ruined for China, but do you think the United States is even better?
+[00:50:08.800 --> 00:50:15.360]  It's like Milton Friedman famously said in a debate with college student: you think there's no greed in Russia?
+[00:50:15.760 --> 00:50:19.280]  College student was criticizing capitalism for being based on greedy response.
+[00:50:19.599 --> 00:50:23.280]  You think there's no greed in Russia and communism?
+[00:50:23.920 --> 00:50:25.519]  No one's greedy there.
+[00:50:26.159 --> 00:50:33.360]  Do you think it's good if we win the AI race after what we've seen from the Patriot Act?
+[00:50:34.800 --> 00:50:41.200]  Which is why the information war is more important now than ever, which is why you have to keep Alex Jones on the air, even if you don't always agree with him.
+[00:50:41.440 --> 00:50:43.039]  He is a martyr for free speech.
+[00:50:43.280 --> 00:50:45.680]  He is the personification of freedom of speech.
+[00:50:45.840 --> 00:50:56.240]  Even if I disagreed with everything Alex Jones said, I would still be fighting like hell to keep him on the air because he is now the metaphor in the information world, which is why you have to go to the alexjonesstore.com.
+[00:50:56.320 --> 00:51:00.880]  And I know everybody was always asking, where is Survival Shield going to come back?
+[00:51:01.119 --> 00:51:08.480]  I love survival shield, iodine, Finally, the alexjonesstore.com has the T3 iodine.
+[00:51:08.639 --> 00:51:11.839]  It is the second best feeling in the world, ladies and gentlemen.
+[00:51:12.159 --> 00:51:21.839]  We know that IQs are dropping because of vaccines and geriatric pregnancies, but part of that is because of what even the WHO admits is one of the leading health crises in the entire world.
+[00:51:22.000 --> 00:51:30.239]  It's iodine deficiency, standard deviation or two standard deviation, decline in IQ among civilizations that don't get enough iodine.
+[00:51:30.400 --> 00:51:40.480]  This is an incredible way to empower your body to defend itself naturally because iodine is the battery, is the fuel of your entire thyroid system.
+[00:51:40.799 --> 00:51:42.400]  Please keep Alex Jones on the air.
+[00:51:42.480 --> 00:51:45.519]  Go to thealxjonstore.com right now and get yours today.
+[00:51:46.480 --> 00:51:58.000]  So the other day I found out that the CIA is preparing some kind of criminal referral against me, a crime report to the Department of Justice on the basis of a supposed crime I committed.
+[00:51:58.159 --> 00:51:58.719]  What's that crime?
+[00:51:58.960 --> 00:52:05.039]  Well, talking to people in Iran before the war, they read my texts.
+[00:52:05.359 --> 00:52:13.679]  So the crime under consideration apparently would be the Foreign Agent Act or something like that, acting as an agent of a foreign power.
+[00:52:14.319 --> 00:52:16.079]  And I don't expect this to go anywhere.
+[00:52:16.400 --> 00:52:20.400]  I'm not too worried about an actual criminal case against me for a bunch of reasons.
+[00:52:20.639 --> 00:52:23.119]  One, I'm not an agent of a foreign power.
+[00:52:23.440 --> 00:52:31.519]  Unlike a lot of people commenting on U.S. politics and global affairs, I have only one loyalty and that's the United States and have never acted against it.
+[00:52:31.839 --> 00:52:36.719]  Its interests are the only interests I care about because I'm from here and I have a lot of kids.
+[00:52:37.359 --> 00:52:39.039]  So that's not a concern.
+[00:52:39.199 --> 00:52:41.759]  I've also never taken money from anybody.
+[00:52:42.079 --> 00:52:43.279]  Don't need it, don't want it.
+[00:52:43.519 --> 00:52:44.639]  And that's provable.
+[00:52:45.359 --> 00:52:50.319]  And moreover, it's my job to talk to everybody all the time and try and figure out what's happening around the world.
+[00:52:50.480 --> 00:52:52.480]  That's literally what I do for a living.
+[00:52:52.799 --> 00:52:54.480]  And I'm not going to stop doing that.
+[00:52:54.799 --> 00:52:56.159]  Nor should I, I don't think.
+[00:52:56.400 --> 00:52:57.279]  I'm also an American.
+[00:52:57.519 --> 00:52:58.559]  I can talk to anybody.
+[00:52:58.880 --> 00:53:00.799]  I have no secrets to divulge.
+[00:53:01.119 --> 00:53:05.679]  So legally, I think the case is ludicrous, and I doubt it will even become a case.
+[00:53:06.000 --> 00:53:10.799]  I'm bringing this up for a couple of reasons, though, and they're pretty obvious.
+[00:53:11.119 --> 00:53:16.239]  One is that countries tend to become more authoritarian in wartime.
+[00:53:16.319 --> 00:53:17.440]  It's just the nature of war.
+[00:53:17.599 --> 00:53:18.559]  People are dying.
+[00:53:18.880 --> 00:53:19.920]  The stakes are high.
+[00:53:20.159 --> 00:53:25.199]  People's emotions have risen to a very high point, to a crescendo.
+[00:53:25.519 --> 00:53:32.400]  And so there's much less tolerance for any kind of dissent in the homeland.
+[00:53:32.559 --> 00:53:38.880]  The irony, of course, is the United States fights wars on behalf of freedom, but there's always less of it here in our country during war.
+[00:53:39.039 --> 00:53:43.039]  So that's a widely recognized phenomenon, and it's likely to happen now, too.
+[00:53:43.679 --> 00:53:50.480]  Another point to make that is worth knowing is that the USIC, the intelligence agency, spy on Americans.
+[00:53:50.719 --> 00:54:01.199]  Now, you probably knew that, and it's been revealed a lot, including by Julian Assange and Ed Snowden, both of whom are threatened with death for revealing it, but everyone knows.
+[00:54:01.519 --> 00:54:06.960]  But it's probably a little more widespread than most people understand.
+[00:54:07.440 --> 00:54:08.960]  And it's outrageous.
+[00:54:09.279 --> 00:54:18.079]  There's no justification for your government, which you own, you're a shareholder in it, you pay for it, to be violating your privacy like this.
+[00:54:18.400 --> 00:54:19.679]  But it happens all the time.
+[00:54:19.839 --> 00:54:27.199]  And in fact, one of the reasons that CIA or people within CIA, just to be clear, it's a huge, sprawling, disconnected agency.
+[00:54:27.519 --> 00:54:34.159]  What it does in a specific case doesn't represent what everybody in the building thinks, but there are some people who are mad at me for my views about Israel.
+[00:54:34.480 --> 00:54:36.000]  And they have some latitude.
+[00:54:36.159 --> 00:54:47.440]  And one of the reasons they pass on criminal complaints, in effect, to law enforcement is to justify warrants for spying on Americans.
+[00:54:47.679 --> 00:54:49.839]  So that is an absolutely real thing.
+[00:54:50.400 --> 00:55:00.159]  But the main reason they do it is to leak the existence of the investigation, such as it is, to the media.
+[00:55:00.480 --> 00:55:04.960]  And then humiliate and terrify the subjects of this op.
+[00:55:05.280 --> 00:55:16.000]  And that's, of course, happened to me repeatedly, many times, including in famously 2021, when I was still at Fox News and trying to set up an interview with Vladimir Putin.
+[00:55:16.079 --> 00:55:25.920]  And the NSA, I heard from someone there, had grabbed my text messages with an American citizen and had leaked them to news outlets.
+[00:55:26.000 --> 00:55:29.440]  Those texts were basically my attempts to set up an interview with the foreign head of state.
+[00:55:29.760 --> 00:55:35.760]  And they leaked them to the New York Times in order to stop the interview, which they successfully did, by the way.
+[00:55:35.920 --> 00:55:37.920]  And they admitted that they were spying on me.
+[00:55:38.079 --> 00:55:38.880]  This is not a fantasy.
+[00:55:38.960 --> 00:55:39.840]  It actually happened.
+[00:55:40.159 --> 00:55:41.679]  They did it again two years later.
+[00:55:42.000 --> 00:55:46.400]  My second attempt to get a Putin interview, I managed to get it anyway, and they've done it since.
+[00:55:47.039 --> 00:55:53.760]  And so when you get a call from a reporter who knows the contents of your texts, it's pretty clear something's going on.
+[00:55:54.400 --> 00:55:57.760]  None of this, in my judgment as of right now, is a huge threat to me.
+[00:55:57.840 --> 00:56:04.159]  So I'm not making this video to complain about it or whine or ask you to send me money because I'm under attack.
+[00:56:04.480 --> 00:56:06.800]  I'm saying it because it's true.
+[00:56:07.119 --> 00:56:11.039]  And you should know what your own government is doing and you should know what the stakes are.
+[00:56:11.280 --> 00:56:19.199]  And you should know that a lot of what happens in this country that affects outcomes happens behind the scenes.
+[00:56:19.519 --> 00:56:23.519]  Some of it is legal, some of it is not, including what I'm describing now.
+[00:56:24.000 --> 00:56:25.119]  But it has an effect.
+[00:56:25.360 --> 00:56:36.000]  And the intel agencies, again, not everyone in the Intel agencies, because there are decent, hardworking Americans who work in the Intel agencies are Americans, just like they're decent, hardworking Americans who work for the DMV.
+[00:56:37.199 --> 00:56:42.240]  But there are also people with agendas and grudges and no sense of responsibility.
+[00:56:44.159 --> 00:56:46.240]  Ladies and gentlemen, welcome back to the Alex Jones Show.
+[00:56:46.400 --> 00:56:52.000]  I am Chase Geyser, joined by the distinguished Jason Hollis, whom I met, I don't know, three weeks ago.
+[00:56:52.320 --> 00:56:52.559]  Yeah.
+[00:56:52.880 --> 00:56:55.360]  Absolutely incredible dude.
+[00:56:55.679 --> 00:57:03.679]  And, you know, I invited him to come on when I was with him yesterday, and I didn't know why, like, really why.
+[00:57:03.760 --> 00:57:06.079]  It's like, all right, you know, there's this Iran stuff going on.
+[00:57:06.240 --> 00:57:09.119]  There's this massive conflict that's taking place.
+[00:57:09.440 --> 00:57:10.800]  Everybody wants to hear about the breaking news.
+[00:57:10.880 --> 00:57:11.599]  Is BB Dead?
+[00:57:11.679 --> 00:57:12.480]  What's happening in Iran?
+[00:57:12.559 --> 00:57:15.280]  Are we going to World War IV, World War III, whatever the hell you want to call it?
+[00:57:15.599 --> 00:57:17.199]  Is the economy going to totally collapse?
+[00:57:17.440 --> 00:57:29.760]  But there's something incredibly relevant about you, Hollis, that now I understand ultimately we're in this like massive war between good and evil.
+[00:57:30.079 --> 00:57:37.599]  And you've seen the undercarriage, you've seen under the belly of the beast with your work in Hollywood.
+[00:57:37.840 --> 00:57:38.079]  Yeah.
+[00:57:38.639 --> 00:57:42.400]  And I just wanted to hear from you kind of your takeaway.
+[00:57:42.559 --> 00:57:46.720]  I don't want to go into too many details about, hey, you left LA because of COVID and then you started your own club.
+[00:57:46.800 --> 00:57:48.480]  Well, we can talk about, I want to talk about your club at the end.
+[00:57:48.880 --> 00:57:49.840]  Everybody knows that story.
+[00:57:49.920 --> 00:57:50.800]  Everybody's been through that story.
+[00:57:50.880 --> 00:58:03.199]  Like, I want to hear your real, just like almost subconscious take, maybe some examples about what's going on at Hollywood and how you think it ties into these like global socioeconomic conflicts that we're sure.
+[00:58:03.679 --> 00:58:08.159]  Hey, I think first and foremost, I think we have to kick this thing off with a plug, man.
+[00:58:08.800 --> 00:58:09.199]  Do it.
+[00:58:09.760 --> 00:58:12.480]  Ultramethylene Blue, ladies and gentlemen.
+[00:58:12.639 --> 00:58:15.440]  This is my favorite product in the world.
+[00:58:16.000 --> 00:58:18.159]  Alex Jones is under attack right now.
+[00:58:18.400 --> 00:58:20.079]  The InfoWar is under attack.
+[00:58:20.480 --> 00:58:24.800]  Everybody needs to go to the Alex Jones store right now and buy this product.
+[00:58:24.960 --> 00:58:26.559]  This is my favorite product.
+[00:58:26.800 --> 00:58:32.000]  I've been on like lots of nutraceuticals and peptides, but ultramethylene blue.
+[00:58:32.320 --> 00:58:33.199]  This is the real deal.
+[00:58:33.360 --> 00:58:35.199]  It's unlimited power.
+[00:58:36.400 --> 00:58:38.639]  Get it from the Alex Jones store right now, man.
+[00:58:38.800 --> 00:58:40.000]  Support the InfoWars.
+[00:58:40.079 --> 00:58:40.480]  This is it.
+[00:58:40.639 --> 00:58:44.000]  This is my favorite, favorite product out of the Alex Jones store.
+[00:58:44.320 --> 00:58:45.840]  So back to you, Chase Geyser.
+[00:58:46.159 --> 00:58:52.639]  Well, dude, like we were sitting together a couple of weeks ago for a podcast in this very room.
+[00:58:52.960 --> 00:58:56.000]  And we started getting into it a little bit.
+[00:58:56.320 --> 00:58:59.599]  And you had some like very interesting things to say.
+[00:59:00.159 --> 00:59:01.119]  And I'm not going to name any names.
+[00:59:01.200 --> 00:59:02.720]  I don't expect you to name any names.
+[00:59:03.039 --> 00:59:08.159]  Just about what's really happening with these mega artists in Los Angeles.
+[00:59:08.639 --> 00:59:16.880]  And I think it's like, I think all of our problems overseas and like with our monetary system, all of our conflicts are from the military industrial complex, CIA specifically.
+[00:59:17.119 --> 00:59:20.159]  Obviously, they're coming after Tucker, like we just saw and said.
+[00:59:20.800 --> 00:59:24.880]  And simultaneously, everything that we're getting from Hollywood is really just the CIA.
+[00:59:24.960 --> 00:59:31.200]  Like Mark Levin is the way that the CIA talks to Donald Trump, and Hollywood is the way that the CIA talks to children.
+[00:59:31.360 --> 00:59:31.840]  You know what I mean?
+[00:59:32.240 --> 00:59:35.119]  So, can you just like share what the hell is going on?
+[00:59:35.840 --> 00:59:41.119]  Well, I mean, there's a theory, and I believe this theory to be true.
+[00:59:41.599 --> 00:59:48.639]  There's been many documentaries on it of the CIA creating CAA, creative artist agency.
+[00:59:48.960 --> 00:59:58.559]  So if you look at creative artist agency now, you've got, you know, the Bushes, you've got the Clintons, you've got the Obamas, the Bidens, Kamala Harris.
+[00:59:58.800 --> 01:00:11.599]  So if you look at that structure of who they represent, and then like Billie Eilish, Beyonce, you know, these different stars, you can really kind of start to draw a line between narrative.
+[01:00:12.800 --> 01:00:18.960]  A lot of the artists come out with the same talking points, you know, seemingly hate America.
+[01:00:19.280 --> 01:00:21.039]  They don't like anything that's happening.
+[01:00:21.920 --> 01:00:25.920]  When it's time to vote, you'll see they all have the same talking points.
+[01:00:26.240 --> 01:00:44.000]  And it's, yeah, I mean, I fully believe that CIA is deeply involved in Hollywood and positioning artists and creators, you know, kind of forcing them into a mindset thinking.
+[01:00:45.599 --> 01:00:46.320]  It's interesting.
+[01:00:46.480 --> 01:00:53.680]  I think that MKUltra is also very deep, deeply based in Hollywood.
+[01:00:54.880 --> 01:01:13.599]  I mean, you can look at like, you can look at like a Britney Spears, you can look at Demi Lovato, you can look at different people, look at behaviors, and there's only, you know, there's only really one, I think, in solution, and it's MKUltra.
+[01:01:14.079 --> 01:01:17.039]  It's being groomed since birth.
+[01:01:18.240 --> 01:01:21.119]  You know, I think Disney's a big part of that.
+[01:01:21.440 --> 01:01:30.880]  I think that you see a lot of the young Disney stars, there's just so many problems with assimilating back into the real world.
+[01:01:31.360 --> 01:01:33.360]  You see them mentally, they're shot.
+[01:01:34.240 --> 01:01:38.000]  So it's, I think, Hollywood's very dark.
+[01:01:38.320 --> 01:01:49.840]  You know, I was watching something the other day on X, and it was these different actors and actresses that all had the headline: you know, I escaped Hollywood.
+[01:01:50.159 --> 01:01:54.320]  You know, it's deep, it's dark, there's lots of secrets.
+[01:01:54.559 --> 01:02:03.200]  And I think what's interesting now is like, you know, in the early 90s, 2000s, we weren't, you know, we weren't processing this.
+[01:02:03.519 --> 01:02:17.840]  I think with everything just kind of being transparent now and people doing their own research and digging in, I think that it's really kind of opening people's minds up to the fact that, yeah, this can be very demonic.
+[01:02:18.480 --> 01:02:18.720]  Yeah.
+[01:02:18.960 --> 01:02:26.159]  You know, well, one of the things that comes to mind for me is, how do I word this?
+[01:02:26.800 --> 01:02:52.880]  There was a conspiracy theory starting at least 10 years ago, maybe even earlier, but it really gained traction under the first Trump administration that the entire politics of the world, the entire spectrum of global politics was being run, coordinated, orchestrated, and manipulative, manipulated by a class of satanic pedophile elites.
+[01:02:53.200 --> 01:03:04.800]  And it sounded so ridiculous, you know, with the Q stuff and they like throw in the, you know, one of the Kennedys is going to come back from the dead and he's going to be in Dallas on this date.
+[01:03:04.880 --> 01:03:15.200]  And like, they threw in all this like BS to fundamentally distract from the fact that they were generally like directionally correct.
+[01:03:15.520 --> 01:03:17.840]  And we've seen this from the Epstein files.
+[01:03:18.160 --> 01:03:21.520]  And of course, we've seen no justice from the Epstein files, but you told a story.
+[01:03:21.600 --> 01:03:22.320]  I can't remember the artist.
+[01:03:22.400 --> 01:03:35.840]  You don't have to name whoever it was as I tell us, but you told the story to me the other night about like artists with no inner soul with several different handlers answering specific questions.
+[01:03:36.080 --> 01:03:55.600]  And it was just like the same force that is coordinating this satanic child abuse, human trafficking, blackmail ring, utilitarian, Machiavellian philosophy seems to be the same force that's literally like purchasing the souls of talent in order to just exploit them and like run that.
+[01:03:55.680 --> 01:04:00.960]  Like you've seen what's happening with Shia LaBeouf and you mentioned Britney, like all these Disney stars, they're like lunatics now.
+[01:04:01.040 --> 01:04:03.840]  And it's like obvious in conjunction with what we're seeing from the Epstein files.
+[01:04:04.000 --> 01:04:08.800]  That's because, you know, when they were nine years old, they had to dress up like Snow White on some rich dude's island and get raped.
+[01:04:08.880 --> 01:04:09.360]  You know what I mean?
+[01:04:09.680 --> 01:04:12.640]  Like, can you tell me about like what you've seen in the space that aligns with that?
+[01:04:13.600 --> 01:04:16.320]  So I was working with this one A-list artist.
+[01:04:16.640 --> 01:04:19.440]  She was a former Disney star.
+[01:04:19.760 --> 01:04:23.120]  And yeah, she, it was interesting, man.
+[01:04:23.200 --> 01:04:30.400]  Like, I've just really never met anybody that had no soul, you know, like nothing on the inside at all.
+[01:04:30.720 --> 01:04:32.640]  Not even evil necessarily, just soulless.
+[01:04:32.880 --> 01:04:33.440]  Yeah, soulless.
+[01:04:33.680 --> 01:04:33.840]  Yeah.
+[01:04:34.160 --> 01:04:37.040]  And they had four handlers with them.
+[01:04:37.840 --> 01:04:39.760]  One was for, you know, food.
+[01:04:40.080 --> 01:04:41.200]  One was for drugs.
+[01:04:41.520 --> 01:04:44.880]  One was for like a PR.
+[01:04:45.120 --> 01:04:46.800]  One was for like, you know, speech.
+[01:04:47.120 --> 01:04:51.360]  So if you asked this person a question, a PR person answered it for them.
+[01:04:51.440 --> 01:04:56.080]  And then they kind of regurgitated back to you their form of the answer.
+[01:04:56.400 --> 01:04:58.400]  So it was like, you know, there was no eye contact.
+[01:04:58.560 --> 01:05:01.760]  There were very specific rules working with this person.
+[01:05:03.040 --> 01:05:10.720]  And it's just, it's just weird, you know, like I didn't, I don't know any way, any other way to explain it other than it's just odd.
+[01:05:11.360 --> 01:05:13.920]  But it feels very dark to be around.
+[01:05:14.160 --> 01:05:16.480]  There's another artist, you know, you and I were talking about this.
+[01:05:16.640 --> 01:05:20.400]  There was another artist I was working with and another A-list celebrity.
+[01:05:20.640 --> 01:05:26.560]  And I got really freaked out because all they talked about was cannibalism.
+[01:05:26.880 --> 01:05:28.080]  That's all they talked about.
+[01:05:28.400 --> 01:05:30.160]  And this went on for weeks.
+[01:05:30.480 --> 01:05:35.280]  And like after like the second or third day, I was just kind of like, well, what's, you know, what's going on?
+[01:05:35.600 --> 01:05:36.400]  Am I being punked?
+[01:05:36.480 --> 01:05:37.600]  Am I being, you know, messed with?
+[01:05:37.680 --> 01:05:38.640]  It's just kind of like a hazing.
+[01:05:38.880 --> 01:05:40.320]  You weren't like joking about cannibalism.
+[01:05:40.400 --> 01:05:42.320]  Like it always, it was just straight up.
+[01:05:42.480 --> 01:05:43.120]  And so I went home.
+[01:05:43.440 --> 01:05:54.320]  I went went home one night and I just started doing research and was looking at like different radio interviews and different interviews from the same person talking about cannibalism.
+[01:05:54.640 --> 01:06:05.600]  And so, yeah, you know, there's just, I think that there's, there's not everybody is bad, you know, not everybody's good.
+[01:06:05.920 --> 01:06:15.200]  But I definitely believe that there are subsects that you get into where like fetishes get stranger and stranger and stranger.
+[01:06:15.520 --> 01:06:19.360]  Just like, you know, like Diddy.
+[01:06:20.240 --> 01:06:31.680]  I don't know if you saw this, but the blood boys kind of came out and were talking about Diddy and they would go, you know, go and did his yacht and he would drain their blood.
+[01:06:32.000 --> 01:06:35.200]  And then they would, you know, go into international waters.
+[01:06:35.440 --> 01:06:35.680]  Correct.
+[01:06:35.840 --> 01:06:41.280]  And then in the international waters, it's legal and he would have these blood transfusions of younger people, similar to what we see Brian Johnson doing with his son.
+[01:06:41.440 --> 01:06:44.880]  His son volunteers to do it, but it's part of these anti-aging experiments.
+[01:06:45.120 --> 01:06:45.280]  Yes.
+[01:06:45.440 --> 01:06:48.720]  And we've seen that Diddy's aged quite a bit since he hasn't had access to that.
+[01:06:48.880 --> 01:06:50.000]  Well, and that's, that's the interesting thing.
+[01:06:50.960 --> 01:06:59.280]  As soon as he went into prison, by the first time he was on trial and you saw like drawings or whatever of him, you know, he had gray hair.
+[01:06:59.599 --> 01:07:04.320]  And now looking at pictures of him, you go like, he, he's aged, you know?
+[01:07:04.960 --> 01:07:17.280]  And I, I, I think that when you look at things like that, um, that's a fetish, you know, it's some type of, you know, whether you consider that to be health or you consider that to be demonic, it's still, it's a fetish.
+[01:07:17.599 --> 01:07:22.640]  But I think when you look at things like that and you talk, you think about like subcategories and subgroups.
+[01:07:22.960 --> 01:07:27.840]  Um, who was the English guy that was that was arrested?
+[01:07:28.000 --> 01:07:29.200]  He was friends with Prince Charles.
+[01:07:29.360 --> 01:07:32.480]  He was like the oh, uh, Prince Albert, Andrew?
+[01:07:32.640 --> 01:07:36.800]  No, he was the um, he was the TV star for children's shows.
+[01:07:36.880 --> 01:07:37.680]  Oh, I forget his name.
+[01:07:37.840 --> 01:07:38.480]  The crew knows.
+[01:07:38.800 --> 01:07:39.760]  Say it in my ear.
+[01:07:40.079 --> 01:07:40.240]  Yeah.
+[01:07:41.119 --> 01:07:43.599]  He like terrible teeth.
+[01:07:43.920 --> 01:07:44.160]  Yes.
+[01:07:44.880 --> 01:07:55.360]  That was like, that's another story of like it goes further down, you know, because he openly was talking about cannibalism and, you know, like you have to eat the hair.
+[01:07:55.920 --> 01:07:58.960]  And you kind of look back at things like that.
+[01:07:59.119 --> 01:08:02.480]  And, and again, not everybody is bad.
+[01:08:03.039 --> 01:08:05.039]  There's just different groups of different things.
+[01:08:05.280 --> 01:08:13.200]  And I think when you, even when you look at like fetishes, you know, there's, there's a million different things that I'm not thinking about.
+[01:08:13.519 --> 01:08:15.920]  So I think that there's different levels of groups.
+[01:08:16.400 --> 01:08:25.359]  I also believe that Hollywood is, you know, definitely run, or at least it was at one point run by some pretty bad people.
+[01:08:25.680 --> 01:08:27.680]  And they make people do pretty bad things.
+[01:08:27.920 --> 01:08:33.279]  And, you know, that's how that's how we get famous actors.
+[01:08:34.880 --> 01:08:44.800]  So, I mean, obviously, we know from Project Mockingbird and things of that nature that certainly after World War II, the CIA got heavily involved in the media and Hollywood.
+[01:08:44.880 --> 01:08:50.720]  And we also know that once any organization has power, they don't just give that power up.
+[01:08:50.960 --> 01:08:52.800]  So MK Ultra happened, they got busted.
+[01:08:52.880 --> 01:08:53.600]  They burned the documents.
+[01:08:53.680 --> 01:08:56.079]  I'm sure they just relaunched it under a different name, right?
+[01:08:56.159 --> 01:08:57.680]  Or they continue to do the same experiments.
+[01:08:58.000 --> 01:09:00.480]  Same with Hollywood and Mockingbird.
+[01:09:00.800 --> 01:09:08.560]  But it's interesting to me because now I think of Hollywood as just simply a cutout of the CIA.
+[01:09:08.880 --> 01:09:09.119]  Yeah.
+[01:09:09.440 --> 01:09:10.319]  And I'm not sure.
+[01:09:10.560 --> 01:09:12.480]  I'd be curious to hear from you.
+[01:09:12.800 --> 01:09:16.079]  Did you like explicitly witness that?
+[01:09:16.159 --> 01:09:18.880]  Or is it just in the signs of the way that people respond to these questions?
+[01:09:19.039 --> 01:09:23.440]  Like, did you ever see a situation in which it was like, I don't know, maybe it was around 9-11 and like, hey, you need to do this.
+[01:09:23.600 --> 01:09:24.239]  You need to say this.
+[01:09:24.400 --> 01:09:24.880]  You need to push this.
+[01:09:25.039 --> 01:09:27.359]  Like, was there a CIA agent in the room with an artist?
+[01:09:27.840 --> 01:09:29.119]  I mean, I don't, I don't know.
+[01:09:29.440 --> 01:09:35.359]  I mean, there's always, there's, you know, there's, when you're dealing with anybody big, there's always handlers in the room.
+[01:09:35.920 --> 01:09:40.239]  You know, who knows like if they're a Fed or if they're what they are.
+[01:09:40.560 --> 01:09:49.920]  But, you know, from the research that I've done, looking at like the CA CIA and CAA, it was really created after World War II.
+[01:09:50.239 --> 01:10:00.400]  And the idea was being able to use music, actors, and athletes for propaganda.
+[01:10:00.720 --> 01:10:02.880]  And that's kind of how it all started.
+[01:10:03.199 --> 01:10:20.880]  And if you look at it now and you look at, and you go back to like a CAA and you look at who is on their roster, you can draw a line, you know, and you can also see like when they're up against Trump or they're up against, you know, the country or they're up against different policies that they don't believe in.
+[01:10:21.039 --> 01:10:22.560]  They all have the same talking points.
+[01:10:22.720 --> 01:10:23.840]  They're all saying the same thing.
+[01:10:24.159 --> 01:10:26.640]  So there's got to be some truth to that.
+[01:10:26.960 --> 01:10:35.920]  Can you make it in either the music business or the movie business without like giving up your ass or getting involved in this kind of mutual blackmail?
+[01:10:36.159 --> 01:10:42.400]  I don't know about the actors side of things.
+[01:10:43.039 --> 01:10:45.760]  The music industry, absolutely you can.
+[01:10:46.000 --> 01:10:53.680]  You know, you're seeing a big shift right now in the music business where the labels used to be in control of everything.
+[01:10:55.840 --> 01:10:58.720]  And the artists were like, hey, pick me, pick me.
+[01:10:58.880 --> 01:11:10.479]  You know, I want to, and now we're looking at the artists are in control and they're building receipts and building leverage to then be able to go in and negotiate their own deals.
+[01:11:10.800 --> 01:11:18.239]  And that's kind of how I built my whole career was just being independent.
+[01:11:18.560 --> 01:11:22.960]  And I think that that's the best way that keeps you out of trouble.
+[01:11:23.920 --> 01:11:35.119]  You know, you're not having to like, even within like labels and things like that, you have people that come in and they ask you to do favors or if you're asking them for a favor, you owe something in return.
+[01:11:35.439 --> 01:11:47.359]  So I just tend to, I tend to believe that the way to structure everything is to be fully independent, own your content, build your brand, and answer to no one but yourself.
+[01:11:47.680 --> 01:11:53.600]  Well, and it's not just, it's not, that's not something that's only true for people in music or movies, right?
+[01:11:53.680 --> 01:11:55.199]  I mean, like, that's entrepreneurs.
+[01:11:55.439 --> 01:12:04.079]  Ultimately, yeah, that's like what we all have to do because they came down on us with the ESG scores and the DEI stuff, and they basically shut down all white men and any sort of advertising until we went to war with Iran.
+[01:12:04.159 --> 01:12:20.960]  And then now all the ads for the military are for white people because they exclusively want to kill white people, apparently, because they're trying to take down Western civilization and allow this just total entropy and degradation of our civilization so that they can pick up the pieces and conglomerate into one new world order political class is this like international cabal of trash.
+[01:12:21.279 --> 01:12:30.079]  And what's crazy to me about this is like, it seems to me like something that's just been happening the last 10 years because I've really only been paying attention for the last five years.
+[01:12:30.880 --> 01:12:38.399]  But then I'm thinking about like the Catholic Church and I'm thinking about Rome, like the history of the Catholic Church, not as it is today necessarily, but the history of Rome.
+[01:12:38.560 --> 01:12:43.439]  I'm like, oh my God, they've always been grooming little boys, sexually abusing them.
+[01:12:43.760 --> 01:12:49.520]  Human sacrifice, especially of infants, is something that's been going on since like the oldest, deepest ancient mystery religions.
+[01:12:49.840 --> 01:12:55.439]  This is like part of the same strain of evil that we've been fighting against this entire time.
+[01:12:55.760 --> 01:13:03.680]  But now the difference is they've developed all of the technology that is like in the likeness of God.
+[01:13:03.760 --> 01:13:12.560]  So God is defined traditionally as omniscient, omnipotent, omnipresent, all-knowing, all-powerful, and everywhere.
+[01:13:12.880 --> 01:13:24.079]  And with the AI technology that we have, with the nuclear technology that we have, with the surveillance technology that we have, like we finally have, and I say finally, like terribly, shockingly, I'm terrified.
+[01:13:24.399 --> 01:13:30.319]  We finally developed this like new tower of Babel that is omniscient, omnipotent, and omnipresent.
+[01:13:30.399 --> 01:13:32.479]  Like we're everywhere with the golden dome.
+[01:13:32.720 --> 01:13:33.920]  We're everywhere with AI.
+[01:13:34.079 --> 01:13:35.199]  We are all knowing with AI.
+[01:13:35.359 --> 01:13:37.920]  We have all the power with the nuclear weapons that we have.
+[01:13:38.239 --> 01:13:46.560]  And so my fear is like, yeah, we've kind of seen civilizations come and go as every era has struggled against evil.
+[01:13:46.720 --> 01:13:55.039]  And it seems to be like the things we're curving toward goodness, but evil's never had all of the power traditionally attributed to God.
+[01:13:55.199 --> 01:14:03.840]  And so like, I'm at this point with this Iran war and this conflict that we're at and this AI race that we're in with China, where I'm thinking to myself, wow, like Satan never had these weapons before.
+[01:14:03.920 --> 01:14:05.840]  And obviously Jesus is more powerful than all that stuff.
+[01:14:06.000 --> 01:14:08.640]  But like, dude, has evil ever been more powerful?
+[01:14:09.520 --> 01:14:10.640]  I mean, well, here's the thing.
+[01:14:10.800 --> 01:14:14.640]  You know, you dated back like 10 years and then you're looking at five years.
+[01:14:15.199 --> 01:14:21.039]  I just feel like in the past five years, there's been a massive shift.
+[01:14:21.359 --> 01:14:24.640]  You know, it's like things are escalating so much faster.
+[01:14:25.279 --> 01:14:30.079]  But also people are waking up and they're doing their own research and they're digging.
+[01:14:30.159 --> 01:14:34.720]  They're not, you know, like if you told me something, you know, I would take your word for it.
+[01:14:34.880 --> 01:14:37.680]  I would also go home and research it and form my own opinion.
+[01:14:37.920 --> 01:14:43.439]  And I think you're seeing a lot more of that now because I don't think anybody trusts anybody any longer.
+[01:14:43.760 --> 01:14:54.239]  And I think, you know, doing your own research and coming up with what you believe after researching facts is probably the best way to go to work.
+[01:14:54.480 --> 01:14:55.840]  You know, like talk about like AI.
+[01:14:56.159 --> 01:15:02.720]  One thing that I think is evil is, so Spotify, for example, I'm not a fan of Spotify at all.
+[01:15:03.600 --> 01:15:06.159]  You know, their new terms of service is wild.
+[01:15:06.320 --> 01:15:19.680]  So any artist that's out there listening, you know, beware of Spotify and also always like read the terms of service because most people just click on the terms of service and they agree to it.
+[01:15:20.000 --> 01:15:24.000]  If you read that terms of service, you're giving up your likeness.
+[01:15:24.239 --> 01:15:26.560]  You're giving up the likeness of your voice.
+[01:15:26.720 --> 01:15:28.320]  You're giving everything up.
+[01:15:28.640 --> 01:15:38.079]  Spotify can go in and they can create an AI version of you and call it whatever they want to call it, just like Amazon did.
+[01:15:38.560 --> 01:15:45.280]  When products would be successful on Amazon, Amazon would go in and source the same product from the same factory and just sell it and then outrank their own inside stuff.
+[01:15:45.440 --> 01:15:45.600]  Yeah.
+[01:15:45.760 --> 01:15:46.960]  And I think that's evil.
+[01:15:47.119 --> 01:15:48.320]  You know, I think that's evil.
+[01:15:48.480 --> 01:15:52.079]  I think it's evil.
+[01:15:52.640 --> 01:15:52.720]  Yeah.
+[01:15:53.360 --> 01:15:53.600]  Yeah.
+[01:15:54.800 --> 01:16:00.720]  The AI thing is when they're cranking everything at 440, which we know it just like keys everybody up to.
+[01:16:01.199 --> 01:16:01.440]  Right.
+[01:16:01.600 --> 01:16:19.840]  And that's interesting, man, that you bring that up because, you know, like Spotify and YouTube both, if you're looking for like pure tones, if you want 440, 432, 888, 369, whatever, pure tones, they offset those tones.
+[01:16:20.000 --> 01:16:23.840]  So you're not getting the pure tone from it, you know?
+[01:16:24.079 --> 01:16:27.199]  So I'm a big believer in sound frequency.
+[01:16:27.360 --> 01:16:35.280]  I use sound frequency for healing and headaches or sleeping or anything like that because your body vibrates.
+[01:16:35.360 --> 01:16:36.720]  Your body's like a tuning fork.
+[01:16:36.960 --> 01:16:37.119]  Yeah.
+[01:16:37.840 --> 01:16:40.000]  Crank Hillary Clinton's voice through the vibroacoustic bed.
+[01:16:40.239 --> 01:16:41.119]  That would be terrible.
+[01:16:41.680 --> 01:16:41.920]  Yeah.
+[01:16:42.079 --> 01:16:42.480]  Absolutely.
+[01:16:42.640 --> 01:16:43.600]  Why Bill looks like shit?
+[01:16:43.760 --> 01:16:44.560]  Absolutely terrible.
+[01:16:44.720 --> 01:16:48.079]  Well, it's probably the adrenochrome that they can't get any longer.
+[01:16:49.920 --> 01:16:50.239]  All right.
+[01:16:50.320 --> 01:16:52.480]  We're coming up on a break here in about two and a half minutes.
+[01:16:52.640 --> 01:16:58.720]  And I'm going to talk to you more on the other side before the legendary Royce White takes over.
+[01:16:59.680 --> 01:17:03.600]  Folks, they're actually going to shut down Infowars this time.
+[01:17:03.680 --> 01:17:04.560]  It's a matter of weeks.
+[01:17:04.720 --> 01:17:05.840]  Certain things are going to go first.
+[01:17:05.920 --> 01:17:10.320]  Infowars.com is going to go first because they're not paying any of the bills and the internet's going to get shut down.
+[01:17:10.480 --> 01:17:18.720]  I'm told, I don't know what the exact date is, and there's always room to nudge, but I'm told April 15th is basically the end of Infowars.
+[01:17:18.800 --> 01:17:21.199]  As you know, now it's not the end of the information war.
+[01:17:21.360 --> 01:17:25.680]  It's not the end of Alex Jones or Harrison Smith or Chase Geyser or whoever, the crew.
+[01:17:26.000 --> 01:17:27.199]  It's not the end of the information war.
+[01:17:27.280 --> 01:17:29.039]  It's just the end of InfoWars.
+[01:17:29.360 --> 01:17:41.440]  And when I worked for InfoWars, I worked tirelessly to ensure that no matter what happened to that building, to the logo, to the domain names, Alex Jones would always be on the air.
+[01:17:41.600 --> 01:17:43.760]  I established the Alex Jones network.
+[01:17:43.920 --> 01:17:50.880]  I made the LLC without being asked to, without being told to, to ensure that he didn't own it so that it couldn't be taken from him with the shutdown.
+[01:17:51.199 --> 01:17:52.239]  I built the brand.
+[01:17:52.560 --> 01:18:01.680]  I made the partnership with Bigley for the AlexJonesStore.com to ensure continuity of revenue for the next revolution of the information war.
+[01:18:02.000 --> 01:18:08.560]  And the best thing you can do by far right now is to go to the alexjonestore.com and get something, anything.
+[01:18:08.720 --> 01:18:09.840]  All the products are incredible.
+[01:18:10.079 --> 01:18:11.600]  I've worked on several of them myself.
+[01:18:11.840 --> 01:18:12.560]  I've sourced them.
+[01:18:12.720 --> 01:18:16.000]  I've spoken to the people who designed them and create them and ship them.
+[01:18:16.320 --> 01:18:21.680]  I saw the back end of the operation, both on the Infowars side and the Bigley side, who runs the AlexJonesStore.com.
+[01:18:21.760 --> 01:18:34.800]  And I can tell you that these products are 100%, undeniably, unequivocally the best products in the market, whether you want the Life Force for the N80 Plus, whether you want the T3 for the purest form of iodine you can possibly get.
+[01:18:34.880 --> 01:18:38.320]  I mean, if you love Survival Shield, you're really going to love the new iodine that's launched on the site.
+[01:18:38.480 --> 01:18:41.200]  You want the methylene blue, which Hollis here absolutely loves.
+[01:18:41.280 --> 01:18:43.920]  I like the capital version for the unlimited power.
+[01:18:44.080 --> 01:18:45.680]  I mean, it's the best stuff ever.
+[01:18:45.840 --> 01:18:46.240]  I love it.
+[01:18:46.560 --> 01:18:49.280]  And the methylene red has been super improved.
+[01:18:49.360 --> 01:18:52.640]  By the way, I can tell you whole stories about that whole experience of developing that.
+[01:18:52.720 --> 01:18:57.040]  It is the most powerful substance I have ever been involved in working with.
+[01:18:57.120 --> 01:18:58.960]  Get the methylene blue with the methylene red.
+[01:18:59.120 --> 01:19:01.120]  It's designed to super enhance the effects.
+[01:19:01.440 --> 01:19:03.920]  We started out, we launched it, we got out of the gate as quickly as possible.
+[01:19:04.640 --> 01:19:09.040]  I reached out to the supplier and I said, Hey, it's not supposed to be methylene orange.
+[01:19:09.600 --> 01:19:10.880]  We found another supplier.
+[01:19:11.040 --> 01:19:12.160]  It's methylene red.
+[01:19:12.480 --> 01:19:16.640]  Now improved, now better products, and it will super enhance the effects of methylene blue.
+[01:19:16.720 --> 01:19:20.079]  Go to thealexjonesstore.com right now and be the reason Alex will always be on the air.
+[01:19:20.420 --> 01:19:28.600]  It's going to be great.
+[01:19:29.760 --> 01:19:33.440]  And I do think we'll have universal hanging come.
+[01:19:33.760 --> 01:19:35.600]  We're basically just issuing money to people.
+[01:19:36.880 --> 01:19:54.800]  And the really just because the output of goods and services will so far exceed the money supply that, you know, that effectively you have deflation because just deflation is just the ratio of the outputs of goods and services to the money supply.
+[01:19:56.560 --> 01:20:08.400]  So that's, Sophie, if you, if the rate of growth of goods and services far exceeds the rate of growth of the money supply, which I predict will happen, then you will have deflation.
+[01:20:09.280 --> 01:20:09.840]  Yes.
+[01:20:10.480 --> 01:20:13.040]  And a lot of people spinning up.
+[01:20:13.440 --> 01:20:16.880]  He's talking about how there's going to be massive deflation in the age of AI.
+[01:20:17.040 --> 01:20:20.160]  Not inflation, but deflation, where your money becomes more valuable, right?
+[01:20:20.720 --> 01:20:23.120]  Because the output of production is going to be so much higher.
+[01:20:23.440 --> 01:20:38.720]  But the part that like nobody is talking about, dude, is if there's massive deflation and a dollar is suddenly worth $10 and you're locked in on a mortgage where you still owe 200 grand, like your income might go down.
+[01:20:38.800 --> 01:20:43.920]  Everything at the grocery store might go down, but you still owe the bank the old value of the money, right?
+[01:20:44.080 --> 01:20:56.960]  And so like inflation is terrible because you lose your buying power, but deflation is also an existential threat because you'd have massive foreclosures, prices plummeting, banks shutting down.
+[01:20:57.120 --> 01:21:00.320]  I mean, this is like this whole AI thing is going to be like radically disruptive.
+[01:21:00.480 --> 01:21:06.640]  I know there's implications for artists with stolen likeness and stolen voices and then actors, you know, they're getting replaced by AI and everything.
+[01:21:06.800 --> 01:21:16.880]  But like, what are your thoughts as somebody who's been in business, somebody who is a business owner now and has seen how technology has disrupted in the past?
+[01:21:16.960 --> 01:21:19.520]  I mean, are you freaked out about what's coming with AI?
+[01:21:22.720 --> 01:21:25.200]  Yeah, I don't know if I'm freaked out.
+[01:21:26.160 --> 01:21:34.000]  I think that one thing, obviously, you know, talking to Ian Carroll about this last night, I believe that you have to start trademarking everything.
+[01:21:34.880 --> 01:21:44.960]  Matthew McConaughey was really the first actor or artist to go in and trademark his likeness because they know that they know what's coming.
+[01:21:46.240 --> 01:21:57.280]  I was doing a, I did a record deal in 2005 and the contract took about six months to get through to finalize this record deal.
+[01:21:57.600 --> 01:22:12.480]  And the big thing within the contract and the reason why it took so long was because the record label was definitely shifting into that mode of they want to own your likeness because there's no money in selling CDs anymore.
+[01:22:12.720 --> 01:22:12.880]  Right.
+[01:22:13.040 --> 01:22:21.680]  So meaning like if the drummer wanted to go do a voice for Bob Burgers, Bob's Burgers or something like that, they owned his likeness.
+[01:22:21.920 --> 01:22:23.840]  So they would own his voice.
+[01:22:24.800 --> 01:22:33.600]  And I think that, you know, with like talking to Ian last night, I told him, I was like, you should really talk to your attorneys about trademarking your likeness.
+[01:22:34.640 --> 01:22:46.000]  Because what happens if somebody comes in and they trademark it, you know, or they trademark Ian Carroll or they trademark Chase, they're trademarked Chase Geyser or what have you.
+[01:22:46.160 --> 01:22:51.040]  So, like, trademarks are, you know, they're relatively, they're not crazy expensive.
+[01:22:51.600 --> 01:22:54.960]  There's something that you can do that just is just like a security blanket.
+[01:22:55.120 --> 01:22:58.880]  And I think that, you know, artists should really be looking at trademarks.
+[01:22:59.040 --> 01:23:00.800]  If you have an idea, trademark it.
+[01:23:01.280 --> 01:23:03.920]  Yeah, the thing is so crazy to me about the AI thing.
+[01:23:04.000 --> 01:23:09.040]  I'm like, obviously, from a business standpoint or as an artist, it makes sense to trademark your likeness.
+[01:23:09.680 --> 01:23:14.240]  And I know that it's, it's just because it's obvious doesn't mean that people actually do it or act on it.
+[01:23:14.560 --> 01:23:23.680]  But like, it's so hard for me to worry about that when I'm thinking about like Palantir and the military industrial complex.
+[01:23:24.000 --> 01:23:27.440]  And I'm thinking about what happened with the Patriot Act with the surveillance.
+[01:23:27.680 --> 01:23:27.760]  Right.
+[01:23:28.240 --> 01:23:42.320]  Like, I'm so concerned that I'm going to be defending my family from a horde of radiated zombies.
+[01:23:42.960 --> 01:23:44.080]  You know what I mean?
+[01:23:44.960 --> 01:23:51.680]  So like, where do you, what do you think the world looks like in 2032, Hollis?
+[01:23:52.000 --> 01:23:59.760]  Man, well, did you see the post that one of the guys, one of the heads of YouTube put out?
+[01:24:00.160 --> 01:24:02.160]  I think it was like last week or maybe a couple of weeks ago.
+[01:24:02.560 --> 01:24:03.040]  I don't think so.
+[01:24:03.440 --> 01:24:11.680]  He basically made this very ominous post, very cryptic, but he said, like, it's already too late.
+[01:24:12.000 --> 01:24:14.480]  It's already too late for AI.
+[01:24:14.720 --> 01:24:16.240]  Yeah, Panther's box is opened.
+[01:24:16.560 --> 01:24:16.880]  Yeah.
+[01:24:17.200 --> 01:24:24.480]  And, you know, kind of leads back to like Elon Musk with universal basic income, universal high income.
+[01:24:25.120 --> 01:24:28.160]  You know, I think a lot of jobs are already going away.
+[01:24:28.320 --> 01:24:34.400]  I was talking to one of my best friends the other night, and he was saying marketing's gone, graphics are gone.
+[01:24:35.120 --> 01:24:40.640]  You know, you can subcontract these bots out to like basically do everything for you now.
+[01:24:40.880 --> 01:24:41.200]  Yeah.
+[01:24:41.520 --> 01:24:45.760]  So you're seeing a lot of jobs just completely disappear.
+[01:24:46.080 --> 01:24:52.560]  And what's really interesting to me with AI is like, I've got a, I've got a 19-year-old daughter.
+[01:24:52.960 --> 01:24:55.440]  She's at University of Tampa.
+[01:24:55.680 --> 01:25:08.240]  And you look at students now kind of that are freshmen going in and they have to, they have to start researching, you know, what jobs are AI, you know, proof.
+[01:25:08.480 --> 01:25:08.640]  Yeah.
+[01:25:08.800 --> 01:25:09.760]  You know, what can I go into?
+[01:25:10.160 --> 01:25:11.520]  Plumbing, electrical engineering.
+[01:25:11.840 --> 01:25:12.080]  Yeah.
+[01:25:12.640 --> 01:25:18.960]  I mean, and like these, these blue-collar jobs are going to become, these people are going to become rock stars.
+[01:25:19.280 --> 01:25:22.400]  You know, anything that you can do with your hands, you're going to be rock stars.
+[01:25:22.720 --> 01:25:25.280]  I mean, plumbers are already like crazy money.
+[01:25:25.440 --> 01:25:29.680]  You know, it's 250 bucks an hour or something that I pay when I people work on things.
+[01:25:30.000 --> 01:25:33.280]  So there's already crazy money and that's only going to go up.
+[01:25:34.160 --> 01:25:40.640]  Cause, you know, there are robots now that can come in and fix drains and toilets, but, you know, not really.
+[01:25:40.880 --> 01:25:41.280]  Not really.
+[01:25:41.600 --> 01:25:41.680]  Yeah.
+[01:25:41.760 --> 01:25:44.320]  And it's not, it's not reached critical mass in the market.
+[01:25:44.480 --> 01:25:44.640]  Right.
+[01:25:44.880 --> 01:25:51.520]  I'm just traditionally speaking, everyone's always been afraid of new technology for markets.
+[01:25:51.840 --> 01:25:54.960]  I mean, they were freaking out when the tractor got invented that farmers were going to go out of business.
+[01:25:55.040 --> 01:26:00.320]  And it just turns out that like instead of dealing with 100 acres, now you have to deal with 1,000 acres, right?
+[01:26:00.480 --> 01:26:01.520]  You have to have to be more productive.
+[01:26:01.600 --> 01:26:10.000]  So like marketing is a good example because I'm in marketing and it's, it's not that there isn't a demand for a human to be in marketing.
+[01:26:10.160 --> 01:26:15.520]  It's just like, hey, instead of making like four videos today, I'm going to make 40 using these AI tools.
+[01:26:15.600 --> 01:26:19.040]  Or instead of making four websites this month, I'm going to make four websites a day.
+[01:26:19.360 --> 01:26:19.520]  Yeah.
+[01:26:19.600 --> 01:26:21.200]  That's, you know, that's what I've seen scale.
+[01:26:21.360 --> 01:26:31.200]  But like I'm trying to think about this like in a, in a Nostradamus mindset, like Massive disruption.
+[01:26:31.520 --> 01:26:42.880]  All the AI owned by the Palantirs and the BlackRocks and the Googles and the Sam Altmans and the Carps and the Palantir's Meta and Meta.
+[01:26:43.440 --> 01:26:46.320]  And they're going to own the tech that you're going to have to license from them.
+[01:26:46.480 --> 01:26:56.400]  I mean, even Sam Altman came out and said, I see artificial intelligence in the future as a utility where you draw from it and it's metered how much CPU that you use.
+[01:26:56.720 --> 01:26:57.840]  And then that's what you pay for.
+[01:26:58.000 --> 01:27:03.760]  It's going to be so instilled or ingrained in everything that we do that it becomes almost a utility.
+[01:27:03.840 --> 01:27:05.920]  It's similar to how the internet's kind of become a utility.
+[01:27:06.800 --> 01:27:14.079]  And I see that wiping out and pulling the rug out from under the middle class, minus the plumbers and the electricians and the farmers and stuff.
+[01:27:15.039 --> 01:27:21.760]  And when that collapse happens, the people are going to want answers and they're going to blame, and the government's going to come in.
+[01:27:22.000 --> 01:27:23.120]  They're going to do UBI.
+[01:27:23.360 --> 01:27:25.840]  They're going to have to massively print in order to do UBI.
+[01:27:26.480 --> 01:27:27.760]  The housing market's going to collapse.
+[01:27:27.840 --> 01:27:30.320]  We're going to have to massively print in order to sustain that.
+[01:27:30.640 --> 01:27:35.280]  Meanwhile, we're going to be in the middle of World War III or World War II, and they're going to be funding that.
+[01:27:35.600 --> 01:27:40.720]  And it's like all of the signs, dude, just point straight to collapse.
+[01:27:41.039 --> 01:27:50.079]  And it's so like, it's so obvious intellectually, but it's such a huge problem that I can't even like fathom it.
+[01:27:50.160 --> 01:27:58.800]  It'd be like if you told me to like imagine a trillion dollars, like I get it conceptually, but I can't imagine what that looks like in a warehouse or however many warehouses.
+[01:27:58.960 --> 01:28:02.800]  Like, do you not think we're going to just see total collapse in the next 10 years?
+[01:28:03.039 --> 01:28:10.240]  Well, I mean, I tend to look at things, you know, always, you know, glass half full.
+[01:28:10.720 --> 01:28:25.600]  I'm pretty optimistic, which is, you know, sometimes it's troubling, but like with music, because I can talk, I can talk music, you know, with music, one thing that you're seeing is Gen Z and Gen Alpha.
+[01:28:26.240 --> 01:28:34.160]  They look at Spotify, they look at Apple Music, they look at Amazon Music, they look at these things now as music is a utility.
+[01:28:34.720 --> 01:28:36.480]  Playlists are background noise.
+[01:28:36.800 --> 01:28:40.400]  So what you're seeing is a pivot happen right now with the youth.
+[01:28:40.720 --> 01:28:44.160]  The youth want to get back to vinyl records.
+[01:28:44.320 --> 01:28:46.320]  They want tangible products.
+[01:28:46.960 --> 01:28:52.240]  They want to be able to, A, you're seeing a big trend shift all over the world.
+[01:28:52.560 --> 01:28:59.360]  They want to go back and they want to listen to records from, you know, side A to side B, top to bottom.
+[01:28:59.920 --> 01:29:01.120]  They want to read liner notes.
+[01:29:01.280 --> 01:29:02.640]  They want to look at who produced it.
+[01:29:02.800 --> 01:29:04.079]  They want to look at who wrote it.
+[01:29:04.320 --> 01:29:07.280]  They, you know, where it was made, who engineered it.
+[01:29:07.600 --> 01:29:12.560]  So I always kind of look at things as pivots.
+[01:29:13.520 --> 01:29:14.880]  And you have to adapt.
+[01:29:15.039 --> 01:29:16.880]  Everything is constantly changing.
+[01:29:17.039 --> 01:29:22.880]  It's been, it's been, you know, changing radically for 20 years and now speeding up.
+[01:29:23.200 --> 01:29:38.000]  But I think that looking at looking at music as a utility, you've got an entire two generations that are looking at it as not being a utility.
+[01:29:38.320 --> 01:29:40.960]  They're looking at it as being something that's sacred.
+[01:29:41.280 --> 01:29:48.079]  That, you know, like listening parties are tremendously popular right now, where people are getting together in living rooms.
+[01:29:48.320 --> 01:29:49.360]  They're putting records on.
+[01:29:49.440 --> 01:29:52.160]  They're playing side A and side B. They're reading liner notes.
+[01:29:52.240 --> 01:29:53.520]  They're discussing it.
+[01:29:54.240 --> 01:30:02.079]  So like the big trend in Japan and that's now moving into London and New York, or I'm sorry, LA.
+[01:30:05.039 --> 01:30:06.560]  It's like meta digital bullshit.
+[01:30:06.800 --> 01:30:06.880]  Yeah.
+[01:30:06.960 --> 01:30:10.320]  So like listening rooms are trending right now.
+[01:30:10.480 --> 01:30:14.160]  So they started in Japan like two years ago.
+[01:30:14.480 --> 01:30:23.920]  And basically it's, you know, a couple of turntables in a really nice little loungy area with plush seating and things like that.
+[01:30:24.240 --> 01:30:26.640]  And they're playing records start to finish.
+[01:30:26.800 --> 01:30:28.960]  And people can go in and listen and they're theming nights.
+[01:30:29.119 --> 01:30:38.079]  So, like in Japan, it was like when I was one of them that I was looking at was like 1970s electronic Japanese music.
+[01:30:38.400 --> 01:30:39.520]  And that was the theme for the night.
+[01:30:40.079 --> 01:30:43.279]  And they would discuss, they would talk about the artist, they would talk about the history.
+[01:30:43.520 --> 01:30:46.640]  They would, you know, and then they would go in and listen to full records.
+[01:30:46.720 --> 01:30:49.119]  And then there's discussions and then they would move on to the next one.
+[01:30:49.360 --> 01:30:50.960]  Now you're seeing that move into LA.
+[01:30:51.039 --> 01:30:52.400]  You're seeing that move into New York.
+[01:30:52.720 --> 01:31:00.800]  I think that with the advancement of technology, you're going to just see people pivoting, you know.
+[01:31:01.680 --> 01:31:05.279]  Because you look at music again, you look at like music artists.
+[01:31:05.600 --> 01:31:15.119]  And if you go back to like a MySpace day, you know, MySpace was a brilliant platform for the artist and also for the user.
+[01:31:15.440 --> 01:31:27.279]  But on the artist side, you had all of this great intel, these back-end analytics from heat mapping and, you know, you could go into like subcategory.
+[01:31:27.440 --> 01:31:33.440]  So if I was looking at what's what's who are the top trending bands in Baton Rouge, Louisiana, you can dive in.
+[01:31:33.600 --> 01:31:42.800]  It had all of these, this suite of excellent analytics that the artist could use to move the needle for their career.
+[01:31:43.119 --> 01:31:51.119]  You look at Facebook now, Instagram, TikTok, all of these things, they're advertising platforms.
+[01:31:52.079 --> 01:31:56.239]  And they just really want to sell products to your network.
+[01:31:56.480 --> 01:31:58.079]  You know, you don't own any of this.
+[01:31:58.239 --> 01:32:03.360]  You're basically a sharecropper on rented property with all of these people.
+[01:32:03.600 --> 01:32:04.640]  You own nothing and be happy.
+[01:32:04.960 --> 01:32:05.760]  You own nothing.
+[01:32:06.079 --> 01:32:11.119]  And you're seeing now a trend of like people moving off of these sites.
+[01:32:11.279 --> 01:32:17.119]  They're building their, like one of my buddies, Slowjack, you know, he's, he's very popular on Instagram.
+[01:32:17.279 --> 01:32:27.680]  He's, you know, amassed a huge following, but now they're moving, they're moving everything onto their own website where they have heat mapping and they've got all of these different things.
+[01:32:27.840 --> 01:32:28.960]  And they're driving people.
+[01:32:29.199 --> 01:32:31.760]  I just think that everything is going to be a pivot.
+[01:32:32.079 --> 01:32:34.480]  I don't, you know, I don't know.
+[01:32:34.640 --> 01:32:35.520]  I don't think it's going to be the end.
+[01:32:35.840 --> 01:32:36.880]  I don't think it's going to be the end.
+[01:32:37.279 --> 01:32:45.360]  I do think that, yeah, jobs are going to go away, but within jobs going away, you're going to see opportunity to go in and create something new.
+[01:32:45.600 --> 01:32:48.400]  Jesus Christ, I hope you're right, dude, because I'm totally freaked out.
+[01:32:49.039 --> 01:32:59.360]  Not even just about the economy, but just the AI thing and the context of everything our government's doing and the context of everything every other government is doing and this whole entire political class and what's happening in Iran and what's happening with the US dollar.
+[01:32:59.520 --> 01:33:11.199]  Like when I, and it's, it's one of the reasons why I've had like a breath of fresh air from politics for the last four months is because you only stare into the abyss so long before it's just like it starts staring back.
+[01:33:11.520 --> 01:33:11.680]  Yeah.
+[01:33:11.760 --> 01:33:15.279]  Well, you know, I look at my, like, I look at my daughter, you know, she's 19.
+[01:33:15.920 --> 01:33:16.720]  She's based.
+[01:33:17.119 --> 01:33:17.279]  Yeah.
+[01:33:17.440 --> 01:33:18.640]  I mean, she's base.
+[01:33:18.880 --> 01:33:19.039]  Yeah.
+[01:33:19.199 --> 01:33:20.880]  You know, what generate, what generation is that now?
+[01:33:20.960 --> 01:33:21.360]  Jen Z?
+[01:33:21.520 --> 01:33:22.800]  She's Gen Z. Z still?
+[01:33:22.880 --> 01:33:23.039]  Okay.
+[01:33:23.920 --> 01:33:26.400]  But all of her friends are based, you know?
+[01:33:26.800 --> 01:33:30.560]  And so I think that I always tend to believe that the kids are all right.
+[01:33:30.880 --> 01:33:32.480]  You know, the kids are going to be all right.
+[01:33:32.640 --> 01:33:33.920]  They're going to figure it out.
+[01:33:34.239 --> 01:33:37.920]  And you're seeing like this whole new movement of these younger kids.
+[01:33:38.000 --> 01:33:40.480]  They're just becoming super based.
+[01:33:41.119 --> 01:33:42.239]  It's even radical.
+[01:33:42.480 --> 01:33:42.640]  Yeah.
+[01:33:42.960 --> 01:33:43.199]  Yeah.
+[01:33:43.840 --> 01:33:49.039]  Well, one of the things that's most interesting to me about you, Hollis, is what you're doing at the eighth room.
+[01:33:49.199 --> 01:33:49.360]  Yeah.
+[01:33:49.440 --> 01:33:49.600]  Yeah.
+[01:33:49.920 --> 01:33:50.880]  Here in Nashville.
+[01:33:51.119 --> 01:33:52.560]  So I moved back to Nashville.
+[01:33:52.800 --> 01:33:54.400]  Gosh, it was in December.
+[01:33:54.720 --> 01:33:59.199]  And I'd lived here from 2010 to 2017, hadn't been around, moved back.
+[01:33:59.520 --> 01:34:03.600]  Our mutual friend Ryan said, Hey, you got to go to the eighth room for this pamphleteer event.
+[01:34:03.760 --> 01:34:06.079]  Our friend Davis Hunt runs the pamphleteer.
+[01:34:06.239 --> 01:34:06.960]  Yeah, we love Davis.
+[01:34:07.039 --> 01:34:07.920]  We love the pamphleteer.
+[01:34:08.079 --> 01:34:08.400]  Yeah.
+[01:34:08.720 --> 01:34:23.680]  And I couldn't believe how amazing it felt to be in like almost a, it's not, it's not even an exclusive space, but it is with the future of, it was like the underground right wing, dude.
+[01:34:24.159 --> 01:34:33.920]  And I think there's something about the magic of 100 people who are like basically disenfranchised from the Republican Party because the Republican Party is part of the unit party.
+[01:34:34.079 --> 01:34:34.399]  Correct.
+[01:34:34.720 --> 01:34:47.760]  Coming together and having these incredible events and the amount of influence in the room, whether it's Tucker's team, whether it's some other names I won't mention, like a tremendous amount of influence in a room in this very like unassuming thing.
+[01:34:48.479 --> 01:34:54.800]  It's such, can you talk a little bit about like what that says about where things are going for the right?
+[01:34:54.960 --> 01:34:59.600]  Because I think we're seeing a massive shift in political infrastructure right before our eyes.
+[01:35:00.000 --> 01:35:03.039]  We're having a political civil war right in the midst of having like a real world war.
+[01:35:03.279 --> 01:35:03.439]  Yeah.
+[01:35:03.600 --> 01:35:13.600]  Well, you know, the interesting thing is I've got friends all around the world that own pubs or, you know, small little music venues and things like that.
+[01:35:13.920 --> 01:35:16.319]  And a lot of them are being pushed out.
+[01:35:16.640 --> 01:35:24.880]  Like if you look at like pubs in London that have been around for forever, you know, generational family-owned pubs, they're being pushed out.
+[01:35:24.960 --> 01:35:26.399]  They're being squeezed out.
+[01:35:26.720 --> 01:35:27.279]  Why?
+[01:35:27.920 --> 01:35:29.439]  Because they're gathering places.
+[01:35:29.680 --> 01:35:32.560]  They're places for people to come together and talk, socialize.
+[01:35:32.880 --> 01:35:34.880]  You know, you want to start taking that out.
+[01:35:35.039 --> 01:35:36.960]  You don't want people gathering.
+[01:35:37.279 --> 01:35:41.439]  And I kind of look at it, you know, it's been interesting over the past couple of years.
+[01:35:41.600 --> 01:35:43.680]  And let me, let me just, you know, set it up.
+[01:35:43.840 --> 01:35:46.800]  Like, I consider myself to just be like a classic liberal.
+[01:35:47.039 --> 01:35:50.880]  You know, I've always supported gay rights.
+[01:35:51.199 --> 01:35:55.520]  You know, like, I don't, I don't give a, I don't give a shit like who you are, what you do.
+[01:35:55.680 --> 01:35:59.760]  And as long as you're not hurting anybody or affecting me, I'm cool, you know?
+[01:36:01.279 --> 01:36:08.560]  But now I, people look at me as being like a right wing, almost like extremist, you know, I just like, that's what I love about you.
+[01:36:08.800 --> 01:36:15.039]  I want people to win and I want the country to win, you know, I think nationalism is kind of taken over.
+[01:36:15.600 --> 01:36:19.279]  I think you should be proud of where you're from and I think you should fight for that.
+[01:36:20.079 --> 01:36:36.000]  One of the things that was interesting to me was meeting like the head of the GOP here in Nashville, the young Republicans, different like congressmen, people running for office, running for state and local offices.
+[01:36:36.239 --> 01:36:41.760]  And that being brought together at the club was fascinating to me.
+[01:36:41.840 --> 01:36:52.000]  And my whole thing with them, like, especially like the GOP and the young Republicans, was you kind of have to look at everything from a punk rock perspective.
+[01:36:52.319 --> 01:36:57.119]  You know, conservatism needs to be punk rock.
+[01:36:57.359 --> 01:36:58.880]  You know, it needs to be edgy.
+[01:36:59.359 --> 01:37:01.840]  We need to have more people that are kind of pushing the boundaries.
+[01:37:02.000 --> 01:37:08.800]  You know, being a conservative now shouldn't mean that you're wearing khaki pants and a polo.
+[01:37:08.960 --> 01:37:10.800]  You know, you can wear sunglasses and a hat.
+[01:37:10.880 --> 01:37:11.920]  It doesn't matter.
+[01:37:13.199 --> 01:37:20.239]  So for me, it was really about bringing people together and just talking about ideas.
+[01:37:20.560 --> 01:37:21.439]  What else can we do?
+[01:37:22.479 --> 01:37:23.520]  How can we move the needle?
+[01:37:23.680 --> 01:37:36.560]  If you've got these young candidates that are running for office, is there anything that we can bring to the table under this kind of one roof of cool, highly influential people?
+[01:37:36.880 --> 01:37:47.119]  And one of the things that I think not the Republican Party, because I think the Republican Party is just absolutely crazy as well.
+[01:37:47.920 --> 01:37:49.600]  It's vast majority uniparty.
+[01:37:49.840 --> 01:37:52.640]  You're not looking at like a MAGA or a Patriot Party.
+[01:37:54.640 --> 01:38:06.239]  You've got to, you know, the Democrats have always fought dirty and the Republican side have always kind of like drawn a line in the sand and said, don't cross this line.
+[01:38:06.560 --> 01:38:09.920]  If you cross this line, you know, there's going to be hell to pay.
+[01:38:10.239 --> 01:38:12.880]  And the Democrats always cross that line.
+[01:38:13.199 --> 01:38:16.239]  The Republicans then take two or three steps back and they draw another line.
+[01:38:16.479 --> 01:38:17.279]  That's crossed again.
+[01:38:17.439 --> 01:38:18.560]  They take two or three steps back.
+[01:38:18.640 --> 01:38:23.039]  They draw another line and they just keep getting further and further pushed further and further back.
+[01:38:23.519 --> 01:38:31.519]  And we need more people that are, you know, willing to stand up and just be like, hey, man, you just, you know, you can go fuck yourself.
+[01:38:31.839 --> 01:38:34.880]  And this is, you know, I'm fighting back.
+[01:38:35.039 --> 01:38:37.519]  And we've got to get a little bit more rock and roll about it.
+[01:38:37.679 --> 01:38:50.319]  You know, like there's always been battles and, you know, good versus evil, cool versus not cool, whatever, you know, people that are informed versus misinformed.
+[01:38:50.639 --> 01:39:04.079]  But if we bring, if we bring some level of cool back to it and look at how like punk rock guys in the 70s did promotion and passed around and got the word out.
+[01:39:04.159 --> 01:39:20.880]  And it was very underground from like fanzines, you know, like after shows, people were passing out fanzines and flyers, basically little hand-drawn books, you know, tell it talking about the band, what they're doing, what they're working, what they're into, you know, and punk rock was like very political.
+[01:39:21.920 --> 01:39:23.359]  And then what they're fighting for.
+[01:39:23.679 --> 01:39:26.159]  And so they rallied people behind them.
+[01:39:26.239 --> 01:39:32.639]  And I think that we just have to bring a little bit of that back and make it cool because it's not cool right now.
+[01:39:32.719 --> 01:39:34.960]  It's just, it seems like it's us against them.
+[01:39:35.279 --> 01:39:38.079]  Well, I think Republicans have always just come off as squares.
+[01:39:38.239 --> 01:39:38.399]  Yeah.
+[01:39:38.559 --> 01:39:42.319]  You know, they've got this like massive amount of dogma.
+[01:39:42.639 --> 01:39:43.759]  They push the religious thing.
+[01:39:43.920 --> 01:39:47.519]  And look, I'm a Christian and I, you know, I'll baptize anybody who asks me to baptize them.
+[01:39:47.599 --> 01:39:48.960]  I baptized a couple people in my life.
+[01:39:49.279 --> 01:39:51.519]  My good friend's Jim just a month ago.
+[01:39:51.839 --> 01:39:55.920]  And I'm all about, you know, baptizing nations in the name of the Father, the Son, and the Holy Spirit.
+[01:39:56.000 --> 01:40:04.559]  But then when you're pushing this massive dogma on people, then it's alienating and then it's, then it's leveraged and exploited for the sake of a political end.
+[01:40:04.719 --> 01:40:09.439]  Like the whole war on terror was just like they, they tried to kind of weaponize the Crusader thing.
+[01:40:09.759 --> 01:40:17.920]  But like, fundamentally speaking, Republicans have been so weak that we have allowed our civilization to arrive at a place.
+[01:40:18.000 --> 01:40:20.239]  And these are just the notes that I've been taking as we've been talking about this.
+[01:40:20.319 --> 01:40:21.759]  Like people think, oh, it's nice.
+[01:40:21.839 --> 01:40:26.639]  Jason Hall has talked a little bit about, you know, Spotify and AI and whether you can trademark your likeness.
+[01:40:26.719 --> 01:40:33.279]  But like, if you actually read between the lines of what we've been talking about, Hollywood is pushing cannibalism and blood sacrifice.
+[01:40:33.599 --> 01:40:36.079]  AI is disrupting everything.
+[01:40:36.319 --> 01:40:40.559]  It'll probably be okay because there'll be opportunities created, but it's destroying everything as we know it.
+[01:40:40.880 --> 01:40:48.479]  We've got the entire world economy potentially on the verge of collapse because of what's happening with the Strait of Hormuz and the next world war that's taking place.
+[01:40:48.799 --> 01:40:56.000]  We seem to be entering the next world war with no allies, given that when Trump reached out to everybody about protecting the Strait of Hormuz, no one responded.
+[01:40:56.319 --> 01:41:00.239]  And finally, no one is having any children.
+[01:41:00.880 --> 01:41:03.759]  And so our population and our entire way of life is collapsing around us.
+[01:41:03.839 --> 01:41:05.119]  And I love your optimism.
+[01:41:05.199 --> 01:41:06.159]  And I think you're probably right.
+[01:41:06.239 --> 01:41:08.079]  I think there's wisdom and positivity.
+[01:41:08.239 --> 01:41:10.880]  I don't think that it's naive whatsoever, Hollis.
+[01:41:10.960 --> 01:41:17.759]  But like, dude, if we don't really take seriously this urgency, like Cuba's collapsing right now.
+[01:41:18.799 --> 01:41:20.559]  This war with Iran is actually a war with China.
+[01:41:20.719 --> 01:41:21.279]  We have no allies.
+[01:41:21.359 --> 01:41:25.920]  And a war with China is, in and of itself, by definition, going to escalate into a world war.
+[01:41:26.239 --> 01:41:27.679]  We've got this population crisis.
+[01:41:28.000 --> 01:41:35.119]  Western civilization is collapsing all throughout Europe and in the United States because we've allowed 15x the number of Muslims to come into the United States since 9-11.
+[01:41:35.199 --> 01:41:41.439]  It's like, dude, like, like you said, the only answer is like, rock and roll, dude.
+[01:41:41.759 --> 01:41:45.759]  Like, the Republicans aren't going to do it for us if it's like GOP as it stands.
+[01:41:46.000 --> 01:41:46.159]  Yeah.
+[01:41:46.799 --> 01:41:55.199]  You know, the getting to like the economic crash that you were just talking about, like, what's your view on that?
+[01:41:55.279 --> 01:41:56.479]  What are you thinking?
+[01:41:58.639 --> 01:42:03.759]  Well, I think that under the current monetary system, dude, it's completely screwed.
+[01:42:04.639 --> 01:42:05.359]  It's going to collapse.
+[01:42:06.639 --> 01:42:07.840]  The dollar is worthless.
+[01:42:08.239 --> 01:42:09.039]  It's backed by nothing.
+[01:42:09.199 --> 01:42:10.239]  Yes, except for oil.
+[01:42:10.479 --> 01:42:10.880]  Yes.
+[01:42:11.119 --> 01:42:12.719]  Well, is it?
+[01:42:13.279 --> 01:42:13.359]  Yeah.
+[01:42:13.679 --> 01:42:13.759]  Yeah.
+[01:42:13.920 --> 01:42:14.559]  That's a good question.
+[01:42:14.719 --> 01:42:15.439]  I mean, not anymore.
+[01:42:15.759 --> 01:42:20.079]  But I mean, if you were looking at the first time, I thought the petrodollar was like, I thought it was removed.
+[01:42:20.239 --> 01:42:21.599]  Yeah, everybody said that.
+[01:42:21.839 --> 01:42:23.759]  But then why are we at war with Iran?
+[01:42:25.759 --> 01:42:25.999]  Yeah.
+[01:42:26.639 --> 01:42:27.199]  You know what I mean?
+[01:42:27.279 --> 01:42:28.159]  Dude, we're out of time.
+[01:42:28.479 --> 01:42:31.039]  Hollis, it's been an honor and a pleasure to have you on the broadcast.
+[01:42:31.439 --> 01:42:33.919]  Everybody should follow Hollis at It's Hollis on Instagram.
+[01:42:34.159 --> 01:42:36.159]  Check out the eighth room, eighthroom.com.
+[01:42:36.399 --> 01:42:37.839]  I'm going to start living there.
+[01:42:38.159 --> 01:42:38.319]  Please.
+[01:42:38.559 --> 01:42:38.719]  Awesome.
+[01:42:38.959 --> 01:42:39.439]  I love it there.
+[01:42:39.519 --> 01:42:41.599]  And thank you so much for coming on and talking about methylene blue.
+[01:42:41.759 --> 01:42:42.719]  And I see you got your Volta there.
+[01:42:42.799 --> 01:42:43.519]  Volta is awesome.
+[01:42:43.679 --> 01:42:43.839]  Yeah.
+[01:42:44.399 --> 01:42:45.039]  For bringing my post up.
+[01:42:46.319 --> 01:42:51.279]  My favorite new book that I'm going to start reading tomorrow by the one and only Chase Geyser.
+[01:42:51.439 --> 01:42:51.599]  Yep.
+[01:42:51.679 --> 01:42:53.199]  Chase Geyser Forward by Alex Jones.
+[01:42:53.359 --> 01:42:59.359]  But before you buy the book, do not buy that book without going to thealisjonstore.com first.
+[01:43:00.559 --> 01:43:04.239]  Folks, look, I've been out of the game a few months and I've been paying attention.
+[01:43:04.319 --> 01:43:11.279]  I've been trying not to look, but the gravity of the abyss has drawn me back and I can't look away anymore.
+[01:43:11.599 --> 01:43:16.079]  We are on the edge of so much disruption economically in terms of war.
+[01:43:16.159 --> 01:43:18.639]  Infowars is about ready to get shut down for real.
+[01:43:19.199 --> 01:43:23.839]  This assault on freedom of speech, the CIA is trying to put Tucker Carlson in prison.
+[01:43:24.799 --> 01:43:28.239]  And meanwhile, there's like an all-out onslaught on your health.
+[01:43:28.559 --> 01:43:35.679]  Please go to thealysjonesstore.com, not just because the products are incredible, the deals are incredible, everything's source, but because you're fighting back.
+[01:43:35.999 --> 01:43:40.959]  And every dollar you spend at Thealisjonestore.com is around in the heart of the New World Order Globalist Satanic, of all.
+[01:43:41.039 --> 01:43:43.359]  That's human trafficking and trying to get you not to have any children.
+[01:43:43.439 --> 01:43:47.759]  So your entire way of life and everything you believe can be shot down to hell, and they want to erase Jesus Christ.
+[01:43:47.839 --> 01:43:48.399]  So please go.
+[01:43:48.399 --> 01:44:00.239]  Right now i'm holding in my hands two compounds that are guaranteed to change your life, t3 pure atomic iodine nobody else has it, it's next level and ultramethylene blue medical gray, methylene blue.
+[01:44:00.399 --> 01:44:05.759]  These two products together supercharge the mitochondria, the cells, clean out the body and are game changers.
+[01:44:05.999 --> 01:44:08.399]  Iodine is essential, meaning you die without it.
+[01:44:08.559 --> 01:44:08.719]  The?
+[01:44:08.719 --> 01:44:12.719]  U.N. Admits that most people that have cognitive disabilities is because of lack of iodine.
+[01:44:12.959 --> 01:44:16.479]  You add ultramethylene blue to this, it supercharges everything.
+[01:44:16.799 --> 01:44:22.831]  Ladies and gentlemen, t3 is now available, Thelistonstore.com, Alchemistore.com, the very best iodine that we know of that exists.
+[01:44:22.911 --> 01:44:23.471]  There may be better.
+[01:44:23.551 --> 01:44:29.231]  We'll adopt that if we can, but this is the best for sale we found, and we have the best medical grade, ultra-methylene blue.
+[01:44:29.391 --> 01:44:30.751]  Get yours now, right now.
+[01:44:30.911 --> 01:44:34.831]  If you're a FIFA member for 50% off, regular customers, 25% off.
+[01:44:34.992 --> 01:44:37.791]  It funds the InfoWar, but more importantly, it is a game changer.
+[01:44:38.112 --> 01:44:40.591]  If you don't take my advice and try this, you're insane.
+[01:44:40.831 --> 01:44:41.791]  All you gotta do is try it.
+[01:44:41.951 --> 01:44:42.671]  You'll be blown away.
+[01:44:42.911 --> 01:44:43.471]  Take action now.
+[01:44:43.791 --> 01:44:48.831]  The ElchinScore.com to get T3 now available, amethylene blue, at thealts of store.com.

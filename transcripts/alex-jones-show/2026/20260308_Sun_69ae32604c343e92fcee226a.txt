@@ -1,0 +1,1354 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, sat-12l-sm, and large-v3-turbo
+# Transcript cleaned with version 0.1.2
+# Source MD5: 10e3e57e1ed01c58b92ff069e111a016
+[00:00:21.760 --> 00:00:25.679]  Ladies and gentlemen, it is Sunday, March 8th, 2026.
+[00:00:26.640 --> 00:00:28.400]  I am your host, Alex Jones.
+[00:00:28.719 --> 00:00:35.439]  As I told you on Monday and Tuesday, U.S. Way is sending special forces to seize Iran's nuclear stockpile.
+[00:00:37.039 --> 00:00:47.039]  They've also got the 82nd Airborne ready to secure the Iranian side of the Strait of Hormuz, where their main national military is based.
+[00:00:48.240 --> 00:00:53.840]  So you see how this is escalating into pure hell so incredibly quickly.
+[00:00:55.439 --> 00:01:04.480]  Now we also learn that Iran is getting more and more of their missiles past the missile defense.
+[00:01:04.640 --> 00:01:07.519]  The missiles, interceptors are running out.
+[00:01:07.840 --> 00:01:14.239]  They're now hitting the salinization plants, which those countries get the majority of their fresh water from.
+[00:01:15.200 --> 00:01:30.320]  But bigger than that, we now learn that the Office of National Intelligence, Tulsi Gabber, that oversees the other agencies, put together an interagency report for Trump one week before the United States went to war with Iran eight days ago,
+[00:01:30.480 --> 00:01:46.240]  nine days ago, and that they specifically went through the scenarios and the probability that they would not be able to remove the regime and that it would trigger the crises that we now see unfolding.
+[00:01:47.439 --> 00:01:51.200]  So we were sleptwalk into this in the name of getting rid of their nuclear program nine months ago.
+[00:01:51.439 --> 00:01:54.879]  And we were told that's what this was about now, getting rid of their ballistic missiles.
+[00:01:55.200 --> 00:02:02.799]  And now the United States and Israel are destroying their main oil refineries and their infrastructure.
+[00:02:03.120 --> 00:02:10.960]  And Trump put out a truth social post yesterday threatening to totally destroy and annihilate Iran if they didn't surrender.
+[00:02:11.280 --> 00:02:14.319]  The Ayatollah's son got voted in as the new Ayatollah.
+[00:02:14.400 --> 00:02:16.240]  He was dead 12 hours later.
+[00:02:16.560 --> 00:02:25.120]  They now, their council has elected another spiritual dictator, but they're keeping that person's name secret.
+[00:02:25.280 --> 00:02:28.960]  So Trump's got quite the whack-a-mole job going on there.
+[00:02:29.280 --> 00:02:40.400]  And that's what this report that's being reported on by the Wall Street Journal, by Ag Sios, by everybody, that was delivered to Trump one week before said that you could kill hundreds and hundreds and hundreds.
+[00:02:40.479 --> 00:02:43.920]  You could kill thousands of whoever they installed.
+[00:02:44.240 --> 00:02:46.719]  I mean, that they've got millions to pull from.
+[00:02:47.920 --> 00:02:56.240]  So it'd be like if somebody started killing popes, they could just keep getting cardinals and he killed all the cardinals and you get bishops.
+[00:02:58.400 --> 00:03:05.519]  Every level of this that has disaster written on it, has quagmire written on it.
+[00:03:05.680 --> 00:03:07.680]  And I said that eight days ago.
+[00:03:08.000 --> 00:03:09.680]  People said, oh, you're just being a pessimist.
+[00:03:09.840 --> 00:03:10.799]  This is like Venezuela.
+[00:03:10.879 --> 00:03:11.919]  No, it's not.
+[00:03:12.560 --> 00:03:15.359]  And then they said, oh, four to five weeks.
+[00:03:15.439 --> 00:03:19.919]  And then, oh, three months, oh, six months.
+[00:03:20.240 --> 00:03:22.079]  Then Trump said, no, it might last forever.
+[00:03:22.400 --> 00:03:25.599]  And now they're saying, Trump's saying 20 years.
+[00:03:26.479 --> 00:03:35.759]  As I said last Saturday, the day this began, I said, it took the West 15 years, 16 years to overthrow Assad and Syria.
+[00:03:36.399 --> 00:03:39.439]  And that's a much easier nut to crack than Iran.
+[00:03:40.639 --> 00:03:43.280]  And so that's why we're at this point.
+[00:03:43.599 --> 00:03:46.639]  It is a big, big, big deal.
+[00:03:47.519 --> 00:03:50.719]  So we're going to cover it all so much today.
+[00:03:51.280 --> 00:03:53.039]  This is going to be one hell of a transmission.
+[00:03:53.359 --> 00:03:54.719]  Remember, you're the Paul Revere's.
+[00:03:54.800 --> 00:03:55.439]  However, you're listening.
+[00:03:55.599 --> 00:03:59.280]  Spread the word now and tell everybody you share the link with us, share it.
+[00:03:59.359 --> 00:04:01.120]  That creates the chain reaction.
+[00:04:01.439 --> 00:04:02.000]  Stay with us.
+[00:04:02.079 --> 00:04:02.959]  I'm Alex Jones.
+[00:04:03.039 --> 00:04:04.719]  We'll be right back in just 60 seconds.
+[00:04:04.959 --> 00:04:07.039]  We join hundreds of radio stations.
+[00:04:09.599 --> 00:04:14.079]  Ladies and gentlemen, it is Sunday, March 8th, 2026.
+[00:04:14.399 --> 00:04:22.079]  I am your host and your chronicler, Alex Jones, coming to you from deep in the heart of the Texas, Austin, Transmitting Worldwide.
+[00:04:23.680 --> 00:04:24.240]  All right.
+[00:04:25.039 --> 00:04:28.879]  This war is going exactly the way I predicted it would.
+[00:04:29.120 --> 00:04:34.879]  And by the way, from my own research and analysis, I've laid out exactly what's happening.
+[00:04:35.120 --> 00:04:49.039]  And it turns out that there was a multi-intelligence agency report oversaw by Tulsi Gabbard, delivered to Trump one week before that he requested that said you're not going to get regime change, 90 plus percent chance.
+[00:04:49.600 --> 00:04:53.360]  It doesn't matter how many moolahs you kill, they're just going to keep replacing them.
+[00:04:53.680 --> 00:04:55.759]  And they're going to block the Strait of Hormuz.
+[00:04:55.839 --> 00:04:58.720]  And then they just went through the different horrible scenarios.
+[00:04:59.039 --> 00:05:10.720]  And that information has been purposely leaked by good people in the Pentagon who never leaked in the last year on Trump because they're being faithful.
+[00:05:11.360 --> 00:05:14.000]  I mean, a few mid-level have, and they've been fired and indicted.
+[00:05:14.319 --> 00:05:22.319]  No, this is to try to get Trump to get out of the megalomania mode where he has been totally emboldened by success in Venezuela so far.
+[00:05:22.639 --> 00:05:24.240]  He's looking to destabilize.
+[00:05:24.319 --> 00:05:28.159]  He's already destabilized and overthrow Cuba, which I won't cry if that happens.
+[00:05:28.480 --> 00:05:32.480]  I mean, Trump basically thinks he's running the tables right now.
+[00:05:34.079 --> 00:05:41.759]  And Iran is a different animal than Iraq, Afghanistan, Venezuela, Cuba, you name it.
+[00:05:42.079 --> 00:05:45.439]  Because of all the different factors and where it is geographically.
+[00:05:46.079 --> 00:05:55.839]  And already, because they're able to hit the other Gulf states that have U.S. bases in them, that is sending even bigger economic shockwaves throughout the country.
+[00:05:56.479 --> 00:06:05.039]  And now we've seen the footage last week and every day of ballistic missiles coming in from Iran into Israel and into other countries.
+[00:06:05.360 --> 00:06:10.959]  And you'll see them fire five, six, seven, eight, nine, 10 or more interceptor missiles.
+[00:06:11.599 --> 00:06:21.120]  And you'll now see the ballistic missile change course and outmaneuver them and hit its target.
+[00:06:21.439 --> 00:06:28.240]  So the point is, the Iranian weapons are getting more and more and more sophisticated.
+[00:06:28.879 --> 00:06:35.039]  Now, Trump said on Truth Social Friday morning, he said, we read it on air quite a few times.
+[00:06:35.360 --> 00:06:44.000]  He said, if you don't give up now, this may go 20 years, or I may decide today to totally destroy your whole country.
+[00:06:44.479 --> 00:06:45.439]  What he said.
+[00:06:47.039 --> 00:06:56.000]  But he said, regardless, I'm going to start hitting other targets that basically affect the general population.
+[00:06:56.639 --> 00:07:06.560]  And they just blew up most of the oil refineries and systems starting Friday afternoon right through to today.
+[00:07:06.719 --> 00:07:07.279]  It's continuing.
+[00:07:07.439 --> 00:07:19.519]  The United States and Israel are obliterating their oil and gas infrastructure, which is the main power they have in the country and one of their only sources of money.
+[00:07:20.399 --> 00:07:22.159]  And they're not going to give up.
+[00:07:22.799 --> 00:07:26.639]  And the CIA studied it, others have looking at the psychology of the population.
+[00:07:26.799 --> 00:07:31.439]  This is only going to make the Moolahs long-term more secure in their power.
+[00:07:32.560 --> 00:07:45.680]  It's going to hurt the general public there and bring them into basic starvation, just like the sanctions under the bushes and the worst of the Clintons on Iraq killed millions of people, most of them children.
+[00:07:46.319 --> 00:07:48.480]  No medicine allowed in, no nothing.
+[00:07:50.319 --> 00:07:54.159]  So this is very, very diabolical.
+[00:07:55.360 --> 00:07:56.879]  The Moolahs are diabolical.
+[00:07:57.039 --> 00:07:58.799]  They're terrible and don't care about life.
+[00:07:58.879 --> 00:08:00.480]  They do terrible things as well.
+[00:08:00.959 --> 00:08:02.879]  But I don't think two wrongs make a right.
+[00:08:03.839 --> 00:08:07.120]  And again, I can play the compilations already have.
+[00:08:07.759 --> 00:08:19.120]  Dozens of times, Trump said when he first ran 10 years ago and then right through to a year and a half ago, when he was running for the third time, saying, going to full war with Iran is World War III.
+[00:08:19.519 --> 00:08:20.559]  It's stupid.
+[00:08:21.120 --> 00:08:22.000]  It's horrible.
+[00:08:22.799 --> 00:08:24.559]  The Democrats will bring you there.
+[00:08:24.720 --> 00:08:25.199]  I won't.
+[00:08:25.279 --> 00:08:26.079]  I'll bring you peace.
+[00:08:26.319 --> 00:08:27.759]  I am peace.
+[00:08:29.039 --> 00:08:38.879]  And I knew that Trump had been good about not starting wars and had pissed off the neocons that were his big enemies, as well as the neoconnish liberals in his first term.
+[00:08:39.039 --> 00:08:40.480]  So I believed him.
+[00:08:41.839 --> 00:08:46.479]  And overall, trying to end the war with Russia has he's done a good job.
+[00:08:46.639 --> 00:08:47.919]  It's been harder than he thought it would be.
+[00:08:48.239 --> 00:08:49.279]  And I believed it would have been harder.
+[00:08:49.359 --> 00:08:51.039]  He believed he said day one he could end it.
+[00:08:51.359 --> 00:09:09.199]  So weighing all of that, he's not as bad as the Democrats and the neocons, but he is becoming neoconnish and kind of pushing away classic, you know, anti-offensive war MAGA and really cozying up with the neocons like Lindsey Graham and others.
+[00:09:09.279 --> 00:09:14.719]  And so I've been raising the alarm to try to get him to stop getting in bed with them.
+[00:09:15.359 --> 00:09:24.559]  And the majority of MAGA and the majority of conservatives and populists and libertarians and former Trump supporters and current Trump supporters have that view.
+[00:09:24.719 --> 00:09:25.519]  That's what I get on the street.
+[00:09:25.599 --> 00:09:26.479]  It's what I get from family.
+[00:09:26.559 --> 00:09:32.479]  It's what I get around people that have been longtime Trump supporters is they're just really concerned.
+[00:09:32.799 --> 00:09:37.599]  Some like Nick Fuentes says he's completely done, but he's been done with Trump for a long time.
+[00:09:38.079 --> 00:09:48.479]  James Woods is done with the Republicans because of the Unit Party and leader Thun in the Senate killing the SAVE Act so the Democrats can still steal elections with illegal aliens.
+[00:09:48.559 --> 00:10:10.079]  And the Republicans voted with the Democrats, 85% of the House to kill legislation that would release who was involved in taxpayer money payoffs of at least $18 million the last few years to sexual assault victims, sexual harassment victims, you name it, in Congress.
+[00:10:10.719 --> 00:10:12.879]  So it's a bunch of Epstein type stuff.
+[00:10:13.199 --> 00:10:14.719]  And one woman got caught on fire.
+[00:10:14.879 --> 00:10:15.919]  Others have been found dead.
+[00:10:16.240 --> 00:10:18.479]  This goes back a long time too, before this current thing.
+[00:10:18.959 --> 00:10:28.399]  You've got psycho Joe Scarborough with the attractive dead intern with her brains beat out in his office overnight.
+[00:10:29.039 --> 00:10:34.319]  So they've been protecting themselves for a long time, and it's disgusting.
+[00:10:34.639 --> 00:10:38.799]  And I shot a video yesterday while I was doing a live show.
+[00:10:39.039 --> 00:10:40.479]  They took a clip out of it.
+[00:10:41.679 --> 00:10:42.399]  And I addressed this.
+[00:10:42.479 --> 00:10:46.319]  And I said, I think James Woods is, you understand why he's doing it, but I think he's wrong.
+[00:10:46.639 --> 00:10:54.559]  How will just not voting Republican, period, so that the rhinos can stay in power, they already have their districts controlled.
+[00:10:54.639 --> 00:10:56.319]  The Democrats don't challenge them.
+[00:10:56.959 --> 00:10:58.959]  And they tend to still be the leadership hanging on.
+[00:10:59.199 --> 00:11:01.359]  And then they block the majority that are America first.
+[00:11:01.839 --> 00:11:05.279]  How is taking your ball and going home going to do that?
+[00:11:05.919 --> 00:11:13.359]  So I said, he basically agrees with Nick Fuentez, just that Fuentes is mad at Trump.
+[00:11:13.519 --> 00:11:15.839]  So he says, don't support the Republicans, vote Democrat.
+[00:11:16.159 --> 00:11:18.799]  Woods is saying, no, I'm going to vote independent.
+[00:11:19.759 --> 00:11:21.759]  And it just doesn't make sense.
+[00:11:22.079 --> 00:11:24.319]  I understand, okay, put pressure on them, make them stop.
+[00:11:24.559 --> 00:11:29.039]  But the neocons, the old school establishment Republicans, they don't care.
+[00:11:29.119 --> 00:11:29.759]  They like that.
+[00:11:30.000 --> 00:11:34.079]  They'd be happy to be out of power and then just make deals with Democrats and keep selling a sound.
+[00:11:34.399 --> 00:11:36.559]  They don't want this real revolution.
+[00:11:37.359 --> 00:11:45.039]  So it's about putting pressure on Trump, pressure on Congress, getting good candidates in, getting them elected, getting rid of the bad guys like Crenshaw, primary them.
+[00:11:45.279 --> 00:11:46.239]  We're doing it.
+[00:11:46.559 --> 00:11:49.439]  We have more power as populists in government we've ever had.
+[00:11:49.679 --> 00:11:53.359]  More is coming out than basically has ever before at a greater rate.
+[00:11:53.679 --> 00:11:58.399]  So as negative as things are seen, that's because we just know how bad things are now.
+[00:11:58.959 --> 00:11:59.279]  Okay.
+[00:11:59.999 --> 00:12:04.079]  And then it's frustrating to know how bad things are and not see it be removed quicker.
+[00:12:04.399 --> 00:12:06.159]  But the process is in place.
+[00:12:06.479 --> 00:12:08.639]  The globalists are in trouble, not distributed around the world.
+[00:12:08.959 --> 00:12:14.159]  And if you look at populism's rise, the establishment can run, but it can't hide.
+[00:12:14.719 --> 00:12:17.999]  And James Woods responded in a gentlemanly way.
+[00:12:19.199 --> 00:12:23.919]  But he basically, I'll read what he said, said, look, I didn't say I endorse Nick Fuentez.
+[00:12:23.999 --> 00:12:25.119]  Well, that's not what I said you said.
+[00:12:25.279 --> 00:12:27.359]  I said, oh, you agree with Nick Fuentez.
+[00:12:27.519 --> 00:12:29.519]  Don't support the Republicans anymore.
+[00:12:29.839 --> 00:12:36.079]  And I went on to say, I respect both your views, understand the angle, but I think if you think it through, it's not smart.
+[00:12:36.719 --> 00:12:40.399]  It doesn't punish Trump if they lose the midterms.
+[00:12:40.559 --> 00:12:50.799]  It puts the Democrats, who we know are a thousand times worse, back in the driver's seat and endangers all the good stuff Trump's done, like securing the border, getting us out of the carbon taxes.
+[00:12:50.879 --> 00:12:52.319]  It's so massive, just incredible.
+[00:12:52.399 --> 00:12:53.919]  It'll save billions of lives.
+[00:12:54.639 --> 00:12:58.159]  Trying to stop World War III, all the great doe stuff that happened.
+[00:12:58.479 --> 00:13:01.039]  I mean, it takes hours to get into all the good things.
+[00:13:01.359 --> 00:13:10.559]  But I'm still very concerned and horrified by what Trump has done in this sudden turn of war fever that he's caught.
+[00:13:10.879 --> 00:13:18.559]  That is a different man geopolitically, militarily, than he was five years ago or 10 years ago.
+[00:13:18.879 --> 00:13:28.799]  I mean, we've got a little bit of it, but I mean, we can just nail Trump with hundreds of clips of him and his surrogates that are saying the things I'm saying.
+[00:13:29.359 --> 00:13:31.599]  But let me get to James Woods and I'll move on.
+[00:13:31.919 --> 00:13:50.639]  James Woods responding to my post: Breaking actor James Woods agrees with Nick Fuentez that it's time to leave the GOP party after Senator Thune killed the Popular Save Act and House Republicans joined Dems to suppress the details of an $18 million taxpayer slush fund used to hide sexual harassment claims.
+[00:13:51.599 --> 00:13:56.639]  Woods responded to me saying, the way you're stating this is misleading.
+[00:13:56.799 --> 00:13:58.639]  I don't agree with Nick Fuentez about anything.
+[00:13:58.799 --> 00:14:05.359]  I've never talked about, talked with Nick Fuentez, nor did I know who he was until you stated that I agree with him.
+[00:14:05.679 --> 00:14:08.799]  Now that I know who he is, nothing could be further from the truth.
+[00:14:09.039 --> 00:14:11.839]  Please take the time to clarify this at your convenience.
+[00:14:12.159 --> 00:14:14.879]  So I did shoot a clarification video.
+[00:14:15.199 --> 00:14:19.039]  He then was clearer also in response to what he's saying about the Republican Party.
+[00:14:19.359 --> 00:14:22.079]  Let's get my position on the Republican Party crystal clear.
+[00:14:22.399 --> 00:14:27.199]  I've been a registered Republican since Bill Clinton turned the Oval Office into his own personal brothel.
+[00:14:27.519 --> 00:14:33.759]  Now, Senate Majority John Thune refuses to protect election integrity.
+[00:14:33.919 --> 00:14:35.599]  I am disgusted with my party.
+[00:14:35.999 --> 00:14:41.119]  I will never vote for a Democrat in my life, but the rhino elements destroying the Republican Party are a disgrace.
+[00:14:41.279 --> 00:14:42.319]  Well, they're the enemy.
+[00:14:42.639 --> 00:14:51.439]  I am a devout follower of President Trump, and as a registered independent, will continue to vote with Republicans when they stand behind the great president and act like Republicans again.
+[00:14:51.679 --> 00:14:59.919]  Democrats, that ragtag band of con artists and grifters that they are managed to work together in lockstep, but getting Republicans to accomplish anything is like herding cats.
+[00:14:59.999 --> 00:15:01.439]  It's absolutely infuriating.
+[00:15:01.759 --> 00:15:03.599]  I totally agree with that.
+[00:15:03.919 --> 00:15:06.799]  So now that he clarifies, that's exactly where I stand.
+[00:15:06.959 --> 00:15:15.359]  I say get good candidates running, get them elected, build the Patriot Coalition, expand our beachhead.
+[00:15:15.679 --> 00:15:22.079]  Now that he's clarified, I can see from his position how I need to clarify.
+[00:15:22.239 --> 00:15:23.599]  He clarified, I clarified.
+[00:15:23.759 --> 00:15:24.159]  That's great.
+[00:15:24.319 --> 00:15:26.159]  Big fan of James Woods politics.
+[00:15:26.479 --> 00:15:28.719]  And I'm, again, not a huge movie person.
+[00:15:29.039 --> 00:15:32.799]  And I don't, you know, fetishize actors and actresses and even really care about them.
+[00:15:32.959 --> 00:15:33.519]  Never have.
+[00:15:33.839 --> 00:15:34.639]  But it's funny.
+[00:15:34.879 --> 00:15:43.439]  You know, most of the actors I do like are conservative, like Robert Duvall or just so many others or James Woods.
+[00:15:43.599 --> 00:15:44.559]  I love James Woods.
+[00:15:44.719 --> 00:15:45.519]  Love all his movies.
+[00:15:45.679 --> 00:15:47.039]  Big, big fan of James Woods.
+[00:15:47.199 --> 00:15:48.239]  Wish he was still acting.
+[00:15:48.639 --> 00:15:49.759]  He really doesn't put much out.
+[00:15:50.079 --> 00:15:52.239]  But interesting to hear that from James Woods.
+[00:15:52.479 --> 00:15:53.999]  And I just cover because it's celebrity news.
+[00:15:54.079 --> 00:16:04.879]  It just ties into the big fight going on inside the Republican Party and also the different wings that, oh, you were never MAGA or I was never MAGA or Trump's totally evil.
+[00:16:05.039 --> 00:16:05.759]  No, Trump's perfect.
+[00:16:05.839 --> 00:16:06.879]  Don't question him.
+[00:16:07.199 --> 00:16:11.439]  And people say to me, who are just say, whatever Trump says at the moment, support that.
+[00:16:11.519 --> 00:16:13.679]  Whatever his administration does, just support that.
+[00:16:13.999 --> 00:16:18.879]  Even though when we put pressure on them a lot of the times, they wake back up and do the right thing.
+[00:16:19.519 --> 00:16:21.279]  But I want to say I am not MAGA.
+[00:16:21.439 --> 00:16:22.559]  And I've said that for years.
+[00:16:22.879 --> 00:16:25.519]  I am the precursor of it.
+[00:16:25.839 --> 00:16:30.159]  I'm 1776 in the past, the present, and the future.
+[00:16:30.399 --> 00:16:32.079]  I am pro-freedom.
+[00:16:32.399 --> 00:16:33.759]  Make America free again.
+[00:16:34.079 --> 00:16:43.119]  I support MAGA, but I'm about defeating the globalist worldwide and saving our republic, not just making America great again.
+[00:16:43.439 --> 00:16:46.319]  I'm about getting Trump to be anti-globalist, anti-new world order.
+[00:16:46.559 --> 00:16:53.999]  By the way, coming up, JD Vance said we are building a new world order, and people are going crazy.
+[00:16:54.319 --> 00:16:57.359]  They're saying, oh my God, he's with the New World Order.
+[00:16:57.999 --> 00:16:59.199]  No, that's not what he's saying.
+[00:16:59.359 --> 00:17:01.359]  When you study the policy reports, it's very clear.
+[00:17:01.519 --> 00:17:03.199]  I'll get to that later.
+[00:17:03.839 --> 00:17:10.960]  The globalists were setting up their UN world government system and calling it the new world order.
+[00:17:12.399 --> 00:17:17.759]  But in political science academia, when an old order is dying, that's the globalist order.
+[00:17:18.719 --> 00:17:25.359]  Then the vacuum is filled by new systems, and then a new global order or new international order is created.
+[00:17:25.679 --> 00:17:46.239]  We want one with nation states around capitalism, Christianity, freedom, laissez-faire, and to build a multipolar world where nations deal with each other unilaterally and then sometimes get in coalitions to then come to larger decisions that don't affect national sovereignty.
+[00:17:46.559 --> 00:17:50.639]  And we dismantle the corporate World Economic Forum UN system.
+[00:17:51.599 --> 00:17:59.199]  That is what Trump was doing better than I thought they would do because it's a tall order until the last few months.
+[00:17:59.359 --> 00:18:01.519]  And still overall, it's amazing what they've done.
+[00:18:01.679 --> 00:18:09.279]  But this neocon going out, launching these wars, you can say, well, he's ignoring the UN.
+[00:18:09.359 --> 00:18:14.399]  So again, it does break their old order, but it's still a very dangerous component.
+[00:18:14.479 --> 00:18:18.399]  It was part of the old system and something Trump ran on not doing.
+[00:18:19.919 --> 00:18:21.999]  But again, I'll get to that with JD Vance.
+[00:18:22.079 --> 00:18:23.279]  I'll play the clip coming up.
+[00:18:23.599 --> 00:18:27.599]  It's really important because people get confused.
+[00:18:27.679 --> 00:18:31.519]  He's been over at the conferences in Europe at Debos, you name it.
+[00:18:31.599 --> 00:18:36.479]  And he explains to them in the different security conferences, your system's dead on arrival.
+[00:18:36.799 --> 00:18:37.759]  It's repudiated.
+[00:18:37.999 --> 00:18:53.439]  You're neoliberal, globalist, transhumanist, social credit score, ESG, BlackRock system is being opposed everywhere, not just by Trump, but by nations and peoples and governors and sectors everywhere.
+[00:18:53.759 --> 00:19:01.279]  And they admit that at Debos at the Munich security meeting and all of it, that this year, that they are screwed, that everybody hates them.
+[00:19:01.919 --> 00:19:18.159]  And you got the CEO of the World Economic Forum resigning two weeks ago for plotting to set up a covert world government with the Trilateral Commission and the World Economic Forum and have the UN sign its authority over to them, which it did do four years later.
+[00:19:18.479 --> 00:19:21.119]  I mean, this is amazing.
+[00:19:21.439 --> 00:19:23.119]  Absolutely amazing.
+[00:19:23.439 --> 00:19:25.039]  And we'll be getting to that.
+[00:19:25.359 --> 00:19:45.279]  But if Trump's starting to make this turn into neocon globalism, if he continues much longer, then as many have said, Trump is not here to dismantle the globalist New World Order and bring America back to where it was.
+[00:19:45.599 --> 00:20:01.199]  No, he's simply putting a new coat of paint on the new world order and setting it up for him and his family and them to run it with some tweaks and maybe not as openly satanic, but still it takes you the same place.
+[00:20:01.519 --> 00:20:07.279]  It's like you're using Google Maps or Waze or something and you plot where you want to go.
+[00:20:07.599 --> 00:20:08.399]  Here's my location.
+[00:20:08.559 --> 00:20:09.279]  Here's where I want to go.
+[00:20:09.599 --> 00:20:12.239]  And it shows you five different routes to get there.
+[00:20:12.879 --> 00:20:17.279]  And with Trump, it's more of a country ride, leisurely ride.
+[00:20:17.599 --> 00:20:23.599]  You know, the globalists were going to take us there in two hours, and Trump's going to take us there in three hours.
+[00:20:24.079 --> 00:20:26.799]  No, I don't want to go to the destination.
+[00:20:27.119 --> 00:20:34.479]  And before we were the first 10, 11 months, we were going the opposite direction away from from Mordor.
+[00:20:34.719 --> 00:20:36.799]  We were going back to the Hobbits, back to the Shire.
+[00:20:37.119 --> 00:20:38.799]  And I was like, that's really, wow.
+[00:20:39.039 --> 00:20:41.359]  I mean, in real action, it was real.
+[00:20:41.999 --> 00:20:43.999]  And then, oh, he started turning.
+[00:20:44.079 --> 00:20:46.079]  And I'm like, hey, you're kind of Mordor is over here.
+[00:20:46.159 --> 00:20:47.279]  And I'm like, hey, wait a minute.
+[00:20:47.599 --> 00:20:49.759]  And I'm like, oh, you're not.
+[00:20:50.079 --> 00:20:50.399]  He's right.
+[00:20:50.559 --> 00:20:52.719]  I go, that looks a little, oh, you know.
+[00:20:53.999 --> 00:20:55.439]  So, oh, this is incredible.
+[00:20:55.519 --> 00:20:56.079]  Better than I thought.
+[00:20:56.239 --> 00:20:57.119]  Wow, this is amazing.
+[00:20:57.439 --> 00:20:58.639]  We're going away from Mordor.
+[00:20:58.879 --> 00:20:59.519]  What's going on here?
+[00:20:59.599 --> 00:21:00.319]  I'm a little concerned.
+[00:21:00.399 --> 00:21:02.079]  Whoa, hey, hey, hey, whoa, whoa, whoa.
+[00:21:02.879 --> 00:21:04.159]  So right now, it's like about to be.
+[00:21:04.959 --> 00:21:08.239]  And then when it starts choo-chooing towards Mordor, I'm going to go completely ape.
+[00:21:09.119 --> 00:21:12.879]  I mean, this continues with, I mean, like, you know what?
+[00:21:12.959 --> 00:21:15.759]  We're going to give liability protection to glyphosate, Roundup.
+[00:21:16.079 --> 00:21:16.719]  Absolute fact.
+[00:21:16.799 --> 00:21:19.679]  They knew it causes mass cancer, infertility, death.
+[00:21:19.999 --> 00:21:21.199]  Kennedy gets in there.
+[00:21:21.359 --> 00:21:23.199]  They got liability protection goes away.
+[00:21:23.279 --> 00:21:24.559]  They're winning all the lawsuits.
+[00:21:24.799 --> 00:21:25.999]  The whole world's banning it.
+[00:21:26.159 --> 00:21:28.799]  And Trump goes, liability protection on Roundup.
+[00:21:30.959 --> 00:21:34.719]  Now, we're still going to phase it out, but right now, you know, they got to have liability protection.
+[00:21:35.039 --> 00:21:37.599]  That's another big click, click, click towards Mordor.
+[00:21:38.079 --> 00:21:40.079]  And I'm just sitting here watching this.
+[00:21:41.279 --> 00:21:44.879]  But I do not apologize for helping get Trump in.
+[00:21:45.119 --> 00:21:46.879]  He's been totally disruptive for the globalists.
+[00:21:46.959 --> 00:21:47.919]  So much good has happened.
+[00:21:48.079 --> 00:21:49.199]  That's why they hated him.
+[00:21:49.519 --> 00:21:52.959]  But if he goes sideways, it doesn't mean we were wrong to support him.
+[00:21:53.119 --> 00:21:55.359]  It doesn't mean that, oh, we screwed up.
+[00:21:55.679 --> 00:21:58.879]  No, he was light years better than the other guys.
+[00:21:59.759 --> 00:22:01.199]  And we're the ones that put him in.
+[00:22:01.279 --> 00:22:05.199]  We're the ones that built this movement and all over the world.
+[00:22:05.359 --> 00:22:06.959]  And so we're going to continue to push.
+[00:22:07.279 --> 00:22:09.599]  We're going to continue to get good people in.
+[00:22:09.759 --> 00:22:13.439]  And it's never going to be some perfect thing, whole in one.
+[00:22:13.759 --> 00:22:16.079]  And then all our problems are solved.
+[00:22:16.399 --> 00:22:18.639]  This is a historical process.
+[00:22:19.839 --> 00:22:37.519]  And if you were doing this 32 years ago when I was, and almost nobody was awake, and the globalists were just incrementally, but at an accelerated rate, taking all of our freedoms away and building this hell world to see how far we've come to wake people up and to get major resistance going.
+[00:22:37.839 --> 00:22:39.599]  It's just incredibly positive.
+[00:22:39.839 --> 00:22:41.519]  And I'm so thankful to God.
+[00:22:42.479 --> 00:22:47.679]  But that said, big events like this Iran war and the attempt at gaslighting that it's not a war.
+[00:22:47.919 --> 00:22:49.119]  When Trump's like, yeah, it's a war.
+[00:22:49.439 --> 00:22:50.079]  Well, assert it.
+[00:22:50.159 --> 00:22:52.959]  No, It's not a war for legal reasons.
+[00:22:53.279 --> 00:23:02.879]  All that crap pisses off Trump's supporters because we're the good guys and we know what you said and we know what you stand for and we know why people voted for you.
+[00:23:03.519 --> 00:23:13.119]  The number one thing people told me in the streets, black, white, Hispanic, old, young, immigrants that were citizens, you name it, was he will stop World War III.
+[00:23:13.519 --> 00:23:14.719]  He won't go to war with Iran.
+[00:23:14.879 --> 00:23:16.239]  He'll stop the war with Russia.
+[00:23:16.559 --> 00:23:18.159]  That wasn't about the economy.
+[00:23:18.319 --> 00:23:18.799]  That was second.
+[00:23:18.959 --> 00:23:19.519]  That was second.
+[00:23:19.759 --> 00:23:20.799]  Then third was the border.
+[00:23:21.039 --> 00:23:27.999]  Was stop war, secure the border, fix the economy.
+[00:23:28.959 --> 00:23:36.079]  Well, he's done the border thing, not the deportation yet because they're scaling up, but they're doing a great job there as well for what they had.
+[00:23:37.279 --> 00:23:40.719]  But that's where I stand on this, and I'm going to move on.
+[00:23:40.879 --> 00:23:44.719]  And the reason I explain that every day is that's the big debate raging everywhere.
+[00:23:45.039 --> 00:23:46.559]  And we have new listeners shooting in all the time.
+[00:23:46.639 --> 00:23:49.519]  So I just want to be 100% clear where we are, what I stand for.
+[00:23:49.839 --> 00:23:57.599]  And I took probably 30 phone calls yesterday on the special Saturday show, and pretty much everybody agreed with me and said that was their view.
+[00:23:57.679 --> 00:24:04.319]  I mean, it's a pragmatic view, makes sense, and it's a reality-based view, and it's just where we are.
+[00:24:04.639 --> 00:24:14.959]  But there's a lot of money and a lot of people, a lot of groups trying to either make you be mindless and don't engage Trump when he's wrong so the bad elements can control him and the administration.
+[00:24:15.279 --> 00:24:23.119]  So there's that arm saying just go away, don't ask questions, or you're a traitor, and then attacking anybody that sticks their head up by Tucker Carlson, myself, or others.
+[00:24:23.439 --> 00:24:26.399]  Then you got the other groups saying, no, Trump's pure evil.
+[00:24:26.639 --> 00:24:28.079]  He's in on it with them all.
+[00:24:28.319 --> 00:24:29.759]  He's out to get you.
+[00:24:30.319 --> 00:24:32.239]  You know, anybody supporting him is an idiot.
+[00:24:32.559 --> 00:24:34.079]  You were always wrong to support him.
+[00:24:34.319 --> 00:24:41.919]  The Democrats are great when we know the Democrats are literally psychotic, pedophile demons, complete lying frauds.
+[00:24:42.239 --> 00:24:48.799]  I mean, they're just, they have just converted purely into just massive, absolute corruption.
+[00:24:49.119 --> 00:24:49.679]  All right.
+[00:24:50.559 --> 00:24:51.919]  We're going to go to break in a few minutes.
+[00:24:52.079 --> 00:24:54.399]  And when I come back, I'm running to the big news.
+[00:24:54.719 --> 00:24:55.759]  U.S. intelligence.
+[00:24:55.919 --> 00:25:02.799]  And I don't mean like the 51 spies that said the laptop, you know, Hunter wasn't real or said Trump was a Russian spy and lied about it.
+[00:25:03.039 --> 00:25:05.439]  I'm talking about the better people they've got in.
+[00:25:05.679 --> 00:25:09.919]  Tulsi Gabbard, Trump asked for a report from intelligence agencies about Iran.
+[00:25:10.239 --> 00:25:12.159]  The military asked for it as well.
+[00:25:12.479 --> 00:25:15.279]  They brought the report to him a week before saying, here's all the problems.
+[00:25:15.439 --> 00:25:16.399]  We recommend you don't do it.
+[00:25:16.719 --> 00:25:20.000]  The chairman of the Joint Chiefs had the military analysis, same thing.
+[00:25:21.199 --> 00:25:24.159]  And so did Eric Prince telling Trump, please don't do this.
+[00:25:24.479 --> 00:25:25.359]  This is what's going to happen.
+[00:25:25.759 --> 00:25:27.599]  They're not going to fall in a couple days.
+[00:25:27.919 --> 00:25:29.919]  And then you're going to be committed to this.
+[00:25:32.079 --> 00:25:48.399]  And now you've got the U.S. and Israel, as I told you on Tuesday, even before that, preparing to send in special forces in the name of securing their nuclear stockpiles.
+[00:25:48.719 --> 00:25:51.439]  Yeah, that's, you talk about a suicide mission.
+[00:25:51.759 --> 00:25:57.759]  That's be a lot tougher than Venezuela to get inside those bunkers and those mountains.
+[00:25:58.079 --> 00:26:00.959]  I mean, that is just a death trap.
+[00:26:01.279 --> 00:26:08.799]  And if you want, I can get a bunch of famous Delta Force people on that have done stuff like this and who did train to go into these very places.
+[00:26:09.119 --> 00:26:12.559]  And I guarantee you, they will tell you exactly what I'm telling you because I've been talking to them.
+[00:26:12.879 --> 00:26:16.239]  I don't just get up here and tell you how this is going to go from my own brain.
+[00:26:16.559 --> 00:26:20.559]  I go and talk to the experts at the highest levels and the boots on the ground levels.
+[00:26:20.799 --> 00:26:23.919]  And they're getting the 82nd Airborne ready to go in to take over the Strait of Hormuz.
+[00:26:24.079 --> 00:26:25.839]  Does that sound like in and out to you?
+[00:26:25.999 --> 00:26:27.679]  No, it sounds like a damn quagmire.
+[00:26:27.839 --> 00:26:28.479]  We'll be right back.
+[00:26:28.559 --> 00:26:29.599]  Stay with us.
+[00:26:32.799 --> 00:26:40.559]  Now, the United States does have a lot of exotic weapons, but those don't always operate perfectly in a lot of these different theaters.
+[00:26:40.639 --> 00:26:52.399]  And Iran, compared to Venezuela, I mean, their on-the-ground troops are 10 times better than the Cubans and the Venezuelans.
+[00:26:52.479 --> 00:26:54.559]  I mean, that's a conservative way of saying it.
+[00:26:55.359 --> 00:27:04.719]  And we already had the disastrous Delta Force raid just because of high winds back in 79, 80.
+[00:27:05.679 --> 00:27:08.959]  And of course, they've gotten a lot better and have better equipment since then.
+[00:27:09.839 --> 00:27:16.399]  But Axios is now reporting, and they've got the White House just loves to tell them everything.
+[00:27:17.919 --> 00:27:23.039]  Intel report warns large-scale war unlikely to oust Iran regime.
+[00:27:23.999 --> 00:27:30.559]  That again was a report put out through the Office of National Intelligence with the other intelligence agencies' information.
+[00:27:31.199 --> 00:27:35.279]  Leaked spy report warns Trump Iran war faces disasters.
+[00:27:35.919 --> 00:27:37.119]  That's what they call it.
+[00:27:37.439 --> 00:27:40.559]  So you won't remove them, no matter how many of them you kill.
+[00:27:42.399 --> 00:27:43.919]  It doesn't matter.
+[00:27:44.239 --> 00:27:45.999]  You can go read it all for yourself.
+[00:27:46.319 --> 00:27:50.959]  Meanwhile, Trump tells UK Starmer thanks, but no thanks on last-minute Iran help.
+[00:27:51.279 --> 00:27:53.119]  War is already won.
+[00:27:54.639 --> 00:27:55.279]  The war.
+[00:27:55.439 --> 00:27:57.119]  I thought it's not a war.
+[00:27:59.679 --> 00:28:02.879]  So we're going to get into more of what's happening and unfolding there.
+[00:28:03.199 --> 00:28:06.799]  But again, I study war doctrine.
+[00:28:06.959 --> 00:28:08.239]  I study these situations.
+[00:28:08.639 --> 00:28:10.639]  I look at what the experts are saying.
+[00:28:11.439 --> 00:28:20.559]  The chairman of the Joint Chiefs, Kane, who is a patriot and pro-Trump, was so concerned, he used one of the officers under him.
+[00:28:20.639 --> 00:28:21.199]  This has been confirmed.
+[00:28:21.279 --> 00:28:34.319]  It's why he hasn't been disciplined to leak it to the New York Times and others that days before that top intel and the military was warning Trump against this.
+[00:28:35.919 --> 00:28:37.199]  They'd never leaked before.
+[00:28:37.359 --> 00:28:39.039]  They didn't leak an operation.
+[00:28:40.239 --> 00:28:43.759]  They did that trying to get Trump not to do it.
+[00:28:45.919 --> 00:28:50.959]  And Trump thought, and Israel told him, that they would fall, they thought, within four days.
+[00:28:52.559 --> 00:28:53.599]  They said two to four days.
+[00:28:53.679 --> 00:28:54.239]  That's come out now.
+[00:28:54.399 --> 00:28:56.799]  I told you back at the time because I know the plans they're telling him.
+[00:28:57.199 --> 00:29:01.439]  It's the same garbage they tried eight, nine years ago, Trump.
+[00:29:02.399 --> 00:29:03.599]  Because we know these battle plans.
+[00:29:03.679 --> 00:29:05.439]  They just run them again and again and again.
+[00:29:06.319 --> 00:29:11.279]  So all these people that attacked me said I was full of crap and I'm a pannikin.
+[00:29:11.599 --> 00:29:18.799]  I'm just agreeing with Eric Prince and the chairman of the Joint Staff and Tulsi Gabbard's Intel report where they went and asked the experts what they thought.
+[00:29:19.439 --> 00:29:21.599]  But you see, I don't need to go listen to them.
+[00:29:21.759 --> 00:29:23.759]  I already study it and agree with them.
+[00:29:27.279 --> 00:29:29.679]  So that's where we are.
+[00:29:30.319 --> 00:29:38.480]  And it is just beyond frustrating to see people out there saying, oh, well, the Iranians are celebrating.
+[00:29:38.559 --> 00:29:41.119]  And yeah, undoubtedly, the Mulas are unpopular.
+[00:29:41.759 --> 00:29:43.039]  And yeah, there's people out in the streets.
+[00:29:43.119 --> 00:29:44.000]  That's great.
+[00:29:44.639 --> 00:29:52.159]  We cannot continue to be committed to things that, even if they're sure things, really violate the Constitution.
+[00:29:52.799 --> 00:29:53.919]  I've studied it.
+[00:29:54.240 --> 00:30:01.599]  And we could definitely go take out Maduro, blockade their ships, because that's been done.
+[00:30:01.679 --> 00:30:02.799]  It's in the Constitution.
+[00:30:03.039 --> 00:30:08.000]  It was done by the founding fathers, the third president, Thomas Jefferson, the Barbary Wars.
+[00:30:08.079 --> 00:30:11.039]  I mean, I understand the Monroe Doctrine, all of that stuff.
+[00:30:11.679 --> 00:30:22.480]  And I said, this is the first time I can, with concern, say, yes, you can do this constitutionally, Trump, but it could go bad, but who knows?
+[00:30:22.799 --> 00:30:23.359]  We'll see.
+[00:30:23.519 --> 00:30:24.639]  And it went extremely well.
+[00:30:24.959 --> 00:30:27.599]  And I said at the time, I said, it's gone well.
+[00:30:28.240 --> 00:30:29.759]  Incredible execution, you name it.
+[00:30:29.839 --> 00:30:31.519]  Nobody killed on our side.
+[00:30:32.719 --> 00:30:35.759]  So far, it looks like Venus Well is getting stabilized.
+[00:30:35.839 --> 00:30:36.480]  This is happening.
+[00:30:36.799 --> 00:30:39.759]  I've talked to people in the military and others that are going in.
+[00:30:40.719 --> 00:30:50.159]  But I said, will this hype Trump up to then feel emboldened, where he had instincts not to do giant military operations against powerful countries and to be offensive in nature?
+[00:30:50.480 --> 00:30:56.799]  Will this spur him to start listening to people who are the minority, but are there in his ear telling him, no, no, no, we can do this.
+[00:30:56.959 --> 00:30:57.919]  Let's do this.
+[00:31:00.719 --> 00:31:02.480]  What is this footage you're showing?
+[00:31:04.719 --> 00:31:08.159]  Oh, the Iran protest in New York.
+[00:31:08.319 --> 00:31:08.559]  All right.
+[00:31:08.639 --> 00:31:09.519]  Thank you.
+[00:31:10.799 --> 00:31:12.559]  So let's now go to this.
+[00:31:12.879 --> 00:31:19.599]  U.S. Explorer's high-risk plan to seize Iran's nuclear stockpile and potential gateway to ground troops.
+[00:31:22.639 --> 00:31:27.839]  U.S. slash Israeli joint force going in to, quote, secure the nuclear material.
+[00:31:29.519 --> 00:31:31.919]  Only way you could do it is to get in there and blow it up.
+[00:31:32.159 --> 00:31:36.159]  I mean, how are they going to send in soldiers to grab warehouses and stuff?
+[00:31:37.359 --> 00:31:40.399]  No, it's just a cover to get our troops in so we're committed.
+[00:31:40.719 --> 00:31:46.960]  Just like back in the Kurds to go in out of Iraq and Syria and give them air cover and then, oh, they killed our advisors.
+[00:31:47.119 --> 00:31:51.679]  This is how they always rope us into full war, how they rope presidents into full war.
+[00:31:52.319 --> 00:31:56.639]  So, yes, U.S. Way sending special forces to seize Iran's nuclear stockpile.
+[00:31:56.960 --> 00:31:59.599]  Axios reported according to high-level White House sources.
+[00:31:59.919 --> 00:32:01.679]  The White House is floating the idea now.
+[00:32:02.720 --> 00:32:11.039]  The United States and Israel are boasting of having effectively achieved total air superiority over Iran's guys.
+[00:32:11.599 --> 00:32:17.599]  But that presents yet another question as to what the end game will be.
+[00:32:17.919 --> 00:32:23.519]  The Allies have, as one key goal, securing Iran's stockpile of highly enriched uranium.
+[00:32:23.679 --> 00:32:29.839]  But the real goal is regime change, most of which may be buried deep under or destroyed nuclear sites.
+[00:32:30.079 --> 00:32:31.119]  And it goes on.
+[00:32:31.440 --> 00:32:39.519]  Axios reports on one plan, which many see as but a gateway to the introduction of ground troops.
+[00:32:40.079 --> 00:32:40.319]  Yeah.
+[00:32:41.279 --> 00:32:48.399]  A prospect President Trump has repeatedly said won't happen and which would be deeply unpopular among the American people.
+[00:32:48.639 --> 00:32:50.720]  The problem is he said we never go to full war with Iran.
+[00:32:50.799 --> 00:32:51.599]  Now we are.
+[00:32:52.240 --> 00:33:05.119]  The U.S. and Israel have discussed sending special forces into Iran to secure its stockpile of highly enriched uranium at a later stage of the war, according to four sources with knowledge of the discussions.
+[00:33:05.279 --> 00:33:06.159]  Oh, the war.
+[00:33:06.399 --> 00:33:08.399]  But remember, it's not a war, we're told.
+[00:33:09.039 --> 00:33:11.759]  So this is crazy.
+[00:33:13.919 --> 00:33:16.799]  Tomorrow, I'm going to open the phones up for military.
+[00:33:19.200 --> 00:33:25.279]  I'm going to see if I can get some of the former Delta Force guys that trained and trained and trained and trained for this.
+[00:33:25.759 --> 00:33:27.599]  Also, some SEAL Team 6 did.
+[00:33:27.679 --> 00:33:34.799]  I know some of those people that I know, you know, trained for this and North Korea.
+[00:33:36.319 --> 00:33:37.519]  Actually, trained for that.
+[00:33:38.159 --> 00:33:39.599]  And just the stuff that leaked about it.
+[00:33:39.679 --> 00:33:40.639]  I never talked about the specifics.
+[00:33:40.720 --> 00:33:50.720]  It's just, you know, vehicles that look like the Batmobile, and then they drop them down in there, and then they go in and try to blow it all up from inside.
+[00:33:50.879 --> 00:33:52.319]  I mean, it is a suicide mission.
+[00:33:52.559 --> 00:33:57.759]  And they were two inches from Trump launching this against North Korea until North Korea backed down.
+[00:33:58.079 --> 00:33:59.919]  I mean, it's just wild.
+[00:34:01.200 --> 00:34:02.480]  This is a big, thick report.
+[00:34:02.639 --> 00:34:04.159]  You should go read all this for yourself.
+[00:34:04.480 --> 00:34:12.960]  And you should go read what's in the national intelligence report that they've released about what Trump was told this would do and how dangerous it is.
+[00:34:13.279 --> 00:34:15.440]  And it's everything I've told you and more.
+[00:34:16.400 --> 00:34:25.599]  U.S. Ways sending special forces to seize Iran's nuclear stockpile, preventing Iran from ever obtaining a nuclear weapon is one of Trump's stated war objectives.
+[00:34:26.880 --> 00:34:44.559]  But how do they go do it when they're dropping 10,000-pound bombs, 20,000-pound bombs on these bunkers?
+[00:34:45.199 --> 00:34:51.519]  I mean, it would take an engineering company a month to dig in there and get the stuff out.
+[00:34:51.840 --> 00:34:52.800]  What is this magic?
+[00:34:52.960 --> 00:34:55.679]  Let's send in Delta Force and they'll go.
+[00:34:55.840 --> 00:34:58.639]  I mean, they'll just go in there and they'll get it.
+[00:34:59.119 --> 00:35:09.360]  Well, no, what they're really talking about is they've got all these other cash sites hidden here, hidden there, to innovate-looking places that have the enriched uranium.
+[00:35:09.599 --> 00:35:12.000]  Oh, they have the bomb-making material, as I told you for years.
+[00:35:12.240 --> 00:35:15.519]  And that's why their leaders last week said, Oh, we can make a bomb in a week.
+[00:35:15.760 --> 00:35:20.400]  We can test one in a week, which I, from my information, know they can.
+[00:35:20.720 --> 00:35:27.119]  And then again, listeners go, How dare you support Netanyahu and the neocons that claim they have material for a bomb?
+[00:35:27.440 --> 00:35:28.880]  That part is true.
+[00:35:29.920 --> 00:35:33.760]  I told you that 15 years ago, they don't always lie, okay?
+[00:35:35.039 --> 00:35:37.679]  Just like Israel says they don't have nukes, but they do.
+[00:35:39.199 --> 00:35:45.679]  So, yes, some of what I say bolsters Trump's argument because some of what Trump is saying is based in reality.
+[00:35:45.840 --> 00:35:47.199]  He believes he's doing the right thing.
+[00:35:47.519 --> 00:35:50.320]  The point is, you won't ever be able to get it all now.
+[00:35:50.639 --> 00:35:52.720]  They could buy it from somebody else.
+[00:35:53.039 --> 00:36:02.320]  The weapons are proliferated all over the place, and this is a trap for regime change, Trump, which you now admit, and you can't get that done 90-plus percent chance.
+[00:36:02.480 --> 00:36:10.639]  The Pentagon assessment and the intelligence agency's assessment, which I told you about, listeners, which they now admit mainstream is.
+[00:36:10.800 --> 00:36:13.440]  Okay, so that's it.
+[00:36:14.079 --> 00:36:18.159]  I just report the facts, not what I want to believe.
+[00:36:19.760 --> 00:36:24.880]  If the Moolis could be disappeared to the Phantom Zone and Iran could be free, that would be very nice.
+[00:36:25.199 --> 00:36:32.159]  If we can see Cuba reformed, gosh, I've always wanted to go to Cuba when it's free, and they'd sure build it up nice.
+[00:36:32.240 --> 00:36:37.119]  And it was sure nice, I'm told, before the commies took over in 59 and wrecked it.
+[00:36:37.440 --> 00:36:42.880]  That said, unless they're attacking us, we don't have a right to go in there and do that.
+[00:36:43.519 --> 00:36:47.199]  And they have been attacking us through Venezuela, through Mexico, and you see what Trump's doing.
+[00:36:47.519 --> 00:36:52.240]  And you see the fact that I have tacitly supported it with provisos.
+[00:36:53.519 --> 00:36:56.639]  You know, there's a Tim Dillon piece where he had two experts on.
+[00:36:57.199 --> 00:37:03.840]  I don't normally air big pieces of somebody else's show, but these guys say it's so good and so well, and it's all accurate.
+[00:37:04.159 --> 00:37:09.039]  It's a 30-minute interview and called it an emergency broadcast and an ode to us.
+[00:37:09.599 --> 00:37:13.280]  But I'm tempted at the start of the next hour to air a bunch of it.
+[00:37:13.599 --> 00:37:14.079]  You know what?
+[00:37:14.159 --> 00:37:14.800]  I'm going to do it now.
+[00:37:15.039 --> 00:37:16.720]  I'm not going to hear 30 minutes of it.
+[00:37:16.960 --> 00:37:20.320]  The first six, seven minutes is just, I mean, it is.
+[00:37:21.519 --> 00:37:24.000]  And the guests he's got are great researchers.
+[00:37:24.320 --> 00:37:30.079]  Everything they're saying is established and known about why this is so crazy.
+[00:37:30.400 --> 00:37:32.880]  And the psychology they talk about with Trump is true.
+[00:37:33.199 --> 00:37:36.960]  Trump really believes he's doing the right thing.
+[00:37:37.599 --> 00:37:39.840]  But it is like being in a casino here.
+[00:37:40.800 --> 00:37:42.880]  And the more he wins, the more he thinks he's going to win.
+[00:37:42.960 --> 00:37:45.679]  But notice it's not going the way he thought it would now.
+[00:37:47.599 --> 00:37:55.199]  So let's go to this Tim Dillon Iran emergency broadcast.
+[00:37:56.960 --> 00:37:58.960]  Take notes on this because what they're saying is very accurate.
+[00:37:59.039 --> 00:38:02.080]  Then I've got a bunch of clips, a bunch of the news, the tie to this.
+[00:38:02.960 --> 00:38:04.480]  I'm going to play the JD Vance.
+[00:38:05.840 --> 00:38:08.480]  We are establishing a new world order.
+[00:38:09.120 --> 00:38:11.440]  And then he elaborates the old world order.
+[00:38:11.600 --> 00:38:13.039]  That was the globalist new world order.
+[00:38:13.120 --> 00:38:13.600]  They called it.
+[00:38:14.080 --> 00:38:17.440]  He's saying, no, no, no, we're setting up a new new world order.
+[00:38:17.760 --> 00:38:20.320]  And that's the debate here: what's that going to be?
+[00:38:20.960 --> 00:38:21.120]  Okay.
+[00:38:21.440 --> 00:38:25.519]  That doesn't mean JD Vance is the old globalist new world order.
+[00:38:25.840 --> 00:38:27.360]  And I'm not an apologist for this.
+[00:38:27.600 --> 00:38:34.480]  When you read the documents, how they communicate, how these ambassadors talk, how these technocrats talk.
+[00:38:34.800 --> 00:38:38.320]  Well, I mean, you saw it when they were saying the old order has been destroyed.
+[00:38:38.640 --> 00:38:40.160]  A new order is forming.
+[00:38:40.480 --> 00:38:43.680]  In that vacuum, Trump is trying to assert U.S. dominance.
+[00:38:44.000 --> 00:39:09.680]  And if the new order means no carbon taxes and free market and no income tax and secured borders and not launching offensive wars and strength through peace and banning transgenderism with the kids, which he was moving to do and did a lot of, then I'm all for the new political order that's based on freedom and a multipolar world where we don't establish total dominance through brainwashing and the CIA.
+[00:39:10.640 --> 00:39:17.120]  And I've got a clip of the Khaled Schwab's New World Order versus the new order, but there isn't a new order yet.
+[00:39:17.840 --> 00:39:18.960]  It's all up for grabs.
+[00:39:19.120 --> 00:39:21.039]  That's why the world's so dangerous right now.
+[00:39:21.360 --> 00:39:24.000]  Because there's always going to be some system of order.
+[00:39:24.480 --> 00:39:29.360]  Even when you have anarchy for a few days, it settles into warlords in just a few weeks to months.
+[00:39:29.680 --> 00:39:35.120]  So into this vacuum with the old globalist order falling, what will the new world order be?
+[00:39:36.080 --> 00:39:42.800]  Not one with the world government, not one with globalists, not one with social credit scores, not one with forced transhumanism.
+[00:39:43.120 --> 00:39:48.000]  If I have anything to say about it, and I know you have the same views as well.
+[00:39:48.320 --> 00:39:52.480]  So let's go to some of this powerful Tim Dylan analysis.
+[00:39:53.440 --> 00:39:55.600]  Ladies and gentlemen, welcome to the Tim Dylan show.
+[00:39:56.160 --> 00:40:00.400]  We have two great reporters here that I'm really excited to have on.
+[00:40:00.560 --> 00:40:09.120]  We have Ryan Grimm, who's returning from Dropsite News, and Jeremy Scahill, who's the author of Dirty Wars, also a great documentary.
+[00:40:10.400 --> 00:40:16.720]  Jeremy, first to you, you've looked at a lot of different conflicts that the United States has been involved in.
+[00:40:18.000 --> 00:40:23.680]  What makes this unique as a challenge?
+[00:40:24.240 --> 00:40:25.760]  Forget the morality of being there.
+[00:40:25.840 --> 00:40:28.080]  We're going to get to that in a moment.
+[00:40:28.400 --> 00:40:31.519]  But do you think we're winning this war?
+[00:40:31.840 --> 00:40:33.600]  And if not, why not?
+[00:40:34.240 --> 00:40:37.200]  And why didn't George W. Bush do this?
+[00:40:37.360 --> 00:40:39.519]  I mean, why has no other president done this?
+[00:40:39.760 --> 00:40:42.480]  I mean, this is seemingly a unique situation.
+[00:40:42.720 --> 00:40:44.160]  Because the military told him not to.
+[00:40:44.480 --> 00:40:49.680]  I think generals told Trump that before we went in, yet he went in anyway.
+[00:40:50.000 --> 00:40:54.640]  In your estimation, why is this so incredibly difficult?
+[00:40:56.079 --> 00:41:15.360]  Yeah, I mean, first of all, Tim, like you mentioned the Bush era, and I think one of the factors here that is kind of extraordinary is that Dick Cheney and the Bush team, they also were sort of lawless gangsters when it came to like respect for the Constitution and basic civil liberties and congressional procedures regarding war.
+[00:41:15.680 --> 00:41:23.920]  But they look like, you know, sort of constitutional law scholars compared to what the Trump administration is doing on issues of war powers, etc.
+[00:41:24.559 --> 00:41:35.119]  And, you know, one factor here that I think really has to be emphasized is that the leadership of the Democratic Party, they completely sat on their hands in the whole buildup to this.
+[00:41:35.200 --> 00:41:37.280]  Trump was telegraphing that it was going to happen.
+[00:41:37.599 --> 00:41:39.680]  They didn't have any kind of a public debate on it.
+[00:41:40.000 --> 00:41:42.480]  The gang of eight gets briefed by Marco Rubio.
+[00:41:42.639 --> 00:41:47.840]  All of these guys know that this thing is imminent and they delay a vote on the War Powers Act.
+[00:41:48.000 --> 00:41:49.200]  Now, it wouldn't have passed anyway.
+[00:41:49.360 --> 00:41:54.800]  Like they wouldn't, you know, the Democrats, enough of them are in full support of this that it wouldn't have actually difference, Tim.
+[00:41:55.200 --> 00:41:57.920]  Back up everything they say this whole 30-minute interview.
+[00:41:58.079 --> 00:41:59.200]  Like, I'm going to post it on X.
+[00:41:59.360 --> 00:42:00.079]  I forgot to.
+[00:42:01.440 --> 00:42:02.720]  I mean, just hear the whole thing tomorrow.
+[00:42:02.960 --> 00:42:03.840]  It's all dead on.
+[00:42:03.920 --> 00:42:04.159]  Exactly.
+[00:42:04.240 --> 00:42:05.119]  They're setting Trump up.
+[00:42:05.280 --> 00:42:09.599]  If they get what they want and Israel gets what they want and they get regime changed, then that's good.
+[00:42:09.920 --> 00:42:11.519]  This was part of the old globalist plan.
+[00:42:11.840 --> 00:42:13.119]  They got Trump doing their dirty work.
+[00:42:13.200 --> 00:42:18.079]  But when it goes sideways and it's a big disaster, that hurts Trump and America.
+[00:42:18.320 --> 00:42:19.519]  And they like that plan too.
+[00:42:19.760 --> 00:42:22.000]  So see, they can't lose on this.
+[00:42:22.880 --> 00:42:24.159]  That's why I said it's a gamble.
+[00:42:24.240 --> 00:42:35.440]  That's why Saturday morning I went on air eight, nine days ago when it started, and I said, listen, I wasn't for this, but now that it started, I hope they fall in four days like they think they can do.
+[00:42:35.599 --> 00:42:36.480]  I don't think it's going to happen.
+[00:42:36.800 --> 00:42:41.519]  But once they don't fall, get out, declare victory, Trump, because I wanted them to see that and know I was right.
+[00:42:41.680 --> 00:42:43.440]  And they paid attention to it.
+[00:42:43.760 --> 00:42:44.880]  I said, it's a setup.
+[00:42:44.960 --> 00:42:46.000]  You're walking into a trap.
+[00:42:46.159 --> 00:42:47.280]  What did Stuart Rhodes say?
+[00:42:47.440 --> 00:42:48.159]  Same thing.
+[00:42:48.800 --> 00:42:57.039]  I know Stuart Rhodes talks with a country accent, wears a cowboy hat, but he won awards at Yale and has been a top lawyer on military tactics and everything.
+[00:42:57.119 --> 00:42:58.079]  He knows what he's talking about.
+[00:42:58.559 --> 00:42:59.920]  But so do all the other experts.
+[00:43:00.159 --> 00:43:01.200]  This is what we do.
+[00:43:01.440 --> 00:43:01.760]  Okay.
+[00:43:02.480 --> 00:43:10.800]  So we're like, this is like, everyone's telling him, don't do this, except these politicians and globalists and the Saudi Arabians, the Israelis, and the rest of it.
+[00:43:11.039 --> 00:43:16.559]  Because what do they care if it hurts America and makes Trump look like an idiot, gets a bunch of troops killed, jacks up prices?
+[00:43:16.720 --> 00:43:18.400]  The bankers want us to go bankrupt.
+[00:43:18.720 --> 00:43:20.320]  They don't want the Trump plan to work.
+[00:43:20.559 --> 00:43:24.639]  Ludnick set him up with the tariffs and wrote the executive order wrong.
+[00:43:27.519 --> 00:43:33.440]  The Supreme Court justices that voted for Trump said this is constitutional, except your executive order was written wrong.
+[00:43:34.079 --> 00:43:34.559]  Who did that?
+[00:43:34.720 --> 00:43:39.599]  Ludnick, who bet against it and bet for it to fail so he'd make billions.
+[00:43:39.760 --> 00:43:44.079]  Ludnick, they are setting Trump up while they take us to the cleaners.
+[00:43:44.720 --> 00:43:46.000]  And I didn't just start saying that.
+[00:43:46.240 --> 00:43:49.280]  I had Kyle Serafit on 12 months ago.
+[00:43:49.599 --> 00:43:50.639]  Trump was only in a few months.
+[00:43:50.720 --> 00:43:52.480]  And Serafin said, I know how they work.
+[00:43:52.639 --> 00:43:53.519]  They're setting him up.
+[00:43:53.680 --> 00:43:54.639]  They're giving him bad advice.
+[00:43:54.800 --> 00:43:55.119]  Watch.
+[00:43:55.200 --> 00:43:58.480]  This will be what brings down his administration if he doesn't get it and get it fast.
+[00:43:58.800 --> 00:44:00.400]  And that was a theory to me then.
+[00:44:00.560 --> 00:44:01.680]  I knew they were trying it.
+[00:44:01.840 --> 00:44:03.840]  Now that is their nomenclature.
+[00:44:04.080 --> 00:44:05.360]  That is their play.
+[00:44:10.160 --> 00:44:13.360]  And if we don't yell and scream, they're going to send in ground troops, folks.
+[00:44:14.000 --> 00:44:17.360]  And when we lose a whole bunch of troops, you know how we are over here.
+[00:44:18.000 --> 00:44:20.320]  People are going to get pissed off and demand total regime change.
+[00:44:20.480 --> 00:44:24.640]  And then they're having discussions of hitting Iran with nuclear weapons.
+[00:44:25.920 --> 00:44:31.840]  And then in every study, that has a very good chance of dragging in Russia and China and North Korea.
+[00:44:32.080 --> 00:44:33.360]  Heaven help us, people.
+[00:44:33.680 --> 00:44:35.680]  Can you not feel the danger?
+[00:44:36.000 --> 00:44:37.440]  We are not in Kansas anymore.
+[00:44:37.680 --> 00:44:39.280]  Get rid of your normalcy bias.
+[00:44:39.440 --> 00:44:41.200]  We're in the fourth turning.
+[00:44:42.400 --> 00:44:54.880]  Doing stuff like this is like pouring gasoline all over your house, 50 gallons of it, pouring gasoline all over yourself, and then getting a packet of matches out and playing with them like you're about to strike it.
+[00:44:55.200 --> 00:44:58.000]  Oh, oh, just half a millimeter away.
+[00:44:59.040 --> 00:44:59.920]  Like, ooh.
+[00:45:00.880 --> 00:45:02.080]  And then you go too close.
+[00:45:04.480 --> 00:45:08.320]  It's like having a monkey with a flamethrower running around a fireworks factory.
+[00:45:10.800 --> 00:45:14.080]  I told you this years ago, and it's been intense the last few months.
+[00:45:14.160 --> 00:45:17.680]  All these elites are running down to Chile and a bunch of other places.
+[00:45:17.760 --> 00:45:22.240]  They got armored fortresses up because that won't get hit by as much radiation.
+[00:45:22.560 --> 00:45:25.200]  They got bunkers up near the Arctic Circle.
+[00:45:25.520 --> 00:45:31.200]  They got, and it came out in the news today that a bunch of Trump administration people are buying bunkers for themselves.
+[00:45:34.400 --> 00:45:36.560]  I mean, this isn't this any game, people.
+[00:45:36.640 --> 00:45:36.800]  Okay.
+[00:45:37.360 --> 00:45:39.600]  I don't just say stuff like this to make it sound scary.
+[00:45:39.760 --> 00:45:42.480]  I mean, every damn thing I'm saying, I know what I'm talking about.
+[00:45:44.080 --> 00:45:48.560]  And the loonies over in Israel, Netanyahu, and them, they just want their greater Israel.
+[00:45:48.640 --> 00:45:50.800]  They want their greater power, so they don't care.
+[00:45:51.120 --> 00:45:51.920]  All right, I'm sorry.
+[00:45:52.240 --> 00:45:53.680]  Back to back to Tim Dillon.
+[00:45:55.200 --> 00:46:00.320]  But the point of it is that that's where an actual debate happens, where like members of Congress have to go on the record.
+[00:46:00.640 --> 00:46:12.400]  And so the Democrats sort of cynically exploited this because a lot of them actually want regime change in Iran and support the agenda, but they also hope that, you know, Trump screws it up and it becomes bad for him electorally.
+[00:46:12.720 --> 00:46:16.880]  But on a tactical level, the U.S. is approaching, this answers your question.
+[00:46:17.200 --> 00:46:32.160]  The U.S. administration is approaching this like it's going to be Venezuela, that they're going to be able to just lop off, you know, the leadership in Iran, cut a deal with the number, whatever they're on now, number 10, you know, ranking guy, and then Trump's going to sort of own the oil and go in there.
+[00:46:32.800 --> 00:46:39.200]  Or they're talking about it sort of like Libya, where you take out Muammar Gaddafi, then you have ground forces that are working with you.
+[00:46:39.520 --> 00:46:41.040]  They've completely misread this.
+[00:46:41.200 --> 00:46:45.680]  Iran has been building horizontal institutions since 1979.
+[00:46:46.000 --> 00:46:51.360]  It is not just a dictatorship of one and you kill the supreme leader and all of a sudden the state collapses.
+[00:46:51.600 --> 00:46:57.840]  This is a multi-decade project with cross-sections of society running security, the economy.
+[00:46:58.160 --> 00:47:05.040]  There's also a religious dedication on the part of some of their largest security forces that is not wed to one individual.
+[00:47:05.360 --> 00:47:09.520]  And so I think what we're seeing is that Trump's people are talking about this like a sporting event.
+[00:47:09.840 --> 00:47:12.160]  Certainly the U.S. has overwhelming firepower.
+[00:47:12.480 --> 00:47:20.880]  You know, Pete Hegseth, who's sort of drinking buddy as defense secretary, is, you know, is really braggadocious, you know, and arrogant in the way he's talking about it.
+[00:47:21.200 --> 00:47:24.960]  The Iranians are, we were told that they were basically wiped out.
+[00:47:25.120 --> 00:47:27.040]  Trump's saying 60%, 64%.
+[00:47:27.920 --> 00:47:39.120]  Last night, after Pete Hegseth held a press conference saying the Iranian attacks are abating, the Iranians launched some of their most ferocious attacks at U.S. targets throughout the Middle East.
+[00:47:39.440 --> 00:47:41.040]  They did heavy bombing of Israel.
+[00:47:41.280 --> 00:47:50.000]  What's clear is that the Iranians actually have succeeded in targeting a number of high-end U.S. radar systems that are their early detection.
+[00:47:50.320 --> 00:47:53.280]  And so you're starting to see more Iranian hits on bases.
+[00:47:54.080 --> 00:48:02.960]  I think that the U.S. death toll quite probably could rise, but the idea that you're just going to overthrow this government is a massive miscalculation.
+[00:48:03.280 --> 00:48:09.040]  And if they want to do that, they're going to have to send in 100,000 plus American troops, and then it's going to be an utter bloodbath.
+[00:48:09.200 --> 00:48:09.840]  So what does that mean?
+[00:48:10.000 --> 00:48:20.240]  It means at the end of the day, the only winner here is sort of the agenda of Israel, because I don't think Netanyahu so much cares who comes into power in Iran as much as he wants that state shattered.
+[00:48:20.480 --> 00:48:22.400]  He wants to convert it into a failed state.
+[00:48:22.720 --> 00:48:25.120]  He wants the U.S. to bomb their conventional military.
+[00:48:25.360 --> 00:48:32.640]  He wants to ensure that there is no nation state with a real military capable of serving as a deterrent against Israel's agenda.
+[00:48:32.960 --> 00:48:36.320]  Ryan, what do you think?
+[00:48:37.200 --> 00:48:38.320]  Donald Trump is there.
+[00:48:38.480 --> 00:48:42.800]  A lot of what Jeremy said is sort of, has had to be known to generals.
+[00:48:43.120 --> 00:48:45.440]  The military is telling Donald Trump this.
+[00:48:45.600 --> 00:48:47.680]  They're telling him it's going to be difficult.
+[00:48:48.000 --> 00:48:49.440]  I mean, that was even leaking out.
+[00:48:49.600 --> 00:48:52.480]  They were saying things like, this is not a cakewalk.
+[00:48:53.360 --> 00:48:56.960]  Why does he pull the trigger and decide to go in?
+[00:48:57.120 --> 00:49:11.520]  I mean, from your reporting, why do they take out the spiritual leader of a Muslim country during Ramadan and expect that then the entire regime is going to corrupt?
+[00:49:12.240 --> 00:49:14.640]  There's a few more minutes of this on air and then I'm going to get to the other news.
+[00:49:14.800 --> 00:49:15.120]  Okay.
+[00:49:15.440 --> 00:49:20.320]  And then I'm going to ask the question about Jared Kushner and all of this.
+[00:49:21.280 --> 00:49:23.200]  And is Jared Kushner the Antichrist?
+[00:49:23.440 --> 00:49:29.840]  And I'm not saying that as a joke, and I'm not saying he is, but I've seen some really interesting things about him that are confirmed.
+[00:49:30.000 --> 00:49:31.520]  Wait till you see this.
+[00:49:32.960 --> 00:49:34.160]  This is some wild stuff.
+[00:49:34.480 --> 00:49:35.520]  Talk about red meat stuff.
+[00:49:35.680 --> 00:49:46.720]  I don't just do conspiracy stuff, even though they say I'm the conspiracy guy, but I'm just going to show what he's up to in these groups they're funding to create this messianic end times end of the world thing scenario in like a few decades.
+[00:49:47.040 --> 00:49:50.000]  And how Jared Kushner's involved all of it at every level.
+[00:49:50.480 --> 00:49:52.320]  And then the weirdness he's involved in.
+[00:49:52.480 --> 00:49:54.160]  Well, just wait till you see this.
+[00:49:55.840 --> 00:49:56.800]  We're going to go to break.
+[00:49:56.880 --> 00:49:57.680]  We're going to come back.
+[00:49:58.000 --> 00:49:59.120]  I've got so much other news.
+[00:49:59.280 --> 00:50:01.519]  The whole new world order thing by JD Vance, what does that mean?
+[00:50:01.680 --> 00:50:02.559]  I know exactly what it means.
+[00:50:02.640 --> 00:50:03.360]  I'll tell you.
+[00:50:04.080 --> 00:50:09.840]  But just remember, we've got this big weekend sale that goes through Monday night at midnight.
+[00:50:09.920 --> 00:50:11.200]  That's tomorrow, March 9th.
+[00:50:11.360 --> 00:50:16.960]  50% off ultramethylene blue capsules, the highest quality, absolutely insane with that for your whole body.
+[00:50:17.280 --> 00:50:22.320]  And when you get it for 50% off, you can also get a great deal on the methylene blue liquid tincture.
+[00:50:22.400 --> 00:50:24.480]  It's the exact same product, just not in capsules.
+[00:50:24.880 --> 00:50:31.120]  We also have the March mega sale, up to 40% off on all our other best-selling products, runs to the 17th.
+[00:50:31.440 --> 00:50:38.800]  The NAD, the Ultimate Burn, Life Force, Irish CMOS, and of course, Chili, and so much more.
+[00:50:39.120 --> 00:50:41.600]  And the widest selection of Patriot Apparel that funds our operation.
+[00:50:41.680 --> 00:50:45.680]  Thanks for your support as we battle for pro-humanity and against tyranny.
+[00:50:45.840 --> 00:50:46.480]  Can't do it without you.
+[00:50:46.559 --> 00:50:47.600]  The authorstore.com.
+[00:50:47.680 --> 00:50:49.120]  We'll be right back with hour number two.
+[00:50:51.760 --> 00:50:52.960]  All right, hour number two.
+[00:50:53.120 --> 00:50:54.240]  I am so loaded with news.
+[00:50:54.400 --> 00:51:02.880]  It's going to be absolutely jam-packed, but I wanted to finish up a little bit more of Tim Dillon and these really smart, expert reporter guests laying out the facts about why this is so dangerous.
+[00:51:03.200 --> 00:51:04.320]  And this was about two days ago.
+[00:51:04.400 --> 00:51:05.440]  I saw it yesterday.
+[00:51:05.760 --> 00:51:09.360]  Now everything they talk about has even come true in tell reports.
+[00:51:09.680 --> 00:51:11.840]  Trump warned one week before by the Pentagon.
+[00:51:11.920 --> 00:51:12.880]  This is confirmed now.
+[00:51:13.200 --> 00:51:17.360]  And by the Office of National Intelligence about how dangerous this was.
+[00:51:17.920 --> 00:51:19.039]  And he went ahead with it.
+[00:51:19.120 --> 00:51:22.080]  And just like they told him, they're doing the best job they can.
+[00:51:22.720 --> 00:51:24.080]  It hadn't made the moolis fall.
+[00:51:24.160 --> 00:51:24.720]  Maybe it will.
+[00:51:24.880 --> 00:51:25.519]  I hope so.
+[00:51:25.840 --> 00:51:32.960]  I'm not going to cry about it, but the Pentagon is ready to go to war, but not if they don't think it's going to get the objective.
+[00:51:33.280 --> 00:51:33.519]  Okay.
+[00:51:34.080 --> 00:51:35.840]  So let's go back to Tim Dillon.
+[00:51:37.120 --> 00:51:37.920]  Support.
+[00:51:38.320 --> 00:51:42.800]  What pushes him into this in the 11th hour?
+[00:51:43.440 --> 00:51:50.240]  I think Trump has been told so many times that you can't do a certain thing.
+[00:51:50.560 --> 00:51:52.400]  And then he has done that thing.
+[00:51:53.039 --> 00:51:56.320]  And then it has gone fantastically for him.
+[00:51:56.640 --> 00:52:00.240]  And I think the latest one, to Jeremy's point, was Venezuela.
+[00:52:00.880 --> 00:52:12.320]  You can't just go into the country and grab the president and his wife and take them back out and not lose a single American service member and then just say that you run the country.
+[00:52:12.720 --> 00:52:13.600]  You can't do that.
+[00:52:14.480 --> 00:52:16.800]  It's not how things are done.
+[00:52:17.440 --> 00:52:18.640]  Yet he did that.
+[00:52:18.960 --> 00:52:23.519]  And from his perspective, it worked out phenomenally for him.
+[00:52:23.840 --> 00:52:26.400]  And he has said, I'm on a roll.
+[00:52:27.840 --> 00:52:28.560]  Let's hit Cuba.
+[00:52:28.880 --> 00:52:29.440]  I'm feeling good.
+[00:52:30.880 --> 00:52:34.240]  It's 3 a.m. in Vegas and he's feeling great.
+[00:52:34.880 --> 00:52:39.120]  And he's also been under enormous amounts of pressure from Israel.
+[00:52:39.440 --> 00:52:45.840]  And then you have the Secretary of State saying, well, we were definitely going to do it at some point.
+[00:52:46.000 --> 00:52:47.039]  No question about it.
+[00:52:47.920 --> 00:52:52.160]  But the reason we did it now is because we heard that Israel was going to do it.
+[00:52:52.480 --> 00:52:56.480]  We knew we would be attacked in response if Israel did that.
+[00:52:56.720 --> 00:53:01.200]  So we just decided we're going to go along with Israel and start this war now.
+[00:53:02.720 --> 00:53:07.520]  Not considering the other option of saying, hey, those are our weapons you're using.
+[00:53:08.080 --> 00:53:09.120]  How about you don't do that?
+[00:53:09.680 --> 00:53:21.120]  Yeah, it seems to me that this whole thing seems backwards, you know, in the sense that we're arming Israel and we're providing them the money to do this.
+[00:53:21.680 --> 00:53:42.560]  So how did we get to a point, and maybe Jeremy could jump in, how did we get to the point where the president of Israel is sitting in the Oval Office, and this is according to the Secretary of State, it's not a conspiracy theory, telling the president of the United States, we're going to do this with your money and weapons, whether you like it or not.
+[00:53:43.200 --> 00:54:01.920]  And suggesting, now this is the Secretary of State didn't say this, but there has been reporting and the credibility of it, you know, I think it's relatively credible that they had discussed potentially using unconventional or nuclear weapons at a certain point or a certain stage in the conflict.
+[00:54:02.240 --> 00:54:17.280]  How do we get to this point where the president of Israel is telling the president of the United States, we're doing this with your money anyway, and you better get on board to minimize the damage because if you don't get on board, perhaps we'll have to use nuclear weapons.
+[00:54:19.120 --> 00:54:46.880]  You know, sources we also talked to that had some degree of access to the decision-making process leading up to this war were saying that, you know, since the Venezuela operation, Tim, Trump started to like walk around opining, including in like intelligence briefings, that he wants to go down in history as the president that forever changed Iran, you know, that sort of avenged the 1979 revolution and the taking of the embassy.
+[00:54:47.040 --> 00:54:55.280]  And I think that he really got fluffed up by a lot of people that, you know, you're going to like experience greatness here and that we're going to run the deck.
+[00:54:55.600 --> 00:55:00.000]  You know, Trump won when he was first in the White House after that 2016 election.
+[00:55:00.320 --> 00:55:15.120]  Remember how the disdain he had for like John Bolton and the neocons and the deliberations that went into that one strike that Trump authorized at the Baghdad airport where they killed General Qasim Suleimani, you know, the head of the IRGC, the most elite force in Iran.
+[00:55:15.440 --> 00:55:15.760]  Absolutely.
+[00:55:15.920 --> 00:55:16.480]  Trump came down.
+[00:55:16.560 --> 00:55:18.720]  And the whole thing just as informative.
+[00:55:18.960 --> 00:55:20.000]  And that's the thing.
+[00:55:20.320 --> 00:55:23.520]  Trump said probably 100 times, this is wrong.
+[00:55:23.600 --> 00:55:24.880]  Don't go to full war.
+[00:55:25.200 --> 00:55:27.360]  It's a fool's errand and it hates the neocons.
+[00:55:27.520 --> 00:55:34.000]  Why is he suddenly embracing them and demonizing people like Tucker Carlson that are speaking common sense?
+[00:55:34.320 --> 00:55:35.360]  It's very destructive.
+[00:55:35.440 --> 00:55:36.080]  It's very concerning.
+[00:55:36.160 --> 00:55:37.280]  We'll be right back.
+[00:55:39.280 --> 00:55:42.320]  All over Iran, their oil refineries are burning.
+[00:55:42.480 --> 00:55:45.440]  There's black smoke across the country, acid rain.
+[00:55:47.840 --> 00:55:50.719]  And Trump has said he's just going to continue to escalate.
+[00:55:51.280 --> 00:55:53.840]  I read the Truth Social like three times on Aerostat.
+[00:55:54.079 --> 00:55:54.719]  It was so amazing.
+[00:55:55.039 --> 00:55:56.079]  Maybe we should read it again.
+[00:55:56.240 --> 00:55:57.199]  I mean, I have to say it.
+[00:55:57.280 --> 00:55:58.960]  It sounds like megalomania to me.
+[00:55:59.280 --> 00:56:03.679]  And I understand Trump wants to put pressure on them to make them give up, but it's in the CIA report.
+[00:56:03.840 --> 00:56:05.519]  It's in the Office of National Intelligence Report.
+[00:56:05.840 --> 00:56:11.679]  It's in the Pentagon reports because there's public versions of them that have been out before that this will only make these people fight harder.
+[00:56:12.000 --> 00:56:25.679]  It is the way they are, and they are absolutely decentralized when it comes to continuing to fight because they've got half the country super extremist Shiites.
+[00:56:28.240 --> 00:56:36.240]  And so Trump says, hey, this will last 20 years if it needs to, which I believe we took Syria for 16 years to get them.
+[00:56:36.880 --> 00:56:39.360]  And he says, we may have to completely destroy you.
+[00:56:40.639 --> 00:56:42.880]  Or maybe this country collapses.
+[00:56:46.079 --> 00:56:48.079]  Let me just read it for radio listeners.
+[00:56:48.960 --> 00:56:50.880]  Iran is no longer the bully of the Middle East.
+[00:56:51.039 --> 00:56:59.360]  They are instead the loser of the Middle East and will be for many decades until they surrender or more likely completely collapse.
+[00:56:59.679 --> 00:57:05.280]  Today, Iran will be hit very hard under serious consideration for complete destruction.
+[00:57:06.960 --> 00:57:08.880]  That's complete destruction.
+[00:57:09.199 --> 00:57:16.559]  Today, Iran will be hit very hard under serious consideration for complete destruction and certain death.
+[00:57:16.880 --> 00:57:17.920]  He didn't say the regime.
+[00:57:18.000 --> 00:57:19.679]  He didn't say he said Iran.
+[00:57:20.000 --> 00:57:22.639]  That doesn't sound too nice.
+[00:57:25.760 --> 00:57:40.159]  Under serious consideration for complete destruction and certain death because of Iran's bad behavior in areas and groups of people that were not considered to be targeted up until now, up to this moment in time.
+[00:57:40.480 --> 00:57:43.840]  Thank you for your attention to this manner, DJT.
+[00:57:45.440 --> 00:57:48.559]  So, yeah, I didn't vote for that.
+[00:57:49.199 --> 00:58:06.079]  And I am very concerned because instead of listening to his advisors that are experts and who are patriots, like Eric Prince, not a dove, not a liberal, instead, Trump's like, I'll do whatever it takes.
+[00:58:06.720 --> 00:58:13.920]  And I saw Israel putting out statements like, you don't know our commitment and resolve, and you don't know Trump's stubbornness, and we're still going to win.
+[00:58:15.440 --> 00:58:16.079]  Great.
+[00:58:17.039 --> 00:58:18.480]  So here we go.
+[00:58:22.320 --> 00:58:24.159]  And they're already talking about boots on the ground.
+[00:58:24.320 --> 00:58:25.840]  They're already funding the Kurds going in.
+[00:58:26.000 --> 00:58:27.920]  It is a disaster already.
+[00:58:28.880 --> 00:58:34.720]  And Trump could still declare victory like he did blow up their nuclear sites nine months ago and pull back.
+[00:58:35.039 --> 00:58:37.519]  And then he can always go get him again if he wants to.
+[00:58:37.679 --> 00:58:40.159]  But this is stupid.
+[00:58:40.480 --> 00:58:44.639]  And I know the majority of his advisors are telling him, stop.
+[00:58:44.960 --> 00:58:47.199]  But he has that degenerate gambler thing going on.
+[00:58:47.280 --> 00:58:47.840]  It's 3 a.m.
+[00:58:48.079 --> 00:58:50.079]  He's been winning, winning, winning at the tables.
+[00:58:50.400 --> 00:58:56.400]  And so he's sitting there at the casino at 3 a.m. gambling with our future and our lives.
+[00:58:56.719 --> 00:58:57.760]  And the deep state loves it.
+[00:58:57.920 --> 00:58:58.960]  If he's successful, they love it.
+[00:58:59.039 --> 00:59:00.639]  If he's not, it hurts Trump and America.
+[00:59:00.719 --> 00:59:01.280]  They love it.
+[00:59:01.599 --> 00:59:05.519]  They don't lose unless there's a nuclear war comes out of this.
+[00:59:06.400 --> 00:59:10.159]  So here's President Trump talking about, well, Iran's evil, so they deserve this.
+[00:59:10.639 --> 00:59:11.519]  Where have we heard that before?
+[00:59:11.760 --> 00:59:19.199]  But even if you say they're evil, which I agree their leadership is, you're probably not going to be successful getting rid of them with the whack-a-mole game.
+[00:59:22.400 --> 00:59:24.480]  Which again, I predicted.
+[00:59:24.800 --> 00:59:25.679]  Not you.
+[00:59:26.320 --> 00:59:27.119]  Not you.
+[00:59:28.320 --> 00:59:30.800]  Watch this and another one.
+[00:59:31.679 --> 00:59:32.480]  Keep them coming.
+[00:59:32.719 --> 00:59:33.920]  He's the thunderstruck.
+[00:59:34.400 --> 00:59:37.760]  And we will have gotten rid of a major, major cancer.
+[00:59:38.079 --> 00:59:41.119]  On the face of the earth, we will have taken out a cancer.
+[00:59:41.440 --> 00:59:43.199]  You know, don't forget October 7th.
+[00:59:43.360 --> 00:59:48.960]  Don't forget all of the things that have happened over the years, all caused by these people.
+[00:59:49.280 --> 00:59:56.480]  So what we're doing is a great thing, not only for our country and not only for Israel, not only for the Middle East, but for the world.
+[00:59:57.199 --> 00:59:58.000]  Not you.
+[01:00:02.480 --> 01:00:04.960]  Watch this and another one.
+[01:00:05.840 --> 01:00:06.639]  Keep him coming.
+[01:00:06.880 --> 01:00:07.920]  He's the thunderstorm.
+[01:00:10.000 --> 01:00:10.639]  All right.
+[01:00:12.240 --> 01:00:19.360]  Now, let's switch gears into JD Vance.
+[01:00:19.599 --> 01:00:26.320]  So JD Vance was just interviewed by Megan Kelly, and she talks about, so the old system is dead.
+[01:00:26.639 --> 01:00:27.199]  And what is that?
+[01:00:27.280 --> 01:00:33.920]  That's the EU with communist China, what's left of the British Empire, you know, the U.S. globalist system.
+[01:00:34.240 --> 01:00:35.440]  That means the carbon taxes.
+[01:00:35.599 --> 01:00:49.519]  That means the U.N. being in charge, the World Economic Forum calling the shots, BlackRock being in total control, the whole Bill Gates, Rothschild, Rockefeller, international neoliberal order that they had established, that they admit is totally in trouble.
+[01:00:49.679 --> 01:00:51.840]  Everybody's turning against him, regardless of Trump.
+[01:00:52.159 --> 01:01:02.239]  And Trump in policy has been totally ignoring them, doing whatever he wants, effectively getting out of the UN, getting out of the World Health Organization, effectively getting out of the World Trade Organization, making all our own decisions.
+[01:01:02.320 --> 01:01:03.599]  That's beautiful.
+[01:01:04.239 --> 01:01:08.320]  And you can say not going to the UN to get authorization to attack Iran.
+[01:01:09.280 --> 01:01:17.119]  I don't like the attack on Iran, but at one level, I like not getting anybody's permission because we as a sovereign nation can do what we believe is right.
+[01:01:17.440 --> 01:01:18.880]  And then history will judge us.
+[01:01:18.960 --> 01:01:20.960]  And we have to have a nuclear war.
+[01:01:21.039 --> 01:01:21.440]  We all die.
+[01:01:21.519 --> 01:01:22.400]  That's a big mistake we make.
+[01:01:22.639 --> 01:01:27.280]  But this clip went super viral.
+[01:01:27.360 --> 01:01:29.679]  And I had people tagging me to it saying, what do you say to this?
+[01:01:30.079 --> 01:01:31.119]  You like JD Vance.
+[01:01:31.360 --> 01:01:34.159]  Here he is saying he's for the new world order.
+[01:01:35.360 --> 01:01:39.599]  You have to go off what the policies are to decide if they're new world order.
+[01:01:40.240 --> 01:01:52.720]  And the Rockefellers and the globalists for 80 years have been calling this corporate British Empire, U.S. Empire, neoliberal system the new world order.
+[01:01:53.039 --> 01:01:55.119]  We're building a new world order.
+[01:01:55.440 --> 01:02:03.760]  And George Herbert Walker Bush in 1990 with Desert Shield and Desert Storm gave his famous speeches saying, this is about the U.N. running the world.
+[01:02:04.079 --> 01:02:06.400]  This is about the U.N. voting for us to do this.
+[01:02:06.720 --> 01:02:09.360]  This is about being able to take down nation states.
+[01:02:09.680 --> 01:02:13.920]  This is about a world government, a new world order.
+[01:02:15.200 --> 01:02:18.559]  That system is in free fall collapse.
+[01:02:19.200 --> 01:02:24.159]  So when you hear the old international order is dead from them, their new world order is dead.
+[01:02:24.480 --> 01:02:29.920]  You see Putin saying, we now have to work with other nations to build a new world order.
+[01:02:30.079 --> 01:02:32.320]  They're talking about the new international order.
+[01:02:32.639 --> 01:02:38.159]  But the public, when the globalists would talk about their plan, they were saying we control the world.
+[01:02:38.400 --> 01:02:41.680]  We're establishing a planetary government, our new world order.
+[01:02:41.920 --> 01:02:50.400]  So you call a new order, whoever it's run by, you could say America fighting off the British, creating the American system was a new world order.
+[01:02:50.720 --> 01:02:53.920]  The British wrote, if this continues, our empire will fall.
+[01:02:54.240 --> 01:02:54.639]  And it did.
+[01:02:54.800 --> 01:02:56.480]  It took 100 and some years.
+[01:02:57.760 --> 01:03:03.200]  But that's the point is a new boss, a new system.
+[01:03:04.079 --> 01:03:11.920]  And there's a lot of the old same globalist players in there trying to salvage this and repackage the old new world order as the new new world order.
+[01:03:12.240 --> 01:03:20.880]  And there's a big battle inside the Trump administration on how we form this new system because a new system is being formed.
+[01:03:21.519 --> 01:03:25.119]  And I don't just expose the globalist system and other systems, the communist systems.
+[01:03:25.360 --> 01:03:37.119]  I promote good ones and try to get the public to promote good systems, team America, team humanity, a system pro-God, pro-family, pro-natalist, pro-expansion.
+[01:03:37.440 --> 01:03:38.320]  That's what I always explain.
+[01:03:38.480 --> 01:03:40.240]  We can't just oppose the globalist order.
+[01:03:40.400 --> 01:03:55.760]  We have to promote other systems and popularize those so that we can fill the vacuum with our new world order that isn't a centralized global government, but is nation states working together towards common aims and promoting freedom and justice and soft power.
+[01:03:56.720 --> 01:04:10.720]  So JD Vance did a really good job at some of these big conferences he's been at in the last year in Europe to their faces saying you're a tyranny, you arrest people, you're pro-Islam takeover, you're anti-free speech, you're trying to control us, you're a tyrant, Starmer, you're a tyrant.
+[01:04:12.159 --> 01:04:13.119]  All of them.
+[01:04:13.760 --> 01:04:27.680]  He explains how we're coming into the vacuum of the old order and trying to affect the setup of the new international setup that's not globalist and centralized, but has America at its heart.
+[01:04:28.240 --> 01:04:33.920]  Because if we aren't at the heart of it, the CHICOMs in alliance with the EU will be with the new system coming out.
+[01:04:34.800 --> 01:04:37.680]  So this is a real battle over the future.
+[01:04:38.480 --> 01:04:40.480]  But a lot of people aren't that sophisticated.
+[01:04:40.800 --> 01:04:44.720]  They don't study this like I've had for 35, almost 40 years.
+[01:04:45.039 --> 01:04:50.800]  And they just see him talking about a new world order and they go, oh my God, they're admitting the new world order.
+[01:04:51.440 --> 01:04:54.080]  Xi Jinping says there's a new world order.
+[01:04:54.240 --> 01:04:58.640]  The old world order has collapsed and China will dominate the new world order with bricks.
+[01:04:58.960 --> 01:05:02.880]  Putin says there is a new world order that's multipolar.
+[01:05:03.680 --> 01:05:07.840]  They're using the academic terms of political scientists.
+[01:05:08.480 --> 01:05:11.840]  But the public would just hear me talk about new world order.
+[01:05:13.039 --> 01:05:16.160]  And then as soon as they hear someone say new world order, they go, Alex Jones was right.
+[01:05:16.320 --> 01:05:18.320]  They're talking about a new world order.
+[01:05:19.280 --> 01:05:33.680]  The globalists were getting rid of nation states, rid of the family, rid of informed consent, rid of our freedoms, bringing in a tyranny, medical tyranny, world ID, world vaccine passport controlled by the UN.
+[01:05:34.640 --> 01:05:37.440]  That system is collapsing.
+[01:05:38.400 --> 01:05:42.640]  We now are debating what the new new world order will be.
+[01:05:45.120 --> 01:05:49.200]  And again, the name just deals with the international and national system.
+[01:05:49.840 --> 01:06:06.640]  Like when the Roman Empire fell in 410, a new world order formed, which was decentralized, little nation states, the destruction of knowledge, the destruction of mobility, and a thousand-year dark age.
+[01:06:08.880 --> 01:06:13.200]  That was the new world order with the fall of the Roman Empire.
+[01:06:14.160 --> 01:06:21.680]  And the total peak of the dark ages with the fall of Constantinople.
+[01:06:26.560 --> 01:06:31.280]  Almost a thousand years out of that.
+[01:06:31.760 --> 01:06:32.640]  It's just amazing.
+[01:06:32.800 --> 01:06:42.880]  So what it means is spiritually for the world, the birth of Christ, the death of Christ was a new world order spiritually.
+[01:06:44.240 --> 01:06:44.800]  Understand?
+[01:06:45.360 --> 01:06:54.000]  Columbus discovering America, or at least discovering it to commercialize it, particularly Lee Ferricks and others, that was a new world order for North America.
+[01:06:54.320 --> 01:06:55.519]  A revolution.
+[01:06:55.840 --> 01:06:58.640]  The globalist revolution, they called their new world order.
+[01:06:58.720 --> 01:07:00.160]  I know I've explained this 15 times.
+[01:07:00.320 --> 01:07:12.320]  I know most of you understood the first time or before, but I'm trying to go to the sheep that aren't as smart, you know, and I'm trying to get them to understand what I'm saying so they can grasp this.
+[01:07:12.960 --> 01:07:18.560]  So first, let's play a clip of the new world order system under the globalists.
+[01:07:18.640 --> 01:07:24.800]  That's clip 91 versus the new world order that JD Vance is talking about.
+[01:07:25.760 --> 01:07:35.920]  And the battle is about who will put their will, their ideology, their money, their time into the new system that's being built as the old system goes out here in the fourth turning.
+[01:07:36.079 --> 01:07:37.199]  So here's the clubs.
+[01:07:39.679 --> 01:07:44.097]  Actually, young nobelians of the world, we penetrate the cabinets.
+[01:07:44.597 --> 01:07:46.818]  The change is not just happening.
+[01:07:47.358 --> 01:07:51.697]  The change can be shaped by us.
+[01:07:52.018 --> 01:07:54.818]  We have to prepare for a more angry world.
+[01:07:55.259 --> 01:07:59.659]  How to prepare takes the necessary action to create the feral world.
+[01:08:01.039 --> 01:08:03.119]  I see the need for a great reset.
+[01:08:03.599 --> 01:08:11.039]  So people assume we are just going back to the good old world, which we had, and everything will be normal again.
+[01:08:11.360 --> 01:08:13.920]  This is, let's say, fiction.
+[01:08:14.239 --> 01:08:15.279]  It will not happen.
+[01:08:15.759 --> 01:08:19.199]  There is only one way this pandemic is going to go.
+[01:08:19.680 --> 01:08:21.199]  What's happening culturally in Europe?
+[01:08:21.359 --> 01:08:23.119]  What's their crackdowns on free speech?
+[01:08:23.439 --> 01:08:25.279]  They just look less and less like we do.
+[01:08:25.920 --> 01:08:30.800]  And there's a real question about whether there's a massive shift happening now in terms of world alliances long term.
+[01:08:31.039 --> 01:08:32.960]  Well, it's definitely, I think, a new world order.
+[01:08:33.119 --> 01:08:34.159]  I think the president has sought to.
+[01:08:34.399 --> 01:08:35.519]  There's a new world order in trade.
+[01:08:35.840 --> 01:08:41.920]  There's a new world order in globalization and the way that we invest in our economy versus foreign supply chains.
+[01:08:42.399 --> 01:08:46.239]  There's a new world order and that the president is willing to shake up some old alliance structures.
+[01:08:46.319 --> 01:08:50.720]  I mean, NATO, I think, is much different because of the president's leadership than it was 10 years ago.
+[01:08:50.960 --> 01:08:51.680]  Sort of coasting.
+[01:08:51.920 --> 01:08:54.319]  It was effectively a protectorate of the United States of America.
+[01:08:54.640 --> 01:08:56.159]  Obviously, you saw what happened in Venezuela.
+[01:08:56.239 --> 01:09:01.840]  So, yeah, the president is putting a stamp on world history, but fundamentally in an America-first way.
+[01:09:04.000 --> 01:09:10.640]  So there's a new world order where we're trying to have an America first and bring jobs back and not be sold out to the globalists.
+[01:09:10.960 --> 01:09:12.720]  That's everything I always wanted.
+[01:09:13.039 --> 01:09:16.559]  That's a new world order that we're promoting.
+[01:09:16.720 --> 01:09:28.000]  Now, with Trump going sideways with this Iran stuff and things, there's a big battle about do we just give the old New World Order a new paint job and a facelift?
+[01:09:28.159 --> 01:09:29.359]  Is that what's really happening?
+[01:09:29.680 --> 01:09:32.079]  Well, until recently, no, it was real change.
+[01:09:32.239 --> 01:09:34.079]  I mean, just killing the carbon taxes alone.
+[01:09:34.319 --> 01:09:36.880]  I just, it's, it's, it's so good.
+[01:09:37.199 --> 01:09:41.840]  But let me say it this way.
+[01:09:46.800 --> 01:10:00.960]  The United States reasserting its dominance, the United States making its own decisions, the United States bringing jobs back, the United States standing up for itself and not having the government directing the media to demonize the very existence of the country is the major fundamental change.
+[01:10:01.279 --> 01:10:06.640]  And Trump doing economic plans that make a lot of sense that really are for the average person, like no tax on tips.
+[01:10:06.960 --> 01:10:26.720]  That is what a good government does versus the globalist represented internationally by King Charles at the local level by people like Gavin Newsom that literally want to sabotage civilization with Cloud and Piven and want to destroy the old system to bring in their anti-human austerity new world order.
+[01:10:27.279 --> 01:10:36.720]  When they say they wanted a new world order, they mean kill the old system that had some checks and balances and was at least on the surface pro-human and had a social contract.
+[01:10:37.039 --> 01:10:47.760]  The attempt at eugenics and dumbing down and destroying civilization and making austerity be baked into what the government's based on and depopulation, that system's going out.
+[01:10:48.079 --> 01:10:53.760]  And we're attempting to bring in a new system that's about national sovereignty, freedom, and justice.
+[01:10:55.359 --> 01:10:57.439]  And that was the promise of Trump.
+[01:10:57.760 --> 01:10:59.359]  And that's why it was so special.
+[01:10:59.680 --> 01:11:01.840]  And that's why I fought so hard for him.
+[01:11:02.159 --> 01:11:04.159]  And we've got so much done.
+[01:11:05.760 --> 01:11:13.439]  And that's why it's so sad to see him increasingly now siding with the bad guys in just the last three months or so.
+[01:11:13.760 --> 01:11:16.880]  It's moving very, very quickly.
+[01:11:17.199 --> 01:11:30.000]  And if he continues on this trajectory, if he keeps making these evil decisions, what are we supposed to do?
+[01:11:30.159 --> 01:11:38.239]  I mean, oppose it, say he's bad, he's been compromised, but then you don't go not vote for local congressman that's voting against stuff Trump's wanting.
+[01:11:38.800 --> 01:11:46.960]  That's why Trump's more worried about good Republicans that don't go along with him because if that's the real power there.
+[01:11:47.279 --> 01:11:53.039]  And if the Republican Congress really did its job, they would be more popular than ever.
+[01:11:53.359 --> 01:11:54.880]  More of them would be elected.
+[01:11:55.199 --> 01:12:00.159]  And then it wouldn't matter what Trump did because the power of the people through Congress would be manifest.
+[01:12:00.479 --> 01:12:01.600]  And that's what I want.
+[01:12:01.920 --> 01:12:04.560]  Don't go vote Democrat because you're mad at what Trump's doing.
+[01:12:04.800 --> 01:12:06.640]  Don't take your ball and go home.
+[01:12:07.279 --> 01:12:10.640]  Don't say you're going to just be independent now.
+[01:12:10.800 --> 01:12:13.119]  That's exactly what they want.
+[01:12:13.680 --> 01:12:16.640]  And I'm glad James Woods clarified all that.
+[01:12:16.960 --> 01:12:19.840]  Now, if you say I'm done, I'm going to vote Democrat because you're mad.
+[01:12:20.000 --> 01:12:20.800]  I'm not mad at you.
+[01:12:20.880 --> 01:12:22.640]  You're allowed to have your opinion.
+[01:12:23.840 --> 01:12:28.000]  You know, this whole thing where you criticize Trump, you're a traitor.
+[01:12:28.319 --> 01:12:31.840]  Or if you don't just attack Trump all day, you're an agent.
+[01:12:32.000 --> 01:12:33.039]  It's pure crap, folks.
+[01:12:33.199 --> 01:12:36.000]  The political class does not want you engaged.
+[01:12:36.319 --> 01:12:37.920]  You're all lobbyists, too.
+[01:12:38.479 --> 01:12:40.079]  You got to go talk to congresspeople.
+[01:12:40.399 --> 01:12:41.760]  You've got to go to town halls.
+[01:12:42.000 --> 01:12:43.840]  You've got to donate money to political campaigns.
+[01:12:44.159 --> 01:12:45.279]  You've got to educate your family.
+[01:12:45.439 --> 01:12:46.960]  You've got to knock on doors.
+[01:12:47.279 --> 01:12:51.519]  You've got to do all those things and support the talk show hosts and journalists that get the truth out.
+[01:12:51.680 --> 01:12:52.479]  This is a war.
+[01:12:52.640 --> 01:12:53.680]  Freedom isn't free.
+[01:12:53.920 --> 01:12:58.000]  The Muslims, 90 plus percent of them give to major political campaigns.
+[01:12:58.319 --> 01:13:01.760]  The average good old boy, maybe 5% give to campaigns.
+[01:13:02.399 --> 01:13:09.760]  The lowest voting rate is farmers and ranchers and hunters.
+[01:13:10.399 --> 01:13:11.199]  And you know why?
+[01:13:11.519 --> 01:13:21.680]  They live in town and work at the refinery and the wife's got a job at the school and they just live out on the 40 acres and got some horses and hell, they want to go ride jet skis and go hunting.
+[01:13:21.760 --> 01:13:22.399]  And you know what?
+[01:13:22.720 --> 01:13:33.920]  America's going to be just fine, you know, because you're out there on the 40 acres and you got the American flag and you're good people and you go to church and, yeah, you're not, you know, America's never going to, you know, and I love you.
+[01:13:34.000 --> 01:13:34.720]  I know who you are.
+[01:13:35.039 --> 01:13:36.320]  It's where I come from.
+[01:13:37.280 --> 01:13:41.039]  But while you sit out there and think everything's okay, everything's burning down.
+[01:13:41.200 --> 01:13:42.560]  It ain't okay, brother.
+[01:13:44.800 --> 01:13:59.520]  So those people are the real problem because there's more of you than there are the scumbags, but you won't come out of your shell because, well, we're going to watch the game tonight in real stakes.
+[01:13:59.680 --> 01:14:00.560]  I mean, we work hard.
+[01:14:00.720 --> 01:14:01.920]  We go to church.
+[01:14:02.160 --> 01:14:03.200]  I mean, come on.
+[01:14:03.760 --> 01:14:06.080]  Yeah, dogged Alex, we got to have a little fun around here.
+[01:14:06.160 --> 01:14:07.280]  There's a rodeo tomorrow.
+[01:14:07.440 --> 01:14:11.520]  I can't go to that town hall or I can't donate money to that political thing.
+[01:14:11.600 --> 01:14:12.960]  I can't get registered to vote.
+[01:14:13.120 --> 01:14:17.039]  I mean, you know, I served in the Army five years.
+[01:14:17.200 --> 01:14:18.000]  I'm done with this.
+[01:14:18.320 --> 01:14:20.800]  I deserve a little time out here in the country.
+[01:14:22.400 --> 01:14:23.760]  I got neighbors coming over.
+[01:14:24.400 --> 01:14:26.400]  I got to clean the swimming pool.
+[01:14:28.560 --> 01:14:31.920]  And because you won't get engaged, we're in deep shit.
+[01:14:33.200 --> 01:14:36.800]  Then you got all the black pill people that just everybody's an agent and everybody's screwed.
+[01:14:36.960 --> 01:14:37.760]  Nobody's real but them.
+[01:14:37.840 --> 01:14:40.320]  And we're all and they don't really know anything politically.
+[01:14:40.480 --> 01:14:42.160]  They try to bitch all day.
+[01:14:46.320 --> 01:14:48.720]  And go, look, JD Vance said New World Order.
+[01:14:48.880 --> 01:14:50.400]  He admits it's a global government.
+[01:14:50.720 --> 01:14:55.680]  No, he just said the U.S. running its own affairs, bringing jobs back, sovereignty.
+[01:14:59.840 --> 01:15:03.680]  But it's a cheap trick to say, look, JD Vance is New World Order now.
+[01:15:04.000 --> 01:15:10.240]  But I tell you, if JD Vance ever supports New World Order policies, I'll be against JD Vance.
+[01:15:12.800 --> 01:15:20.000]  But so far, when it comes to international operations, everything they've done is to destroy the old globalist order, including this war.
+[01:15:20.640 --> 01:15:25.520]  And that's the silver lining to this fiasco: they're like, we don't ask the UN for permission.
+[01:15:25.840 --> 01:15:38.160]  George W. Bush and his daddy's New World Order is all about the UN and going in and destroying countries and putting them under sanctions and starving their people to death.
+[01:15:40.400 --> 01:15:43.520]  And it's beautiful to have that repudiated.
+[01:15:45.440 --> 01:15:49.840]  All right, we're going to go to break here in a minute or so, and I'm going to come back with big Epstein updates.
+[01:15:50.080 --> 01:15:52.960]  Big stuff's broken that ties into this war.
+[01:15:53.280 --> 01:16:03.920]  Turns out Epstein was working with the CIA and LaSad to fund ISIS and Al-Qaeda.
+[01:16:05.120 --> 01:16:05.440]  Yeah.
+[01:16:06.800 --> 01:16:07.520]  Told you.
+[01:16:08.400 --> 01:16:09.200]  Told you.
+[01:16:09.760 --> 01:16:12.080]  What do you think the Rothschild ambassador does?
+[01:16:12.160 --> 01:16:12.880]  That's what he was.
+[01:16:13.200 --> 01:16:18.960]  What do you think the Rockefeller Trilateral Commission board member does?
+[01:16:19.600 --> 01:16:23.680]  He was, when David Rockefeller couldn't vote, he was a stand-in.
+[01:16:23.760 --> 01:16:25.920]  And when Rockefeller died, he was the guy.
+[01:16:26.240 --> 01:16:28.320]  Rockefeller founded the damn thing.
+[01:16:28.640 --> 01:16:30.880]  The Trilateral Commission and the UN.
+[01:16:33.760 --> 01:16:38.000]  He got the deal of Presidio and then the deal in New York to build the whole damn thing.
+[01:16:40.880 --> 01:16:44.160]  So we've got that when we come back.
+[01:16:44.720 --> 01:16:46.160]  It is massive.
+[01:16:46.720 --> 01:16:50.560]  And Jared Kushner is up to some very interesting behavior.
+[01:16:51.520 --> 01:17:06.240]  And he's been involved running around with these different groups that are trying to move to get the dome of the rock there in Jerusalem turned into the third temple, which the Muslims would go to war over.
+[01:17:07.120 --> 01:17:20.000]  And it's funny, some of the other things he's up to, like paying twice what it was worth to get that 666 building in New York.
+[01:17:20.320 --> 01:17:22.240]  People are saying he's the Antichrist.
+[01:17:22.560 --> 01:17:24.320]  I'm not saying he's the Antichrist.
+[01:17:24.960 --> 01:17:30.000]  But if you're one of the Antichrist top demons, though, you start building the nest for Daddy to land.
+[01:17:30.400 --> 01:17:32.960]  He's definitely getting ready for some evil stuff down the road.
+[01:17:33.120 --> 01:17:35.039]  Not now, but in the future.
+[01:17:35.360 --> 01:17:37.600]  When he's going to spread those black wings.
+[01:17:39.440 --> 01:17:50.240]  The globalist New World Order is euthanizing you and your family, putting poison in your food, water, fluoride, horse-feeding eglybosate to soak into the wheat right when it's being harvested.
+[01:17:50.560 --> 01:17:55.920]  The New World Order is demonizing the family, promoting LGBTQP, pedophile, Satanism everywhere.
+[01:17:56.240 --> 01:17:59.600]  It's global government run by the UN, the World Economic Forum, and BlackRock.
+[01:18:00.560 --> 01:18:08.000]  Trump's New World Order was national sovereignty, prosperity, and freedom and peace.
+[01:18:08.320 --> 01:18:12.800]  And he was doing a lot of things that were moving the ball that way and some things that weren't.
+[01:18:13.120 --> 01:18:14.720]  But it was so overwhelmingly good.
+[01:18:14.880 --> 01:18:17.280]  I was extremely positive.
+[01:18:17.920 --> 01:18:26.079]  And now I'm horrified because the turn of events, if he continues, as I said 80 times today, then it's bigger than just being upset with Trump.
+[01:18:26.640 --> 01:18:27.680]  It's a big problem.
+[01:18:28.000 --> 01:18:30.000]  But populism and the awakening is so great.
+[01:18:30.079 --> 01:18:31.120]  We just continue to move forward.
+[01:18:31.280 --> 01:18:33.440]  We don't bet everything on Trump.
+[01:18:34.400 --> 01:18:39.840]  We continue to inform people as we've been doing because freedom is popular and freedom is the only way.
+[01:18:41.680 --> 01:18:44.000]  Now, I have thought about talking.
+[01:18:45.920 --> 01:18:50.720]  I have thought for eight, nine years about saying what I'm about to say here today on air.
+[01:18:51.360 --> 01:19:03.600]  And I didn't do it previously just because I don't actually get into the weird esoteric stuff, the type of stuff people love.
+[01:19:04.480 --> 01:19:10.320]  So many times when other people cover something, then I kind of get the blame for covering it.
+[01:19:10.400 --> 01:19:12.400]  And it's not like I don't mind that.
+[01:19:12.720 --> 01:19:15.200]  It's just that I like to stick with what we've got.
+[01:19:15.680 --> 01:19:26.320]  Like we've got Jeffrey Epstein in a whole bunch of emails with the CIA, with Mossad, running ISIS, running Al-Qaeda, you know, getting him money, getting them weapons to destabilize countries.
+[01:19:27.200 --> 01:19:30.800]  And of course, as the top Parliamental Commission member, he would be doing things like that.
+[01:19:30.960 --> 01:19:33.440]  And there's new emails that they've dug out that are just incredible.
+[01:19:33.760 --> 01:19:35.760]  That's meat and potatoes.
+[01:19:37.280 --> 01:19:42.000]  But when you start getting into is Jared Kushner the devil or is he the Antichrist?
+[01:19:44.560 --> 01:19:45.680]  That's quite a headline.
+[01:19:45.840 --> 01:19:47.040]  I mean, that'll be viral right there.
+[01:19:47.120 --> 01:19:48.880]  But I don't just do that because it's viral.
+[01:19:49.040 --> 01:19:50.080]  I could do this stuff all day.
+[01:19:50.240 --> 01:19:50.960]  The whole series.
+[01:19:51.200 --> 01:19:52.400]  Is the Pope the Antichrist?
+[01:19:52.480 --> 01:19:53.600]  Is Trump the Antichrist?
+[01:19:53.760 --> 01:19:55.600]  Is this person the Antichrist?
+[01:19:56.880 --> 01:20:03.440]  And it's a super popular thing to discuss, but really it's overall diversion because I don't think the current Pope's the Antichrist or Trump.
+[01:20:03.760 --> 01:20:09.280]  That said, Jared Kushner's dad, if you look into him, really creepy, really weird.
+[01:20:09.600 --> 01:20:33.200]  You look at Kushner and the stuff he's involved in in the groups and paying double the money for the most expensive real estate in the world, you know, a building named 666 or at 666 and him always involved internationally with these globalists and all the peace deals, and then being involved with Google and the globalists undermining the first Trump administration.
+[01:20:33.520 --> 01:20:36.960]  I was very pleased early on that he was sidelined during the campaign.
+[01:20:37.280 --> 01:20:40.000]  They said he wasn't going to be big in the administration.
+[01:20:40.320 --> 01:20:46.240]  But the reality is he is in the administration heavily and he just flies under the radar.
+[01:20:48.080 --> 01:20:53.600]  And he just comes off as kind of a vampire-like character.
+[01:20:53.920 --> 01:20:55.200]  Rarely talks.
+[01:20:55.520 --> 01:20:57.280]  You know, when he does, it's very robotic.
+[01:20:57.520 --> 01:20:59.520]  He makes my skin crawl.
+[01:20:59.840 --> 01:21:01.680]  And then his actions do as well.
+[01:21:02.000 --> 01:21:12.560]  But I had already seen a lot of this eschatology biblical research before about him.
+[01:21:13.520 --> 01:21:15.280]  And I went and looked it up and it was accurate.
+[01:21:15.360 --> 01:21:19.680]  Plus, I already knew most of it biblically, so I knew it was accurate when I went and checked it.
+[01:21:20.560 --> 01:21:28.000]  But here's a young couple kind of joking around about it, but they do a good job covering it, other than the Cheshire Cat smiles on their faces.
+[01:21:28.960 --> 01:21:33.840]  Because, of course, they're saying, oh, we don't mean, you know, this to be mean or anything, but here it is.
+[01:21:34.480 --> 01:21:36.160]  Or we're not saying this is prophecy.
+[01:21:36.240 --> 01:21:37.520]  We're just saying here it is.
+[01:21:38.160 --> 01:21:52.800]  But when you look at everything Kushner's doing and everything he's involved in, and a few things they miss, he's been involved with the groups pushing the red heifer and its sacrifice and all that to bring in the third temple and the Jewish Messiah.
+[01:21:53.680 --> 01:21:59.680]  And a lot of the Christian Zionists think, get the third temple built because then it needs to be done for the Antichrist to come back.
+[01:22:00.320 --> 01:22:12.480]  And then you've also got the Antichrist before he launches all this and takes over the Third Temple and the rest of it, launches his career and sets up his base in Gaza.
+[01:22:14.320 --> 01:22:18.000]  And that he's the mayor of Gaza, which is basically how it's described in the Bible.
+[01:22:18.320 --> 01:22:22.000]  And now it's Kushner heading up the rebuilding and operation in Gaza.
+[01:22:23.280 --> 01:22:37.920]  And so you start adding all this together, and it made my skin crawl, made the hair on the back of my neck stand up last night when I saw this short little video of this couple, because you can check all of this and it's all true, and then more.
+[01:22:39.200 --> 01:22:42.320]  So, but I want to explain something about the Antichrist.
+[01:22:42.400 --> 01:22:44.720]  The Bible says there have been many Antichrists, but there's the final one.
+[01:22:44.800 --> 01:22:46.720]  There's an Antichrist spirit.
+[01:22:47.360 --> 01:22:52.720]  These people that are demonically inclined and involved in all this stuff, they mimic the Bible.
+[01:22:53.040 --> 01:22:58.160]  They believe that it's their master plan and that actually they're going to get power in the end.
+[01:22:58.400 --> 01:23:00.720]  So they actually fulfill the prophecy themselves.
+[01:23:01.040 --> 01:23:11.440]  So just because Kushner is running around trying to fulfill the prophecy and trying to push God to speed up his timeline, that's what the Christian Zionists are saying.
+[01:23:11.600 --> 01:23:13.120]  So they're teaching them in the military.
+[01:23:13.280 --> 01:23:18.080]  I'm all for the military to be Christian, but to teach them, no, no, we're speeding up the timeline.
+[01:23:18.160 --> 01:23:21.520]  We're pushing to make Christ come back.
+[01:23:21.840 --> 01:23:25.040]  We're pushing to go ahead and have the war with the Muslims now.
+[01:23:26.640 --> 01:23:29.760]  I say we can tain them and all the rest of it and let God work on his timeline.
+[01:23:30.080 --> 01:23:37.120]  Anybody thinking you're going to manipulate the timeline and you're going to make God show up like you're calling DoorDash, that's really dangerous.
+[01:23:37.200 --> 01:23:38.400]  And Christ talked about that a lot.
+[01:23:38.480 --> 01:23:43.920]  He said, anybody standing out here at the time, anybody that tells you they know what's going to happen, those people are of the devil.
+[01:23:44.240 --> 01:23:44.560]  Okay?
+[01:23:46.800 --> 01:23:49.520]  So I do not pretend to know God's master plan.
+[01:23:49.680 --> 01:23:57.040]  I can see it in hindsight, how the Lord works in mysterious ways and how something will be really terrible happening, but it's always in God's plan, even my own personal life.
+[01:23:57.200 --> 01:23:59.200]  So I've seen that my whole life.
+[01:23:59.280 --> 01:24:01.120]  So I have total trust in God.
+[01:24:02.400 --> 01:24:10.320]  But Jared Kushner undermined Trump, leaked on Trump, is a globalist, is deeply embedded.
+[01:24:10.640 --> 01:24:19.040]  And the doors are open to the Rothschilds, the Rockefellers, all the royalty, the Arabic royalty.
+[01:24:19.200 --> 01:24:21.120]  I mean, this is the guy.
+[01:24:21.760 --> 01:24:25.360]  And he's just involved.
+[01:24:25.520 --> 01:24:34.720]  I mean, I remember when he bought that building, 666 there in the most expensive street in the world, it wasn't even really for sale.
+[01:24:34.880 --> 01:24:36.000]  And he just said, I have to have it.
+[01:24:36.160 --> 01:24:37.760]  They said, okay, here's this price.
+[01:24:37.920 --> 01:24:39.360]  He said, yes, I want it.
+[01:24:40.320 --> 01:24:41.280]  666.
+[01:24:44.160 --> 01:24:48.160]  So this is creepy.
+[01:24:49.120 --> 01:24:56.800]  And I'm not saying he's the Antichrist, because I don't think he is, but he just oozes evil energy, though.
+[01:24:58.080 --> 01:25:08.240]  And the point is, if you've got a demon down here paving the way for the Antichrist, you're going to see it doing all this Antichrist work and say, is that the Antichrist?
+[01:25:08.480 --> 01:25:13.040]  I'd say, no, it's more like the Antichrist secretary.
+[01:25:14.960 --> 01:25:18.080]  But yes, Jared Kushner, I believe, is an agent of Satan.
+[01:25:18.400 --> 01:25:19.600]  Let's go to the club.
+[01:25:21.200 --> 01:25:26.160]  Whose face is on the temple coin for the third temple that's about to happen in Jerusalem?
+[01:25:26.400 --> 01:25:29.120]  King Cyrus and Donald Trump.
+[01:25:29.360 --> 01:25:30.240]  Who is King Cyrus?
+[01:25:30.400 --> 01:25:35.200]  King Cyrus is the Persian king who gave the right to Israel to rebuild their temple.
+[01:25:35.440 --> 01:25:39.440]  So Trump is basically fulfilling that same role as King Cyrus did.
+[01:25:39.760 --> 01:25:49.120]  And did you know that the Israel Heritage Foundation gave Donald Trump the Prince of Peace award after he brokered the Abraham Accords?
+[01:25:49.440 --> 01:25:54.960]  And then again in 2023, they gave him the crown of Jerusalem.
+[01:25:55.280 --> 01:25:58.000]  So he's making a lot of peace in the Middle East, right?
+[01:25:58.320 --> 01:26:07.440]  Are the people of Jerusalem expecting that Trump is going to herald in the rebuilding of the blasphemous third temple?
+[01:26:08.080 --> 01:26:08.720]  Yes.
+[01:26:09.360 --> 01:26:14.960]  The beast in Revelation has 10 horns, but one stands out among them all.
+[01:26:15.120 --> 01:26:17.520]  What is so special about the one horn?
+[01:26:17.840 --> 01:26:20.240]  It's boastful and speaks blasphemy.
+[01:26:20.560 --> 01:26:23.520]  And what does a horn generally symbolize?
+[01:26:23.840 --> 01:26:24.160]  A king.
+[01:26:24.320 --> 01:26:26.880]  And who is incredibly braggadocious and proud?
+[01:26:27.120 --> 01:26:28.400]  It's going to be the best wool ever.
+[01:26:28.800 --> 01:26:29.920]  Ever gonna see a temple like this?
+[01:26:30.240 --> 01:26:31.200]  It could never be done.
+[01:26:31.440 --> 01:26:32.720]  He said it could never be done.
+[01:26:33.360 --> 01:26:39.200]  But Donald Trump's name, if you use Gematria, doesn't add up to a special three-digit number, does it, Tati?
+[01:26:39.360 --> 01:26:39.840]  It does not.
+[01:26:40.080 --> 01:26:43.440]  That is why we are not making any crazy prophecy here.
+[01:26:43.600 --> 01:26:45.840]  We are just telling you what our two eyes see.
+[01:26:46.080 --> 01:26:57.680]  He is the crowned King Cyrus about to bring in the building of the Third Temple, which will bring in a certain three-digit number, which is the name.
+[01:26:57.840 --> 01:27:00.320]  The number equals the name of a man.
+[01:27:00.640 --> 01:27:06.800]  And what man is very close to Donald Trump who may have that number, Tati?
+[01:27:06.960 --> 01:27:20.080]  Mr. Jay Kushner, who was also integral in bringing about the Abraham Accords and is now the special envoy for the board of peace in the Middle East.
+[01:27:20.400 --> 01:27:23.680]  So you're saying that there's something going on with this Kushner guy.
+[01:27:23.760 --> 01:27:27.440]  Well, what building on Fifth Ave does he also own?
+[01:27:27.920 --> 01:27:31.520]  He owns 666 Fifth Avenue.
+[01:27:31.840 --> 01:27:32.400]  Wow.
+[01:27:32.720 --> 01:27:37.600]  The number one most expensive real estate purchase in American history.
+[01:27:37.840 --> 01:27:44.000]  He paid a lot of money for that specific building because he wanted that number because he knew that it was for his name.
+[01:27:44.320 --> 01:27:47.920]  Who is heading up the rebuilding of Gaza?
+[01:27:48.080 --> 01:27:49.280]  Jared Kushner.
+[01:27:49.600 --> 01:27:51.280]  Where is Gaza?
+[01:27:51.600 --> 01:27:54.400]  In between Jerusalem and the sea.
+[01:27:54.720 --> 01:28:01.920]  Where does Daniel 1145 say that the Antichrist will make his tent?
+[01:28:02.240 --> 01:28:04.560]  In between Jerusalem and the sea.
+[01:28:04.800 --> 01:28:05.920]  We're not making any claim.
+[01:28:06.160 --> 01:28:07.360]  This is not a prophecy.
+[01:28:07.680 --> 01:28:09.360]  I'm just saying, a lot of things are adding up.
+[01:28:09.600 --> 01:28:10.160]  A lot of things.
+[01:28:10.480 --> 01:28:11.200]  There's a lot of going on.
+[01:28:11.520 --> 01:28:12.400]  Things you want to believe.
+[01:28:12.560 --> 01:28:15.760]  They never thought we could add this many things up in such a short amount of time.
+[01:28:16.079 --> 01:28:18.560]  Maranatha, come back, Christ.
+[01:28:18.880 --> 01:28:21.360]  Also, you're not getting raptured.
+[01:28:22.640 --> 01:28:23.200]  All right.
+[01:28:23.520 --> 01:28:33.920]  So then I learned Kushr is heavily involved with the groups that want to build the third temple and want to sacrifice the red heifer, which they've actually already done.
+[01:28:34.800 --> 01:28:38.400]  They've got in Texas, unblemished, unyoked.
+[01:28:39.280 --> 01:28:41.520]  Red heifer, and they were pulled a plow.
+[01:28:42.079 --> 01:28:44.320]  And you could say, I don't believe in all this.
+[01:28:44.960 --> 01:28:52.000]  You have to understand the occultists believe in the Bible even more than most Christians, but they have this sick plan that they're actually going to win.
+[01:28:53.280 --> 01:29:01.840]  And so we have to look at this because the Pentagon is teaching a twisted version of Christianity.
+[01:29:02.160 --> 01:29:03.600]  It's all happening.
+[01:29:06.079 --> 01:29:07.840]  And you got Bill Maher endorsing the war.
+[01:29:08.079 --> 01:29:09.360]  I mean, come on, people.
+[01:29:09.680 --> 01:29:10.720]  Oh, Bill Maher's on board.
+[01:29:10.800 --> 01:29:11.280]  Isn't that great?
+[01:29:11.440 --> 01:29:11.680]  Yeah.
+[01:29:12.960 --> 01:29:16.000]  So here's one of the news reports on the Red Heifer.
+[01:29:16.960 --> 01:29:25.039]  Today we visited the Temple Institute in Yerushalaim, where dedicated experts are preparing the sacred vessels and garments for the future third base of Mikdash.
+[01:29:25.280 --> 01:29:30.800]  These items are ready to go, meaning it's built, and all we have to do is pick it up and put it onto Temple Mount.
+[01:29:30.880 --> 01:29:39.039]  And here they have designed and created all those items according to the halacha, according to how our Masorah explains everything to look.
+[01:29:41.760 --> 01:29:46.240]  Behind me is the grand priest, the Koenguddel's begatim, his clothing.
+[01:29:46.400 --> 01:29:49.200]  This full getup right here costs hundreds of thousands of dollars.
+[01:29:49.520 --> 01:29:56.160]  All these stones that go on the koshin, each one represents a different shave, onyx, sapphire.
+[01:29:56.320 --> 01:29:59.120]  These are extremely expensive rare stones that they found.
+[01:29:59.360 --> 01:30:03.120]  Imagine you're walking into the base of McDash and the Koinguddle walks out.
+[01:30:03.760 --> 01:30:07.200]  Yeah, this is a report actually on the third temple they want to build.
+[01:30:07.440 --> 01:30:09.120]  They got across the street at a display.
+[01:30:09.200 --> 01:30:10.000]  And I'm glad we played that.
+[01:30:10.079 --> 01:30:11.680]  It's a good mistake, pleasant mistake.
+[01:30:12.160 --> 01:30:15.920]  But let's actually go to the news report on the red heifer couch from Texas.
+[01:30:16.240 --> 01:30:17.840]  This is about a year and a half old.
+[01:30:17.920 --> 01:30:26.960]  They've now sacrificed the first one up on the temple they built, directly where the Old Testament says build it to then rebuild the third temple.
+[01:30:28.240 --> 01:30:38.560]  And of course, you got Christ predicting the destruction of the second temple before this generation ends, meaning 75 years, not one stone will be left unturned of your temple.
+[01:30:38.880 --> 01:30:42.320]  He told the Pharisees and Sadducees their face, so they wanted to kill him.
+[01:30:42.640 --> 01:30:54.160]  And then 70 years after Christ's death, Titus, the Roman general, under the orders of Emperor Pompeo, ordered it destroyed and not one stone left on top of the other.
+[01:30:57.920 --> 01:31:03.840]  And of course, right around 70 AD, they just gotten to writing the Testament, so they weren't reading this.
+[01:31:04.239 --> 01:31:06.880]  The Romans didn't have that from the little Christian sect.
+[01:31:07.680 --> 01:31:09.760]  They ordered exactly what Jesus said.
+[01:31:10.079 --> 01:31:11.359]  It's in all three gospels.
+[01:31:11.519 --> 01:31:22.239]  He said, Because you've refused this Messiah, before you're all dead, before one generation ends, this temple will be destroyed and not one stone will be left sitting on top of another.
+[01:31:22.559 --> 01:31:28.399]  And then Titus ordered the temple destroyed and wrote it out in the official Roman order that's on record today.
+[01:31:30.000 --> 01:31:31.840]  Not one stone on top of another.
+[01:31:33.680 --> 01:31:33.920]  Yeah.
+[01:31:35.519 --> 01:31:36.720]  Here's the report.
+[01:31:39.840 --> 01:31:45.519]  In a recent speech, Hamas spokesman blamed the Jews for bringing red cows to the Holy Land.
+[01:31:45.840 --> 01:31:53.119]  The cows he's talking about at a secure, undisclosed location are these: red heifers, to be precise.
+[01:31:53.439 --> 01:32:01.279]  Some Jews and Christians believe they're the key to rebuilding the historic Jewish temple in Jerusalem and to beckoning the Messiah.
+[01:32:01.600 --> 01:32:08.000]  To understand, you have to go back nearly 2,000 years when the ancient Romans destroyed the last temple in the city.
+[01:32:08.239 --> 01:32:12.079]  To rebuild it, these believers point to the Bible's book of Numbers.
+[01:32:12.399 --> 01:32:19.680]  It commands the Israelites to sacrifice a red heifer without defect or blemish and that has never been under a yoke.
+[01:32:20.000 --> 01:32:23.039]  Only then can the temple rise again.
+[01:32:23.680 --> 01:32:28.960]  Caring for them on an Israeli settlement in the West Bank is Yitzhak Mamo.
+[01:32:29.199 --> 01:32:33.519]  So we have here after a long research, we find in Texas.
+[01:32:34.159 --> 01:32:37.119]  In Texas, yeah, yeah, Texas, United States of America.
+[01:32:37.600 --> 01:32:42.880]  Texas Red Angus flying them 7,000 miles to Israel.
+[01:32:43.199 --> 01:32:45.519]  This is not a publicity stunt.
+[01:32:47.199 --> 01:32:48.159]  What do you mean?
+[01:32:48.720 --> 01:32:51.680]  Meaning, this is something you take very seriously.
+[01:32:52.000 --> 01:32:53.840]  Harry Potter is a good story.
+[01:32:54.159 --> 01:32:55.600]  The Bible is not a story.
+[01:32:55.840 --> 01:32:59.760]  The Bible is a way of God to lead us.
+[01:33:01.279 --> 01:33:06.319]  A massive altar already awaits where the heifers are to be burned.
+[01:33:06.960 --> 01:33:15.680]  According to some believers, the ceremony needs to be performed right here on the Mount of Olives, looking directly into where the temple once stood.
+[01:33:16.000 --> 01:33:25.039]  But something else now stands in its place: the Dome of the Rock and Al-Aqsa Mosque, among the holiest sites in Islam.
+[01:33:25.359 --> 01:33:28.079]  Today, only Muslims are allowed inside.
+[01:33:28.479 --> 01:33:34.079]  By the way, that's maybe something else that's in two books of the Old Testament describing it, describing Christ.
+[01:33:34.399 --> 01:33:39.760]  And then also the New Testament, when he comes back, it's to the Mount of Olives right there through that gate.
+[01:33:40.399 --> 01:33:41.840]  And that's where he marches through.
+[01:33:42.159 --> 01:33:47.359]  And there's a giant earthquake, and the ground completely splits open there to make a path for him to go right through.
+[01:33:47.680 --> 01:33:50.960]  And the gate's been sealed so the gate falls in the earthquake.
+[01:33:51.600 --> 01:34:02.479]  Well, it wasn't till something like a thousand years after Christ died and was risen that an Islamic king took over.
+[01:34:02.559 --> 01:34:03.600]  And he read that and was scared.
+[01:34:03.920 --> 01:34:05.840]  So he blocked up that main gate.
+[01:34:06.400 --> 01:34:16.079]  And then you have before that, the Old Testament, thousands of years, and then in the New Testament, hundreds and hundreds of years describing it would be blocked.
+[01:34:16.800 --> 01:34:24.720]  And then they found this giant fault line like the San Andreas right exactly under the Battle of Olives, running right perfectly through the gate, the center of it.
+[01:34:25.360 --> 01:34:33.920]  It goes on and I mean, it is scary, folks.
+[01:34:34.240 --> 01:34:41.680]  And you got, you know, Trump's people putting out that famous thing about the golden idol to Trump and Kushner and all that in Gaza.
+[01:34:42.640 --> 01:34:45.600]  I mean, it's just, it's just, they all know what's going on here, folks.
+[01:34:45.920 --> 01:34:49.119]  All right, let's go back to the news report.
+[01:34:49.200 --> 01:34:49.760]  Here it is.
+[01:34:54.400 --> 01:35:02.880]  Six days a week, Melissa Jane Kronfeld leads groups from around the world who defiantly pray as close as armed guards permit.
+[01:35:03.119 --> 01:35:06.079]  It's not about the destruction of Islamic holy sites.
+[01:35:06.240 --> 01:35:11.200]  It's about preserving this place and being guardians over the house of God for all people.
+[01:35:11.520 --> 01:35:12.800]  So you're happy with it where it is?
+[01:35:12.960 --> 01:35:13.920]  No, it's going to go 100%.
+[01:35:14.240 --> 01:35:15.760]  But I believe it's 100%.
+[01:35:16.000 --> 01:35:16.880]  Yeah, the whole thing is going to go.
+[01:35:16.960 --> 01:35:17.920]  We have to build a temple.
+[01:35:18.240 --> 01:35:25.760]  When you say that Dome of the Rock has to go, MJ, it's hard for me to imagine something more incendiary.
+[01:35:26.079 --> 01:35:27.360]  Well, let me ask you something.
+[01:35:27.680 --> 01:35:30.000]  The Middle East seems pretty destabilized right now.
+[01:35:30.240 --> 01:35:33.680]  And the war, if I'm not mistaken, is already here.
+[01:35:34.640 --> 01:35:41.680]  To be clear, hers is a dream not shared by the Israeli government or by the vast majority of Israelis and Jews.
+[01:35:42.000 --> 01:35:44.960]  But it's been enough to incite numerous Islamist groups.
+[01:35:45.280 --> 01:35:52.400]  Hamas has dubbed its October 7 assault on Israel the Al-Aqsa wave and has the Dome of the Rock on its emblem.
+[01:35:52.960 --> 01:36:02.240]  But this is sacred ground to billions of Muslims globally, not just Hamas terrorists, stresses Imam Mustafa Abu Sway of Al-Aqsa Mosque.
+[01:36:02.480 --> 01:36:04.960]  Al-Aqsa Mosque belongs to all Muslims.
+[01:36:05.600 --> 01:36:09.760]  So you'll find reaction from Indonesia to Toronto to New York.
+[01:36:10.079 --> 01:36:11.280]  That's really given.
+[01:36:11.600 --> 01:36:18.079]  Al-Aqsa Mosque belongs to all Muslims, and the Muslims today are two billion people.
+[01:36:18.400 --> 01:36:26.320]  Simply by performing these acts, are these Jewish activists kicking a hornet's nest?
+[01:36:26.640 --> 01:36:27.280]  They are.
+[01:36:28.159 --> 01:36:28.640]  They are.
+[01:36:29.200 --> 01:36:30.159]  A hornet's nest.
+[01:36:30.240 --> 01:36:32.880]  They're kicking all the way to Capitol Hill.
+[01:36:33.200 --> 01:36:35.520]  So good to see you here in the nation's capital.
+[01:36:35.840 --> 01:36:40.079]  Those sacred cows were showcased in Washington at a recent prayer gathering.
+[01:36:40.720 --> 01:36:45.119]  Many evangelicals believe these red heifers will usher Christ's second coming.
+[01:36:45.440 --> 01:36:47.440]  And we need the Messiah to come, right?
+[01:36:48.000 --> 01:36:51.840]  So for me, the red heifer, it's red for the blood of Jesus Christ.
+[01:36:52.159 --> 01:36:57.360]  Back in the West Bank, Mamo says the ceremony could take place any day.
+[01:36:57.920 --> 01:37:04.319]  But can you understand why Hamas could be outraged by something like this?
+[01:37:04.640 --> 01:37:12.560]  I cannot understand that even if they are right, why they have to slot and rape people to win their war.
+[01:37:12.880 --> 01:37:17.199]  Terrorists have been attacking us before we ever dreamed of these cows, he reflects.
+[01:37:17.520 --> 01:37:20.159]  They don't need them as an excuse to kill.
+[01:37:20.480 --> 01:37:24.640]  For CBS Saturday morning, Chris Livsay, Jerusalem.
+[01:37:25.920 --> 01:37:29.039]  So you may not believe in it, but all these different groups do.
+[01:37:29.920 --> 01:37:34.399]  And of course, the Old Testament, it's saying, kill the red heifer as a sacrifice.
+[01:37:35.279 --> 01:37:39.279]  But Christ is a sacrifice that replaces the temple sacrifices.
+[01:37:39.600 --> 01:37:42.640]  So he's the red heifer, folks, and he already died for us.
+[01:37:43.199 --> 01:37:54.800]  Now, here's one of the top rabbis in Israel recently saying we need to blow up the dome of the rock to build the third temple and blame it on Iran in a false flag.
+[01:37:54.880 --> 01:37:55.920]  Here's a club.
+[01:37:57.760 --> 01:38:03.199]  Missiles will hit the mosque and clear the place for the third Beta Mikdash.
+[01:38:03.680 --> 01:38:05.600]  That could also be a miracle.
+[01:38:09.119 --> 01:38:17.440]  If it was up to me, the last time when they shot hundreds of missiles, I would pretend that one missile came from Iran and shoot it down.
+[01:38:18.640 --> 01:38:21.920]  You know, then all the Arabs will go against Iran.
+[01:38:22.079 --> 01:38:23.359]  It would be the end of the problem.
+[01:38:24.640 --> 01:38:27.840]  You make them fight with each other, this bunch of lunatics.
+[01:38:29.279 --> 01:38:30.239]  Never too late.
+[01:38:30.480 --> 01:38:32.640]  You deal with a bunch of cowards.
+[01:38:33.279 --> 01:38:35.520]  Like 9-11, make us all fight with each other?
+[01:38:35.840 --> 01:38:36.319]  I understand.
+[01:38:37.760 --> 01:38:40.480]  So let me show you this here.
+[01:38:40.800 --> 01:38:48.239]  New Epstein reveals that Jeffrey Epstein said he was backing ISIS through U.S.-Israel proxies.
+[01:38:48.560 --> 01:38:52.399]  As Paul Harvey would say, and now you know the rest of the story, you can go read the emails.
+[01:38:52.720 --> 01:38:55.199]  It's officially on the DOJ website.
+[01:38:55.520 --> 01:39:07.760]  How he's working with the U.S. government and Turkey and others to fund ISIS to take over Syria, which then, of course, happened years later.
+[01:39:08.079 --> 01:39:09.920]  This is 2016.
+[01:39:13.680 --> 01:39:15.119]  See how that works.
+[01:39:17.920 --> 01:39:19.760]  Very important information.
+[01:39:20.720 --> 01:39:21.119]  All right.
+[01:39:21.279 --> 01:39:23.920]  The great Royce White is set to take over.
+[01:39:26.399 --> 01:39:29.920]  You're not going to get in-depth information next level anywhere else.
+[01:39:30.239 --> 01:39:30.399]  Okay.
+[01:39:30.640 --> 01:39:31.119]  It's just true.
+[01:39:31.199 --> 01:39:32.560]  A lot of other hosts do great jobs.
+[01:39:34.000 --> 01:39:35.440]  We show it.
+[01:39:36.079 --> 01:39:39.119]  We promote everybody.
+[01:39:39.359 --> 01:39:50.000]  But consistently, the most hardcore information where we showcase all the other best information and have the best guests on that, the best track records of being accurate.
+[01:39:50.159 --> 01:39:52.480]  Got a whole bunch of them this week coming up is this broadcast.
+[01:39:52.800 --> 01:40:02.560]  I want to thank you all that have supported, who've underwritten this broadcast, getting great supplements, great t-shirts, great knives, great products at our sponsor, thealexonstore.com.
+[01:40:03.200 --> 01:40:04.960]  ThealexShonstore.com.
+[01:40:05.200 --> 01:40:08.480]  There's going to come a time very soon, because people don't take me seriously because we survive so much.
+[01:40:08.720 --> 01:40:11.200]  You're going to tune in and InfoWars won't be there.
+[01:40:12.160 --> 01:40:13.119]  And you'll be, where are we?
+[01:40:13.200 --> 01:40:15.920]  We'll be at Real Alex Shones on X. We'll be at Rumble, the Alex Shones Show.
+[01:40:16.079 --> 01:40:17.600]  We'll have new websites that are already built.
+[01:40:17.680 --> 01:40:18.560]  You'll see it all.
+[01:40:18.880 --> 01:40:25.039]  But it's Bigley that's paying for all of that at thealixonstore.com.
+[01:40:26.000 --> 01:40:32.079]  And we have a deal that ends tomorrow night where you can get ultramethylene blue for 50% off.
+[01:40:32.720 --> 01:40:41.760]  We have the March Mega sale that goes the 17th, up to 40% off on all the other great products: the Bovine Colostrum, not a sexy name, does incredible things.
+[01:40:42.079 --> 01:40:46.800]  The Iris CMOS, the Shilogy, all the products, the widest selection of Patriot Apparel.
+[01:40:47.039 --> 01:40:50.480]  It's all there at thealxjonstore.com.
+[01:40:50.720 --> 01:40:52.640]  I want to thank all of you that supported us in the past.
+[01:40:52.880 --> 01:40:53.680]  You're the reason we're here.
+[01:40:53.760 --> 01:40:54.640]  You are the InfoWar.
+[01:40:54.880 --> 01:40:57.280]  I want to encourage those of you that have never gotten a product.
+[01:40:57.920 --> 01:40:58.720]  What are you doing?
+[01:40:59.039 --> 01:41:00.320]  What are you thinking?
+[01:41:00.960 --> 01:41:03.920]  I mean, just like your information is cutting edge, these are powerful products.
+[01:41:04.000 --> 01:41:05.680]  Get the ultramethylene red.
+[01:41:06.320 --> 01:41:08.079]  Get the ultramethylene blue.
+[01:41:08.720 --> 01:41:09.119]  Go there.
+[01:41:09.360 --> 01:41:10.880]  That's how we stay on the air.
+[01:41:10.960 --> 01:41:12.480]  And I sell you stuff that really works.
+[01:41:12.720 --> 01:41:15.600]  So you have over a 90% reorder on the supplements now.
+[01:41:15.840 --> 01:41:17.760]  I want to thank those that do that because you're amazing.
+[01:41:17.840 --> 01:41:18.880]  Plus, you know they're great products.
+[01:41:19.200 --> 01:41:22.800]  All you got to do is go there and experience that you're really missing out if you don't.
+[01:41:23.039 --> 01:41:24.720]  ThealxonStore.com.
+[01:41:25.039 --> 01:41:25.360]  All right.
+[01:41:25.520 --> 01:41:27.440]  That's it for this broadcast.
+[01:41:28.079 --> 01:41:30.000]  Royce White does a great job.
+[01:41:30.320 --> 01:41:30.960]  Really smart.
+[01:41:31.200 --> 01:41:32.320]  He takes over now.
+[01:41:32.880 --> 01:41:35.520]  Two-minute break, and then the next few hours starts.

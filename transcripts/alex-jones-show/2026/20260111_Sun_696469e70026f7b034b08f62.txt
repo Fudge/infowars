@@ -1,0 +1,1385 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, sat-12l-sm, and large-v3-turbo
+# Transcript cleaned with version 0.1.2
+# Source MD5: 5dfae41b816a7c307dad0e65776015a5
+[00:00:01.919 --> 00:00:04.719]  Welcome, ladies and gentlemen, to the Alex Jones show.
+[00:00:04.960 --> 00:00:07.759]  I'm your host, Harrison Smith, filling in for Alex today.
+[00:00:08.320 --> 00:00:09.279]  He's taking a break.
+[00:00:09.359 --> 00:00:10.240]  He's a little under the wet.
+[00:00:10.960 --> 00:00:11.679]  We made him.
+[00:00:12.000 --> 00:00:13.200]  The crew got together.
+[00:00:13.519 --> 00:00:17.039]  We tied him down into an armchair with a big bowl of popcorn.
+[00:00:17.120 --> 00:00:20.320]  We put the NFL on and we're making him relax.
+[00:00:20.480 --> 00:00:22.960]  We're forcing him to take one day off.
+[00:00:23.280 --> 00:00:25.280]  And I'm only half joking.
+[00:00:25.600 --> 00:00:26.960]  I'm only half joking.
+[00:00:27.280 --> 00:00:29.920]  And he's only half not doing the show.
+[00:00:30.160 --> 00:00:58.960]  He is, you know, obviously very concerned with everything going on in America today and everything happening with exactly as we've been predicting it the entire time, running the playbook that we revealed to you years ago, the John Podesta playbook, the planning sessions, the organization that goes on behind the scenes, getting ready like a racehorse at the gate, just waiting for that starting gun, which in this case is a literal gun, killing a protester.
+[00:00:59.120 --> 00:01:00.560]  It's what they've been waiting for, folks.
+[00:01:00.719 --> 00:01:02.480]  It's the Cass's Belli.
+[00:01:02.880 --> 00:01:20.320]  It's the bloody shirt they get to wave, and they have been eagerly awaiting this moment and training people to get in the way and cause problems and cause dangerous situations in the hopes that eventually an ICE agent would, you know, kill one of them and then they could start the revolution.
+[00:01:20.560 --> 00:01:24.159]  I mean, this is all part of their plan and they're rolling it out right now.
+[00:01:24.320 --> 00:01:25.920]  And we'll tell you all about it.
+[00:01:26.000 --> 00:01:34.879]  And I do have a special report from Alex Jones because like I said, as much as we are literally forcing him to take a break today, one day, Alex, one day.
+[00:01:36.400 --> 00:01:37.040]  It's crazy.
+[00:01:37.120 --> 00:01:37.600]  It's crazy.
+[00:01:37.840 --> 00:01:40.000]  So he put together a report.
+[00:01:40.320 --> 00:01:57.920]  I threw some clips in there to fill it out and give it context because right now, the Democrats and the mainstream media are so blatantly lying to people right to their faces about things that are on video and that are contradicted by that video.
+[00:01:58.240 --> 00:02:03.120]  And it's really gotten to a point that is unacceptable and unsustainable.
+[00:02:03.439 --> 00:02:04.480]  And it ain't just us.
+[00:02:04.719 --> 00:02:08.879]  Obviously, anybody paying attention knows exactly what the left is up to.
+[00:02:08.960 --> 00:02:14.879]  But we have congressmen now being interviewed about this, essentially saying, yeah, they're trying to start a civil war.
+[00:02:15.120 --> 00:02:18.400]  Like, I know there's a lot of talk about civil war.
+[00:02:18.719 --> 00:02:22.800]  The word, the phrase civil war gets thrown around a lot.
+[00:02:23.120 --> 00:02:27.360]  What we're experiencing now, you could say is a form of civil war.
+[00:02:27.439 --> 00:02:38.640]  It's like a very, very low-level, low-temperature, you know, boil operation that looks an awful lot like a civil war with only one side fighting.
+[00:02:38.960 --> 00:02:42.800]  But folks, actual civil war is rivers of blood.
+[00:02:43.120 --> 00:02:48.319]  It's mobs of, you know, militias going around and ripping people out of their homes.
+[00:02:48.640 --> 00:02:52.719]  We are on the precipice of absolute chaos and anarchy.
+[00:02:53.039 --> 00:02:59.120]  And the Democrats are doing absolutely everything they can to push us over that edge because it's what they want.
+[00:02:59.280 --> 00:03:06.080]  Because for some reason, they think that they'll win in a big knockdown, drag out fight.
+[00:03:06.640 --> 00:03:08.640]  I don't want to have that fight.
+[00:03:09.280 --> 00:03:11.920]  I really, we would win at the end of the day.
+[00:03:12.080 --> 00:03:15.599]  The right wing would absolutely mop the floor with the left.
+[00:03:17.120 --> 00:03:19.039]  I'm not even slightly concerned about that.
+[00:03:19.360 --> 00:03:21.680]  We don't want to do that to you.
+[00:03:21.759 --> 00:03:23.360]  We don't want that to happen.
+[00:03:24.000 --> 00:03:31.360]  And so once again, and I feel like this has been the case this entire year, we're coming up on one year with Trump in office.
+[00:03:31.680 --> 00:03:45.439]  And I feel like this entire time, we've been saying the Democratic, or I mean, I'm sorry, the Trump administration, the Republicans in office absolutely have to do what is necessary to destroy the Democrats.
+[00:03:45.599 --> 00:03:57.280]  They have to literally disenfranchise and arrest the Democrats for their innumerable crimes that they've committed, because if not, it's going to get incredibly messy.
+[00:03:57.759 --> 00:04:07.120]  So, this isn't us begging the Trump administration to just do our bidding and crush these people because we can't beat them in the political sphere.
+[00:04:07.280 --> 00:04:08.240]  That's what the left is doing.
+[00:04:08.400 --> 00:04:09.840]  The left cannot beat us in arguments.
+[00:04:09.919 --> 00:04:11.599]  They cannot beat us at the ballot box.
+[00:04:11.919 --> 00:04:15.759]  They cannot beat us in logic and facts and reality.
+[00:04:16.240 --> 00:04:17.759]  So, they want to go to a fight.
+[00:04:17.920 --> 00:04:19.040]  We don't want to go to a fight.
+[00:04:19.279 --> 00:04:25.279]  We desperately need the Trump administration to crack down on these people.
+[00:04:25.519 --> 00:04:28.480]  And I'm telling you, it is actually not an option.
+[00:04:28.800 --> 00:04:35.519]  I'm going to show you the report from Alex on the other side, bombshell report with all the clips to explain exactly what he's talking about.
+[00:04:35.680 --> 00:04:47.920]  I'm going to start off with that, and then we're going to get into things like Ellison, the guy who was caught on video collaborating with the hucksters in Minneapolis, threatening to arrest ICE agents five years from now if they ever get back in office.
+[00:04:50.560 --> 00:04:53.279]  Welcome back, ladies and gentlemen.
+[00:04:53.600 --> 00:04:57.839]  This is the Alex Jones show coming to you live on the 11th of January, 2026.
+[00:04:58.000 --> 00:05:01.040]  Hope everybody's having a restful Sunday.
+[00:05:01.360 --> 00:05:12.079]  Hope you're not freezing your butts off on the streets of Minneapolis like so many mind-destroyed fellow Americans seem to be spending their weekends.
+[00:05:13.039 --> 00:05:16.159]  Alex Jones is, of course, he's a little under the weather.
+[00:05:16.240 --> 00:05:21.120]  You'll hear we're about to go to a video of Alex Jones, a report that he made just earlier today.
+[00:05:21.360 --> 00:05:23.600]  We put in some clips to give it the full context.
+[00:05:23.759 --> 00:05:24.399]  You can hear his voice.
+[00:05:24.480 --> 00:05:28.159]  He's a little under the weather, but we made him take a break for his own good.
+[00:05:28.800 --> 00:05:35.600]  I said, I'll let just one show because he's doing seven shows a week these days.
+[00:05:35.920 --> 00:05:43.680]  When I started, I guess there was a Sunday show seven years ago, but at least it was only six days a week.
+[00:05:43.759 --> 00:05:50.959]  Now we're working seven days a week, and it's because things are getting so insane, because things are reaching this ultimate conclusion, this precipice.
+[00:05:51.039 --> 00:06:11.199]  I mean, we have massive riots in Iran, massive riots in Israel and Tel Aviv against Benjamin Nanyahu for covering up the October 7th standdown order, massive riots in South America, claims that Patagonia is being burned down on purpose as part of a land grab, similar to what we saw in the Palisades in Lahaina.
+[00:06:11.519 --> 00:06:23.919]  Obviously, you have the long-awaited, long-prepared for general uprising being theoretically predicated on the death of this woman, Renee Good.
+[00:06:24.879 --> 00:06:31.519]  All of these things happening all at once, and it's getting to a breaking point.
+[00:06:31.680 --> 00:06:35.759]  Like the world population, it feels is getting to a breaking point.
+[00:06:36.000 --> 00:06:41.199]  And obviously, we have midterms this year, so the election is going to make everything that much crazier.
+[00:06:42.480 --> 00:06:48.319]  And the left still hasn't learned that they can't lie with impunity anymore.
+[00:06:48.639 --> 00:06:51.919]  And I'm going to go to this video from Alex Jones here, and then I'll talk about it on the other side.
+[00:06:52.159 --> 00:06:54.000]  But thank God for Elon Musk.
+[00:06:54.240 --> 00:07:06.879]  Thank God he opened up X. Thank God that we get to post videos of what actually happened with no media outlet in between us and the truth, the source and the audience.
+[00:07:07.199 --> 00:07:23.600]  Because if this had been even five years ago, if X was still, Twitter was still controlled by the Jack Dorsey gang, we probably would have never seen three out of four of the videos that we have of this Renee Goode woman being shot.
+[00:07:23.919 --> 00:07:31.840]  They would have picked only the least informative video, only the video that you can get the least information out of.
+[00:07:32.159 --> 00:07:33.039]  They would have posted that.
+[00:07:33.199 --> 00:07:34.319]  They would have put that forward.
+[00:07:34.399 --> 00:07:42.080]  And then it would have just been an endless succession of experts telling us how this was absolutely unconstitutional and totally wrong.
+[00:07:42.240 --> 00:07:43.919]  And we have to send this guy away for life.
+[00:07:44.240 --> 00:07:46.960]  Thank God we have X. Thank God we can get the truth out.
+[00:07:47.279 --> 00:07:49.199]  Thank you for supporting us here at InfoWars.
+[00:07:49.279 --> 00:07:56.639]  Here's Alex Jones talking about the outrageous lies and incitement of the Democrats and the mainstream media.
+[00:07:56.720 --> 00:07:57.440]  Let's watch.
+[00:07:58.720 --> 00:08:07.440]  All right, let's not forget that Jack Smith indicted Trump for trying to overthrow the country on January 6th.
+[00:08:08.080 --> 00:08:14.720]  Even though Trump said peacefully marched the Capitol where we had a state set up on the Supreme Court, I was supposedly going to lead it.
+[00:08:14.960 --> 00:08:16.720]  And then we got set up in the Feds Erection.
+[00:08:18.000 --> 00:08:26.080]  Now we have the former deputy of the Capitol Police now saying, use your Second Amendment, ICE is illegal, use your weapons.
+[00:08:26.400 --> 00:08:38.639]  And it's time for the American people to organize and to utilize their Second Amendment right to protect themselves from what has clearly become an unaccountable and lawless agency that's killing Americans.
+[00:08:38.960 --> 00:08:44.240]  We have all these mayors in Minneapolis and Seattle saying it's all illegal, resist them.
+[00:08:44.560 --> 00:08:47.279]  You're basically asking, can our cops arrest them?
+[00:08:47.600 --> 00:08:47.759]  Yeah.
+[00:08:48.720 --> 00:08:50.720]  From a legal perspective, yes.
+[00:08:51.279 --> 00:08:54.320]  I am furious at the federal government's abuse of power.
+[00:08:54.639 --> 00:08:56.720]  You have Don Lemon said, get your guns, resist them.
+[00:08:57.040 --> 00:08:58.480]  Get a gun legally.
+[00:08:58.720 --> 00:09:00.800]  Get a license to carry legally.
+[00:09:01.040 --> 00:09:03.920]  Isn't that what the Second Amendment was written for?
+[00:09:04.879 --> 00:09:06.960]  You have all the violence that's happening against them.
+[00:09:07.040 --> 00:09:10.960]  You have the woman blocking her car, blocking them, then ramming them.
+[00:09:11.279 --> 00:09:18.480]  And now, Jinsaki from Friday goes on days after the truth shout and goes, look at these videos.
+[00:09:18.800 --> 00:09:21.120]  It doesn't ever show him being rammed.
+[00:09:21.759 --> 00:09:25.840]  And she goes, look at this new video that he shot the officer, the ICE officer with his cell phone.
+[00:09:26.160 --> 00:09:27.440]  It doesn't prove he was rammed.
+[00:09:27.519 --> 00:09:29.759]  No, you see the car go rearing forward and boom.
+[00:09:30.080 --> 00:09:42.320]  They claim that because the shooter appears to fumble his camera and because you can hear a loud noise, that this video must be evidence that Renee Good ran over or hit the agent with her car.
+[00:09:42.560 --> 00:09:44.000]  That is what they have been blasting everywhere.
+[00:09:44.080 --> 00:09:49.200]  But if you look at all of the evidence we have seen so far, that does not appear to be the case.
+[00:09:49.519 --> 00:09:58.339]  But they don't show you the footage out since last Wednesday from local newscasts and ring cameras from the front and the side where she accelerates and hits him and he bounces off the hood.
+[00:10:05.229 --> 00:10:07.008]  And they know full well they have that footage.
+[00:10:07.840 --> 00:10:10.000]  But they sit there and they play dumb everywhere.
+[00:10:10.320 --> 00:10:16.960]  And now they've got tens of thousands massing up there trying to kick off this, you know, the winter of love, like the summer of love.
+[00:10:17.279 --> 00:10:19.680]  And they and they really are trying to cause a civil war in this country.
+[00:10:20.000 --> 00:10:24.560]  And now the rhetoric coming out, I mean, people are like, we're going to kill you, DICE, and we're coming after you.
+[00:10:24.879 --> 00:10:26.960]  And they've already said that before.
+[00:10:27.920 --> 00:10:29.039]  But it's only a matter of time.
+[00:10:29.120 --> 00:10:31.120]  Like the mayor said a few weeks ago until ICE gets killed.
+[00:10:31.279 --> 00:10:32.400]  And it's going to be their fault.
+[00:10:32.720 --> 00:10:37.120]  No, ICE is following their constitutional duties with court orders and the Port illegals.
+[00:10:38.080 --> 00:10:41.920]  And the idea they're doing something illegal or bad is just totally preposterous.
+[00:10:42.240 --> 00:10:44.080]  Again, Jesse Ventura is out there in Minnesota.
+[00:10:44.160 --> 00:10:45.519]  I saw him last week.
+[00:10:45.840 --> 00:10:47.440]  There's no warrants.
+[00:10:47.759 --> 00:10:48.879]  They're Gestapo.
+[00:10:49.840 --> 00:10:51.920]  And you learn things like the Constitution.
+[00:10:52.160 --> 00:10:53.360]  You learn about warrants.
+[00:10:53.519 --> 00:10:55.279]  You learn about things of that nature.
+[00:10:55.600 --> 00:10:58.800]  And what we're getting right now is violating all that.
+[00:10:59.120 --> 00:11:01.920]  A warrant isn't as strong as court order.
+[00:11:02.080 --> 00:11:04.160]  You don't have warrants to the Port illegals.
+[00:11:04.480 --> 00:11:05.840]  It's a final order.
+[00:11:06.160 --> 00:11:08.240]  You serve warrants.
+[00:11:09.279 --> 00:11:11.200]  You execute court orders.
+[00:11:12.080 --> 00:11:13.759]  You enforce court orders.
+[00:11:14.400 --> 00:11:16.720]  So they're playing games, folks.
+[00:11:17.039 --> 00:11:18.320]  And I'm savage Ventura.
+[00:11:18.400 --> 00:11:19.840]  He's being a good guy.
+[00:11:20.480 --> 00:11:22.960]  But this is their talking points, what they're doing.
+[00:11:23.279 --> 00:11:25.120]  So I've got some clips here we're going to play.
+[00:11:25.680 --> 00:11:26.640]  Breaks it all down.
+[00:11:27.200 --> 00:11:28.000]  It's just over the top.
+[00:11:28.080 --> 00:11:29.440]  They're making their move.
+[00:11:29.759 --> 00:11:31.440]  We've got a lot more coming up tonight as well.
+[00:11:31.840 --> 00:11:32.960]  Going through all of it.
+[00:11:33.279 --> 00:11:35.360]  A lot of big moves taking place right now.
+[00:11:35.680 --> 00:11:40.879]  But this is the Vanessa plan, as I predicted hundreds of times based around ICE killing somebody.
+[00:11:41.200 --> 00:11:45.759]  And they finally got their pretext, even though she went there as a social justice warrior.
+[00:11:46.080 --> 00:11:46.640]  She went there.
+[00:11:46.720 --> 00:11:47.680]  She said to stop them.
+[00:11:48.000 --> 00:11:50.000]  You know, she went there to battle ICE.
+[00:11:50.080 --> 00:11:52.480]  She went there as a, what was it called?
+[00:11:53.039 --> 00:12:10.159]  Anti-fu super soldier with her wife there, you know, saying drive drive, drive and taunting them and all the rest of it, and then now they just want to deceive people that are not showing the frontal and side footage, which is exactly what the ice agent said happened.
+[00:12:10.480 --> 00:12:12.159]  They're carrying out their constitutional duties.
+[00:12:12.240 --> 00:12:16.480]  Folks turns out.
+[00:12:16.559 --> 00:12:26.480]  Uh, per capita, this is the same amount of people that Trump deported as the first administration year to date, from his first year in office in 2017.
+[00:12:26.799 --> 00:12:30.319]  With Obama was four times what Trump's doing because he had a bigger enforcement system.
+[00:12:30.799 --> 00:12:31.840]  It's been dismantled.
+[00:12:32.159 --> 00:12:37.360]  So now they're acting like literally deporting people, in most cases with huge criminal records.
+[00:12:37.600 --> 00:12:39.200]  They're all here criminally.
+[00:12:40.480 --> 00:12:42.240]  It's some type of like bizarre, crazy thing.
+[00:12:42.399 --> 00:12:45.039]  I mean, it's just amazing how they do this.
+[00:12:45.600 --> 00:12:49.360]  And then just drama queen around and yell and scream and attack.
+[00:12:51.200 --> 00:12:52.080]  It's unbelievable.
+[00:12:52.399 --> 00:12:52.918]  Here's the facts.
+[00:13:00.808 --> 00:13:03.229]  All right, folks, that is the latest from Alex Jones.
+[00:13:03.360 --> 00:13:07.679]  We're going to be uploading that here momentarily to his account on X at RealAlex Jones.
+[00:13:07.759 --> 00:13:10.639]  Of course, at Infowars, I'm at Harrison H. Smith.
+[00:13:10.720 --> 00:13:12.879]  Please do make sure that you're following us.
+[00:13:12.960 --> 00:13:15.759]  And if you can, share the links, hit that repost button.
+[00:13:15.919 --> 00:13:18.319]  It really does help a lot in the algorithm.
+[00:13:18.399 --> 00:13:20.399]  And that's the way that we're going to have to break through.
+[00:13:20.720 --> 00:13:32.879]  Because despite the openness of X, despite the overabundant availability of true information, people are still being lied to blatantly, as that report just explained.
+[00:13:33.039 --> 00:13:36.879]  And of course, he gets into some of the nuance with court orders versus warrants.
+[00:13:37.039 --> 00:13:38.159]  I want to touch on that too.
+[00:13:38.399 --> 00:13:51.039]  Because one thing that somebody I heard like a year ago when people were really first talking about Donald Trump going after all the illegals and they were trying to put up barriers by claiming that they all had, you know, required due process.
+[00:13:51.360 --> 00:13:58.240]  The thing that I heard that stuck with me the whole time is deportation is not a lawful punishment in America.
+[00:13:58.559 --> 00:13:58.960]  It's not.
+[00:13:59.039 --> 00:13:59.840]  It's not an option.
+[00:14:00.159 --> 00:14:01.919]  It's not something that we do.
+[00:14:02.240 --> 00:14:04.000]  It's never a punishment.
+[00:14:04.319 --> 00:14:05.600]  People get deported.
+[00:14:05.919 --> 00:14:07.200]  That's not a punishment.
+[00:14:07.519 --> 00:14:08.480]  That's just a function.
+[00:14:08.639 --> 00:14:10.480]  That's like a bureaucratic function.
+[00:14:10.799 --> 00:14:12.240]  It's returning you back home.
+[00:14:12.399 --> 00:14:14.000]  It's not a punishment.
+[00:14:14.319 --> 00:14:16.080]  It's not something like you can't commit a crime.
+[00:14:16.240 --> 00:14:18.399]  They go, we sentenced you to being deported.
+[00:14:18.720 --> 00:14:24.000]  No, if you're here illegally, deportation is just the function that occurs once that's discovered, right?
+[00:14:24.159 --> 00:14:26.559]  It's not, you're not guilty, therefore you get deported.
+[00:14:26.879 --> 00:14:28.000]  It's you're not American.
+[00:14:28.080 --> 00:14:29.200]  You don't have a right to be here.
+[00:14:29.360 --> 00:14:30.960]  Therefore, you're being deported.
+[00:14:31.200 --> 00:14:32.159]  Does that make sense?
+[00:14:32.480 --> 00:14:48.080]  It's kind of a bureaucratic kind of distinction, but it matters because if you're going to punish somebody, if you're going to levy a punishment upon somebody, if you're going to disadvantage them for some reason, then you have to prove that they did something to deserve it.
+[00:14:48.399 --> 00:14:53.360]  And then if you're going to try to prove they did something to deserve it, then that person has a right to defend themselves.
+[00:14:53.680 --> 00:15:07.039]  So if you're going to punish somebody for breaking a law, punish somebody and disadvantage them somehow by either taking them away from their family or costing them money or whatever the punishment is, then you need to prove that they did something wrong and give them a right to defend themselves.
+[00:15:07.360 --> 00:15:09.519]  None of that applies with illegal aliens.
+[00:15:09.680 --> 00:15:10.799]  None of it.
+[00:15:11.759 --> 00:15:15.360]  You don't need to prove that they had malice when they came across.
+[00:15:15.519 --> 00:15:17.440]  They're just not supposed to be here, so they leave.
+[00:15:18.080 --> 00:15:18.879]  That's how it is.
+[00:15:19.039 --> 00:15:20.399]  That's just how this works.
+[00:15:20.720 --> 00:15:22.000]  That's just what happens.
+[00:15:22.319 --> 00:15:26.799]  It's like when your kid's friend is over and you send him home when it's time for dinner.
+[00:15:26.879 --> 00:15:28.159]  You're not punishing the kid.
+[00:15:28.480 --> 00:15:30.399]  He's just got to go home now, right?
+[00:15:31.200 --> 00:15:31.840]  How dare you?
+[00:15:31.919 --> 00:15:33.440]  Why were you so mean to my friend?
+[00:15:33.600 --> 00:15:35.200]  I mean, he has a home.
+[00:15:35.360 --> 00:15:37.360]  I sent him back to where he lives.
+[00:15:37.519 --> 00:15:38.319]  That's not a punishment.
+[00:15:38.399 --> 00:15:40.799]  So it's never a punishment to be deported.
+[00:15:40.960 --> 00:15:42.559]  It's just a function of the government.
+[00:15:42.639 --> 00:15:44.080]  It's just something that they do.
+[00:15:44.399 --> 00:15:44.559]  Okay.
+[00:15:45.200 --> 00:15:46.240]  And it's an important distinction.
+[00:15:46.399 --> 00:15:51.919]  So that's why there aren't warrants because they're not being arrested under a warrant.
+[00:15:52.399 --> 00:15:54.240]  They're being deported under a court order.
+[00:15:54.399 --> 00:15:55.600]  It's an entirely different thing.
+[00:15:55.919 --> 00:16:10.879]  But it matters because everybody is lying about all of this because the Democrats are lying about literally all of this and they're lying about what the ICE agents are doing and they're lying about the legality of what they're doing and whether they require a warrant or whether a quarter is good enough.
+[00:16:11.200 --> 00:16:22.480]  They have everybody who's listening to them believing that ICE is some sort of illegitimate organization that's arresting American citizens without charges or a warrant.
+[00:16:23.039 --> 00:16:23.919]  It's all absurd.
+[00:16:24.080 --> 00:16:25.360]  They're not doing any of that.
+[00:16:25.680 --> 00:16:29.919]  And again, the real danger of this goes back to the boy who cried Wolf.
+[00:16:30.480 --> 00:16:32.000]  They keep lying about this.
+[00:16:32.399 --> 00:16:40.000]  They keep calling Wolf and claiming that we're in danger, claiming that this is a tyranny and this is a despotism.
+[00:16:40.159 --> 00:16:43.519]  When it's not, what do you think happens when despotism arrives?
+[00:16:43.680 --> 00:16:46.560]  What do you think happens when real tyranny arrives?
+[00:16:47.200 --> 00:16:50.080]  Will any of these people actually be standing up against it?
+[00:16:50.399 --> 00:17:02.000]  Will anybody out there even take it seriously when they're out there screaming bloody murder and pulling their hair out over basic border protection operations?
+[00:17:02.159 --> 00:17:03.920]  Like this is ridiculous.
+[00:17:04.559 --> 00:17:12.720]  And as much as the left is lying about this, which they are, and trying to build it up into a civil war, which they absolutely are.
+[00:17:13.360 --> 00:17:16.880]  I also don't think the Trump administration is blameless on this.
+[00:17:17.519 --> 00:17:21.519]  And I think there are better ways to carry out deportations.
+[00:17:21.680 --> 00:17:35.039]  I think there's like a dozen things I can think of right now, a dozen levers that could be pulled, pressures that could be applied to get people out of this country that would require no boots on the ground, no agents in danger.
+[00:17:35.680 --> 00:17:39.839]  There wouldn't even be an operation for activists to interrupt.
+[00:17:40.160 --> 00:17:44.240]  Things like shutting the bank accounts of the illegal aliens.
+[00:17:45.519 --> 00:17:46.559]  Who are you going to like?
+[00:17:46.799 --> 00:17:47.920]  What are you going to do about that?
+[00:17:48.240 --> 00:17:49.440]  What are you going to protest about that?
+[00:17:49.519 --> 00:17:51.519]  It's just an order from the government to a bank.
+[00:17:51.759 --> 00:17:55.440]  Hey, you're actually contributing to a criminal activity.
+[00:17:55.759 --> 00:17:59.360]  Shut these accounts now, funnel the money back into the government.
+[00:17:59.680 --> 00:18:04.880]  We're going to seize it as evidence and then, you know, give it back to Americans.
+[00:18:05.200 --> 00:18:08.079]  Or, you know, your bank is going to come under sanctions.
+[00:18:09.519 --> 00:18:10.240]  That would solve.
+[00:18:10.559 --> 00:18:12.640]  A lot of people would go home if they can't make money.
+[00:18:12.960 --> 00:18:25.279]  A lot of people would get right back on the next flight back to El Salvador or Guatemala or wherever else they came from if they were fired by their employer because the CEO is afraid of being arrested.
+[00:18:25.519 --> 00:18:26.640]  That's another option.
+[00:18:26.960 --> 00:18:28.240]  Why don't you arrest a couple CEOs?
+[00:18:28.319 --> 00:18:29.519]  Why don't you arrest one CEO?
+[00:18:29.599 --> 00:18:32.160]  As we pointed out a million times, it literally would take one.
+[00:18:32.319 --> 00:18:33.279]  It would take one.
+[00:18:34.880 --> 00:18:36.000]  He could be in on it.
+[00:18:36.160 --> 00:18:36.799]  Here's okay.
+[00:18:37.360 --> 00:18:39.519]  Trump doesn't want to actually arrest CEOs.
+[00:18:39.680 --> 00:18:40.319]  I get it.
+[00:18:40.640 --> 00:18:41.039]  Kind of.
+[00:18:41.200 --> 00:18:43.279]  I mean, not really, but I understand it.
+[00:18:44.240 --> 00:18:46.640]  Just get a CEO to go along with you on it.
+[00:18:46.960 --> 00:18:50.240]  Get a CEO to go, oh, all right, you're going to arrest me.
+[00:18:50.480 --> 00:18:52.160]  I'm going to go spend a week in jail.
+[00:18:52.480 --> 00:18:56.400]  Hey, just make sure I don't get beat up or taken advantage of in there.
+[00:18:56.720 --> 00:18:58.240]  And yeah, I'll spend a week in jail.
+[00:18:58.319 --> 00:18:59.360]  It'll be kind of fun.
+[00:18:59.680 --> 00:19:08.720]  And then you can have this big media, you know, hullabaloo where a big CEO gets arrested and hauled away in chains, and he can be screaming and crying.
+[00:19:08.799 --> 00:19:09.360]  He'll play it up.
+[00:19:09.440 --> 00:19:09.920]  It'll be great.
+[00:19:10.079 --> 00:19:10.559]  It'll be great.
+[00:19:10.799 --> 00:19:14.880]  The point is, you just want CEOs thinking that they're next.
+[00:19:15.519 --> 00:19:24.880]  And then every CEO in the country sends a memo to every person they employ saying, hey, if we have anybody who's not an American citizen, you need to fire them immediately.
+[00:19:25.039 --> 00:19:26.000]  And then they just will.
+[00:19:26.640 --> 00:19:27.599]  That'll just happen.
+[00:19:27.839 --> 00:19:30.160]  You don't need to do anything about it.
+[00:19:30.480 --> 00:19:37.839]  So arrest one CEO, lean on the banks to get rid of the money that the illegals are sending overseas.
+[00:19:38.000 --> 00:19:39.680]  I mean, there's just like a billion million things.
+[00:19:39.759 --> 00:19:49.599]  So then when you just have these ICE agents going into neighborhoods where there are already activists to try to arrest people, yes, they are absolutely constitutionally allowed to do that.
+[00:19:49.920 --> 00:19:51.759]  No, they should not be stopped.
+[00:19:52.480 --> 00:19:54.000]  You should not be allowed to interfere.
+[00:19:54.240 --> 00:19:56.079]  In fact, there's no should-be about it.
+[00:19:56.240 --> 00:19:58.879]  You are not allowed to interfere with law enforcement activities.
+[00:19:58.959 --> 00:20:01.839]  The left just does, and nobody stops them for some reason.
+[00:20:02.159 --> 00:20:03.199]  But it is illegal.
+[00:20:03.439 --> 00:20:05.599]  You should arrest all of them who do it.
+[00:20:05.919 --> 00:20:08.959]  And that would actually be a convenient solution.
+[00:20:10.240 --> 00:20:13.759]  But it just seems like everybody is playing their part at this point.
+[00:20:14.000 --> 00:20:21.119]  It seems like everybody is doing what they need to do to get that civil war truly kicked off once and for all.
+[00:20:21.199 --> 00:20:25.679]  Like this, I mean, you know, I get these guys are acting lawfully.
+[00:20:25.839 --> 00:20:26.639]  I'm not saying they aren't.
+[00:20:26.799 --> 00:20:32.639]  I'm not saying they shouldn't be able to do this, arrest people, pull people over, whatever.
+[00:20:32.720 --> 00:20:34.079]  I mean, this is literally their job.
+[00:20:34.399 --> 00:20:41.599]  But it just all seems so chaotic and so vulnerable to interruption and vulnerable to escalation.
+[00:20:42.559 --> 00:20:45.039]  Why not just change your tactics a little bit?
+[00:20:45.679 --> 00:20:47.279]  I don't really get it personally.
+[00:20:49.759 --> 00:20:54.159]  But of course, you know, the basic thing, well, there's a couple things to understand.
+[00:20:54.319 --> 00:21:08.319]  First of all, that the reaction that you're seeing now is very, very obviously not in accordance with the thing that causes the outrage, right?
+[00:21:08.480 --> 00:21:11.919]  A woman being killed by police is tragic.
+[00:21:12.240 --> 00:21:21.839]  Of course, the last time that a woman was killed by police in Minneapolis, it was a woman who called the police for help and then a Somali police officer showed up and killed her.
+[00:21:22.480 --> 00:21:24.879]  So there were no riots then, right?
+[00:21:24.960 --> 00:21:26.399]  There was no outrage then.
+[00:21:27.279 --> 00:21:29.679]  There's no nationwide uprising then.
+[00:21:30.000 --> 00:21:35.039]  And this is important to understand because we all know it, but like you have to almost say this out loud.
+[00:21:35.199 --> 00:21:38.960]  You almost have to just like acknowledge that this is what's happening.
+[00:21:39.279 --> 00:21:45.439]  Because if you don't, it comes across the idea that like, okay, this woman was killed.
+[00:21:45.759 --> 00:21:49.279]  This Renee Goodwoman tried to run over a cop with her car.
+[00:21:49.599 --> 00:21:51.199]  She was shot and died.
+[00:21:51.519 --> 00:21:53.279]  And now all these people are outraged by this.
+[00:21:53.439 --> 00:21:57.279]  And so they're coming out and protesting and getting angry.
+[00:21:57.599 --> 00:22:00.480]  That is an absolutely false narrative.
+[00:22:00.799 --> 00:22:02.319]  That's not at all what happened.
+[00:22:02.480 --> 00:22:02.879]  No, no.
+[00:22:03.039 --> 00:22:15.919]  What's happened here is that the left wing in this country has spent the last year training and radicalizing their followers to think that they're invincible, to put their own bodies in the way of ICE.
+[00:22:16.719 --> 00:22:28.960]  They've told their followers that ICE is illegitimate and Gestapo and that they're doing this illegally and that it's your not just right but obligation, as Tim Waltz puts it, to go interfere with ICE and get in their way.
+[00:22:29.599 --> 00:22:36.079]  They have been preparing and planning and getting ready for whatever event would spark it off and they don't care.
+[00:22:36.399 --> 00:22:42.559]  And in fact, if an event didn't actually occur, if nobody was actually killed, they would have false flagged it in a couple months anyway.
+[00:22:42.879 --> 00:22:44.559]  But it seems like they got what they wanted.
+[00:22:44.719 --> 00:22:49.439]  Do you understand how that is a completely different situation than the one I described earlier?
+[00:22:49.759 --> 00:22:51.199]  Utterly and completely different.
+[00:22:51.359 --> 00:22:59.279]  This is not a horrifying event that has caused a natural outpouring of anger at the government.
+[00:22:59.599 --> 00:23:04.399]  People going to protest legitimate grievances on the basis of this unexpected event.
+[00:23:04.559 --> 00:23:05.279]  That's not what's happening.
+[00:23:05.439 --> 00:23:14.000]  This is a whole bunch of left-wing activist groups training, radicalizing, preparing their followers and telling them, you guys just wait.
+[00:23:14.319 --> 00:23:39.679]  As soon as we get the green light, as soon as whatever happens happens, then we all activate and we use it as an excuse to go out and do what we're always going to do anyway, which is try to overthrow the U.S. government, try to frame everything the Trump administration is doing as illegitimate, get back in power, and then use the force of the law to utterly destroy all of your political enemies, regardless of whether they deserve it or ever committed a crime.
+[00:23:40.639 --> 00:23:43.359]  Do you understand how those things are completely and utterly different?
+[00:23:43.519 --> 00:23:52.879]  And so all of the protests, all of the riots going on right now are sort of ipso facto, just like by nature of the fact that they were pre-planned.
+[00:23:52.960 --> 00:23:58.079]  And then, you know, this killing was used as an excuse, but it's not, it's, they're not legitimate protests.
+[00:23:58.240 --> 00:23:59.839]  They are actually not legitimate.
+[00:24:00.160 --> 00:24:01.359]  They are not grassroots.
+[00:24:01.519 --> 00:24:04.720]  They are not a natural consequence of true outrage being felt.
+[00:24:04.960 --> 00:24:06.079]  This was a plan.
+[00:24:06.319 --> 00:24:15.680]  They have radicalized and organized their followers and have them all sitting there champing at the bit, waiting to be launched, waiting for the countdown to go.
+[00:24:16.559 --> 00:24:16.879]  Okay?
+[00:24:17.440 --> 00:24:18.720]  So it's an insurrection.
+[00:24:18.960 --> 00:24:19.839]  It is a civil war.
+[00:24:20.079 --> 00:24:23.359]  I'll show you clips on the other side of Congressman saying exactly that.
+[00:24:23.680 --> 00:24:25.920]  And a lot of the videos that we're showing is B-roll right now.
+[00:24:26.160 --> 00:24:31.759]  I'll play and give you the full context of them because they are truly something to behold.
+[00:24:32.720 --> 00:24:41.119]  The invasion and the usurpation of Americans' minds is disheartening to say the least.
+[00:24:42.400 --> 00:24:52.400]  By which I mean, you have both literal foreigners, people that aren't American, don't love America, don't care about America, and haven't lived here for very long.
+[00:24:52.720 --> 00:25:02.720]  And allied with them are basically liberal women, Jews, everybody that's not like straight white males.
+[00:25:03.279 --> 00:25:08.960]  And that's just a reality I guess we have to come to terms with.
+[00:25:09.119 --> 00:25:16.720]  I guess we have to take their proclamation of war on the face of it and accept the challenge.
+[00:25:16.879 --> 00:25:19.279]  Like that's all there is left to do at this point.
+[00:25:19.440 --> 00:25:21.839]  Again, I'll show you the videos on the other side.
+[00:25:22.160 --> 00:25:23.359]  It's not Larry Ellison.
+[00:25:23.440 --> 00:25:24.160]  He's the Oracle guy.
+[00:25:25.519 --> 00:25:26.319]  Keith Ellison.
+[00:25:26.480 --> 00:25:34.400]  Keith Ellison, who was caught on video or on audio, secretly recorded, collaborating with and giving cover to the Somali scammers.
+[00:25:34.720 --> 00:25:47.279]  He is now given an interview where he said, it doesn't matter if it's five years or 10 years from now, whenever they get back in power, the Democrats are going to absolutely use the power of the state to try to imprison their political enemies, including ICE agents.
+[00:25:48.160 --> 00:25:51.359]  He says there's no statute of limitations on murder.
+[00:25:51.680 --> 00:25:55.680]  So just understand what they're prepared for, what they're going to do.
+[00:25:56.000 --> 00:26:14.160]  As Republicans refuse to actually enforce the law as it's written and provide law and order and safety to the Americans who voted for them, the Democrats are openly explaining their schemes to try to throw ICE officers into prison the minute they get back into office.
+[00:26:14.480 --> 00:26:19.759]  And that includes everybody who's ever worked for Trump and probably me and Alex Jones, anybody else who ever spoke up against them.
+[00:26:20.000 --> 00:26:21.440]  We're not going to stop speaking up against them.
+[00:26:21.519 --> 00:26:23.119]  We're not going to stop exposing their lies.
+[00:26:23.279 --> 00:26:30.240]  We're not going to stop resisting their tyranny and their absolute mindless despotism.
+[00:26:30.559 --> 00:26:31.759]  But we need your support to do it.
+[00:26:31.839 --> 00:26:33.519]  Please go to the alexjonesstore.com.
+[00:26:33.599 --> 00:26:42.799]  The alexjonesstore.com is your one-stop shop for patriotic merchandise, hats, t-shirts, all the coolest designs, posters, everything there is just very awesome.
+[00:26:42.880 --> 00:26:50.960]  It goes directly towards supporting this outlet and our mission to bring you truth, justice, liberty, the American way, all the good things in the world.
+[00:26:51.279 --> 00:26:59.119]  But you also, is your last day and really the last couple hours to take advantage of the buy one, get one sale on Tallow.
+[00:26:59.440 --> 00:27:00.319]  I believe it's Tallow.
+[00:27:00.400 --> 00:27:01.200]  It's buy one, get one.
+[00:27:01.359 --> 00:27:02.400]  Or is it the colostrum?
+[00:27:02.559 --> 00:27:03.759]  I'll clarify on the other side.
+[00:27:04.079 --> 00:27:04.799]  Stay with us, folks.
+[00:27:04.880 --> 00:27:06.880]  It's the AlexJonesStore.com.
+[00:27:06.960 --> 00:27:07.799]  there today.
+[00:27:07.880 --> 00:27:15.019]  Ladies and gentlemen.
+[00:27:15.759 --> 00:27:18.559]  I made a mistake at the end of the last segment.
+[00:27:20.319 --> 00:27:21.200]  It's a rare thing.
+[00:27:21.599 --> 00:27:23.039]  I confess I did make a mistake.
+[00:27:23.279 --> 00:27:26.480]  See, we've got two new products at the AlexJonesStore.com.
+[00:27:26.559 --> 00:27:30.160]  Both are beef-based, both are cow-based, and both are just incredibly powerful.
+[00:27:30.480 --> 00:27:38.079]  Tallow, of course, is our newest one, but Bovine Colostrum Plus is a miraculous superfood.
+[00:27:38.240 --> 00:27:44.480]  Essentially, it's made from the milk that's produced by cows in the very first few days after a calf is born.
+[00:27:44.640 --> 00:27:46.480]  So it's the most nutritious.
+[00:27:46.799 --> 00:27:48.319]  And it's the same with all mammals.
+[00:27:48.400 --> 00:27:55.279]  Cows, of course, just are particularly easy for humans to digest.
+[00:27:55.599 --> 00:27:56.720]  But it's called colostrum.
+[00:27:56.799 --> 00:27:57.440]  So it's not actually milk.
+[00:27:57.519 --> 00:27:58.480]  It's called colostrum.
+[00:27:58.559 --> 00:28:03.519]  But it really is just, it's the same like the Irish sea moss or the shilajit.
+[00:28:04.240 --> 00:28:12.640]  Like people, you know, God just gives us superfoods and then we just package them and purify them and make them bioavailable to you.
+[00:28:12.960 --> 00:28:17.359]  But shilajit is, it just emerges at the top of mountains.
+[00:28:17.599 --> 00:28:19.279]  It's like literally magic.
+[00:28:19.599 --> 00:28:24.880]  It just emerges out of the ground on the top of the Altai Mountains in the Himalayas.
+[00:28:25.200 --> 00:28:28.160]  And the people there noticed that monkeys in the area would eat it.
+[00:28:28.240 --> 00:28:29.120]  So they started eating it.
+[00:28:29.360 --> 00:28:30.480]  Anyway, we just purify it.
+[00:28:30.559 --> 00:28:33.920]  We, you know, because some Shilajit out there can't have heavy metals.
+[00:28:34.000 --> 00:28:34.480]  Ours does not.
+[00:28:34.559 --> 00:28:36.960]  Ours is purified in the highest possible quality.
+[00:28:37.279 --> 00:28:38.799]  Same with Irish sea moss.
+[00:28:38.960 --> 00:28:40.880]  Irish sea moss is what it sounds like.
+[00:28:40.960 --> 00:28:43.680]  It's sea moss off the coast of Ireland.
+[00:28:44.000 --> 00:28:56.079]  And we never would have known of its incredible, you know, nutritional power, except that during the Irish famine, people started eating the sea moss out of desperation and realized, oh, this stuff is superfood, actually.
+[00:28:56.640 --> 00:29:02.079]  Actually, it's one of the healthiest things you can find on the planet for some reason in this particular area.
+[00:29:02.720 --> 00:29:03.920]  That's just what's created.
+[00:29:04.000 --> 00:29:07.039]  And then colostrum, of course, is just what cows create.
+[00:29:07.200 --> 00:29:10.559]  And it's what babies need when they're very first born.
+[00:29:10.720 --> 00:29:13.680]  It is, it's like, it's like the stem cell of food.
+[00:29:13.839 --> 00:29:15.119]  That might be a good way of putting it.
+[00:29:15.440 --> 00:29:26.319]  You know, stem cells, wherever you put them, they sort of adapt, but they're the fundamental, the primordial, you know, product at the center of it.
+[00:29:26.640 --> 00:29:28.000]  That's sort of what colostrum is.
+[00:29:28.240 --> 00:29:29.519]  It's primordial milk.
+[00:29:29.759 --> 00:29:30.960]  That's how I'd put it.
+[00:29:31.279 --> 00:29:33.279]  Anyway, bovine colostrum plus is on sale right now.
+[00:29:33.360 --> 00:29:35.759]  It's buy one, get one on the alexjonesstore.com.
+[00:29:35.839 --> 00:29:40.480]  Buy one, get one for bovine colostrum plus right now at thealxjonesstore.com.
+[00:29:40.640 --> 00:29:43.519]  Today is your last day, really just the last few hours.
+[00:29:43.599 --> 00:29:46.799]  It's nature's first superfood, bovine colostrum plus.
+[00:29:47.440 --> 00:29:48.000]  So there you go.
+[00:29:48.079 --> 00:29:49.680]  And hey, pick up the tallow while you're there.
+[00:29:49.920 --> 00:29:51.599]  While you're there, pick up the tallow.
+[00:29:51.759 --> 00:29:59.360]  The other miracle product that we get from cows and at the highest possible quality.
+[00:29:59.519 --> 00:29:59.839]  Okay.
+[00:30:00.480 --> 00:30:10.319]  So we're going to talk a little bit more about what exactly is happening in Minnesota and really around the country with the inordinate, overwhelming amount of fraud that has been unveiled.
+[00:30:10.640 --> 00:30:15.279]  And now, coincidentally, I don't know, is this, are these unrelated?
+[00:30:15.440 --> 00:30:17.920]  I mean, obviously they're not unrelated because it all has to do with immigration.
+[00:30:18.160 --> 00:30:19.440]  The ultimate fraud, right?
+[00:30:20.000 --> 00:30:26.799]  The fraud defrauding us of our birthright and our country and our way of life and our peace of mind and our tax dollars.
+[00:30:26.960 --> 00:30:30.079]  It all goes back to immigration.
+[00:30:30.400 --> 00:30:43.360]  So whether it's just the sheer immigration and the immigrants being here and refusing to leave and forcing us to go grab them and deport them, or it's the illegal immigrants setting up fake daycares and robbing us for hundreds of billions of dollars.
+[00:30:43.599 --> 00:30:46.160]  It is all the same source at the end of the day.
+[00:30:46.480 --> 00:30:48.079]  But I think it's more related than that.
+[00:30:48.319 --> 00:31:11.599]  I think it's not a coincidence that on the very day you have a official report released showing that not only did Tim Waltz and his government know about the fraud, that they actively participated in the cover-up by printing out documents and backdating them so that they could cover up their tracks and try to get away with their crime.
+[00:31:11.759 --> 00:31:16.960]  On that very day that that information comes out, he's trying to start a civil war.
+[00:31:17.279 --> 00:31:18.960]  Is that a coincidence?
+[00:31:19.440 --> 00:31:20.880]  That just happenstance?
+[00:31:21.440 --> 00:31:30.640]  Or is he actually trying to foster a civil war to cover up for the immense amount of fraud that he and his cronies have carried out?
+[00:31:31.599 --> 00:31:33.119]  It kind of doesn't matter at the end of the day.
+[00:31:33.200 --> 00:31:38.799]  At the end of the day, you just need to treat all of this the same, but I don't think it's a coincidence.
+[00:31:38.879 --> 00:31:40.559]  Let's go to clip 60 here.
+[00:31:41.759 --> 00:31:45.039]  This is, frankly, a congressman I'm not a big fan of.
+[00:31:45.119 --> 00:31:47.759]  It's Randy Fine, but there's a few other congressmen in this.
+[00:31:48.079 --> 00:31:52.000]  There's a video from Fox or clip from Fox News Digital.
+[00:31:52.319 --> 00:32:01.439]  And while I'm not a big fan of Randy Fine, I'm really not a big fan of just about any Republican congressman at this point, except maybe Thomas Massey.
+[00:32:02.079 --> 00:32:10.000]  I am glad that some congressmen at least recognize that what Tim Waltz is doing is not, you know, pushing the limits of his power as governor.
+[00:32:10.240 --> 00:32:15.759]  It's not, well, he's standing up for his interpretation of the freedoms that Americans represent.
+[00:32:16.079 --> 00:32:16.959]  It's clear.
+[00:32:17.279 --> 00:32:18.480]  It's undeniable.
+[00:32:18.799 --> 00:32:19.919]  It's in your face.
+[00:32:20.240 --> 00:32:23.039]  Tim Waltz is trying to start a civil war.
+[00:32:23.359 --> 00:32:27.119]  And at least some Republicans in power understand this fact.
+[00:32:27.279 --> 00:32:28.159]  Let's watch.
+[00:32:29.439 --> 00:32:30.879]  Well, Democrats don't seem to learn.
+[00:32:31.039 --> 00:32:33.679]  In 1860, Democrats created the first Civil War.
+[00:32:33.919 --> 00:32:35.919]  Tim Waltz seems to be calling for the second one.
+[00:32:36.159 --> 00:32:38.480]  And in the same way they lost that one, they'll lose this one.
+[00:32:38.799 --> 00:32:41.279]  But they better be careful with what they wish for.
+[00:32:41.439 --> 00:32:48.240]  Look, what Walls and Fry realize is they got away literally with murder in 2020 with the George Floyd stuff.
+[00:32:48.480 --> 00:32:50.879]  We're not putting up with that crap this time around.
+[00:32:51.359 --> 00:32:55.599]  The last time they did that was at Fort Sumter, and it began the Civil War.
+[00:32:56.240 --> 00:33:00.159]  So if his state militia acts against the federal government, that is actually a civil war.
+[00:33:00.319 --> 00:33:05.359]  So that guy needs to shut his damn mouth up now because he's calling for civil war.
+[00:33:05.839 --> 00:33:08.319]  Mike Waltz is an absolute moron.
+[00:33:09.919 --> 00:33:11.759]  That's the long and the short of it.
+[00:33:11.919 --> 00:33:15.279]  He is an absolute moron who is essentially calling for civil war.
+[00:33:15.599 --> 00:33:22.159]  If he says with that intent, to oppose, you're bringing in a military force.
+[00:33:22.559 --> 00:33:25.839]  Let's just lay it out the way he's saying.
+[00:33:26.319 --> 00:33:37.599]  I'm going to basically bring in a military force of the state to oppose an armed force to oppose a federal armed force.
+[00:33:38.240 --> 00:33:39.679]  What does that sound like to the average person?
+[00:33:39.839 --> 00:33:41.039]  Kind of like you want to go to war.
+[00:33:41.279 --> 00:33:42.240]  He was defending himself.
+[00:33:42.399 --> 00:33:43.839]  I mean, I don't know how else you'd really take it.
+[00:33:44.719 --> 00:33:54.480]  Now, if you would have said, like you said, to keep law and order, to make sure that this doesn't escalate, that is the kind of verbiage that says, I want to make sure nothing bad happens.
+[00:33:55.039 --> 00:34:03.839]  When I say I'm bringing armed people from my state to oppose, that does not give me any indication other than the fact that you want to start some stuff.
+[00:34:04.399 --> 00:34:06.559]  And when I say stuff, I'm being very pleasant.
+[00:34:06.799 --> 00:34:09.119]  As a military guy, I want to say other words.
+[00:34:12.079 --> 00:34:12.960]  Of course, they're exactly right.
+[00:34:13.199 --> 00:34:14.480]  I mean, that is exactly what's happening.
+[00:34:14.559 --> 00:34:19.199]  GOP lawmakers call on Trump to arrest Waltz after Governor Warrens of the National Guard move.
+[00:34:20.239 --> 00:34:22.880]  Even the way Fox News is phrasing it, that's not, he didn't warn.
+[00:34:23.199 --> 00:34:23.840]  He ordered.
+[00:34:24.079 --> 00:34:37.359]  He ordered the National Guard, as that congressman in the last part said, exposing and explaining his intent of deploying the National Guard to fight the federal officers.
+[00:34:38.319 --> 00:34:45.199]  You understand it's a little different if some dude who nobody's ever heard of calls for civil war.
+[00:34:45.359 --> 00:34:47.359]  And it doesn't really mean that much.
+[00:34:47.679 --> 00:34:59.199]  When the governor of a state gives actual orders to a National Guard battalion saying we're going to go to civil war, it's kind of an entirely different thing.
+[00:34:59.519 --> 00:35:06.000]  It's kind of not something that you can treat like a statement or a warning.
+[00:35:06.480 --> 00:35:07.039]  It's an action.
+[00:35:07.199 --> 00:35:07.759]  It's an order.
+[00:35:07.920 --> 00:35:09.840]  It's something that he's actually doing.
+[00:35:11.759 --> 00:35:13.359]  Yeah, he needs to be arrested.
+[00:35:13.599 --> 00:35:17.119]  A lot of these people need to be arrested.
+[00:35:18.400 --> 00:35:19.199]  Let me clarify.
+[00:35:19.359 --> 00:35:21.440]  I'm not saying I want them arrested.
+[00:35:22.079 --> 00:35:25.199]  I'm not saying it would feel good for them to be arrested.
+[00:35:25.519 --> 00:35:35.920]  I'm saying for the future of this country and the future safety of innocent people, these people must be arrested, need to be arrested.
+[00:35:36.399 --> 00:35:38.559]  Let's go to clip 48 here.
+[00:35:38.879 --> 00:36:01.839]  This is Keith Ellison, AG of Minnesota, who was caught, I want to remind you, on hidden microphone, actually negotiating this type of stuff, negotiating with the Somalis that were committing fraud, saying I will fight them, them, meaning the regulators that were trying to stop the fraud.
+[00:36:02.159 --> 00:36:21.839]  Do you have Keith Ellison, Attorney General, you know, famous for posing with an Antifa handbook on camera or on video, on audio rather, communicating with the Somalis, essentially saying, vote for me, give me money, and I'll make sure all of this trouble with the law goes away.
+[00:36:22.079 --> 00:36:25.039]  I mean, he's on audio saying that.
+[00:36:25.599 --> 00:36:41.519]  Here he is giving an interview and explaining that if the Democrats ever get back in power to any substantial degree, they are going to unleash tyrannical lawfare against everybody who opposes them.
+[00:36:41.839 --> 00:36:45.919]  And they'll be charging ICE agents with murder, which has no statute of limitations.
+[00:36:46.079 --> 00:36:48.000]  This is a forever threat.
+[00:36:48.239 --> 00:36:50.159]  Here's Keith Ellison making it.
+[00:36:53.199 --> 00:36:54.879]  I do have to ask you, a lot of people are concerned.
+[00:36:54.959 --> 00:36:57.119]  Let's say nothing happens, right?
+[00:36:57.279 --> 00:37:04.879]  The Trump administration conducts its investigation, says self-defense, no charges are warranted, excludes you all from the case file.
+[00:37:05.039 --> 00:37:07.279]  You guys can't get an accurate investigation going.
+[00:37:07.599 --> 00:37:13.599]  How do you ensure that this officer is held accountable if the evidence is there at some point?
+[00:37:13.759 --> 00:37:15.439]  I mean, is there a statute of limitations here?
+[00:37:15.679 --> 00:37:16.000]  What happens?
+[00:37:16.799 --> 00:37:20.319]  There's no statute of limitations on a murder case, on a homicide.
+[00:37:20.399 --> 00:37:21.519]  There's no statute of limitations.
+[00:37:21.679 --> 00:37:23.679]  A lot of people, you know, have heard that before.
+[00:37:23.919 --> 00:37:24.719]  They're right.
+[00:37:25.439 --> 00:37:26.799]  So the case, it's not over.
+[00:37:27.119 --> 00:37:29.119]  It's not over just because they say that.
+[00:37:29.439 --> 00:37:47.439]  Let me also note that, and this is important, that I'm hearing reports, which I hope that you can confirm that the civil rights division of the Department of Justice is being excluded from the case too.
+[00:37:48.239 --> 00:38:00.479]  And that means that the people who do these kind of prosecutions, even from the feds, are not being included in these investigations.
+[00:38:00.959 --> 00:38:03.759]  So that's one that I've heard from several sources.
+[00:38:04.639 --> 00:38:10.879]  I wonder if that might be something that people at the free independent press can run down and confirm.
+[00:38:11.199 --> 00:38:12.799]  But I've been getting those reports.
+[00:38:13.039 --> 00:38:14.319]  And I'll tell you this, Aaron.
+[00:38:14.959 --> 00:38:21.439]  I was hearing that we were excluded days before we were officially excluded.
+[00:38:21.759 --> 00:38:24.879]  I was trying to persuade them to change their mind.
+[00:38:25.199 --> 00:38:27.279]  And I still hope they change their mind.
+[00:38:27.839 --> 00:38:30.719]  But, you know, this is the bad news.
+[00:38:30.959 --> 00:38:33.279]  I can tell you that I can tell you this.
+[00:38:33.599 --> 00:38:34.639]  One, they can't stop.
+[00:38:34.879 --> 00:38:41.519]  If we get the evidence, if we get probable cause that a crime was committed and Jonathan Ross committed it, we can charge that now.
+[00:38:43.039 --> 00:38:46.079]  Also, now there will be barriers.
+[00:38:46.399 --> 00:38:54.000]  If I was the defense attorney, I'd say, well, I would defend the way I would defend the case is I'd say they don't even have the full case file.
+[00:38:54.319 --> 00:38:55.119]  They haven't looked at this.
+[00:38:55.199 --> 00:38:55.919]  They haven't looked at that.
+[00:38:56.079 --> 00:38:56.879]  There's all this reason.
+[00:38:57.279 --> 00:38:59.599]  All these things can represent reasonable doubt.
+[00:38:59.919 --> 00:39:01.279]  And that would be the defense.
+[00:39:01.519 --> 00:39:03.519]  But it doesn't mean we can't charge it.
+[00:39:03.839 --> 00:39:05.919]  It might mean it'd be harder to win it.
+[00:39:07.439 --> 00:39:17.519]  Now, after the Trump administration is gone, and they will be one day, this case is not going to evaporate.
+[00:39:17.679 --> 00:39:22.799]  And hopefully, full and free access to the file will emerge again.
+[00:39:23.119 --> 00:39:24.239]  So there you go.
+[00:39:24.559 --> 00:39:30.000]  There's no statute of limitations on murder once this whole Trump phenomenon is over.
+[00:39:30.559 --> 00:39:31.839]  Well, we'll go after him then.
+[00:39:32.000 --> 00:39:33.519]  And it's not just me, the ICE agents.
+[00:39:33.759 --> 00:39:35.839]  It's going to be anybody in ICE.
+[00:39:36.319 --> 00:39:40.479]  By the way, they're going to get access to the employment files for ICE.
+[00:39:40.559 --> 00:39:45.519]  They're going to have everybody not only that works for ICE, but who even applied to work at ICE.
+[00:39:45.679 --> 00:39:49.519]  They're building those lists, and they're like pretty public about this.
+[00:39:49.839 --> 00:39:56.799]  They intend to systematically destroy ICE and imprison everybody who was ever involved in it.
+[00:39:57.039 --> 00:40:02.559]  Probably the same that they'll do with anybody in the FBI who went along with Donald Trump's plans.
+[00:40:02.879 --> 00:40:04.239]  This is what all of this is about.
+[00:40:04.399 --> 00:40:06.399]  This is what the seditious six is about.
+[00:40:06.719 --> 00:40:09.759]  This is what all the claims of Trump's an illegitimate president.
+[00:40:09.919 --> 00:40:11.359]  Therefore, his orders are illegitimate.
+[00:40:11.519 --> 00:40:15.199]  Therefore, following his orders makes you an accomplice to the crime.
+[00:40:15.519 --> 00:40:20.559]  Therefore, following the orders of the duly elected president means you're going to go to jail.
+[00:40:20.879 --> 00:40:24.559]  They have, in effect, already overthrown the United States government.
+[00:40:24.719 --> 00:40:28.639]  We already don't have a president that can fulfill our will.
+[00:40:29.199 --> 00:40:36.079]  Every time he tries, he gets stopped by a judge no one's ever heard of, never cast a vote, oftentimes isn't even in this country.
+[00:40:36.239 --> 00:40:40.319]  And I'm not sure how many of them are literate, to be frank with you.
+[00:40:40.719 --> 00:40:41.279]  Doesn't matter.
+[00:40:41.519 --> 00:40:42.959]  They get to decide, not our president.
+[00:40:43.279 --> 00:40:52.399]  President issues orders to round up criminals or deport illegal aliens as is dictated his obligation by law.
+[00:40:53.279 --> 00:40:57.199]  It's actually illegal not to do that, which is what Alejandro Mayorkas and Joe Biden did.
+[00:40:57.279 --> 00:40:58.559]  I'd arrest them too.
+[00:40:59.439 --> 00:41:01.999]  But you understand, it's not just Ellison making these threats.
+[00:41:02.159 --> 00:41:03.839]  It's not just Gavin Newsom making these threats.
+[00:41:03.999 --> 00:41:11.839]  It's not just Mayor Frey and Mayor Fry making these threats or Governor Waltz making these threats.
+[00:41:12.159 --> 00:41:14.319]  Like they all understand that this is the plan.
+[00:41:14.559 --> 00:41:15.359]  They all get it.
+[00:41:15.679 --> 00:41:19.839]  Larry Krasner, DA in Philadelphia, to ICE and National Guard.
+[00:41:20.000 --> 00:41:25.519]  If you commit crimes in Philadelphia, we will charge you and hold you accountable to the fullest extent of the law.
+[00:41:25.839 --> 00:41:27.119]  F-A-F-O.
+[00:41:28.399 --> 00:41:31.359]  Again, sort of same thing the seditious six said, right?
+[00:41:31.919 --> 00:41:36.479]  Well, we never actually said don't obey your orders.
+[00:41:36.799 --> 00:41:39.359]  We just said don't obey illegal orders.
+[00:41:39.679 --> 00:41:43.199]  And they play this little legal, you know, trickery game.
+[00:41:43.519 --> 00:41:45.519]  I don't know why we let them.
+[00:41:46.399 --> 00:41:49.439]  Again, we have laws on the books that they're still the laws.
+[00:41:49.679 --> 00:41:59.039]  There's never been another law passed to supersede it that lays out that it is illegal to try to convince the Army to mutiny.
+[00:41:59.279 --> 00:42:00.879]  Obviously, that's illegal.
+[00:42:01.199 --> 00:42:02.239]  And that's what they're doing.
+[00:42:02.399 --> 00:42:03.039]  That's what they did.
+[00:42:03.119 --> 00:42:04.159]  That's what they continue to do.
+[00:42:04.399 --> 00:42:20.159]  I mean, there are leftist groups right now, well-funded and public leftist groups, that are running ads on social media saying, are you in the U.S. Army and worried about being asked to commit felonies or obey unlawful orders?
+[00:42:20.399 --> 00:42:25.759]  Get in contact with us and we'll connect you to other soldiers that are feeling like you.
+[00:42:26.000 --> 00:42:33.039]  We have leftist groups actively recruiting American soldiers in the Army to mutiny.
+[00:42:34.319 --> 00:42:35.039]  That's sedition.
+[00:42:35.199 --> 00:42:37.279]  Like, why are they allowed to do that?
+[00:42:38.879 --> 00:42:39.599]  What's the answer?
+[00:42:39.839 --> 00:42:40.639]  I don't know.
+[00:42:42.799 --> 00:42:52.159]  So they're telling the Army, they're telling ICE, they're telling everyone these orders that are lawful, we're going to decide they're not lawful.
+[00:42:52.479 --> 00:42:59.679]  Maybe we'll change the law and then backdate and go, well, it wasn't illegal then, but it is now and we're going to punish you now for what you did then.
+[00:43:00.000 --> 00:43:01.839]  They are going to send you to prison.
+[00:43:02.000 --> 00:43:05.679]  Everybody in ICE, everybody who's ever helped Trump and Trump himself.
+[00:43:06.000 --> 00:43:08.399]  So why is he not cracking down on these people?
+[00:43:08.719 --> 00:43:09.759]  I couldn't possibly say.
+[00:43:09.919 --> 00:43:11.039]  I don't know.
+[00:43:12.319 --> 00:43:13.839]  I really don't know.
+[00:43:14.479 --> 00:43:25.199]  I mean, the only thing I can think is, you know, he's trying to, you know, keep a lid on it, handle it without things popping off and going out of control.
+[00:43:26.159 --> 00:43:28.479]  Trump has been so patient.
+[00:43:28.799 --> 00:43:33.359]  He's been so conciliatory towards all of the judges getting in his way.
+[00:43:33.679 --> 00:43:35.839]  He has followed the letter of the law.
+[00:43:35.999 --> 00:43:40.559]  I mean, he's like Trump in America is like Russia on the world stage, right?
+[00:43:40.879 --> 00:43:44.239]  Russia knows it can't get away with breaking international law.
+[00:43:44.559 --> 00:43:46.079]  All of its opponents can, right?
+[00:43:46.239 --> 00:43:52.479]  All of the, you know, everybody else can get away with violating every international law there is, and nobody does anything about it.
+[00:43:52.559 --> 00:43:53.279]  Russia can't, though.
+[00:43:53.519 --> 00:44:01.199]  So when Russia's executing a war, they are very careful not to break international law, not to commit any war crimes, because they can't get away with it.
+[00:44:01.439 --> 00:44:02.799]  It's sort of the same thing with Trump.
+[00:44:03.119 --> 00:44:04.559]  Trump is being so careful.
+[00:44:04.719 --> 00:44:10.799]  He's being so nice to the judges, being so congenial and conciliatory towards the Democrats.
+[00:44:11.119 --> 00:44:12.959]  They're still talking like this.
+[00:44:13.279 --> 00:44:14.879]  They're still acting like you're a tyrant.
+[00:44:14.959 --> 00:44:16.879]  They're still acting like you're a despot.
+[00:44:17.199 --> 00:44:20.239]  So we're getting the reaction to a tyrant.
+[00:44:20.399 --> 00:44:26.799]  We're just not getting the crackdown that would actually keep the revolutionary sentiment in check.
+[00:44:29.359 --> 00:44:31.039]  He's doing the worst of both worlds.
+[00:44:31.279 --> 00:44:38.079]  We're doing enough to piss off the left and activate the left, but not enough to disable the left.
+[00:44:38.399 --> 00:44:45.919]  So all of the people that are encouraging this and creating this catastrophe are still in power and only getting bolder.
+[00:44:46.239 --> 00:44:47.999]  And the longer this goes, the worse it's going to get.
+[00:44:48.159 --> 00:44:55.359]  Philly Police Commissioner issues a devastating response to woke sheriff, who threatened to arrest ICE agents and warned them, you don't want this smoke.
+[00:44:57.599 --> 00:45:08.479]  Philadelphia County's scandal-plagued sheriff's disgusting anti-ICE press conference has officially backfired after the city's own police commissioner provided a valuable education lesson for her in a stunning statement.
+[00:45:08.559 --> 00:45:09.359]  So this video went viral.
+[00:45:09.439 --> 00:45:10.399]  Do we have this video, guys?
+[00:45:10.879 --> 00:45:12.479]  It's from the Gateway Pundit.
+[00:45:13.119 --> 00:45:24.719]  As Gateway Pundit reported, Philadelphia County Sheriff Rochelle Bilal unleashed a blistering attack on U.S. immigration and custom enforcement on Thursday, branding the federal agency fake made-up law enforcement.
+[00:45:25.039 --> 00:45:26.799]  Yeah, all law enforcement is made up.
+[00:45:26.959 --> 00:45:27.199]  What?
+[00:45:27.519 --> 00:45:28.719]  What is he talking about?
+[00:45:29.039 --> 00:45:31.679]  Yes, all law enforcement was made up at some point.
+[00:45:31.919 --> 00:45:33.439]  Do they not understand this?
+[00:45:34.959 --> 00:45:36.159]  Does anybody understand this?
+[00:45:36.479 --> 00:45:37.199]  This is how it works.
+[00:45:37.439 --> 00:45:43.279]  This is why I've been saying Trump needs to create a new law enforcement agency, an anti-corruption agency.
+[00:45:43.919 --> 00:45:47.439]  You know, there was at one point there was not a thing called the FBI.
+[00:45:47.599 --> 00:45:48.879]  There was not a thing called the CIA.
+[00:45:49.039 --> 00:45:51.519]  There wasn't a thing called ICE or even Homeland Security.
+[00:45:51.679 --> 00:45:53.839]  When I was born, these things didn't exist.
+[00:45:54.159 --> 00:46:05.439]  And then one day, Congress got together, wrote a law, said, We hereby empower this group of people with these extraordinary privileges because they're going to go out and fight crime.
+[00:46:06.399 --> 00:46:06.879]  You sign it.
+[00:46:07.119 --> 00:46:07.919]  The president signs it.
+[00:46:08.079 --> 00:46:08.559]  You vote for it.
+[00:46:08.639 --> 00:46:09.919]  The president signs it.
+[00:46:10.559 --> 00:46:12.479]  The funding moves to the accounts.
+[00:46:13.439 --> 00:46:14.079]  Ta-da.
+[00:46:14.159 --> 00:46:15.439]  Now you have a law enforcement agency.
+[00:46:15.599 --> 00:46:16.559]  That's how it works.
+[00:46:16.879 --> 00:46:18.159]  Lady, what are you talking about?
+[00:46:18.239 --> 00:46:24.079]  Does she think that the FBI or the local police were formed in some sort of primordial ooze?
+[00:46:24.319 --> 00:46:26.159]  She thinks it just developed naturally.
+[00:46:26.239 --> 00:46:27.439]  It evolved.
+[00:46:27.759 --> 00:46:30.159]  There were little police amoebas that became police people.
+[00:46:30.319 --> 00:46:31.439]  Like, what is she talking about?
+[00:46:31.759 --> 00:46:35.439]  All law enforcement agencies are made up.
+[00:46:35.759 --> 00:46:35.999]  What?
+[00:46:36.639 --> 00:46:37.679]  I mean, they're fake.
+[00:46:37.999 --> 00:46:42.399]  Sheriff Bilal, who has faced numerous controversies during her tenure, didn't mince words on Thursday.
+[00:46:42.479 --> 00:46:47.999]  Perhaps the most disturbing part of the sheriff's tirade was the direct threat of physical confrontation against federal officers.
+[00:46:48.239 --> 00:46:56.079]  Bilal warned that her office would not hesitate to use force or legal action against agents performing their constitutionally mandated duties.
+[00:46:57.599 --> 00:47:05.519]  And, you know, again, I'm having flashbacks to Black Lives Matter in more ways than one, right?
+[00:47:06.399 --> 00:47:19.679]  Not only is the fabricated nature of this extremely reminiscent, not only did the killing of Renee Good happen about four blocks from where George Floyd died, Minneapolis being the epicenter of this.
+[00:47:19.759 --> 00:47:26.079]  Like, there's lots of stuff that go into this being like Black Lives Matter.
+[00:47:27.039 --> 00:47:38.559]  But part of it, and maybe the part that frustrates me most is before Black Lives Matter, InfoWars, the Libertarians, myself, we're like the only ones that cared about police brutality.
+[00:47:38.880 --> 00:47:46.000]  And for years, I would be posting stories about the most horrific police brutality you've ever seen on Facebook or whatever else.
+[00:47:46.320 --> 00:47:49.039]  Years ago, before I worked at InfoWars, nobody cared.
+[00:47:49.360 --> 00:47:50.880]  Wouldn't get any traction.
+[00:47:51.519 --> 00:47:53.599]  Shut up, you conspiracy theorists, like all this stuff.
+[00:47:53.759 --> 00:47:54.320]  Nobody cared.
+[00:47:54.400 --> 00:48:08.000]  Nobody would talk about the fact that police were being trained to do this, that this was all part of the not just the war on drugs, but the war on terror, that our police were being trained to treat American citizens like enemy combatants on a battlefield.
+[00:48:08.320 --> 00:48:26.559]  Like we talked about all of this, talked about how it got created, the laws that were passed to give greater cover to police so they could abuse American citizens, how all of it was psychologically loaded and primed to make people used to the idea that police can pull you over, arrest you in prison, or kill you without any.
+[00:48:27.119 --> 00:48:29.360]  So for years, we talk about police brutality.
+[00:48:29.679 --> 00:48:35.279]  Suddenly, there's millions of people all over the country marching against police brutality.
+[00:48:35.599 --> 00:48:36.559]  Well, not really.
+[00:48:36.880 --> 00:48:39.199]  No, no, it's about racism, actually.
+[00:48:39.519 --> 00:48:57.119]  So now not only are we not solving the problem of police brutality, we're actually making that problem worse by demonizing the police, lowering the quality of their, you know, the people that join the police, lowering their budgets, removing their ability to use non-lethal intervention, forcing them to do more dangerous things.
+[00:48:57.759 --> 00:48:59.519]  It actually made the problem worse.
+[00:48:59.679 --> 00:49:01.039]  The same thing is happening here.
+[00:49:01.360 --> 00:49:08.159]  It would be wonderful if these people believed anything that they said, if they actually were concerned about tyranny, where the hell were they during COVID?
+[00:49:08.400 --> 00:49:17.920]  If they were actually concerned about the Constitution being destroyed, where have they been as the Constitution has been systematically destroyed over the last several decades?
+[00:49:18.000 --> 00:49:19.199]  Like, what the hell are they talking about?
+[00:49:19.360 --> 00:49:20.480]  They're just liars.
+[00:49:20.800 --> 00:49:29.519]  They're liars that still know that Americans overall as a whole still have belief in the fundamental value of the Constitution.
+[00:49:29.840 --> 00:49:35.679]  We still believe what the Constitution says about freedom of conscience, your freedom of speech.
+[00:49:35.840 --> 00:49:41.920]  Like Americans, the average American still very much appreciates, loves, and values the Constitution.
+[00:49:42.000 --> 00:49:51.199]  So they have to predicate their arguments on the Constitution when in reality, everything they're doing is taking a giant stake and driving it through the heart of the Constitution at every chance they get.
+[00:49:51.440 --> 00:49:55.759]  So just like Black Lives Matter, is government tyranny a problem?
+[00:49:55.920 --> 00:49:57.199]  Hell yes, it is.
+[00:49:58.000 --> 00:50:01.759]  This is making it worse in every possible way.
+[00:50:02.559 --> 00:50:07.199]  And it's so frustrating.
+[00:50:07.360 --> 00:50:08.400]  I don't even know what else to say.
+[00:50:08.559 --> 00:50:23.519]  It's so frustrating that these people will dress up their communist, deconstructionist, tyrannical activity in the language of the Constitution.
+[00:50:23.840 --> 00:50:26.960]  It is an insult on top of everything else.
+[00:50:29.199 --> 00:50:40.320]  And this is a very, very incomplete list, but it at least gives you a good understanding of why Trump supporters are so frustrated and are losing patience.
+[00:50:40.639 --> 00:50:45.199]  It's a list of Republicans arrested by the Biden administration.
+[00:50:45.519 --> 00:50:48.480]  And it's about, I don't know, 100 names long.
+[00:50:48.639 --> 00:51:01.119]  Mark Meadows, Rudy Giuliani, John Eastman, Donald J. Trump himself, Waltonauta, Carlos De Oliviera, Stephen K. Bannon, Peter K. Navarro, Jenna Ellis, Sidney Powell.
+[00:51:02.000 --> 00:51:05.440]  So many people were arrested from the Trump administration under Joe Biden.
+[00:51:05.519 --> 00:51:06.559]  None of them committed a crime.
+[00:51:06.800 --> 00:51:08.559]  None of them called for overthrowing the country.
+[00:51:08.880 --> 00:51:26.079]  None of them said anything even remotely close to what we're hearing from Democrats today and the last few days, openly calling for insurrection, taking an already volatile and unstable situation and just injecting it with as much conflict and chaos as they possibly can.
+[00:51:26.639 --> 00:51:29.039]  And none of them have been arrested, none of them.
+[00:51:32.480 --> 00:51:38.639]  Seattle Mayor Katie Wilson, Minneapolis, Minnesota Mayor Jacob Fry are lying to you.
+[00:51:38.960 --> 00:51:43.440]  It's demonstratable fact, and they're following Democrat Party Soros' talking points.
+[00:51:43.760 --> 00:51:46.400]  In this same post, I'll post both of their statements.
+[00:51:46.480 --> 00:51:48.320]  You can see it for yourself.
+[00:51:48.639 --> 00:51:53.840]  They're both saying that the Border Patrol and ICE are committing crimes.
+[00:51:54.160 --> 00:52:02.559]  They're kidnapping people and that what they're doing is illegal and that they could arrest ICE, but they don't want to have a confrontation.
+[00:52:02.720 --> 00:52:04.480]  That is a complete lie.
+[00:52:04.800 --> 00:52:10.000]  Of course, they also go on with the same talking point as you've seen everywhere, that there's no warrants.
+[00:52:10.320 --> 00:52:18.639]  Well, in immigration enforcement, it's called a court order, which is even stronger than a warrant of arrest and deportation.
+[00:52:19.280 --> 00:52:20.880]  It's a final order.
+[00:52:21.200 --> 00:52:29.440]  It's not just a warrant to go arrest somebody or to go raid somebody and search through their papers and effects.
+[00:52:29.760 --> 00:52:32.160]  And everybody knows this who has half a brain.
+[00:52:32.480 --> 00:52:34.000]  And most of their constituents do too.
+[00:52:34.079 --> 00:52:36.720]  But Democrats want an excuse to riot, an excuse to get violent.
+[00:52:37.039 --> 00:52:38.720]  Last night, they stormed hotels.
+[00:52:38.800 --> 00:52:43.200]  They thought ICE was in, attacked the employees, knocked out windows.
+[00:52:43.519 --> 00:52:47.200]  It is raw communist behavior, ladies and gentlemen.
+[00:52:47.280 --> 00:52:49.039]  And that's what the left is today.
+[00:52:49.360 --> 00:52:58.079]  In New York, huge rally, 10,000 people chanting, hang Christy Noam, save a life, kill ICE, burn them, kill them all, kill them all, kill them all.
+[00:52:58.240 --> 00:53:00.639]  Literal Marine Corps chance, but from communists.
+[00:53:00.960 --> 00:53:02.160]  So this is who they are.
+[00:53:02.480 --> 00:53:05.519]  And they've got all the tens of thousands killed by illegal aliens, raped and murdered.
+[00:53:05.599 --> 00:53:06.559]  They never want to hear about that.
+[00:53:06.720 --> 00:53:08.079]  They always hide that in the newspaper.
+[00:53:08.160 --> 00:53:09.840]  They always hide that on TV.
+[00:53:10.720 --> 00:53:18.800]  You already see crime rates plunging in the last year because of what ICE has been able to do at a limited level because Biden had dismantled it.
+[00:53:19.119 --> 00:53:29.840]  So now they've been pushing just Fry two weeks ago telling Border Patrol in ICE, you stay in the city, you will die, because their people are getting more and more violent.
+[00:53:30.079 --> 00:53:32.720]  But finally, they got what they wanted, and they trained these women.
+[00:53:32.880 --> 00:53:40.960]  They trained this woman to be a quote, antifa super soldier and warrior at the elementary school where her child went.
+[00:53:41.280 --> 00:53:52.400]  And you see the Karens all over the country blocking ICE in and ramming their vehicles and ICE cells being shot up and their vans being shot up, people getting hit with bullets and Border Patrol killed by Trantifa.
+[00:53:52.960 --> 00:53:55.519]  And they're foaming at the mouth saying, we're coming to kill you.
+[00:53:55.599 --> 00:53:56.400]  They're all over the place.
+[00:53:56.960 --> 00:54:02.480]  And now you have Fry and others saying, we have a Second Amendment to defend against this.
+[00:54:02.800 --> 00:54:04.480]  He said that in the video yesterday.
+[00:54:04.800 --> 00:54:07.119]  So they're not even implying go out and be violent.
+[00:54:07.280 --> 00:54:08.000]  They're saying it.
+[00:54:08.079 --> 00:54:10.240]  And I posted that video on X last night.
+[00:54:10.559 --> 00:54:12.800]  But at the end of the day, I now blame the Justice Department.
+[00:54:12.880 --> 00:54:15.599]  And if Trump doesn't take action on them, Trump.
+[00:54:16.559 --> 00:54:18.800]  Because this is cut and dry illegal.
+[00:54:18.880 --> 00:54:21.360]  It's not free speech to lie and say people are unlawful.
+[00:54:21.519 --> 00:54:22.480]  They're committing crimes.
+[00:54:22.720 --> 00:54:26.400]  Get your Second Amendment, as Don Lemon and all the rest of them have said, and go after them.
+[00:54:26.720 --> 00:54:34.640]  And then for months and months before this woman got killed, you see the countless videos where they go out at ICE things and say, I'm going to put a bullet in your head.
+[00:54:34.720 --> 00:54:35.360]  You're going to die.
+[00:54:35.599 --> 00:54:37.039]  We're going to Charlie Kirk your ass.
+[00:54:37.280 --> 00:54:39.440]  And they just foam at the mouth.
+[00:54:39.760 --> 00:54:41.680]  And then I also saw the talking points the first few days.
+[00:54:41.840 --> 00:54:42.800]  Oh, she just lived there.
+[00:54:42.880 --> 00:54:44.159]  She was backing out of her parking lot.
+[00:54:44.640 --> 00:54:45.680]  Oh, she took a wrong turn.
+[00:54:45.920 --> 00:54:46.240]  No.
+[00:54:46.880 --> 00:54:54.960]  She was out there with her butch wife or whatever it is, blocking them, getting in their way, stopping them, and then running into him.
+[00:54:55.200 --> 00:54:58.079]  And now that that footage is out, none of the corporate media will show it.
+[00:54:58.400 --> 00:55:03.680]  Of course they won't, because they need the pretext under the Podesta Plan for a civil war in this country.
+[00:55:04.000 --> 00:55:06.720]  So this is next level outrageous.
+[00:55:07.039 --> 00:55:17.680]  It is not kidnapping when you have people with criminal records who've committed crimes in this country in almost every case and the crime of coming here illegally when you have a court order to deport them.
+[00:55:18.240 --> 00:55:19.360]  That is the fact.
+[00:55:19.680 --> 00:55:20.400]  That is the reality.
+[00:55:20.559 --> 00:55:29.599]  Now, sometimes when they're raiding a drug house or a human trafficking house, they also have warrants because there's going to be other people that might be citizens as well to search the premises for drugs and paraphernalia and things like that.
+[00:55:29.840 --> 00:55:31.679]  So sometimes they do have warrants as well.
+[00:55:32.000 --> 00:55:33.119]  But the left knows this.
+[00:55:33.199 --> 00:55:34.320]  They're just playing dumb.
+[00:55:34.639 --> 00:55:37.360]  I even saw Jesse Ventura going, they don't have warrants.
+[00:55:37.519 --> 00:55:38.719]  They're Gestapo.
+[00:55:39.039 --> 00:55:39.840]  Come on.
+[00:55:40.719 --> 00:55:54.799]  These people are really trying to manipulate this nation into a crisis and they want to divert away from the Somalis and the $24 million still in Minnesota and all the rest of the depth they're fighting around the country with the Somalis and other groups as the bag men for the Democrats.
+[00:55:55.119 --> 00:56:05.440]  And that's why so many Democratic Party officials, whether it's Mayor Fry or Tampon Tim, all of them, Elon Omar, have been caught with as soon as they get in office being worth half a million dollars, $30 million.
+[00:56:06.079 --> 00:56:08.559]  Get an office worth a quarter million dollars, worth $50 million.
+[00:56:08.960 --> 00:56:10.159]  Look up their net worth.
+[00:56:11.759 --> 00:56:13.679]  Straight up into the sky.
+[00:56:13.920 --> 00:56:15.920]  I'll continue to follow more reports as this unfolds.
+[00:56:16.079 --> 00:56:22.320]  There are Soros-funded demonstrations happening all over the country this weekend, and they need violence because they've lost political debate.
+[00:56:22.639 --> 00:56:30.239]  Now, some people will say, well, why are you suddenly worshiping the feds when the constitutional duty is being followed of the Board of Canadians?
+[00:56:30.880 --> 00:56:32.320]  Welcome back, ladies and gentlemen.
+[00:56:32.480 --> 00:56:33.599]  This is the Alex Jones Show.
+[00:56:33.840 --> 00:56:36.320]  I'm your host, Harrison Smith, sitting in today for Alex.
+[00:56:36.400 --> 00:56:43.840]  I usually host the War Room each and every weekday from 3 to 6 p.m. Central Time here on Infowars.com banned.video.
+[00:56:43.920 --> 00:56:45.119]  Please do share those links.
+[00:56:45.440 --> 00:56:48.320]  And as always, all of our content is free to air.
+[00:56:48.639 --> 00:56:52.719]  Download it yourself, clip it out yourself, upload it yourself, make money with it, monetize it.
+[00:56:52.880 --> 00:56:54.159]  We just want the information out there.
+[00:56:54.320 --> 00:56:56.239]  It's what this has always been about for us.
+[00:56:56.480 --> 00:57:06.800]  And you can see the fruit of our success, of our operation, of the mass awakening happening right now and the corresponding mass falling asleep.
+[00:57:06.960 --> 00:57:07.199]  I don't know.
+[00:57:07.279 --> 00:57:08.800]  What's the opposite of awakening?
+[00:57:09.119 --> 00:57:13.920]  Delving deeper into the cave, attacking the people that are trying to take you out of the cave.
+[00:57:14.480 --> 00:57:25.840]  Because as more and more Americans wake up, the system, the powers that be, the globalist enterprise gets more aggressive, gets more defensive, starts going a little bit crazier.
+[00:57:26.000 --> 00:57:27.360]  And we're seeing it worldwide right now.
+[00:57:27.519 --> 00:57:32.480]  I'm going to continue to cover the protests so-called, which is not accurate.
+[00:57:32.559 --> 00:57:33.360]  They're not protests.
+[00:57:34.000 --> 00:57:45.119]  The designed, organized, insurrectionist, seditious activity that's been pre-planned and organized, waiting for the moment to pop off.
+[00:57:46.079 --> 00:57:48.800]  That is not the only thing happening in the world right now.
+[00:57:49.039 --> 00:57:57.039]  Iran, of course, is facing some existential problems of its own that America will likely get drawn into one way or the other.
+[00:57:57.360 --> 00:57:59.440]  We also have the story of Patagonia burning.
+[00:57:59.519 --> 00:58:06.000]  I want to get into both of those, and I also want to get in some other, you know, pretty major stories from around the world.
+[00:58:06.239 --> 00:58:11.199]  But let's stick for the moment with what's going on in America.
+[00:58:11.519 --> 00:58:14.079]  And let's start over from the beginning, okay?
+[00:58:15.679 --> 00:58:24.559]  Because for the average normie out there that might not really understand what's going on here and who's telling the truth and who's not, you don't have to believe us.
+[00:58:24.880 --> 00:58:27.920]  You don't have to listen to the opinions of anybody.
+[00:58:28.079 --> 00:58:28.960]  We have the video.
+[00:58:29.199 --> 00:58:30.319]  We'll show it to you.
+[00:58:30.639 --> 00:58:47.440]  We'll explain exactly what's going on because if you can understand, if you can grasp that Renee Good was lawfully killed because she attacked a police officer, then everything else kind of makes sense, right?
+[00:58:48.639 --> 00:58:58.000]  If this was a police killing that was random and this response is all a natural outpouring of grief and anger over this event, then that's one.
+[00:58:58.639 --> 00:59:01.279]  Then you can look at what's going on today with one perspective.
+[00:59:01.440 --> 00:59:17.360]  If you understand that the killing wasn't illegal, that it was an act of self-defense, that she was trying to run over the police with her car, that she was trained to do this by activist groups who want her to put herself in dangerous situations because her being killed is what they've wanted this entire time.
+[00:59:17.519 --> 00:59:23.440]  It's what they've been really begging for and trying to orchestrate, trying to bring about by training people in this way.
+[00:59:23.519 --> 00:59:26.079]  And I'll show you some of the training videos in just a second.
+[00:59:26.239 --> 00:59:38.000]  If you can understand that nothing about this is natural or normal or, you know, unorchestrated, it gives you a whole other perspective of what we're witnessing out there.
+[00:59:38.239 --> 00:59:49.920]  So let's start over at the beginning and let's just lay down the groundwork, the incontrovertible fact that this woman tried to run over a police officer with her car and was shot in self-defense.
+[00:59:50.079 --> 00:59:54.400]  She was using her car as a deadly weapon and paid the ultimate price for it.
+[00:59:54.719 --> 00:59:56.239]  That's tragic and that's sad.
+[00:59:56.480 --> 01:00:25.360]  The fault is her and her lesbian wife telling her to drive, drive, drive right now and talking tough to the ICE agents a moment before and all of these staccatic terrorists in the Democratic Party and the mainstream media who have been filling these people's heads with absolute nonsense, encouraging them to go out and put themselves in harm's way by telling them that they're heroes for doing so when in reality they're simply obstructing lawful activity.
+[01:00:25.679 --> 01:00:29.840]  Ex-brother-in-law of woman killed by ICE said she should have minded her own business.
+[01:00:30.480 --> 01:00:32.000]  I mean, yeah.
+[01:00:33.599 --> 01:00:33.840]  Yeah.
+[01:00:34.800 --> 01:00:47.840]  And the thing that really is baffling about this is like, can we not just treat these people like any other body, like anybody else getting in the way of an arrest?
+[01:00:48.480 --> 01:01:04.400]  I mean, if the police were going and busting down the door of a crack house or if they were engaged in a chase with somebody who just robbed a bank and some random person drives their car out deliberately to block the police so that the criminal can get away.
+[01:01:06.000 --> 01:01:10.079]  What are the police just going to let them do that and just work around it?
+[01:01:10.239 --> 01:01:11.280]  No, you arrest that person.
+[01:01:11.440 --> 01:01:14.559]  You go, okay, you are now being charged with robbing a bank.
+[01:01:14.800 --> 01:01:15.519]  Sorry.
+[01:01:15.840 --> 01:01:18.159]  So why do we not treat these people like that?
+[01:01:18.800 --> 01:01:21.280]  The police are there to execute on a law.
+[01:01:21.440 --> 01:01:24.239]  They're there lawfully to get criminals.
+[01:01:24.559 --> 01:01:28.079]  And here these dumbass women are getting in the way.
+[01:01:28.320 --> 01:01:28.880]  Arrest them.
+[01:01:29.039 --> 01:01:29.760]  Just arrest them.
+[01:01:29.920 --> 01:01:30.880]  Why are they even allowed?
+[01:01:31.199 --> 01:01:32.400]  Like, that would have solved this.
+[01:01:32.480 --> 01:01:36.559]  She would have never died if she'd just been hauled out of the car and arrested the moment she showed up.
+[01:01:36.880 --> 01:01:42.880]  No, instead, she's allowed to mess around for a couple minutes, allowed to get in the way and try to bully the police.
+[01:01:42.960 --> 01:01:44.800]  And then she tries to run over one of them with the car.
+[01:01:45.039 --> 01:01:46.400]  So, yeah, she got shot.
+[01:01:46.559 --> 01:01:49.199]  It sucks, but what the hell is she doing?
+[01:01:50.400 --> 01:01:51.279]  All right, let's go.
+[01:01:51.599 --> 01:01:57.360]  Let's go to clip seven here, just so we can get the that's the that's the shot from the ICE officer's actual phone.
+[01:01:57.599 --> 01:02:00.719]  But let's go to clip seven and we'll play it, you know, with the audio and everything.
+[01:02:01.039 --> 01:02:12.159]  This is the shot that shows beyond any doubt, and it proves everybody from Don Lemon to Jin Saki to the mayor to the governor, they're all lying.
+[01:02:12.400 --> 01:02:15.360]  They've all seen this video, they all know the police officer got hit.
+[01:02:15.679 --> 01:02:16.239]  Let's watch.
+[01:02:16.400 --> 01:02:20.800]  Here's the video that shows the police officer being hit by the car on video.
+[01:02:21.119 --> 01:02:39.519]  incontrovertible here it is hits the guy and there's the gunshot Okay, so the series of events is the car starts going, the car hits the guy, then the bullet is fired.
+[01:02:40.400 --> 01:02:42.400]  Let's play back from the beginning, just so one more time.
+[01:02:42.559 --> 01:02:57.039]  Just if anybody's watching this and is, you know, confused at why, you know, libertarians or, you know, people that are against tyranny are, you know, on the side of the cop in this.
+[01:02:57.199 --> 01:02:58.000]  Well, that's why.
+[01:02:58.320 --> 01:03:00.079]  Because he got hit by a car.
+[01:03:00.719 --> 01:03:10.800]  Because this woman is no different than any other video you see of some criminal being asked politely to step out of the car when he decides to try to grab the cop's gun or run him over or whatever else.
+[01:03:10.960 --> 01:03:12.559]  Yeah, the cop has to defend himself.
+[01:03:12.880 --> 01:03:16.079]  That's why you don't attack them with deadly force, you morons.
+[01:03:17.279 --> 01:03:18.079]  So that's the truth.
+[01:03:18.239 --> 01:03:18.880]  That's the reality.
+[01:03:19.039 --> 01:03:22.000]  And we can go to, there's a video that says super slow-mo.
+[01:03:22.159 --> 01:03:25.039]  I thought I had it on the list here because that's another one.
+[01:03:25.199 --> 01:03:27.920]  Clip 32 here, Renee, super slow-mo.
+[01:03:28.079 --> 01:03:29.599]  Because in this one, and don't play it yet.
+[01:03:29.679 --> 01:03:30.800]  Let me explain it first.
+[01:03:31.119 --> 01:03:34.559]  In this one, you can see the car and you can see she turns her wheels.
+[01:03:34.719 --> 01:03:37.279]  She backs up at first and then she floors it.
+[01:03:37.360 --> 01:03:41.440]  And you can actually see the front tires spin because there's ice on the road.
+[01:03:41.599 --> 01:03:53.519]  If there hadn't been ice on the road, or if she had not slammed her foot on the pedal quite so fast, if there had been grip and friction for those tires to grab, she would have killed this cop.
+[01:03:53.840 --> 01:04:03.279]  You're about to see in super slow-mo, she presses the accelerator so hard, her front wheels, this front-wheel drive car, spin in the ice and then catch grip and then it starts moving forward.
+[01:04:03.440 --> 01:04:06.960]  So she slammed the accelerator trying to run this guy over.
+[01:04:07.119 --> 01:04:14.400]  And the only thing that saved his life is the fact there was ice on the ground and she slammed the accelerator too hard and it actually was counterproductive to her.
+[01:04:14.719 --> 01:04:16.079]  Let's watch the slow-mo.
+[01:04:18.320 --> 01:04:20.320]  So here you can see she's backing up.
+[01:04:20.639 --> 01:04:22.159]  Officers trying to get her out of her car.
+[01:04:22.400 --> 01:04:23.519]  There's, you see that?
+[01:04:23.599 --> 01:04:26.639]  You see the front wheel tire, the front wheel spin like that?
+[01:04:26.960 --> 01:04:35.279]  That was her with an officer directly in front of her grill, slamming the accelerator to try to run him over and the tire slipping.
+[01:04:35.440 --> 01:04:35.840]  Watch.
+[01:04:36.000 --> 01:04:37.360]  She straightens it out.
+[01:04:37.679 --> 01:04:40.480]  There she shifted into drive, slams the accelerator.
+[01:04:40.719 --> 01:04:47.440]  It spins about half about half a rotation and then catches the grip and starts to move forward.
+[01:04:47.759 --> 01:04:49.199]  That woman slammed the accelerator.
+[01:04:49.440 --> 01:04:51.920]  Okay, so we've all seen these videos a million times.
+[01:04:52.159 --> 01:04:59.279]  I'm playing to you again just to lay down the groundwork so we all understand there's no confusion about this.
+[01:04:59.599 --> 01:05:01.440]  The woman tried to run a cop over with her car.
+[01:05:01.599 --> 01:05:04.239]  She hit him with the car and he fired in self-defense.
+[01:05:04.320 --> 01:05:17.519]  A man who'd already been dragged 300 feet by another illegal immigrant six months ago spent time in the hospital getting 30-something stitches and you're trying to run him over with the car.
+[01:05:17.840 --> 01:05:18.000]  Okay?
+[01:05:18.559 --> 01:05:19.920]  That's what happened.
+[01:05:20.239 --> 01:05:20.880]  There you go.
+[01:05:21.199 --> 01:05:23.599]  Now you have the reality.
+[01:05:23.920 --> 01:05:29.679]  And just in case you think I'm not the right guy to tell you this, let's go to clip number 39.
+[01:05:30.239 --> 01:05:41.119]  This is, believe it or not, the chief of the Chicago police, who has now come out firmly on the side of ICE and is here to explain to you why you don't try to run over the police with your car.
+[01:05:41.360 --> 01:05:42.480]  Let's watch.
+[01:05:43.119 --> 01:05:45.039]  Let me make this clear.
+[01:05:47.920 --> 01:05:56.880]  Federal agents, ICE, HSI are officers.
+[01:05:57.519 --> 01:06:00.320]  They are agents of law enforcement.
+[01:06:01.920 --> 01:06:17.119]  If you box them in with vehicles, it is reasonable for them to believe that they are being ambushed and that this could end in a deadly situation.
+[01:06:18.000 --> 01:06:24.800]  And it's reasonable for them to use force based on those conditions.
+[01:06:25.679 --> 01:06:31.199]  Do not box in any law enforcement officer.
+[01:06:32.079 --> 01:06:34.719]  You are breaking the law when you do that.
+[01:06:35.679 --> 01:06:44.800]  And you are putting yourself in danger following law enforcement agents around.
+[01:06:46.719 --> 01:06:48.239]  The question is, why?
+[01:06:49.039 --> 01:06:50.800]  What do you plan on doing?
+[01:06:51.679 --> 01:06:57.599]  It's also reasonable for them to believe that you're eventually going to do harm to them.
+[01:06:58.480 --> 01:07:17.680]  If you ram any vehicle, especially that one that contains law enforcement agents, and that's any law enforcement, local, state, federal, county, And you do this intentionally.
+[01:07:18.000 --> 01:07:19.440]  This is considered deadly force.
+[01:07:19.600 --> 01:07:25.360]  Deadly force is anything that can cause great bodily harm or death.
+[01:07:26.960 --> 01:07:37.519]  When you plow into a vehicle that contains law enforcement agents, you're using deadly force.
+[01:07:38.480 --> 01:07:43.039]  And they can use deadly force in response to stop you.
+[01:07:44.880 --> 01:07:47.760]  We need to be clear about these laws.
+[01:07:48.720 --> 01:07:58.079]  We cannot become a society where we just decide to take everything in our own hands and start to commit crimes against law enforcement.
+[01:07:58.240 --> 01:07:59.840]  It is a crime.
+[01:08:00.160 --> 01:08:02.320]  You may not like what they're doing.
+[01:08:03.920 --> 01:08:14.720]  I can understand that there's a lot of emotions out there, but that does not mean that you get to commit a crime, especially one that could lead to deadly force.
+[01:08:16.239 --> 01:08:18.480]  We need to keep everyone safe.
+[01:08:23.199 --> 01:08:36.880]  Our responsibilities when it comes to federal agents, and I've been asked these questions, we do not interfere with the duties and responsibilities of federal agents.
+[01:08:38.800 --> 01:08:41.039]  Lays it out perfectly clear.
+[01:08:41.360 --> 01:08:42.880]  I have nothing to add.
+[01:08:43.440 --> 01:08:44.720]  It could not be more obvious.
+[01:08:44.800 --> 01:08:45.920]  It could not be more simple.
+[01:08:46.239 --> 01:08:47.840]  Could not be more self-evident.
+[01:08:48.159 --> 01:08:51.520]  But we're dealing with Democrats here.
+[01:08:53.680 --> 01:09:14.079]  Their whole thing is upending everything that is natural and obvious and self-explanatory about burying it all under layer upon layer of, you know, therapy speaks psycho babble until they don't understand that countries have borders and police stop crimes.
+[01:09:14.239 --> 01:09:15.520]  I mean, they are out to sea.
+[01:09:15.680 --> 01:09:17.600]  They don't understand any of this.
+[01:09:17.920 --> 01:09:24.640]  Or they do understand and they are actively involved in the radical dismantling of our country.
+[01:09:24.800 --> 01:09:29.360]  I mean, they're either stupid or evil, and those are really the only options.
+[01:09:31.279 --> 01:09:32.560]  Just so we understand.
+[01:09:33.199 --> 01:09:34.800]  It ain't just me saying this.
+[01:09:36.319 --> 01:09:38.159]  It's literally everybody with the brain.
+[01:09:38.319 --> 01:09:39.840]  It's everybody who has a brain.
+[01:09:40.079 --> 01:09:42.960]  Now, that leads a lot of people out, in this case, Ilhan Omar.
+[01:09:43.039 --> 01:09:44.000]  Clip 34 here.
+[01:09:44.319 --> 01:09:56.560]  This is an interesting one because we've seen a bunch of videos already, and I've got a lot more videos and quotes of just flagrantly lying about this.
+[01:09:57.199 --> 01:10:00.000]  Just outright blatant deception.
+[01:10:00.239 --> 01:10:12.880]  Milwaukee Bucks head coach Doc Rivers claims Renee Goode was, quote, just trying to go home and was straight up murdered, pushes false narrative that brown people are under attack from government forces.
+[01:10:13.520 --> 01:10:15.119]  She was just trying to go home.
+[01:10:15.360 --> 01:10:18.480]  I mean, these people, again, this is why we played in the beginning.
+[01:10:19.119 --> 01:10:22.560]  These people believe the lies.
+[01:10:23.119 --> 01:10:31.520]  The lies are this woman had nothing to do with ICE, wasn't definitely didn't try to run them over, wasn't harassing them, wasn't stalking them.
+[01:10:31.760 --> 01:10:35.760]  She was just, she was confused and trying to execute a three-point turn, and they shot her in the face.
+[01:10:35.920 --> 01:10:49.199]  It is such a flagrant, offensive lie, especially when you consider how they've treated other people like Ashley Babbitt, who didn't do anything nearly as much as this woman, right?
+[01:10:49.520 --> 01:10:51.840]  Just completely different.
+[01:10:52.000 --> 01:10:53.920]  She wasn't trying to run anybody over.
+[01:10:54.560 --> 01:11:01.279]  She was actually obeying orders from the police at the time, who were right there within hand's reach, could have grabbed her at any point.
+[01:11:01.920 --> 01:11:08.079]  But no, Michael Byrd was hiding in wait, sticking his hand out from behind a corner to shoot her.
+[01:11:08.400 --> 01:11:11.039]  And they, you know, say that she's a domestic terrorist and deserves it.
+[01:11:11.360 --> 01:11:17.360]  And I've got videos of people screaming about that at the protest of a woman who was killed trying to run over a police officer.
+[01:11:17.600 --> 01:11:21.440]  These people have no consistency, no morals, no principles.
+[01:11:21.680 --> 01:11:25.440]  They are just trying to use this death for everything they've got.
+[01:11:25.760 --> 01:11:28.560]  But they're telling everybody that the cop was never hit.
+[01:11:28.880 --> 01:11:30.160]  Cop was never in danger.
+[01:11:30.480 --> 01:11:31.840]  The woman never tried to hit him.
+[01:11:31.920 --> 01:11:34.000]  She wasn't trying to interfere with anything.
+[01:11:34.320 --> 01:11:40.000]  All of these lies are blown away by the video of the event happening.
+[01:11:40.160 --> 01:11:41.760]  So now they're changing their tactic a little bit.
+[01:11:41.840 --> 01:11:44.080]  Ilhan Omar has got an interesting take on this.
+[01:11:44.400 --> 01:11:52.480]  She admits that the officer was about to be run over, that the woman was driving right at the cop, and she says it's the cop's fault.
+[01:11:52.560 --> 01:11:53.520]  Let's watch.
+[01:11:53.840 --> 01:12:04.880]  If they are saying that he has 10 years on service and is trained, he should know that you shouldn't be trying to get in front of a moving car.
+[01:12:06.240 --> 01:12:12.640]  Oh, so he was in front of a moving car, but it's his fault because you should have been trained not to move in front of a moving car.
+[01:12:12.960 --> 01:12:17.200]  Except that when he was in front of the car, it was stopped and then they tried to start moving.
+[01:12:18.080 --> 01:12:22.320]  He should have listened to his training and never stood in front of a stopped car.
+[01:12:23.280 --> 01:12:24.640]  The hell does that mean?
+[01:12:25.920 --> 01:12:30.080]  Okay, so you understand, she's admitting that we're right.
+[01:12:30.400 --> 01:12:32.160]  She's admitting that they tried to run this guy over.
+[01:12:32.320 --> 01:12:36.240]  She's just saying it's his fault for being where the woman was driving.
+[01:12:36.560 --> 01:12:36.880]  Okay.
+[01:12:38.560 --> 01:12:40.640]  Again, these are not smart people.
+[01:12:42.480 --> 01:12:44.320]  But she did just admit we were right there.
+[01:12:47.200 --> 01:12:48.560]  Should we watch some other not smart people?
+[01:12:48.640 --> 01:12:49.520]  Let's go to clip 27.
+[01:12:49.680 --> 01:12:53.280]  I mean, these people are victims.
+[01:12:53.440 --> 01:13:00.400]  Honestly, I feel bad, like, not that bad, but in a way, I feel bad for the people that are convinced to go protest this stuff.
+[01:13:00.560 --> 01:13:01.760]  They're victims too.
+[01:13:02.080 --> 01:13:06.720]  They're victims of this brainwashing that's actually putting them in harm's way.
+[01:13:07.280 --> 01:13:08.320]  Like Renee Good.
+[01:13:09.360 --> 01:13:14.640]  How many people in her life, up to the last second of her life, were telling her, good, go, do it.
+[01:13:14.960 --> 01:13:15.440]  Do it.
+[01:13:15.760 --> 01:13:17.440]  Go, go, press the accelerator now.
+[01:13:17.680 --> 01:13:18.960]  Go get in the way of ice.
+[01:13:19.280 --> 01:13:20.400]  We'll train you how to do it.
+[01:13:20.480 --> 01:13:21.040]  We'll encourage you.
+[01:13:21.200 --> 01:13:22.000]  You'll be a hero.
+[01:13:22.320 --> 01:13:23.120]  And now she's dead.
+[01:13:23.200 --> 01:13:29.040]  And now more people are doing exactly what she was doing, encouraged by the stochastic terrorism of the left.
+[01:13:29.200 --> 01:13:30.800]  Let's go to clip 27 here.
+[01:13:31.120 --> 01:13:36.720]  Here's a woman trying to stop a two-ton truck with her body, with her frail little human body.
+[01:13:36.880 --> 01:13:37.840]  Let's watch.
+[01:13:40.400 --> 01:13:40.800]  There you go.
+[01:13:40.960 --> 01:13:42.240]  One of the geniuses.
+[01:13:42.880 --> 01:13:48.400]  One of the geniuses running backwards, trying to stop the car.
+[01:13:49.120 --> 01:13:51.520]  I mean, does she think she can stop it?
+[01:13:52.160 --> 01:13:58.000]  Does she think that if she just gets the right, if she gets her shoulder under there, it'll come screeching to a stop?
+[01:13:58.320 --> 01:14:00.160]  Or is she trying to get run over?
+[01:14:00.480 --> 01:14:01.840]  I mean, one wrong step here.
+[01:14:01.920 --> 01:14:02.880]  It's actually kind of impressive.
+[01:14:03.040 --> 01:14:05.120]  She's actually good at running backwards.
+[01:14:05.440 --> 01:14:06.720]  One look there, she has a friend.
+[01:14:06.800 --> 01:14:07.600]  They'll stop it together.
+[01:14:07.760 --> 01:14:10.320]  There's another woman staying in front of the car.
+[01:14:10.560 --> 01:14:11.680]  I mean, these people are insane.
+[01:14:11.840 --> 01:14:12.960]  One wrong step there.
+[01:14:13.280 --> 01:14:15.200]  She's under that car, right?
+[01:14:16.800 --> 01:14:18.480]  It's a stupid thing to do.
+[01:14:18.800 --> 01:14:20.480]  But they're trying to create martyrs.
+[01:14:20.720 --> 01:14:22.880]  They're encouraging these people to go out and be idiots.
+[01:14:23.120 --> 01:14:27.920]  They're encouraging them to do this to the officers.
+[01:14:28.000 --> 01:14:29.200]  Go to clip 26 here.
+[01:14:29.520 --> 01:14:34.400]  Another local terrorist just deliberately smashed the window of a DHS agent vehicle.
+[01:14:34.560 --> 01:14:36.000]  Let's watch this real quick.
+[01:14:38.240 --> 01:14:43.760]  Okay, so there's a guy with a hammer smashes the back window.
+[01:14:44.400 --> 01:14:59.280]  Okay, now following January 6th, 2021, the FBI was able to identify pretty much every single person that was in DC on that day.
+[01:14:59.760 --> 01:15:16.800]  And they use that information to kick down those people's doors in the middle of the night, haul them out of their beds, throw them in a concrete box with the lights on and the air and the freezing temperatures 24 hours a day for up to two years before they ever even went into trial.
+[01:15:17.120 --> 01:15:26.720]  Absolute literal torture when the people never even been accused of a crime, let alone on camera committing one, right?
+[01:15:26.800 --> 01:15:30.720]  The people that high-fived police on the way in and they were charged with domestic terrorism.
+[01:15:32.000 --> 01:15:38.079]  So, where's even a percentage of a percentage of that effort to find these people?
+[01:15:38.400 --> 01:15:42.800]  Is that guy going to be hauled away in the middle of the night and charged with domestic terrorism?
+[01:15:43.039 --> 01:15:55.600]  He's on camera actually breaking a window of an ICE vehicle while it's in operation, while it's trying to be while it's trying to, you know, fulfill their constitutional duties and their orders from the president.
+[01:15:56.720 --> 01:15:57.920]  Is that guy going to be arrested?
+[01:15:58.079 --> 01:16:00.640]  Are we going to have sedition hunters track that guy down?
+[01:16:00.800 --> 01:16:01.760]  I mean, we should.
+[01:16:02.400 --> 01:16:08.160]  People high-fiving the police as they walked into the Capitol didn't actually commit a crime.
+[01:16:10.400 --> 01:16:11.840]  Certainly not a felony.
+[01:16:12.160 --> 01:16:16.240]  Certainly not something that would necessitate a nationwide manhunt.
+[01:16:16.560 --> 01:16:21.680]  Worst thing you could possibly say is they were on the premises outside of normal business hours.
+[01:16:21.920 --> 01:16:28.240]  They trespassed with permission from the police, who I remind you were high-fiving them as they went in.
+[01:16:28.480 --> 01:16:29.440]  They never committed a crime.
+[01:16:29.680 --> 01:16:30.800]  These people are committing crimes.
+[01:16:31.039 --> 01:16:32.880]  These people are actually engaged in insurrection.
+[01:16:33.039 --> 01:16:34.480]  They're actually engaged in sedition.
+[01:16:34.800 --> 01:16:36.400]  So where are the sedition hunters?
+[01:16:36.800 --> 01:16:37.680]  Are we tracking them down?
+[01:16:37.840 --> 01:16:38.640]  Are we arresting them?
+[01:16:38.960 --> 01:16:42.960]  Are we throwing them in prison for years on end for trying to overthrow this country?
+[01:16:43.200 --> 01:16:49.840]  Because this threat that we're facing right now makes January 6th pale in comparison, as if it was ever anything.
+[01:16:51.440 --> 01:16:53.039]  Let's go to clip 22 here.
+[01:16:53.360 --> 01:16:58.560]  Dozens of leftists are actively stalking ICE agents in their vehicles and on foot in Minneapolis.
+[01:16:58.640 --> 01:17:01.440]  The agents are outnumbered and in a very dangerous situation.
+[01:17:01.680 --> 01:17:02.800]  Let's watch.
+[01:17:06.320 --> 01:17:27.039]  So here again, you know, you got ICE agents on their own, massively outnumbered with all these people that are getting in their way, in some cases assaulting them, some cases breaking the windows of their car, at the very least, obstructing lawful activities and making it so much more dangerous and chaotic for the average ICE agent there.
+[01:17:27.920 --> 01:17:29.360]  So why are we letting them do this?
+[01:17:29.760 --> 01:17:31.520]  You don't need to let people do this.
+[01:17:31.680 --> 01:17:33.120]  Like, what are we doing?
+[01:17:36.000 --> 01:17:41.120]  It's legitimately dangerous and it is going to lead to more people dying.
+[01:17:41.440 --> 01:17:47.280]  So the thing to do right now is to crush this with everything you've got to make sure it doesn't happen into the future.
+[01:17:49.760 --> 01:17:51.280]  And we go to clip number three here.
+[01:17:51.360 --> 01:18:00.480]  This is one where, again, these like boomer women, I mean, it's just crazy are like trying to fight ICE agents.
+[01:18:00.560 --> 01:18:04.160]  This woman gets a face full of mace for her troubles.
+[01:18:04.240 --> 01:18:05.120]  Let's watch.
+[01:18:07.200 --> 01:18:08.720]  All right, so they're yelling at him.
+[01:18:09.920 --> 01:18:11.039]  She banged his window.
+[01:18:11.200 --> 01:18:16.560]  Now, see, the guy on the left has a cane, and he is about, we're about to witness a miracle, folks.
+[01:18:16.880 --> 01:18:22.720]  We are about to witness a miraculous healing of this crippled man.
+[01:18:23.600 --> 01:18:28.320]  Like you see in some of the evangelical curses, he's about to be cured of his paralysis.
+[01:18:28.480 --> 01:18:33.680]  So there, the cop falls down his window, sprays the people with mace, and look, and the man's running.
+[01:18:33.760 --> 01:18:34.880]  He doesn't need his cane anymore.
+[01:18:34.960 --> 01:18:35.760]  It's a miracle.
+[01:18:35.920 --> 01:18:37.200]  Hallelujah.
+[01:18:37.520 --> 01:18:39.200]  Wasn't that something that amazing?
+[01:18:39.520 --> 01:18:44.240]  To see a man with a cane suddenly take off on a street covered with ice.
+[01:18:44.560 --> 01:18:46.000]  Now, the canes are weapons.
+[01:18:46.320 --> 01:18:51.760]  It's a new thing Antifa's doing because, you know, they're dishonest scumbags.
+[01:18:51.840 --> 01:18:57.840]  So they want to be armed at their protest, but they also want to be able to say, you want to take a cane from a crippled guy?
+[01:18:58.000 --> 01:18:59.199]  How dare you?
+[01:18:59.840 --> 01:19:01.199]  Because nothing about them is honest.
+[01:19:01.279 --> 01:19:06.000]  They have to be crushed, not listened to, not argued with, destroyed outright, politically.
+[01:19:06.319 --> 01:19:07.920]  Now, Trump, please.
+[01:19:08.239 --> 01:19:09.760]  Welcome back, folks.
+[01:19:10.399 --> 01:19:13.680]  I'm Harrison Smith sitting in today for Alex Jones.
+[01:19:16.239 --> 01:19:21.680]  Absolutely insane protests popping off really around the world.
+[01:19:23.279 --> 01:19:30.000]  Everywhere from Tel Aviv to Iran to here, all across America, of course.
+[01:19:32.880 --> 01:19:40.319]  And every time I see a trend like this, I can't help but be reminded of 2019.
+[01:19:41.279 --> 01:19:49.199]  In 2019, in December of 2019, I did a year in review, and I called it 2019 the year the mask came off.
+[01:19:49.520 --> 01:19:52.000]  Because 2019 was the year of the yellow vests.
+[01:19:52.319 --> 01:19:54.479]  It was the year of the Hong Kong protest.
+[01:19:55.439 --> 01:20:06.000]  And at one point, there were something like 30 protest movements going on around the world from El Salvador to all across South and Central America, all across Asia.
+[01:20:06.319 --> 01:20:08.079]  Massive uprisings.
+[01:20:08.640 --> 01:20:16.800]  And in return, in response, massive tyranny, the crackdowns on Hong Kong, the crackdowns on the yellow vest.
+[01:20:16.960 --> 01:20:24.079]  I mean, so I called it the year the mask came off because it was like the year that, okay, the powers that be stopped pretending to actually be liberal democrats.
+[01:20:24.239 --> 01:20:28.800]  They stopped pretending to actually value, you know, popular protests.
+[01:20:29.680 --> 01:20:31.600]  They love to pretend that this is their values.
+[01:20:31.760 --> 01:20:33.760]  They love to pretend that we listen to the voice of the people.
+[01:20:33.920 --> 01:20:40.720]  Then when it's somebody protesting against them, they will crack down with a force of a thousand sons, no limits, right?
+[01:20:41.680 --> 01:20:50.159]  And it was a little bit ironic that the end of 2019, I'm seeing all this momentum, all this movement towards massive uprisings around the world.
+[01:20:50.399 --> 01:20:52.640]  The year the mask came off.
+[01:20:53.840 --> 01:20:56.479]  And what happened in January 2020?
+[01:20:56.800 --> 01:20:59.359]  Well, the masks went right back on, didn't they?
+[01:20:59.680 --> 01:21:02.319]  And COVID-19 locked the whole world down.
+[01:21:02.640 --> 01:21:14.720]  So anytime I see a moment like this with all of these uprisings all over the world, I can't help but wonder, what are they going to unleash to crack down on this?
+[01:21:15.920 --> 01:21:30.239]  What new man-made horror beyond comprehension will be aimed and fired at humanity to stop us from getting a little bit too uppity with our rulers?
+[01:21:31.439 --> 01:21:33.039]  It's a little concerning.
+[01:21:33.359 --> 01:21:36.079]  So again, I am going to move on to some of that stuff.
+[01:21:36.399 --> 01:21:40.479]  I just want to finish with a few more videos I haven't been able to get to that I think are extremely important.
+[01:21:40.720 --> 01:21:43.680]  There are other ones that are just funny that I'd like to show you as well.
+[01:21:44.239 --> 01:21:48.800]  Yeah, Hack Attack, by the way, that's plan C. That's Plan C.
+[01:21:48.960 --> 01:21:54.399]  So you might want to look into the lockstep document that so accurately predicted COVID.
+[01:21:54.720 --> 01:22:02.560]  Well, they accurately predicted today as well in their section called Hack Attack, where they explain how the trust in the government will collapse.
+[01:22:02.720 --> 01:22:07.520]  And so the philanthropists, we know what that means, right?
+[01:22:07.600 --> 01:22:21.359]  The rulers of the world, the Rockefeller types, are supposed to decentralize and basically create their own little pockets of control because the national system is failing to maintain obedience.
+[01:22:21.680 --> 01:22:23.279]  They tell you what they're going to do before they do it.
+[01:22:23.439 --> 01:22:23.840]  You know that, right?
+[01:22:24.000 --> 01:22:24.479]  Like all this stuff.
+[01:22:24.560 --> 01:22:26.079]  It's why we can predict them so easily.
+[01:22:26.159 --> 01:22:28.319]  It's why we can tell the future.
+[01:22:28.479 --> 01:22:38.479]  It's because you understand that the people in power are evil and have genocidal plans for the world that they've published for the last hundred years.
+[01:22:38.720 --> 01:22:41.039]  So everything's in line with that.
+[01:22:42.560 --> 01:22:46.880]  But I want to show two videos in particular that I say go together fairly well.
+[01:22:47.119 --> 01:22:52.000]  They fit one in the other in a way that I think will become clear.
+[01:22:52.079 --> 01:22:53.760]  Let's go to clip 49 here.
+[01:22:54.239 --> 01:22:57.279]  This was a discovery, an investigation.
+[01:22:57.679 --> 01:22:59.279]  Apparently, the FBI can't figure this out.
+[01:22:59.519 --> 01:23:00.639]  FBI can't do this.
+[01:23:00.879 --> 01:23:02.799]  CIA totally lost.
+[01:23:02.960 --> 01:23:10.559]  Like all of the people that we pay billions upon billions of dollars to track down threats to our country.
+[01:23:10.879 --> 01:23:19.839]  None of them can find the people that are paid agitators that have caused more strife and chaos and grief than everybody on the right wing combined.
+[01:23:19.919 --> 01:23:21.519]  Let's go to clip 49 here.
+[01:23:23.519 --> 01:23:29.759]  Right now, I'm representing myself and I'm representing the folks at Rise and Resist who have been in the middle of the day.
+[01:23:31.919 --> 01:23:33.679]  How much do they pay you to wear this vest?
+[01:23:34.000 --> 01:23:34.960]  Absolutely nothing.
+[01:23:35.199 --> 01:23:35.599]  Really?
+[01:23:35.919 --> 01:23:40.399]  So I did some digging and the woman trying to stop my interview is named Karen Shaw.
+[01:23:40.559 --> 01:23:42.319]  She is a professional protester.
+[01:23:42.639 --> 01:23:45.519]  I found her at almost 100 different protests.
+[01:23:45.759 --> 01:23:47.359]  Let's look at her portfolio, shall we?
+[01:23:47.679 --> 01:23:50.799]  Here's her outside Trump Tower saying TikTok time's up.
+[01:23:51.119 --> 01:23:53.439]  Here's her saying ban guns, not drag.
+[01:23:53.759 --> 01:23:54.319]  Amazing.
+[01:23:54.559 --> 01:23:57.279]  This is her telling us that lies have consequences.
+[01:23:57.599 --> 01:23:59.679]  She is also very passionate about abortion.
+[01:23:59.839 --> 01:24:03.839]  Even in the video right now, she's just wearing a hat that says abortion on it.
+[01:24:04.000 --> 01:24:07.679]  Sometimes she gets less creative though and just holds a sign that says enough.
+[01:24:08.000 --> 01:24:11.519]  Now here I found her working with a different professional protester that I've exposed.
+[01:24:11.679 --> 01:24:12.799]  This is Stuart Waldman.
+[01:24:12.879 --> 01:24:16.239]  He was there when they raised the Palestinian flag over City Hall in Rhode Island.
+[01:24:16.479 --> 01:24:17.439]  Everyone knows you.
+[01:24:17.759 --> 01:24:18.559]  Everyone knows me.
+[01:24:18.719 --> 01:24:19.519]  They know who you are.
+[01:24:19.679 --> 01:24:20.719]  They know what you do.
+[01:24:21.039 --> 01:24:22.799]  I know what you do as well, Stuart Waldman.
+[01:24:22.879 --> 01:24:31.119]  You are on the board of riseandresist.org, the company that is paying people like Karen for a second job as a professional protester.
+[01:24:31.439 --> 01:24:37.599]  And the donation link to give you money is just Act Blue, which is the fundraising platform for the Democrat Party.
+[01:24:37.839 --> 01:24:39.439]  That's who you are, Stuart Waldman.
+[01:24:39.599 --> 01:24:40.479]  Now back to Karen.
+[01:24:40.639 --> 01:24:43.919]  I found her with another professional protester that I've exposed.
+[01:24:44.079 --> 01:24:45.679]  This was back at the Tesla protest.
+[01:24:46.000 --> 01:24:51.439]  This is just a few photos of this other professional protester out of maybe 50 that I found.
+[01:24:52.319 --> 01:25:00.000]  And that's just one of literally dozens and dozens and dozens of people who travel state to state starting riots.
+[01:25:00.319 --> 01:25:04.399]  Do you know it's illegal to travel from one state to another to start a riot?
+[01:25:04.559 --> 01:25:06.399]  Why aren't they being arrested?
+[01:25:06.719 --> 01:25:07.839]  Why aren't they being arrested?
+[01:25:08.000 --> 01:25:10.399]  Especially when they're stating this openly.
+[01:25:11.039 --> 01:25:32.559]  I mean, if I wanted to, I could spend this entire show just showing you clips of TikTok users and Reddit users with their full names, in many cases, their faces and like place of business on camera making actual violent threats against ICE agents, the president, a million different people.
+[01:25:33.439 --> 01:25:34.239]  We can't find that.
+[01:25:34.319 --> 01:25:35.119]  We can't round them up.
+[01:25:35.199 --> 01:25:36.719]  We can't arrest them.
+[01:25:37.679 --> 01:25:38.559]  Why not?
+[01:25:39.119 --> 01:25:41.759]  And the answer to that is because we don't want to.
+[01:25:42.719 --> 01:25:44.879]  It is not a matter of our ability.
+[01:25:45.039 --> 01:25:48.479]  It's not a matter of finding these people or identifying them.
+[01:25:49.359 --> 01:25:50.719]  We know who they are.
+[01:25:51.039 --> 01:25:54.159]  We know who they're working with, where they get their money.
+[01:25:54.399 --> 01:25:55.199]  We know all of it.
+[01:25:55.439 --> 01:25:57.359]  So why aren't we arresting them?
+[01:25:58.960 --> 01:26:14.000]  Because the people that would arrest them are in bed with them, are helping them to carry this out, are playing their part, just like all these paid protesters are playing their part in a giant drama that they can't understand, don't comprehend.
+[01:26:16.479 --> 01:26:17.759]  And yet are willing to die for it.
+[01:26:17.920 --> 01:26:20.000]  Let's go to clip 53 here.
+[01:26:20.399 --> 01:26:28.079]  Just keep this in mind with the last video that we saw about the professional protester causing all the problems over the entire country for years on end.
+[01:26:28.399 --> 01:26:29.839]  Now it's watch 53.
+[01:26:31.759 --> 01:26:35.679]  Eyes can now draw a digital line around your neighborhood and see the location of every phone inside it.
+[01:26:35.759 --> 01:26:42.319]  As thousands of federal agents deploy to cities like Minneapolis, an exclusive report from 404 Media reveals the surveillance tool they're using to hunt people down.
+[01:26:42.479 --> 01:26:43.279]  It's called weblock.
+[01:26:43.359 --> 01:26:43.839]  Here's how it works.
+[01:26:44.000 --> 01:26:48.000]  An agent draws a shape on a digital map, a city block, a workplace, or a protest site.
+[01:26:48.239 --> 01:26:51.759]  System instantly pulls up the history of every mobile phone that's been inside that shape.
+[01:26:51.920 --> 01:26:54.239]  It shows where you sleep, where you work, and who you spend time with.
+[01:26:54.399 --> 01:26:56.799]  It creates a pattern of life analysis to predict your next move.
+[01:26:57.039 --> 01:26:57.759]  They don't need a warrant.
+[01:26:57.839 --> 01:26:58.719]  They don't need a subpoena.
+[01:26:58.799 --> 01:27:01.039]  They just buy the data from apps installed on your phone right now.
+[01:27:01.199 --> 01:27:04.719]  Yesterday, an ICE agent shot and killed a U.S. citizen in Minneapolis during an operation.
+[01:27:04.959 --> 01:27:08.879]  Today we know they have the technology to watch the entire city without leaving their desk.
+[01:27:10.479 --> 01:27:11.839]  And so, this is the thing.
+[01:27:12.159 --> 01:27:18.399]  We have all of this incredible technology, all of this incredible surveillance ability.
+[01:27:19.279 --> 01:27:22.639]  Why is none of it ever used to benefit the American people?
+[01:27:23.519 --> 01:27:28.639]  Why is it not being used to identify and arrest professional protesters?
+[01:27:28.719 --> 01:27:32.959]  Why isn't it being used to identify and arrest illegal aliens?
+[01:27:34.559 --> 01:27:36.559]  Because that's never what it was intended for.
+[01:27:36.879 --> 01:27:39.039]  It's intended for you and for me.
+[01:27:41.119 --> 01:27:41.999]  Do you understand?
+[01:27:42.319 --> 01:27:55.679]  With the level of surveillance that we have, the level of skill and capability that our law enforcement or military has, for us to be suffering under anything is a choice.
+[01:27:55.999 --> 01:28:06.719]  For us to be subject to like having to live in the same country as foreign criminals, it's because it's a choice that the people in power made to put us in this position.
+[01:28:08.639 --> 01:28:16.719]  That's just one of what, a hundred different surveillance suites that the law enforcement has access to.
+[01:28:18.559 --> 01:28:23.199]  That they can get information in real time about cell phones in a neighborhood, in a city.
+[01:28:23.359 --> 01:28:23.999]  They can track you.
+[01:28:24.079 --> 01:28:27.119]  They can see all their contacts, what they've been saying to each other.
+[01:28:28.959 --> 01:28:30.719]  It's not a good thing.
+[01:28:31.039 --> 01:28:45.839]  It would actually be a reasonable, justifiable thing if they used it to go after criminals, if they used it to go after illegal aliens, if they used it to go after professional activists, professional problem causers.
+[01:28:47.919 --> 01:28:50.639]  You know, I wouldn't even have that big of a concern.
+[01:28:50.959 --> 01:28:56.399]  It's the fact that it's only ever used to go after dissidents to the system.
+[01:28:56.639 --> 01:29:00.639]  It will only ever, it's not going to be used to go after the people causing the problems now.
+[01:29:00.879 --> 01:29:04.719]  It's not being used to go after the illegal aliens that all of this is predicated on.
+[01:29:04.959 --> 01:29:13.439]  It will absolutely be used to track you and me through our social media posts, putting us on a threat matrix.
+[01:29:13.759 --> 01:29:16.559]  And if we say something too far, of course, it's going to be used against us.
+[01:29:16.799 --> 01:29:19.119]  Of course, it has been used against January 6ers.
+[01:29:19.519 --> 01:29:24.319]  It is being used to round up dissidents to the globalist scheme.
+[01:29:24.559 --> 01:29:26.399]  It is not being used to stop criminals.
+[01:29:26.479 --> 01:29:28.319]  And it's the same thing every time.
+[01:29:28.639 --> 01:29:36.639]  Any power these people get, they will only ever use to your detriment and for the benefit of criminals every single time.
+[01:29:36.959 --> 01:29:40.239]  Try posting an Alex Jones video on Facebook.
+[01:29:40.559 --> 01:29:41.759]  This could be a test we could do.
+[01:29:41.839 --> 01:29:43.279]  We can't actually do it.
+[01:29:45.999 --> 01:29:54.799]  But if we had a scientific environment in which we could carry out an experiment like this, which do you think would be pulled down from Facebook faster?
+[01:29:55.119 --> 01:30:00.559]  A monologue by Alex Jones or explicit child pornography?
+[01:30:00.879 --> 01:30:02.639]  It's the same systems to detect both.
+[01:30:02.879 --> 01:30:05.039]  It's the same AI to detect both.
+[01:30:05.679 --> 01:30:08.719]  One of them is going to stay up and one of them is going to be taken down.
+[01:30:11.279 --> 01:30:17.359]  That's sort of the microcosm of what we're experiencing with our surveillance state police state at this point.
+[01:30:18.239 --> 01:30:27.919]  You have all of the capabilities, all of the technological wizardry you could ever need to stop real crimes that are hurting real victims, that are causing real pain in the world.
+[01:30:28.079 --> 01:30:36.319]  It will only ever be used to shut up dissidents that are pointing out that these people are involved in the very things they're trying to pretend to trying to fight.
+[01:30:38.159 --> 01:30:41.679]  So just, you know, that's why we're against all of this.
+[01:30:42.319 --> 01:30:44.479]  All of the palantir, all of it.
+[01:30:46.399 --> 01:30:49.599]  And again, if it was used, you know, to help us, that'd be one thing.
+[01:30:49.759 --> 01:30:53.759]  But, you know, even like the ICE stuff, that's why I'm like, why are we, why is it being done like this?
+[01:30:53.839 --> 01:30:57.039]  Why do you have one ice guy running after somebody?
+[01:30:57.199 --> 01:30:59.839]  And then the other ICE team has to come in and pick them up and take them out.
+[01:30:59.999 --> 01:31:01.199]  And it's like, what are we doing here?
+[01:31:01.519 --> 01:31:02.719]  What are we doing?
+[01:31:03.679 --> 01:31:10.079]  Find the people that you want to arrest, surveill them, track them until they're alone, and just run in, grab them, run out.
+[01:31:10.479 --> 01:31:11.919]  This should be so simple.
+[01:31:12.239 --> 01:31:13.919]  So it is unbelievably simple.
+[01:31:14.159 --> 01:31:21.279]  If we use the technology that we have, if we use the strategies that we have, if we use the power that we have to benefit Americans, none of this would be an issue.
+[01:31:21.519 --> 01:31:25.279]  All of it is 100% a choice being made.
+[01:31:27.439 --> 01:31:28.879]  We're going to move on to some other topics.
+[01:31:29.039 --> 01:31:30.879]  I do want to remind you: tonight is the last night.
+[01:31:30.959 --> 01:31:31.919]  You only have a few more hours.
+[01:31:32.079 --> 01:31:37.119]  Take advantage of the buy one, get one sale for Bovine Colostrum Plus.
+[01:31:37.279 --> 01:31:42.959]  If you get Bovine Colostrum Plus right now at theAlexJonesStore.com, you get a second tub absolutely free.
+[01:31:43.279 --> 01:31:46.719]  And these are a 30-day supply of Colostrum Plus.
+[01:31:47.199 --> 01:31:53.439]  If you take it as directed, you might end up taking it a little bit more because it really is powerful stuff.
+[01:31:53.759 --> 01:32:00.239]  It's known as nature's first superfood, bovine, Colostrum Plus from theAlexJonesStore.com.
+[01:32:00.479 --> 01:32:01.919]  Supports gut health and digestion.
+[01:32:02.079 --> 01:32:03.439]  It strengthens your immune defenses.
+[01:32:03.599 --> 01:32:08.159]  It supports your recovery for tissue repair and resilience for things like working out.
+[01:32:08.399 --> 01:32:16.879]  It also enhances stress response because ingredients like ashwagandha support your support a stress response and your overall physical and mental resilience.
+[01:32:17.119 --> 01:32:32.479]  Plus, every purchase at thealxjonstore.com gets you 50 times entries to win our crossover giveaway, which means you can win a Ford Raptor plus $10,000 in cash and a Ford F-250 diesel plus $10,000 in cash, but you only have until midnight tonight, January 11th.
+[01:32:32.559 --> 01:32:41.679]  So go now to thealixjonestore.com slash Harrison if you want to let them know who sent you to get Bovine Colostrum Plus free with the purchase of Bovine Colostrum Plus.
+[01:32:41.759 --> 01:32:44.719]  Buy one, get one free right now on the AlexJonesstore.com.
+[01:32:44.879 --> 01:32:53.919]  Right now it's that crossover event where you're not only getting 50 times entries to win a truck, you're getting 50 times entries to win both trucks plus $20,000 in cash, $10,000 each.
+[01:32:54.079 --> 01:32:56.719]  ThelexjonStore.com slash Harrison.
+[01:32:57.999 --> 01:33:07.119]  Let's go to clip 50 here because one of the big stories over this weekend, I haven't had time, frankly, to delve down into the claims.
+[01:33:07.359 --> 01:33:13.919]  And the story that's being spread right now, to me, is highly believable.
+[01:33:14.799 --> 01:33:20.239]  And I'm inclined to just present it, you know, uncritically.
+[01:33:20.799 --> 01:33:22.159]  But that's how you get in trouble.
+[01:33:22.399 --> 01:33:23.359]  That's how you get in trouble.
+[01:33:23.599 --> 01:33:34.959]  And in fact, I've been in this business long enough to know that when the media and the headlines are saying something that I agree with and I agree and I believe to be true, I should be suspicious.
+[01:33:35.279 --> 01:33:42.079]  Because why are they selling this story when they should otherwise be trying to crack down on it?
+[01:33:42.239 --> 01:33:59.679]  Basically, the story is that there are massive wildfires in Patagonia in Argentina, an area of Argentina known all over the world for its natural beauty, its just incredible natural resources, the water, the air is like some of the best in the world.
+[01:33:59.999 --> 01:34:01.199]  But it's all being burned now.
+[01:34:01.279 --> 01:34:03.199]  It's all being burned to the ground.
+[01:34:03.519 --> 01:34:26.079]  And the claim is, the accusation made is that these stars, these fires are being started deliberately, specifically by Israeli soldiers, basically, people posing as tourists, but are actually there in order to carry out an act of war against Argentina to burn huge swaths of the country so that friends of theirs can then buy it up for pennies on the dollar.
+[01:34:26.239 --> 01:34:49.199]  It's the same plan of action that we've seen in Lahaina, that we've seen in the Palisades, that we've seen all over the world in places where particular tracts of land are desired by the globalists, and they figure out the best way to get it on the cheap is to cause some massive natural disaster there and then work with the government to get taxpayer dollars to fund your rebuilding of it.
+[01:34:49.519 --> 01:34:51.039]  Only it's not going to be what it once was.
+[01:34:51.279 --> 01:35:03.439]  It'll be a new 15-minute city, or you'll have to bring in, you know, mining companies and natural resource extractions to pay for the recovery of all of it.
+[01:35:03.599 --> 01:35:08.239]  So this is a giant scam happening nationwide or happening worldwide, I should say.
+[01:35:08.559 --> 01:35:14.799]  And the claim of Israelis starting the fire as a part of a land grab makes perfect sense to me.
+[01:35:15.039 --> 01:35:24.479]  However, I do have to say, just because it makes sense and, you know, rings true to me doesn't mean I'm going to present it as if it's absolute fact.
+[01:35:24.639 --> 01:35:26.319]  I will present the claims to you.
+[01:35:26.639 --> 01:35:35.119]  And then tomorrow in the war room, I'll give you a full breakdown of what I've discovered because I do plan to look into this and weigh the claims against the evidence.
+[01:35:35.199 --> 01:35:36.479]  Let's go to clip 50 here.
+[01:35:36.799 --> 01:35:43.039]  Here's a little explanation of what's being discussed around Patagonia and Argentina and these suspicious wildfires.
+[01:35:43.199 --> 01:35:43.839]  Let's watch.
+[01:35:44.159 --> 01:35:47.599]  I would like to tell you a little bit because I'm from Buenos Aires.
+[01:35:48.879 --> 01:35:53.519]  Yes, in Argentina, we all love Patagonia and we are suffering like shit.
+[01:35:54.479 --> 01:36:01.599]  And I'm here to tell you that you're discussing Planandinia and we are seeing it.
+[01:36:01.919 --> 01:36:03.919]  And it's happening.
+[01:36:04.639 --> 01:36:08.959]  I don't know if you can look to in my, I don't know how to say this, wall.
+[01:36:09.359 --> 01:36:10.079]  Your timeline, yep.
+[01:36:11.279 --> 01:36:22.719]  And you can see that from the last 15 years, it's happening that some tourists, I don't know how to say this, entre comicias, they are not tourists.
+[01:36:22.959 --> 01:36:26.559]  They come to Patagonia, they keep trashing everything.
+[01:36:26.879 --> 01:36:35.119]  And these wildfires are happening since 2010, 2008, even before that.
+[01:36:35.439 --> 01:36:36.719]  And it's crazy.
+[01:36:37.039 --> 01:36:42.479]  And I believe that it's happening right now in the Planandinha.
+[01:36:42.639 --> 01:36:43.279]  Why?
+[01:36:43.919 --> 01:36:51.679]  Because Milla, our president, just erased two laws of our constitution.
+[01:36:51.999 --> 01:36:54.239]  Millay actually took a law away.
+[01:36:54.479 --> 01:36:59.039]  So these forested lands in Patagonia are considered protective native forests.
+[01:36:59.279 --> 01:37:09.679]  When the fire burns, before they were always protected, when the fire burns down now, they become unprotected due to a law that Millet eradicated.
+[01:37:09.999 --> 01:37:12.879]  The Constitution protected those lands permanently.
+[01:37:13.199 --> 01:37:15.839]  The provision that was taken out by Millet.
+[01:37:16.159 --> 01:37:22.799]  Now when the fires burn the forest down, the land's no longer protected and it becomes federal and he can sell it.
+[01:37:23.119 --> 01:37:24.079]  Exactly.
+[01:37:26.559 --> 01:37:27.199]  So that's a claim.
+[01:37:27.279 --> 01:37:32.239]  And of course, it's the same claim again that was made with Lahaina or things like the Palisades.
+[01:37:32.479 --> 01:37:49.519]  And by the way, it's been one year since the Palisades burned to the ground as a direct consequence of the either deliberate sabotage or incomprehensible stupidity of Democrats in California.
+[01:37:49.839 --> 01:37:50.799]  No water.
+[01:37:51.439 --> 01:37:54.959]  The woman who was supposed to be in charge was in Ghana for some reason.
+[01:37:55.279 --> 01:38:00.639]  The head firefighter was chosen because she was a lesbian and didn't know what the hell she was doing.
+[01:38:00.799 --> 01:38:05.359]  I mean, it was a complete disaster, entirely man-made, right?
+[01:38:05.599 --> 01:38:13.759]  And now thousands protests in Pacific Palisades a year after fires with no rebuilding, quote, they let us burn.
+[01:38:14.079 --> 01:38:16.799]  Well, the news media is focused on anti-ice protests happening in Minnesota.
+[01:38:16.879 --> 01:38:20.079]  There was another protest happening on the West Coast that did not garner nearly as much attention.
+[01:38:20.239 --> 01:38:28.479]  The people of the Pacific Palisades held a protest to speak out against the non-existent rebuilding in the area a full year after wildfires destroyed thousands of homes and businesses.
+[01:38:28.719 --> 01:38:35.119]  The people are demanding an end to red tape, fees, and other things standing in the way of recovery, as well as the leaders who are not doing their jobs.
+[01:38:35.359 --> 01:38:39.919]  The national media doesn't want to cover this because the leaders in question are Democrats, of course.
+[01:38:41.439 --> 01:38:43.039]  So we can see the same thing happening there.
+[01:38:43.119 --> 01:38:43.439]  Imagine.
+[01:38:43.599 --> 01:38:50.799]  Imagine having your house burned down because of the unwitting incompetence of the people in power.
+[01:38:50.959 --> 01:38:57.679]  And a year later, you still have not laid a single brick or even cleaned up to a substantial degree.
+[01:38:57.999 --> 01:38:59.839]  I'm going to go to one more video here.
+[01:39:00.159 --> 01:39:06.159]  This was another major story over the weekend, and it seems to have been confirmed by folks like the White House.
+[01:39:06.319 --> 01:39:08.159]  Zero Hedge has a story on that today.
+[01:39:08.799 --> 01:39:19.519]  Basically, an insider from Venezuela, one of these Venezuelan security guards of Nicolas Maduro, came out explaining what it was like to come under attack from the American forces.
+[01:39:19.839 --> 01:39:36.639]  And he essentially revealed that America unleashed a large variety of heretofore secret and unused weaponry, including sonic weapons that caused people to be disabled because of a sound.
+[01:39:37.199 --> 01:39:44.239]  I think they were also using AI weaponry, AI guns that can aim and fire on their own volition.
+[01:39:44.559 --> 01:39:50.159]  And a number of other technological secrets were unleashed on Venezuela.
+[01:39:50.319 --> 01:39:55.119]  Let's go to clip 29 here on this little explanation of it, and I'll bring you more to the story on the other side.
+[01:39:55.279 --> 01:40:01.759]  Here it is: a security guard that was protecting Maduro has spoken, and you got to hear what he's said.
+[01:40:02.079 --> 01:40:03.679]  It's in Spanish, but I'll translate.
+[01:40:03.919 --> 01:40:08.079]  Also, Trump announced that, you know, the cartels, they're going after him in Mexico.
+[01:40:08.319 --> 01:40:14.239]  The whole vibe of Latin America has changed because of what happened in Venezuela.
+[01:40:14.559 --> 01:40:19.599]  And now that we're getting first-hand accounts from people, they were there.
+[01:40:19.919 --> 01:40:22.559]  The soldier says they didn't hear him coming.
+[01:40:23.359 --> 01:40:28.079]  He says the Americans had technology superior to anything they've ever seen.
+[01:40:28.399 --> 01:40:33.759]  Everything that they were using for radar, for anything, was completely taken offline.
+[01:40:34.079 --> 01:40:41.999]  They had drones, and the drones were taking out bases and taking out things faster.
+[01:40:42.159 --> 01:40:43.199]  They have no technology.
+[01:40:43.359 --> 01:40:45.199]  They've never had to fight against drones.
+[01:40:45.519 --> 01:40:48.319]  He also talks about that there was only eight helicopters.
+[01:40:48.479 --> 01:40:51.199]  There was only 20 men that were sent in.
+[01:40:51.519 --> 01:40:54.959]  And those 20 men killed hundreds of their men.
+[01:40:55.279 --> 01:40:57.679]  And none of those soldiers were injured.
+[01:40:57.999 --> 01:41:02.959]  He talks about it felt like they were firing 300 rounds a minute.
+[01:41:03.839 --> 01:41:07.039]  Nothing they've ever seen, nothing that they can compete with.
+[01:41:07.359 --> 01:41:20.079]  And then he also talks to the fact that the Americans had some kind of sonic shock boom that was sent out, and everybody immediately started bleeding profusely out of their nose.
+[01:41:20.239 --> 01:41:29.999]  They couldn't even gather themselves because whatever was sent at them made them fall to their knees and vomit blood out of their mouth and out of their noses.
+[01:41:30.319 --> 01:41:33.279]  They were incapacitated immediately.
+[01:41:33.599 --> 01:41:37.759]  He says he never wants to fear, never wants to go through that again.
+[01:41:38.079 --> 01:41:40.239]  Doesn't want to have to fight with the Americans again.
+[01:41:40.559 --> 01:41:45.199]  He's sending warnings to everybody out there that you think you can fight the Americans.
+[01:41:45.279 --> 01:41:49.279]  You don't even know what their weaponry is like and what they're capable of.
+[01:41:49.519 --> 01:41:56.159]  20 men took out hundreds, and that's starting to spread all through Latin America.
+[01:41:57.119 --> 01:42:00.399]  And now they're not saying, if you want me, come and get me anymore.
+[01:42:00.479 --> 01:42:01.439]  They're like, oh, shit.
+[01:42:01.759 --> 01:42:06.319]  Especially after Trump says, hey, Mexico, you're on the list too.
+[01:42:07.199 --> 01:42:11.519]  And I'd say it's changed the dynamic between America and really the rest of the world.
+[01:42:11.679 --> 01:42:17.439]  I don't think it's just South and Central America that were woken up by the Maduro raid.
+[01:42:17.519 --> 01:42:25.119]  So there you heard the guy say that there's some sort of sonic weapon that caused them to vomit blood and be completely incapacitated.
+[01:42:25.279 --> 01:42:37.359]  That 20 men killed hundreds, potentially up to 300 people, didn't lose a single soldier, didn't lose a single piece of equipment, saying they were firing with accuracy and speed that was inhuman.
+[01:42:37.519 --> 01:42:43.599]  Again, I think they were either they either had drones or they had gun drone guns, essentially.
+[01:42:43.919 --> 01:42:52.479]  You can have a gun on an arm that can aim and fire so it's a person holding it, but it never misses and can identify targets on its own.
+[01:42:52.799 --> 01:42:55.759]  Unbelievable weaponry deployed.
+[01:42:55.839 --> 01:42:56.799]  Now, this could be fake.
+[01:42:56.879 --> 01:43:11.439]  This could be propaganda, try to make us seem cooler than we are, but is there a better explanation as to how 20 people went into the middle of a heavily armed, like wartime capital city and extracted the president without losing a single man?
+[01:43:11.759 --> 01:43:20.079]  I mean, either somebody on the inside was helping them the entire time, or we unleashed some technology that the rest of the world is not ready for.
+[01:43:20.719 --> 01:43:23.119]  So I'm part of it, I'm like, hell yeah, go America.
+[01:43:23.439 --> 01:43:23.999]  This is awesome.
+[01:43:24.239 --> 01:43:27.279]  On the other hand, I'm like, and Tim Waltz is still alive.
+[01:43:27.439 --> 01:43:27.679]  What?
+[01:43:27.839 --> 01:43:28.879]  Why, though?
+[01:43:32.779 --> 01:43:38.599]  While other networks lie to you about what's happening now, Infowars tells you the truth about what's happening next.
+[01:43:43.699 --> 01:43:48.057]  Before I go any further, you want hardcore information like this out there?
+[01:43:48.159 --> 01:43:49.199]  You want to beat the globalists?
+[01:43:49.279 --> 01:43:49.999]  You want to change the world?
+[01:43:50.239 --> 01:43:51.279]  I need your support.
+[01:43:51.599 --> 01:43:54.959]  And I'm going to sell you stuff that works really great so you get it and love it.
+[01:43:55.279 --> 01:44:00.079]  You're crazy if you don't get our ultramethylene blue, our RShimos, and our bovine colostrum.
+[01:44:00.159 --> 01:44:03.839]  It's a private label of the top brand in the country, 2,000 milligrams per scoop.
+[01:44:04.159 --> 01:44:07.279]  What comes out of a cow the first two weeks of its milk is just magic.
+[01:44:07.599 --> 01:44:08.879]  Supercharges your whole body.
+[01:44:09.119 --> 01:44:11.519]  Until Sunday night at midnight, you have a limited supply.
+[01:44:11.759 --> 01:44:13.679]  Buy one bovine colostrum.
+[01:44:13.759 --> 01:44:17.839]  Get one free at thealxieldstore.com right now.
+[01:44:17.919 --> 01:44:20.319]  That's the new sale running through Sunday separately.
+[01:44:20.559 --> 01:44:21.999]  This happens every two months.
+[01:44:22.319 --> 01:44:33.919]  There's a one-week period, but there's an overlap each moment they give away another super vehicle, super off-road vehicle, where you can get both when you buy anything you put in the sweepstakes and 50 times entry only this week.
+[01:44:34.239 --> 01:44:46.079]  Only time we do it on both the Ford Raptor twin-turbo V6, 450 horsepower, 510 pound feet, on, on, on, and the Ford F-250 diesel, 425 horsepower.
+[01:44:46.239 --> 01:44:50.479]  It's huge, just a huge off-road package, $20,000 in cash to win, all that.
+[01:44:50.639 --> 01:44:51.759]  That ends in a few days as well.
+[01:44:51.999 --> 01:44:53.039]  So take advantage of it all.
+[01:44:53.119 --> 01:44:53.999]  But thanks for your support.
+[01:44:54.319 --> 01:44:55.839]  ThealexShieldstore.com.
+[01:44:55.998 --> 01:44:58.337]  Buy one Bubba and Colossus for a discount and get one free.
+[01:44:58.559 --> 01:45:00.677]  Until Sunday night at thealgyostore.com.
+[01:45:13.337 --> 01:45:15.837]  The Nicolas Maduro Extraction Set?
+[01:45:16.319 --> 01:45:18.399]  No way, this is awesome.
+[01:45:20.319 --> 01:45:22.239]  Time to gear up, men.
+[01:45:22.479 --> 01:45:24.639]  We're going into action.

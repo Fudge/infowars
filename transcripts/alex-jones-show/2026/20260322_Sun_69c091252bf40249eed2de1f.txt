@@ -1,0 +1,1669 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, sat-12l-sm, and large-v3-turbo
+# Transcript cleaned with version 0.1.2
+# Source MD5: f4fd8d99ca97e730a4c35d606e64407a
+[00:00:00.400 --> 00:00:07.360]  22 days ago on March 1st, I warned Iran would close the trade of Hormuz and that the regime would not fall.
+[00:00:07.520 --> 00:00:14.720]  It could take months or even years because I was going off the Pentagon's current and previous assessments as well as the CIA's.
+[00:00:15.040 --> 00:00:20.960]  They're not fans of the MULAS, but they knew there was a very low probability, less than 10% chance.
+[00:00:21.839 --> 00:00:24.160]  Trump told us it was about taking out their missiles and nuclear program.
+[00:00:24.320 --> 00:00:26.000]  It was about regime change.
+[00:00:26.560 --> 00:00:36.560]  And now Trump has given them a 48-hour ultimatum to destroy their entire electrical energy grid and next their water grid if they don't surrender.
+[00:00:36.880 --> 00:00:40.399]  Well, the CIA funded a seven-year war in the 80s against them.
+[00:00:40.719 --> 00:00:43.679]  We killed 2 million of them using the Iraqi military in Saddam.
+[00:00:43.840 --> 00:00:44.960]  They didn't give up.
+[00:00:45.280 --> 00:00:48.960]  I predict that they're not going to give up to the ultimatum.
+[00:00:49.200 --> 00:00:54.000]  Trump will then destroy the civilian infrastructure and we continue to slide into the new Vietnam.
+[00:00:54.320 --> 00:00:57.359]  Israel knew this would happen and has committed us to total war.
+[00:00:57.679 --> 00:00:58.880]  I'm not an enemy of Israel.
+[00:00:58.960 --> 00:00:59.920]  I don't want to blow up Israel.
+[00:01:00.079 --> 00:01:01.200]  I am not pro-Islam.
+[00:01:01.359 --> 00:01:02.320]  Everybody knows that.
+[00:01:02.640 --> 00:01:05.040]  But I am against Israel openly running our foreign policy.
+[00:01:05.120 --> 00:01:15.680]  And now to secure control of foreign policy, saying they have an eight-front war to control policy in America by censoring Americans, not just primary members of Congress they don't like, but openly going after the press and others.
+[00:01:15.840 --> 00:01:25.920]  And the head of the ADL a week ago saying we need the same energy with the exploding pagers to be used against people that oppose what we're doing in the Middle East.
+[00:01:26.079 --> 00:01:28.159]  I mean, this is crazy town.
+[00:01:29.280 --> 00:01:31.840]  So now it's escalated out of control.
+[00:01:32.159 --> 00:01:33.439]  It's causing major inflation.
+[00:01:33.600 --> 00:01:39.280]  Now they're talking about raising interest rates that derails Trump's economic plan as we warm up top economist Kirk Elliott it would.
+[00:01:39.840 --> 00:01:44.799]  That's the facts on this Sunday, 22 days after this crap started.
+[00:01:44.879 --> 00:01:47.760]  And now they're saying three months, six months, forever.
+[00:01:48.400 --> 00:01:50.079]  14 days to flatten the curve.
+[00:01:50.240 --> 00:01:51.359]  Wear the mask.
+[00:01:51.680 --> 00:01:52.320]  Take the shot.
+[00:01:52.400 --> 00:01:53.040]  You can't get COVID.
+[00:01:53.120 --> 00:01:53.760]  You can't spread it.
+[00:01:53.920 --> 00:01:54.879]  All horse crap.
+[00:01:54.960 --> 00:01:57.280]  And they used COVID to derail Trump's last recovery.
+[00:01:57.600 --> 00:02:00.079]  And now, as I predicted, they're using war to do it.
+[00:02:00.400 --> 00:02:06.240]  That's why the head of the counterterrorism center, the Joe King quit this week, trying to get Trump to pay attention and change course.
+[00:02:06.560 --> 00:02:10.560]  Instead, they've been attacking him as a traitor and saying he's a leaker with no evidence.
+[00:02:10.879 --> 00:02:12.719]  This is incredible, ladies and gentlemen.
+[00:02:12.960 --> 00:02:14.000]  God bless you all.
+[00:02:14.240 --> 00:02:18.240]  Pray for peace and pray for President Trump to make the right decision because he's doing so many other great things.
+[00:02:18.560 --> 00:02:20.000]  And he's not in dig compared to the Democrats.
+[00:02:20.080 --> 00:02:21.759]  He's trying to get peace with Russia and so much more.
+[00:02:22.080 --> 00:02:23.520]  That's why this is so sad this has happened.
+[00:02:23.759 --> 00:02:25.360]  And it is Benjamin Netanyahu's fault.
+[00:02:25.520 --> 00:02:28.319]  It's the Israel lobby that has the main muscle to be pushing this.
+[00:02:28.479 --> 00:02:29.520]  It's a foreign government.
+[00:02:29.759 --> 00:02:30.560]  It's illegal as hell.
+[00:02:31.120 --> 00:02:34.800]  It's China, the UK, the EU involved in our politics, and they are too.
+[00:02:34.960 --> 00:02:35.360]  And it's wrong.
+[00:02:35.520 --> 00:02:36.479]  We're standing up against that.
+[00:02:36.640 --> 00:02:38.000]  We're standing up against Israel's doing.
+[00:02:38.240 --> 00:02:39.039]  It's wrong, folks.
+[00:02:39.280 --> 00:02:40.080]  It's unconstitutional.
+[00:02:40.159 --> 00:02:40.640]  It's illegal.
+[00:02:40.719 --> 00:02:44.400]  And it's treasonous for anybody that allows foreign governments to run our country.
+[00:02:44.640 --> 00:02:45.680]  Nobody can disagree with that.
+[00:02:45.840 --> 00:02:47.039]  That's the facts.
+[00:02:47.920 --> 00:02:50.960]  So as I predicted, Iran has closed the Strait of Hormuz.
+[00:02:51.280 --> 00:02:53.360]  Oil prices and energy prices are exploding.
+[00:02:53.439 --> 00:02:54.400]  Inflation is exploding.
+[00:02:54.640 --> 00:02:56.159]  Now Trump's given an ultimatum.
+[00:02:56.240 --> 00:03:01.759]  I predict that they will again thumb their noses at it no matter how bad the destruction is, their electrical grid.
+[00:03:02.640 --> 00:03:04.879]  And the Private Federal Reserve will raise interest rates.
+[00:03:04.960 --> 00:03:11.439]  It's already saying they will do, and that will derail Trump's recovery plan, which is what the big central banks and the Rothschilds have always wanted.
+[00:03:11.520 --> 00:03:13.920]  They used COVID to shut down his economic plan.
+[00:03:14.080 --> 00:03:21.840]  They admit this is the great reset to make us border controllers to accept the Build Back Better agenda, the social credit score, universal basic income, and war.
+[00:03:22.080 --> 00:03:26.319]  Trump is against that entire globalist plan of austerity and against their carbon taxes.
+[00:03:26.400 --> 00:03:30.319]  That's why I've supported him so much, because compared to the Democrats, it's night and day.
+[00:03:30.640 --> 00:03:34.480]  He really is returning national sovereignty to America and making our own decisions.
+[00:03:34.640 --> 00:03:38.879]  But my God, then don't make the wrong decisions now that we have a president back in charge.
+[00:03:39.200 --> 00:03:42.000]  This is so paradoxical and it's so love-hate for me.
+[00:03:42.319 --> 00:03:44.560]  And I know I've been right and I've been proven right again.
+[00:03:44.719 --> 00:03:47.599]  It's our own government's assessments, for heaven's sakes.
+[00:03:48.400 --> 00:03:55.120]  And then 11-time war hero, 11 tours, and his wife died in Syria.
+[00:03:55.840 --> 00:03:56.800]  All the rest of it comes out.
+[00:03:57.039 --> 00:03:58.480]  They call him a traitor and attack him.
+[00:03:58.560 --> 00:03:59.599]  It's disgusting and dambons.
+[00:03:59.919 --> 00:04:02.239]  Gino attacking Joe Kent.
+[00:04:02.399 --> 00:04:06.319]  I mean, it is just so cowardly, absolutely disgusting.
+[00:04:06.399 --> 00:04:08.000]  I don't even want to tag Bongino.
+[00:04:08.560 --> 00:04:14.000]  He has just become such a shameful person, but he's just bought and paid for by the Israel lobby, folks.
+[00:04:14.079 --> 00:04:19.439]  And I just, you know, I'm not the guy that says everything's Israel, but now it is Israel.
+[00:04:20.079 --> 00:04:26.719]  Everything people worry about, things that Pat Buchanan was worried about on foreign policy, he was right about, but he never thought they'd actually run the whole government.
+[00:04:27.279 --> 00:04:29.599]  I mean, this, and they're doing it all against their own interest, folks.
+[00:04:29.759 --> 00:04:30.800]  In the end, Israel's own interest.
+[00:04:31.120 --> 00:04:33.680]  Israel's thinking, Netanyahu's thinking about staying in power.
+[00:04:34.319 --> 00:04:37.199]  And, you know, with sales plan of Greater Israel and stuff.
+[00:04:37.439 --> 00:04:38.319]  It's delusional.
+[00:04:38.639 --> 00:04:41.039]  And if you think multi-steps down, this is bad for Israel as well.
+[00:04:41.120 --> 00:04:42.639]  This is bad for the whole world.
+[00:04:43.600 --> 00:04:44.639]  So there's the facts.
+[00:04:44.719 --> 00:04:47.680]  This is going to derail the economic recovery of Providence Shutdown very quickly.
+[00:04:47.839 --> 00:04:49.279]  I hope Iran yoke up.
+[00:04:49.920 --> 00:04:51.839]  But then they'll say, oh, but we're not going to let you give up.
+[00:04:51.920 --> 00:04:52.480]  You have to leave.
+[00:04:52.719 --> 00:04:53.360]  And so they can't.
+[00:04:53.439 --> 00:04:54.319]  They're back against the wall.
+[00:04:54.560 --> 00:04:57.199]  They got a lot of other cards to play, like real sleeper cells.
+[00:04:57.680 --> 00:05:02.639]  Discover trends and global developments years before they happen.
+[00:05:03.279 --> 00:05:06.399]  Right here on the Alex Jones Show.
+[00:05:10.480 --> 00:05:13.519]  This is Stuart Rose filling in for Alex Jones.
+[00:05:13.839 --> 00:05:16.319]  Honored to be here again today on a Sunday.
+[00:05:16.639 --> 00:05:22.240]  And we've got a power pack show for you today coming in from Florida, from sunny Florida, USA.
+[00:05:22.800 --> 00:05:30.959]  I was here in Florida to go to a Mar-a-Lago event along with Enrique Tario and Barry Raimi, one of the really proud boys.
+[00:05:31.120 --> 00:05:33.199]  We're at Mar-a-Lago along with Peter Ticton.
+[00:05:33.360 --> 00:05:38.959]  And we were there to hopefully get a chance to meet President Trump and ask him for a pardon for those of us that have been part yet.
+[00:05:39.199 --> 00:05:46.000]  And then I also spoke here for the Stay Awake America tour, where my good friend Ivan Rakeland was speaking along with Enrique and Tommy Robinson.
+[00:05:46.079 --> 00:05:53.759]  It was really fantastic to meet Tommy Robinson and hear his insights about the marsh of Sharia throughout the West and what's happening in the UK.
+[00:05:53.839 --> 00:05:55.680]  They're definitely a canary in a coal mine.
+[00:05:56.000 --> 00:05:58.319]  So it was a star-studded panel we had there.
+[00:05:58.480 --> 00:06:01.759]  And we're hoping to give you a really good show that just builds on that.
+[00:06:02.079 --> 00:06:15.600]  So while we were here in Florida, Ivan Rakeland happened to hear about an event right down the road from where we were last night where Dan Bongino was speaking at a Lincoln, a Lincoln dinner.
+[00:06:15.919 --> 00:06:22.000]  And since Dan Bongino has blocked Ivan and will not engage with him online, won't answer any questions he has.
+[00:06:22.319 --> 00:06:25.759]  So Ivan decided, well, I'm going to go there and try to talk to him in person.
+[00:06:26.079 --> 00:06:28.159]  So go shake his hand and have a conversation.
+[00:06:28.399 --> 00:06:30.799]  If you've been following Ivan, you know that's what he does with people.
+[00:06:31.039 --> 00:06:40.240]  He'll walk up and he's very polite, quite professional, and just starts asking him sometimes very uncomfortable questions because they're hard-hitting, but he's very professional.
+[00:06:40.560 --> 00:06:43.840]  So while we were there at that event, and we'll show you the video, we'll tee it up here.
+[00:06:44.159 --> 00:06:50.720]  But Joseph here, my good friend, Joseph Philip Daniel, who's a hardcore journalist also out there.
+[00:06:50.879 --> 00:06:52.799]  He just came back from the Davos meeting, right?
+[00:06:52.960 --> 00:06:53.120]  Yes.
+[00:06:53.279 --> 00:06:53.919]  In Switzerland.
+[00:06:54.240 --> 00:06:56.079]  So he's been on InfoWars before.
+[00:06:56.399 --> 00:06:58.240]  So it's really an honor to see him again.
+[00:06:58.399 --> 00:06:58.960]  Really awesome.
+[00:06:59.199 --> 00:07:05.840]  So we'll tee this up by showing a video of Joseph's conversation because Dan Bongino came down the stairs after he spoke.
+[00:07:06.159 --> 00:07:06.799]  We didn't have tickets.
+[00:07:07.039 --> 00:07:11.680]  We just waited in the lobby for him and had drinks and a bite to eat, then waited when he got out.
+[00:07:12.000 --> 00:07:15.519]  And then as he walked down the stairs, Joseph engaged in conversations.
+[00:07:15.680 --> 00:07:17.439]  Let's go ahead and show that video.
+[00:07:18.079 --> 00:07:22.560]  Dan, don't be a coward, Dan.
+[00:07:22.720 --> 00:07:24.720]  Hey, you're going to be trespassed for the property, okay?
+[00:07:24.879 --> 00:07:27.360]  This might be, you might feel like you're God's watching you, man.
+[00:07:28.240 --> 00:07:30.480]  Remember, we report it, we repo, we sow.
+[00:07:32.079 --> 00:07:32.879]  God's watching us.
+[00:07:32.960 --> 00:07:34.240]  Go all out against the deep state.
+[00:07:34.319 --> 00:07:35.199]  Don't be afraid.
+[00:07:35.519 --> 00:07:36.960]  Don't be afraid of Satan, man.
+[00:07:37.199 --> 00:07:37.600]  I'm telling you.
+[00:07:39.199 --> 00:07:39.439]  I'm ready.
+[00:07:40.240 --> 00:07:40.960]  I'm ready to be in Congress.
+[00:07:41.840 --> 00:07:42.159]  I'm ready.
+[00:07:42.240 --> 00:07:42.720]  I plan on it.
+[00:07:43.600 --> 00:07:44.480]  I'm not afraid of Hillary.
+[00:07:45.360 --> 00:07:45.680]  I'm not.
+[00:07:46.000 --> 00:07:46.720]  God bless you, man.
+[00:07:51.680 --> 00:07:53.039]  I'm here in love, Dan.
+[00:07:56.800 --> 00:08:04.240]  So we'll show you the interaction that happened also with Proud Boy Nate Tuck, who is another J6er.
+[00:08:04.480 --> 00:08:08.640]  We happened to run into Nate there at the State Awake America Tour.
+[00:08:08.800 --> 00:08:13.200]  He was in the audience and we just hit it off and talked to him and he just came along with us.
+[00:08:13.680 --> 00:08:18.640]  Go on, why not go along with us and got some beers and then go see if we can talk to Dan Bongino.
+[00:08:18.960 --> 00:08:22.160]  So that's the, we'll show you that one next when Nate comes in.
+[00:08:22.320 --> 00:08:30.560]  But Joseph, just to kind of explain to the audience, as a Christian, what your mission is and why you wanted to engage Dan the way you did.
+[00:08:30.880 --> 00:08:34.639]  Well, I've known that he hasn't liked Alex Jones for years.
+[00:08:34.879 --> 00:08:40.480]  I know he was pro Pfizer jabs for a while and he did get jabbed.
+[00:08:40.720 --> 00:08:47.279]  So I know that his brain has been severely damaged and he looked very deranged when he was walking down those steps last night.
+[00:08:47.600 --> 00:08:48.560]  So I got him good.
+[00:08:48.879 --> 00:08:52.160]  The Holy Spirit led me right to him and I evangelized to him.
+[00:08:52.399 --> 00:08:58.800]  Hopefully he will feel convicted for his evil ways and actually start fighting against the American deep stake cult.
+[00:08:58.960 --> 00:08:59.920]  That would be fantastic.
+[00:09:00.080 --> 00:09:01.279]  He really needs to do it.
+[00:09:01.600 --> 00:09:07.519]  Yeah, I remember listening to Bongino while I was a political prisoner in solitary confinement in Alexandria Jail.
+[00:09:07.680 --> 00:09:15.120]  The one comfort they gave us was a little AM FM radio and I listened to his show every day and I was a big fan because he was saying all the same things we were saying.
+[00:09:15.279 --> 00:09:17.279]  He was calling out the election of 2020.
+[00:09:17.840 --> 00:09:22.480]  He called out the Epstein files for what they were, a blackmail operation.
+[00:09:22.639 --> 00:09:24.720]  It was all, you know, very squirreled away.
+[00:09:25.040 --> 00:09:27.440]  And so it was really, it's been really a great disappointment.
+[00:09:27.840 --> 00:09:29.680]  We'll show this next video in just one second.
+[00:09:30.800 --> 00:09:38.160]  It was a great disappointment to me to see that the about face he made when he became Deputy Attorney General of the United States.
+[00:09:38.480 --> 00:09:42.879]  And I'll talk about this more when we bring up Ivan Reyklin.
+[00:09:43.279 --> 00:10:01.600]  But the biggest failures I can say as a J6er is that, one, there's been no indictment, no investigation that I know of, an indictment of Michael Byrd, the Capitol police officer who murdered Ashley Babbitt, shot an unarmed Air Force veteran female in the face.
+[00:10:01.920 --> 00:10:03.200]  So he should be prosecuted.
+[00:10:03.279 --> 00:10:04.080]  That has not been done.
+[00:10:04.400 --> 00:10:12.960]  And also, in my case, in particular, you had two police officers, Harry Dunn and Officer Lazarus, who both got caught red-handed lying on the stand.
+[00:10:13.039 --> 00:10:17.920]  They were caught by Steve Baker, showing video that they were not together when they testified they were together in the Capitol.
+[00:10:18.240 --> 00:10:28.080]  And so right there, just, you know, black and white, factually inarguable examples of lawbreaking that has not been prosecuted.
+[00:10:28.400 --> 00:10:39.120]  And so any excuses they want to give don't wash when you have people that should be indicted, not being indicted, and no indication whatsoever of investigation at all by the FBI.
+[00:10:39.360 --> 00:10:53.920]  So in my mind, that made what Kash Patel and Bongino has done, have done, to me, crosses the line of not just being a failure of dereliction of duty, but actually crosses over into covering for the deep state.
+[00:10:54.240 --> 00:10:57.519]  And I'll say it, as far as I'm concerned, treason.
+[00:10:57.840 --> 00:11:04.000]  And why I say that is because they are covering for the false flag on January the 6th.
+[00:11:04.240 --> 00:11:12.320]  Myself and Ivan Ranklin, we went down to the first J6 committee hearing under the Republicans, but they were focused on Brian Cole, the so-called pipe bomber.
+[00:11:12.640 --> 00:11:16.160]  And we went there because we see the railroading of an innocent man happening.
+[00:11:16.320 --> 00:11:20.879]  The exact same thing that was done to me and other J6ers is now being done to Brian Cole.
+[00:11:21.039 --> 00:11:21.920]  That's why we were there.
+[00:11:22.240 --> 00:11:34.879]  And so that's why I say this is treason, because they've crossed the line from not just not doing something and sitting on their hands, but to actively persecuting another innocent man to cover for the deep states coup.
+[00:11:35.120 --> 00:11:37.440]  We know who the actual pipe bomber was.
+[00:11:37.759 --> 00:11:40.400]  I believe that individual was exposed by Steve Baker.
+[00:11:40.640 --> 00:11:47.200]  And that's exactly when the FBI suddenly magically pulled out Brian Cole as a Patsy within three weeks, indicted him.
+[00:11:47.440 --> 00:11:48.480]  So this is the problem.
+[00:11:48.720 --> 00:11:50.560]  They're participating in the cover-up.
+[00:11:50.800 --> 00:11:53.279]  They're covering for the deep state.
+[00:11:54.560 --> 00:12:04.960]  In the confrontation we're going to show you next with Nate, retired police officer, uh, Proud Boy, you'll hear him call Bon Gino a pedophile protector because that's what he has become.
+[00:12:05.279 --> 00:12:08.960]  Like I said, not just dereliction of duty, but actually covering for the deep state.
+[00:12:09.279 --> 00:12:19.279]  So, but before we let you go, Joseph, what would you say now again to Bon Gino, kind of flesh out your message to him about because no man's beyond redemption, right?
+[00:12:19.840 --> 00:12:24.160]  So, what would you say to him right now to redeem himself and do the right thing?
+[00:12:24.480 --> 00:12:34.560]  I forgive him, but he really needs to go after the COVID-Con actors and actresses, you know, from 2020 and the information war.
+[00:12:34.800 --> 00:12:41.279]  He needs to use all means possible to fight against those who are covering up the Epstein files.
+[00:12:41.360 --> 00:12:43.519]  He needs to redeem his name, obviously.
+[00:12:43.840 --> 00:12:57.200]  He needs to go after all the people, like someone I've known for some time, Chelsea Adolphus, who got murdered in a hospital near Chicago, where I grew up in the Scotland area.
+[00:12:57.519 --> 00:12:58.720]  She was left on a rooftop.
+[00:12:58.800 --> 00:13:00.000]  They got a huge lawsuit.
+[00:13:00.320 --> 00:13:01.120]  She got murdered.
+[00:13:01.360 --> 00:13:12.320]  Nobody's talked about all the COVID-19 murders that were, according to Alex Jones and others, 53 grand were made per death cert for people being murdered.
+[00:13:12.560 --> 00:13:13.279]  That's huge.
+[00:13:13.600 --> 00:13:16.639]  We have no accountability with all the Doge findings.
+[00:13:16.960 --> 00:13:18.000]  Nobody's been arrested there.
+[00:13:18.240 --> 00:13:25.279]  Nobody's been arrested for all the different things that the Democrats have done with the Uni Party Republicans.
+[00:13:25.600 --> 00:13:26.320]  So we're waiting.
+[00:13:26.560 --> 00:13:36.879]  So Dan has an opportunity to come out instead of putting memes making fun of myself, Nate Tuck, and Ivan, the great Ivan Rakeland.
+[00:13:37.519 --> 00:13:38.800]  He needs to say, you know what?
+[00:13:38.960 --> 00:13:40.639]  I need to listen to those guys.
+[00:13:40.960 --> 00:13:42.240]  I haven't done a great job.
+[00:13:42.480 --> 00:13:43.360]  I am a coward.
+[00:13:43.519 --> 00:13:45.759]  I need to get right before God, Jesus, and the Holy Spirit.
+[00:13:46.080 --> 00:13:46.960]  You know, and be serious.
+[00:13:47.120 --> 00:13:47.759]  He has time.
+[00:13:47.920 --> 00:13:50.000]  He's alive today, right now, somewhere on there.
+[00:13:50.320 --> 00:13:54.240]  He has an opportunity to get his life right with God.
+[00:13:54.560 --> 00:13:55.200]  He can do it.
+[00:13:55.519 --> 00:13:58.160]  There are so many crimes that need to be dealt with.
+[00:13:58.399 --> 00:14:07.360]  And posting memes on his massive X account, making fun of myself and Nate and Ivan is not the right thing to do.
+[00:14:07.680 --> 00:14:10.000]  We are in such a dire strait right now.
+[00:14:10.240 --> 00:14:16.879]  We need massive, massive spotlight on all the criminal activity within the DC University and fast.
+[00:14:17.120 --> 00:14:24.400]  And he needs to man up and be like David and go after the Goliaths because there are a lot of Goliaths to slay.
+[00:14:24.560 --> 00:14:26.080]  He can do it with the power of God.
+[00:14:26.240 --> 00:14:27.200]  He doesn't need to be afraid.
+[00:14:27.360 --> 00:14:29.759]  I saw his countenance last night.
+[00:14:29.920 --> 00:14:36.960]  He was full of fear, full of anger, and he totally gave the vibe that he is on the wrong side of history.
+[00:14:37.120 --> 00:14:41.759]  Just even if you don't even know the guy and you were to see him, you know, he's not mentally well.
+[00:14:41.920 --> 00:14:43.680]  And I can see it on his face.
+[00:14:44.000 --> 00:14:45.279]  And it was terrible.
+[00:14:45.600 --> 00:14:45.840]  All right.
+[00:14:45.920 --> 00:14:50.400]  Well, so, and I'll add this: you know, I've never seen Bon Gino in person.
+[00:14:50.480 --> 00:14:52.400]  I've just listened to him on the radio.
+[00:14:52.720 --> 00:15:04.480]  And, you know, my first reaction or first thought was, I'm going to go watch a live, I'm going to go see a deep state cuck live in person in his natural environment at a political event.
+[00:15:04.800 --> 00:15:06.320]  But I kind of felt sorry for him in a way.
+[00:15:06.400 --> 00:15:08.480]  I watched him come down the stairs.
+[00:15:08.560 --> 00:15:10.160]  I actually have compassion for him.
+[00:15:10.480 --> 00:15:15.120]  I think that he knows that he dropped the ball and he was derelict in his duties.
+[00:15:15.440 --> 00:15:16.639]  And I think it's haunting him.
+[00:15:16.960 --> 00:15:20.720]  So I call on him to, you know, no man's perfect.
+[00:15:20.879 --> 00:15:21.440]  I'm not perfect.
+[00:15:21.600 --> 00:15:24.320]  None of us are, but you're not beyond redemption, brother.
+[00:15:24.480 --> 00:15:25.759]  Just do the right thing now.
+[00:15:26.080 --> 00:15:27.200]  Be like Joe Kent.
+[00:15:27.360 --> 00:15:27.519]  Yes.
+[00:15:27.759 --> 00:15:28.879]  He resigned his position.
+[00:15:29.039 --> 00:15:30.879]  He left his position just like you did.
+[00:15:31.200 --> 00:15:41.600]  But now he's speaking out without violating secrecy laws, but he's still speaking out where he can to get the message out to the American people that there's a problem.
+[00:15:41.920 --> 00:15:43.120]  And you can do the same thing.
+[00:15:43.440 --> 00:15:44.879]  And so I encourage him to do that.
+[00:15:45.440 --> 00:15:47.120]  Well, Joseph, you want to thank you for coming on.
+[00:15:47.200 --> 00:15:50.080]  And I'm going to bring in Nate now to talk about his exchange.
+[00:15:50.240 --> 00:15:51.120]  God bless you, brother.
+[00:15:51.440 --> 00:15:54.960]  Bring in Nate now to talk about his exchange with Bon Gino.
+[00:15:55.600 --> 00:15:56.320]  What's up, Nate?
+[00:15:56.480 --> 00:15:56.879]  What's up, brother?
+[00:15:56.960 --> 00:15:57.360]  Good to see you again.
+[00:15:58.159 --> 00:15:58.399]  All right.
+[00:15:58.639 --> 00:16:03.200]  So, Nate, real quick on your background, tell your folks, you served as a police officer, right?
+[00:16:03.440 --> 00:16:04.879]  Yeah, so I was a cop for nine years.
+[00:16:05.039 --> 00:16:10.399]  And I want to clear the record here that when I was arrested for January 6th, I was not a police officer.
+[00:16:10.560 --> 00:16:11.360]  A lot of people are saying that.
+[00:16:11.519 --> 00:16:14.480]  So it's been like almost seven years now that I was not a cop.
+[00:16:14.639 --> 00:16:15.600]  You're a police veteran.
+[00:16:15.840 --> 00:16:17.200]  Yeah, I retired after nine years.
+[00:16:17.360 --> 00:16:19.200]  I got shot at, and I'm like, yeah, I'm done with this.
+[00:16:19.360 --> 00:16:21.200]  So I moved on to other things.
+[00:16:21.840 --> 00:16:22.960]  So I was a cop.
+[00:16:23.279 --> 00:16:25.840]  And like I said, I was not arrested as a police officer.
+[00:16:25.920 --> 00:16:27.120]  I had quit a long time before that.
+[00:16:27.279 --> 00:16:27.680]  So sweat.
+[00:16:27.840 --> 00:16:28.560]  Clear record on that.
+[00:16:28.720 --> 00:16:30.960]  And on January 6th, did you assault any police officers?
+[00:16:31.120 --> 00:16:31.600]  No, I did not.
+[00:16:31.759 --> 00:16:33.840]  You walked in the building like a lot of other people and walked right back?
+[00:16:34.399 --> 00:16:35.360]  They grabbed my shoulder.
+[00:16:35.440 --> 00:16:36.399]  I kept walking and they're trying.
+[00:16:36.639 --> 00:16:39.120]  Oh, he, you know, he assaulted a cop because I kept walking.
+[00:16:39.279 --> 00:16:39.440]  Right.
+[00:16:39.600 --> 00:16:40.720]  Did not touch a police officer.
+[00:16:40.879 --> 00:16:41.120]  Right.
+[00:16:41.200 --> 00:16:41.600]  Gotcha.
+[00:16:41.840 --> 00:16:46.560]  So we met, we met yesterday when you were attending the event we were speaking at, Ivan and I.
+[00:16:46.879 --> 00:16:47.519]  And you came there.
+[00:16:48.000 --> 00:16:48.960]  You're a proud boy, right?
+[00:16:49.120 --> 00:16:49.279]  Yeah.
+[00:16:49.519 --> 00:16:50.000]  You still are?
+[00:16:50.240 --> 00:16:50.399]  Yeah.
+[00:16:50.560 --> 00:16:50.720]  Okay.
+[00:16:50.960 --> 00:16:52.960]  So you came as a proud boy and you were in the audience.
+[00:16:53.200 --> 00:16:57.519]  And afterwards, you know, we chatted and you decided to come along with us.
+[00:16:57.840 --> 00:17:01.680]  And we had a beard, you know, like proud boys and oathkeepers always used to do.
+[00:17:02.000 --> 00:17:03.120]  We had a couple shots, right?
+[00:17:03.360 --> 00:17:03.680]  Correct.
+[00:17:04.160 --> 00:17:04.480]  It was great.
+[00:17:04.640 --> 00:17:05.279]  Good to meet you, brother.
+[00:17:05.440 --> 00:17:05.759]  Good to meet you.
+[00:17:06.240 --> 00:17:18.160]  So after Joseph had his conversation with Bongino and where Bongino's bodyguard, you know, basically threatened to trespass Joseph and have her removed from the building.
+[00:17:18.720 --> 00:17:19.680]  Then it was your turn.
+[00:17:19.920 --> 00:17:22.000]  So go ahead and let's go ahead and play the clip.
+[00:17:22.720 --> 00:17:28.720]  You can listen to the audio and you'll hear, you can't see Nate, but you can hear him off camera addressing Bongino.
+[00:17:50.960 --> 00:17:54.019]  You're a pedophile protector, a pedophile protector.
+[00:17:54.799 --> 00:17:55.599]  Pedophile protector.
+[00:17:57.360 --> 00:17:58.480]  I was a cop for nine years.
+[00:17:59.440 --> 00:18:00.480]  You're a pedophile protector.
+[00:18:01.119 --> 00:18:02.960]  You're a pedophile protector.
+[00:18:07.759 --> 00:18:12.079]  So you might not be able to hear it, but Bongino was like, oh, you haven't done shit, right?
+[00:18:12.240 --> 00:18:13.119]  He said that to you twice.
+[00:18:13.519 --> 00:18:14.480]  You won't do shit or something like that.
+[00:18:14.640 --> 00:18:15.360]  You haven't done shit.
+[00:18:15.680 --> 00:18:18.000]  It's a standard Bongino response.
+[00:18:18.960 --> 00:18:20.559]  Like, anyone's criticizing me.
+[00:18:20.720 --> 00:18:21.599]  You know, what have you done?
+[00:18:21.759 --> 00:18:24.640]  I was a police officer, you know, and I was Secret Service.
+[00:18:24.720 --> 00:18:25.440]  What have you done?
+[00:18:25.759 --> 00:18:27.360]  Well, he tried to play that with you.
+[00:18:27.839 --> 00:18:28.880]  Didn't work out so well.
+[00:18:29.200 --> 00:18:29.360]  Right.
+[00:18:29.599 --> 00:18:29.759]  Yeah.
+[00:18:30.319 --> 00:18:32.880]  So I think with Bon Gino, I agree with what you said.
+[00:18:33.039 --> 00:18:39.279]  I think he has guilt, where he knows that he talked to big game for years talking about the Epstein files.
+[00:18:39.360 --> 00:18:46.079]  And I think verbatim, something along these lines where don't let the Epstein situation, you know, go.
+[00:18:46.240 --> 00:18:46.960]  This is a big thing.
+[00:18:47.519 --> 00:18:52.960]  And then we get him and Kash Patel into the government, the FBI, and now they're saying that it didn't exist.
+[00:18:53.279 --> 00:18:53.920]  Oh, they don't exist.
+[00:18:54.160 --> 00:18:55.200]  It's a Democrat hoax.
+[00:18:55.279 --> 00:19:01.920]  You just fall in line with the same swamp, you know, the same garbage that the politicians put out for, we thought you guys were different.
+[00:19:02.160 --> 00:19:09.519]  That's that's the main thing here is that we thought you guys were actually going to do what you said, but you became the same thing that you guys were complaining about for years.
+[00:19:09.840 --> 00:19:11.279]  So there's no Epstein files.
+[00:19:11.360 --> 00:19:14.160]  And then suddenly there is now, but let's stop talking about them.
+[00:19:14.240 --> 00:19:15.599]  Let's not worry about the Epstein files.
+[00:19:15.680 --> 00:19:16.160]  No, it's big.
+[00:19:16.480 --> 00:19:16.640]  Right.
+[00:19:16.799 --> 00:19:26.480]  These are elite people in our country, billionaires, politicians, celebrities, athletes that we're just ignoring that they're having relationships with kids, with little kids.
+[00:19:26.799 --> 00:19:28.640]  So, no, we're not going to let it go.
+[00:19:28.880 --> 00:19:29.759]  You told us you lied.
+[00:19:29.840 --> 00:19:31.519]  Bongino lied the entire time.
+[00:19:31.759 --> 00:19:32.400]  It didn't exist.
+[00:19:32.480 --> 00:19:34.000]  Now it exists, but we're not talking about it.
+[00:19:34.160 --> 00:19:35.519]  So that's an issue for me.
+[00:19:35.759 --> 00:19:37.440]  That's why you call him a pedophile protector.
+[00:19:37.519 --> 00:19:37.599]  Yeah.
+[00:19:37.759 --> 00:19:37.920]  Right.
+[00:19:38.799 --> 00:19:42.640]  Now, as a law enforcement officer, I mean, this is a leading question.
+[00:19:42.880 --> 00:19:45.440]  What's your opinion of pedophiles as a law enforcement officer?
+[00:19:45.680 --> 00:19:46.319]  I don't like him.
+[00:19:47.519 --> 00:19:48.400]  I don't like him.
+[00:19:48.720 --> 00:19:49.680]  I don't like him at all.
+[00:19:50.320 --> 00:19:57.680]  I mean, I don't know what I can say on the show, but I strongly dislike them and I wish very, very bad things towards them.
+[00:19:59.040 --> 00:20:00.560]  And I'll say this as a former prisoner.
+[00:20:00.640 --> 00:20:02.800]  I spent three years in federal prison.
+[00:20:04.720 --> 00:20:07.840]  In prison, pedophiles are killed.
+[00:20:08.400 --> 00:20:14.240]  When they're identified, they are killed unless the staff protects them by putting them in protective custody.
+[00:20:14.560 --> 00:20:26.000]  So that's so sad to me that prisoners, felons in prison, have more honor when it comes to dealing with pedophiles than our own government.
+[00:20:26.240 --> 00:20:31.040]  And in particular, our own FBI, in particular, Kash Patel and Bongino.
+[00:20:31.120 --> 00:20:33.920]  And Bongino was a police officer in New York City.
+[00:20:34.240 --> 00:20:37.840]  He should have the same mindset toward, I'm sure he probably does towards pedophiles.
+[00:20:38.000 --> 00:20:55.280]  So I have to ask, why is it that on his watch with him as deputy director and Kash Patel as director of the FBI, we saw no arrest for anyone identified as being a co-conspirator with Jeffrey Epstein or a customer of Jeffrey Epstein?
+[00:20:55.519 --> 00:20:56.720]  Why has that not happened?
+[00:20:56.880 --> 00:20:59.440]  And that's why you call them a pedophile protector.
+[00:20:59.680 --> 00:21:01.519]  I think that I think they're blackmailed.
+[00:21:01.680 --> 00:21:05.759]  I think they're either blackmailed or they're to some extent threatened.
+[00:21:05.920 --> 00:21:12.080]  Like if you expose the story, if you continue with this, then, you know, we're going to kill your family or we're going to expose this about you.
+[00:21:12.240 --> 00:21:24.240]  I think that's what's going on is that they got into the political arena and realized, oh, shoot, like this is, you know, I can't say certain things or else I'm going to get blackmailed or killed potentially.
+[00:21:24.480 --> 00:21:24.640]  Okay.
+[00:21:24.800 --> 00:21:28.640]  So even if that were the case, let's say, because that's the classic way to control people, right?
+[00:21:28.880 --> 00:21:37.759]  Either you bribe them with a bunch of money or you blackmail them something they don't want known about them that's embarrassing or devastating.
+[00:21:38.080 --> 00:21:39.519]  Or like you said, you threaten them.
+[00:21:39.759 --> 00:21:43.600]  Let's say that's the case, that they've been threatened or blackmailed in some way.
+[00:21:44.480 --> 00:21:45.440]  What's your answer to that?
+[00:21:45.519 --> 00:21:46.080]  What do you say to that?
+[00:21:46.800 --> 00:21:48.160]  What do you tell them, hey, that's been done to you.
+[00:21:48.320 --> 00:21:48.640]  Now what?
+[00:21:48.720 --> 00:21:52.320]  It's okay to sit on your hands in that position or what is their duty?
+[00:21:52.720 --> 00:21:54.480]  To some extent, I can kind of sympathize.
+[00:21:54.640 --> 00:21:56.240]  Like, what do you do?
+[00:21:56.320 --> 00:21:58.720]  If they're like, hey, if you expose this, we're going to kill your family.
+[00:21:58.880 --> 00:22:00.080]  That is a tough spot to be in.
+[00:22:00.400 --> 00:22:03.039]  But don't gaslight us and tell us it never existed.
+[00:22:03.280 --> 00:22:04.400]  Just be quiet and resign.
+[00:22:04.560 --> 00:22:04.800]  Leave.
+[00:22:04.880 --> 00:22:05.840]  Hey, I can't do this anymore.
+[00:22:06.160 --> 00:22:07.600]  You're telling us for years.
+[00:22:07.920 --> 00:22:08.880]  There's a bunch of evidence.
+[00:22:08.960 --> 00:22:09.600]  I've seen the evidence.
+[00:22:09.680 --> 00:22:10.880]  I got the Epstein files.
+[00:22:11.440 --> 00:22:17.759]  They gave the Epstein, the Epstein files to all these loser conservative pundits online.
+[00:22:17.920 --> 00:22:20.000]  They're holding up like, we got the Epstein files.
+[00:22:20.320 --> 00:22:23.039]  And then like a year later, oh, they don't even exist anymore.
+[00:22:23.360 --> 00:22:27.759]  So resign honorably and don't gaslight us and tell us, oh, it doesn't exist.
+[00:22:27.840 --> 00:22:28.240]  It's a lie.
+[00:22:28.320 --> 00:22:29.280]  It's a Democrat hoax.
+[00:22:29.680 --> 00:22:31.680]  He just fell in line with the narrative that he was told.
+[00:22:32.000 --> 00:22:40.560]  And I have an issue with that because there's little kids that were raped and killed at the hands of these elite people who have so much power in this world.
+[00:22:40.720 --> 00:22:41.600]  And I'm tired of it, dude.
+[00:22:41.680 --> 00:22:42.240]  I'm tired of it.
+[00:22:42.480 --> 00:22:43.280]  And it's still going on.
+[00:22:43.680 --> 00:22:50.320]  That's what I would say is even if they threaten to kill your family, what you do is you put your family in protective custody.
+[00:22:51.120 --> 00:22:54.880]  First of all, whoever told you that, I would just smoke the guy on the spot.
+[00:22:55.200 --> 00:22:58.080]  Then you put your family in protective custody and you let it be known.
+[00:22:58.160 --> 00:23:02.320]  You hold a press conference and say, the deep state just came after my family.
+[00:23:02.640 --> 00:23:06.800]  We, deputy director and director of the FBI, are going to take them down.
+[00:23:07.039 --> 00:23:08.640]  And you'd have everyone behind you.
+[00:23:08.880 --> 00:23:10.880]  That's what a man of courage does.
+[00:23:11.519 --> 00:23:19.759]  You can't say, well, because they threatened my family, therefore I'm going to just not do my job and let pedophiles continue to control our government and control other governments around the world.
+[00:23:20.080 --> 00:23:21.920]  And we're just going to sit here and let them continue on.
+[00:23:22.160 --> 00:23:24.480]  We can't live in a world dominated by pedophiles.
+[00:23:24.560 --> 00:23:26.160]  So there's no excuse as far as I'm concerned.
+[00:23:26.320 --> 00:23:27.280]  Yeah, there's no excuse.
+[00:23:27.360 --> 00:23:29.200]  And I want to ask, they played that clip.
+[00:23:29.440 --> 00:23:30.640]  I want to ask them, what was in there?
+[00:23:30.720 --> 00:23:32.000]  I guarantee you was blank pages.
+[00:23:32.160 --> 00:23:34.320]  And they're like, hey, we're going to do this little photo op here.
+[00:23:34.480 --> 00:23:36.480]  Go be like, we have the Epstein files.
+[00:23:36.640 --> 00:23:36.960]  They don't.
+[00:23:37.039 --> 00:23:39.680]  It was blank pages, you know, pictures of squirrels.
+[00:23:40.000 --> 00:23:40.240]  It was.
+[00:23:41.280 --> 00:23:48.240]  Like you said, it was, you know, presenting a facade that we're going to fulfill the promises we've made during the election.
+[00:23:48.640 --> 00:23:53.520]  And then they promised that and then didn't deliver and kept stonewalling.
+[00:23:53.840 --> 00:23:58.320]  And then when they're called on that, then it turned into, oh, well, it's really just a Democrat hoax.
+[00:23:58.640 --> 00:24:10.240]  And if any of you, like I saw a message on my own feed, because I was promoting one of the videos that I shot, and someone's like, oh, it's sad to see that you fall in for the, for the, for the, you know, the leftist hoax about the Epstein files.
+[00:24:10.400 --> 00:24:10.960]  It's like leftists.
+[00:24:11.280 --> 00:24:11.760]  What the heck?
+[00:24:12.240 --> 00:24:20.240]  So they have now spun into, if you're doing this, then you're a leftist or you've fallen for you're an idiot, you've fallen for a leftist hoax.
+[00:24:20.800 --> 00:24:25.680]  Or now the latest thing is, you know, you're a black pillar, but now apparently now you're a chaos agent.
+[00:24:25.920 --> 00:24:49.280]  So in other words, if you're speaking the truth about the reality of the Epstein files being the tip of the iceberg of how horribly demonic and corrupt the political elites around the world are, the deep state, all the way up to the Rothschild family, with Epstein admitting in an email to Peter Thiel that he works for the RF, you, of course, know that I work for and represent the Rothschild family.
+[00:24:49.520 --> 00:24:54.320]  They want you to forget all about that, ignore all of that, and then go back to what?
+[00:24:54.480 --> 00:24:55.680]  Go back to sleep.
+[00:24:56.000 --> 00:25:04.560]  So what do you think, the Trump supporters out there who are awake and aware of the reality we face?
+[00:25:04.880 --> 00:25:06.240]  What should they be doing?
+[00:25:07.120 --> 00:25:10.000]  Well, like Don Gino said, don't let it go.
+[00:25:10.320 --> 00:25:10.960]  Don't let it go.
+[00:25:11.120 --> 00:25:11.840]  The old Bongino.
+[00:25:12.560 --> 00:25:12.800]  Not this one.
+[00:25:12.880 --> 00:25:14.080]  No, the old Bongino.
+[00:25:14.400 --> 00:25:15.440]  So here's the thing.
+[00:25:15.600 --> 00:25:19.680]  All these, these, these MAGA people online are, oh, you're a leftist.
+[00:25:19.760 --> 00:25:21.280]  You fall into the leftist trap.
+[00:25:21.600 --> 00:25:24.560]  Dude, I guarantee you, I'm way, way further right than you are.
+[00:25:24.800 --> 00:25:25.680]  Way further right.
+[00:25:25.920 --> 00:25:26.080]  Okay.
+[00:25:26.400 --> 00:25:26.640]  Right.
+[00:25:27.360 --> 00:25:29.680]  But I mean, he called Dan Bongino a faggot.
+[00:25:29.920 --> 00:25:30.080]  Yeah.
+[00:25:30.960 --> 00:25:32.080]  You know, some people are complaining about it.
+[00:25:32.480 --> 00:25:33.760]  Well, but they're like, hey, wait a minute.
+[00:25:33.840 --> 00:25:34.880]  This guy can't be a leftist.
+[00:25:35.120 --> 00:25:36.880]  That's an indicator that you're not a leftist.
+[00:25:37.200 --> 00:25:40.800]  So if I'm further right than you, guarantee that.
+[00:25:40.960 --> 00:25:42.320]  But I have a, I draw a hard line.
+[00:25:42.400 --> 00:25:43.920]  I'm not, I don't follow suit with everything.
+[00:25:44.000 --> 00:25:46.400]  Like I thank Trump for parting us.
+[00:25:46.960 --> 00:25:48.160]  I'm very pleased with that.
+[00:25:48.480 --> 00:25:53.680]  And I give him his accolades, but it's like pretend your brother or your father or something.
+[00:25:53.760 --> 00:25:56.240]  They do a lot of good for you, but they start doing things that you don't like.
+[00:25:56.560 --> 00:25:58.800]  Are you not allowed to say, hey, man, I think you're going the wrong direction?
+[00:25:58.960 --> 00:26:02.400]  It won't be the wrong thing when it comes to doing what's right.
+[00:26:02.720 --> 00:26:04.400]  And it'll also be the wrong thing for them.
+[00:26:04.720 --> 00:26:06.560]  You're not helping them by not exactly.
+[00:26:06.880 --> 00:26:07.680]  Iron Sharp and Zion.
+[00:26:07.920 --> 00:26:08.080]  Exactly.
+[00:26:08.320 --> 00:26:09.200]  You got to call him out.
+[00:26:09.440 --> 00:26:15.120]  I'm not a loyalist to anyone as like, you're my, my God, where anything you say, I follow suit.
+[00:26:15.200 --> 00:26:15.840]  I don't do that.
+[00:26:16.160 --> 00:26:23.680]  If there is an issue, which I think there's a big issue with the Epstein scandal, and the Republicans are, we thought you were different, but they're not.
+[00:26:24.160 --> 00:26:26.640]  They are running cover for elite pedophiles.
+[00:26:26.880 --> 00:26:27.680]  I have an issue with that.
+[00:26:27.920 --> 00:26:28.720]  I'm not afraid to say that.
+[00:26:28.960 --> 00:26:34.960]  That should not be controversial where all these people online are pissed that, you know, oh, you're just a leftist.
+[00:26:35.040 --> 00:26:37.040]  You're, you know, you're just trying to start chaos.
+[00:26:37.360 --> 00:26:45.920]  No, dude, I have a hard line where if you're covering for people who molest kids and do worse to kids, I don't like that.
+[00:26:46.080 --> 00:26:47.200]  And why were you at J6?
+[00:26:48.320 --> 00:26:51.120]  I honestly just wanted to beat up Antifa.
+[00:26:52.080 --> 00:26:52.800]  Yeah, that was it.
+[00:26:52.880 --> 00:26:54.160]  I was hoping they were there, but they didn't show.
+[00:26:54.400 --> 00:26:55.680]  Spoken like a true proud boy.
+[00:26:55.760 --> 00:26:56.800]  Yeah, that was honestly it.
+[00:26:56.880 --> 00:26:58.400]  But you also knew the election was stolen, right?
+[00:26:58.640 --> 00:26:58.960]  Oh, yeah.
+[00:26:59.280 --> 00:27:00.080]  I knew it was stolen.
+[00:27:00.160 --> 00:27:01.840]  And I mean, yeah.
+[00:27:02.160 --> 00:27:02.400]  All right.
+[00:27:02.480 --> 00:27:03.040]  All right, brother.
+[00:27:03.200 --> 00:27:04.960]  Well, hey, man, it's really an honor to meet you.
+[00:27:05.120 --> 00:27:10.320]  And you're like, next to Joe Biggs, you're like the stereotypical poster boy for a proud boy.
+[00:27:10.480 --> 00:27:10.880]  I gotta tell you.
+[00:27:11.600 --> 00:27:12.240]  That's good to hear.
+[00:27:12.480 --> 00:27:14.400]  Yeah, Scotch, Irish, ex-COT.
+[00:27:14.960 --> 00:27:16.560]  Just wants to beat up Antifa.
+[00:27:17.200 --> 00:27:18.560]  I have many times, by the way.
+[00:27:18.800 --> 00:27:20.880]  And I have pictures of it.
+[00:27:21.200 --> 00:27:21.360]  All right.
+[00:27:21.440 --> 00:27:22.000]  God bless, brother.
+[00:27:22.640 --> 00:27:24.320]  Ivan Rickland is next, folks.
+[00:27:24.480 --> 00:27:25.440]  Come back in.
+[00:27:25.759 --> 00:27:26.240]  Stay tuned.
+[00:27:35.120 --> 00:27:36.560]  Welcome back to the show.
+[00:27:37.120 --> 00:27:39.120]  Now I have my good buddy, Ivan Rickland.
+[00:27:39.680 --> 00:27:44.720]  Ex-Special Forces, my airborne brother, Special Forces retired colonel.
+[00:27:44.800 --> 00:27:45.600]  Lieutenant Colonel, right?
+[00:27:45.680 --> 00:27:46.160]  Lieutenant Colonel.
+[00:27:46.240 --> 00:27:46.880]  Lieutenant Colonel.
+[00:27:47.360 --> 00:27:49.200]  And he is a deep state marauder.
+[00:27:49.920 --> 00:27:51.840]  Folks can follow you on X at what?
+[00:27:52.080 --> 00:27:53.520]  I'm on X, Ivan Rakeland.
+[00:27:53.600 --> 00:27:58.080]  Thanks, Elon, for allowing us to have free speech and actually dispute policy.
+[00:27:58.400 --> 00:28:02.800]  When we have policy disputes, we can actually discuss them on an open venue.
+[00:28:03.040 --> 00:28:04.960]  You can somewhat, kind of, sort of.
+[00:28:05.520 --> 00:28:06.000]  I can do it.
+[00:28:06.240 --> 00:28:09.360]  You can too, except for you tried to engage with Bongino online.
+[00:28:09.600 --> 00:28:10.160]  What happened?
+[00:28:10.480 --> 00:28:25.680]  Yeah, so a few months ago, I believe, Dan Bongino, when I had, you know, I noticed and taken issue with some of the policy moves of the FBI focusing on things that we really didn't care to, didn't prioritize when we voted for them.
+[00:28:25.840 --> 00:28:31.200]  And then also the campaign promises, as well as executive orders, were to de-weaponize things.
+[00:28:31.520 --> 00:28:40.480]  And so when I noticed that campaign promises weren't being kept, I wanted to express my, it wasn't really disdain at that point, but the frustration.
+[00:28:40.800 --> 00:28:42.560]  And then it continued to escalate from there.
+[00:28:42.800 --> 00:28:44.640]  Yeah, he decided to block me.
+[00:28:44.800 --> 00:28:49.120]  It started out with promises made, promises kept, setting launch Jake Sixers free.
+[00:28:49.440 --> 00:28:51.520]  Doge was off to a fantastic start.
+[00:28:51.760 --> 00:28:54.080]  Pardon everyone except Proud Boys and Oath Keepers.
+[00:28:54.240 --> 00:28:54.320]  Right.
+[00:28:54.400 --> 00:28:57.520]  That's just the campaign promise was pardon everybody.
+[00:28:57.760 --> 00:28:59.760]  But I'll take what I can get when it comes to being free.
+[00:29:00.080 --> 00:29:02.080]  But like you said, he blocked me.
+[00:29:02.400 --> 00:29:05.040]  And so there's no mechanism to communicate.
+[00:29:05.760 --> 00:29:06.880]  How long ago did he block you?
+[00:29:07.040 --> 00:29:08.960]  It would have been a few months ago at this point.
+[00:29:09.280 --> 00:29:14.240]  And then basically someone reached out to him and said, why did you block Ivan?
+[00:29:14.480 --> 00:29:20.160]  And then he sent them a screenshot and said, and he screenshotted something that I said, which was delicate, Dan.
+[00:29:21.440 --> 00:29:22.560]  That's how delicate he is.
+[00:29:22.640 --> 00:29:22.800]  Okay.
+[00:29:23.040 --> 00:29:23.600]  That's ironic.
+[00:29:23.840 --> 00:29:27.040]  But the thing is that that post came out after he blocked me.
+[00:29:27.280 --> 00:29:28.160]  Ah, gotcha.
+[00:29:28.560 --> 00:29:34.960]  So he is not capable of receiving any sort of criticism, even if it's even if it's constructive criticism.
+[00:29:35.200 --> 00:29:35.360]  Right.
+[00:29:35.520 --> 00:29:38.160]  Man, this is from somebody for those that have never heard of me, right?
+[00:29:38.400 --> 00:29:41.120]  I've spent 25 years in our national security ecosystem.
+[00:29:41.280 --> 00:29:41.440]  Okay.
+[00:29:41.680 --> 00:29:45.200]  I'm a lawyer, former, you know, retired Lieutenant Colonel Green Beret.
+[00:29:45.520 --> 00:29:49.200]  I've deployed the Middle East, Central, South America.
+[00:29:49.520 --> 00:29:55.760]  I've been a military diplomat, which I don't really often discuss as a reserve attache in the Republic of Georgia.
+[00:29:55.840 --> 00:30:01.600]  So I have experience in Afghanistan, Republic of Georgia, so the former Soviet Union in Ecuador, Bolivia.
+[00:30:01.760 --> 00:30:02.400]  Speak five languages.
+[00:30:02.560 --> 00:30:02.960]  Belarus.
+[00:30:03.680 --> 00:30:13.120]  And yeah, I speak Spanish, Arabic, French, and Arabic, French, Russian, Russian, with a name like Ivan.
+[00:30:13.280 --> 00:30:13.360]  Right.
+[00:30:13.680 --> 00:30:15.360]  And Arabic, and obviously English.
+[00:30:15.680 --> 00:30:18.960]  And so I'm not saying that I have the most experience.
+[00:30:19.200 --> 00:30:23.760]  I would probably give that title in the ecosystem of maybe what we're going to get to talking to.
+[00:30:24.240 --> 00:30:26.720]  That would be Joe Kent has much more experience than I do.
+[00:30:26.960 --> 00:30:29.840]  Who you were actually deployed with, right?
+[00:30:30.160 --> 00:30:32.080]  No, I've never deployed with Joe Kent.
+[00:30:32.160 --> 00:30:33.760]  I've served with him in the military.
+[00:30:34.080 --> 00:30:35.280]  I've done training with him.
+[00:30:35.600 --> 00:30:36.560]  You served domestically with him?
+[00:30:36.800 --> 00:30:37.680]  Domestically with him.
+[00:30:38.080 --> 00:30:39.680]  Conducted similar training with him.
+[00:30:40.240 --> 00:30:42.400]  He mentioned he served in a special mission unit.
+[00:30:42.720 --> 00:30:46.960]  I did some training with him as he was getting into that unit.
+[00:30:47.120 --> 00:31:02.800]  I was supposed to actually also join him, but thanks to Barry Hussein and Joe Biden, the field vice president, they decided to decrease our capability in doing surgical capability of the likes of that unit.
+[00:31:03.120 --> 00:31:15.040]  And so I wasn't able to move from the reserve component, the National Guard, onto active duty to then go through the continued training to then go further participate in the mission of that unit.
+[00:31:15.200 --> 00:31:16.400]  And we'll come back to that.
+[00:31:16.480 --> 00:31:20.240]  I want to talk about that because I think it's exactly on point with what's happening right now.
+[00:31:20.560 --> 00:31:20.800]  Exactly.
+[00:31:20.960 --> 00:31:28.640]  And it's been very frustrating for me and you looking at the, I think it's a false paradigm that they're setting up on the Iran war.
+[00:31:28.960 --> 00:31:36.160]  And they characterize anybody who opposes the way it's being done now as though they're incompetent idiots don't know how to fight.
+[00:31:36.480 --> 00:31:38.080]  And it's the exact opposite.
+[00:31:38.320 --> 00:31:39.840]  Well, let's get before we get into that.
+[00:31:40.160 --> 00:31:40.720]  Let's talk about this.
+[00:31:40.800 --> 00:31:40.960]  Right.
+[00:31:41.600 --> 00:31:48.160]  To kind of finish the thought on when presented with when Dan Bongino, I get it.
+[00:31:48.240 --> 00:31:49.200]  It's a private account.
+[00:31:49.360 --> 00:31:52.240]  He's a private, supposedly a private individual.
+[00:31:52.400 --> 00:31:54.240]  So he can block whoever he wants to.
+[00:31:54.560 --> 00:31:55.280]  I understand that.
+[00:31:55.440 --> 00:31:56.400]  Yeah, freedom of speech.
+[00:31:56.720 --> 00:32:09.040]  But my perspective is, I don't believe I really, I mean, I blocked government accounts during the Biden criminal syndicate reign of terror because those are primarily disinformation purveyors.
+[00:32:09.200 --> 00:32:11.200]  There's no reason for them to poison my fee.
+[00:32:11.360 --> 00:32:11.520]  Okay.
+[00:32:11.600 --> 00:32:22.080]  That I would block governmental accounts, but I've ceased to do that because we're trying to get our institutions back in line with the constitutional order and in line with the constitution.
+[00:32:22.640 --> 00:32:31.760]  But what I'm getting at here is if you're trying to learn, understand the sentiment of the national conversation.
+[00:32:32.080 --> 00:32:36.640]  It's not only your inner circle that you need to be monitoring and kind of seeing, right?
+[00:32:36.960 --> 00:32:51.200]  So if you are the world record holder in blocking accounts, you create blind spots on things that you don't know or see based on lack of experience or even lack of seeing the analysis or the conversation.
+[00:32:51.760 --> 00:32:58.640]  And so by blocking me, you're literally not hearing somebody of my background.
+[00:32:58.960 --> 00:33:02.320]  And I'm, you know, I'm engaged in the conversation, just like you are now.
+[00:33:02.400 --> 00:33:04.800]  Thankfully, you're back in the system.
+[00:33:05.440 --> 00:33:09.920]  And so when you block me, and then you, I know Dan Bongino, he knows me.
+[00:33:10.240 --> 00:33:11.600]  I've been on a show before.
+[00:33:12.160 --> 00:33:14.080]  When you ignore, and I get it, he was busy.
+[00:33:14.400 --> 00:33:25.680]  When you ignore text messages of good faith, reaching out to improve our situation, text, phone calls, as well as, you know, you block me basically.
+[00:33:25.920 --> 00:33:28.240]  So then we have to go to what's the next step?
+[00:33:28.560 --> 00:33:34.240]  I want to cordially and profession, my brand is cool, calm, collected, professional, right?
+[00:33:34.480 --> 00:33:35.360]  Peaceful.
+[00:33:35.680 --> 00:33:50.560]  And so I have to physically take opportunities to physically engage with an individual that doesn't feel comfortable or courageous enough to be able to interact with someone that is critical of themselves, right?
+[00:33:50.720 --> 00:33:55.920]  So welcome criticism because, like you said, iron sharpens iron.
+[00:33:56.080 --> 00:33:58.160]  Well, it's like it's like a challenge town square.
+[00:33:58.480 --> 00:34:04.880]  If everyone's meeting or a town meeting, everyone's there, you can have uncomfortable discussions and debates.
+[00:34:05.040 --> 00:34:07.360]  It could be heated, but you can do that face to face.
+[00:34:07.520 --> 00:34:15.520]  But if someone won't do that, it's a digital town square on X. If they won't do that in the digital town square, then what do you do?
+[00:34:15.840 --> 00:34:16.000]  Right.
+[00:34:16.160 --> 00:34:19.360]  And so I didn't know that Dan Bongino was in the area.
+[00:34:19.680 --> 00:34:26.960]  I had no intentions, no plans to interact with him because, well, he blocked me and he's not really interacting.
+[00:34:27.120 --> 00:34:30.160]  So I have no ability to engage even in his own feed.
+[00:34:30.480 --> 00:34:35.440]  But when I found out yesterday, as we're closing out the event, after we had, we were basically in a panel.
+[00:34:36.480 --> 00:34:38.080]  You mean Enrique were in a panel discussion?
+[00:34:38.960 --> 00:34:44.800]  And I can't recall who said somebody said, hey, Dan Bongino is going to be speaking at an event just down the road.
+[00:34:44.880 --> 00:34:48.160]  It was literally, I don't know, 20 minutes away from where we were located.
+[00:34:48.480 --> 00:34:59.039]  And so when I found that out, I was like, well, I want to take the opportunity, just like you see me in Congress in the halls of Congress, try to have an engage, right?
+[00:34:59.360 --> 00:35:00.080]  Ask a question.
+[00:35:00.400 --> 00:35:04.240]  Mr. Fanon, you saw how he reacted when I put my hand out.
+[00:35:04.800 --> 00:35:06.480]  Always calm, cool, and professional.
+[00:35:06.800 --> 00:35:10.560]  But I always want to give an opportunity for that engagement to happen.
+[00:35:11.200 --> 00:35:14.800]  Maybe they have a change of heart and actually calm down and have a discussion.
+[00:35:15.039 --> 00:35:24.480]  Because if I'm wrong in what I think about someone, they can have an opportunity to reject and bring forth a rebuttal to lower the temperature.
+[00:35:24.800 --> 00:35:27.120]  And so that was my intent going.
+[00:35:27.440 --> 00:35:30.400]  And because we were in a crowd, we had other people around.
+[00:35:30.720 --> 00:35:31.520]  Joseph heard.
+[00:35:31.600 --> 00:35:33.120]  He's like, yeah, I'd like to go too.
+[00:35:33.440 --> 00:35:38.400]  I'm like, okay, but like, keep, you know, you're going to do what you do, but just please keep it professional.
+[00:35:38.560 --> 00:35:39.120]  Here's your mission.
+[00:35:39.200 --> 00:35:44.400]  And then Nate, I just met literally minutes before, and he's like, I'd like to go too.
+[00:35:44.480 --> 00:35:46.960]  And so he was at the same event.
+[00:35:47.440 --> 00:35:48.160]  I'd never met him.
+[00:35:48.640 --> 00:35:51.120]  I don't think you've ever met Nate before yesterday, have you?
+[00:35:51.280 --> 00:35:51.520]  Nope.
+[00:35:52.560 --> 00:35:54.560]  And so, great guy, one of the best.
+[00:35:54.800 --> 00:35:57.280]  We went there and unbelievable.
+[00:35:57.520 --> 00:36:01.200]  I was hoping to buy a ticket, you know, sit and attend and listen to the speech.
+[00:36:01.280 --> 00:36:04.800]  And then at the end, maybe there was QA to do it the right way.
+[00:36:05.120 --> 00:36:07.120]  Yes, like you normally would.
+[00:36:07.440 --> 00:36:10.080]  And so, but it was sold out.
+[00:36:10.240 --> 00:36:16.720]  And so we just went there and then we happened to be there in the lobby, walked in together.
+[00:36:17.360 --> 00:36:23.680]  I guess Dan Bongino, I saw the security, probably recognized me, took a picture of me and Joseph Laird and Nate.
+[00:36:24.240 --> 00:36:27.680]  And he's basically, well, yeah.
+[00:36:28.000 --> 00:36:33.680]  And so I went there with the intent of doing that initial engagement to offer an opportunity to engage.
+[00:36:35.040 --> 00:36:41.600]  And the only thing that I was able to do was, as you can see in the video, was I only expressed two words.
+[00:36:41.920 --> 00:36:45.200]  I said, Dan, put my hand out and Ivan.
+[00:36:45.360 --> 00:36:46.160]  And he saw me.
+[00:36:46.400 --> 00:37:01.040]  And I guess by that, in his defense, by then, he was already kind of riled up from the previous engagement and interactions of, I mean, let's face it, Joseph, what he said probably represents tens of millions of sentiment in America, right?
+[00:37:01.280 --> 00:37:02.160]  Same thing with Nate.
+[00:37:02.320 --> 00:37:05.600]  When he called him a pedophile protector, well, that's not my style.
+[00:37:05.840 --> 00:37:08.080]  That's not how I, I mean, everybody has their own style.
+[00:37:08.560 --> 00:37:09.920]  That was like a Joe the Plumber moment.
+[00:37:10.080 --> 00:37:13.120]  That is, I think it represented probably like 100 million Americans.
+[00:37:13.600 --> 00:37:18.000]  It represents the sentiment of America, not just the left.
+[00:37:18.320 --> 00:37:42.320]  It's literally, I would say, every parent out there that is a normal parent that votes Democrat, Republican, whether you're from Maha, MAGA, America First, America only, except for possibly the radical leftists that mutilate, that want to mutilate children, everyone else, not over 95% of the nation, probably thinks the same way that he expressed it.
+[00:37:42.880 --> 00:37:44.480]  I just don't happen to do it that way.
+[00:37:44.560 --> 00:37:45.920]  That's not my MO.
+[00:37:47.120 --> 00:38:16.400]  But in the collective, like I wanted to further the conversation and say, hey, let's have a substantive discussion on why the frustration of those that are loyal only to the United States and understand the national security ecosystem to be able to give advice, so that it percolates through the we, the people up to potentially the White House, to factor into the decision making, as they make decisions that impact taxpayers,
+[00:38:16.560 --> 00:38:28.640]  so it impacts Americans, let me, let's go ahead and show the video, but I want to ask you after the, after the video is over, what would you have asked him if he had stopped and actually engaged in a conversation?
+[00:38:28.800 --> 00:38:29.840]  Let's go ahead and show the video, though.
+[00:39:13.648 --> 00:39:15.808]  my first question, I should have just asked it there.
+[00:39:16.368 --> 00:39:17.248]  Why'd you block me?
+[00:39:18.848 --> 00:39:19.648]  He doesn't have to answer.
+[00:39:19.728 --> 00:39:20.048]  I get it.
+[00:39:20.288 --> 00:39:24.688]  He can do what he wants, but I also can say and express myself how I want.
+[00:39:24.768 --> 00:39:27.008]  And so, my question would be: why did you block me?
+[00:39:27.568 --> 00:39:29.408]  Give me a good substantive reason.
+[00:39:29.728 --> 00:39:32.688]  Because, I mean, you're just dismissing and discounting.
+[00:39:33.488 --> 00:39:43.568]  You know, I'd say we're a pretty strong voice with substantive background that can articulate our thoughts in a, I think, a compelling way to help inform decisions.
+[00:39:44.128 --> 00:39:45.488]  That's kind of what you do.
+[00:39:46.208 --> 00:39:47.808]  What I did, I should say, in the military.
+[00:39:48.288 --> 00:39:50.448]  You come up with a plan, you create contingencies.
+[00:39:50.768 --> 00:39:55.248]  I have this breadth of background, and I'm not afraid to speak my mind.
+[00:39:55.568 --> 00:39:58.208]  And I'm able to do it in a professional, cordial manner.
+[00:39:58.608 --> 00:39:59.728]  What else would you have asked him?
+[00:40:00.048 --> 00:40:01.328]  So that would be the first thing.
+[00:40:01.488 --> 00:40:05.408]  And then the second thing is, why are you calling Joe Kent a coward?
+[00:40:06.048 --> 00:40:18.608]  Please provide a substantive supporting argument on how you come up to the conclusion of Joe Kent equates to a coward, considering his litany.
+[00:40:18.928 --> 00:40:24.288]  His experience, Joe Kent's experience as it applies to fighting Iranian proxies.
+[00:40:24.608 --> 00:40:25.728]  Leven combat tours, right?
+[00:40:25.888 --> 00:40:27.168]  11 combat forces.
+[00:40:27.408 --> 00:40:33.888]  And by the way, he said six or seven, six of those were to Iraq in that region, Syria.
+[00:40:34.208 --> 00:40:35.168]  Well, guess what?
+[00:40:35.488 --> 00:40:39.248]  That means the rest of them were in other regions.
+[00:40:39.568 --> 00:40:41.088]  Like Africa, perhaps.
+[00:40:41.808 --> 00:40:44.448]  I know where some of those are, but because he hasn't said those publicly.
+[00:40:44.608 --> 00:40:49.168]  And again, I'm privy to this information because I also held the clearance, right?
+[00:40:49.488 --> 00:40:50.848]  I also interacted with him.
+[00:40:51.008 --> 00:40:52.848]  I lived with him and trained with him.
+[00:40:54.288 --> 00:40:55.888]  I've known him for 14 years.
+[00:40:56.208 --> 00:41:00.288]  So I have insights on what his character is about.
+[00:41:01.008 --> 00:41:08.768]  Well, all these individuals that are content creators, that some of them I've had the respect for, Laura Loomer, she ran.
+[00:41:09.088 --> 00:41:12.048]  She's been a patriot for most of the time that I've known her for a decade.
+[00:41:12.368 --> 00:41:24.528]  But what the Loomers and the Dan Bonginos and the Mark Lehmans and the Ben Shapiros lack is knowledge of the national security apparatus other than just through like whatever their sources is.
+[00:41:24.848 --> 00:41:25.808]  I lived through it.
+[00:41:26.048 --> 00:41:27.248]  I trained about it.
+[00:41:27.408 --> 00:41:29.488]  I know the ecosystem and the people.
+[00:41:29.808 --> 00:41:36.448]  And those relationships predate the President Trump in the first term and now the second term.
+[00:41:36.768 --> 00:41:43.808]  And I would say that it wouldn't be a stretch to say that, I'll just put it this way because I don't want to disclose or put anybody.
+[00:41:44.368 --> 00:41:49.888]  I know quite a few individuals in this administration that express the same sentiment.
+[00:41:50.208 --> 00:41:55.488]  And it runs across every single cabinet member, the cabinet.
+[00:41:55.808 --> 00:41:55.968]  Right?
+[00:41:56.208 --> 00:41:57.008]  All the departments.
+[00:41:57.328 --> 00:41:58.208]  All the departments.
+[00:41:58.768 --> 00:41:59.168]  Right.
+[00:42:00.128 --> 00:42:01.008]  And they know me.
+[00:42:01.168 --> 00:42:01.808]  I know them.
+[00:42:03.248 --> 00:42:04.688]  But they're not out there publicly.
+[00:42:04.928 --> 00:42:06.208]  Now, do I talk to them?
+[00:42:06.528 --> 00:42:07.888]  No, I don't really talk to them.
+[00:42:09.408 --> 00:42:19.248]  And most of them are warriors, like Dan Caldwell, another one, Marine infantry combat veteran, multiple tours, who was right there as an assistant to Pete Hag Seth.
+[00:42:19.408 --> 00:42:20.208]  He was purged out.
+[00:42:20.768 --> 00:42:27.168]  Now I know he was purged out back in April of 2025 out of the inner circle in the Department of Defense.
+[00:42:27.408 --> 00:42:27.568]  Right.
+[00:42:27.648 --> 00:42:31.568]  So the more I view what's going on, this is my analysis.
+[00:42:32.128 --> 00:42:33.728]  I'll tie it back to Dan Bongino.
+[00:42:33.968 --> 00:42:41.568]  Dan Vongino, from my perspective, as an outsider, I have no interest for access, right?
+[00:42:42.048 --> 00:42:48.848]  I don't have access and I don't have no interest in access, unlike maybe Dan Bongino or Loomer.
+[00:42:49.168 --> 00:42:53.328]  You know, Laurel Loomer and Mark Levin were at the Christmas party at the White House.
+[00:42:53.408 --> 00:42:53.568]  Okay.
+[00:42:53.888 --> 00:42:54.768]  So, okay, great.
+[00:42:54.848 --> 00:42:55.328]  That's fine.
+[00:42:55.408 --> 00:42:56.208]  That's what they want to do.
+[00:42:56.368 --> 00:42:57.088]  They want to do that.
+[00:42:57.408 --> 00:42:58.448]  I don't need that.
+[00:42:58.768 --> 00:43:01.008]  I just want to be able to have my First Amendment.
+[00:43:01.328 --> 00:43:10.608]  And the only way I can do that is through that social, the digital discourse to provide my input, insight, and provide experience for the country to discuss things nationally.
+[00:43:10.848 --> 00:43:14.448]  So we have a higher level, a higher IQ conversation.
+[00:43:14.848 --> 00:43:15.488]  That's not what's happening.
+[00:43:15.728 --> 00:43:16.608]  But that's not happening.
+[00:43:17.248 --> 00:43:19.648]  We're bringing the conversation lower through the block.
+[00:43:19.968 --> 00:43:21.568]  So that's a form of censorship.
+[00:43:21.888 --> 00:43:26.048]  And then we're bringing it even lower when we start to go into the memes.
+[00:43:26.288 --> 00:43:33.088]  Like, I didn't plan on taking over Dan Bongino's Twitter account today, but apparently I did.
+[00:43:33.408 --> 00:43:34.208]  And what does he do?
+[00:43:34.368 --> 00:43:37.408]  Are these high-level conversations that he's having on this Twitter account?
+[00:43:37.648 --> 00:43:40.608]  I mean, let's pull them up and do a full-blown analysis.
+[00:43:40.848 --> 00:43:41.648]  That's pretty funny.
+[00:43:41.808 --> 00:43:43.568]  So, so on what that looks like.
+[00:43:43.808 --> 00:43:43.888]  Right.
+[00:43:43.968 --> 00:43:57.088]  So, Dan Bongino and his supporters decided that the best way to, I guess, counteract the videos of Dan being called out and called out for being a pedophile protector and refusing to engage with Ivan.
+[00:43:57.248 --> 00:44:05.728]  Apparently, their strategy is to try to use ridicule to make sure nobody else does this, which tells me what you should be doing.
+[00:44:05.968 --> 00:44:16.208]  I think everyone out there should go and do exactly what they did: do it in your way, but go and ask Dan Bongino a question in person.
+[00:44:16.528 --> 00:44:18.448]  So, this is what's going around.
+[00:44:18.768 --> 00:44:20.208]  That's pretty funny.
+[00:44:20.528 --> 00:44:22.368]  Now, does that destroy you?
+[00:44:22.448 --> 00:44:24.688]  Are you curling up in a fetal position after seeing that?
+[00:44:26.288 --> 00:44:27.808]  It's hilarious, it's funny, right?
+[00:44:28.288 --> 00:44:30.768]  So, I get it, private citizen, he's making memes, jokes.
+[00:44:31.008 --> 00:44:36.608]  But what's the ultimate goal of doing this or the to try to stop anybody else from doing it?
+[00:44:36.848 --> 00:44:38.848]  I mean, because he's trying to intimidate me.
+[00:44:39.808 --> 00:44:41.328]  I don't think that works, okay?
+[00:44:41.888 --> 00:44:46.288]  And number two, while it's funny, we can laugh and chuckle about it.
+[00:44:46.608 --> 00:44:50.928]  It lowers the IQ level of the conversation that we're trying to have.
+[00:44:51.248 --> 00:44:55.248]  The discussion is: do we want a country that's America first or America second?
+[00:44:55.408 --> 00:44:57.648]  Or do we want a country that's America tied for first?
+[00:44:58.288 --> 00:45:02.128]  And when you do things like this, there's the memeology, right?
+[00:45:03.088 --> 00:45:04.448]  And you look at this one.
+[00:45:04.528 --> 00:45:13.968]  This is a new one where you got loses alarm en español, señor Dan Monjino podemas, right?
+[00:45:14.128 --> 00:45:16.528]  So, anyhow, it lowers the conversation.
+[00:45:16.688 --> 00:45:20.528]  It's just it's ad hominem memeology, right?
+[00:45:20.688 --> 00:45:25.808]  Mimetic warfare, and there's not a and I get it, it's going to go viral.
+[00:45:25.968 --> 00:45:40.128]  He's got quite a few followers, and it's gonna, and because he's blocked everybody to inject any sort of critical thought, that's his entire feed is just memes of low IQ, uh, essentially ad hominem pictures, right?
+[00:45:40.688 --> 00:45:54.288]  And I don't take offense to it, I get it, but maybe now that I have his attention, maybe he'll actually start to kind of up his game, just like I think uh, uh, you were going back and forth with Joseph, redemption, right?
+[00:45:54.448 --> 00:45:54.608]  Right.
+[00:45:55.088 --> 00:45:57.248]  We're not here to destroy people, okay?
+[00:45:58.368 --> 00:46:03.968]  Unless you are a complete traitor and you are truly a pedophile protector, then that's a different component.
+[00:46:04.288 --> 00:46:10.768]  I like to give, I'm even though people think that I'm not patient or I'm a bomb thrower, I'm very patient, okay?
+[00:46:11.728 --> 00:46:17.328]  I have conducted myself peacefully up to this point, and I hope I expect to, okay.
+[00:46:18.288 --> 00:46:38.208]  And so it's better that we have First Amendment discourse that's uncomfortable amongst men, right, and women like Laurel Umer, but an actual, but an actual conversation, but an actual conversation where you can yell at me, you can scream at me, you can call me names when you get offended, and that's fine.
+[00:46:38.688 --> 00:46:42.128]  I respect that, but to block and run, come on.
+[00:46:42.448 --> 00:46:42.608]  Right.
+[00:46:42.928 --> 00:46:56.928]  And so, what this tells me, though, is you're living rent-free in his head because him and his followers are apparently, and I believe they are trying to suppress anybody else from daring to approach Dan Bongino in public and ask him hard questions.
+[00:46:57.168 --> 00:46:57.728]  Yeah, hard questions.
+[00:46:57.968 --> 00:47:01.808]  So, I would say to the audience, this is how you know you're over the target when you're getting a lot of flack.
+[00:47:02.128 --> 00:47:03.088]  So, I'll say it.
+[00:47:03.328 --> 00:47:05.968]  I would encourage everybody else out there to do the exact same thing.
+[00:47:06.288 --> 00:47:12.608]  Go ask Dan Bongino uncomfortable questions, like why hasn't the murder of Ashley Babbitt been investigated and indicted?
+[00:47:12.848 --> 00:47:25.808]  How come there hasn't been prosecutions for the obvious persecution of J Sixers, absolute destruction of our due process rights, violation of federal law against perjury and subordination perjury?
+[00:47:25.888 --> 00:47:26.208]  There you go.
+[00:47:26.528 --> 00:47:26.928]  What is that one?
+[00:47:27.088 --> 00:47:27.568]  Wrestlers?
+[00:47:27.808 --> 00:47:30.128]  Yeah, and yeah, that's just his entire piece.
+[00:47:30.208 --> 00:47:31.728]  Oh, no, you're yeah, you're wrestlers.
+[00:47:31.888 --> 00:47:32.608]  Yeah, yeah.
+[00:47:32.688 --> 00:47:33.488]  So, I used to wrestle.
+[00:47:33.808 --> 00:47:35.168]  You know, I lived in Iowa for a while.
+[00:47:35.488 --> 00:47:36.448]  I mean, that's funny, right?
+[00:47:37.088 --> 00:47:37.968]  That's pretty good.
+[00:47:38.768 --> 00:47:40.528]  It's he, he, he, ha, ha, ha, ha.
+[00:47:41.488 --> 00:47:43.168]  I got, I got to laugh at it.
+[00:47:43.328 --> 00:47:45.728]  Now, Enrique posted one I thought was really hilarious, though.
+[00:47:45.888 --> 00:47:47.328]  We'll bring him Enrique up here in a minute.
+[00:47:47.648 --> 00:47:48.848]  You can find the one with Enrique.
+[00:47:48.928 --> 00:47:53.088]  He's like, Dan Bongino, they just conquered last night.
+[00:47:53.168 --> 00:47:53.968]  That's what Erica said.
+[00:47:54.528 --> 00:47:59.248]  He shows you guys like Viking warriors, you know, dressed all in furs.
+[00:47:59.488 --> 00:48:01.728]  That one I have to, you know, give my hat off to.
+[00:48:02.528 --> 00:48:03.088]  Respect for it.
+[00:48:03.168 --> 00:48:05.168]  If you can bring that one up, that's the thing, man.
+[00:48:06.208 --> 00:48:06.848]  That's pretty good, too.
+[00:48:06.928 --> 00:48:07.808]  That's a decent one right there.
+[00:48:07.968 --> 00:48:08.448]  That's not bad.
+[00:48:08.528 --> 00:48:08.688]  Yeah.
+[00:48:08.768 --> 00:48:10.288]  It's like, that's like Road Warrior, right?
+[00:48:10.528 --> 00:48:12.288]  So ask yourself, what's the end state?
+[00:48:12.368 --> 00:48:12.928]  Why is he doing that?
+[00:48:13.568 --> 00:48:17.408]  Are we elevating the conversation to make things better for the United States of America?
+[00:48:17.488 --> 00:48:20.128]  Because I mean, he's a national consequential figure, right?
+[00:48:20.208 --> 00:48:20.928]  Dan Bongino.
+[00:48:21.008 --> 00:48:21.488]  I'll give him that.
+[00:48:21.568 --> 00:48:22.608]  He's built an audience.
+[00:48:22.928 --> 00:48:26.288]  How he got there and what money funded it, we can all argue about that.
+[00:48:26.448 --> 00:48:28.368]  But the reality is he is there.
+[00:48:29.568 --> 00:48:41.008]  And I think that he was deployed by this administration when the, what do they call this, when the Panicans and everyone else started to be critical of this administration for failing to meet its campaign promises.
+[00:48:41.328 --> 00:48:44.848]  Yeah, folks like me, like critical thinkers, said, you know what?
+[00:48:45.488 --> 00:48:46.448]  There's a problem here.
+[00:48:46.768 --> 00:48:49.648]  There's a disconnect of promise and action.
+[00:48:49.968 --> 00:48:51.568]  And so we start to investigate.
+[00:48:51.728 --> 00:48:52.608]  We bring receipts.
+[00:48:52.848 --> 00:48:53.728]  We start to discuss it.
+[00:48:54.048 --> 00:49:02.688]  And then when you release Dan Bongino and he says nothing about how, oh, it's so hard to go after the deep state.
+[00:49:02.848 --> 00:49:06.528]  Here's why I didn't fire all these people that are deep staters.
+[00:49:06.688 --> 00:49:09.088]  This is why I didn't fire those that are vaccinated.
+[00:49:09.408 --> 00:49:15.248]  These are the reasons why I didn't hire all the courageous whistleblowers that had advised on what's going to happen.
+[00:49:15.488 --> 00:49:16.848]  Like Kyle Sterafin, for example.
+[00:49:17.168 --> 00:49:17.488]  Exactly.
+[00:49:17.648 --> 00:49:21.648]  And instead, he elevated those that were behind gents persecutions.
+[00:49:23.008 --> 00:49:25.408]  I mean, that's to us, that's unacceptable.
+[00:49:25.648 --> 00:49:31.168]  And so we, we're obligated to call it out because it was unjust what happened to you and every other J Sixer.
+[00:49:31.248 --> 00:49:32.368]  Yeah, so what is he doing right now?
+[00:49:32.528 --> 00:49:33.968]  What is his mission?
+[00:49:34.608 --> 00:49:39.328]  So based on, again, I used to teach indicator warning analysis and intelligence analysis.
+[00:49:39.408 --> 00:49:41.808]  The way I see it is like, okay, why is he acting the way he does?
+[00:49:42.128 --> 00:49:49.008]  You look at all of his indicators, which is all of public appearances, all of his commentary online, and on his podcast.
+[00:49:49.248 --> 00:49:50.048]  And what has he said?
+[00:49:50.448 --> 00:50:14.448]  He's essentially or ostensibly the largest independent voice on Rumble carrying the Fox News talking points, which is the administration, the deep state warmonger, neocon version of the administration's objectives.
+[00:50:14.768 --> 00:50:19.088]  And Sandelson, Paul Ryan, Rupert Murdoch.
+[00:50:19.888 --> 00:50:21.568]  He represents that crowd.
+[00:50:21.728 --> 00:50:36.768]  And beyond the war, even setting aside the war, when it comes to accountability for 2020, the election being stolen, when it comes to accountability for the violation of rights, the false flag, J6, the, you know, you have a persecution of an innocent man.
+[00:50:37.008 --> 00:50:37.808]  Ryan Cole Jr.
+[00:50:38.128 --> 00:50:54.608]  So, and I'd like to ask him, how come, don't go into the details of the case, Dan, but why is it that that was literally the only case where he came out publicly with cash and Janine Pirro and Pam Bondi and puffed out and said, look, we found the pipe bomber.
+[00:50:54.768 --> 00:50:57.408]  Aren't you supposed to not talk about open cases?
+[00:50:57.648 --> 00:50:57.728]  Right.
+[00:50:57.968 --> 00:51:04.928]  He's literally premeditated, pre-convicted him with that public press release.
+[00:51:05.168 --> 00:51:05.728]  Yeah, exactly.
+[00:51:05.888 --> 00:51:19.568]  And then we attended that, what I would consider another public show trial, the new hearing on the J6 committee, the new J6 committee, where they did the same thing to Brian Cole, they did to me.
+[00:51:19.888 --> 00:51:21.648]  We still don't trust any institution.
+[00:51:21.808 --> 00:51:26.688]  Yeah, they're tainting the jury pool in advance of his trial in Congress.
+[00:51:26.928 --> 00:51:35.648]  And he's taking Joe Kent to task saying that Joe just is the most worst thing I've ever seen is Joe Kent suggesting that he's going after combat veterans.
+[00:51:35.808 --> 00:51:40.288]  Yeah, he's going after the most patriotic Americans that America has ever produced.
+[00:51:40.608 --> 00:51:47.088]  Well, he's talking about, in particular, he's talking about that Joe Kent shouldn't have said anything about Charlie Cook's assassination.
+[00:51:47.408 --> 00:51:50.608]  So he's detaining the jury pool in advance of that trial.
+[00:51:50.928 --> 00:51:52.048]  What's he doing already?
+[00:51:52.288 --> 00:51:54.528]  Like you said, advanced with Brian Colstrom.
+[00:51:55.808 --> 00:51:57.248]  After the break, we'll come back and talk some more.
+[00:51:57.408 --> 00:51:59.248]  We'll get into the war in Iran next.
+[00:52:01.168 --> 00:52:03.968]  This is Stuart Rose filling in for Alex Jones today.
+[00:52:04.288 --> 00:52:08.208]  And I'm here with Ivan Reiklin, the Deep State Marauder, retired special forces.
+[00:52:08.448 --> 00:52:11.408]  Let's have a serious conversation about what's being done.
+[00:52:12.288 --> 00:52:19.328]  I watched Joe Kent's Tucker interview, and I also just watched the one with Dan Caldwell.
+[00:52:19.568 --> 00:52:29.408]  Dan Caldwell is like one of the most straight arrow, no ego, patriotic men, very impressive that I've ever seen.
+[00:52:29.968 --> 00:52:34.288]  But then I watched the one with Joe Kent and I was like, wow, this guy is a stud.
+[00:52:34.688 --> 00:52:35.808]  11 combat tours.
+[00:52:36.048 --> 00:52:41.248]  His own wife was killed in combat in Syria, killed by an IED, I believe.
+[00:52:41.568 --> 00:52:45.248]  And the man is still in the fight and still wanting to serve his country.
+[00:52:45.568 --> 00:53:02.528]  And I walked away from watching that interview with the insight that this is exactly the kind of man that President Trump should be listening to, which is exactly why he was the ODNI counterterrorist officer, right?
+[00:53:02.848 --> 00:53:03.888]  At the head of the counterterrorist.
+[00:53:04.208 --> 00:53:06.528]  National Counterterrorism Center director.
+[00:53:06.688 --> 00:53:07.008]  There you go.
+[00:53:07.168 --> 00:53:09.168]  The office of director for the national intelligence.
+[00:53:09.408 --> 00:53:09.648]  There you go.
+[00:53:10.288 --> 00:53:11.648]  And he was the right man for the job.
+[00:53:11.968 --> 00:53:20.288]  And so it's disgusting and disturbing to me as a former paratrooper to watch a man like that, absolute stud, absolutely.
+[00:53:20.608 --> 00:53:30.448]  Being ripped apart by someone like Dan or anybody, being called a coward, accusing him of being a traitor, accusing him of being a liar.
+[00:53:30.768 --> 00:53:31.888]  Let me, if I may, real quick.
+[00:53:32.048 --> 00:53:32.768]  Yeah, go ahead.
+[00:53:33.088 --> 00:53:39.168]  Since I've known Joe for, like I said, since 2012, we're talking on 14 years.
+[00:53:39.328 --> 00:53:39.488]  Right.
+[00:53:39.807 --> 00:53:49.248]  Well, before he announced, before he became the NCT's director, before he was at the CIA, before he did the special mission, before he ran for Congress, right?
+[00:53:52.368 --> 00:53:53.728]  I know his metal, right?
+[00:53:53.888 --> 00:53:56.528]  In terms of that very few people do.
+[00:53:56.688 --> 00:53:57.248]  His character.
+[00:53:57.408 --> 00:53:58.448]  His character.
+[00:53:59.008 --> 00:54:12.288]  In my 25-year military career, I would put him as the most intellectual thought leader, book smart and street smart and combat warrior that I've served with.
+[00:54:12.528 --> 00:54:12.848]  Okay.
+[00:54:13.488 --> 00:54:14.688]  Physical specimen.
+[00:54:15.008 --> 00:54:17.728]  We did some training together to contextualize.
+[00:54:17.807 --> 00:54:19.648]  I'm not sure if I've ever publicly said this.
+[00:54:20.848 --> 00:54:26.448]  There's some training that we've done with the most elite Olympic level athletes.
+[00:54:26.608 --> 00:54:34.688]  So the unit that we were kind of working to do stuff with is considered a very, it's the best of the best.
+[00:54:34.848 --> 00:54:35.968]  A lot of people argue, right?
+[00:54:36.208 --> 00:54:39.648]  And I'll let others decide within the community what that is.
+[00:54:39.968 --> 00:54:45.648]  But one of the events, it was me and him neck and neck.
+[00:54:45.807 --> 00:54:46.847]  He beat me out, right?
+[00:54:47.407 --> 00:54:51.968]  The guy that comes in third at this event, if you will, was 50 minutes later.
+[00:54:52.288 --> 00:54:52.447]  Okay.
+[00:54:52.688 --> 00:54:54.048]  So physical talent.
+[00:54:54.288 --> 00:54:59.407]  The guy that came in fourth was two hours behind us, just to give perspective.
+[00:54:59.568 --> 00:54:59.728]  Okay.
+[00:55:00.927 --> 00:55:11.008]  So he is cream of the crop in terms of physical fitness and form and intellectual capability and understands the global threat environment better than anybody.
+[00:55:11.168 --> 00:55:16.447]  And he can articulate it in a way that is palatable, calm, cool, and professional, as you saw.
+[00:55:16.927 --> 00:55:29.407]  The way he operates, or I said, the way you saw him in that interview is literally how he conducts himself in the highest stress environment that I personally witnessed him in.
+[00:55:30.048 --> 00:55:38.447]  Complete, calm, cool, and collected at the most physical, rigorous, and mental, rigorous training I think our U.S. government provides.
+[00:55:39.968 --> 00:55:41.568]  So that's the baseline.
+[00:55:41.887 --> 00:55:55.407]  You want somebody helping make decisions at the highest level of our national command authority of that caliber because of his stable ethos and capability.
+[00:55:55.728 --> 00:55:59.327]  In addition to that, now let's add on to his experience that we talked about.
+[00:55:59.807 --> 00:56:00.128]  Okay.
+[00:56:00.367 --> 00:56:01.327]  Deployed all over the world.
+[00:56:01.488 --> 00:56:07.088]  He alluded to when Tucker asked him, have you, you know, countered Iranian proxies?
+[00:56:07.407 --> 00:56:14.367]  Well, yeah, Iraq, Syria, his wife, other deployments.
+[00:56:15.008 --> 00:56:18.608]  So when you match his experience level, Mr. How many bronze stars?
+[00:56:19.407 --> 00:56:19.887]  Six, I think.
+[00:56:21.008 --> 00:56:46.528]  When you match his experience on the ground, studying, always studying, and you compare it to Marco Rubios, when you compare it to Dan Vongino, Mark Levin, Laura Loomer, they have zero deployments and zero direct contact with the Shia militias, and he has way more than pretty much the whole White House combined.
+[00:56:46.608 --> 00:56:48.048]  So you might want to listen to him.
+[00:56:48.367 --> 00:56:48.528]  Right.
+[00:56:48.608 --> 00:56:49.168]  Amen.
+[00:56:49.488 --> 00:56:50.608]  You're right back again.
+[00:56:51.248 --> 00:56:52.688]  We'll bring in Ricky Charter.
+[00:56:56.367 --> 00:56:57.407]  Amen to that.
+[00:56:57.728 --> 00:57:04.448]  They have tried all they could to silence Alex Jones, just like they tried all they could to silence me.
+[00:57:04.528 --> 00:57:07.568]  But what man means for evil, God will use for good.
+[00:57:07.887 --> 00:57:11.488]  And just like they said, The Matrix, we are still here.
+[00:57:11.807 --> 00:57:13.407]  So we're here with Ivan Rakelin.
+[00:57:13.807 --> 00:57:16.208]  I just want to wrap up real quick, our discussion about the war.
+[00:57:16.528 --> 00:57:17.568]  I want to say something.
+[00:57:19.648 --> 00:57:25.887]  It's been incredibly frustrating to me as an old school Ron Paul Republican and old.
+[00:57:26.688 --> 00:57:28.208]  I served in the army in the 80s.
+[00:57:28.288 --> 00:57:35.088]  I went in 83 and had my parachuting accident in 86, but I was a Cold Warrior against the Russians.
+[00:57:35.248 --> 00:57:38.528]  And the area we might have been deployed to was going to be Afghanistan.
+[00:57:38.608 --> 00:57:45.008]  We were studying doing, you know, we're studying the country and looking at little cards of the profiles of Russian vehicles.
+[00:57:45.088 --> 00:57:46.288]  I was long-range reconnaissance.
+[00:57:46.367 --> 00:57:47.967]  So we're getting ready for a war.
+[00:57:48.128 --> 00:57:50.208]  And back then, the Muvijudin were our allies.
+[00:57:50.528 --> 00:57:55.248]  We were sending them men and equipment and training them to fight the Russians.
+[00:57:55.407 --> 00:57:58.208]  And then we wind up in the same exact position the Russians were in.
+[00:57:58.528 --> 00:58:02.688]  And I remember once having a conversation with a warrant officer, just came back from Afghanistan.
+[00:58:03.008 --> 00:58:08.448]  And he showed the graveyard of Russian equipment that was left there by the Russians when they retreated out of Afghanistan.
+[00:58:08.768 --> 00:58:11.648]  And he said, this is what's going to happen with us.
+[00:58:11.807 --> 00:58:13.568]  This is when the Afghanistan war was still going on.
+[00:58:13.887 --> 00:58:18.847]  He said, you will see a graveyard of American equipment left behind when we pull out.
+[00:58:19.008 --> 00:58:23.648]  And I said, how long do you think the Afghan army will last once we pull out?
+[00:58:23.887 --> 00:58:27.088]  He said, at TOPS, six months.
+[00:58:27.407 --> 00:58:30.048]  He said, Mark Milley did just that.
+[00:58:30.288 --> 00:58:30.448]  Yeah.
+[00:58:30.608 --> 00:58:31.168]  Pulled us out.
+[00:58:31.327 --> 00:58:31.807]  And what happened?
+[00:58:31.887 --> 00:58:32.927]  How long did he last?
+[00:58:33.648 --> 00:58:33.887]  Weeks?
+[00:58:34.528 --> 00:58:35.648]  No, because it was August, right?
+[00:58:35.967 --> 00:58:36.208]  Right.
+[00:58:36.447 --> 00:58:36.688]  So yeah.
+[00:58:37.967 --> 00:58:48.847]  And something else he said, he said, the way we've been doing this war, he said, and the Iraq war, all of it has destabilized the entire Middle East.
+[00:58:49.168 --> 00:58:59.568]  And all it's done is turned over all these countries, the ISIS, Muslim Brotherhood, and just created a disaster that led to Muslim mass immigration into the West.
+[00:58:59.648 --> 00:59:00.367]  That's what he said.
+[00:59:00.608 --> 00:59:01.487]  This is back then.
+[00:59:01.807 --> 00:59:03.327]  And he was completely right.
+[00:59:03.648 --> 00:59:04.128]  And so.
+[00:59:05.007 --> 00:59:12.847]  As a student of military history, like when I was at Yale, I helped teach U.S. military history to the Yale undergrads.
+[00:59:13.168 --> 00:59:28.927]  And I had them read, we came to Vietnam, had them read a book called The Village about the Marine Corps CAP program, combined national platoon, where the Marines, instead of the big army wave sweeping through and trying to kill people and body counts, then you leave the village and now the Viet Cong come back in and take over.
+[00:59:29.248 --> 00:59:31.407]  And on the way in, you're being ambushed and booby-trapped.
+[00:59:31.728 --> 00:59:32.768]  The Marines were smart.
+[00:59:32.847 --> 00:59:36.047]  They flipped the paradigm, very much an SF-style strategy.
+[00:59:36.367 --> 00:59:41.168]  They embedded a squad of Marines in the village to stay there 24-7.
+[00:59:41.648 --> 00:59:44.527]  Now the Viet Cong had to try to infiltrate into the village.
+[00:59:44.847 --> 00:59:49.967]  The local village leaders were protected by the Marines 24-7 with air support they could call on.
+[00:59:50.208 --> 00:59:53.327]  And they reversed the paradigm and they were successful.
+[00:59:53.568 --> 00:59:58.768]  That program was the only way possible to actually defeat the Viet Cong on the ground.
+[00:59:59.088 --> 01:00:03.967]  And so, but of course, that program was ended and Big Army came in again and just destroyed it.
+[01:00:04.288 --> 01:00:08.208]  And in Afghanistan, another book I read was called One Village at a Time.
+[01:00:08.447 --> 01:00:16.128]  A special forces officer had the exact same insight, said, it's not about who's in Kabul, a puppet government, it's the tribes.
+[01:00:16.447 --> 01:00:23.728]  Afghanistan, the focus of effort must be the tribes because that is where the power and the strength is in Afghanistan.
+[01:00:24.608 --> 01:00:26.927]  Taking over our counties and the state level in America.
+[01:00:27.168 --> 01:00:27.487]  Exactly.
+[01:00:27.728 --> 01:00:28.447]  With patriots.
+[01:00:28.608 --> 01:00:29.007]  You got it.
+[01:00:29.168 --> 01:00:31.887]  So we win local through the tribes.
+[01:00:32.128 --> 01:00:33.568]  That's how you defeat the Taliban.
+[01:00:33.728 --> 01:00:35.807]  But of course, Big Army didn't listen to him either.
+[01:00:36.128 --> 01:00:39.088]  In fact, they prosecuted him and indicted him and ran him out.
+[01:00:39.407 --> 01:00:41.407]  So this is the response that we see.
+[01:00:41.728 --> 01:00:50.208]  Because the military industrial complex makes no money when you accomplish the mission in using the least resources possible.
+[01:00:50.608 --> 01:00:50.847]  Right.
+[01:00:51.487 --> 01:00:53.007]  Through a surgical force.
+[01:00:53.327 --> 01:01:04.367]  And so my understanding, having seen the Tucker interview by Joe Kent, the Megan Kelly, a couple of other interviews he's done so far, I think he's going to be on Sean Ryan tomorrow with this going to go into more detail.
+[01:01:04.527 --> 01:01:07.728]  And on Mark Levin, I'm glad Mark Levin actually is going to be doing it.
+[01:01:08.047 --> 01:01:08.447]  That's good.
+[01:01:08.688 --> 01:01:09.807]  For that discussion.
+[01:01:11.088 --> 01:01:14.847]  It's not about, we're not anti-war.
+[01:01:15.407 --> 01:01:37.407]  We're anti-committing American treasure and personnel in order to do some other nation's bidding one and doing it in the manner that conducts fraud, waste, and abuse in order for the military industrial complex to make money off and fails and fail on it because that's how you make the most money.
+[01:01:38.288 --> 01:01:48.688]  As opposed to with Joe Kent, what I understand is presenting the person that knows more about this subject literally than anybody else in the world combined.
+[01:01:48.847 --> 01:01:51.407]  Remember, we don't even have a national security advisor right now.
+[01:01:51.807 --> 01:01:53.007]  It's Marco Rubio.
+[01:01:53.088 --> 01:01:55.487]  We don't have a USAID administrator.
+[01:01:55.568 --> 01:01:56.608]  It's Marco Rubio.
+[01:01:56.688 --> 01:01:57.648]  We have a Secretary of State.
+[01:01:57.807 --> 01:01:58.927]  It's Marco Rubio.
+[01:01:59.088 --> 01:01:59.967]  We have a national archivist.
+[01:02:00.128 --> 01:02:00.927]  It's Marco Rubio.
+[01:02:01.088 --> 01:02:02.288]  What's his combat experience?
+[01:02:02.847 --> 01:02:03.248]  Yeah, exactly.
+[01:02:04.768 --> 01:02:06.208]  You may love Marco Rubio.
+[01:02:06.288 --> 01:02:09.168]  He's the best politician, best senator ever in the history of humanity.
+[01:02:09.407 --> 01:02:11.887]  He has zero experience and understanding of that area.
+[01:02:12.128 --> 01:02:14.208]  He speaks Spanish, but he doesn't know Iran.
+[01:02:15.007 --> 01:02:15.887]  He has learned.
+[01:02:16.128 --> 01:02:20.927]  But wouldn't you want to consult with somebody that has massive experience?
+[01:02:21.007 --> 01:02:21.248]  Yes.
+[01:02:21.487 --> 01:02:22.288]  Massive experience.
+[01:02:23.087 --> 01:02:50.367]  No, based on what Joe Kent says, no, there was the blocking because the people that are blocking him don't want him in front of the president because they will look, those that are blocking him will look like complete uneducated, I want to be careful how he says, lower IQ neophytes compared to his understanding of the problem set and his presentation of what is the best course of action moving forward to resolve the problem.
+[01:02:50.527 --> 01:03:10.847]  If the end state is to neutralize Iranian nuclear capability and to diminish, degrade, and maybe even destroy certain key leaders in Iran, that can be done in a surgical manner at one probably millionth of the cost of what everyone else is advocating in that White House.
+[01:03:11.087 --> 01:03:21.887]  Well, even if you're even if your end goal becomes, and it seems that it has shifted to regime change, the smartest way to do regime change is support the Iranian people.
+[01:03:22.208 --> 01:03:32.607]  They were all like, like Joe Kent said himself, the remember, he was a paramount, this is public, he was a paramilitary officer, right?
+[01:03:32.847 --> 01:03:33.007]  Okay.
+[01:03:34.527 --> 01:03:36.447]  So he was a special forces officer.
+[01:03:36.768 --> 01:04:02.927]  When you look up unclassified what that means, he has experience in linking up with an indigenous force that is going to be friendly to U.S. interests, building that capability up to then take over that government in order so that an inimical, meaning an enemy government, which it currently is to the U.S., is replaced by a friendly government, and we can do work.
+[01:04:03.087 --> 01:04:05.487]  We can work with them in a peaceful way.
+[01:04:06.688 --> 01:04:10.288]  He has more experience in that than the rest of the White House combined.
+[01:04:10.527 --> 01:04:10.688]  Right.
+[01:04:10.768 --> 01:04:20.768]  That's what I was going to say: is that if we support the Iranian people, and the way to do that is to use the SF model and that capability.
+[01:04:21.087 --> 01:04:29.248]  Like when we first went into Afghanistan, that was special forces parachuted in, linked up the local resistance that were opposed to the Northern Alliance, right?
+[01:04:29.407 --> 01:04:32.447]  Opposed to the Taliban, and kicked the crap out of the Taliban.
+[01:04:32.768 --> 01:04:37.807]  Just like when they went into northern Iraq and helped the Kurds, they kicked the crap in short order.
+[01:04:38.127 --> 01:04:42.688]  They organized and led them in kicking the crap out of Saddam Hussein's forces, right?
+[01:04:43.248 --> 01:04:45.167]  So it can be done if you provide air cover.
+[01:04:45.567 --> 01:04:48.127]  Like Afghanistan, the first few weeks, right, after 9-11.
+[01:04:48.927 --> 01:04:59.887]  Several, Gary Schrohen, I believe, wrote the book Jawbreaker, a couple CIA officers, paramilitary, working with a couple of special forces teams, linked up with the Northern Alliance.
+[01:05:00.447 --> 01:05:03.728]  A few weeks later, topple the government in Kabul.
+[01:05:03.807 --> 01:05:04.127]  I get it.
+[01:05:04.208 --> 01:05:05.087]  It's a smaller country.
+[01:05:05.248 --> 01:05:06.047]  It's whatever.
+[01:05:06.527 --> 01:05:07.807]  So it's a different paradigm.
+[01:05:08.127 --> 01:05:14.927]  But generally, the model is, and then you train and advise, you get Karzai in office, and then you, that's called unconventional warfare.
+[01:05:15.087 --> 01:05:22.208]  And then you, once the government is in place, Karzai's government, for example, then you transition to what's known as foreign internal defense.
+[01:05:22.527 --> 01:05:27.407]  And then you make sure that he has the capability to retain power to stabilize the country, secure it.
+[01:05:27.887 --> 01:05:33.647]  But then the conventional military industrial complex doesn't like it because you solved the problem.
+[01:05:33.967 --> 01:05:37.487]  And the war machine in DC is not making its money.
+[01:05:38.527 --> 01:05:47.887]  And that's so you have two, I argue, you have two forces that are pushing this White House and this president to go to full to increase to full-scale war.
+[01:05:48.208 --> 01:05:52.847]  You have the lobby of Bibi Netanyahu in order to keep him in power.
+[01:05:53.087 --> 01:05:55.167]  This is one thing that no one's talking about publicly.
+[01:05:55.407 --> 01:06:09.728]  When you look at the political calendar of the prime minister of Israel, his moves last year was in order to make sure that there was a no, there wasn't a no confidence vote to remove him from power to distract and deflect for a from a foreign threat.
+[01:06:09.887 --> 01:06:14.447]  Now, it may be legitimate, but the political motivation might not be, or it might not be.
+[01:06:14.688 --> 01:06:19.248]  But the political motivation is, I would say, paramount to the decision-making process.
+[01:06:19.567 --> 01:06:29.327]  And that's in spring, May through September is when the next determination on whether there's going to be a confidence vote or no confidence vote for Prime Minister Benjamin Netanyahu.
+[01:06:29.647 --> 01:06:44.447]  He has to have the United States go in and essentially do a bold, large-scale action and operation so that he can tell his declining coalition that, look, I'm able to influence America.
+[01:06:44.768 --> 01:06:56.607]  You don't want someone else because I have and I'm bringing in all, I'm going to take the $300 billion that America has already provided in foreign aid to Israel over the course of its history.
+[01:06:56.927 --> 01:07:05.248]  And I'm going to continue to work that because of Bibi's net relationship with Miriam Adelson, who has funded this White House to the tune of $250 million.
+[01:07:05.727 --> 01:07:08.047]  And Susie Wiles was his campaign manager, right?
+[01:07:08.367 --> 01:07:10.927]  So all these relationships to keep him in power.
+[01:07:11.248 --> 01:07:18.927]  And obviously, when you start to say it that way, President Trump obviously wants to keep him in power because Miriam will continue to fund him and Republicans.
+[01:07:19.007 --> 01:07:24.127]  And Susie Wiles is going to manage the whole play on behalf of Miriam Adelson.
+[01:07:24.207 --> 01:07:32.768]  And Chris Lasavita is going to use the Miriam Adelson money to take out folks that aren't in line with Bibi's and Miriam's strategic objectives.
+[01:07:33.087 --> 01:07:36.367]  So that's what's going on politically in the background.
+[01:07:37.007 --> 01:07:47.807]  In addition to that, you have domestically, how does the industrial, military-industrial complex make money off of those political foreign objectives?
+[01:07:48.447 --> 01:07:50.847]  You have to have a long-term kind of war.
+[01:07:51.167 --> 01:07:53.327]  You say, oh, we're going to send ground forces.
+[01:07:53.647 --> 01:07:55.567]  Well, we're at war for 20 years now.
+[01:07:56.527 --> 01:07:57.248]  What did they just request?
+[01:07:57.407 --> 01:07:58.447]  $60, $80 billion.
+[01:07:59.887 --> 01:08:01.407]  How long were you in war in Afghanistan?
+[01:08:01.728 --> 01:08:03.167]  20 years, right?
+[01:08:03.487 --> 01:08:09.087]  Well, it was low scale, 10 years during the Soviet, right?
+[01:08:09.327 --> 01:08:13.728]  Soviet times when the Soviet Union came in and we had some since 2001.
+[01:08:14.367 --> 01:08:14.527]  Right.
+[01:08:15.007 --> 01:08:15.167]  Yeah.
+[01:08:15.327 --> 01:08:17.247]  So that was 20 years, right?
+[01:08:17.807 --> 01:08:18.207]  Basically.
+[01:08:18.447 --> 01:08:19.327]  A lot of money being made.
+[01:08:19.487 --> 01:08:20.768]  A lot of money being made by the military.
+[01:08:20.927 --> 01:08:21.648]  A lot of federal drone.
+[01:08:21.807 --> 01:08:26.127]  And then it went to the Ukraine, the Israel money.
+[01:08:27.487 --> 01:08:28.847]  The Ukraine's another meat grinder.
+[01:08:28.927 --> 01:08:31.087]  It's costing a lot of money along with a lot of blood.
+[01:08:31.327 --> 01:08:43.967]  Military industrial complex has to have something because now that they get hooked, it's like, what do I do with all these employees that are now on the books providing support and intelligence and mobilization and training, et cetera?
+[01:08:44.127 --> 01:08:53.887]  So just like the ATF had to go raid the Branch Davidians to have a dog and pony show for their budget to justify their budget, you got to have a big war to justify your expenses.
+[01:08:54.207 --> 01:08:59.887]  It's about catering to your military industrial complex and those, right?
+[01:08:59.967 --> 01:09:06.608]  Like I just said, the BBNet and Yahoo component keep them in power, get the war machine money continuing.
+[01:09:06.927 --> 01:09:07.887]  But guess what?
+[01:09:08.207 --> 01:09:09.327]  What's the end state?
+[01:09:09.648 --> 01:09:12.927]  The end state is to neutralize Iranian nuclear capability.
+[01:09:13.087 --> 01:09:15.007]  I mean, these are the campaign promises, right?
+[01:09:15.967 --> 01:09:32.608]  And who better than Joe Kent to present a play that doesn't waste taxpayer money, that does it efficiently, cost-effective, meets the objective, and prioritizes American interests over any other country's interests.
+[01:09:32.927 --> 01:09:41.407]  And that's why exactly I was going to ask you to bring up that article title: Joe Kent says he wants Trump to hear MAGA opposition to Iran war.
+[01:09:41.648 --> 01:09:47.007]  It's not opposition to all war and not do anything Iran's threat to America.
+[01:09:47.327 --> 01:09:54.047]  It's how to neutralize it in a way that saves money and is totally in our interest.
+[01:09:54.528 --> 01:09:57.487]  And he articulates it better than I can ever do it.
+[01:09:57.807 --> 01:09:58.447]  Amen.
+[01:09:58.768 --> 01:10:02.688]  And one big point I want to make is that what this is.
+[01:10:03.087 --> 01:10:04.608]  Listen to Sean Ryan tomorrow.
+[01:10:05.007 --> 01:10:11.728]  I mean, I'm not a, I'm half and half on Sean Ryan because he brings in platforms, military service members.
+[01:10:11.887 --> 01:10:12.367]  I'm for that.
+[01:10:12.688 --> 01:10:14.367]  He's bringing on Joe Kemp for a second time.
+[01:10:14.447 --> 01:10:15.007]  I'm for that.
+[01:10:15.567 --> 01:10:20.447]  He, I hate to say this, was a coward when it comes to the vaccine.
+[01:10:20.767 --> 01:10:22.127]  That is a red line for me.
+[01:10:22.447 --> 01:10:26.047]  That is the most important characteristic of why did you say he was a caliber?
+[01:10:26.287 --> 01:10:29.327]  Because he took the vaccine one and he never platformed.
+[01:10:29.487 --> 01:10:39.727]  He has yet to platform anybody as it relates to the 2020 election heist, the January 6th Fed surrection, and anybody involved related to the COVID-Con substance activity.
+[01:10:40.047 --> 01:10:41.007]  Has he had you on?
+[01:10:41.167 --> 01:10:41.407]  No.
+[01:10:41.567 --> 01:10:43.167]  Has he had Enrique Tario on?
+[01:10:43.327 --> 01:10:43.567]  Nope.
+[01:10:43.727 --> 01:10:44.927]  That's a problem for me.
+[01:10:45.167 --> 01:10:45.647]  Gotcha.
+[01:10:45.807 --> 01:10:46.367]  Amen.
+[01:10:46.687 --> 01:11:03.487]  So, one point I want to make is: along with everything that I've been saying, everything that Joe Kent's saying, I want to bring this to your attention that the deep state, and I've said this before, the strategy is to distract President Trump with foreign policy.
+[01:11:03.807 --> 01:11:12.127]  The first term was COVID, distract him and run the clock out, and divert his attention and your attention from the deep state.
+[01:11:12.447 --> 01:11:14.847]  We need regime change here at home.
+[01:11:15.167 --> 01:11:20.687]  That is why President Trump was saved by God in Butler, Pennsylvania, when he was shot.
+[01:11:21.007 --> 01:11:30.527]  That's why God spared his life: to take down the demonic pedophiles that are running in not just our country, but the world to take down that system.
+[01:11:31.087 --> 01:11:34.767]  And that system will use war, which they love anyway.
+[01:11:35.327 --> 01:11:40.367]  They will use war to distract you and distract President Trump from doing his duty.
+[01:11:40.927 --> 01:11:46.207]  And they will, of course, tell you that we're at war, just like with Deani Betanyahu, Bibi Netanyahu.
+[01:11:46.447 --> 01:11:48.447]  Oh, we're at war, so therefore, you got to rally around.
+[01:11:49.087 --> 01:11:51.647]  Therefore, we have to ignore Tina Peters and not free her.
+[01:11:51.727 --> 01:11:53.087]  Yeah, we got to ignore the justice system.
+[01:11:53.247 --> 01:11:55.407]  Well, don't we don't want to hear any criticism?
+[01:11:55.567 --> 01:11:58.607]  No, we got to unite you know, MAGA behind the war.
+[01:11:58.927 --> 01:12:00.767]  So, let's stop talking about Epstein.
+[01:12:00.927 --> 01:12:02.447]  Let's stop talking about the 2020 election.
+[01:12:02.527 --> 01:12:03.487]  That's where Tina Peter ties.
+[01:12:03.727 --> 01:12:06.607]  Don't listen to Stewart, don't listen to Ivan, don't listen to Enrique.
+[01:12:06.847 --> 01:12:09.887]  They're red, they're black pillars, they're what are they called?
+[01:12:10.047 --> 01:12:10.847]  Panikins.
+[01:12:11.407 --> 01:12:17.087]  No, because I forecast things a lot sooner than most people, and you may think that I'm arrogant for it, but guess what?
+[01:12:17.327 --> 01:12:24.687]  I have way more experience than most people because I used to teach how to model that chaos agents, chaos agents, not the newest one.
+[01:12:24.847 --> 01:12:26.847]  No, I'm trying to provide you a course.
+[01:12:27.247 --> 01:12:35.167]  I'm trying to provide the answer sheet that is consistently pretty accurate, and you block it, you don't even look at it.
+[01:12:35.487 --> 01:12:40.607]  And so, then when I call you out on it, you block and then you run away like Dan Bongino.
+[01:12:40.927 --> 01:12:45.407]  And then you just say, Oh, Ivan's bad, Ivan's disloyal, Ivan's betrayed.
+[01:12:45.647 --> 01:12:46.127]  You know what?
+[01:12:46.367 --> 01:12:48.367]  Loyalty goes both ways.
+[01:12:48.687 --> 01:12:50.447]  And I take friendship seriously.
+[01:12:50.767 --> 01:12:57.887]  So, when you betray me, when you say you're going to do something and you don't do it, that's a slight betrayal.
+[01:12:58.207 --> 01:13:04.127]  And so, the campaign promises with no accountability on those campaign promises, you betrayed me.
+[01:13:04.447 --> 01:13:06.607]  And I don't represent just Ivan Rakeland.
+[01:13:06.927 --> 01:13:12.527]  I'm in X, I'm in Rumble, and for the, and I don't block people.
+[01:13:12.847 --> 01:13:21.887]  I see the conversation on our side, and everybody is increasingly getting more angry and frustrated that there is zero accountability.
+[01:13:22.207 --> 01:13:24.767]  You can come up with every excuse possible.
+[01:13:25.087 --> 01:13:31.647]  How about you explain those excuses to the public so we can maybe actually understand where the gaps are?
+[01:13:31.967 --> 01:13:42.447]  And there are enough adults such as ourselves that can come up with solutions to apply the necessary collective pressure to then succeed at obliterating the deep state.
+[01:13:42.607 --> 01:13:45.407]  But if you're sitting back there, like, I got this, I know everything.
+[01:13:45.567 --> 01:13:47.487]  No, that's not the case.
+[01:13:47.967 --> 01:13:58.847]  We collectively know everything, but we can't help action you based on our own initiative if you block us, if you ignore us, and if you don't say where the deficiencies are.
+[01:13:59.167 --> 01:14:13.167]  Well, also, each state's going to be undefeated against this administration unless elements of this administration publicly call out who are those elements because they're not like there's only a few good people in our government, right?
+[01:14:13.567 --> 01:14:21.967]  Them with the 77 million of us that voted for this administration will completely like wipe them off the face of the earth.
+[01:14:22.287 --> 01:14:25.807]  But we have to know where you're having problems.
+[01:14:25.967 --> 01:14:28.207]  And Dan Bongino has not expressed that.
+[01:14:28.527 --> 01:14:32.527]  He just said everything's rosy, everything's perfect.
+[01:14:32.847 --> 01:14:35.567]  120% support the Iranian war.
+[01:14:35.807 --> 01:14:37.567]  Yeah, the idea's new clothes are fantastic.
+[01:14:38.207 --> 01:14:48.927]  So, what I'm seeing, I'll say this: I think that Tulsi Gabbard and her department, and it's no surprise, she hired Dan Caldwell to now work for her.
+[01:14:49.247 --> 01:14:53.487]  That is our last Laura Loomer, who's our last press credentials.
+[01:14:53.727 --> 01:14:54.447]  That's our last badge.
+[01:14:54.687 --> 01:14:55.167]  Why is that?
+[01:14:55.567 --> 01:14:59.247]  I'm saying calling on everybody in the DNI to be nuked.
+[01:14:59.487 --> 01:14:59.647]  Right.
+[01:14:59.887 --> 01:15:04.687]  Because they have a tendency for America first as opposed to America second.
+[01:15:05.087 --> 01:15:05.487]  That's accurate.
+[01:15:05.887 --> 01:15:07.407]  I mean, that's our alamo.
+[01:15:07.567 --> 01:15:11.887]  I'd like to discuss this on her show if she wants to substantively discuss it.
+[01:15:12.207 --> 01:15:15.887]  I think Tulsi Gabbard's department right now is our alamo.
+[01:15:16.447 --> 01:15:17.167]  It's our last.
+[01:15:17.407 --> 01:15:31.807]  And so the question I have for the audience is: are we going to come to the rescue and back up Tulsi, back up Joe Kent, back up Dan Caldwell, back up the remaining America firsters who are entrenched in that readout?
+[01:15:32.367 --> 01:15:33.807]  I think America is already doing that.
+[01:15:34.047 --> 01:15:44.927]  Well, by Joe Kent coming out publicly and 100 million people viewing his resignation letter, that is the strongest sign of the national sentiment that we're sick of America second.
+[01:15:45.247 --> 01:15:51.007]  Okay, we're retaking MAGA from the America second wing of MAGA.
+[01:15:51.327 --> 01:15:52.927]  Okay, because here's how it is.
+[01:15:53.247 --> 01:15:55.647]  And I responded to Laura Loomer's post today.
+[01:15:55.727 --> 01:15:56.687]  She did two posts.
+[01:15:57.007 --> 01:16:01.727]  I explained in detail what that video was all about in order to protect Donald Trump in 2020 and February.
+[01:16:02.047 --> 01:16:15.247]  Then I also explained that we have to have a conversation on like, why are they going after the most experienced combat veterans that our nation has ever produced?
+[01:16:15.487 --> 01:16:17.647]  Because they're isolating President Trump from the truth.
+[01:16:17.807 --> 01:16:18.127]  And why?
+[01:16:18.527 --> 01:16:18.847]  Right.
+[01:16:19.167 --> 01:16:36.687]  And so while I pulled the FARA registrations on different countries to include Israel on who's doing what, what line items are out there, on what is being put into what media platforms in America, and how it basically goes and backs and influences the White House decision making.
+[01:16:37.007 --> 01:16:46.207]  I mean, basically, it's kind of like the Mark Levin, the Dan Bongino, the Laurel Loomer, the Ben Shapiro model of, and Joe Ken alluded to this.
+[01:16:46.847 --> 01:16:48.047]  They have their talking point.
+[01:16:48.207 --> 01:17:00.207]  And by the way, it's all legal because if you register on FARA, that, for example, Israel is doing an influence operation, but registers on FARA that they're doing it, it's not illegal.
+[01:17:00.447 --> 01:17:04.927]  President Trump may not even know it's happening, but it's a league legal endeavor.
+[01:17:05.247 --> 01:17:07.167]  It's still a foreign influence operation, though.
+[01:17:07.647 --> 01:17:08.047]  Right?
+[01:17:08.687 --> 01:17:10.207]  Well, I'll take a look at this.
+[01:17:10.607 --> 01:17:11.567]  Thank you again for being.
+[01:17:11.727 --> 01:17:12.927]  I'm trying to be cordial.
+[01:17:13.567 --> 01:17:22.847]  Basically, our frustration, Ms. Loomer, is that we want to have a substantive dialogue and conversation, not ad hominem attack, attack after attack.
+[01:17:23.087 --> 01:17:28.447]  Well, you call me everything, but then after you're done calling me names, let's go to the fundamentals.
+[01:17:29.087 --> 01:17:30.047]  What is America first?
+[01:17:30.287 --> 01:17:31.647]  How do we efficiently do this?
+[01:17:32.287 --> 01:17:33.567]  You know, utilize Iran.
+[01:17:33.967 --> 01:17:35.727]  You gave Laura Loomer your green beret.
+[01:17:35.967 --> 01:17:36.287]  I did.
+[01:17:36.447 --> 01:17:36.607]  Okay.
+[01:17:36.687 --> 01:17:37.167]  That's important.
+[01:17:37.647 --> 01:17:38.767]  Let me read this.
+[01:17:39.647 --> 01:17:40.527]  Actually, you want to read it?
+[01:17:40.607 --> 01:17:42.927]  Yeah, let's address that head on.
+[01:17:43.247 --> 01:17:47.727]  So the issues about foreign subversion of our country so we can clear up any misunderstandings.
+[01:17:47.967 --> 01:17:52.047]  I've defended you on many occasions because I viewed your actions as very patriotic.
+[01:17:52.367 --> 01:17:59.807]  I even gave you my green beret as a sign of respect at your 2020 primary victory party when Trump called to congratulate you on your win.
+[01:18:00.047 --> 01:18:01.727]  That gesture meant something to me.
+[01:18:01.967 --> 01:18:04.047]  And I don't take friendship lightly.
+[01:18:04.367 --> 01:18:09.567]  So she has turned against you because of what I'd like to have a conversation.
+[01:18:09.807 --> 01:18:09.967]  Right.
+[01:18:10.607 --> 01:18:11.967]  And she doesn't want to have that.
+[01:18:12.367 --> 01:18:29.327]  So it just seems like the entire agenda now is to just to use ad hominem attacks and smear campaigns against anyone who wants to question our loyalty to Israel first and a drive towards a wide open conventional conflict.
+[01:18:29.647 --> 01:18:31.327]  That seems to be the way it is now.
+[01:18:31.567 --> 01:18:36.687]  They're going to criticize or condemn you and call you anti-Semitic without having a conversation.
+[01:18:37.007 --> 01:18:37.567]  Right.
+[01:18:38.447 --> 01:18:39.247]  Absolutely.
+[01:18:39.567 --> 01:18:50.287]  And so I want to give her the benefit of doubt because I've known her for 10 years, but I've noticed a market difference after she stepped foot onto Trump Force One during the campaign.
+[01:18:50.607 --> 01:18:53.727]  I noticed a massive shift in her rhetoric.
+[01:18:53.807 --> 01:19:01.087]  And keep in mind, she has influence and access because she is a prudential press in the Pentagon.
+[01:19:01.327 --> 01:19:08.207]  And she already influenced who the National Security Isn't advisor and the staff, as well as other individuals she's trying to take out.
+[01:19:08.287 --> 01:19:09.087]  She's driven people up to the point.
+[01:19:09.167 --> 01:19:10.287]  There's a motivation behind that.
+[01:19:10.447 --> 01:19:12.527]  Okay, so Ricky questioned the motivation behind it.
+[01:19:12.687 --> 01:19:14.207]  Enrique Chario has just joined us.
+[01:19:14.287 --> 01:19:15.807]  Enrique, how you doing, brother?
+[01:19:16.447 --> 01:19:16.847]  What's up?
+[01:19:17.007 --> 01:19:18.367]  We got, you hear me good?
+[01:19:18.607 --> 01:19:20.207]  We got 20 seconds left.
+[01:19:21.247 --> 01:19:21.887]  No problem, brother.
+[01:19:22.127 --> 01:19:24.927]  We'll come right back after the break and talk to Enrique Chario.
+[01:19:25.487 --> 01:19:27.807]  We were together yesterday, did a panel discussion.
+[01:19:28.047 --> 01:19:30.767]  We'll have one, a real quick one, a little rapid fire.
+[01:19:31.007 --> 01:19:32.127]  We come back after this.
+[01:19:32.287 --> 01:19:32.747]  God bless.
+[01:19:42.326 --> 01:19:45.367]  This is Stuart Rhodes filling in on the Alex Jones Show today.
+[01:19:45.887 --> 01:19:46.767]  It's a wonderful Sunday.
+[01:19:46.847 --> 01:19:47.727]  I'm here in Florida.
+[01:19:48.047 --> 01:19:56.767]  And while I was in Florida, I saw a good friend of mine, Bella political prisoner, Enrique Chario, the leader of the Proud Boys back on January the 6th.
+[01:19:57.407 --> 01:19:58.447]  How are you doing, brother?
+[01:19:58.767 --> 01:19:59.407]  Welcome to the show.
+[01:20:00.367 --> 01:20:02.207]  Less than 24 hours later.
+[01:20:02.527 --> 01:20:03.087]  That's it.
+[01:20:03.247 --> 01:20:05.647]  So we were both on Friday night.
+[01:20:05.887 --> 01:20:13.567]  We were, I was blessed to be with you at the Mar-a-Lago, President Trump's home, along with Barry Ramey.
+[01:20:14.047 --> 01:20:22.687]  And we were there, hopefully, we were hoping to get a chance to meet President Trump and ask him for a pardon for those 12 of us who still need pardons.
+[01:20:22.847 --> 01:20:29.087]  There's eight oath keepers, myself included, and four Proud Boys that have gotten commutations only, not pardons.
+[01:20:29.567 --> 01:20:32.047]  Unfortunately, we're not able to meet him, but it was still a great event.
+[01:20:32.207 --> 01:20:36.207]  We sat at Peter Chicken's table and got a chance for some really good fellowship.
+[01:20:36.527 --> 01:20:41.087]  So what were your impressions of that event?
+[01:20:41.407 --> 01:20:47.327]  And what are your thoughts right now when it comes to the current administration?
+[01:20:47.647 --> 01:20:52.767]  And if you had a chance to talk to President Trump, what would you say to him?
+[01:20:53.727 --> 01:20:55.727]  So let's start with the event itself.
+[01:20:56.047 --> 01:21:05.167]  You know, I expected the same thing as you that we're going to have like at least the ability to have like a brush through with the president because I thought it was going to be a smaller event.
+[01:21:05.567 --> 01:21:05.967]  I don't know.
+[01:21:06.127 --> 01:21:07.327]  I don't know if what you thought.
+[01:21:07.487 --> 01:21:10.847]  I thought it was going to be like a small 10-table event, 15-table event.
+[01:21:11.007 --> 01:21:13.407]  It actually, there was hundreds of people there.
+[01:21:13.727 --> 01:21:19.567]  It was the West Palm Beach GOP's annual dinner hosted there.
+[01:21:19.647 --> 01:21:21.407]  So when I got there, they saw the size of the event.
+[01:21:21.487 --> 01:21:23.247]  I'm like, this is going to be impossible.
+[01:21:23.567 --> 01:21:25.407]  There's hundreds of people here.
+[01:21:26.847 --> 01:21:29.967]  President spoke of very entertaining, very informative.
+[01:21:30.127 --> 01:21:38.607]  We got to see some governors, some potential governors for the Florida race there at the event.
+[01:21:38.768 --> 01:21:39.727]  I think it was a lovely event.
+[01:21:39.887 --> 01:21:50.687]  And, you know, we were, just so the viewers out there know, we were their guests of honor, which, you know, like, you know, this wouldn't have happened five, six years ago.
+[01:21:51.327 --> 01:21:56.207]  The local GOP wouldn't, would have been like, no way, Proud Boys, Oath Keepers, no way.
+[01:21:56.287 --> 01:21:58.047]  We're not going to, we're not going to have them.
+[01:21:58.367 --> 01:22:00.687]  And we're actually the guests of honor at the event.
+[01:22:00.768 --> 01:22:02.047]  So I'm very happy.
+[01:22:02.687 --> 01:22:06.447]  And I'm very happy with the changes here in Florida specifically.
+[01:22:07.167 --> 01:22:17.568]  Carl, the chairman of the Palm Beach GOP, has done an excellent job, excellent job putting everything together and fighting for the president himself.
+[01:22:19.167 --> 01:22:20.047]  And what was your second?
+[01:22:20.127 --> 01:22:21.967]  I'm sorry, what was your second part of your question?
+[01:22:22.608 --> 01:22:25.087]  On Carl, I want to thank him publicly for inviting us.
+[01:22:25.247 --> 01:22:26.447]  It was really fantastic.
+[01:22:26.768 --> 01:22:28.447]  You know, he's a big fan of Alex.
+[01:22:29.728 --> 01:22:30.207]  There we go.
+[01:22:30.367 --> 01:22:32.927]  So there's Ethan Nordine was with us.
+[01:22:33.087 --> 01:22:33.807]  Forgot to mention him.
+[01:22:33.967 --> 01:22:34.447]  Sorry about that.
+[01:22:34.768 --> 01:22:37.807]  Ethan Nordine is famous for the punch herd around the world.
+[01:22:37.967 --> 01:22:41.887]  We knocked out Antifa in the streets of Portland and myself.
+[01:22:42.528 --> 01:22:44.847]  Barry Raimi is going to be coming on at the tail end here.
+[01:22:45.007 --> 01:22:46.688]  And Enrique, it was really awesome to see.
+[01:22:47.247 --> 01:22:48.287]  These are my brothers, man.
+[01:22:48.447 --> 01:22:50.127]  You know, Oath Keepers and Proud Boys.
+[01:22:50.447 --> 01:22:51.728]  We worked together across the country.
+[01:22:51.887 --> 01:22:52.927]  And there's Tommy Robinson.
+[01:22:53.007 --> 01:22:54.287]  It was fantastic to meet him too.
+[01:22:54.528 --> 01:22:56.927]  Tommy Robbins, I mean, it was fantastic to meet him.
+[01:22:57.087 --> 01:23:01.807]  That was kind of funny at first because his name tag didn't say Tommy Robbins on it.
+[01:23:02.127 --> 01:23:04.447]  So we're first like, Enrique's like, is that him?
+[01:23:04.608 --> 01:23:06.847]  And I like snuck up behind him and looked at his name tags.
+[01:23:07.087 --> 01:23:08.608]  No, it's a different name.
+[01:23:08.847 --> 01:23:11.247]  But then he turned around and recognized Enrique.
+[01:23:11.407 --> 01:23:12.608]  It was really awesome to see him.
+[01:23:12.927 --> 01:23:17.087]  So and there's him from how short he was.
+[01:23:17.967 --> 01:23:18.127]  Yeah.
+[01:23:20.447 --> 01:23:23.648]  He was just a little tad taller than Ivan Recklin.
+[01:23:24.287 --> 01:23:24.528]  Right.
+[01:23:24.688 --> 01:23:24.847]  Yeah.
+[01:23:25.087 --> 01:23:26.927]  And that's why you didn't recognize him first, right?
+[01:23:27.247 --> 01:23:28.528]  So, but no, Tommy's awesome.
+[01:23:28.608 --> 01:23:29.487]  He's a rock star.
+[01:23:30.047 --> 01:23:31.568]  And we're going to talk about that.
+[01:23:31.887 --> 01:23:35.007]  Speaking the truth about Islam is a big warning for us here in America.
+[01:23:35.247 --> 01:23:37.327]  And I got to meet Roger Stone for the very first time.
+[01:23:37.487 --> 01:23:38.447]  And it was, it was interesting.
+[01:23:38.528 --> 01:23:44.927]  Roger Stone was like, so now for the record, this is the first time you and I have actually met.
+[01:23:45.087 --> 01:23:59.487]  And we all had a good laugh because, of course, the big smear against all of us was that Roger Stone was the conduit between President Trump and Oath Keepers and Proud Boys for the, you know, the planned insurrection to follow his orders.
+[01:23:59.807 --> 01:24:01.967]  And Roger Stone and I had never even met or talked.
+[01:24:02.127 --> 01:24:04.367]  So it was really awesome to meet him for the first time.
+[01:24:04.688 --> 01:24:08.447]  That's the same thing when me and you met for the first time in that parking garage.
+[01:24:08.528 --> 01:24:10.927]  They're like, oh, this is where they planned it.
+[01:24:11.247 --> 01:24:12.847]  Literally, there's a whole thing.
+[01:24:13.007 --> 01:24:15.167]  I shake your hand for the first time.
+[01:24:15.487 --> 01:24:16.847]  It makes no sense.
+[01:24:17.568 --> 01:24:21.247]  And then I walked away and they wouldn't show that because it would show me walking away.
+[01:24:21.327 --> 01:24:30.847]  So instead, they just have a freeze frame that they show the entire nation on the dog and pony show, J Slick Select Committee of us standing there as though we stood there for hours and planned the attack.
+[01:24:30.927 --> 01:24:31.967]  It's just garbage.
+[01:24:32.287 --> 01:24:33.087]  So it's wild.
+[01:24:33.247 --> 01:24:34.768]  But yeah, it was bittersweet.
+[01:24:35.087 --> 01:24:36.768]  It was wonderful to be there.
+[01:24:37.407 --> 01:24:42.927]  Like you said, it showed, you know, hey, this is, this is, man, it's a blessing to be.
+[01:24:43.967 --> 01:24:45.007]  This is what I want to show.
+[01:24:45.327 --> 01:24:49.327]  This is a meme that was put together of Dan Bongino.
+[01:24:49.407 --> 01:24:51.807]  I call, I call him Dan the Cuck.
+[01:24:52.207 --> 01:24:59.407]  Like I said, you know, we had a confrontation between a hardcore patriot, you know, Nate Tuck and Dan the Cuck.
+[01:24:59.648 --> 01:25:02.688]  Dan Bongino is the cuck in the corner for the deep state.
+[01:25:02.847 --> 01:25:06.127]  It just goes right along with the deep state raping America.
+[01:25:06.447 --> 01:25:08.768]  And so it's been Ivan Ranklin versus Dan the Cuck.
+[01:25:10.207 --> 01:25:17.167]  But yeah, it was fantastic because if it weren't for President Trump setting us free at inauguration night, we'd still be in prison.
+[01:25:17.247 --> 01:25:19.247]  You for 22 years, me for 18 years.
+[01:25:19.807 --> 01:25:23.167]  Ethan Nordine, 18 years also, Joe Biggs, 17.
+[01:25:23.407 --> 01:25:24.768]  How long did Barry get?
+[01:25:25.648 --> 01:25:27.247]  Barry, I think, got five years.
+[01:25:27.887 --> 01:25:29.247]  He's in the green room currently.
+[01:25:29.407 --> 01:25:32.847]  So he's, I think, I don't know when he's coming in, but yeah, he got five years.
+[01:25:34.287 --> 01:25:34.447]  Right.
+[01:25:35.007 --> 01:25:36.528]  So it was fantastic.
+[01:25:36.688 --> 01:25:38.207]  It is fantastic to be free.
+[01:25:38.528 --> 01:25:41.568]  I will never not be grateful.
+[01:25:41.887 --> 01:25:45.167]  Every day is a blessing, but of course.
+[01:25:45.807 --> 01:25:46.367]  Right.
+[01:25:46.608 --> 01:25:49.887]  But those 12 of us still need our pardons.
+[01:25:50.047 --> 01:25:51.327]  Myself, I'm a disabled veterans.
+[01:25:51.487 --> 01:26:01.887]  So it's Joe Biggs, Zach Real, Dominic Pizzola, Marine Corps veterans, Kenny Harrelson, Jessica Watkins, Army veterans have all lost our disability and all lost our gun rights.
+[01:26:02.047 --> 01:26:03.327]  All of that needs to be restored.
+[01:26:03.728 --> 01:26:30.288]  But even more importantly, what's bittersweet is that we know that unless President Trump wakes up to the urgent need to defeat the deep state now while he's still in office, that if they take over Congress and pre-impeach him and remove him, or if they run the clock out until 2028, when they come back into power, they're going to come back after us with a vengeance.
+[01:26:30.608 --> 01:26:31.807]  What do you say to that?
+[01:26:32.448 --> 01:26:33.728]  Look, I agree with you.
+[01:26:34.047 --> 01:26:37.408]  And for me, I see a lot of rhetoric on both sides.
+[01:26:37.568 --> 01:26:39.807]  Look, MAGA's not dead.
+[01:26:40.127 --> 01:26:43.248]  That MAGA hat behind me, that MAGA hat stays on.
+[01:26:43.568 --> 01:26:45.967]  I'm a red hat kid and I'm a red hat kid for life.
+[01:26:46.047 --> 01:26:47.408]  I'm loyal to the president.
+[01:26:47.488 --> 01:26:49.248]  I'm loyal to the president for life.
+[01:26:49.568 --> 01:26:50.688]  That does, I always say this.
+[01:26:50.847 --> 01:26:53.168]  It doesn't extend to his appointees, right?
+[01:26:53.328 --> 01:26:58.127]  And accountability is the number one thing that we have going.
+[01:26:59.488 --> 01:27:04.288]  The number one thing that we need to do in order to get America back on track.
+[01:27:04.448 --> 01:27:07.568]  I get that there's like a million things going on at once.
+[01:27:07.887 --> 01:27:13.007]  Look, I'm not a person that sits there and harps about the Epstein files.
+[01:27:13.168 --> 01:27:14.608]  I don't harp about Iran.
+[01:27:14.927 --> 01:27:17.728]  I support the strikes, but I also support Joe Kent.
+[01:27:17.807 --> 01:27:21.248]  So I'm like in this, I have a very nuanced position on things.
+[01:27:21.568 --> 01:27:30.448]  So my prediction, and I said this on stage the other day, is it looks like we're going to lose the house, at least the house.
+[01:27:31.168 --> 01:27:35.248]  30 to 60 days, you're going to see the third impeachment of Donald Trump.
+[01:27:35.568 --> 01:27:40.608]  Maybe, maybe, look, just looking at the bright side of that, because I'm hoping that doesn't happen.
+[01:27:40.768 --> 01:27:41.648]  I'm hoping we win.
+[01:27:42.288 --> 01:27:48.528]  I'm hoping that that brings people together because let's be honest, like those impeachments don't mean anything anymore.
+[01:27:49.168 --> 01:27:53.087]  And I hope that that brings the base together again and we could refocus.
+[01:27:53.807 --> 01:27:56.368]  And maybe we have a change in Attorney General by then.
+[01:27:56.528 --> 01:28:01.328]  But if we don't, we don't start taking that accountability and we start doing that soon.
+[01:28:02.208 --> 01:28:10.127]  What we're going to see is them arrest President Donald J. Trump at the end on January 20th, 2029.
+[01:28:10.208 --> 01:28:12.927]  They're going to kick down his door again and they're going to arrest him.
+[01:28:13.087 --> 01:28:14.528]  And whose fault is that going to be?
+[01:28:14.768 --> 01:28:17.007]  Is it going to be the Panicans or the Blackpillers?
+[01:28:17.408 --> 01:28:18.448]  It's not going to be our fault.
+[01:28:18.608 --> 01:28:24.047]  It's the people that have remained complacent and have said nothing about Pam Bondi or the Bonginos.
+[01:28:24.208 --> 01:28:29.488]  Look, and to speak about Bongino, and he actually put a couple more memes up of Ivan.
+[01:28:29.568 --> 01:28:30.208]  Look, those are good.
+[01:28:30.448 --> 01:28:36.448]  I have to admit, Dan Bongino did a great job with sharing those memes at least.
+[01:28:36.768 --> 01:28:39.568]  But my beef with Bongino is one thing, one thing alone.
+[01:28:39.648 --> 01:28:49.967]  And I think that makes me just as angry as everybody else with all the other issues that they have with him is our FBI agents that did this to us lied on the stand.
+[01:28:50.288 --> 01:28:54.047]  Special Agent Nicole Miller still works, Special Agent Hannock.
+[01:28:54.288 --> 01:28:55.887]  They still work for the FBI.
+[01:28:56.208 --> 01:28:59.328]  So these people forget being arrested.
+[01:28:59.408 --> 01:29:00.688]  They're not even fired.
+[01:29:01.007 --> 01:29:02.368]  They still work there.
+[01:29:03.007 --> 01:29:05.168]  So like, with me, it's a personal thing.
+[01:29:05.488 --> 01:29:08.288]  Like everybody else that has a problem, I get why they have problems.
+[01:29:08.368 --> 01:29:09.488]  It might be personal too.
+[01:29:09.807 --> 01:29:10.927]  You know, nothing against them.
+[01:29:11.248 --> 01:29:12.448]  But my issue is personal.
+[01:29:12.688 --> 01:29:18.528]  The people that put me in solitary for three years and somebody told me, oh, that's what all that guy complains about, being in solitary.
+[01:29:18.768 --> 01:29:19.568]  Why don't you try it?
+[01:29:19.728 --> 01:29:21.568]  Why don't you try to be in solitary for three years?
+[01:29:21.807 --> 01:29:22.927]  Let me know how you feel.
+[01:29:23.248 --> 01:29:27.007]  And then when those people that did that to you, they still got a paycheck.
+[01:29:27.967 --> 01:29:29.728]  My taxes still go to them.
+[01:29:29.887 --> 01:29:32.847]  Like my money still goes to pay their salaries.
+[01:29:33.168 --> 01:29:39.568]  So don't tell me that that's all I complain about because that is, I am a one issue person when it comes to that.
+[01:29:39.807 --> 01:29:45.887]  And look, Dan Bongino, people don't like what Nate Tuck said to him, but a lot of people feel that way.
+[01:29:46.208 --> 01:29:48.047]  Maybe I would have complained about something else.
+[01:29:48.288 --> 01:29:50.288]  Maybe Ivan would have done it one way or another.
+[01:29:50.608 --> 01:29:55.887]  But the truth is, look, nobody, those people that are saying, oh, you're going to, you're going to go at him publicly.
+[01:29:56.208 --> 01:30:06.208]  Those are the same people that were championing me and Ivan when we did that to Fanon, because we don't sit and we don't talk on the internet and we don't just, we don't just complain about people on the internet.
+[01:30:06.368 --> 01:30:08.368]  We do it in person, right?
+[01:30:08.608 --> 01:30:11.248]  And that's what some people don't understand, okay?
+[01:30:11.808 --> 01:30:13.968]  We do things in real life, okay?
+[01:30:14.048 --> 01:30:15.328]  And that's why we're a danger.
+[01:30:15.408 --> 01:30:17.648]  That's why they wanted to lock you up for 18 years.
+[01:30:17.888 --> 01:30:20.208]  That's why they wanted to lock me up for 22 years.
+[01:30:20.608 --> 01:30:23.008]  You think they want to lock up the Dilly Meme team?
+[01:30:23.328 --> 01:30:24.208]  Absolutely not.
+[01:30:24.528 --> 01:30:26.448]  They don't want, they're never going to be locked up.
+[01:30:26.528 --> 01:30:26.928]  You know why?
+[01:30:27.088 --> 01:30:29.168]  Because they're not dangerous, right?
+[01:30:29.568 --> 01:30:34.848]  And when shit hits the fan, they're not going to call the Dilly Meme team to get it out of there.
+[01:30:35.088 --> 01:30:36.208]  They're going to call Stuart Rhodes.
+[01:30:36.288 --> 01:30:37.488]  They're going to call Enrique Tario.
+[01:30:37.568 --> 01:30:38.688]  They're going to call Ethan Nordine.
+[01:30:38.848 --> 01:30:41.568]  They're going to call Joe Biggs and they're going to call Barry Ramey.
+[01:30:41.888 --> 01:30:43.168]  That's who they're going to call.
+[01:30:43.728 --> 01:30:44.848]  Well said, brother.
+[01:30:45.168 --> 01:30:45.648]  Good agreement.
+[01:30:47.728 --> 01:30:49.008]  No, hey, I'm with you.
+[01:30:49.328 --> 01:30:54.528]  And I do, I thought it was fantastic when they called him out as a pedophile protector.
+[01:30:54.768 --> 01:30:58.128]  That's exactly the right thing to say because that's what he is.
+[01:30:58.448 --> 01:30:58.848]  He is.
+[01:30:59.088 --> 01:31:00.368]  And here's the problem with that.
+[01:31:00.688 --> 01:31:05.968]  Not only is he protecting the pedophiles, but like I said, he's protecting Ashley Babbitt's murderer.
+[01:31:06.208 --> 01:31:09.088]  He's protecting Roseanne Boylan's murderer.
+[01:31:09.328 --> 01:31:13.888]  He's protecting people that are on video murdering American patriots.
+[01:31:14.048 --> 01:31:17.728]  Women, unarmed women were killed on J6.
+[01:31:18.368 --> 01:31:20.448]  Their murderers have not been held to account.
+[01:31:20.768 --> 01:31:24.208]  And the same goes for my prosecutors are still out.
+[01:31:24.448 --> 01:31:28.848]  I mean, they retired and went on some other practice, some of them, but other ones are still on the job.
+[01:31:29.088 --> 01:31:38.448]  When we were there watching Shane Lamon's sentencing, one of my own prosecutors was at the table prosecuting and persecuting Shane Lamon, trying to get what, 20 years of prison?
+[01:31:38.768 --> 01:31:39.008]  Right.
+[01:31:39.728 --> 01:32:04.608]  So it's disturbing and disgusting to see the deep state still in power under President Trump, in the DOJ, in the FBI, and men like that, Dan Bongino, who said, along with Kash Patel, they were going to clean house, not do that, and instead cover for those oath-breaking traitors.
+[01:32:04.928 --> 01:32:06.288]  It is disgusting.
+[01:32:06.608 --> 01:32:12.608]  And just like Ivan, look, I was outside in the parking lot because I was doing something else and I didn't really want to go inside.
+[01:32:12.768 --> 01:32:14.208]  I really didn't want to go inside.
+[01:32:15.168 --> 01:32:16.768]  But I would have asked him the question.
+[01:32:16.928 --> 01:32:21.328]  I would have asked him calmly, you know, because he's not Officer Fanon.
+[01:32:21.488 --> 01:32:25.408]  You know, I'm not, I'm not by any means comparing, oh, we did it to Officer Fanon.
+[01:32:25.488 --> 01:32:28.368]  I'm not saying that they're the same thing, right?
+[01:32:29.168 --> 01:32:31.568]  They're different things, obviously.
+[01:32:32.128 --> 01:32:39.168]  But I would have asked him, and if Dan Bongino were ever to reach out, I'd be like, okay, please, can you answer these questions?
+[01:32:39.328 --> 01:32:40.288]  Why didn't this happen?
+[01:32:40.528 --> 01:32:49.968]  And maybe, look, maybe, Stuart, maybe there's a small, small sliver of possibility that me and you are wrong and there's things going on in the background, like everybody says.
+[01:32:50.208 --> 01:32:51.488]  Maybe, maybe that's the thing.
+[01:32:51.728 --> 01:32:53.488]  And I'm hopeful, maybe that's the thing.
+[01:32:53.648 --> 01:32:54.288]  I doubt it.
+[01:32:54.608 --> 01:32:55.168]  I doubt it.
+[01:32:55.328 --> 01:32:56.048]  And I hope that's the thing.
+[01:32:56.128 --> 01:33:01.248]  But if Dan were ever to call me and tell me, hey, look, we didn't do it because they blocked us.
+[01:33:01.568 --> 01:33:06.848]  You know, the careers at the FBI blocked us, at least tell me something, but don't tell me.
+[01:33:07.088 --> 01:33:10.128]  Don't come and be like, I did all these things, right?
+[01:33:10.688 --> 01:33:12.688]  And I look at these numbers.
+[01:33:12.928 --> 01:33:14.608]  You know, I don't even know if those numbers are true.
+[01:33:14.768 --> 01:33:16.048]  You know what numbers I believe in?
+[01:33:16.288 --> 01:33:18.368]  Nicole Miller still works for the FBI.
+[01:33:18.848 --> 01:33:21.088]  Special Agent Hannock still works for the FBI.
+[01:33:21.568 --> 01:33:25.968]  Almost all the agents that worked on my case specifically, they still work for the FBI.
+[01:33:26.528 --> 01:33:30.368]  So like I would be willing to give him the benefit of the doubt, but I'm not seeing that.
+[01:33:30.448 --> 01:33:31.648]  All I'm seeing is the insults.
+[01:33:31.728 --> 01:33:32.768]  Oh, you're a black pillar.
+[01:33:32.928 --> 01:33:34.128]  Oh, you're a podcaster.
+[01:33:34.288 --> 01:33:35.728]  You're a podcaster, Dan.
+[01:33:35.888 --> 01:33:37.008]  You're a podcaster.
+[01:33:37.248 --> 01:33:37.408]  Okay.
+[01:33:37.648 --> 01:33:38.448]  And we need answers.
+[01:33:38.528 --> 01:33:40.048]  And you're not a private citizen.
+[01:33:40.288 --> 01:33:41.648]  You're a public person.
+[01:33:41.968 --> 01:33:42.208]  Okay.
+[01:33:42.528 --> 01:33:45.568]  With the highest rated podcasts on Rumble.
+[01:33:45.888 --> 01:33:46.128]  Okay.
+[01:33:46.688 --> 01:33:47.968]  So that happens.
+[01:33:48.208 --> 01:33:49.008]  That's what happens.
+[01:33:49.488 --> 01:33:51.008]  That's what accountability looks like.
+[01:33:51.248 --> 01:33:53.328]  And look, I don't wish no violence on them.
+[01:33:53.488 --> 01:33:55.328]  I don't wish that people come and do anything.
+[01:33:55.648 --> 01:33:58.208]  I actually abhor it and I don't want it to happen.
+[01:33:58.528 --> 01:33:59.568]  But this is what happens.
+[01:34:00.048 --> 01:34:04.448]  You get Ivan Ranklin, you get Nate Tucks of the world.
+[01:34:05.008 --> 01:34:06.368]  You get the Josephs of the world.
+[01:34:06.528 --> 01:34:08.528]  And you might get the Enrique Tarios of the world.
+[01:34:08.847 --> 01:34:10.768]  And I'm the nicest one, I think.
+[01:34:14.208 --> 01:34:16.048]  I'm not sure that's quite true, but we'll see.
+[01:34:16.368 --> 01:34:18.448]  But I mean, we'll see.
+[01:34:18.608 --> 01:34:20.847]  You might get a little hot when you're talking to him face to face.
+[01:34:20.927 --> 01:34:26.528]  We start thinking about the fact that he has not done anything to bring accountability for the ones that persecuted us.
+[01:34:26.847 --> 01:34:29.088]  So I'd like to see that conversation.
+[01:34:29.408 --> 01:34:29.967]  I hope so.
+[01:34:30.208 --> 01:34:32.688]  So, what can we do?
+[01:34:32.927 --> 01:34:36.368]  I mean, free Tina Peters is to me the easy button.
+[01:34:36.608 --> 01:34:37.648]  Just go get her.
+[01:34:37.887 --> 01:34:40.128]  Just go rescue her, send in U.S. Marshals.
+[01:34:40.528 --> 01:34:43.008]  Was that Barry I just saw flash on the screen?
+[01:34:43.728 --> 01:34:45.168]  Yeah, Barry's coming on just a moment.
+[01:34:45.248 --> 01:34:45.728]  He's going to come on.
+[01:34:46.847 --> 01:34:48.847]  I don't think Dari can bring him in at the same time.
+[01:34:49.088 --> 01:34:49.728]  If she can, great.
+[01:34:50.448 --> 01:34:51.088]  We could try that.
+[01:34:51.328 --> 01:34:53.248]  But if she can't, when you leave.
+[01:34:53.408 --> 01:34:53.967]  I just saw him flashing.
+[01:34:55.408 --> 01:34:55.967]  Yeah, you bet.
+[01:34:56.208 --> 01:34:56.608]  There she is.
+[01:34:57.408 --> 01:34:57.807]  There you go.
+[01:34:57.887 --> 01:34:58.847]  Hey, Barry.
+[01:34:59.088 --> 01:34:59.328]  All right.
+[01:35:00.368 --> 01:35:00.528]  How you doing?
+[01:35:01.807 --> 01:35:02.688]  Hey, welcome to the show.
+[01:35:02.847 --> 01:35:05.887]  This is Barry Ramey, also known as Bees.
+[01:35:06.128 --> 01:35:07.408]  That's your nickname.
+[01:35:07.728 --> 01:35:12.688]  And Barry Oxford, another J6 political prisoner, Proud Boy.
+[01:35:13.008 --> 01:35:14.208]  You and I first met.
+[01:35:14.688 --> 01:35:19.168]  We were both in solitary confinement, Alexandria, being transported one day.
+[01:35:19.488 --> 01:35:19.807]  Yes.
+[01:35:22.847 --> 01:35:23.488]  Thanks, man.
+[01:35:23.568 --> 01:35:25.967]  And, you know, I was thinking about it.
+[01:35:26.048 --> 01:35:32.528]  It was quite lovely, you know, walking around the penitentiary, Lewisburg with you around the yard and the exercise thing.
+[01:35:32.688 --> 01:35:36.927]  And to be walking around the courtyard of Mar-a-Lago, that's pretty epic, man.
+[01:35:37.088 --> 01:35:42.128]  So it was lovely to be walking around the yard at Lewisburg because we had been in solitary.
+[01:35:42.288 --> 01:35:43.887]  I was in there for over a year.
+[01:35:44.048 --> 01:35:45.488]  You're even longer, right?
+[01:35:45.728 --> 01:35:46.528]  Without any sunshine.
+[01:35:46.768 --> 01:35:47.008]  No, no.
+[01:35:48.448 --> 01:35:48.608]  Yeah.
+[01:35:48.927 --> 01:35:49.728]  I didn't get that long.
+[01:35:49.887 --> 01:35:51.248]  You broke the record.
+[01:35:51.887 --> 01:35:54.048]  No, I think, I think Enrink broke the record.
+[01:35:54.208 --> 01:35:56.768]  But yeah, so yes.
+[01:35:57.008 --> 01:36:02.128]  So we got transported from solitary confinement to Lewisburg and we were out walking into the open sunshine.
+[01:36:02.208 --> 01:36:03.088]  It was fantastic.
+[01:36:03.568 --> 01:36:06.768]  Even though we were still in prison, it was wonderful to be in a big yard like that.
+[01:36:07.088 --> 01:36:10.288]  So, but hey, man, it even better tonight, right?
+[01:36:10.927 --> 01:36:11.168]  Right.
+[01:36:11.488 --> 01:36:12.048]  It was.
+[01:36:13.168 --> 01:36:14.608]  From prison to Mar-a-Lago.
+[01:36:14.688 --> 01:36:17.168]  I mean, that was an experience that I'll tell you that.
+[01:36:18.288 --> 01:36:18.768]  That was amazing.
+[01:36:18.847 --> 01:36:20.847]  And then I got invited to breakfast the next morning.
+[01:36:21.008 --> 01:36:22.368]  It was like a constant occurrence there.
+[01:36:22.448 --> 01:36:36.768]  And I've been to Mar-a-Lago a couple times, but it's still, it's still shocking to me that, you know, we go out there and we just came out less than a year ago and we're at the president's house, you know?
+[01:36:37.728 --> 01:36:41.807]  And like I walk in there and I look at the beauty of it, like the palm trees.
+[01:36:42.208 --> 01:36:51.088]  I'm a big Florida lover, obviously, because I keep talking about Florida, but the palm trees, the blue skies, the ocean, the inner coast, it's just gorgeous, you know, and it's unreal.
+[01:36:52.768 --> 01:36:53.887]  Yeah, it's fantastic.
+[01:36:54.208 --> 01:37:09.728]  So, so, Barry, as a J6er, after a year now of being just over a year of being free, what is your perspective on where our country is and on what President Trump, what's your message to him?
+[01:37:09.807 --> 01:37:13.488]  If you could talk to him face to face, you get a chance to shake his hand, unfortunately, which is unfortunate.
+[01:37:13.807 --> 01:37:16.927]  But what would you have said to him if you had a chance to talk to him?
+[01:37:18.128 --> 01:37:37.248]  Well, I mean, there's if I had to limit it to just one thing, I would have to say that unless he goes after and amends the weaponization of the Patriot Act against the American people and how easy it is for our intelligence agencies to utilize it and weaponize it against the American people.
+[01:37:37.408 --> 01:37:49.088]  If he doesn't fix that now, then as soon as he's out of office, no matter what, no matter who wins, they're going to eventually utilize that again to come after him, to come after his kids, to come after all of us.
+[01:37:50.048 --> 01:37:53.488]  And We are going to stop that from happening.
+[01:37:53.807 --> 01:37:55.408]  So, we'll probably go back to prison.
+[01:37:55.728 --> 01:38:02.608]  So, it's something that he really needs to rectify now while he's in office and codify it so it can't be used against the American people.
+[01:38:02.688 --> 01:38:05.568]  Because let's not forget, it was never intended to do that.
+[01:38:05.728 --> 01:38:07.887]  It was supposed to combat terrorism.
+[01:38:08.208 --> 01:38:13.408]  And yet, you know, that's a lot of that was weaponized against us in the J6 plight with the FBI.
+[01:38:14.047 --> 01:38:14.528]  That's right.
+[01:38:14.688 --> 01:38:14.847]  Yeah.
+[01:38:15.088 --> 01:38:17.328]  FISO warrants, mass surveillance.
+[01:38:17.488 --> 01:38:26.528]  And this, this is the problem: all of us, it's like we're watching a slow-motion train wreck because they're not correcting that.
+[01:38:26.847 --> 01:38:33.568]  And we know we've experienced and lived it that what was done to us, they're going to do it to other Americans.
+[01:38:33.648 --> 01:38:34.448]  They're going to keep going.
+[01:38:34.688 --> 01:38:38.288]  They would have gone after, they probably will go after anyone who's in DC that day.
+[01:38:38.608 --> 01:38:45.408]  And, like you said, you know, we might want to be in Stella's or President Trump or, you know, Don Jr. or someone else is in his family.
+[01:38:45.728 --> 01:38:50.448]  And so it's, we're like screaming and yelling, going, guys, you've got to fix this.
+[01:38:50.768 --> 01:38:55.007]  And it just seems like the strategy is just distract him and run the clock out so it doesn't happen.
+[01:38:55.328 --> 01:38:57.088]  So, what can we do to reach him?
+[01:38:57.248 --> 01:38:58.448]  What can we do, you think?
+[01:38:59.967 --> 01:39:11.967]  You know, I think a lot of us have been screaming at the top of our lungs, but we're, you know, we're so far away and basically silenced from him hearing us that I don't really have the answer to that.
+[01:39:12.288 --> 01:39:25.248]  You know, but what going, you know, to talk about something and you know, you talked about earlier, the people that were weaponized against us and the names of, you know, Enrique brought up a lot of the FBI agents that were promoted and prosecutors that were promoted.
+[01:39:26.288 --> 01:39:33.007]  With the help of Lego man, Enrique and I have been privy and had this information confirmed.
+[01:39:33.088 --> 01:39:39.648]  Now, we have the name of the officer that works for the counterterrorism unit of the Bureau of Prisons.
+[01:39:39.887 --> 01:39:46.608]  And he was the one that was authorizing all the diesel therapy and all the consolitary confinement that you were subjected to.
+[01:39:46.927 --> 01:39:49.807]  And his name is Joshua Cloeb, K-L-O-B-E.
+[01:39:50.128 --> 01:39:51.648]  He still works there, from my understanding.
+[01:39:51.807 --> 01:39:54.448]  And he took it upon himself to target us.
+[01:39:54.768 --> 01:40:01.328]  And from my understanding, he was in direct conversation with Merritt Garland's office to kind of twist the knives in our back while we were in prison.
+[01:40:01.648 --> 01:40:04.528]  And it's, you can pretty much trace everything back to him.
+[01:40:05.168 --> 01:40:06.608]  That's why we had management variables.
+[01:40:06.688 --> 01:40:10.288]  Like, for example, I had camp points, but I was at a medium because of him.
+[01:40:10.608 --> 01:40:12.688]  He's the one that made sure we ended up there.
+[01:40:13.007 --> 01:40:16.927]  So we can expose them without accountability through the DOJ.
+[01:40:17.807 --> 01:40:19.568]  How's that going to help anybody?
+[01:40:19.887 --> 01:40:20.768]  We expose him.
+[01:40:21.568 --> 01:40:23.807]  So we need a new attorney general, right?
+[01:40:24.927 --> 01:40:25.568]  I think so.
+[01:40:25.807 --> 01:40:27.568]  I think that that is the key to everything.
+[01:40:27.807 --> 01:40:35.967]  It's actually the most important position in the president's cabinet, the most important appointee that he has, the attorney general of the United States.
+[01:40:36.128 --> 01:40:46.368]  That's the hammer of which the retribution for everything that they've done, the weaponization, that's what that's where it flows through, right?
+[01:40:47.568 --> 01:40:49.887]  So I think just hammering that.
+[01:40:50.688 --> 01:40:51.807]  And she's going to screw up.
+[01:40:52.047 --> 01:40:52.927]  She's going to screw up.
+[01:40:53.007 --> 01:40:57.648]  And I think the MAGA base, like the newbies, I call them the newbies.
+[01:40:57.967 --> 01:41:02.128]  The newbies, when they come in, I think she's going to screw up with them too.
+[01:41:02.768 --> 01:41:03.728]  I'm hoping.
+[01:41:04.048 --> 01:41:09.807]  Because you know what's going to happen is when they get when they impeach him again, and I'm hoping they don't.
+[01:41:11.408 --> 01:41:14.847]  But that looks like what it's going to happen if we lose the house.
+[01:41:16.528 --> 01:41:18.528]  I don't think she's going to come out strong.
+[01:41:19.088 --> 01:41:20.528]  I don't think she's going to come out strong.
+[01:41:20.768 --> 01:41:23.088]  Maybe some strongly worded letters, right?
+[01:41:23.168 --> 01:41:24.768]  Which is her specialty.
+[01:41:25.568 --> 01:41:26.448]  We might get that.
+[01:41:26.768 --> 01:41:27.887]  We might get that.
+[01:41:28.448 --> 01:41:29.408]  Yeah, that's about it.
+[01:41:30.768 --> 01:41:34.528]  I'm in favor of Pure Ticton, the Attorney General of the United States.
+[01:41:35.168 --> 01:41:35.967]  I think that's a good choice.
+[01:41:36.128 --> 01:41:38.768]  I was talking to him at our table, and he said the next attorney general.
+[01:41:38.927 --> 01:41:41.328]  I hope you don't mind me saying, I hope he doesn't mind me saying this.
+[01:41:41.648 --> 01:41:48.608]  He said, our next attorney general has to be willing to give their life if that's what it takes.
+[01:41:49.248 --> 01:41:56.688]  And I think that man of courage like that, who's willing to do whatever it takes to take down the deep state accountability.
+[01:41:56.928 --> 01:41:58.368]  Yeah, because there's going to be a target.
+[01:41:59.328 --> 01:42:00.768]  There's going to be a target on his back.
+[01:42:00.928 --> 01:42:01.408]  But go ahead.
+[01:42:01.488 --> 01:42:01.728]  Go ahead.
+[01:42:02.608 --> 01:42:04.208]  And he knows and he knows that.
+[01:42:04.528 --> 01:42:06.288]  So we need men of courage.
+[01:42:06.608 --> 01:42:08.048]  Jeffrey Clark could be good also.
+[01:42:08.208 --> 01:42:09.088]  Ivan Reiklin.
+[01:42:09.168 --> 01:42:15.648]  There's plenty of other good attorneys out there that have proven up under fire and guys like us willing to help, of course.
+[01:42:15.968 --> 01:42:23.088]  I want to give you each a chance to, Barry, how can folks follow you and keep up with what you're doing now?
+[01:42:23.648 --> 01:42:30.608]  Oh, you can go to Facebook and you can type in Barry Raimi and on X at the American Rise.
+[01:42:30.688 --> 01:42:32.288]  I don't know why Enrique is shaking his head.
+[01:42:32.608 --> 01:42:33.968]  Because I know what you're going to say, man.
+[01:42:34.128 --> 01:42:34.608]  Just say it.
+[01:42:35.168 --> 01:42:36.048]  I can't mute you here.
+[01:42:37.168 --> 01:42:38.848]  I'm not going to say anything, man.
+[01:42:42.128 --> 01:42:42.608]  Go ahead.
+[01:42:42.848 --> 01:42:47.328]  Now, you can, we got, you know, we got our merch at 1776.shop.
+[01:42:47.488 --> 01:42:56.288]  The most offensive, offensive t-shirts you can find and gear for that'll offend the left guaranteed is at the American Rising store on 1776.shop.
+[01:42:56.688 --> 01:42:59.968]  Enrique will be the first to tell you that's where it's at.
+[01:43:00.128 --> 01:43:11.808]  So, but you know, no, I do appreciate it, Stuart, that you guys are still keeping this fight going and, you know, this conversation going because I know that it's getting old for a lot of people.
+[01:43:12.048 --> 01:43:21.488]  I think a lot of people have this J6 fatigue, but what we're trying to talk about here is, again, I believe the weaponization of the Patriot Act and how easily it can be turned on again.
+[01:43:21.808 --> 01:43:24.848]  And anybody can designate anybody as a domestic terrorist.
+[01:43:25.168 --> 01:43:30.368]  And I'm going to tell you right now, if you go to prison, that sucks, but going to prison as a domestic terrorist really sucks.
+[01:43:30.688 --> 01:43:32.368]  I'm going to continue this conversation with you guys.
+[01:43:32.448 --> 01:43:33.488]  Next time we'll leave Ivan out.
+[01:43:33.728 --> 01:43:36.368]  He's so long-winded, but I'm going to give Enrique one shot.
+[01:43:36.528 --> 01:43:36.848]  Go ahead.
+[01:43:36.928 --> 01:43:37.568]  Tell him how to follow you.
+[01:43:37.808 --> 01:43:37.968]  Yeah.
+[01:43:38.208 --> 01:43:42.608]  So I'm going to pre tell you guys here because it launches tomorrow.
+[01:43:42.688 --> 01:43:43.808]  My book, American Warlord.
+[01:43:43.888 --> 01:43:46.288]  You can find it at tariobook.com.
+[01:43:46.448 --> 01:43:47.168]  It is the first time.
+[01:43:47.248 --> 01:43:49.488]  It's the first time I'm going to be able to say my story.
+[01:43:49.728 --> 01:43:51.648]  From my words, I'm writing it.
+[01:43:52.528 --> 01:43:55.568]  I hope you guys go ahead and buy tariobook.com.
+[01:43:55.888 --> 01:43:58.448]  And it's a memoir and a guide.
+[01:43:58.608 --> 01:43:59.108]  Thank you, guys.
+[01:43:59.597 --> 01:44:00.158]  All right.
+[01:44:06.447 --> 01:44:07.568]  What's happening now?
+[01:44:08.146 --> 01:44:10.806]  Infowars tells you the truth about what's happening next.
+[01:44:15.728 --> 01:44:20.768]  I'm holding in my hands two compounds that are guaranteed to change your life.
+[01:44:21.008 --> 01:44:22.928]  T3, pure atomic iodine.
+[01:44:23.008 --> 01:44:23.648]  Nobody else has it.
+[01:44:23.808 --> 01:44:24.528]  It's next level.
+[01:44:24.688 --> 01:44:27.008]  And ultra methylene blue, medical gray methylene blue.
+[01:44:27.168 --> 01:44:32.528]  These two products together supercharge the mitochondrial cells, clean out the body, and are game changers.
+[01:44:32.768 --> 01:44:35.168]  Iodine is essential, meaning you die without it.
+[01:44:35.328 --> 01:44:39.488]  The UN admits that most people that have cognitive disabilities is because of lack of iodine.
+[01:44:39.728 --> 01:44:43.248]  You add ultramethylene blue to this, it supercharges everything.
+[01:44:43.568 --> 01:44:45.808]  Ladies and gentlemen, T3 is now available.
+[01:44:45.968 --> 01:44:49.568]  DeliciousStore.com, the very best iodine that we know of that exists.
+[01:44:49.648 --> 01:44:50.288]  There may be better.
+[01:44:50.368 --> 01:44:51.488]  We'll adopt that if we can.
+[01:44:51.728 --> 01:44:53.568]  But this is the best for sale we found.
+[01:44:53.728 --> 01:44:55.888]  And we have the best medical brain, ultramethylene blue.
+[01:44:56.128 --> 01:44:57.488]  Get yours now, right now.
+[01:44:57.648 --> 01:44:59.808]  If you're a FIPA member, you're 50% off.
+[01:44:59.968 --> 01:45:01.568]  Regular customers, 25% off.
+[01:45:01.728 --> 01:45:04.608]  It funds the InfoWar, but more importantly, it is a game changer.
+[01:45:04.848 --> 01:45:07.328]  If you don't take my advice and try this, you're insane.
+[01:45:07.568 --> 01:45:08.608]  All you got to do is try it.
+[01:45:08.688 --> 01:45:09.488]  You'll be blown away.
+[01:45:09.648 --> 01:45:10.288]  Take action now.
+[01:45:10.528 --> 01:45:15.648]  The ElchinScore.com to get T3 now available, ambethleen blue, at thealxhousecore.com.

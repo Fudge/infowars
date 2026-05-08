@@ -1,0 +1,1622 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, sat-12l-sm, and large-v3-turbo
+# Transcript cleaned with version 0.1.2
+# Source MD5: 51204b51680af8b128eaec14349c7bd9
+[00:00:43.359 --> 00:00:48.320]  It is Saturday, October, November, December, Douglas.
+[00:00:48.960 --> 00:00:54.320]  It is Saturday, November 29th, 2025, emergency transmission.
+[00:00:54.960 --> 00:00:56.759]  The full broadcast starts now.
+[00:00:57.120 --> 00:01:20.179]  If it is already.
+[00:01:21.120 --> 00:01:23.280]  November 29th, 2025.
+[00:01:23.600 --> 00:01:25.760]  It's an emergency live Saturday transmission.
+[00:01:25.920 --> 00:01:29.040]  Please share the live feeds now at Real All Shows on X and Rumble.
+[00:02:12.968 --> 00:02:16.288]  Jones Network is tomorrow's news today.
+[00:02:17.360 --> 00:02:24.159]  Imagine, if you will, a world where the mind can be bent like a paperclip, twisted by voices that shout from every glowing screen.
+[00:02:24.800 --> 00:02:29.599]  Look at all these people, hypnotized by the glowing box in their living rooms.
+[00:02:29.840 --> 00:02:32.240]  They'll believe anything that flickers on that screen.
+[00:02:32.560 --> 00:02:35.680]  If only they knew about Alex Jones and the InfoWars crew.
+[00:02:35.919 --> 00:02:40.800]  I have gone so far as to create Jones clones purely for the good of humanity.
+[00:02:48.360 --> 00:02:51.639]  You can judge a man by the enemies he dares to defy.
+[00:02:52.400 --> 00:02:59.120]  He stands against those who would chain the voice of freedom, battling shadowy forces that seek to silence truth.
+[00:02:59.439 --> 00:03:04.719]  He rises against those who would disarm the people, alone Sentinel guarding the rights of the many.
+[00:03:05.039 --> 00:03:08.640]  Through the fire of unjust legal warfare, he fights.
+[00:03:08.960 --> 00:03:11.599]  Not for himself, but for those who cannot.
+[00:03:11.920 --> 00:03:17.280]  Stripped of wealth, betrayed by systems, yet driven by an unyielding hunger for justice.
+[00:03:17.599 --> 00:03:24.719]  On the altar of truth, he swears an oath, enduring relentless assaults, slander, schemes, and ceaseless attacks.
+[00:03:25.039 --> 00:03:27.920]  InfoWars just lost their war on info.
+[00:03:28.080 --> 00:03:29.840]  InfoWars is shutting down.
+[00:03:30.159 --> 00:03:33.759]  And he remains unbroken, unbound, unstoppable.
+[00:03:34.719 --> 00:03:38.319]  His enemies thought they could crush him, thought they could bury his resolve.
+[00:03:38.640 --> 00:03:39.759]  They were wrong.
+[00:03:40.719 --> 00:03:46.159]  From the ashes of their lies, he rises stronger, a beacon of defiance in a world of shadows.
+[00:03:46.480 --> 00:03:49.759]  His enemies reveal his strength, his courage, his heart.
+[00:03:50.080 --> 00:03:51.680]  But this fight is not his alone.
+[00:03:52.000 --> 00:03:55.920]  It belongs to every soul who yearns for truth, who dares to stand tall.
+[00:03:56.240 --> 00:03:57.120]  Will you join him?
+[00:03:57.280 --> 00:03:59.200]  Will you rise against the tide of tyranny?
+[00:03:59.520 --> 00:04:04.320]  For a man is not defined by the enemies he faces, but by the fire he carries within.
+[00:04:04.640 --> 00:04:05.440]  Stand with him.
+[00:04:05.600 --> 00:04:07.040]  Fight for truth.
+[00:04:07.680 --> 00:04:09.000]  The battle begins now.
+[00:04:31.050 --> 00:04:36.608]  From the front lines of the information war, it's Alex Jones.
+[00:04:39.040 --> 00:04:49.840]  Thank you for joining us on this live Saturday, November 29th from 25 emergency transmission from the Alex Jones Network studios in Austin, Texas.
+[00:04:50.480 --> 00:04:55.120]  All right, Trump is completely on the warpath on every front.
+[00:04:55.439 --> 00:04:58.879]  He has accelerated everything he said he would do.
+[00:04:59.200 --> 00:05:05.280]  In just the last couple hours, Trump declares Venezuela air space completely closed after land strikes warning.
+[00:05:05.920 --> 00:05:09.439]  The reports are strikes within the hours or the day.
+[00:05:10.240 --> 00:05:13.519]  We'll be getting into that in great detail.
+[00:05:14.400 --> 00:05:25.759]  Then we also have Trump announcing an executive order banning all third world immigration completely, 100% zero.
+[00:05:26.080 --> 00:05:27.040]  Unprecedented.
+[00:05:27.280 --> 00:05:38.000]  That definitely makes America first happy because they've been using UN replacement migration to swamp the country and divide and conquer us and bring in a foreign permanent underclass and voting bloc.
+[00:05:39.920 --> 00:05:53.360]  Then on top of that, Trump has signed an order overturning all of Joe Biden's auto pen actions, which have been deemed by the Justice Department totally illegal.
+[00:05:53.600 --> 00:05:55.439]  The law says they're illegal.
+[00:05:56.080 --> 00:05:59.519]  And that is 92% of all of Joe Biden's actions.
+[00:05:59.840 --> 00:06:03.120]  All the executive orders, the memorandums, the pardons, everything.
+[00:06:03.439 --> 00:06:06.720]  That's been looked at very heavily by the Justice Department, Ed Martin, and others.
+[00:06:07.040 --> 00:06:09.040]  He first told you about three months ago that was coming.
+[00:06:09.360 --> 00:06:12.160]  And they have the whistleblowers, the chief of staff admitting it was fake.
+[00:06:12.480 --> 00:06:14.960]  Biden was basically never even involved.
+[00:06:15.120 --> 00:06:16.960]  A committee decided what to sign.
+[00:06:17.280 --> 00:06:20.879]  Next, they're going to start overturning the legislation, but that's going to be an issue in Congress.
+[00:06:21.120 --> 00:06:27.920]  So each one of these developments is massively explosive, obviously, both literally and figuratively.
+[00:06:28.320 --> 00:06:29.519]  Look at those drug boats getting blown up.
+[00:06:29.600 --> 00:06:31.280]  Put that back on screen.
+[00:06:31.600 --> 00:06:34.639]  So that's where we are.
+[00:06:35.280 --> 00:06:46.160]  And you notice as soon as the corrupt Democrat judge kicked out the indictments of Comey and Leticia James, just everything with Trump escalated.
+[00:06:46.399 --> 00:06:53.440]  Now, here you see footage of shore batteries, anti-aircraft, and artillery.
+[00:06:54.080 --> 00:07:07.840]  And the Venezuelans also have tens of thousands of Russian high-speed missiles that they're saying they're going to fire at our ships, but the ships have a lot of anti-missile systems, and most of them are out of range to begin with.
+[00:07:08.160 --> 00:07:10.800]  But Trump is not one to bluff.
+[00:07:10.879 --> 00:07:13.200]  They've given Maduro a chance to leave.
+[00:07:13.519 --> 00:07:14.399]  He has not left.
+[00:07:14.480 --> 00:07:15.759]  They've been meddling in our elections.
+[00:07:16.000 --> 00:07:17.360]  They have been shipping the drugs up here.
+[00:07:17.440 --> 00:07:22.000]  They've been the piggy bank for the Democratic Party and the senior partner to the Mexican drug cartels.
+[00:07:22.320 --> 00:07:23.920]  And this is a new era.
+[00:07:24.240 --> 00:07:26.320]  This is not Trump being a neocon.
+[00:07:26.399 --> 00:07:27.840]  He's against all the neocon wars.
+[00:07:28.080 --> 00:07:31.280]  But he said in our hemisphere, we will re-exert our power.
+[00:07:31.600 --> 00:07:35.280]  And this is something that Thomas Jefferson, facing the same issues, would have done.
+[00:07:35.600 --> 00:07:38.560]  Even though he was an isolationist, he launched the first Barbary War.
+[00:07:38.879 --> 00:07:45.600]  You can look that up because of what the Muslims are doing to our shipping in and around the Arabian Sea.
+[00:07:46.240 --> 00:07:50.480]  So that's all coming up today and so much more.
+[00:07:50.800 --> 00:07:52.720]  I also got particularly prepared.
+[00:07:52.960 --> 00:07:55.120]  I normally send about 50 videos of the crew.
+[00:07:55.280 --> 00:08:02.560]  I sent close to 200 today, and it's just insurmountable to get to the Islamic takeover stack.
+[00:08:03.520 --> 00:08:08.400]  Over 100 videos of the Muslims saying we're taking over, we're going to destroy America.
+[00:08:09.280 --> 00:08:13.600]  Elected members of Congress saying it, violent demonstrations in the streets.
+[00:08:13.920 --> 00:08:15.360]  They are definitely making their move.
+[00:08:15.600 --> 00:08:20.400]  Tomorrow night, I'm tempted just to host all four hours of Sunday Live.
+[00:08:20.640 --> 00:08:24.960]  Normally it hosts the first two, but regardless, I'm going to hit this stack and all the new stuff that comes out.
+[00:08:25.280 --> 00:08:27.040]  It is insane.
+[00:08:27.680 --> 00:08:35.759]  People are waking up to the Islamic invasion is every time Muslims hit close to 10% of the population, just in the city alone, they launch the takeover.
+[00:08:35.920 --> 00:08:38.800]  Well, they've done that, and that is the formula.
+[00:08:39.440 --> 00:08:42.480]  So we'll be getting all of that information and more.
+[00:08:44.080 --> 00:08:58.480]  We are also going to be looking at the situation with the seditious six and how that's been openly further by state behind networks in the CIA, in USAID, and by Soros.
+[00:08:58.560 --> 00:08:59.680]  That's all been confirmed.
+[00:09:00.000 --> 00:09:08.560]  It's all part of the larger undermining of the president ahead of the big events the left's going to stage, the attempted civil war slash coup that they hope will be race-based.
+[00:09:09.120 --> 00:09:24.080]  And there have been just huge developments on that front, and it's really blown to the Democrats' face as the public found the sedition six and their surrogates, like Don Lemon and countless others, saying everything the Border Patrol and ICE and National Guard are doing is illegal.
+[00:09:24.400 --> 00:09:25.840]  Everything they're doing is bad.
+[00:09:26.000 --> 00:09:26.960]  They're coming to kill you.
+[00:09:27.200 --> 00:09:29.200]  So you better get guns and fight them.
+[00:09:30.080 --> 00:09:39.040]  And now the left's even come out on scene in MSNBC and said, well, the National Guard should be patrolling and they wouldn't get shot and killed.
+[00:09:40.000 --> 00:09:42.720]  And Mark Kelly's been making jokes about it and stuff.
+[00:09:42.960 --> 00:09:44.480]  Oh, I'm not going to get court-martialed.
+[00:09:44.639 --> 00:09:47.200]  I have my right to say don't follow legal orders.
+[00:09:47.360 --> 00:09:54.240]  But you did it as part of a larger conspiracy where it was put out with the same groups that what Trump's doing is illegal when it's not.
+[00:09:55.200 --> 00:10:04.560]  And it's part of the larger pedestrian martial law plan run by the same people that ran Arctic Frost and Crossfire Hurricane and the fake impeachments and the persecution of the American people.
+[00:10:04.879 --> 00:10:08.480]  That is what is illegal, is the seditious conspiracy itself.
+[00:10:08.800 --> 00:10:13.120]  And unlike the proud boys and oath keepers, they sent to prison with no evidence of a conspiracy.
+[00:10:13.440 --> 00:10:16.160]  We have them and we have the proof.
+[00:10:16.480 --> 00:10:19.759]  So massive news on that front as well.
+[00:10:20.080 --> 00:10:31.840]  But the big takeaway here is that if you thought that the Trump that got into office 11 months ago, 10 and a half months ago, was hardcore compared to the Trump you got eight years ago.
+[00:10:32.160 --> 00:10:35.840]  There has been a jump in his activity, a jump in his actions.
+[00:10:36.960 --> 00:10:42.000]  Even though the Justice Department won't do its job in most cases, go after the deep state, not out of vengeance, but of justice.
+[00:10:42.320 --> 00:10:51.440]  So they can't keep trying to stage these coups through his executive powers and other emergency powers that he's been using on the border and with war and so much and trade.
+[00:10:51.680 --> 00:10:54.960]  He is now just accelerating that, understanding the urgency.
+[00:10:55.120 --> 00:11:03.519]  And our broadcast, myself, many of our guests have been summoned to the White House, like Mark Mitchell, who Raspius and Top Polster to brief the president and others.
+[00:11:03.759 --> 00:11:05.039]  They're absolutely listening.
+[00:11:05.360 --> 00:11:12.879]  You've seen me hammering the sedition six that it comes out of the CIA and Soros and the system set up by Obama before he left office.
+[00:11:13.039 --> 00:11:24.240]  Now you see the deputy chief of staff and all the other surrogates and Jesse Waters and everybody else up on air, literally laying out that this is another attempt at a coup, this time a hot coup.
+[00:11:24.480 --> 00:11:41.200]  That is so exciting that the urgency is understood and that the president now is communicating to the public through his surrogates and is set soon as General Flynn called for last Wednesday on my show that went ultraviral and the White House contacted us about it.
+[00:11:41.440 --> 00:11:44.400]  There's been big op-eds and articles published all over about the interview.
+[00:11:44.720 --> 00:11:49.279]  And the White House has said, yes, we are indeed getting ready to launch major communications on this.
+[00:11:49.600 --> 00:11:54.640]  And I would expect in the next week to see President Trump begin to address the nation, not just talk to some reporters.
+[00:11:54.879 --> 00:12:01.279]  I was talking to some press to actually address the nation on the deep state hot coup plan that they have.
+[00:12:01.519 --> 00:12:06.080]  So great job, the listeners, getting the word out about all of that.
+[00:12:06.399 --> 00:12:09.440]  But just alone overturning the auto pen.
+[00:12:11.360 --> 00:12:15.279]  And Biden told the New York Times, yeah, I just authorized them to do whatever they wanted.
+[00:12:15.600 --> 00:12:17.279]  So now he can't go back on that admission.
+[00:12:17.440 --> 00:12:19.040]  That's totally illegal.
+[00:12:19.120 --> 00:12:22.639]  So we'll be looking at that again in a lot more depth here today.
+[00:12:23.200 --> 00:12:27.759]  But on the Venezuela front, I don't know if the U.S. is just going to hit the ports.
+[00:12:27.920 --> 00:12:31.360]  I don't know if it's going to hit the bases or the drug bases.
+[00:12:32.160 --> 00:12:37.040]  But obviously, this is meant to nudge and push Nicholas Maduro out.
+[00:12:37.360 --> 00:12:52.639]  The CIA had been pushing to not have total regime change and let Maduro leave, but then they would put the intelligence chief in and leave Maduro's party in power that the Democrats and others have been working with for decades, big client of China as well.
+[00:12:53.279 --> 00:12:54.480]  Trump is saying no to that.
+[00:12:54.800 --> 00:12:59.600]  Could Trump be set up with bad intelligence and information like the Bay of Pigs going in?
+[00:12:59.840 --> 00:13:00.800]  Could this be a trap?
+[00:13:01.120 --> 00:13:02.000]  Is it fraught with danger?
+[00:13:02.080 --> 00:13:03.200]  Could it become a new Vietnam?
+[00:13:03.360 --> 00:13:04.320]  Certainly.
+[00:13:05.200 --> 00:13:18.080]  And so I understand that Trump's reasons for regime change, but I've said he should be wary of it because it is a potential quagmire quicksand situation.
+[00:13:18.320 --> 00:13:20.639]  We will continue to watch all of that as it unfolds.
+[00:13:20.720 --> 00:13:25.040]  Trump declares Venezuela airspace completely closed after land strikes.
+[00:13:26.240 --> 00:13:27.600]  Stay away from Venezuela.
+[00:13:27.840 --> 00:13:29.440]  Trump warns airlines.
+[00:13:29.759 --> 00:13:31.360]  Here's his actual statement on TrueSocial.
+[00:13:31.440 --> 00:13:38.879]  To all airlines, pilots, drug dealers, and human traffickers, please consider the airspace above and surrounding Venezuela to be closed in its entirety.
+[00:13:39.040 --> 00:13:44.320]  Thank you for your attention to this matter, President John Trump.
+[00:13:44.639 --> 00:13:54.560]  Now, I'll get more into that in a little while, but first let's get into the situation with the sedition six and the whole Podesta plan they've been trying to roll out.
+[00:13:55.840 --> 00:14:06.480]  There are countless videos of this in the last eight, nine months as ICE rolled out and expanded its role, was able to recruit more people and reopen detention centers.
+[00:14:06.640 --> 00:14:13.680]  There's been a ratcheting up because Biden had basically shut down all their law enforcement infrastructure on that.
+[00:14:14.320 --> 00:14:16.240]  But I'm just going to play a few examples of this.
+[00:14:16.560 --> 00:14:31.840]  People like Don Lemon implying that the Border Patrol, National Guard, ICE are doing illegal things and targeting American citizens.
+[00:14:32.160 --> 00:14:32.879]  This is what you've heard.
+[00:14:33.120 --> 00:14:34.080]  What ICE is doing is illegal.
+[00:14:34.160 --> 00:14:35.680]  What Border Patrol is doing is illegal.
+[00:14:35.840 --> 00:14:37.519]  What National Guard's doing is illegal.
+[00:14:37.840 --> 00:14:41.279]  They try to go block it in court, and the courts say it's totally illegal.
+[00:14:41.600 --> 00:15:04.000]  If you're arresting illegal aliens with court orders, if you're getting them when they come out of jail, because the local sanctuary cities won't even notify the feds, if you're picking people up at Home Depot that don't have IDs that aren't citizens, that's totally in the Constitution and not just the right, the duty of the president to faithfully execute his duties to protect, preserve, and defend the Constitution.
+[00:15:04.160 --> 00:15:12.480]  But they put out this idea that they're Nazis and they're fascists and they're tyrants and that, oh, the National Guard's going to kill everybody.
+[00:15:12.640 --> 00:15:14.480]  And, oh, the National Guard's going to get violent.
+[00:15:14.560 --> 00:15:15.920]  They're going to shoot people.
+[00:15:16.800 --> 00:15:19.360]  Even before Trump got in, they were saying this.
+[00:15:20.000 --> 00:15:27.759]  And then now when the National Guard gets killed, oh, well, it's not an Islamist, you know, it's not because we demonized the National Guard.
+[00:15:28.080 --> 00:15:30.400]  But I wanted to play you just back to back here.
+[00:15:30.720 --> 00:15:38.080]  Don Lemon a few months ago, and I said that this would definitely lead to National Guard ending up getting shot at and or killed or both.
+[00:15:38.640 --> 00:15:46.240]  Then we'll give you just a few examples of people celebrating the shooting and killing of the National Guard.
+[00:15:47.120 --> 00:15:50.879]  There's countless examples of this, but I'm just going to play a few.
+[00:15:51.679 --> 00:16:03.840]  And then an excellent two minutes of the deputy chief of staff, Stephen Miller, explaining what the seditious six are really up to and really what's behind that.
+[00:16:04.159 --> 00:16:05.199]  Tim Poole gets it.
+[00:16:05.360 --> 00:16:07.679]  We'll then get into his statements on that as well.
+[00:16:07.759 --> 00:16:08.879]  But this is all premeditated.
+[00:16:08.960 --> 00:16:11.279]  Remember, that's my opinion.
+[00:16:11.360 --> 00:16:12.159]  You've seen it all play out.
+[00:16:12.240 --> 00:16:16.399]  But remember, I'm the guy that's been hammering the Podesta plan even before Trump got re-elected.
+[00:16:16.480 --> 00:16:19.120]  I said this would be their plan because they say it's their plan.
+[00:16:19.439 --> 00:16:28.399]  And knowing about their plan, getting ahead of their plan with the public, so the public doesn't just sit here as each new layer and each new phase is rolled out.
+[00:16:28.720 --> 00:16:32.559]  You just skip right to who's behind it, and it's game over.
+[00:16:32.720 --> 00:16:34.639]  And that's what the numbers and the polls are showing.
+[00:16:34.960 --> 00:16:40.079]  The public is not buying this, especially when they ask the seditious six and others, well, what has he done that's illegal?
+[00:16:40.240 --> 00:16:41.759]  What's the illegal order?
+[00:16:42.079 --> 00:16:53.679]  But they put the impetus on the soldiers as if they should know and they should understand and they should just believe these are only legal orders, even though that's up to the courts and the courts have clearly said it's not.
+[00:16:54.559 --> 00:17:04.559]  Cutting the police in half, putting Soros DAs and judges in that let violent criminals out, creating crime waves to destabilize the country for collapse for Cloud and Piven.
+[00:17:04.960 --> 00:17:13.440]  That is the violent, unlawful, lawless, chaos-creating system by design of destabilization, of demoralization.
+[00:17:13.599 --> 00:17:28.639]  And then saying when the president does light band-aids, a couple hundred National Guard here, a couple hundred there, most of the time not even armed, crime goes way down just because the visibility, because the police have been told to stand down in most of those cities to degree, sometimes completely.
+[00:17:28.960 --> 00:17:34.639]  And if they do defend themselves, many cases, the Soros DAs will throw them in prison.
+[00:17:35.279 --> 00:17:44.079]  And that's why we have the governor of Oregon saying we're going to criminally charge the feds because they're attacking citizens, which they're not.
+[00:17:45.039 --> 00:17:46.400]  It's the National Guard getting shot.
+[00:17:46.480 --> 00:17:47.599]  It's the Board Patrol being shot.
+[00:17:47.680 --> 00:17:48.400]  It's ICE being shot.
+[00:17:48.480 --> 00:17:49.519]  It's their vehicles being shot.
+[00:17:49.839 --> 00:17:53.039]  They're the ones having people attack them and come to their homes and dox them.
+[00:17:54.240 --> 00:17:55.839]  It's the left engaged in the violence.
+[00:17:55.920 --> 00:18:00.559]  We all know that, but they imply that the guard is doing all this stuff.
+[00:18:01.200 --> 00:18:15.200]  But if they activate all their communist and Islamic and leftist and anti-folk cells and burn down the country, which is the Podesta Plan, they're going to bill them as the victims and build the response as Hitler 2.0.
+[00:18:16.480 --> 00:18:17.920]  That's why I said we got to get ahead of this.
+[00:18:18.079 --> 00:18:20.000]  And the good news is people are ahead of it.
+[00:18:20.319 --> 00:18:37.440]  And they thought by now, having cinder blocks thrown at them, being shot at in Chicago, their vehicles being shot up in Dallas, on and on and on, they thought by now, with Trump getting shot at and shot and all of this, that the National Guard or somebody would have made a mistake.
+[00:18:37.680 --> 00:18:38.880]  The police would have made a mistake.
+[00:18:39.039 --> 00:18:41.039]  We at least get a George Floyd somewhere.
+[00:18:41.359 --> 00:19:00.960]  But after all these months of rioting around the country, LA, you name it, after all the insanity of police trapped under underpasses with cinder blocks, crushing their vehicles and bouncing off their helmets and all the rest of it, that the police wouldn't overreact, but would react and shoot back.
+[00:19:01.279 --> 00:19:06.639]  But they've been so restearing now the left look like absolute tyrants that they are.
+[00:19:06.960 --> 00:19:08.720]  So these are amazing clips.
+[00:19:09.039 --> 00:19:10.240]  They're self-explanatory.
+[00:19:10.319 --> 00:19:12.480]  So I'm going to play a bunch of them in a row here.
+[00:19:12.799 --> 00:19:18.400]  So let's play clip 20, then 31, then 102.
+[00:19:19.039 --> 00:19:20.000]  There's a lot of them.
+[00:19:21.519 --> 00:19:26.720]  116 and then 86.
+[00:19:26.799 --> 00:19:29.599]  And this is a key one.
+[00:19:29.759 --> 00:19:31.119]  Number 200 is important.
+[00:19:31.440 --> 00:19:31.920]  Oh, yeah.
+[00:19:32.160 --> 00:19:33.519]  That's how much research I did.
+[00:19:33.680 --> 00:19:34.720]  The poor crew, I sent it to him.
+[00:19:34.799 --> 00:19:36.240]  They try to get it all organized.
+[00:19:36.559 --> 00:19:37.440]  Color revolution.
+[00:19:37.519 --> 00:19:48.720]  And Air Force member says he isn't proud to serve a country that deports immigrants, illegal immigrants, from what he calls stolen land, total lepers, brainwashing, which fits the type of airmen and sedition six are targeting.
+[00:19:49.039 --> 00:19:53.359]  So they reach out to these weak-minded people as if it's their job, their duty, to stand up for this illegal activity.
+[00:19:53.519 --> 00:19:54.799]  They're already pre-brainwashed.
+[00:19:55.119 --> 00:20:00.879]  And now that shows the dissent, the deceit for the mutiny into the ranks.
+[00:20:01.519 --> 00:20:10.240]  And then, of course, we've got the senator Slotkin, a compilation of her in the last few months, saying the National Guard's going to kill you.
+[00:20:10.879 --> 00:20:13.359]  This is going to trigger violence.
+[00:20:13.680 --> 00:20:16.159]  But it's actually the other way around, as you now notice.
+[00:20:16.399 --> 00:20:18.720]  So here she is saying it's illegal what Trump's doing.
+[00:20:18.960 --> 00:20:21.599]  Here she is saying they're targeting citizens.
+[00:20:21.920 --> 00:20:23.599]  And that's what the governor of Oregon, all of them say.
+[00:20:23.680 --> 00:20:24.639]  It's the same talking point.
+[00:20:24.960 --> 00:20:28.000]  Then later they put out a video that just says, oh, if it's illegal, don't follow it.
+[00:20:28.079 --> 00:20:30.000]  Well, they've already been saying it's all illegal.
+[00:20:30.319 --> 00:20:32.720]  So they're saying Trump's giving legal orders.
+[00:20:33.519 --> 00:20:36.319]  They don't actually say it in the video, but they do say it's your duty.
+[00:20:36.639 --> 00:20:39.119]  They're targeting citizens to stand up and resist this.
+[00:20:39.440 --> 00:20:41.920]  You must take action and don't give up the ship.
+[00:20:42.639 --> 00:20:49.119]  Again, here's the governor, Tina Kotech.
+[00:20:50.079 --> 00:20:51.359]  And she says, you're targeting citizens.
+[00:20:51.440 --> 00:20:52.720]  We're putting you all in prison.
+[00:20:53.039 --> 00:20:55.200]  And you've seen Hageam Jeffries say that, and we know who you are.
+[00:20:55.279 --> 00:20:56.000]  We're coming for you.
+[00:20:56.319 --> 00:20:58.480]  So these are extremely powerful clips.
+[00:20:58.799 --> 00:20:59.759]  They all go together.
+[00:21:00.079 --> 00:21:02.480]  I may stop and start a little bit, but here they are.
+[00:21:03.680 --> 00:21:13.839]  Black people, brown people of all stripes, whether you're an Indian American or a Mexican American or whoever you are, go out in your plate where you live.
+[00:21:14.079 --> 00:21:15.039]  Trying to get a racial uprising.
+[00:21:15.920 --> 00:21:16.720]  Yes, but that's the plan.
+[00:21:17.039 --> 00:21:20.000]  Legally, get a license to carry legally.
+[00:21:20.319 --> 00:21:29.279]  Because when you have people knocking on your door and taking you away without due process, start over again.
+[00:21:29.599 --> 00:21:29.920]  I don't know.
+[00:21:30.000 --> 00:21:32.720]  I have to analyze each clip because this is all scripts that are given to them.
+[00:21:32.799 --> 00:21:36.559]  They've now admitted they're being given scripts by the CIA and then Funda Thusoros.
+[00:21:37.519 --> 00:21:53.200]  Notice he says, go out and get a concealed carry legally to say the word legal, legal, legal, so that dumbed-down leftists think, oh, it's legal what he's about to say, then wait for him at your house and shoot the Border Patrol or National Guard or ICE.
+[00:21:54.480 --> 00:21:57.680]  So he's saying it's legal, legal, legal when they listen.
+[00:21:57.759 --> 00:22:00.079]  He says legal, legal, legal, legal gun, which is true.
+[00:22:01.119 --> 00:22:02.720]  He's saying it's citizens that are being targeted.
+[00:22:02.799 --> 00:22:03.119]  They're not.
+[00:22:03.200 --> 00:22:05.599]  He really means illegal aliens, which isn't legal.
+[00:22:05.920 --> 00:22:13.279]  Then he says, because they're targeting citizens, which they're not, but that's the hoax they keep running.
+[00:22:14.559 --> 00:22:20.000]  And then he says, and then defend yourself against these unlawful things when they don't have warrants.
+[00:22:20.159 --> 00:22:24.400]  Well, it's not warrants, usually, unless they're raiding a drug house or sex house, slavery or whatever.
+[00:22:24.559 --> 00:22:25.440]  They have some of those too.
+[00:22:25.599 --> 00:22:26.240]  A lot of them.
+[00:22:26.559 --> 00:22:30.960]  It's a court order that's legal from an immigration court.
+[00:22:31.279 --> 00:22:32.639]  So all this is written by lawyers.
+[00:22:32.799 --> 00:22:34.720]  And I have hundreds of these clips, literally hundreds that I've watched.
+[00:22:34.799 --> 00:22:35.680]  I've played them on the show.
+[00:22:36.319 --> 00:22:38.159]  But notice it's always the same formula.
+[00:22:38.240 --> 00:22:40.400]  They're manipulating here to deceive you.
+[00:22:40.480 --> 00:22:41.680]  So start it over and then I'm going to stop.
+[00:22:41.759 --> 00:22:44.879]  But notice, you'll hear the same lies over and over again throughout these clips.
+[00:22:44.960 --> 00:22:46.159]  Go ahead and roll it.
+[00:22:46.799 --> 00:23:00.480]  Black people, brown people of all stripes, whether you're an Indian American or a Mexican American or whoever you are, go out in your plate where you live and get a gun legally.
+[00:23:00.720 --> 00:23:03.119]  Get a license to carry legally.
+[00:23:03.440 --> 00:23:14.400]  Because when you have people knocking on your door and taking you away without due process as a citizen, isn't that what the Second Amendment was written for?
+[00:23:14.960 --> 00:23:20.159]  News, National Guard member just got shot today, and that shit is, it's a good fucking wake-up.
+[00:23:20.480 --> 00:23:24.079]  So now y'all know your job title is no longer oppressing people.
+[00:23:24.400 --> 00:23:26.319]  You can get belt to your ass too.
+[00:23:26.559 --> 00:23:27.680]  It could be you too.
+[00:23:28.000 --> 00:23:30.000]  So I hope it's harder for you to sleep at night.
+[00:23:30.159 --> 00:23:40.159]  And I hope you stand on your motherfucking swivel as you refuse to quit serving this motherfucking dictator whose illegal orders to keep you all in DC are unconstitutional anyway.
+[00:23:40.480 --> 00:23:41.119]  Think about it.
+[00:23:41.279 --> 00:23:44.079]  Are you ready to see some just fucking disgusting shit?
+[00:23:44.319 --> 00:23:47.680]  Shout out to the Patriot who kirked two federal agents near the White House.
+[00:23:47.759 --> 00:23:50.400]  This is exactly how we need to be dealing with violent dictatorships.
+[00:23:50.720 --> 00:23:54.559]  Ladies and gentlemen, let me introduce you to Dante or not Dante.
+[00:23:54.879 --> 00:23:56.480]  That's Dante Bastian.
+[00:23:56.559 --> 00:24:03.599]  And I usually don't like calling people out by their actual name, but fuck this guy.
+[00:24:03.920 --> 00:24:08.400]  Dante is a station specialist at Hearst Media Production.
+[00:24:08.720 --> 00:24:10.960]  So I actually have a question for Hearst.
+[00:24:11.279 --> 00:24:14.079]  Is this really the people you have working for you?
+[00:24:14.400 --> 00:24:17.920]  Do you understand how fucking bad that makes your company look?
+[00:24:18.240 --> 00:24:26.480]  You have people working for you that advocate and celebrate the murder of military members.
+[00:24:26.799 --> 00:24:32.400]  Fuck Dante Bastian and fuck Hearst Media Production for letting that fucking idiot work there.
+[00:24:32.720 --> 00:24:41.920]  And it's crazy too, because I never thought I would see people on the left actually celebrating the murder of military members.
+[00:24:42.240 --> 00:24:43.759]  But you guys actually do.
+[00:24:44.079 --> 00:24:45.920]  You do celebrate that shit.
+[00:24:46.240 --> 00:24:51.599]  Now, I'm not going to say all Democrats are domestic terrorists because they're not.
+[00:24:51.920 --> 00:25:00.699]  But a lot of the people that support the Democrats, I feel like there's a very high probability that they are domestic terrorists.
+[00:25:06.570 --> 00:25:15.369]  Well, they should be held accountable under the law and under the Uniform Code of Military Justice for a seditious conspiracy against the United States of America.
+[00:25:15.839 --> 00:25:19.200]  This is completely open and shut, straightforward.
+[00:25:19.519 --> 00:25:20.960]  What is the motivation?
+[00:25:21.279 --> 00:25:50.400]  Why would six members of Congress, selecting specifically for individuals with a CIA or military background, record a carefully written, carefully produced, slickly edited video messaging directly to members of our clandestine services and our armed forces, telling them to disobey orders from their superiors, telling them that they should individually determine whether an order is legal or illegal and defy it.
+[00:25:50.720 --> 00:25:54.000]  Individuals who are exercising life and death power.
+[00:25:54.319 --> 00:26:00.319]  The CIA engages in covert missions all over the world involving life and death decisions.
+[00:26:00.639 --> 00:26:07.759]  The armed forces launches life-taking missions time and time again.
+[00:26:08.079 --> 00:26:09.599]  They carry weapons.
+[00:26:09.920 --> 00:26:11.279]  They control drones.
+[00:26:11.519 --> 00:26:12.799]  They control missiles.
+[00:26:13.119 --> 00:26:14.880]  They work on nuclear submarines.
+[00:26:15.200 --> 00:26:21.279]  For what purpose would you ever deliver this message, as you said, is to create a color revolution.
+[00:26:21.519 --> 00:26:28.160]  It is the CIA playbook for trying to foment insurrection from within the military and within the CIA.
+[00:26:28.319 --> 00:26:37.359]  Look, we saw after Charlie Kirk was assassinated, Jesse, members of the armed forces openly celebrating his murder.
+[00:26:37.680 --> 00:26:39.039]  So think about that for a second.
+[00:26:39.359 --> 00:26:56.880]  You have people in the armed forces, and it can be a tiny, tiny percentage, but who celebrated the assassination of Charlie Kirk, and then now they're getting a message from Kelly and from other members of Congress saying, defy your commanders.
+[00:26:57.200 --> 00:27:00.000]  Rise up and defy your superiors.
+[00:27:00.319 --> 00:27:02.319]  That kind of language will get people killed.
+[00:27:02.559 --> 00:27:04.319]  It endangers our national security.
+[00:27:04.880 --> 00:27:07.839]  It is dangerously radicalizing.
+[00:27:08.160 --> 00:27:12.079]  And it has all of the evidence of willfulness and intent.
+[00:27:12.400 --> 00:27:16.559]  And when they go on TV and they say, well, we can't name an order as illegal, that proves the point.
+[00:27:16.880 --> 00:27:18.240]  It was never about the law.
+[00:27:18.400 --> 00:27:20.400]  It was breaking down the chain of command.
+[00:27:20.639 --> 00:27:39.519]  The Democrat Party is openly engaged every day in trying to tear down democracy, whether it be judges who are binding the president with unlawful orders, releasing violent criminals back onto the street, trying to cement and protect the illegal alien invasion of America, and now fomenting rebellion inside the ranks of our armed forces and CIA.
+[00:27:39.759 --> 00:27:40.000]  Yeah.
+[00:27:40.960 --> 00:27:50.559]  Ladies and gentlemen, let me just stress that this story that is emerging may be one of the most horrifying that I have seen in a long time.
+[00:27:51.519 --> 00:27:54.799]  You may be wondering what this image I have on screen is.
+[00:27:55.360 --> 00:28:06.079]  It is part of a campaign to create factions within the military to defy Donald Trump and foment civil war or a military coup.
+[00:28:06.880 --> 00:28:08.559]  I'm not exaggerating.
+[00:28:08.880 --> 00:28:12.559]  To be fair, to hammer everything looks like a nail.
+[00:28:12.880 --> 00:28:18.319]  But for what purpose have been Democrats calling on people to, quote, pick an effing side?
+[00:28:18.640 --> 00:28:21.120]  That's a senator from Connecticut who said that.
+[00:28:21.759 --> 00:28:35.600]  For what purpose have been Democrats, have Democrats been calling all of Trump's orders illegal, dictatorial, fascistic, and then calling on servicemen and women to defy the chain of command?
+[00:28:36.240 --> 00:28:37.600]  This makes no sense.
+[00:28:37.920 --> 00:28:45.360]  If it's no big deal the National Guard were deployed to our city streets, I'm not doing anything, but picking up trash, why do Democrats pretend to care?
+[00:28:46.000 --> 00:28:46.960]  Here's the story.
+[00:28:47.279 --> 00:28:52.720]  These billboards have been popping up reportedly across the country.
+[00:28:53.039 --> 00:28:57.680]  It says, did you go airborne just to poll security for ICE?
+[00:28:58.319 --> 00:29:00.960]  Not what you signed up for.org.
+[00:29:01.600 --> 00:29:02.799]  This is illegal.
+[00:29:03.120 --> 00:29:04.400]  It is a crime.
+[00:29:04.960 --> 00:29:06.720]  I'm not exaggerating nor being cute.
+[00:29:06.799 --> 00:29:08.400]  I have the law pulled up.
+[00:29:09.360 --> 00:29:19.039]  This is an effort to foment factions within the military ranks so that they defy the chain of command.
+[00:29:19.360 --> 00:29:22.799]  Secretary of War or the president himself.
+[00:29:23.440 --> 00:29:26.640]  I'm going to show you exactly where this goes.
+[00:29:26.960 --> 00:29:29.840]  We're going to pull up this website, but I need to say this right now.
+[00:29:30.160 --> 00:29:49.440]  If Donald Trump and Pete Hegseth and the DOJ do not go after these people that are putting up these messages, this is the biggest, the most impactful escalation towards civil war we have ever seen in our generation.
+[00:29:50.640 --> 00:29:59.440]  The fact that there are nonprofits being funded with billboard campaigns instructing our men and women in uniform to defy the chain of command.
+[00:30:00.079 --> 00:30:03.440]  And I'm not going to be cute with you guys.
+[00:30:04.079 --> 00:30:05.200]  We know the intention.
+[00:30:05.360 --> 00:30:10.960]  They're not explicitly saying, hey, don't do it, but you don't get to play this wink-wink nudge-nudge.
+[00:30:11.920 --> 00:30:12.720]  Here's the billboard.
+[00:30:12.799 --> 00:30:13.120]  You can see it.
+[00:30:13.279 --> 00:30:14.079]  Now, let's stop right here.
+[00:30:14.240 --> 00:30:14.960]  Hit pause.
+[00:30:15.279 --> 00:30:16.320]  Now, do you see the symbol?
+[00:30:16.480 --> 00:30:19.200]  And they've now confirmed the articles on force.com.
+[00:30:19.279 --> 00:30:22.640]  That's Soros NGO-funded military law task force.
+[00:30:22.799 --> 00:30:23.840]  Looks official.
+[00:30:24.160 --> 00:30:27.759]  It's a raised fist up above the Sergeant Chevron.
+[00:30:28.400 --> 00:30:29.360]  You see that?
+[00:30:30.000 --> 00:30:34.720]  And it's an alliance of blue and olive grab, acting like you're the good guys.
+[00:30:34.880 --> 00:30:36.640]  You're going to fight against all this.
+[00:30:36.960 --> 00:30:42.079]  Now, here is Senator Slotkin in the last month pre-programming this is illegal.
+[00:30:42.160 --> 00:30:42.880]  They're going to kill people.
+[00:30:43.039 --> 00:30:44.480]  The troops are dangerous.
+[00:30:44.799 --> 00:30:46.480]  This is the same talking point everywhere.
+[00:30:46.799 --> 00:30:52.240]  Then I'll show you the governor of Oregon saying the same thing.
+[00:30:52.559 --> 00:31:02.960]  And I'm going to show you the results of a brainwashed person that's obviously an ROTC out of college, liberation theology, hates America, believes the whole country's evil, shouldn't even be allowed in the military with these attitudes, okay?
+[00:31:03.680 --> 00:31:06.799]  So go ahead and roll all three of these people.
+[00:31:07.120 --> 00:31:09.600]  Clip 13, 110, and 200 back-to-back.
+[00:31:09.680 --> 00:31:10.480]  Here it is.
+[00:31:11.360 --> 00:31:19.279]  As a CIA officer, the idea that intelligence officers could be asked to target Americans turns my stomach.
+[00:31:19.600 --> 00:31:23.360]  And it would shift us into a modern-day surveillance state.
+[00:31:24.320 --> 00:31:29.840]  Turning the federal government against Trump's enemies goes hand in hand with his use of force in the city.
+[00:31:30.079 --> 00:31:30.720]  Here, pause again.
+[00:31:30.880 --> 00:31:31.600]  Let's start it over.
+[00:31:31.920 --> 00:31:33.519]  Here she is a month ago.
+[00:31:34.160 --> 00:31:37.279]  The idea that Trump's going to target citizens turns her stomach.
+[00:31:37.760 --> 00:31:46.880]  When they said they're going to have a citizens' uprising with illegals, communists, Muslims, and others, when it's in the Podesta plan, it's in the movies they've put out, they're promoting it everywhere.
+[00:31:47.520 --> 00:32:00.960]  And then again, when they then target and then they then push against lawful actions, and then Trump responds, which you're then as a citizen, supposed to get in trouble for a citizen conspiracy, then you see it's a self-fulfilling prophecy.
+[00:32:01.200 --> 00:32:02.560]  They think you're stupid.
+[00:32:02.800 --> 00:32:05.920]  They need to soft-roll and soft-launch the coup.
+[00:32:06.080 --> 00:32:11.440]  They need to undermine the commander-in-chief and so dissension ahead of making their action.
+[00:32:11.760 --> 00:32:14.000]  You know, I've harped on this for the last year, every day.
+[00:32:14.160 --> 00:32:15.040]  We're here now.
+[00:32:15.680 --> 00:32:16.160]  See?
+[00:32:16.800 --> 00:32:18.720]  But we're not flat-footed because of it.
+[00:32:19.040 --> 00:32:22.640]  I have tons of other incredibly important, interesting news, and I'll get to it, but this is so important.
+[00:32:22.960 --> 00:32:24.320]  Go ahead and start over with her.
+[00:32:25.840 --> 00:32:37.920]  As a CIA officer, the idea that intelligence officers could be asked to target Americans turns my stomach and it would shift us into a modern-day surveillance state.
+[00:32:38.880 --> 00:32:47.680]  Turning the federal government against Trump's enemies goes hand in hand with his use of force in American cities, both federal law enforcement and the military.
+[00:32:48.000 --> 00:32:55.360]  As of today, the president has attempted to deploy more than 7,000 National Guard members across five cities, including right here in Washington.
+[00:32:55.680 --> 00:33:12.640]  In August, the administration ordered the creation of two new National Guard units: a standing quick reaction force that can deploy anywhere in the country, and then separately, National Guard units in all 50 states focused on quelling so-called civil disturbances.
+[00:33:13.280 --> 00:33:17.360]  At this point, Trump has been very clear about his intent.
+[00:33:17.680 --> 00:33:24.720]  At Quantico, speaking as commander-in-chief, he instructed his military brass to use cities as quote training grounds.
+[00:33:25.040 --> 00:33:33.760]  And many times, he's floated the idea of invoking the Insurrection Act so that military units can raid, detain, and arrest Americans.
+[00:33:34.080 --> 00:33:38.480]  The president has already deployed ICE and other federal law enforcement cities across America.
+[00:33:38.880 --> 00:33:39.280]  Pause again.
+[00:33:40.720 --> 00:33:44.560]  In 1992, in the LA riots, George Herbert Walker Bush did that.
+[00:33:44.880 --> 00:33:47.040]  Everybody welcomed him in and then they left.
+[00:33:47.680 --> 00:33:49.520]  The Democrats, remember, I'm the police state expert.
+[00:33:49.680 --> 00:33:51.520]  Democrats are like, why is he suddenly loaded with the police state?
+[00:33:51.680 --> 00:33:54.560]  The Democrats were caught because the military gave us information in law enforcement.
+[00:33:54.880 --> 00:33:57.840]  I was the big guy to put it out because I had a big show then.
+[00:33:58.000 --> 00:33:58.240]  That was all.
+[00:33:58.320 --> 00:33:59.600]  They were given everybody.
+[00:33:59.920 --> 00:34:06.400]  We had leaks about 29 Palms, the Marines, all of it, where they were training for gun confiscation and taking over the states.
+[00:34:06.560 --> 00:34:09.600]  Remember, they went and blew up Waco and killed everybody to set the precedent.
+[00:34:09.920 --> 00:34:11.120]  Ruby Ridge, remember all that?
+[00:34:11.360 --> 00:34:14.480]  They were preparing to fight the constitutional terrorist.
+[00:34:16.400 --> 00:34:18.320]  But the military didn't go along with it.
+[00:34:18.640 --> 00:34:20.320]  This is the military doing its duty.
+[00:34:20.559 --> 00:34:21.760]  All of this is constitutional.
+[00:34:22.000 --> 00:34:24.720]  They're the ones starting it all and trying to get ahead of it, misrepresenting it.
+[00:34:24.880 --> 00:34:26.880]  I know most of you know this, but this is so key.
+[00:34:27.120 --> 00:34:28.079]  Let's go back to her.
+[00:34:29.600 --> 00:34:37.120]  These federal officers are playing fast and loose with their tactics, which sooner or later could lead to a deadly escalation.
+[00:34:37.440 --> 00:34:39.840]  The videos out of Chicago are shocking.
+[00:34:40.320 --> 00:34:40.640]  Pause again.
+[00:34:40.960 --> 00:34:41.840]  Back her up 20 seconds.
+[00:34:41.920 --> 00:34:42.960]  This is too insane.
+[00:34:43.600 --> 00:34:45.120]  They're the ones saying they're terrorists.
+[00:34:45.280 --> 00:34:46.480]  They're the ones saying attack them.
+[00:34:46.720 --> 00:34:48.160]  They're the ones saying get guns and fight them.
+[00:34:48.320 --> 00:34:49.920]  They're the ones saying what they're doing is unlawful.
+[00:34:50.079 --> 00:34:51.760]  They're the ones all over the corporate news saying that.
+[00:34:51.840 --> 00:34:53.680]  You've seen it a million times.
+[00:34:54.320 --> 00:35:10.400]  They're the ones where four ICE people go out to arrest a child molester, drug dealer, you name it, and hundreds of people, because they have apps and task forces in Chicago and New York and LA to then swarm them, scream at them, throw things at them, attack them, ram their vehicles.
+[00:35:10.720 --> 00:35:20.480]  They're the ones creating the escalation, saying they're doing it, hoping that ICE and others just respond like they're supposed to and be kicking their ass or shooting back when they're shot at.
+[00:35:20.720 --> 00:35:24.079]  Instead, when they get shot at, they flee if they've been ordered don't escalate.
+[00:35:24.640 --> 00:35:30.640]  So they're doing the opposite, showing massive, saint-like restraint.
+[00:35:31.119 --> 00:35:38.960]  But notice they were already putting the narrative out that when this shooting happens, Trump's come to kill the migrants.
+[00:35:39.280 --> 00:35:40.400]  Trump's come to kill the liberals.
+[00:35:40.480 --> 00:35:43.280]  Remember, this is what I've told you a thousand times at least.
+[00:35:43.599 --> 00:35:44.960]  So it's just, it's just incredible.
+[00:35:45.440 --> 00:35:46.480]  Please continue.
+[00:35:47.760 --> 00:35:49.360]  And arrest Americans.
+[00:35:49.920 --> 00:35:55.039]  The president has already deployed ICE and other federal law enforcement to these same cities across America.
+[00:35:55.360 --> 00:36:04.639]  In some cases, these federal officers are playing fast and loose with their tactics, which sooner or later could lead to a deadly escalation.
+[00:36:04.960 --> 00:36:07.599]  The videos out of Chicago are shocking.
+[00:36:07.840 --> 00:36:13.039]  Federal agents pulling their weapons on highways, firing tear gas into neighborhoods right before.
+[00:36:13.519 --> 00:36:14.320]  I'm sorry, stop it again.
+[00:36:14.480 --> 00:36:15.280]  Back it up 10 seconds.
+[00:36:15.440 --> 00:36:16.320]  This is just each part of this.
+[00:36:16.400 --> 00:36:18.400]  I teach a college course on lies just here.
+[00:36:19.599 --> 00:36:21.679]  There's been at least eight rammings.
+[00:36:22.639 --> 00:36:26.480]  Multiple times their vehicles have been shot up, throwing cinder blocks, bottles.
+[00:36:26.639 --> 00:36:28.320]  I mean, literally, it's insane.
+[00:36:28.639 --> 00:36:38.720]  When they pulled their guns those two times, the corporate media would just show them pulling guns and not show the footage of people ramming them so hard that they're driving their vehicle 40 miles down the road.
+[00:36:39.039 --> 00:36:42.800]  I mean, just driving vehicles in the sidewalks, almost killing people.
+[00:36:44.320 --> 00:36:50.320]  And then she goes, the federal agents are shocking, pulling their guns and firing tear gas.
+[00:36:51.760 --> 00:36:52.559]  What are they supposed to do?
+[00:36:52.639 --> 00:36:56.480]  Take their body armor off and say, here, shoot me right here or lay down on the road so they can run them over.
+[00:36:58.000 --> 00:37:06.240]  This is such lying by omission, but she knows the MSNBC never shows the ramming, never shows the cinder blocks bouncing off their heads, never shows their vehicles shot up.
+[00:37:06.559 --> 00:37:10.880]  When they say 14 kids, some of them in sex slavery at that marijuana pot farm, remember?
+[00:37:11.039 --> 00:37:15.039]  They shot up their vehicle, shot them up, attacked, and ICE didn't even shoot back.
+[00:37:15.119 --> 00:37:16.320]  And they had bullet holes in their cars.
+[00:37:16.480 --> 00:37:21.840]  And then they would just cut after that and show them driving off fast and say, look how mean they are.
+[00:37:25.920 --> 00:37:27.760]  I mean, God, look at this CIA liar.
+[00:37:27.920 --> 00:37:32.400]  And she works directly for Brennan, who's directing so much of this.
+[00:37:32.480 --> 00:37:32.960]  It's come out.
+[00:37:33.119 --> 00:37:34.159]  Continue.
+[00:37:36.720 --> 00:37:39.920]  Which sooner or later could lead to a deadly escalation.
+[00:37:40.240 --> 00:37:42.880]  The videos out of Chicago are shocking.
+[00:37:43.199 --> 00:37:52.559]  Federal agents pulling their weapons on highways, firing tear gas into neighborhoods right before a Halloween parade, injuring and even killing civilians.
+[00:37:52.880 --> 00:37:56.400]  Many are masked, not wearing uniforms and driving unmarked cars.
+[00:37:56.720 --> 00:37:57.199]  Pause again.
+[00:37:58.079 --> 00:38:01.679]  Notice she keeps saying citizens, citizen, citizens.
+[00:38:01.760 --> 00:38:06.480]  Notice she now just went and even killing civilians.
+[00:38:07.760 --> 00:38:08.079]  What?
+[00:38:08.240 --> 00:38:10.880]  One guy shot at them so they shot him.
+[00:38:12.079 --> 00:38:15.199]  One guy jumped in front of them driving 70 miles an hour and died.
+[00:38:15.519 --> 00:38:16.720]  That's all they got.
+[00:38:17.039 --> 00:38:23.679]  But notice, oh, pulling guns and killing civilians, all mixing it together.
+[00:38:24.000 --> 00:38:26.880]  Total dislook at the shitty look on her face.
+[00:38:27.039 --> 00:38:30.559]  Look at that scumbag who thinks you're stupid, who thinks I'm stupid.
+[00:38:30.720 --> 00:38:31.679]  Continue.
+[00:38:34.559 --> 00:38:38.320]  Halloween parade, injuring and even killing civilians.
+[00:38:38.639 --> 00:38:43.039]  Many are masked, not wearing uniforms and driving unmarked cars.
+[00:38:43.280 --> 00:38:47.039]  For those of us who served abroad, it feels like another country.
+[00:38:47.360 --> 00:38:50.079]  And it's only a matter of time before things get worse.
+[00:38:50.400 --> 00:38:55.840]  By my estimation, we're about two weeks away from a bloody incident that spirals out of control.
+[00:38:56.159 --> 00:39:02.079]  And this is just the kind of incident that Trump wants to justify more force coming in.
+[00:39:02.639 --> 00:39:03.360]  Hello, Oregon.
+[00:39:03.519 --> 00:39:04.720]  Governor Kotek here.
+[00:39:05.039 --> 00:39:09.119]  I want to talk with you about something that should concern every one of us.
+[00:39:09.440 --> 00:39:14.000]  I believe, as you do, in the rule of law and keeping our community safe.
+[00:39:14.320 --> 00:39:20.720]  We also believe in being a welcoming place where our immigrant and refugee communities help our state thrive.
+[00:39:21.199 --> 00:39:37.519]  The ongoing violent actions of the federal department of homeland security are unacceptable, going after Oregonians and stoking fear in the name of immigration enforcement, but using excessive force, reckless tactics, and even putting bystanders and local law enforcement in danger.
+[00:39:37.759 --> 00:39:41.199]  It's not how public safety works, and it's not okay in Oregon.
+[00:39:41.519 --> 00:39:43.840]  No government agency is above the law.
+[00:39:44.159 --> 00:39:48.559]  I fully support the AG and local DAs who have put the federal government on notice.
+[00:39:48.880 --> 00:39:51.599]  Oregon is monitoring all ICE actions closely.
+[00:39:51.920 --> 00:39:53.360]  We will investigate misconduct.
+[00:39:53.599 --> 00:39:58.960]  And if federal officer breaks Oregon law, they will be held accountable, just like anyone else.
+[00:39:59.279 --> 00:40:03.599]  I will not tolerate reckless or unconstitutional behavior in our state.
+[00:40:03.920 --> 00:40:13.519]  While ICE activity has seen an uptick in recent weeks, so is the commitment of Oregonians to show up for each other, taking care of their neighbors, and standing up when they see something that isn't right.
+[00:40:13.759 --> 00:40:14.960]  Thank you for doing that.
+[00:40:15.279 --> 00:40:20.559]  Let's continue to work together to defend the safety, dignity, and rights of every Oregonian.
+[00:40:20.880 --> 00:40:21.840]  Thank you.
+[00:40:22.480 --> 00:40:25.599]  You heard all the same lies there, all the same implications.
+[00:40:27.119 --> 00:40:32.559]  And then you got people brainwashing college, getting the military, and they already hate America.
+[00:40:33.599 --> 00:40:36.960]  And this guy says what I'm being told to do is illegal because we're not supposed to be here.
+[00:40:37.039 --> 00:40:38.400]  We stole the land.
+[00:40:38.719 --> 00:40:39.920]  And now he is the president.
+[00:40:40.000 --> 00:40:41.920]  We didn't elect him, but he's going to make the decisions.
+[00:40:42.239 --> 00:40:43.199]  Look at this idiot.
+[00:40:43.279 --> 00:40:44.559]  He probably has an 80 IQ.
+[00:40:45.759 --> 00:40:47.119]  Listen to this moron.
+[00:40:49.199 --> 00:40:54.239]  Here in my hands, I have a written paper so it can be very articulate and clear about this message.
+[00:40:54.559 --> 00:40:56.480]  May 2nd, 2023.
+[00:40:56.719 --> 00:41:01.920]  I raised my hand and swore an oath to protect the Constitution and the land of the free with the people that reside within.
+[00:41:02.239 --> 00:41:06.639]  The immigrants paying U.S. taxes, building homes, working blue-collar jobs.
+[00:41:06.880 --> 00:41:08.480]  I swear to protect these people.
+[00:41:08.800 --> 00:41:09.679]  They are our people.
+[00:41:09.920 --> 00:41:23.679]  The ones that came into the U.S. authorized on a visa or green card, getting stripped away from families, undocumented children, losing parents, friends, siblings, pulled from homes to sit in a concrete room.
+[00:41:24.000 --> 00:41:25.119]  They are kids.
+[00:41:25.440 --> 00:41:26.480]  I don't need to be Hispanic.
+[00:41:26.719 --> 00:41:27.679]  Yeah, most of them smuggled in.
+[00:41:29.279 --> 00:41:32.159]  I wear the name United States across my chest daily.
+[00:41:32.480 --> 00:41:34.000]  I am a reflection of this country.
+[00:41:34.320 --> 00:41:36.400]  I'm not proud to say this is a country I'm serving.
+[00:41:36.559 --> 00:41:40.079]  It means destroying the lives of people that provide for this nation.
+[00:41:40.400 --> 00:41:43.360]  Yes, there is a legal process, but it can be better.
+[00:41:43.920 --> 00:41:49.440]  The colonists didn't have to pay thousands of dollars or get a visa to be on this stolen land.
+[00:41:50.079 --> 00:41:54.079]  I might lose the uniform I wear, but then what is the First Amendment?
+[00:41:57.840 --> 00:42:00.800]  Oh, and then he does the communists raised fists.
+[00:42:00.880 --> 00:42:01.920]  Well trained.
+[00:42:02.559 --> 00:42:07.679]  Well, the colonists were not immigrants.
+[00:42:08.960 --> 00:42:10.639]  They were settlers.
+[00:42:13.519 --> 00:42:20.559]  And when they got here, the Native tribes would come to them and say, if you don't help us attack the other tribe, we're not going to help you.
+[00:42:22.159 --> 00:42:29.119]  And if you compare Europeans to the Native Americans, we've been just as tribal before Christianity as them.
+[00:42:29.360 --> 00:42:30.400]  Acted just the same.
+[00:42:30.719 --> 00:42:32.000]  By the way, I'm part Native American.
+[00:42:32.079 --> 00:42:40.880]  I'm not putting down people of that descent, but I mean, if you actually study it, it's ridiculous how barbarous and violent most of the tribes were.
+[00:42:41.519 --> 00:42:46.320]  And if it was good land, that was where the meanest, toughest people were at, because they had to fight for it.
+[00:42:46.639 --> 00:42:52.000]  Countries, areas, nations, systems, wildlands are conquered.
+[00:42:52.239 --> 00:42:54.800]  And the globalists are conquering our country.
+[00:42:55.360 --> 00:42:56.800]  And they know it.
+[00:42:58.000 --> 00:43:00.559]  Now, let's look at some more of what they've been up to here.
+[00:43:00.719 --> 00:43:01.039]  Look at this.
+[00:43:01.279 --> 00:43:05.279]  High school assistant principal and his brother arrested for plotting to kill ICE agents.
+[00:43:05.840 --> 00:43:16.719]  They were leaving where they were in Virginia and flying out to Vegas to buy explosives and guns to kill ICE and National Guard.
+[00:43:16.960 --> 00:43:20.239]  They are recorded bragging about how they were going to do it because they're the heroes.
+[00:43:20.480 --> 00:43:22.160]  They're fighting Hitler.
+[00:43:23.440 --> 00:43:24.080]  Dramatic moment.
+[00:43:24.240 --> 00:43:27.920]  Gunman who shot two National Guard members in their White House is tackled to the ground.
+[00:43:28.800 --> 00:43:33.120]  General Flynn calls for national address from Trump on color revolution.
+[00:43:33.280 --> 00:43:38.480]  That's what the globalists are launching: a color revolution and all that goes with it, a civil war.
+[00:43:38.800 --> 00:43:41.360]  That's from my interview last week that's going to mega viral.
+[00:43:43.519 --> 00:43:46.160]  So that's the reality here, ladies and gentlemen.
+[00:43:46.480 --> 00:43:47.680]  This is a longer report.
+[00:43:47.840 --> 00:43:48.960]  I think you should go watch it.
+[00:43:49.280 --> 00:43:50.640]  He does an excellent job.
+[00:43:50.960 --> 00:43:53.039]  Stephen Gardner boiling it all down.
+[00:43:53.360 --> 00:43:59.120]  At the end of this live broadcast, I'm going to air this little 12-minute report.
+[00:44:01.920 --> 00:44:02.880]  But that's where we are.
+[00:44:03.039 --> 00:44:05.200]  And here's the poor lady that was killed.
+[00:44:05.519 --> 00:44:14.720]  The other person's still in critical condition when an Afghan trained by the CIA under Biden was brought in.
+[00:44:14.880 --> 00:44:16.720]  And remember, it's the CIA element running all of this.
+[00:44:16.800 --> 00:44:18.640]  What were they really planning?
+[00:44:18.960 --> 00:44:19.360]  All right.
+[00:44:19.440 --> 00:44:21.760]  So that's the deep dive on that.
+[00:44:23.039 --> 00:44:23.920]  That's my frustration.
+[00:44:24.080 --> 00:44:26.800]  If you look at all these stacks here, again, it's not a prop.
+[00:44:27.120 --> 00:44:28.320]  I don't have all this stuff here.
+[00:44:28.480 --> 00:44:32.160]  Let me do a live shot to like just lay a bunch of papers on the table.
+[00:44:32.480 --> 00:44:38.320]  I could go into all of this stuff for you and spend hours and hours on each area.
+[00:44:38.400 --> 00:44:39.280]  And I'm trying my best.
+[00:44:39.360 --> 00:44:40.160]  Let me zoom out a little bit.
+[00:44:40.240 --> 00:44:40.880]  I'll show people.
+[00:44:41.200 --> 00:44:43.120]  Just all the stuff we've got here.
+[00:44:44.800 --> 00:44:50.240]  So people can get an idea of just how crazy all of this is.
+[00:44:51.440 --> 00:44:53.039]  Absolutely, totally insane.
+[00:44:53.280 --> 00:44:53.600]  All right.
+[00:44:53.760 --> 00:44:57.360]  Let me now move on to the next big stack here.
+[00:44:58.320 --> 00:45:03.519]  Because there is just so much.
+[00:45:04.160 --> 00:45:06.720]  Let's probably get to some of Trump's statements the last few days.
+[00:45:06.800 --> 00:45:12.240]  These are the most viral things he's ever posted on Truth Social, and it is Trump going to high gear.
+[00:45:12.560 --> 00:45:23.760]  Now that ties into the auto pin, the autopin overturned 92% of anything and everything Biden did done totally illegally.
+[00:45:23.840 --> 00:45:25.920]  That's been adjudicated and ruled.
+[00:45:26.560 --> 00:45:29.360]  It's still going to be wild to see them dismantling all of that.
+[00:45:29.680 --> 00:45:33.760]  We're really starting to see some major action as Trump realizes we're in an emergency.
+[00:45:33.840 --> 00:45:44.240]  He's got to do it through executive power because the DOJ is just full of traitors and weaklings and cowards with only a few good people in there, but still a lot better than it was before.
+[00:45:44.880 --> 00:45:52.000]  Mike Benns, a deep analysis, totally proves what I was already saying from looking at the evidence.
+[00:45:52.320 --> 00:46:05.600]  This is an important report coming up about how devastating it's been to have Doge pretty much dismantled and slowed down and how Trump needs to bring that roaring back and bring Elon back, which he's close to doing.
+[00:46:06.240 --> 00:46:10.320]  So we're going to get to that absolutely critical report as well.
+[00:46:10.960 --> 00:46:13.200]  The latest on the Trump peace deal with Russia.
+[00:46:13.519 --> 00:46:20.480]  The EU NATO is trying to block the incredible police state unfolding in the UK.
+[00:46:20.560 --> 00:46:22.160]  That's the model they want to bring here.
+[00:46:22.480 --> 00:46:30.480]  Some excerpts from Tucker Carlson's insane interview with Piers Morgan and so much more here today.
+[00:46:31.120 --> 00:46:38.800]  But before I go any further, ladies and gentlemen, hands down, we've already had some of the biggest sales ever.
+[00:46:39.039 --> 00:46:49.360]  The biggest sale in the history of thealxore.com, we'll just put the site up on screen for folks so I can show them, is live right now.
+[00:46:50.000 --> 00:46:50.640]  All right.
+[00:46:55.440 --> 00:46:58.160]  Now, the deal at realalxjones.com.
+[00:47:00.400 --> 00:47:00.800]  You know what?
+[00:47:00.880 --> 00:47:01.920]  We're going to go to break for a while.
+[00:47:02.079 --> 00:47:03.039]  We're going to go to break for a while.
+[00:47:03.120 --> 00:47:04.000]  I'm going to come back.
+[00:47:04.640 --> 00:47:05.519]  We're going to go to break.
+[00:47:05.600 --> 00:47:09.120]  I'm going to come back and talk about this because this is a big deal.
+[00:47:09.440 --> 00:47:10.640]  It's a really big deal.
+[00:47:10.960 --> 00:47:16.400]  If you go to realalxjones.com, that's a clone of thealxore.com, but there's different deals on each site.
+[00:47:16.560 --> 00:47:16.880]  Okay?
+[00:47:17.679 --> 00:47:25.920]  You can buy one bottle of any supplement at realalexjones.com and get any other supplement, including ones that cost more right now.
+[00:47:26.159 --> 00:47:29.360]  That's the sale that ended yesterday at thealxore.com.
+[00:47:29.599 --> 00:47:33.280]  The new sale only at thealxjonstore.com.
+[00:47:33.599 --> 00:47:35.360]  The alexjones store.com.
+[00:47:36.000 --> 00:47:37.920]  Let's go back to that front page.
+[00:47:39.199 --> 00:47:39.840]  We'll go to break.
+[00:47:52.449 --> 00:47:53.369]  I'll show you on my phone.
+[00:47:53.840 --> 00:47:55.119]  That's how I can do it.
+[00:47:55.759 --> 00:47:56.559]  You find my phone.
+[00:47:56.639 --> 00:47:57.679]  I'll do it that way.
+[00:47:58.000 --> 00:48:00.239]  Let me go to thealxon store.com.
+[00:48:00.559 --> 00:48:01.759]  I'll just show you on that.
+[00:48:02.719 --> 00:48:03.920]  I need to show you this.
+[00:48:04.800 --> 00:48:05.920]  And I can do it.
+[00:48:06.239 --> 00:48:08.639]  The alexjonestore.com.
+[00:48:08.719 --> 00:48:09.599]  They see that right there.
+[00:48:09.840 --> 00:48:10.559]  Look at that.
+[00:48:10.880 --> 00:48:11.519]  Look at that right there.
+[00:48:11.599 --> 00:48:12.320]  Oh, red shot.
+[00:48:12.800 --> 00:48:13.840]  Look at that.
+[00:48:14.159 --> 00:48:15.039]  I'm going to show you.
+[00:48:15.280 --> 00:48:16.079]  It's going to happen.
+[00:48:16.320 --> 00:48:17.280]  It's going to be a big day.
+[00:48:17.519 --> 00:48:18.480]  It's going to be a big moment.
+[00:48:18.800 --> 00:48:20.000]  It's going to be insane.
+[00:48:20.320 --> 00:48:20.960]  Look at that.
+[00:48:21.280 --> 00:48:28.459]  60% off store-wide, 60% off store-wide, 60% off store-wide.
+[00:48:29.569 --> 00:48:33.209]  Never done that deal before, ladies and gentlemen.
+[00:48:34.719 --> 00:48:36.079]  That is the biggest deal ever.
+[00:48:36.400 --> 00:48:40.800]  Not just on the supplements, but on the widest selection of Patriot Apparel and more.
+[00:48:42.320 --> 00:48:44.079]  So I need to take a break.
+[00:48:44.719 --> 00:48:46.000]  I just overdid it today.
+[00:48:46.159 --> 00:48:51.440]  I overprepared because I only shot seven or eight, I don't know, 10 reports Thursday and Friday.
+[00:48:51.519 --> 00:48:54.000]  I never take off two days, so I really didn't take off two days.
+[00:48:54.320 --> 00:48:57.199]  I sent the crew 500 different things, literally.
+[00:48:57.519 --> 00:48:58.719]  And we got here two hours before.
+[00:48:58.880 --> 00:49:02.400]  It's just too impossible to get it all together and get it all prepared.
+[00:49:02.719 --> 00:49:03.840]  My fault.
+[00:49:04.480 --> 00:49:05.599]  But I'm going to take a break.
+[00:49:05.679 --> 00:49:08.800]  Get up and walk around a little bit because I need to get refocused before I plan on the rest of this.
+[00:49:09.119 --> 00:49:11.199]  There's just so much because there's no teleprompter.
+[00:49:11.280 --> 00:49:12.800]  It's all right here in my head.
+[00:49:13.280 --> 00:49:16.320]  But I want to go ahead and just play some fun stuff here.
+[00:49:17.039 --> 00:49:18.320]  Let's play promo.
+[00:49:18.400 --> 00:49:22.079]  Sidney Sweeney releases new methylene blue good jeans ad.
+[00:49:22.960 --> 00:49:29.840]  There's a really funny two-minute promo folks made at Wars of the Info on X, Alex Jones rapping.
+[00:49:29.920 --> 00:49:31.039]  This is hilarious.
+[00:49:31.679 --> 00:49:34.480]  And then we got a couple of the little promos for you.
+[00:49:35.039 --> 00:49:38.960]  And then I am going to come back and I am going to nail it.
+[00:49:39.279 --> 00:49:43.119]  But again, ladies and gentlemen, I cannot fund this operation without you.
+[00:49:43.440 --> 00:49:44.880]  I need your support.
+[00:49:45.519 --> 00:49:47.920]  And these products are absolutely insane.
+[00:49:48.239 --> 00:49:56.559]  The ultra-methylene blue tincture, the pills, the CMOS, the trilogy, the bovine colostrum, all the t-shirts, everything is 60% off.
+[00:49:56.639 --> 00:49:57.679]  And we need the funds to operate.
+[00:49:57.920 --> 00:50:04.079]  We got to sell a lot of stuff with margins like this that are so small, but it works out because people then flood in.
+[00:50:04.320 --> 00:50:07.760]  And we sell so much that there's still some good money in there to run the operation.
+[00:50:07.920 --> 00:50:11.840]  And I need funds to battle the globalists, expand the Alex Jones Network studios that we're in.
+[00:50:11.920 --> 00:50:13.039]  We have a bigger studio downstairs.
+[00:50:13.199 --> 00:50:14.800]  Even bigger ones are being built right now.
+[00:50:15.119 --> 00:50:17.599]  But we've had to, you know, really been in a two-front war here.
+[00:50:17.679 --> 00:50:19.920]  And the only reason we're still on the air is because of you.
+[00:50:20.159 --> 00:50:20.800]  And I salute you.
+[00:50:20.880 --> 00:50:35.519]  And you notice how your support is really having a big effect because what we talk about two weeks ago, two weeks later, is always confirmed.
+[00:50:35.840 --> 00:50:43.119]  And we write many of the research and talking points and action plans literally that the White House develops.
+[00:50:43.440 --> 00:50:45.119]  And that is a real brain trust.
+[00:50:45.360 --> 00:50:46.800]  And it just shows how immersed we are.
+[00:50:46.880 --> 00:50:52.079]  But I got to tell you, this Islamic takeover, you're not hearing about it everywhere because it's some talking point of Republicans.
+[00:50:52.159 --> 00:50:53.840]  You're not hearing about it in Europe because it's some talking point.
+[00:50:54.079 --> 00:50:57.679]  They are activating and going into their offense mode, and that's part of Islam.
+[00:50:58.000 --> 00:51:02.639]  And out of these clips I've got, probably 100 that I sent to the crew.
+[00:51:02.960 --> 00:51:04.400]  How are you supposed to play 100 of these?
+[00:51:04.559 --> 00:51:07.599]  I just played like 10 clips that took 45 minutes.
+[00:51:08.079 --> 00:51:17.519]  I've got to somehow just do it because I have all the Islamicists from the Koran and then members of Congress, leaders, top imams saying, We're taking you over.
+[00:51:17.599 --> 00:51:18.720]  We'll take all your women and children.
+[00:51:18.800 --> 00:51:23.039]  And if you don't submit, we're going to kill you and America's ours and basically fuck you.
+[00:51:23.360 --> 00:51:25.039]  I mean, it is just wild.
+[00:51:25.360 --> 00:51:27.039]  This alone, I could do five hours on it.
+[00:51:27.119 --> 00:51:31.200]  I mean, seriously, it's probably 100 clips here of the 200 clips I sent in.
+[00:51:31.840 --> 00:51:35.519]  I mean, just each one is just over-the-top bonker town insane.
+[00:51:36.079 --> 00:51:37.760]  But we'll see.
+[00:51:38.880 --> 00:51:40.480]  Maybe I should just get to 10 of them or something.
+[00:51:40.639 --> 00:51:43.680]  I just, it's so, I hate not getting to all of it.
+[00:51:44.880 --> 00:51:50.800]  So I'm going to refocus here and come back with all the news.
+[00:51:50.880 --> 00:51:52.480]  Remember, you're the Paul Revere's.
+[00:51:52.800 --> 00:51:53.760]  This show belongs to you.
+[00:51:53.920 --> 00:51:54.880]  It's always been free to air.
+[00:51:54.960 --> 00:51:58.000]  I mean, you can re-upload it, cut it, edit it, use it, whatever.
+[00:51:58.159 --> 00:52:00.079]  It's a non-exclusive license to the whole world.
+[00:52:00.400 --> 00:52:03.039]  Same with everything I ever did on Infowars, that belongs to the world.
+[00:52:03.599 --> 00:52:10.400]  But it's up to you to take clips out of the show that you think are most important and to post them on TikTok and Rumble and X and everywhere else.
+[00:52:10.720 --> 00:52:15.680]  I mean, because there's such an awakening, even on YouTube, we're getting massive views every day for everybody else posting our stuff.
+[00:52:15.840 --> 00:52:16.800]  It's having a huge effect.
+[00:52:17.119 --> 00:52:20.800]  The globalist attempts to shut us up and shut us down failed because of you.
+[00:52:21.119 --> 00:52:23.680]  You know, the crew makes these really nice promos about me.
+[00:52:24.000 --> 00:52:33.680]  And I don't say make a promo or like a hero, but you know, all the cool stuff we're doing together is heroic in the face of the globalists, but it's all of us together that are doing that, not me.
+[00:52:34.320 --> 00:52:44.480]  And we need somebody to come up with promos and explain that it is the listeners and viewers that make all this possible because it really is you that is changing the world.
+[00:52:44.800 --> 00:52:46.960]  You have done all of this through your support.
+[00:52:47.119 --> 00:52:49.039]  All of our success is because of you.
+[00:52:49.360 --> 00:52:51.200]  We have no power without you.
+[00:52:51.519 --> 00:52:54.480]  ThealxjonStore.com, thealexonstore.com.
+[00:52:54.559 --> 00:52:55.760]  Oh, and I should add.
+[00:52:57.680 --> 00:53:03.039]  See, I forgot we were doing a sale two weeks ago, only Saturday and Sunday.
+[00:53:03.360 --> 00:53:07.680]  And I'm talking to Bigley, our sponsor, and saying, let's just send it to Monday at midnight because this is insane.
+[00:53:08.000 --> 00:53:09.599]  And there is record traffic on the site right now.
+[00:53:09.680 --> 00:53:11.280]  People are going, oh, they know.
+[00:53:12.079 --> 00:53:13.920]  And that's going to make a lot of this stuff sell out.
+[00:53:14.000 --> 00:53:18.000]  But it's a catch-22 because we want people on the fence who were trying to get them and see how great they are.
+[00:53:18.240 --> 00:53:21.280]  And if it's this low, that incentivizes people to get off the fence and get it.
+[00:53:21.599 --> 00:53:22.720]  It's very paradoxical.
+[00:53:22.880 --> 00:53:27.920]  But while supplies last, which should be about Monday afternoon or so, when we start selling out, we have to stop.
+[00:53:28.480 --> 00:53:30.320]  60% off right now.
+[00:53:30.559 --> 00:53:33.599]  So that's only running to tomorrow night for sure.
+[00:53:33.680 --> 00:53:35.519]  But I haven't had a chance to talk to them yet.
+[00:53:35.599 --> 00:53:36.559]  I sent a message this morning.
+[00:53:36.720 --> 00:53:38.320]  I want to go till Monday night at midnight.
+[00:53:38.400 --> 00:53:39.119]  I'm sure they'll do that.
+[00:53:39.280 --> 00:53:39.840]  But I don't own it.
+[00:53:39.920 --> 00:53:40.639]  So it's really up to them.
+[00:53:40.880 --> 00:53:43.760]  Thealxjonstore.com, thealexjonstore.com.
+[00:53:43.920 --> 00:53:48.159]  And I thank you for all you do and just everything and your support.
+[00:53:48.320 --> 00:53:53.519]  And when we make it through all this, whether InfoWars survives or not, that's a whole other story.
+[00:53:54.480 --> 00:54:01.440]  You tend to expand to like 19 hours a day from 5 a.m. to midnight every day, more shows, more reporters, more broadcasts, more crew.
+[00:54:01.680 --> 00:54:03.760]  And this crew is a skeleton crew, the best crew I've ever had.
+[00:54:03.840 --> 00:54:04.559]  They've been through hell.
+[00:54:04.800 --> 00:54:08.480]  And I salute them and I thank them for everything they do because it's totally unorthodox.
+[00:54:09.039 --> 00:54:10.720]  Other programs, they all pre-program it.
+[00:54:10.880 --> 00:54:11.440]  It's an hour long.
+[00:54:11.599 --> 00:54:11.920]  They come in.
+[00:54:12.000 --> 00:54:12.880]  It's all scripted.
+[00:54:13.200 --> 00:54:14.639]  Everything's ready to go.
+[00:54:14.960 --> 00:54:17.680]  Even a person says of a teleprompter, they still go off all their notes.
+[00:54:18.000 --> 00:54:18.400]  Not here.
+[00:54:18.480 --> 00:54:22.159]  I just come and say, here's 200-plus video clips and here's 300 news articles.
+[00:54:22.240 --> 00:54:23.039]  And here they all are.
+[00:54:23.200 --> 00:54:25.200]  Let's get them together and just get ready.
+[00:54:26.400 --> 00:54:29.119]  And it's crazy.
+[00:54:29.360 --> 00:54:30.159]  So we'll be right back.
+[00:54:30.320 --> 00:54:31.360]  Stay with us.
+[00:54:32.000 --> 00:54:40.880]  Sidney Sweeney has been making waves because the only thing worse than being talked about is not being talked about.
+[00:54:41.200 --> 00:54:50.559]  So in a world that only sees black and white, maybe, just maybe, you were born to be blue.
+[00:54:51.119 --> 00:54:52.079]  Looks good on you.
+[00:54:52.400 --> 00:54:55.840]  Sidney Sweeney has great methylene blue jeans.
+[00:54:57.760 --> 00:55:00.400]  Alex Jones has good jeans.
+[00:55:01.680 --> 00:55:05.280]  In fact, there's only one thing better than Alex's jeans.
+[00:55:05.759 --> 00:55:08.400]  Alex's genes on Methylene Blue.
+[00:55:09.679 --> 00:55:11.360]  Just look at those pecs.
+[00:55:12.639 --> 00:55:13.759]  That charm.
+[00:55:15.279 --> 00:55:16.079]  The focus.
+[00:55:18.000 --> 00:55:23.699]  Get your methylene blue now at thealexjonesstore.com and make good genes great again.
+[00:55:34.719 --> 00:55:35.599]  I'm robbing your job.
+[00:55:35.679 --> 00:55:39.839]  And if you're running the jogging, slow your ass down, sit the methylene blue.
+[00:55:40.000 --> 00:55:42.559]  Buy your war bond and support the crew.
+[00:55:42.880 --> 00:55:45.679]  They tried to tell you I'm crazy, lazy, a loser.
+[00:55:45.759 --> 00:55:47.679]  But who's looking hazy and swayzy?
+[00:55:47.839 --> 00:55:48.480]  You bruiser.
+[00:55:48.719 --> 00:55:50.799]  I am the truth, the one that shines break.
+[00:55:50.960 --> 00:55:53.199]  You know, the old saying, Alex Jones was right.
+[00:55:53.519 --> 00:55:55.679]  Put down your make and stop the propaganda.
+[00:55:55.759 --> 00:55:57.440]  I'm not talking about violence with my words.
+[00:55:57.519 --> 00:55:58.480]  I blam blam you.
+[00:55:58.719 --> 00:56:01.519]  Make you look deliterate, non-considerate, staking, faking just lies.
+[00:56:01.679 --> 00:56:04.079]  Michael J. Fox wants to cut your family ties.
+[00:56:04.239 --> 00:56:06.239]  You lose a lost in the brainwashed system.
+[00:56:06.480 --> 00:56:08.960]  The truthless cost is a full-time mission.
+[00:56:09.119 --> 00:56:11.679]  And faithful on the streets, trash and thrashing the town.
+[00:56:12.000 --> 00:56:13.199]  How's that helping people?
+[00:56:13.279 --> 00:56:14.319]  Y'all are just clowns.
+[00:56:14.639 --> 00:56:19.519]  Punching and popping, burning the flag while you support LG Big T. What a fact.
+[00:56:19.920 --> 00:56:22.239]  Dressed in drag in elementary schools.
+[00:56:22.480 --> 00:56:24.880]  Indoctrinating children, breaking the rules.
+[00:56:25.119 --> 00:56:27.599]  The parents don't know they're not told by the teachers.
+[00:56:27.920 --> 00:56:30.239]  Rainbow flag stretched over the bleachers.
+[00:56:30.400 --> 00:56:32.719]  Depopulationation is no exaggeration.
+[00:56:33.039 --> 00:56:35.360]  They're trying to clear out people from every location.
+[00:56:35.679 --> 00:56:37.679]  They burn the palisades in Altatina.
+[00:56:37.759 --> 00:56:40.319]  For no income housing, look into FEMA.
+[00:56:40.480 --> 00:56:42.799]  Corruption eruption like a giant volcano.
+[00:56:43.119 --> 00:56:44.239]  I want to flush this shit.
+[00:56:44.400 --> 00:56:46.239]  Plus, you'll probably need drano.
+[00:56:46.400 --> 00:56:47.679]  Cause this shit's so backed up.
+[00:56:47.840 --> 00:56:49.039]  Brains are so cracked up.
+[00:56:49.279 --> 00:56:50.319]  Constantly fighting.
+[00:56:50.400 --> 00:56:51.599]  They all want to act up.
+[00:56:51.840 --> 00:56:54.159]  Causing more problems, making life hard force.
+[00:56:54.319 --> 00:56:56.480]  The president to bring national guard.
+[00:56:57.119 --> 00:56:59.440]  Then they complain that he's a dictator.
+[00:56:59.599 --> 00:57:00.799]  Went to your own country.
+[00:57:00.960 --> 00:57:01.840]  You've been a traitor.
+[00:57:02.159 --> 00:57:03.440]  But you still think you're right.
+[00:57:03.679 --> 00:57:04.639]  Post in the gram.
+[00:57:05.119 --> 00:57:06.079]  Facebook connects.
+[00:57:06.159 --> 00:57:07.360]  You always go ham.
+[00:57:07.840 --> 00:57:10.079]  Fight the power when you actually joined it.
+[00:57:10.319 --> 00:57:11.440]  You want total destruction?
+[00:57:11.519 --> 00:57:12.960]  Guess you side point it.
+[00:57:13.199 --> 00:57:15.119]  Look in the mirror and see what you've done.
+[00:57:15.359 --> 00:57:16.880]  It's the wars of the info.
+[00:57:16.960 --> 00:57:17.780]  I'm telling you, son.
+[00:57:39.010 --> 00:57:39.449]  Reset.
+[00:57:39.599 --> 00:57:40.559]  Eat the bugs.
+[00:57:40.880 --> 00:57:44.239]  You will own nothing and you will be happy.
+[00:57:44.880 --> 00:57:46.559]  Take the vaccine.
+[00:57:46.880 --> 00:57:48.159]  Trust the science.
+[00:57:48.480 --> 00:57:50.000]  Get your booster.
+[00:57:50.639 --> 00:57:56.079]  Every crisis is an opportunity, and the world will be reshaped in our vision.
+[00:57:57.359 --> 00:57:58.960]  Down with the globalists.
+[00:57:59.279 --> 00:58:03.679]  Get ultra-methylene red at thealejonstore.com.
+[00:58:07.840 --> 00:58:10.559]  Oh, yeah, this methylene red drives me wild.
+[00:58:10.880 --> 00:58:11.679]  Call me, Alex.
+[00:58:11.759 --> 00:58:12.799]  You got my number, baby.
+[00:58:12.880 --> 00:58:13.920]  Call me anytime.
+[00:58:14.239 --> 00:58:21.440]  Step right up and behold a creation so powerful, so potent, it could only come from my secret vitality factory.
+[00:58:21.759 --> 00:58:23.199]  Shilajit Gummies.
+[00:58:23.759 --> 00:58:27.119]  Packed with ancient minerals and super-infused goodness.
+[00:58:27.440 --> 00:58:32.159]  These little squares of power will boost your day faster than a fizzy lifting drink.
+[00:58:32.480 --> 00:58:34.639]  Need that spark of pure imagination?
+[00:58:34.960 --> 00:58:39.519]  Pop one of these into your mouth and feel the natural energy flow right through you.
+[00:58:40.079 --> 00:58:42.119]  Visit thealexjonesstore.com.
+[00:58:42.199 --> 00:58:53.659]  All right, it's 12.15 p.m. Central Standard Time.
+[00:58:53.840 --> 00:58:55.840]  I am your host, Alex Jones.
+[00:58:56.000 --> 00:58:56.960]  Very, very thankful.
+[00:58:57.279 --> 00:58:58.880]  Very, very blessed to be here.
+[00:58:59.519 --> 00:59:01.920]  Want to thank all the listeners and viewers for being the reason.
+[00:59:02.400 --> 00:59:08.800]  Even though the deep state and the Democrats and the CIA and DOJ, it's been declassified, have been trying to shut us down for now eight, nine years intensely.
+[00:59:08.880 --> 00:59:10.559]  They were trying before, but not as intensely.
+[00:59:10.880 --> 00:59:11.360]  We're still here.
+[00:59:11.440 --> 00:59:16.240]  Infowars is still crosstown, still operating, still up in the air, but we're not going to sit on our laurels.
+[00:59:16.320 --> 00:59:17.840]  We built the Alex Jones network.
+[00:59:17.920 --> 00:59:19.280]  This is just the new studio.
+[00:59:19.760 --> 00:59:23.680]  We've got the podcast studio and the newsroom and so much more.
+[00:59:23.840 --> 00:59:24.720]  Thanks for your support.
+[00:59:24.960 --> 00:59:33.039]  And right now, this Saturday, Sunday, and Monday, is the biggest sale in the history of the AlexJonesStore.com.
+[00:59:33.280 --> 00:59:42.880]  Ladies and gentlemen, store-wide, 60% off on all the supplements, all the t-shirts, all the Patriot apparel at the AlexJonesStore.com.
+[00:59:43.119 --> 00:59:46.639]  That's theAlexJonesStore.com.
+[00:59:46.800 --> 00:59:48.160]  We've never done something like this.
+[00:59:48.400 --> 00:59:57.119]  I mean, most of the t-shirts break even at that price because when they're in XXL or so, it's nice fabric, nice printing, and they're costing us like 15 bucks a piece.
+[00:59:57.440 --> 00:59:59.200]  So if you get a small, we make some money.
+[00:59:59.360 --> 01:00:00.480]  I mean, that is such a deal.
+[01:00:00.639 --> 01:00:02.639]  The ball caps, that is such a great deal.
+[01:00:02.960 --> 01:00:07.840]  The widest selection of t-shirts, ball caps, you name it, sweaters, hoodies.
+[01:00:07.920 --> 01:00:17.680]  But when it comes to the supplements, the ultramethylene blue, liquid, the capsules, the ultimate CMOS, the most powerful turmeric, the very best bovine colostrum, it's all there.
+[01:00:18.000 --> 01:00:19.280]  60% off.
+[01:00:19.440 --> 01:00:20.880]  And look at these new hats that came in.
+[01:00:21.200 --> 01:00:21.760]  Amazing.
+[01:00:22.079 --> 01:00:30.720]  We've got Patriot, and it's got the great thick, nice, popular style leather-style decals.
+[01:00:31.200 --> 01:00:32.480]  You've got America First.
+[01:00:32.559 --> 01:00:34.480]  That's a badass hat right there.
+[01:00:35.119 --> 01:00:36.639]  Absolutely love it.
+[01:00:36.960 --> 01:00:40.480]  Got this one right here in honor of our veterans.
+[01:00:41.039 --> 01:00:42.240]  Really classy hat.
+[01:00:42.480 --> 01:00:43.440]  These are all awesome.
+[01:00:43.760 --> 01:00:45.680]  These are just the three new ones that came in this week.
+[01:00:45.840 --> 01:00:47.840]  Hundreds and hundreds of ball cap designs.
+[01:00:48.160 --> 01:00:50.800]  I mean, this is what it's all about, and that's how you fund the operation.
+[01:00:51.119 --> 01:00:52.960]  60% off on these bad boys.
+[01:00:53.119 --> 01:00:56.400]  You're getting these at cost for that price, ladies and gentlemen.
+[01:00:57.039 --> 01:00:58.800]  You're getting these at cost.
+[01:00:59.119 --> 01:01:04.079]  On the apparel, usually it's about 60% we make when it's not on sale.
+[01:01:04.400 --> 01:01:07.760]  Well, when it's 60% off, do the math because we talked about it.
+[01:01:08.079 --> 01:01:13.840]  But we want to just flood the zone, do your Christmas shopping early, thealxjonestore.com.
+[01:01:13.920 --> 01:01:25.599]  But I'm telling you, if you want to get immediate health effects and just vitality and energy, want to see how great the products are, get the shilogy, get the Irish CMOS, and get the methylene blue at thealxjonstore.com.
+[01:01:25.760 --> 01:01:31.840]  You've got less than three days to take part in the biggest sale ever, 60% off that keeps us on the air.
+[01:01:32.000 --> 01:01:33.360]  And I salute and thank you all.
+[01:01:33.599 --> 01:01:50.400]  Now, let's look at what Trump's doing on the border and national sovereignty and the plan of the Democrats with Cloud and Pivot and replacement migration in the UN to flood us under Obama and then Biden.
+[01:01:50.480 --> 01:01:52.000]  It slowed down massively under Trump.
+[01:01:52.240 --> 01:01:55.760]  40 plus million legal aliens, 20 million of them under Biden.
+[01:01:55.920 --> 01:02:00.559]  Many of them kidnapped children, sex slavery, slave labor.
+[01:02:00.880 --> 01:02:01.760]  Absolutely insane.
+[01:02:01.920 --> 01:02:04.400]  Trump's now calling again for Mayorkas' arrest.
+[01:02:04.720 --> 01:02:16.559]  But yesterday he announced he signed an executive order banning all immigration indefinitely from any third world nation in the world, saying we're full, we have to absorb this.
+[01:02:16.880 --> 01:02:19.920]  It is absolute bedlam and total insanity.
+[01:02:20.240 --> 01:02:26.720]  Even as we progress technologically, immigration policy has eroded those gains and limitations for many.
+[01:02:27.039 --> 01:02:32.880]  I will permanently pause migration from all third world countries to allow for the U.S. system to fully recover.
+[01:02:33.200 --> 01:02:53.119]  Terminate all of the millions of Biden illegal admissions, including those signed by Sleepy Joe Biden's Auto Pen, and remove anyone who is not a net asset to the United States or is incapable of loving our country and all federal benefits and subsidies to non-citizens of our country, denaturalize migrants who undermine domestic tranquility.
+[01:02:53.519 --> 01:03:02.320]  Think on Omar and deport any foreign national who is a public charge, security risk, or non-compatible with Western civilization.
+[01:03:02.559 --> 01:03:13.679]  These goals will be pursued with the aim of achieving a major reduction in illegal and disruptive populations, including those admitted through the unauthorized and illegal auto-pin approval process.
+[01:03:14.000 --> 01:03:22.320]  Our reverse migration, reverse migration, that's the opposite of replacement migration, can fully cure the situation.
+[01:03:22.720 --> 01:03:28.400]  Over that, happy Thanksgiving to all except those who hate, steal, murder, and destroy everything that America stands for.
+[01:03:28.720 --> 01:03:31.679]  You won't be here for long.
+[01:03:32.880 --> 01:03:36.880]  This is in amongst the most viral things he's ever said and ever done.
+[01:03:37.440 --> 01:03:41.360]  Bravo, absolutely, that is what we need.
+[01:03:42.000 --> 01:03:46.159]  Holy crap, there are shockwaves being sent through America tonight as Trump made a speech.
+[01:03:46.400 --> 01:03:49.599]  The crimes of the Biden administration are not going to be forgotten.
+[01:03:49.920 --> 01:03:55.599]  Here's President Trump and that dovetails with Stephen Miller going haywire.
+[01:03:55.760 --> 01:03:56.800]  This is powerful.
+[01:03:57.119 --> 01:03:58.960]  I told you Trump was about to course correct.
+[01:03:59.119 --> 01:04:00.320]  This is what it's all about.
+[01:04:00.480 --> 01:04:04.639]  And then play Clip 30 explaining what the immigration laws are like in other countries.
+[01:04:05.280 --> 01:04:07.039]  I told you Trump was about to course correct.
+[01:04:07.200 --> 01:04:08.079]  We put pressure on him.
+[01:04:08.240 --> 01:04:10.159]  You put pressure on him and it's happening.
+[01:04:10.480 --> 01:04:15.920]  And just like that, you see the change because we're not black-pilled.
+[01:04:16.000 --> 01:04:16.880]  We're not white-pilled.
+[01:04:16.960 --> 01:04:18.159]  We're action-pilled.
+[01:04:18.480 --> 01:04:20.159]  And you are the tip of the spear when it comes to action.
+[01:04:20.400 --> 01:04:21.599]  You are the info war.
+[01:04:21.679 --> 01:04:22.079]  Damn it.
+[01:04:22.240 --> 01:04:23.679]  Do you understand how important you are?
+[01:04:23.760 --> 01:04:25.760]  I don't say that to pat you on the head.
+[01:04:26.079 --> 01:04:27.039]  We're the best there is.
+[01:04:27.200 --> 01:04:27.760]  We're not bragging.
+[01:04:27.840 --> 01:04:28.720]  We're not probable people.
+[01:04:28.880 --> 01:04:29.519]  God put us here.
+[01:04:29.680 --> 01:04:30.880]  Jesus Christ.
+[01:04:31.519 --> 01:04:38.000]  We're just working according to God's plan to be as bold as a lion and stand up when evil floods in.
+[01:04:38.159 --> 01:04:41.039]  The spirit of the Lord will lift up a standard against it.
+[01:04:41.360 --> 01:04:42.559]  Well, that's who you are.
+[01:04:42.800 --> 01:04:43.760]  So don't forget it.
+[01:04:44.000 --> 01:04:44.960]  Here's the clips.
+[01:04:45.280 --> 01:04:48.240]  Afghanistan, a hellhole on earth.
+[01:04:48.559 --> 01:04:56.880]  He was flown in by the Biden administration in September 2021 on those infamous flights that everybody was talking about.
+[01:04:57.519 --> 01:04:59.360]  Nobody knew who was coming in.
+[01:04:59.599 --> 01:05:01.039]  Nobody knew anything about it.
+[01:05:01.360 --> 01:05:11.039]  His status was extended under legislation signed by President Biden, a disastrous president, the worst in the history of our country.
+[01:05:11.360 --> 01:05:17.840]  This attack underscores the single greatest national security threat facing our nation.
+[01:05:18.159 --> 01:05:27.360]  The last administration let in 20 million unknown and unvetted foreigners from all over the world, from places that you don't want to even know about.
+[01:05:27.680 --> 01:05:32.480]  No country can tolerate such a risk to our very survival.
+[01:05:32.800 --> 01:05:43.440]  An example is Minnesota, where hundreds of thousands of Somalians are ripping off our country and ripping apart that once great state.
+[01:05:43.760 --> 01:06:02.480]  Billions of dollars are lost, and gangs of Somalians come from a country that doesn't even have a government, no laws, no water, no military, no nothing, as their representatives in our country preach to us about our Constitution and how our country is no good.
+[01:06:03.039 --> 01:06:10.320]  We're not going to put up with these kind of assaults on law and order by people who shouldn't even be in our country.
+[01:06:10.639 --> 01:06:28.400]  We must now re-examine every single alien who has entered our country from Afghanistan under Biden, and we must take all necessary measures to ensure the removal of any alien from any country who does not belong here or add benefit to our country.
+[01:06:28.720 --> 01:06:31.519]  If they can't love our country, we don't want them.
+[01:06:31.840 --> 01:06:35.440]  America will never bend and never yield in the face of terror.
+[01:06:35.760 --> 01:06:43.920]  And at the same time, we will not be deterred from the mission these service members were so nobly fulfilling.
+[01:06:44.400 --> 01:06:54.320]  That is why tonight I can announce that I have directed the Department of War to mobilize an additional 500 troops to help protect our capital city.
+[01:06:54.640 --> 01:07:08.720]  We will make America totally safe again, and we will bring the perpetrator of this barbaric attack to swift and certain justice if the bullets going in the opposite direction haven't already done that.
+[01:07:09.040 --> 01:07:28.160]  During this time of the year, when we gather at home with loved ones, these two patriots will look at the situation in Chicago, where the governor, Pritzker, is fighting President Trump with everything that Pritzker has to try to keep President Trump from ending the murder epidemic in Chicago.
+[01:07:28.480 --> 01:07:40.240]  Kritzker and Johnson are fighting on behalf of the murderers, not on behalf of the citizens, fighting against the National Guard, fighting against law enforcement, fighting against federal investigators at every step of the way.
+[01:07:40.560 --> 01:07:50.160]  Let me begin by saying to the beginning of your question that the president's remarks, I think, were among the most moving that I've ever heard.
+[01:07:50.480 --> 01:08:00.560]  It was perfect for this incredibly tragic occasion, this heartbreaking, anguishing tragedy, right before Thanksgiving.
+[01:08:00.880 --> 01:08:24.400]  I think she spoke movingly and beautifully to what we've lost, but also demonstrated the tremendous resolve and determination to not only continue the mission these soldiers died for, but to expand the mission, declaring that far from being deterred, the commander-in-chief, our president, is sending 500 more troops to the city to show that no terrorism will sway us.
+[01:08:24.720 --> 01:08:38.800]  And also having a conversation tonight with America, the conversation that we have to have with President Trump saying that Joe Biden, the Biden administration, the Democrats have inflicted on this nation the worst national security threat in our history.
+[01:08:39.119 --> 01:08:41.680]  We've never faced a threat like this.
+[01:08:42.000 --> 01:08:47.840]  20 million people brought into our country from the most failed societies on earth.
+[01:08:48.159 --> 01:08:53.360]  Afghanistan, Somalia, Libya, Iraq, brought here.
+[01:08:53.680 --> 01:08:56.320]  No vetting, no conditions, no rules.
+[01:08:56.640 --> 01:09:06.560]  Brought here on visas, brought here as refugees, brought here as asylums, brought here as illegals, brought here in every way imaginable by plane, train, bus, automobile, by land, by sea.
+[01:09:06.880 --> 01:09:10.400]  For four straight years, they deluged this country.
+[01:09:10.720 --> 01:09:13.240]  And now, more blood is being spilled as a result.
+[01:09:13.559 --> 01:09:14.779]  What you heard tonight...
+[01:09:14.779 --> 01:09:16.840]  ...tees for illegal entry in other countries.
+[01:09:17.019 --> 01:09:20.319]  So if you enter illegally Singapore, that's six months in prison.
+[01:09:20.640 --> 01:09:23.600]  If you enter illegally, Russia, that's two years in labor camp.
+[01:09:23.920 --> 01:09:27.280]  If you enter illegally, India, that's eight years in prison.
+[01:09:27.600 --> 01:09:29.119]  Pakistan, 10 years in prison.
+[01:09:29.280 --> 01:09:31.440]  North Korea, obviously, death penalty.
+[01:09:31.760 --> 01:09:35.920]  And you enter here in Canada or the U.S. and even Europe.
+[01:09:36.000 --> 01:09:36.560]  And what do you get?
+[01:09:36.720 --> 01:09:42.480]  Free housing, healthcare, education, food, public transport, cell phones, cash.
+[01:09:42.800 --> 01:09:43.360]  Come on, guys.
+[01:09:43.520 --> 01:09:45.920]  A country can only be a country if it protects its borders.
+[01:09:46.079 --> 01:09:51.199]  Immigration is not bad, but illegal immigration should be penalized at the full extent of the law.
+[01:09:52.720 --> 01:09:58.720]  And then the Ilhan Omars and Rashid Tlaibs literally hate this country and say they're not Americans.
+[01:10:00.000 --> 01:10:03.520]  And then if you criticize anybody in Europe or the UK, you get arrested.
+[01:10:03.840 --> 01:10:06.880]  And I've got some more on that coming up.
+[01:10:06.960 --> 01:10:08.159]  And I wanted to hit this clip.
+[01:10:08.320 --> 01:10:13.360]  Mike Benz, the great researcher, also works for the White House very closely.
+[01:10:15.920 --> 01:10:20.480]  Mike Benz explains how when Doge first started, it was making the government work it.
+[01:10:21.760 --> 01:10:30.640]  How it was supposed to work, but now the Doge has been scaled back to almost nothing, only has eight months left on its law that passed to support it.
+[01:10:31.520 --> 01:10:33.600]  It's really slowed down a lot of what Trump's trying to do.
+[01:10:33.920 --> 01:10:37.840]  We need to bring Doge back and need to make it permanent.
+[01:10:38.079 --> 01:10:41.760]  If you want to take down the globalist, here's Mike Benz laying it out.
+[01:10:42.560 --> 01:10:45.040]  What happened with Doge and why can't we sustain the pace?
+[01:10:45.120 --> 01:10:46.960]  And is there any hope of getting back to a fast pace?
+[01:10:47.280 --> 01:11:00.480]  What I know from my contacts in the admin, I was told by multiple people at multiple different agencies that Doge was a complete game changer because whereas agencies were previously ruled by careers, I was talking about this, for example, with the FBI.
+[01:11:00.640 --> 01:11:02.640]  We have four political appointees at the FBI.
+[01:11:02.800 --> 01:11:04.640]  There's 38,000 FBI employees.
+[01:11:04.800 --> 01:11:06.480]  So it's four versus 38,000.
+[01:11:06.720 --> 01:11:25.520]  The great equalizer in the first couple of months of the admin was that Doge were in the building and they directly had the deputized power of the Office of Management and Budget effectively to just cut the budgets of anybody in the career class, shut down any department, freeze the funding.
+[01:11:25.840 --> 01:11:38.480]  If you were a career and you were trying to be insubordinate against the politicals, Doge could come in and make the careers have to respect the politicals because if they didn't do what they were told in the chain of command, you'd get doged.
+[01:11:38.720 --> 01:11:40.080]  That was a game changer.
+[01:11:40.320 --> 01:11:53.760]  My contacts at state and DHS and in the early USAID were all telling me, oh my God, the agency for the first time seems to be working how it's supposed to be working because the careers are doing what the political appointees told them to do.
+[01:11:54.000 --> 01:11:56.720]  Not because they fear the political appointees, they fear Doge.
+[01:11:56.880 --> 01:12:11.680]  But I think that what was imbued in Doge was the kind of silent power of Elon and the fact that Trump, I think before the cabinet was fully filled out, kind of deferred to Elon on most things that Trump didn't care too much about in terms of bureaucratic management.
+[01:12:11.840 --> 01:12:23.440]  But I think with that power going away and Doge no longer representing the full force of Elon Musk, it began to lose to the cabinet-level consensus, which is a lot more business as usual.
+[01:12:23.760 --> 01:12:24.400]  Well, that's right.
+[01:12:24.480 --> 01:12:27.440]  And then people love to worship Trump for no reason.
+[01:12:28.320 --> 01:12:32.080]  It's good to support him, but the White Pillars love going after Elon.
+[01:12:32.160 --> 01:12:37.440]  They loved feeling like they were with the winning team and he was kicked out just like MTG.
+[01:12:38.640 --> 01:12:40.240]  And now it's been crippling.
+[01:12:40.560 --> 01:12:41.760]  And all the numbers and polls show it.
+[01:12:41.840 --> 01:12:44.080]  Now Trump's building back, but God, no more of this.
+[01:12:44.400 --> 01:12:45.920]  Doge was awesome.
+[01:12:46.240 --> 01:12:50.800]  Now, speaking of the open borders, our reporter Brandon Morello has been breaking this.
+[01:12:51.440 --> 01:12:53.760]  Afghan arrested in Fort Worth, Texas.
+[01:12:53.840 --> 01:13:02.320]  An Afghan national was arrested following the posting of a TikTok video in which he appeared to be constructing a bomb with the Fort Worth area as the apparent target.
+[01:13:02.480 --> 01:13:08.720]  Mohammed Dawood Al-Kozi faces a state charge of making a terroristic threat.
+[01:13:09.040 --> 01:13:15.840]  According to court documents, he entered the United States under the Biden regime's Operation Allies Welcome Program.
+[01:13:16.160 --> 01:13:21.920]  He was granted lawful permit resident since September 7th, 2022, according to Fox News.
+[01:13:22.000 --> 01:13:24.160]  ICE has since placed a detainer on him.
+[01:13:24.480 --> 01:13:25.680]  And look, he's white.
+[01:13:26.320 --> 01:13:30.080]  That's, yeah, punch up the HDO as they can see it.
+[01:13:31.520 --> 01:13:32.080]  There it is.
+[01:13:32.160 --> 01:13:32.800]  Thank you.
+[01:13:33.120 --> 01:13:36.640]  Tarrant County has blocked and booked him in.
+[01:13:36.960 --> 01:13:39.360]  Tarrant County has booked him in as white.
+[01:13:39.680 --> 01:13:42.880]  He's an Afghan national who was smuggled to the United States by the Biden regime.
+[01:13:42.960 --> 01:13:49.680]  He is currently accused of posting TikTok video in which he appeared to be constructing a bomb with the Fort Worth area as the apparent target.
+[01:13:50.320 --> 01:13:51.920]  And she's reaching out to them for comments.
+[01:13:52.080 --> 01:13:53.600]  It just looks like a very nice person.
+[01:13:53.840 --> 01:13:54.560]  It looks very loving.
+[01:13:54.960 --> 01:13:56.640]  Be great to babysit your children, right?
+[01:13:57.520 --> 01:14:05.600]  Meanwhile, so many people I've known from the UK that have visited guest hosts, you name it, Paul Watson, when he worked here.
+[01:14:05.920 --> 01:14:09.360]  The first thing they do when they get here is, we want to go shooting because you can't have guns.
+[01:14:09.440 --> 01:14:14.240]  You really can't shoot there unless you're part of a very expensive hunting club and your guns are stored there and the rest of it.
+[01:14:14.720 --> 01:14:17.360]  People come over from France, they want to go shooting, same thing.
+[01:14:17.680 --> 01:14:18.320]  Well, look at this.
+[01:14:18.480 --> 01:14:24.640]  A man was arrested by police in Britain after he posted a picture online of himself posing with a gun in the U.S.
+[01:14:25.280 --> 01:14:27.440]  He was then held overnight in a cell and bailed.
+[01:14:27.760 --> 01:14:32.000]  I was told to be careful what I say online, and I need to understand how it makes people feel.
+[01:14:32.160 --> 01:14:32.400]  What?
+[01:14:32.640 --> 01:14:36.400]  The police seize his computer and phone, so he had been able to even work.
+[01:14:36.960 --> 01:14:38.240]  They then dropped the charges.
+[01:14:38.400 --> 01:14:42.160]  The process is the punishment where you can beat the rap, you can't beat the riot.
+[01:14:42.800 --> 01:14:44.480]  That's how they operate.
+[01:14:44.800 --> 01:14:51.920]  Meanwhile, Tucker Carlson interviewed Piers Morgan, and he said, I think it's fine that London's only 30% white.
+[01:14:52.160 --> 01:14:58.400]  I think it's fine we're losing our culture because there's better tasting food and the rest of it.
+[01:14:58.720 --> 01:15:03.840]  But in the UK, you get arrested if you say the word faggot, which is an English word meaning burning ember.
+[01:15:04.000 --> 01:15:07.600]  But if you say that, you spend a couple of years in jail.
+[01:15:07.920 --> 01:15:11.440]  And well, Tucker points out that's not a free society.
+[01:15:11.520 --> 01:15:16.160]  The Muslims are running around with literally having marches with butcher knives and machetes.
+[01:15:16.480 --> 01:15:18.400]  That's illegal, but oh, they're allowed to.
+[01:15:19.040 --> 01:15:24.160]  Street preachers that are Christian aren't allowed to, but the Muslims can run around and do whatever they want, including kidnapping your daughters.
+[01:15:24.480 --> 01:15:26.560]  So here's just a short clip with Tucker Carlson.
+[01:15:27.280 --> 01:15:30.240]  And Pierce Morgan just doesn't know what to do.
+[01:15:30.880 --> 01:15:33.200]  Elizabeth Hinney from Tranmere.
+[01:15:33.360 --> 01:15:34.080]  Have you heard about this?
+[01:15:34.400 --> 01:15:34.720]  Go on.
+[01:15:34.880 --> 01:15:36.000]  She's a mother of four.
+[01:15:36.240 --> 01:15:39.440]  I think she's a nurse, and she gets beaten up by her boyfriend.
+[01:15:39.520 --> 01:15:40.000]  He beats her up.
+[01:15:40.080 --> 01:15:41.520]  She goes to the hospital.
+[01:15:41.840 --> 01:15:53.840]  And she texts someone, a buddy of hers, a friend of hers, a girlfriend of hers, and describes the man who beat her up and sent her to the hospital as a quote faggot, the faggot.
+[01:15:55.440 --> 01:15:59.680]  And she's arrested and convicted of a hate crime.
+[01:16:00.000 --> 01:16:03.280]  The guy who beat her up is not arrested or convicted.
+[01:16:03.600 --> 01:16:09.200]  And then she goes through this whole kabuki, which is now required, where she prostrates herself before the judge.
+[01:16:09.360 --> 01:16:10.800]  I'm sorry, it was not a homophobic rant.
+[01:16:11.040 --> 01:16:13.200]  By the way, you're allowed to be homophobic if you want in a free country.
+[01:16:13.360 --> 01:16:14.640]  You can have any view you want.
+[01:16:14.960 --> 01:16:20.160]  But no, because she used the word faggot, she's arrested and the guy who punched her in the face was not.
+[01:16:20.800 --> 01:16:22.880]  That story tells you everything.
+[01:16:23.440 --> 01:16:26.640]  Well, I don't know that story if it's exactly Daily Mail, baby.
+[01:16:26.800 --> 01:16:26.880]  Okay.
+[01:16:27.120 --> 01:16:27.760]  Pictures of her and everything.
+[01:16:27.920 --> 01:16:28.400]  I'm doubting it.
+[01:16:28.480 --> 01:16:29.600]  I'm just saying I need to look into it.
+[01:16:29.920 --> 01:16:32.320]  But if that is how you've told it, obviously it's ridiculous.
+[01:16:32.560 --> 01:16:34.080]  Would you say the word faggot on camera?
+[01:16:34.240 --> 01:16:34.480]  No.
+[01:16:34.800 --> 01:16:35.120]  Why?
+[01:16:35.440 --> 01:16:37.360]  Because you don't want to get arrested, do you?
+[01:16:37.520 --> 01:16:38.400]  There's no way to be arrested.
+[01:16:38.800 --> 01:16:40.400]  Oh, because it's so harmful to people.
+[01:16:40.560 --> 01:16:40.800]  No, no.
+[01:16:40.960 --> 01:16:41.760]  Is that like gay bashing?
+[01:16:42.080 --> 01:16:42.560]  What's wrong with that?
+[01:16:43.040 --> 01:16:52.800]  Actually, my whole issue with the whole trans debate, for example, is you don't need to slide into actually saying derogatory stuff about trans people to make the point that women's rights should be protected.
+[01:16:53.120 --> 01:16:53.840]  You don't need to.
+[01:16:54.080 --> 01:16:54.640]  Well, I agree.
+[01:16:54.880 --> 01:16:55.920]  So I don't believe that.
+[01:16:56.000 --> 01:16:56.800]  No, but to magic words.
+[01:16:56.880 --> 01:16:59.120]  I don't believe in needlessly sneering.
+[01:16:59.360 --> 01:17:00.320]  I'm not smearing anybody.
+[01:17:00.400 --> 01:17:00.720]  I just think.
+[01:17:00.960 --> 01:17:02.320]  But would you use that word?
+[01:17:02.640 --> 01:17:03.120]  Faggot?
+[01:17:03.200 --> 01:17:03.280]  Yeah.
+[01:17:03.440 --> 01:17:03.680]  I just did.
+[01:17:04.400 --> 01:17:05.200]  Faggot, faggot, faggot.
+[01:17:05.360 --> 01:17:06.000]  Okay, but why?
+[01:17:06.160 --> 01:17:08.240]  And I'm using it because you're not allowed to.
+[01:17:08.320 --> 01:17:08.720]  Because you're.
+[01:17:08.800 --> 01:17:09.440]  You're allowed to.
+[01:17:09.680 --> 01:17:10.080]  Go ahead.
+[01:17:10.400 --> 01:17:10.880]  I don't want to.
+[01:17:11.040 --> 01:17:12.080]  Say, I love gay people.
+[01:17:12.320 --> 01:17:12.800]  Faggot.
+[01:17:13.120 --> 01:17:13.920]  I'm allowed to.
+[01:17:14.080 --> 01:17:15.040]  I just choose not to.
+[01:17:15.360 --> 01:17:17.680]  This chick just got arrested for it and convicted.
+[01:17:18.240 --> 01:17:20.720]  So that doesn't have a chilling effect on your ability to.
+[01:17:21.200 --> 01:17:23.200]  There are people watching this who will be offended by the use of the word.
+[01:17:23.440 --> 01:17:23.840]  I surely will.
+[01:17:23.920 --> 01:17:24.640]  I'm not anti-gay.
+[01:17:24.720 --> 01:17:25.280]  I never have been.
+[01:17:25.760 --> 01:17:26.960]  I can use any freaking word I want.
+[01:17:27.440 --> 01:17:28.400]  By the use of the word chick.
+[01:17:30.160 --> 01:17:30.560]  Chick.
+[01:17:31.760 --> 01:17:31.920]  Okay.
+[01:17:32.080 --> 01:17:32.480]  What are you doing?
+[01:17:32.640 --> 01:17:35.440]  How dare you be so sexy comparing women to chicks?
+[01:17:35.680 --> 01:17:36.000]  How about this?
+[01:17:36.160 --> 01:17:40.480]  Let my life, the way that I actually live and treat people, be the testament to my heart.
+[01:17:40.640 --> 01:17:42.000]  That's how I feel.
+[01:17:43.920 --> 01:17:49.120]  They arrest tens of thousands, over 30,000 a year, for saying politically incorrect things.
+[01:17:49.200 --> 01:17:52.080]  There's not even a law, but they call it a hate crime.
+[01:17:52.320 --> 01:17:53.440]  You're like, well, that won't happen here.
+[01:17:53.600 --> 01:17:53.760]  Really?
+[01:17:53.840 --> 01:17:58.400]  In Tampa, they arrested three street preachers out in the parking lot.
+[01:17:58.480 --> 01:17:59.920]  The Muslims are having a big call to prayer.
+[01:18:00.160 --> 01:18:02.960]  They came up and said, you need Jesus and ate bacon in front of them.
+[01:18:03.280 --> 01:18:05.920]  And the Muslims went on TV and cried and said the bacon was scary.
+[01:18:06.160 --> 01:18:07.520]  So they're being charged with felonies.
+[01:18:07.680 --> 01:18:08.480]  It's un-American.
+[01:18:08.640 --> 01:18:09.600]  It's unconstitutional.
+[01:18:09.840 --> 01:18:11.360]  It's dangerous as hell.
+[01:18:11.680 --> 01:18:12.320]  All right.
+[01:18:15.120 --> 01:18:21.840]  I will return live tomorrow from the InfoWars studios, 4 to 8 p.m.
+[01:18:22.480 --> 01:18:24.000]  And all the other stuff I have that's incredible.
+[01:18:24.160 --> 01:18:24.880]  I haven't had time to get to.
+[01:18:24.960 --> 01:18:27.520]  I'll get to that and whatever else is broken since then.
+[01:18:29.040 --> 01:18:34.240]  But I got some really interesting stuff that I'm going to just save until then.
+[01:18:34.560 --> 01:18:38.640]  And I wanted to finish up with Alex Jones Warrens Trump of Sorrow's funded coup.
+[01:18:38.800 --> 01:18:40.480]  Stephen Garter does a great boil down.
+[01:18:40.720 --> 01:18:54.320]  It's only like 12 minutes long or so, but it really, really is a nice compilation of what I and General Flynn and Jesse Waters and Stephen Miller and others are breaking down because the coup is live.
+[01:18:54.960 --> 01:19:00.640]  They're trying to push it, but knowing will absolutely take the wind out of its sails.
+[01:19:00.960 --> 01:19:09.920]  Separately, I was hiking today and had multiple people come up to me, and it wasn't very busy out there because it was raining a little bit in Austin.
+[01:19:11.360 --> 01:19:12.560]  Sprinkling.
+[01:19:12.880 --> 01:19:21.200]  On the hike and bike trail, I had multiple people come up and say, I had a neighbor ask about too.
+[01:19:24.240 --> 01:19:29.440]  Did the model, Sidney Sweeney, really come to your house for Thanksgiving?
+[01:19:29.520 --> 01:19:30.400]  I'll put it on screen.
+[01:19:30.720 --> 01:19:32.000]  And the answer is no, folks.
+[01:19:32.320 --> 01:19:33.039]  I didn't make it.
+[01:19:33.200 --> 01:19:34.400]  A Discord channel did.
+[01:19:34.640 --> 01:19:35.920]  It went viral and I saw it.
+[01:19:36.000 --> 01:19:37.280]  It had like a million views.
+[01:19:37.600 --> 01:19:39.840]  I posted it and made a joke.
+[01:19:40.160 --> 01:19:42.320]  That's a real photo of me like four or five years ago.
+[01:19:42.640 --> 01:19:43.920]  But the AI kind of aged me.
+[01:19:44.000 --> 01:19:45.200]  It's weird what it did.
+[01:19:46.080 --> 01:19:47.440]  I don't look that old now.
+[01:19:47.760 --> 01:19:50.240]  But the point is, is that it did a pretty good image.
+[01:19:50.320 --> 01:19:51.360]  So it fooled people.
+[01:19:51.680 --> 01:20:02.240]  And I explained this is satire that I joked and said, let's make a whole bunch more satire with me because the left got so triggered by this and said I was trying to deceive people.
+[01:20:02.560 --> 01:20:03.680]  Absolutely ridiculous.
+[01:20:03.920 --> 01:20:09.280]  Now it's the left saying the Border Patrol and ICE is out killing citizens when you're the one killing Border Patrol and ICE.
+[01:20:09.920 --> 01:20:16.320]  But then somebody made Pamela Anderson standing next to me in the same photo, which obviously wasn't real.
+[01:20:16.640 --> 01:20:19.120]  And the left said that was fake again and got mad at me.
+[01:20:19.360 --> 01:20:21.440]  So then fans started making stuff like this.
+[01:20:21.600 --> 01:20:22.640]  Look at this.
+[01:20:23.280 --> 01:20:24.080]  So I made the joke.
+[01:20:24.160 --> 01:20:40.880]  I said, oh, no, actually, the new Bay Watch is coming out with myself and Sidney Sweeney starring Donald Trump and Elon Musk because somebody had made a, not somebody, a great guy, no, Maverick Alexander had already made one about this.
+[01:20:41.200 --> 01:20:45.440]  So it's like, even though people made a joke and said, oh, yeah, the new Baywatch is coming out.
+[01:20:45.760 --> 01:20:48.800]  That had already actually been done before in a great video.
+[01:20:49.039 --> 01:20:50.160]  In fact, let's end with that.
+[01:20:50.240 --> 01:20:51.440]  I'm giving you guys more work to do.
+[01:20:51.600 --> 01:20:53.440]  It wasn't enough to download 200 plus videos.
+[01:20:53.680 --> 01:21:02.240]  Go to Maverick Alexander's channel on X and download the, it was a bunch of Bay Watches, but it's the one, it's the latest one he reposted today, because I reposted it after he did.
+[01:21:02.800 --> 01:21:10.160]  Get that one and then get his, yeah, yeah, let's get it.
+[01:21:10.480 --> 01:21:12.480]  And then get, he made three Jeopardys.
+[01:21:12.640 --> 01:21:20.400]  They're all great, but get the first one, the first Jeopardy, where it's, is he a total faggot?
+[01:21:20.480 --> 01:21:26.400]  No, he is a raging faggot because that then nicely dovetails into the whole Tucker Carlson faggot thing.
+[01:21:26.640 --> 01:21:36.960]  We take all this for granted, the freedoms we have, and you need to understand you need to exercise these freedoms or lose them.
+[01:21:37.280 --> 01:21:42.720]  First, they train you not to say things like that so that there's already a taboo.
+[01:21:42.880 --> 01:21:45.120]  Then they then they ban it outright.
+[01:21:45.440 --> 01:21:51.360]  So we're going to end this with some fun with the with the with the bay watch and then the jeopardy.
+[01:21:51.920 --> 01:21:55.680]  And no, we're not saying this is a real, a real baywatch.
+[01:21:57.200 --> 01:21:58.560]  The Democrats are trying to pass laws.
+[01:21:58.640 --> 01:22:03.200]  So is the EU and the UK and Canada to arrest you for this stuff.
+[01:22:04.400 --> 01:22:13.600]  Even though everybody knows it's not real, they say if they deem the prosecutors that it was meant for deception, you serve long prison sentences.
+[01:22:13.920 --> 01:22:16.800]  Yes, folks, that's really what JD Vance looks like.
+[01:22:17.440 --> 01:22:23.680]  You've seen all the articles in the New York Times, Washington Post, Trump trying to deceive people with these AI videos.
+[01:22:23.840 --> 01:22:25.040]  And then they'll show examples.
+[01:22:25.280 --> 01:22:26.400]  It'll be a photo of it.
+[01:22:26.480 --> 01:22:30.560]  They'll never show you the actual link of the joke video.
+[01:22:31.039 --> 01:22:34.800]  And it's Hakeem Jeffries with a sombrero dropping on his head and a mustache coming up.
+[01:22:35.039 --> 01:22:37.359]  I mean, a three-year-old would know: is this real or not?
+[01:22:37.520 --> 01:22:42.400]  No, it cartoon, you know, mariachi music and a hat comes down and a mustache.
+[01:22:42.720 --> 01:22:45.359]  And Hakeem Jeffries got up and said, How dare you try to deceive people?
+[01:22:45.600 --> 01:22:46.400]  Come on, dude.
+[01:22:46.640 --> 01:22:53.600]  It's like the gangster things where you say something cool, and the and the and the big joint comes up, and the sunglasses and the gold chain drop down on you.
+[01:22:53.680 --> 01:22:54.640]  Now, this is real.
+[01:22:55.199 --> 01:23:15.039]  This is uh the vice president JD Vance, who's a good sense of humor, long-time listener, putting on a Halloween video getting into the meme instead of saying arrest people because the meme was put out by the first one that went viral to make fun of JD Vance by actually right-wingers.
+[01:23:15.279 --> 01:23:16.239]  They don't think he's hardcore enough.
+[01:23:16.319 --> 01:23:18.319]  But the point is, we know how to meme, you don't.
+[01:23:18.640 --> 01:23:23.600]  And the left picked it up and ran with the weird fat JD Vance with the curly hair.
+[01:23:23.840 --> 01:23:27.440]  And now Vance just owned it and it got hundreds of millions of views.
+[01:23:27.520 --> 01:23:28.640]  And everybody loves him now.
+[01:23:28.880 --> 01:23:36.800]  You know, the left about eight, nine, ten years ago, even who was it?
+[01:23:36.880 --> 01:23:38.400]  Was it Warner Brothers?
+[01:23:39.359 --> 01:23:47.279]  No, it was Paramount had a YouTube channel that was huge funding, hundreds of millions of dollars.
+[01:23:47.600 --> 01:23:51.840]  And they would make videos attacking me and Trump and others.
+[01:23:53.760 --> 01:24:02.000]  And when I went on air and said, I love this, please make more, they went and pulled all the videos attacking me now.
+[01:24:02.640 --> 01:24:03.680]  And what was one of the videos?
+[01:24:03.760 --> 01:24:08.319]  They went and hired this incredible folk singer that can copy the famous Bon Iver.
+[01:24:09.760 --> 01:24:16.239]  And then they took my actual words in video: I'm going to stab your daughter at the mall.
+[01:24:16.400 --> 01:24:18.400]  Ooh, gonna stab your son.
+[01:24:19.279 --> 01:24:22.319]  And then I'm gonna say, We love our Somalis.
+[01:24:22.560 --> 01:24:23.920]  We love our Muslims too.
+[01:24:24.079 --> 01:24:24.800]  Oh, they're so good.
+[01:24:24.880 --> 01:24:25.600]  Oh, they so sweet.
+[01:24:25.840 --> 01:24:27.840]  And I genuinely loved it.
+[01:24:28.159 --> 01:24:28.800]  Everybody loved it.
+[01:24:28.880 --> 01:24:31.279]  It got hundreds of millions of views, literally, everywhere.
+[01:24:31.440 --> 01:24:35.840]  And people, it was on Spotify on the top songs.
+[01:24:37.039 --> 01:24:38.480]  It was like everywhere, top.
+[01:24:39.359 --> 01:24:43.920]  And I, I'm not a deceptive person, but I realized I should have gone, no, stop, don't do it.
+[01:24:44.239 --> 01:24:45.680]  Please don't do it anymore.
+[01:24:45.920 --> 01:24:46.720]  Oh, my God.
+[01:24:47.279 --> 01:24:51.359]  Please don't make fun of me because they don't understand young people.
+[01:24:52.000 --> 01:24:53.520]  I mean, I'm 51, but I feel young.
+[01:24:53.680 --> 01:24:56.159]  So I'm always up to date on what the kids are doing.
+[01:24:56.480 --> 01:24:58.560]  I don't like all their over-abbreviating, though.
+[01:24:59.199 --> 01:25:01.920]  Even the Bigley guys are like half my age and they're really smart.
+[01:25:02.159 --> 01:25:05.600]  They'll be talking to me in abbreviations on the phone.
+[01:25:06.239 --> 01:25:08.079]  And I'm just like, it's like talking to, I love it.
+[01:25:08.239 --> 01:25:09.359]  It's like talking to space aliens.
+[01:25:09.680 --> 01:25:12.560]  So young people, it's good to have large vocabularies, though.
+[01:25:12.880 --> 01:25:14.319]  But I also get your humor.
+[01:25:14.640 --> 01:25:20.560]  But all of the abbreviating, where they'll do just like 10 abbreviations in a row, and it would have been like, you know, three paragraphs.
+[01:25:20.720 --> 01:25:21.440]  I'm just like, yeah.
+[01:25:22.800 --> 01:25:30.239]  So, but the point is, is that the left and the globalists, I mean, look, we're trying to fool you with JD Vance.
+[01:25:30.400 --> 01:25:30.720]  Look at this.
+[01:25:30.800 --> 01:25:31.760]  This is so funny.
+[01:25:32.079 --> 01:25:36.480]  But imagine, imagine the 75, 80-year-olds, 85-year-olds in Congress.
+[01:25:36.640 --> 01:25:37.920]  They have no idea.
+[01:25:38.239 --> 01:25:40.560]  It's like a whole other planet to them.
+[01:25:41.199 --> 01:25:44.319]  And they literally want to ban this and say we're trying to deceive people.
+[01:25:44.640 --> 01:25:45.600]  And the left does it.
+[01:25:45.840 --> 01:25:49.360]  They're all over the place saying, you're, you know, Sweeney's going to come after you.
+[01:25:49.680 --> 01:25:50.239]  You've stolen her.
+[01:25:50.800 --> 01:25:52.400]  She's not really at your house for Thanksgiving.
+[01:25:52.560 --> 01:25:55.039]  No, she's not at Baywatch with me, too.
+[01:25:56.319 --> 01:25:58.079]  And now see what's happening.
+[01:25:59.279 --> 01:26:00.480]  I couldn't count it all up.
+[01:26:00.640 --> 01:26:05.680]  I guarantee you, there's been 100 million views of these memes just since Thanksgiving.
+[01:26:06.319 --> 01:26:14.159]  I mean, literally, 22 million here, 10 million here, 7 million there, 9 million here, 3 million here, million, half million, just everywhere.
+[01:26:14.319 --> 01:26:15.920]  Millions, millions, millions, millions.
+[01:26:16.159 --> 01:26:25.279]  And now more people are making more, more, more, And now just becomes this whole thing.
+[01:26:26.239 --> 01:26:27.760]  It's beautiful.
+[01:26:29.279 --> 01:26:33.920]  So, because you don't like the Baywatch photo, now people are going to make more Baywatches.
+[01:26:34.239 --> 01:26:44.720]  But here's the deal: I was just riffing off what some listener posted, some viewer, and I didn't even, I'd forgotten that they'd already made a bunch of Baywatches six, eight months ago with me.
+[01:26:45.119 --> 01:26:46.159]  So, see, I guess it's true.
+[01:26:46.399 --> 01:26:48.479]  I even made a joke about it, but it's actually true.
+[01:26:48.720 --> 01:26:53.519]  Here I am with Donald Trump and others starring in the new Baywatch.
+[01:26:53.680 --> 01:26:55.600]  And Alex Rebecca's back from the dead.
+[01:26:55.760 --> 01:27:01.119]  I am the winner of Jeopardy, back to back, and then back to the serious news of them trying to stage a coup.
+[01:27:01.199 --> 01:27:02.239]  But you deserve some fun.
+[01:27:02.399 --> 01:27:03.199]  Here it is.
+[01:27:03.519 --> 01:27:09.840]  This speech has two rules: one, safety first, two, no fat chicks.
+[01:27:10.158 --> 01:27:13.057]  I am totally aligned on both roles.
+[01:27:20.247 --> 01:27:21.188]  Forecast for the day.
+[01:27:21.548 --> 01:27:23.427]  High heat, low globalists.
+[01:27:48.640 --> 01:27:50.479]  Oh my gosh, no, they blew up.
+[01:27:50.560 --> 01:27:53.199]  The Tesla Presents Lifeguard Cybertruck.
+[01:27:53.840 --> 01:27:57.359]  This has George Soros written all over it.
+[01:28:00.560 --> 01:28:01.039]  Look over there.
+[01:28:01.119 --> 01:28:03.279]  He's out on the water on a speedboat.
+[01:28:07.359 --> 01:28:08.640]  I'm coming for you, Soros.
+[01:28:08.720 --> 01:28:10.319]  You stupid son of a bitch.
+[01:28:11.600 --> 01:28:13.119]  Josie, Alex needs to back up.
+[01:28:13.279 --> 01:28:13.760]  Graduate that.
+[01:28:14.000 --> 01:28:18.019]  it's time to put an end to all the terrorism against Tesla and Hot Beach people.
+[01:28:25.118 --> 01:28:26.800]  We in Fosemans have arrived.
+[01:28:32.239 --> 01:28:34.159]  Now, folks, I want to be totally clear.
+[01:28:34.479 --> 01:28:35.519]  We're not trying to deceive you.
+[01:28:35.680 --> 01:28:37.039]  That was not the new Bay Watch.
+[01:28:37.199 --> 01:28:37.359]  Okay.
+[01:28:37.439 --> 01:28:38.960]  That was a joke meme.
+[01:28:39.279 --> 01:28:43.279]  If you're a leftist, a commie, or you know, an old boomer, I'm sorry.
+[01:28:43.359 --> 01:28:44.239]  We were not trying to deceive you.
+[01:28:44.399 --> 01:28:44.560]  Okay.
+[01:28:45.840 --> 01:28:48.399]  And some of us are like, well, what are all the jokes on the cyber Thanksgiving?
+[01:28:48.560 --> 01:28:49.920]  I just started joking, having fun.
+[01:28:50.079 --> 01:28:50.479]  Look out.
+[01:28:51.039 --> 01:28:52.960]  20 years ago, half my show was fun.
+[01:28:53.199 --> 01:28:54.720]  I just got so serious.
+[01:28:55.519 --> 01:28:56.399]  That's a real photo.
+[01:28:56.479 --> 01:28:57.359]  That actually happens.
+[01:28:57.680 --> 01:29:04.319]  Biden was over for his wheelchair there with his auto pin.
+[01:29:05.199 --> 01:29:10.640]  But seriously, don't forget: 60% off on everything at the AlexRestore.com, including the apparel.
+[01:29:10.800 --> 01:29:12.000]  That makes it a lost leader.
+[01:29:12.319 --> 01:29:13.760]  America First, brand new hat on.
+[01:29:14.000 --> 01:29:15.840]  I think it's probably the handsomest America first out there.
+[01:29:16.159 --> 01:29:17.119]  Look at this.
+[01:29:18.079 --> 01:29:19.279]  Patriot, bitch.
+[01:29:19.920 --> 01:29:22.079]  And that's honoring our veterans.
+[01:29:22.399 --> 01:29:23.519]  These are some of the new hats.
+[01:29:23.600 --> 01:29:25.199]  These are badass ombres.
+[01:29:25.600 --> 01:29:28.960]  To your Christmas shopping early and supports broadcast, thelistoishore.com.
+[01:29:29.039 --> 01:29:30.399]  Now, this is real.
+[01:29:30.720 --> 01:29:33.119]  I am actually the star of the New Jeopardy.
+[01:29:33.199 --> 01:29:34.560]  I actually won the season.
+[01:29:34.880 --> 01:29:37.760]  And JD Vance, this is real JD Vance.
+[01:29:37.840 --> 01:29:38.399]  Here it is.
+[01:29:38.960 --> 01:29:39.840]  Categories are.
+[01:29:40.479 --> 01:29:41.760]  That's a globalist.
+[01:29:43.039 --> 01:29:44.479]  Next up, 9-11.
+[01:29:45.359 --> 01:29:48.560]  Followed by famous fentanyl overdose deaths.
+[01:29:48.880 --> 01:29:50.800]  Then we've got It's a Man Baby.
+[01:29:51.119 --> 01:29:52.960]  Finally, we've got What a Fag.
+[01:29:53.199 --> 01:29:56.079]  Notice FAG is in quotations there.
+[01:29:56.399 --> 01:29:57.600]  Don, we'll start with you.
+[01:29:57.840 --> 01:30:01.520]  Let's try fag for $400, Alex.
+[01:30:03.439 --> 01:30:06.880]  Harry Sisson, an online content creator.
+[01:30:07.199 --> 01:30:09.680]  What is a massive fucking faggot?
+[01:30:10.000 --> 01:30:10.560]  That's it.
+[01:30:10.880 --> 01:30:12.159]  Don, you've got the board.
+[01:30:12.720 --> 01:30:16.159]  Let's go, fag for $600, Alex.
+[01:30:16.479 --> 01:30:18.880]  California Governor Gavin Newsom.
+[01:30:19.840 --> 01:30:21.279]  What is a total fag?
+[01:30:21.600 --> 01:30:23.439]  Oh, so close, but not quite there.
+[01:30:23.760 --> 01:30:24.800]  Yes, Alex.
+[01:30:25.039 --> 01:30:26.399]  What is a raging faggot?
+[01:30:27.039 --> 01:30:28.239]  Raging indeed.
+[01:30:28.719 --> 01:30:31.599]  Alex, go ahead and choose the next category.
+[01:30:32.239 --> 01:30:36.159]  Let's do famous fentanyl overdose deaths for 1,000.
+[01:30:37.119 --> 01:30:39.279]  Hey, that's not a real $20 bill.
+[01:30:39.519 --> 01:30:44.719]  This random criminal became the face of a George Soros color revolution in 2020.
+[01:30:45.679 --> 01:30:47.119]  Who is St. Floyd?
+[01:30:48.000 --> 01:30:49.519]  I'm checking with the judges.
+[01:30:49.839 --> 01:30:53.119]  And yes, St. Floyd or George Floyd both work here.
+[01:30:53.439 --> 01:30:55.679]  Alex, next category, please.
+[01:30:56.319 --> 01:30:58.639]  Let's go with It's a Man Baby for 1,000.
+[01:31:01.199 --> 01:31:02.159]  Daily Double.
+[01:31:02.479 --> 01:31:04.879]  Alex, what would you like to wager on this one?
+[01:31:05.519 --> 01:31:07.359]  So let's make it a true Daily Double, Alex.
+[01:31:07.679 --> 01:31:13.839]  This former first lady is built like a linebacker, and many have suggested she is actually a he.
+[01:31:14.959 --> 01:31:16.639]  Oh, boy, who is Big Mike?
+[01:31:17.279 --> 01:31:19.359]  Big Mike or Michelle Obama?
+[01:31:19.599 --> 01:31:23.119]  Absolute pythons for arms, and maybe one in her pants as well.
+[01:31:23.439 --> 01:31:24.799]  Alex, you've got control.
+[01:31:24.959 --> 01:31:26.000]  Go ahead.
+[01:31:26.639 --> 01:31:27.679]  Well, there you go.
+[01:31:28.000 --> 01:31:31.119]  Absolute pythons for arms and maybe one in the pants.
+[01:31:31.439 --> 01:31:33.119]  Alex, you've got control.
+[01:31:33.439 --> 01:31:34.559]  Actually, you got control.
+[01:31:34.719 --> 01:31:38.000]  You decide how much this live fee gets shared on Axe and Rumble right now.
+[01:31:38.159 --> 01:31:39.279]  You decide the clips to get out.
+[01:31:39.439 --> 01:31:40.559]  You decide what memes to make.
+[01:31:40.879 --> 01:31:41.439]  You decide.
+[01:31:41.759 --> 01:31:45.119]  You decide to take back the culture every day in every way.
+[01:31:45.679 --> 01:31:47.359]  All right, for myself and the crew, great job.
+[01:31:47.519 --> 01:31:49.679]  Here's some serious stuff now as we started the broadcast.
+[01:31:50.000 --> 01:31:52.879]  And by the way, pray for our troops, whatever happens, Venezuela.
+[01:31:53.839 --> 01:31:54.319]  Oh, go back.
+[01:31:54.399 --> 01:31:56.079]  That's actually a real photo right there.
+[01:31:56.719 --> 01:31:57.919]  That is who actually came over.
+[01:31:58.079 --> 01:32:07.439]  I wish it would have been Sidney Sweeney, but it was actually the Bud Light man, Dylan Mulvaney, that lost them billions of dollars.
+[01:32:07.759 --> 01:32:08.719]  What a genius move.
+[01:32:08.959 --> 01:32:11.679]  Don't hear much about Dylan Mulvaney these days.
+[01:32:13.599 --> 01:32:16.319]  Oh, look at the one with AOC, though, down there in the corner.
+[01:32:16.639 --> 01:32:17.679]  Look at that.
+[01:32:18.000 --> 01:32:19.439]  Now you're talking.
+[01:32:20.399 --> 01:32:21.119]  I don't know, man.
+[01:32:22.159 --> 01:32:24.559]  That's the big booty Latina right there.
+[01:32:25.119 --> 01:32:26.479]  I kind of like her like that.
+[01:32:26.799 --> 01:32:27.919]  Swaggering around.
+[01:32:28.239 --> 01:32:29.759]  I like how there's two turkeys.
+[01:32:30.159 --> 01:32:30.719]  Oh, yeah.
+[01:32:30.959 --> 01:32:32.719]  I just created two turkeys.
+[01:32:33.039 --> 01:32:34.079]  Oh, my God.
+[01:32:34.959 --> 01:32:36.239]  Oh, boy.
+[01:32:39.759 --> 01:32:40.959]  I love it.
+[01:32:41.599 --> 01:32:46.159]  Absolute pythons for arms and maybe one in his pants.
+[01:32:46.719 --> 01:32:49.679]  Actually, I have the largest micro penis in North America.
+[01:32:50.000 --> 01:32:51.759]  It's kind of a trick question, isn't it?
+[01:32:52.079 --> 01:32:52.719]  All right, I'm going to stop.
+[01:32:53.119 --> 01:32:53.759]  This is a family show.
+[01:32:53.839 --> 01:32:54.000]  I know.
+[01:32:54.079 --> 01:32:55.039]  I'm under a lot of stress.
+[01:32:55.119 --> 01:32:56.559]  I'd like to have a little bit of fun here.
+[01:32:56.879 --> 01:32:57.679]  Let's stop now.
+[01:32:57.759 --> 01:32:58.319]  Let's get serious.
+[01:32:58.399 --> 01:33:00.559]  I'll be back with a very serious broadcast tomorrow night.
+[01:33:00.879 --> 01:33:01.439]  Maybe.
+[01:33:02.159 --> 01:33:03.839]  Hey, the first 90% was serious.
+[01:33:04.000 --> 01:33:04.639]  Sorry.
+[01:33:04.959 --> 01:33:06.079]  You start seeing stuff like this.
+[01:33:06.239 --> 01:33:08.000]  You just got to start having some fun there, folks.
+[01:33:08.239 --> 01:33:09.919]  How dare I try to deceive you?
+[01:33:13.439 --> 01:33:14.799]  I don't know, though.
+[01:33:15.359 --> 01:33:16.559]  All right, let's stop.
+[01:33:17.039 --> 01:33:18.959]  Here's a serious report with Steven Gardner.
+[01:33:19.119 --> 01:33:20.719]  Be sure to share this, and God bless you all.
+[01:33:20.959 --> 01:33:22.000]  I hand the baton to you.
+[01:33:22.159 --> 01:33:22.879]  The show belongs to you.
+[01:33:22.959 --> 01:33:24.079]  What are you going to do with it now, folks?
+[01:33:24.239 --> 01:33:27.119]  I suggest you take action or be slaves.
+[01:33:29.279 --> 01:33:43.119]  Alex Jones is warning President Trump and the American people that there is an attempt to do a soft coup through the military, and it's being financed with billionaire George Soros money.
+[01:33:43.439 --> 01:33:59.359]  I'm talking about the seditious six members of Congress that were given a script, told to show up and film at a specific time where they told military people, do not obey the orders of your commander-in-chief.
+[01:33:59.679 --> 01:34:14.000]  Well, now we are finding out that the NGO, the nonprofit that is linked to this seditious behavior, goes back to none other than George Soros.
+[01:34:14.479 --> 01:34:21.759]  And it's not just these members of Congress calling to disobey President Trump as commander-in-chief.
+[01:34:22.000 --> 01:34:31.920]  Now there's billboards going up around the country asking people, is this what you really signed up for to obey the orders of Donald J. Trump?
+[01:34:32.239 --> 01:34:36.159]  So I want to get into this and I'm going to react to it with you.
+[01:34:36.800 --> 01:34:57.840]  But Alex Jones, he breaks down how this is actually an organized coup where they are planting seeds of doubt within the military and the police as President Trump uses the National Guard. and Border Patrol and Department of Homeland Security and ICE in order to clean up the country.
+[01:34:58.159 --> 01:34:59.920]  Let me go ahead and bring this to you.
+[01:35:01.119 --> 01:35:11.279]  Many years before they had the pandemic and the release of COVID, I predicted the six feet apart, the mask, the poison vaccine literature immune system.
+[01:35:11.600 --> 01:35:12.960]  How did I do it all?
+[01:35:13.840 --> 01:35:26.399]  Well, it turned out there were CIA and John Hopkins, Bill Gates funded war games with the UN, like Event 201 in 2011, that war gamed it all.
+[01:35:27.039 --> 01:35:38.159]  Well, it turns out in August of 2020, the Democratic Party had a war game with John Podesta that they adopted as their policy that if Trump won the election, they would foment a civil war.
+[01:35:38.399 --> 01:35:47.279]  But they first had to maneuver the public into believing Trump was a dictator when he put military on the streets when the Democrats were planning to burn down the country.
+[01:35:47.600 --> 01:35:55.439]  The summer of love in 2020 was just a beta test in case Trump won of what they were going to do the next summer in 2021.
+[01:35:56.079 --> 01:36:08.239]  Okay, so they were preparing to rig the election in Joe Biden's favor, but they were testing the country and Trump to see how much damage and violence and burning down cities they could get away with.
+[01:36:08.560 --> 01:36:14.239]  And then they started dripping into the military that it was okay to disobey orders.
+[01:36:14.560 --> 01:36:18.960]  Now, the reason I open up this discussion about what's happening now is it's a continuation of the same plan.
+[01:36:19.279 --> 01:36:29.119]  When Trump won re-election, was president-elect in November of last year, during those 76 days he was just president-elect, they openly said, we're now going to implement that plan.
+[01:36:29.439 --> 01:36:41.119]  And here we are, 10, 11 months in, they're trying it, having these senators and House members and CIA people come out and say, don't follow his illegal orders, but he's not given illegal orders.
+[01:36:41.439 --> 01:36:50.319]  But they're putting the idea out there that anything Trump does with the military when they try to stage this event that leads to a civil war and a coup is illegal.
+[01:36:50.640 --> 01:36:58.960]  Now, Greg Gutfeld did an excellent job today laying all of this out on the five.
+[01:36:59.520 --> 01:37:05.359]  And I want to go over some of it, but the angle he hits is you need to remember, and I need to do this as well.
+[01:37:05.760 --> 01:37:11.760]  Even though I know all this, I still sometimes get caught up in stuff that with the Democrats, they are completely discredited.
+[01:37:12.079 --> 01:37:16.239]  And not just the list of things he puts out, but two men are going to have a baby.
+[01:37:16.720 --> 01:37:19.279]  MS-13 is part of God's children.
+[01:37:20.079 --> 01:37:26.239]  President Trump got pissed on by Russian hookers, on and on and on and on.
+[01:37:26.479 --> 01:37:28.239]  So they're the known liars.
+[01:37:28.560 --> 01:37:33.840]  And look, as populists, as conservatives, as nationalists, as Republicans, it's great to criticize Trump.
+[01:37:33.920 --> 01:37:34.880]  And he does some bad things.
+[01:37:34.960 --> 01:37:36.720]  His administration goes on the wrong track.
+[01:37:36.800 --> 01:37:37.840]  We get on his ass.
+[01:37:38.159 --> 01:37:49.199]  But the Democrats are betting that we'll just stay on the Republicans' ass and forget about the fact that they are the dyed and wool liars and frauds of all time.
+[01:37:49.520 --> 01:37:55.760]  I mean, they break the records when you study history of any political group I've ever seen for just the level of gaslighting and fraud.
+[01:37:56.079 --> 01:37:57.520]  But his breakdown was excellent.
+[01:37:57.760 --> 01:38:04.880]  Now, here's the lead up of some of the incredible things that Senator Kelly and others are putting out and how they're spinning it.
+[01:38:05.199 --> 01:38:08.640]  And then the way that Guthfeldt responds is absolutely on target.
+[01:38:08.960 --> 01:38:14.239]  And then Jesse Waters nails it at the end and says, listen, we're done with you guys.
+[01:38:14.720 --> 01:38:16.159]  We have to let that sink in.
+[01:38:16.319 --> 01:38:18.640]  The Democrats are the enemy.
+[01:38:18.960 --> 01:38:20.000]  They're the known threat.
+[01:38:20.239 --> 01:38:21.760]  They're part of the globalist WEF.
+[01:38:21.840 --> 01:38:23.519]  They're the ones ally with communist China.
+[01:38:23.680 --> 01:38:24.559]  Schwal as well.
+[01:38:25.039 --> 01:38:32.800]  When Newsom runs for president, which has been basically announced, she's going to be installed as the new governor of California, a known Chinese spy.
+[01:38:33.359 --> 01:38:36.479]  So, yeah, let's keep Trump honest and stay on his ass.
+[01:38:36.800 --> 01:38:47.039]  But I'm noticing most populists, most conservatives, because the liberals promote it and give you attention for it, spend 95% of your time bitching about Trump, even making stuff up and exaggerating.
+[01:38:47.359 --> 01:38:49.760]  No, we need to stay on Trump.
+[01:38:50.079 --> 01:38:51.680]  But a lot of the time, he course corrects.
+[01:38:51.760 --> 01:38:52.880]  And overall, he does a great job.
+[01:38:53.119 --> 01:38:56.239]  We need to stay focused on these known liars.
+[01:38:56.559 --> 01:39:03.119]  Here's the exchange that we're going to analyze here from Fox today on the five.
+[01:39:03.680 --> 01:39:06.720]  And then I'll come back with some final comments, but this is really important stuff.
+[01:39:07.279 --> 01:39:10.720]  Okay, make sure you stay for what Gutfeld says.
+[01:39:11.039 --> 01:39:14.000]  And then I'm going to tell you my thoughts on this.
+[01:39:14.239 --> 01:39:24.000]  And then Jesse Waters absolutely hits a home run when it comes to what they are trying to do to undermine the president of the United States.
+[01:39:24.319 --> 01:39:28.239]  The seditious six might be wishing they could snag a part-in of their own.
+[01:39:28.479 --> 01:39:36.479]  The FBI is seeking to interview the six members of Congress who made a reckless video about troops disobeying illegal orders.
+[01:39:36.800 --> 01:39:44.159]  Arizona Senator Mark Kelly, he's facing a Pentagon probe and possible court-martial over his role in the video.
+[01:39:44.479 --> 01:39:48.399]  And he's still clueless on what illegal orders Trump has given.
+[01:39:48.559 --> 01:39:49.119]  Watch.
+[01:39:49.680 --> 01:39:58.960]  I said something that was pretty simple and non-controversial, and that was that members of the military should follow the law.
+[01:39:59.279 --> 01:40:03.840]  And in response to that, Donald Trump said, I should be executed.
+[01:40:04.159 --> 01:40:05.680]  I should be hanged.
+[01:40:06.000 --> 01:40:07.840]  I should be prosecuted.
+[01:40:08.159 --> 01:40:17.199]  Were there specific potentially illegal orders that you were thinking about that were the sort of precipitating cause for you guys to get together and do that?
+[01:40:17.840 --> 01:40:18.880]  Here's the thing, Rachel.
+[01:40:19.119 --> 01:40:24.640]  You don't want to wait for your kid to get hit by a car before you tell him to look both ways.
+[01:40:24.960 --> 01:40:26.640]  The whole thing's almost comical.
+[01:40:28.000 --> 01:40:36.640]  Arizona's other senator, Ruben Gallego, he is providing covering fire for his fellow senators and telling the Trump administration to watch out.
+[01:40:37.279 --> 01:40:39.039]  Donald Trump's going to be gone a couple years.
+[01:40:39.359 --> 01:40:48.399]  And if you're part of the military that is going after sitting senators, sitting members of Congress, and part of the weaponization of government, there will be consequences, without a doubt.
+[01:40:48.559 --> 01:40:55.920]  So, you know, I think there's going to be a lot of officers that are going to be part of this potential tribunal, if they want to call that.
+[01:40:56.159 --> 01:40:57.519]  They're going to be looking over their shoulders.
+[01:40:58.159 --> 01:41:04.000]  And AOC is calling President Trump's mental stability into question over the whole situation.
+[01:41:04.319 --> 01:41:10.000]  The president's remarks are, I think, indicate a level of instability.
+[01:41:12.159 --> 01:41:13.519]  It's not just shocking.
+[01:41:13.680 --> 01:41:15.039]  It's not just offensive.
+[01:41:15.359 --> 01:41:16.640]  It's bizarre.
+[01:41:16.960 --> 01:41:18.319]  It is erratic.
+[01:41:18.479 --> 01:41:19.840]  It's volatile.
+[01:41:20.720 --> 01:41:27.760]  And I think it indicates a mental state that we should all be questioning right now, whether that's emotional, mental, what have you.
+[01:41:28.079 --> 01:41:31.439]  It is not normal to make these accusations.
+[01:41:31.600 --> 01:41:35.600]  It is not normal to invoke these kinds of threats of violence.
+[01:41:35.920 --> 01:41:36.239]  All right.
+[01:41:36.479 --> 01:41:43.279]  So they are dripping out to the American public and into the military that Trump is losing his mind.
+[01:41:43.519 --> 01:41:44.880]  That, you know what?
+[01:41:45.439 --> 01:41:48.479]  We should have seen the signs with Biden, but we didn't.
+[01:41:48.800 --> 01:41:53.359]  We can make this right by seeing the signs with President Trump.
+[01:41:53.680 --> 01:42:00.720]  And they're leaking out to these people that it is okay to disobey Donald Trump just because they don't like him.
+[01:42:00.880 --> 01:42:02.800]  But they know that you can't just say that.
+[01:42:03.119 --> 01:42:18.239]  So they've got to make him look crazy, that he's losing his mental capabilities, and that he is so evil that you have to betray him like when Julius Caesar crossed the Rubicon and killed everyone in the Senate.
+[01:42:18.399 --> 01:42:19.199]  Let's keep going.
+[01:42:20.319 --> 01:42:21.359]  All right, Greg.
+[01:42:21.599 --> 01:42:21.759]  Yes.
+[01:42:22.079 --> 01:42:24.799]  Which one of those looney tunes do you want to start with?
+[01:42:25.119 --> 01:42:30.159]  Well, I would like to paraphrase the who and say, meet the new hoax, same as the old hoax.
+[01:42:30.239 --> 01:42:34.719]  This is a military video that managed to make something out of nothing.
+[01:42:34.959 --> 01:42:37.599]  So you have, this is, it's the pure structure.
+[01:42:37.839 --> 01:42:39.839]  One, you begin with an insinuation.
+[01:42:40.159 --> 01:42:51.119]  That becomes an imaginary problem that is bolstered by, and this is important, the credentialed class, which is exactly what they did with the denial of Hunter's laptop and Russian collusion.
+[01:42:51.279 --> 01:42:52.719]  You find so-called experts.
+[01:42:53.039 --> 01:42:55.519]  Then this is amplified by a receptive media.
+[01:42:55.839 --> 01:42:58.399]  You saw that with Russia collusion and the fine people hoax.
+[01:42:58.559 --> 01:43:04.959]  And then you get the Trump response, which is then incorporated into the hoax that he is authoritarian.
+[01:43:05.199 --> 01:43:06.239]  Look how he responded.
+[01:43:06.559 --> 01:43:13.759]  However, this can only work if you have no memory or no scruples because there is no credibility among the Democrats or the media.
+[01:43:13.999 --> 01:43:16.479]  The big picture here, why is this happening?
+[01:43:16.799 --> 01:43:20.399]  The power and the currency of the Trump administration is energy.
+[01:43:20.639 --> 01:43:26.399]  And the goal is to deplete that energy to handicap the White House and to handicap the rest of us.
+[01:43:27.039 --> 01:43:30.079]  Tiring us out is their strategy.
+[01:43:30.399 --> 01:43:40.239]  So when you see stuff like that, you realize the only value that you can give this thing is to absorb the story.
+[01:43:40.559 --> 01:43:42.639]  Instead of absorbing it, you observe it.
+[01:43:42.879 --> 01:43:48.559]  In fact, that's the way you should treat all news is when a story is coming at you, you don't let it in.
+[01:43:48.879 --> 01:43:49.919]  You just observe it.
+[01:43:49.999 --> 01:43:51.359]  You let it swirl around you.
+[01:43:51.519 --> 01:43:56.319]  You don't want to give it any energy, especially when they don't deserve your energy.
+[01:43:56.639 --> 01:44:02.799]  Let the two discredited entities, the media and the Democrats, play ball between themselves.
+[01:44:03.119 --> 01:44:12.719]  You cannot grant them any of your attention or your energy given the fine people hoax, the laptop cover-up, the Russian collusion, and especially, and most notably the Joe Biden cover-up.
+[01:44:12.959 --> 01:44:19.199]  If you take the word of the Democrats, then you probably still believe OJ is going to find the real killer, and he's dead.
+[01:44:19.519 --> 01:44:30.639]  As for, and I'll shut up, the non-controversial thing that the astronaut says, it's kind of a half-truth truth in that it's obvious that you should not obey illegal orders.
+[01:44:30.879 --> 01:44:32.319]  So that's non-controversial.
+[01:44:32.479 --> 01:44:38.559]  What is controversial is that they did the video, which means it had nothing to do with that.
+[01:44:38.879 --> 01:44:44.959]  So you don't gather all the elite Democrats together and make a video to state something obvious or banal.
+[01:44:45.119 --> 01:44:48.639]  You do it to create dissent and chaos and deceive Americans.
+[01:44:48.959 --> 01:45:04.639]  And it seems to me, Jesse, that for quite a long time now, these certain liberals and Democrats with lots of followers have gotten used to throwing out outlandish and false defamatory statements, especially about the president, and no one ever asked for specificity.
+[01:45:04.959 --> 01:45:07.759]  Now you see someone just even say like, oh, which one?
+[01:45:07.919 --> 01:45:08.879]  Which one are you talking about?
+[01:45:09.199 --> 01:45:17.999]  And they immediately deflate because they are unable to cite anything that the president has done that isn't actually perfectly constitutional or within bounds.
+[01:45:18.239 --> 01:45:21.359]  And you got to give the mainstream media credit for asking a question.
+[01:45:21.599 --> 01:45:23.199]  Usually they just buy it.
+[01:45:23.519 --> 01:45:26.319]  We're not going to let the Democrats mess with the military anymore.
+[01:45:26.399 --> 01:45:27.279]  We're just not going to let them do it.
+[01:45:27.439 --> 01:45:28.479]  They already did it with DEI.
+[01:45:28.559 --> 01:45:29.199]  They did it with trans.
+[01:45:29.679 --> 01:45:33.039]  They had Drag Queen Story Hour on Army bases.
+[01:45:33.199 --> 01:45:33.759]  It's done.
+[01:45:34.000 --> 01:45:34.799]  We're done with it.
+[01:45:35.039 --> 01:45:35.199]  Okay.
+[01:45:35.359 --> 01:45:37.359]  They've already destroyed morale enough.
+[01:45:37.679 --> 01:45:41.039]  And we're sick of cleaning up their messes in Ukraine and Iran at the border.
+[01:45:41.199 --> 01:45:42.239]  We have a lot to handle.
+[01:45:42.399 --> 01:45:42.639]  All right.
+[01:45:42.799 --> 01:45:44.079]  And it's only been a year.
+[01:45:44.399 --> 01:45:46.399]  This is ending and it's ending now.
+[01:45:46.719 --> 01:45:47.039]  All right.
+[01:45:47.199 --> 01:45:54.159]  So just to recap, this is so important because a lot of us were being hit with so much information.
+[01:45:54.479 --> 01:46:07.839]  The plot is to put out a fake story, get the mainstream left-leaning media to pick it up, pour gas all over it, get the reaction from Donald Trump to make him look crazy.
+[01:46:08.159 --> 01:46:09.839]  Then they gaslight their voters.
+[01:46:10.319 --> 01:46:18.880]  Entire thing is a psyop on your mental health to drain you of energy so that you'll just give in and go, I guess Donald Trump is evil.
+[01:46:19.439 --> 01:46:21.199]  I guess Donald Trump is bad.
+[01:46:21.519 --> 01:46:22.880]  Don't fall for it.
+[01:46:23.199 --> 01:46:24.319]  You're smarter than that.
+[01:46:24.479 --> 01:46:27.359]  That's why you watch my show and other great shows.
+[01:46:27.680 --> 01:46:33.279]  Okay, Alex Jones is going to point something out really important, and then Jesse Waters is going to bring it home.
+[01:46:33.439 --> 01:46:34.640]  So stick with me on this.
+[01:46:34.960 --> 01:46:38.159]  Microplastics are infiltrating every part of our lives.
+[01:46:38.479 --> 01:46:43.600]  Scientists estimate we now consume a credit card's worth of plastic every single week.
+[01:46:43.840 --> 01:46:46.479]  It's in our food, water, even the air we breathe.
+[01:46:46.800 --> 01:46:52.720]  One study found that plastic particles were in 100% of human lung samples.
+[01:46:53.039 --> 01:46:56.079]  Nobody is safe from this exposure, but it gets worse.
+[01:46:56.239 --> 01:46:58.159]  The plastics, they don't just sit there.
+[01:46:58.319 --> 01:47:03.519]  They can cross the gut lining barrier, leach into your blood, disrupt your hormones.
+[01:47:03.760 --> 01:47:14.319]  They've even been shown to alter gut bacteria, suppress immune response, and increase your risk of neurodegenerative disease, metabolic disorder, and even cancer.
+[01:47:14.640 --> 01:47:23.279]  Some plastics, like BPA and phthalate, mimic hormones and interfere with fertility or damage DNA.
+[01:47:23.600 --> 01:47:28.159]  Even if you eat clean or avoid packaged food, you're still being exposed.
+[01:47:28.479 --> 01:47:32.479]  You can't opt out of this problem, but your gut can fight back.
+[01:47:32.800 --> 01:47:38.000]  Kim Chi1 from Brightcourt Nutrition is a potent ally in the toxic world.
+[01:47:38.239 --> 01:47:47.279]  It's packed with over 900 probiotic strains unique to Kim Chi and proven to break down BPA, helping you detox from the inside out.
+[01:47:47.519 --> 01:47:49.279]  It doesn't just support digestion.
+[01:47:49.439 --> 01:47:53.279]  It helps protect your cells, your brain, your hormones, and your future.
+[01:47:53.600 --> 01:48:06.559]  Your body was never designed to handle plastics, but your gut was designed to protect you, but you have to give it the right tools, which is why I want to talk to you today about Kim Chi1.
+[01:48:07.039 --> 01:48:12.960]  Today, you can get an exclusive offer using my code Gardner for 25% off your entire order.
+[01:48:13.359 --> 01:48:14.960]  Are in command of this operation.
+[01:48:15.199 --> 01:48:17.519]  I've already reported that, but now he knows it.
+[01:48:17.840 --> 01:48:21.519]  And other major reporters are now putting the info out as well.
+[01:48:21.840 --> 01:48:31.119]  This shows, one of the first times in U.S. history, that there is an internal war with the CIA and that good people outside are exposing this plot.
+[01:48:31.439 --> 01:48:33.119]  I covered it more detail today on the show.
+[01:48:33.199 --> 01:48:36.880]  There's full videos on X Rumble that detail it all over an hour of it.
+[01:48:37.199 --> 01:48:40.399]  But here's the clip of Waters talking about it.
+[01:48:40.559 --> 01:48:43.600]  This is a big, big deal because this is the Democrats.
+[01:48:43.840 --> 01:48:45.680]  Final play, ladies and gentlemen.
+[01:48:46.000 --> 01:48:50.960]  So I talked to two CIA officers who said that this is a part of a larger hoax.
+[01:48:51.279 --> 01:49:00.239]  And what they're doing here is they're trying to condition the country to prepare for something bad that's about to happen at the hands of Donald Trump.
+[01:49:00.399 --> 01:49:02.000]  It's straight out of the CIA playbook.
+[01:49:02.079 --> 01:49:06.720]  It's a destabilization operation where you get people to mistrust each other.
+[01:49:07.039 --> 01:49:12.000]  And you do this because she's an analyst.
+[01:49:12.239 --> 01:49:17.840]  And as an analyst, she would make sure what propaganda operations were successful, which ones weren't.
+[01:49:17.920 --> 01:49:19.359]  So she knows what works.
+[01:49:19.680 --> 01:49:23.119]  So the first part of the video, you establish authority.
+[01:49:23.439 --> 01:49:24.319]  I'm CIA.
+[01:49:24.479 --> 01:49:25.279]  I'm military.
+[01:49:25.519 --> 01:49:26.640]  You need to trust us.
+[01:49:26.960 --> 01:49:29.519]  Second part of the video, they introduce the threat.
+[01:49:29.680 --> 01:49:31.039]  And the threat's not foreign.
+[01:49:31.199 --> 01:49:32.159]  The threat's domestic.
+[01:49:32.479 --> 01:49:33.600]  The threat's Donald Trump.
+[01:49:33.760 --> 01:49:35.840]  And then at the end, they introduce the solution.
+[01:49:36.159 --> 01:49:37.119]  What's the solution?
+[01:49:37.439 --> 01:49:38.239]  You resist.
+[01:49:38.559 --> 01:49:39.359]  You say no.
+[01:49:39.680 --> 01:49:40.800]  But they don't give an option.
+[01:49:40.880 --> 01:49:43.680]  They say this is an obligation for you to do.
+[01:49:43.920 --> 01:49:48.559]  Now, she is being run because she didn't come up with this herself.
+[01:49:48.720 --> 01:49:50.239]  She's a Brennan acolyte.
+[01:49:50.319 --> 01:49:53.680]  And you usually don't have congressmen and senators doing anything together.
+[01:49:53.840 --> 01:49:54.800]  They kind of hate each other.
+[01:49:55.119 --> 01:50:01.039]  So in order to organize this, this had to have had some sort of handler telling her what to do.
+[01:50:01.359 --> 01:50:05.760]  And it was risky because nothing like this has ever been done in the history of the country.
+[01:50:05.920 --> 01:50:12.880]  And you can even tell because the media was skeptical and they couldn't answer the question.
+[01:50:13.199 --> 01:50:15.359]  So they hadn't even been read in on the operation.
+[01:50:15.520 --> 01:50:17.119]  You see them fumbling and stumbling.
+[01:50:17.440 --> 01:50:25.600]  And I'm glad that the U.S. military is now investigating this guy, Kelly, because this is what we expect from Donald Trump 2.0.
+[01:50:25.920 --> 01:50:30.720]  You can't have the deep state interfering with a duly elected presidency and get away with it.
+[01:50:30.960 --> 01:50:34.640]  You got to draw the line in the sand and you have to make examples out of people.
+[01:50:34.960 --> 01:50:50.960]  When I saw that video last week that they put out, now it's been connected to the Soros NGOs, senators and House members, basically trying to prep a military coup, a mutiny against Trump and the American electorate that we voted for.
+[01:50:51.520 --> 01:50:54.399]  I said, then, what they said here is couched.
+[01:50:54.480 --> 01:50:57.840]  It's thinly veiled, but it's legal under the First Amendment.
+[01:50:58.159 --> 01:51:10.640]  But the globalists, the Podesta plan, and the Democrats planning civil war and the larger agenda saying drive Trump from office and their whole Civil War plan, they even put in a movie that came out last year, Civil War.
+[01:51:10.960 --> 01:51:17.920]  And in the last few months, one battle after another with Leonardo Caprio literally pushes this plan.
+[01:51:18.239 --> 01:51:27.359]  So what's illegal is the funders and the planners of this admitting it's part of a larger plan to trigger a civil war and a true seditious conspiracy.
+[01:51:27.680 --> 01:51:32.960]  That's what the FBI questioning Senator Kelly and the others should be all about.
+[01:51:33.600 --> 01:51:39.680]  If Hegseth comes out with a military tribunal, because he's former military and officer can be recalled, that's legal.
+[01:51:40.000 --> 01:51:43.039]  And they have a trial, they'll be found not guilty.
+[01:51:43.199 --> 01:51:46.239]  Kelly will be because they couched it.
+[01:51:46.880 --> 01:51:57.039]  But the fact that they were sent to sow discord, the fact that it's part of a larger admitted plan that Podesta put out that they're following, that's the conspiracy.
+[01:51:57.359 --> 01:51:59.680]  That's what's illegal, and that's what has to be looked at.
+[01:52:00.000 --> 01:52:00.319]  All right.
+[01:52:00.880 --> 01:52:02.000]  This whole thing is a plan.
+[01:52:02.159 --> 01:52:04.720]  They were seeing how much they could get away with.
+[01:52:05.039 --> 01:52:06.640]  Even the media was caught off guard.
+[01:52:06.720 --> 01:52:15.760]  Like, oh, hey, you guys should have given us a heads up on this anti-Trump psychological warfare because we don't know how to handle it right now.
+[01:52:16.079 --> 01:52:20.960]  So anyway, I wanted to let you guys know this is a bigger deal than I realized.
+[01:52:21.119 --> 01:52:24.159]  Even I was like, wait a minute, something feels really off about this.
+[01:52:24.480 --> 01:52:32.159]  But you start digging in and you realize they were using military authority, CIA authority, senator authority.
+[01:52:32.480 --> 01:52:42.560]  And then they were trying to spark a reaction from Trump so that they could make him look mentally ill, mentally deficient, that he was crazy.
+[01:52:42.880 --> 01:52:49.680]  And then now we find out that it's George Soros and others that are testing the fence to see if they'll get burned.
+[01:52:50.000 --> 01:52:51.680]  And we can't let them get away with it.
+[01:52:52.000 --> 01:52:52.239]  All right.
+[01:52:52.319 --> 01:52:59.359]  If you found this video valuable, please give it a like, hit that subscribe button, share, share, share, get the truth out.
+[01:52:59.600 --> 01:53:05.359]  They tried to do a military coup, and even the media, they were caught off guard by it.
+[01:53:05.680 --> 01:53:07.760]  Don't let them get away with this crap.
+[01:53:07.920 --> 01:53:08.319]  I love you.
+[01:53:08.480 --> 01:53:09.199]  Stay amazing.

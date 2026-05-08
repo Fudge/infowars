@@ -1,0 +1,1428 @@
+# Transcription model: nvidia/parakeet-tdt-0.6b-v2, sat-12l-sm, and large-v3-turbo
+# Transcript cleaned with version 0.1.2
+# Source MD5: efab700d49896440c682cbe5c4e1557e
+[00:00:13.359 --> 00:00:16.160]  InfoWars, tomorrow's news, today.
+[00:00:18.719 --> 00:00:23.839]  Ladies and gentlemen, it is Sunday, February 1st, 2026.
+[00:00:24.160 --> 00:00:37.119]  We're about to present incredible evidence, certified emails going back to 2006 and right until recently, with Jeffrey Epstein with top Democrats and world leaders literally trafficking children.
+[00:00:37.439 --> 00:00:39.359]  One slice of pizza for seven people.
+[00:00:39.679 --> 00:00:40.399]  You're going to love it.
+[00:00:40.640 --> 00:00:42.719]  The glow, the love, it's going to be so great.
+[00:00:43.039 --> 00:00:44.880]  They would talk about children, torturing them.
+[00:00:45.119 --> 00:00:47.039]  This is confirmed real stuff.
+[00:00:47.520 --> 00:00:51.280]  And then you've also got Mamdani as a child at parties with them, all the rest of it.
+[00:00:51.359 --> 00:00:55.679]  This is going to be an absolutely massive transmission today.
+[00:00:56.000 --> 00:00:57.200]  We've got all the documents.
+[00:00:57.359 --> 00:01:08.879]  Myself and Harrison Smith, stay with us for this and share the live feed right now at RealAlexJones on X, the Rumble Feed at the Alex Jones Show, Infowars.com forward slash show and tell folks about the Amin Festation you're listening to.
+[00:01:09.040 --> 00:01:09.840]  This is historic.
+[00:01:10.079 --> 00:01:13.519]  It's a huge victory that we forced all this out bipartisanly.
+[00:01:13.840 --> 00:01:14.960]  And now it's all coming out.
+[00:01:15.040 --> 00:01:16.000]  Trump's been vindicated.
+[00:01:16.079 --> 00:01:17.439]  He's not in there in any real stuff.
+[00:01:17.600 --> 00:01:18.560]  So why did he do this?
+[00:01:18.879 --> 00:01:21.920]  Now he's saying, look, I'm vindicated because they lied to him.
+[00:01:22.000 --> 00:01:24.000]  It said for National Security, don't release it.
+[00:01:24.320 --> 00:01:26.239]  Trump needs to go to full of these people.
+[00:01:26.400 --> 00:01:28.000]  We need indictments now.
+[00:01:28.560 --> 00:01:29.600]  That's the next phase.
+[00:01:29.840 --> 00:01:31.120]  The people demand it.
+[00:01:31.439 --> 00:01:32.879]  The main transmission starts now.
+[00:01:33.359 --> 00:01:34.320]  Share those live feeds.
+[00:01:34.400 --> 00:01:35.439]  You are the Paul Revere's.
+[00:01:35.519 --> 00:01:36.240]  Humanity's winning.
+[00:01:36.320 --> 00:01:37.120]  We've turned the tide.
+[00:01:37.280 --> 00:01:38.240]  We're winning the battles now.
+[00:01:38.320 --> 00:01:39.200]  We have to win the war.
+[00:01:39.439 --> 00:01:42.879]  This is ultra-mass, the biggest news I've covered in 32 years on air.
+[00:01:43.040 --> 00:01:44.000]  You're the Paul Revere's.
+[00:01:44.079 --> 00:01:45.120]  Share the live feeds now.
+[00:01:45.680 --> 00:01:49.840]  Welcome, ladies and gentlemen, to, well, to the bottom of the rabbit hole.
+[00:01:50.159 --> 00:01:53.439]  It's the Alex Jones show, Infowars.com, banned.video.
+[00:01:53.600 --> 00:01:54.640]  Share those links, folks.
+[00:01:54.799 --> 00:01:56.879]  You're not going to want to miss this broadcast.
+[00:01:57.200 --> 00:01:59.519]  We got a lot of reports that Alex Jones has filed.
+[00:02:00.240 --> 00:02:01.439]  I'm sitting in the studio.
+[00:02:01.600 --> 00:02:03.760]  I'll throw to him and pitch to them.
+[00:02:04.079 --> 00:02:07.680]  But it has been a wild, I was been 48 hours at this point.
+[00:02:07.760 --> 00:02:12.800]  The Epstein files released last Friday, 3 million documents.
+[00:02:12.960 --> 00:02:17.200]  And I have to admit, I didn't think we'd ever get this tranche.
+[00:02:17.280 --> 00:02:21.840]  I've been saying for months at this point, we're never getting the Depstein documents.
+[00:02:22.240 --> 00:02:22.960]  It's a pipe dream.
+[00:02:23.039 --> 00:02:26.319]  It'd be nice if it happened, but I don't think it's ever going to happen.
+[00:02:26.560 --> 00:02:27.680]  I never thought this was going to happen.
+[00:02:28.000 --> 00:02:36.319]  I never thought we would get the level of exposure that we now have with the Epstein files.
+[00:02:36.640 --> 00:02:38.719]  It is absolutely massive.
+[00:02:38.800 --> 00:02:42.000]  The things being discussed are absolutely mind-blowing.
+[00:02:42.319 --> 00:02:49.439]  Now, of course, if you're an InfoWars viewer, it's not all going to be that explosive because we've known a lot of this already.
+[00:02:49.599 --> 00:02:50.719]  We're getting the details.
+[00:02:51.039 --> 00:02:53.840]  We've had the sort of black and white image for a long time.
+[00:02:54.000 --> 00:02:55.680]  Now we're getting the colors filled in.
+[00:02:56.000 --> 00:03:01.520]  We're going to know exactly where the money was sent and to who and the code words that they talked in.
+[00:03:03.360 --> 00:03:11.360]  And it's amazing to see the way that the human intelligence network has developed since we were first covering this story.
+[00:03:11.599 --> 00:03:16.960]  I say we as an InfoWars was covering this story back in, what, 2006 when it first broke.
+[00:03:17.280 --> 00:03:18.879]  And we were the only ones talking about it.
+[00:03:18.960 --> 00:03:25.920]  Alex Jones was one of the only people in American media to actually pick up on the Jeffrey Epstein story and start talking about it 20 years ago.
+[00:03:26.240 --> 00:03:40.960]  And for two decades, they have gone out of their way to discredit the entire concept of elite pedophilia, let alone the more extreme examples like cannibalism, murder for fun, hunting parties with human prey.
+[00:03:41.280 --> 00:03:49.360]  I mean, that type of stuff is actually discussed in these Jeffrey Epstein emails in ways that we never expected.
+[00:03:49.680 --> 00:03:58.400]  And it's amazing to see millions of people on X, on social media, all over the place, digging into this and coming up with their own conclusions.
+[00:03:58.560 --> 00:04:04.000]  I'm going to explain to you how you can get involved in this, how you can be an investigator, because there's so much information.
+[00:04:04.159 --> 00:04:20.079]  There's more coming out on a minute-by-minute basis, essentially, at this point, as people go through the documents and search certain keywords or find certain code words that open up entire vistas of understanding as to how this whole thing operates.
+[00:04:20.399 --> 00:04:25.279]  So, we're going to get into this as much as we possibly can in our brief two hours here.
+[00:04:25.439 --> 00:04:33.680]  I may open up the phone lines if we have time, but we've got over 50 stories just as the most crazy examples of revelations.
+[00:04:33.840 --> 00:04:44.399]  When we get back, after a short 90-second break, Alex Jones has filed a report about Jeffrey Epstein and a lot of the suspicious activity around him that's been revealed in this document tranche.
+[00:04:44.639 --> 00:04:55.759]  Don't go anywhere, folks, unless you go to thealexjonesstore.com to support us in our continuing mission to take down the transnational pedophile network that rules the world.
+[00:04:55.920 --> 00:04:56.360]  Stay with us.
+[00:05:03.860 --> 00:05:08.660]  Ladies and gentlemen, the three million plus Epstein files that's got released Friday are devastating.
+[00:05:09.120 --> 00:05:10.079]  We've been reviewing them.
+[00:05:10.240 --> 00:05:14.720]  It's got the smoking gun of human trafficking, sex slavery, torture, you name it.
+[00:05:14.879 --> 00:05:16.538]  We're about to break it down right now.
+[00:05:22.669 --> 00:05:25.609]  It is Sunday, February 1st, 2026.
+[00:05:26.449 --> 00:05:34.429]  And I have had time to scan through much of the 3 million files and look at all the great research of human researchers and AI scanning of the files.
+[00:05:34.639 --> 00:05:36.639]  And it is massive.
+[00:05:36.960 --> 00:05:39.360]  It is so devastating.
+[00:05:39.600 --> 00:05:40.000]  All right.
+[00:05:40.560 --> 00:05:46.800]  Now, most of the media and a lot of leftist activists are trying to focus on Trump and the few things that are there.
+[00:05:46.879 --> 00:05:47.920]  And we'll look at it.
+[00:05:48.000 --> 00:05:49.199]  We'll look at all of it.
+[00:05:49.519 --> 00:05:52.000]  But this is bigger than Donald Trump.
+[00:05:52.639 --> 00:06:01.040]  This is confirmed Epstein emails with top Democrats and scientists and others literally saying we're having a pizza party.
+[00:06:01.279 --> 00:06:03.279]  We got one piece of pizza for seven people.
+[00:06:03.600 --> 00:06:05.279]  We may bring more pizza.
+[00:06:05.600 --> 00:06:11.279]  And now they're glowing and empowering how great this pizza is going to be and the types of pizza it is.
+[00:06:11.600 --> 00:06:11.920]  Okay.
+[00:06:13.279 --> 00:06:30.960]  This is very similar to what is in the WikiLeaks documents that came out in 2016 that were confirmed to be John Podesta in upstate New York at a secluded farm with a hot tub and pool and the seven, nine-year-old kids delivered for his pleasure and the Aleister Crowley rituals.
+[00:06:31.039 --> 00:06:32.080]  That's all real.
+[00:06:32.720 --> 00:06:36.080]  And this stuff is even crazier.
+[00:06:36.399 --> 00:06:38.000]  They're talking about torturing people.
+[00:06:38.240 --> 00:06:42.639]  They're talking about the benefits of transgenderism to sexualized children.
+[00:06:42.960 --> 00:06:45.519]  And they can't deny it's even hitting mainstream news.
+[00:06:45.759 --> 00:06:47.680]  It is absolutely incredible.
+[00:06:47.920 --> 00:06:49.759]  We're about to break it down right now.
+[00:06:50.080 --> 00:07:05.039]  Now, obviously, the globalist system, the intelligence agencies that have been running all of this, that's also come out in this and previous data, Mossad, CIA, MI6, and others, they're going to try to spin this and make it all about Trump.
+[00:07:05.360 --> 00:07:10.639]  If Trump was implicated in this Aleister Crowley stuff and the sex magic and the pedophilia, I'd be all over his ass.
+[00:07:11.920 --> 00:07:13.439]  But that's not what's here.
+[00:07:13.759 --> 00:07:15.279]  It's all Democrats.
+[00:07:15.519 --> 00:07:17.200]  It's brokerage firm heads.
+[00:07:17.439 --> 00:07:20.800]  It's billionaire Wall Street Titans.
+[00:07:21.360 --> 00:07:28.319]  It's the heads of Harvard and the head scientists at Harvard and the head biological evolutionary scientist.
+[00:07:28.480 --> 00:07:30.480]  I mean, it's unbelievable.
+[00:07:30.800 --> 00:07:36.560]  And I posted on X dozens and dozens of these emails, and there's just more and more and more.
+[00:07:37.200 --> 00:07:41.360]  All how this is a transhumanist death cult that seeks to basically destroy society.
+[00:07:41.600 --> 00:07:46.720]  And if we will hurt our children, if we will make them a currency of evil, then we'll do anything.
+[00:07:47.200 --> 00:07:59.280]  So I noticed as soon as this stuff came out, Friday, I started covering it and talked about Bill Gates and diseases for underage girls and trying to drug his wife, you know, secretly with antibiotics because he thought he'd gotten their disease.
+[00:07:59.520 --> 00:08:00.879]  People are like, why aren't you covering Trump?
+[00:08:00.960 --> 00:08:02.240]  Why aren't you covering Trump?
+[00:08:02.879 --> 00:08:06.879]  All the stuff in there is Jane Does that were just proven to be false, all the rest of it.
+[00:08:07.120 --> 00:08:08.320]  He was never at the island.
+[00:08:08.480 --> 00:08:13.200]  The victims all said they never saw Trump except at Marwago, one of them, and that he was nice.
+[00:08:13.520 --> 00:08:18.960]  So Trump's problem was he got convinced of the new administration to try to shut it down.
+[00:08:19.280 --> 00:08:24.879]  But you notice Trump came out last night and said, you know, now that I've learned this came out, I'm glad I'm exonerated.
+[00:08:25.040 --> 00:08:25.439]  No crap.
+[00:08:25.660 --> 00:08:40.120]  It should be because it looked like this guy Wolf was a writer was conspiring with Epstein to do harm to me.
+[00:08:40.960 --> 00:08:51.279]  And I didn't see it myself, but I was told by some very important people that not only does it absolve me, it's the opposite of what people were hoping, you know, the radical left.
+[00:08:51.840 --> 00:09:00.639]  That Wolf, who's a third grade writer, was conspiring with Jeffrey Epstein to hurt me politically or otherwise.
+[00:09:00.960 --> 00:09:03.039]  And that came through loud and clear.
+[00:09:03.120 --> 00:09:05.200]  So we'll probably sue Wolf for that.
+[00:09:05.840 --> 00:09:08.720]  But he was told for National Security, cover it up.
+[00:09:09.039 --> 00:09:11.600]  So that makes him guilty by extension of being part of this.
+[00:09:11.680 --> 00:09:14.160]  And that's pissed a bunch of Republicans off that I'm telling the truth.
+[00:09:14.480 --> 00:09:17.120]  But I called this a year ago for my sources and the rest of it.
+[00:09:17.279 --> 00:09:18.800]  I've been covering this really before anybody.
+[00:09:19.120 --> 00:09:27.920]  So you got one camp saying I'm covering up for Trump, another camp, you know, saying that just leave the Democrats alone.
+[00:09:28.240 --> 00:09:30.160]  It's about the facts, folks.
+[00:09:30.480 --> 00:09:43.680]  You have the Podestas, you have the Clintons, you have Bill Gates, you have all these Harvard heads and all these other university heads up to their eyeballs at pizza parties with the single slices of pizza and things being delivered.
+[00:09:43.920 --> 00:09:47.600]  And you have the FBI manuals where this is all the key code words they use.
+[00:09:47.680 --> 00:09:48.879]  That's also in the WikiLeaks.
+[00:09:49.440 --> 00:09:52.960]  I mean, think about the magnitude of the stuff you're reading on screen.
+[00:09:53.120 --> 00:10:01.120]  And go to Real Alex Jones and read it or go to the actual data file that the DOJ released that we've linked to the DOJ at RillAlex ShowsonX and InfoWars.com.
+[00:10:01.360 --> 00:10:02.400]  I mean, it is incredible.
+[00:10:02.639 --> 00:10:05.680]  So listen, this is bigger than Donald Trump.
+[00:10:05.840 --> 00:10:06.799]  Go after Donald Trump.
+[00:10:06.879 --> 00:10:07.680]  You can find something great.
+[00:10:07.759 --> 00:10:09.039]  I don't have a dog in that fight.
+[00:10:09.360 --> 00:10:09.519]  Okay.
+[00:10:09.680 --> 00:10:11.600]  And I said, Trump mishandled all this.
+[00:10:12.160 --> 00:10:15.279]  But you have the Democrats caught red-handed.
+[00:10:15.440 --> 00:10:23.360]  And anybody saying you're covering up for Trump when we post these documents that are real is literally aiding and abetting these people.
+[00:10:23.680 --> 00:10:25.120]  So I'm going to sick of the whole system.
+[00:10:25.440 --> 00:10:27.600]  I'm the guy that coined the term false left-right paradigm.
+[00:10:27.680 --> 00:10:28.799]  With Trump, he was more of a rebel.
+[00:10:28.960 --> 00:10:31.279]  We had a chance to challenge that, and you see him come after him.
+[00:10:31.440 --> 00:10:32.400]  He's far from perfect.
+[00:10:32.720 --> 00:10:35.840]  But the whole world doesn't revolve around Donald Trump.
+[00:10:36.160 --> 00:10:40.799]  So those of you saying don't look at this, every time I post this stuff that's real, they don't challenge it.
+[00:10:41.120 --> 00:10:43.200]  They just say, don't post, you're covering up for Trump.
+[00:10:43.440 --> 00:10:44.240]  Bullshit.
+[00:10:44.560 --> 00:10:49.279]  If I find anything with Trump substance, I will go after him instantly.
+[00:10:49.360 --> 00:10:50.160]  And everybody knows that.
+[00:10:50.400 --> 00:10:50.799]  All right.
+[00:10:51.120 --> 00:10:59.039]  Also in the files are all these letters to Robert Trivers, the top evolutionary theorist biologist in the world, hands down.
+[00:10:59.360 --> 00:11:03.039]  And Epstein talking about how great this is, again, to train us.
+[00:11:03.279 --> 00:11:06.400]  If we'll accept turning boys into girls and girls into boys, which is even real.
+[00:11:06.480 --> 00:11:07.279]  It's like South Park.
+[00:11:07.360 --> 00:11:11.120]  You can't become a dolphin even if you don't think so, have a fake dolphin fin put on you.
+[00:11:11.440 --> 00:11:21.759]  That now people will accept designer babies, human cloning, everything, which I told you 25 years ago is the plan because it's in the Tavistock Institute MI6 documents.
+[00:11:22.400 --> 00:11:34.720]  That's how I knew back in 2009, they're going to release a virus, have six feet apart, give you a vaccine that erases your immune system because it was in different UN documents in the Rockefeller plan as well the next year, Operation Lockstep.
+[00:11:34.879 --> 00:11:36.000]  So I've known all this.
+[00:11:36.160 --> 00:11:41.600]  I've exposed it before this stuff came out about Epstein being into cloning and having hundreds of babies himself.
+[00:11:41.840 --> 00:11:42.400]  I said all that.
+[00:11:42.639 --> 00:11:44.720]  Peter Nygaard got convicted of all this.
+[00:11:45.039 --> 00:11:47.599]  He was definitely involved with Epstein as well.
+[00:11:47.919 --> 00:11:52.959]  So now we need to say, okay, the public forced the release of these documents.
+[00:11:53.279 --> 00:11:55.679]  We put pressure on Trump, pressure on Congress.
+[00:11:56.000 --> 00:11:57.120]  It got released.
+[00:11:57.439 --> 00:12:01.599]  Three plus million documents, hundreds of thousands of images, 2,000 videos.
+[00:12:01.839 --> 00:12:03.679]  Now we need prosecutions.
+[00:12:04.000 --> 00:12:07.360]  Now we need to beat the drum to prosecute everybody involved.
+[00:12:07.679 --> 00:12:10.000]  And that means a hell of a lot of Democrats.
+[00:12:10.319 --> 00:12:11.919]  So the media has tried to spin this.
+[00:12:12.000 --> 00:12:13.759]  Trump stepped right into the trap.
+[00:12:14.079 --> 00:12:17.199]  of going along with the cover-up because they convinced him it was an attack on him.
+[00:12:17.519 --> 00:12:21.279]  Now he's like, wow, you see, this vindicates me.
+[00:12:21.599 --> 00:12:28.879]  I'm going to sue the author Wolf, who is in the emails saying, yeah, we know Trump's innocent and Epstein saying he's innocent.
+[00:12:29.199 --> 00:12:30.559]  So how do we cook something up to getting?
+[00:12:30.959 --> 00:12:34.879]  But see, Trump has bad advisors, people that are in on this, people that are setting him up.
+[00:12:35.120 --> 00:12:36.399]  It's absolutely disgusting.
+[00:12:36.719 --> 00:12:39.439]  So this is a big, big, big deal.
+[00:12:39.919 --> 00:12:41.839]  So go to Infowars.com, get the documents.
+[00:12:41.919 --> 00:12:42.879]  We're posting more right now.
+[00:12:43.120 --> 00:12:44.480]  We've got links to the DOJ.
+[00:12:44.559 --> 00:12:45.519]  You can go check them for yourself.
+[00:12:45.839 --> 00:12:52.000]  And that's important because there's also people posting fake documents online or edited ones where part of it's real and other stuff's edited in.
+[00:12:52.559 --> 00:12:53.839]  But this is massive.
+[00:12:54.159 --> 00:13:00.720]  There's also, there was a tip line set up that ran all the way until December of last year where any schizophrenic could just call in and say whatever they wanted.
+[00:13:00.959 --> 00:13:05.839]  There's stuff in there about Elon Musk and Trump that was proven to not be true with known schizophrenics.
+[00:13:06.159 --> 00:13:08.319]  But if you want to investigate that stuff and believe it, fine, great.
+[00:13:08.480 --> 00:13:10.319]  Investigate that until the cow come home.
+[00:13:10.480 --> 00:13:13.199]  But we have them red-handed with the podesta garbage.
+[00:13:13.439 --> 00:13:15.919]  We have them red-handed with the Bill Gates garbage.
+[00:13:16.000 --> 00:13:19.919]  We have them red-handed with the head of Harvard and their head scientist and all the rest of it.
+[00:13:20.000 --> 00:13:21.839]  I mean, it just gets crazier and crazier.
+[00:13:22.000 --> 00:13:28.480]  So keep digging, keep looking, keep posting, and we'll be covering it all at InfoWars.com forward slash show, banned.video.
+[00:13:29.039 --> 00:13:29.919]  Just so much more.
+[00:13:30.079 --> 00:13:31.439]  But just God bless you all.
+[00:13:31.759 --> 00:13:33.599]  This is a big victory forcing all this out.
+[00:13:33.759 --> 00:13:35.360]  Now we need to force the prosecutions.
+[00:13:35.599 --> 00:13:36.559]  That's up to us.
+[00:13:36.879 --> 00:13:37.599]  Look in the mirror.
+[00:13:37.839 --> 00:13:38.559]  You got to take action.
+[00:13:38.720 --> 00:13:39.360]  You got to get the word out.
+[00:13:39.439 --> 00:13:40.720]  You got to make this the top story.
+[00:13:41.039 --> 00:13:45.519]  And all you people saying, don't cover all this confirmed stuff with sex slavery.
+[00:13:45.679 --> 00:13:46.639]  It covers up for Trump.
+[00:13:46.720 --> 00:13:47.839]  No, it doesn't.
+[00:13:48.480 --> 00:13:50.639]  You are covering up for the pedophiles when you do that.
+[00:13:50.799 --> 00:13:52.399]  You find something real on Trump.
+[00:13:52.720 --> 00:13:54.079]  Let's go after him too.
+[00:13:54.399 --> 00:14:03.120]  Bottom line, this is smoking gun proof of hardcore child abuse, torture, and Satanism on top of all the stuff that already came out in WikiLeaks.
+[00:14:03.279 --> 00:14:04.240]  It was confirmed to be real.
+[00:14:04.480 --> 00:14:08.720]  If the Justice Department doesn't take action now with this information, they are complicit.
+[00:14:09.039 --> 00:14:11.279]  And on top of it, it's all Democrats.
+[00:14:11.519 --> 00:14:14.319]  It's all top leftist, hundreds of them.
+[00:14:14.879 --> 00:14:17.120]  Take action now, Trump.
+[00:14:17.439 --> 00:14:23.039]  On Friday, the Justice Department released over 3 million files, 180,000 photos, over 2,000 videos.
+[00:14:23.359 --> 00:14:28.879]  And in the emails, it talks about Ms. Mamdani at these Epstein events.
+[00:14:28.960 --> 00:14:29.839]  So people searched it.
+[00:14:29.919 --> 00:14:30.879]  They found real photos.
+[00:14:31.199 --> 00:14:32.079]  Ross confirmed them.
+[00:14:32.159 --> 00:14:37.279]  There's fake photos, obviously, being spewed out of folks using AI, but we posted the real photos.
+[00:14:37.599 --> 00:14:40.399]  And this goes right back to Macron.
+[00:14:40.480 --> 00:14:43.839]  Now he was 14, dating the teacher at his school.
+[00:14:44.159 --> 00:14:45.039]  It's the same story.
+[00:14:45.199 --> 00:14:46.240]  These kids are groomed.
+[00:14:46.399 --> 00:14:49.759]  This is the classic mind control MO.
+[00:14:50.079 --> 00:14:54.159]  And then now they're coming up with emails and things about her at the island and all the rest of it.
+[00:14:54.480 --> 00:14:55.039]  It's incredible.
+[00:14:55.279 --> 00:15:09.599]  But we know for a fact, and I posted reports of this earlier, that you have emails that are confirmed as real from Epstein talking about one piece of pizza at the party for seven adults, how it's glowing and beautiful and how wonderful it's going to be.
+[00:15:09.919 --> 00:15:14.079]  It ties into potatoes, having three little kids delivered to the pool in WikiLeaks.
+[00:15:14.240 --> 00:15:16.480]  I mean, this is so crazy.
+[00:15:16.799 --> 00:15:21.279]  Now, folks are saying, is Mamdani the son of Epstein?
+[00:15:21.359 --> 00:15:22.720]  He wanted to have hundreds of children.
+[00:15:23.039 --> 00:15:25.120]  We know it's breeding women at Zorro Ranch.
+[00:15:25.279 --> 00:15:26.639]  I first broke that 15 years ago.
+[00:15:26.720 --> 00:15:28.879]  It's all been confirmed by the New York Times since then.
+[00:15:29.199 --> 00:15:31.919]  So this is crazy eugenics operation.
+[00:15:32.240 --> 00:15:34.000]  It's all coming down like a house of cards.
+[00:15:34.319 --> 00:15:42.240]  And the Democrats thought by pushing to have this release, somehow they would twist things in there that have been disproven with no evidence about Trump.
+[00:15:42.399 --> 00:15:43.599]  And somehow they would be immune.
+[00:15:43.679 --> 00:15:44.799]  It is a firestorm.
+[00:15:44.959 --> 00:15:50.159]  Bill Gates with getting diseases from Russian girls and Epstein trying to drug his wives.
+[00:15:50.239 --> 00:15:51.279]  That's all confirmed.
+[00:15:51.599 --> 00:15:55.599]  I mean, the confirmed stuff is totally and completely insane.
+[00:15:55.759 --> 00:15:57.120]  And where does Mamdani come from?
+[00:15:57.199 --> 00:15:57.519]  Nowhere.
+[00:15:57.679 --> 00:15:58.879]  Where does Macron come from?
+[00:15:58.959 --> 00:15:59.199]  Nowhere.
+[00:15:59.359 --> 00:16:07.359]  Kieris Darmer was the 15-year judge over the nation of the UK that covered up all the penophilia and the Islamic grooming gangs, the Pakistani grooming gangs.
+[00:16:07.679 --> 00:16:08.799]  This is how they control things.
+[00:16:08.959 --> 00:16:09.679]  This is their currency.
+[00:16:09.759 --> 00:16:10.479]  This is their cult.
+[00:16:10.879 --> 00:16:12.639]  This is what you've got to do to be part of it.
+[00:16:12.959 --> 00:16:15.359]  And 99% of them are leftists and liberals.
+[00:16:15.679 --> 00:16:22.000]  That's the head of Harvard, the top scientist at Harvard, how they would use transgenderism in these emails six, seven, eight years ago.
+[00:16:22.799 --> 00:16:27.119]  Yeah, more than that, nine years ago, to destroy the family and society.
+[00:16:27.439 --> 00:16:30.079]  I mean, all the real stuff is insane.
+[00:16:30.959 --> 00:16:33.679]  The zone's being flooded with a lot of fake things or edited stuff.
+[00:16:33.759 --> 00:16:38.240]  That's why you got to go to the actual database that DOJ released to check it.
+[00:16:38.559 --> 00:16:40.399]  But this is just so amazing.
+[00:16:40.559 --> 00:16:41.679]  And now's a dangerous point.
+[00:16:41.839 --> 00:16:42.959]  This globals are desperate.
+[00:16:43.039 --> 00:16:44.000]  God knows what they'll pull.
+[00:16:44.319 --> 00:16:47.279]  We'll be covering it all right here at Polwars.com and Rawl Shows on X and Rumble.
+[00:16:47.439 --> 00:16:48.719]  The Alex Shows show.
+[00:16:49.199 --> 00:16:49.679]  Thank you so much.
+[00:16:49.839 --> 00:16:50.719]  Investigate it for yourself.
+[00:16:50.879 --> 00:16:54.000]  We'll continue to get into this information as fast as we can and get it out to you.
+[00:16:54.639 --> 00:17:11.599]  Whatever the yes, ladies and gentlemen, we continue to delve into the tranche of documents from Jeffrey Epstein, connecting dots and really getting a full view, like a bird's eye view of the architecture of this global control network.
+[00:17:11.679 --> 00:17:12.960]  And that's exactly what it is.
+[00:17:13.279 --> 00:17:16.960]  It confirms everything we've been saying for two decades.
+[00:17:17.279 --> 00:17:19.279]  And I'm sort of torn.
+[00:17:19.359 --> 00:17:20.399]  I'm going to try to do two things.
+[00:17:20.639 --> 00:17:24.960]  I want to tell you about some of the most explosive discoveries in the Epstein documents.
+[00:17:25.279 --> 00:17:26.639]  And I've got an infinite number.
+[00:17:26.799 --> 00:17:30.720]  I mean, I just had the crew print out the first like hundred things I could find.
+[00:17:31.039 --> 00:17:34.399]  And then I still have like at least 100 bookmarked that we can get into.
+[00:17:34.639 --> 00:17:36.399]  It is truly insane.
+[00:17:37.359 --> 00:17:40.879]  We're seeing behind the curtain here in a very real way.
+[00:17:41.359 --> 00:17:49.839]  And like I said before, connecting the dots in a way that is giving color to the previously black and white image.
+[00:17:50.159 --> 00:17:52.319]  That we know generally how this stuff has gone on.
+[00:17:52.480 --> 00:17:56.480]  Now we're getting the details, the names, the places, the times, all of it.
+[00:17:56.799 --> 00:17:58.079]  It's incredible.
+[00:17:58.399 --> 00:18:06.879]  And this is the work of the hive mind investigating this and digging into it and discovering things.
+[00:18:07.200 --> 00:18:20.319]  And so I guess we'll start with an instruction on how you can do this, if you're so inclined, if you want to participate in this, because God only knows what people are missing, what things, because there's so much.
+[00:18:20.480 --> 00:18:21.839]  I don't even know where to start.
+[00:18:22.159 --> 00:18:23.599]  So I'm going to, I want to delve into it.
+[00:18:23.679 --> 00:18:27.679]  I want to get into the morass, the disgusting stuff.
+[00:18:27.839 --> 00:18:31.599]  I mean, we really have to investigate this, but there's so much of it.
+[00:18:31.920 --> 00:18:35.039]  I mean, I've spent the last 48 hours feeling like I'm drowning in this stuff.
+[00:18:35.200 --> 00:18:41.200]  It's just an ever, you know, increasing deluge of information that's like totally disorienting.
+[00:18:41.440 --> 00:18:48.799]  But at the same time, I want to just pull out and look at this like maybe Donald Trump is looking at this or Benjamin Netanyahu is looking at this.
+[00:18:48.960 --> 00:18:52.399]  They're not delving into the nitty-gritty disgusting details of it.
+[00:18:52.720 --> 00:18:59.200]  They're looking or perhaps using this revelation, the release of these documents in a geopolitical way.
+[00:18:59.440 --> 00:19:01.839]  How does this change the geopolitical landscape?
+[00:19:01.920 --> 00:19:14.639]  Because it already has, by the way, apparently, allegedly, Jay-Z has fled the country to parts unknown because he was mentioned in the Epstein files quite a bit, doing some pretty disgusting things.
+[00:19:15.440 --> 00:19:21.920]  A major political figure in Slovakia has resigned because their name was mentioned in the Epstein list.
+[00:19:22.240 --> 00:19:29.119]  And there's still hundreds or thousands of names on these files that are blacked out, that are censored, but can be discovered.
+[00:19:29.440 --> 00:19:30.879]  And you can look for clues.
+[00:19:31.200 --> 00:19:42.639]  One particularly disturbing case is somebody who was blacked out, but is discussing with Epstein a torture video that he sent Epstein or she sent Epstein.
+[00:19:43.120 --> 00:19:46.079]  And in that email, they talk about their travel plans.
+[00:19:46.160 --> 00:19:52.559]  And you can actually line up the travel plans with known traveling schedules of major geopolitical figures.
+[00:19:52.880 --> 00:20:02.160]  And we think we know more or less who that person is, or at least who runs in the circles of the people sending the torture videos, Jeffrey Epstein.
+[00:20:02.240 --> 00:20:03.200]  So we're going to get into that.
+[00:20:03.519 --> 00:20:13.920]  But I'm going to try to do both of these things, give you the details that are being uncovered, but also talk about the implications that we can draw from this in a bird's eye view.
+[00:20:14.559 --> 00:20:22.640]  Because I cannot figure out if this release was a part of any major global plan.
+[00:20:23.519 --> 00:20:33.840]  I mean, I have trouble rationalizing or believing that this is genuinely just like, well, the Congress voted to say we released it, so we had to release it.
+[00:20:34.079 --> 00:20:35.200]  Oh, well, what are you going to do?
+[00:20:35.440 --> 00:20:37.440]  Like, okay, what?
+[00:20:37.680 --> 00:20:37.920]  No.
+[00:20:38.480 --> 00:20:39.039]  I don't believe.
+[00:20:39.200 --> 00:20:40.079]  I really don't believe that.
+[00:20:40.240 --> 00:20:42.079]  And we know there's more information out there.
+[00:20:42.400 --> 00:20:43.920]  There's information that's redacted here.
+[00:20:44.160 --> 00:20:47.840]  There's, I mean, there's a ton that we still haven't gotten.
+[00:20:48.160 --> 00:20:49.519]  But a lot of people are out there.
+[00:20:49.840 --> 00:20:51.279]  You know, they're trying to blame this on Trump.
+[00:20:51.360 --> 00:20:58.720]  They're trying to, you know, frame Trump as being, you know, central to this and that this release was some sort of major damaging thing to Trump.
+[00:20:58.880 --> 00:21:13.759]  As Trump himself said, this really exonerates him pretty much entirely because he's really not mentioned once in a credible way of any accusations that are substantial and you know even falsifiable at this point.
+[00:21:15.680 --> 00:21:19.519]  But they're acting like, okay, this is because Trump refuses to go to war with Iran.
+[00:21:19.680 --> 00:21:23.600]  So now they're basically fulfilling the blackmail threat.
+[00:21:23.920 --> 00:21:28.400]  Because the idea is that Trump is blackmailed by his name in the Epstein files.
+[00:21:28.559 --> 00:21:37.680]  And so the Israeli lobby is forcing him to do certain things, start wars with certain countries under the threat of releasing these files, and that maybe he is refusing to do so.
+[00:21:37.920 --> 00:21:53.600]  Which, in and of itself, there's an interesting, I don't know, cognitive dissidence that occurs with Trump, where people are like, think he's the subject of the blackmail, but also think that means he's in on it, which you can kind of be both, but typically it's either or.
+[00:21:54.160 --> 00:21:58.160]  You're not like willingly participating in the blackmail.
+[00:21:58.480 --> 00:21:59.759]  That's why you have blackmail.
+[00:21:59.920 --> 00:22:02.799]  It's not a willing type of thing, or else you wouldn't need blackmail.
+[00:22:02.880 --> 00:22:07.680]  Like that seems obvious, but they're trying to frame this as if this is punishment of Trump.
+[00:22:07.840 --> 00:22:10.559]  I think it might be the exact opposite.
+[00:22:10.880 --> 00:22:23.600]  I think that Trump did take possession of these and was threatening to release them and was forcing concessions from Israel because this is all centered around Israel and the wider Jewish diaspora.
+[00:22:24.559 --> 00:22:30.640]  Maybe that's a good place to start because that is another major I don't even know what to call it.
+[00:22:30.720 --> 00:22:45.200]  I mean, it's not really a revelation as much as it is like a sea change where I'm seeing so many people online right now who have never touched the subject are coming out about basically Jewish anti-white sentiment.
+[00:22:45.519 --> 00:22:59.759]  Because throughout all of these emails, the Epstein associates are referring to goyum, right, which is a slang term for white people or for non-Jewish people, essentially.
+[00:23:00.079 --> 00:23:01.360]  And it means cattle, right?
+[00:23:01.440 --> 00:23:05.200]  It's basically saying, you know, people without human souls.
+[00:23:05.840 --> 00:23:11.600]  And they're using this term sort of constantly as a, you know, pejorative.
+[00:23:12.559 --> 00:23:16.160]  And people are, you know, pointing that out and going, no, this is actually a thing.
+[00:23:16.320 --> 00:23:18.880]  And then other people are saying, well, but don't blame all jeez.
+[00:23:19.759 --> 00:23:24.000]  But obviously, it's a part of what Jeffrey Epstein was doing.
+[00:23:24.079 --> 00:23:25.440]  And it was a big part.
+[00:23:26.079 --> 00:23:32.240]  And it's kind of weird because there's all this new information, but I'm going to be repeating myself a lot because we've known all of this forever.
+[00:23:32.400 --> 00:23:37.039]  But now that people are understanding it, maybe further explanation is required.
+[00:23:37.360 --> 00:23:38.799]  The word is mafia.
+[00:23:39.120 --> 00:23:40.720]  Everybody knows how mafias work.
+[00:23:40.880 --> 00:23:41.840]  It's not confusing.
+[00:23:42.079 --> 00:23:43.839]  It's not racist.
+[00:23:44.159 --> 00:23:45.279]  It's not hateful.
+[00:23:45.599 --> 00:23:48.319]  Mafias exist and everybody knows mafias exist.
+[00:23:48.559 --> 00:23:50.879]  Mafias have an ethnic component to it.
+[00:23:51.119 --> 00:23:54.399]  There's the Italian mafia, the Jewish mafia, the Romanian mafia.
+[00:23:54.559 --> 00:23:57.039]  There are all sorts of mafias and they have an ethnic component.
+[00:23:57.359 --> 00:23:58.319]  Everybody knows that.
+[00:23:58.480 --> 00:24:01.119]  That doesn't mean that every Italian is in the mafia.
+[00:24:01.279 --> 00:24:08.799]  And it doesn't mean the mafia is exclusively Italian if that's the racial component of that particular criminal class.
+[00:24:09.119 --> 00:24:10.639]  Okay, so there's a Jewish mafia.
+[00:24:10.799 --> 00:24:12.399]  Yes, their ethnicity is a part of it.
+[00:24:12.639 --> 00:24:15.119]  It doesn't mean every Jew is in on it.
+[00:24:15.439 --> 00:24:21.279]  And just like every mafia, there are components of it that are in the private industry space.
+[00:24:21.439 --> 00:24:25.119]  There are components of it that are in the political space.
+[00:24:25.439 --> 00:24:29.599]  There are components of it that are in the union organizing space.
+[00:24:30.480 --> 00:24:34.399]  All of it's kind of pseudo-legal and pseudo-illegal.
+[00:24:34.720 --> 00:24:44.319]  It's all like exists in that gray area where, yeah, they're technically have the funding to do this, but it's not going to the people it's supposed to.
+[00:24:44.480 --> 00:24:45.519]  It's just a mafia.
+[00:24:45.679 --> 00:24:46.799]  It's not that complicated.
+[00:24:46.960 --> 00:24:48.240]  It's not that confusing.
+[00:24:48.559 --> 00:24:53.039]  It's not that difficult to determine what's actually going on here.
+[00:24:53.359 --> 00:25:08.079]  This is a worldwide global Jewish mafia that Jeffrey Epstein was a part of, that interacts with and sort of has its headquarters in the nation state of Israel, which makes it extremely convenient to run this mafia.
+[00:25:08.399 --> 00:25:24.879]  Because once you have a nation state and all of the powers that come with that, then you can really get away with anything, especially if what you're getting away with is happening in a country who is seemingly suicidally dedicated to the alliance with that foreign state, Israel.
+[00:25:25.199 --> 00:25:26.480]  You can print passports.
+[00:25:26.639 --> 00:25:30.960]  You can claim things are national security to hide it from everybody.
+[00:25:32.799 --> 00:25:34.960]  I'm telling you, there's, oh, God, there's so many things.
+[00:25:35.279 --> 00:25:47.919]  So what we're going to do is I'm going to come back and I'm going to explain to you how to access these documents, how you can start investigating this, how you can start digging into this and finding things out for yourself.
+[00:25:48.240 --> 00:25:50.960]  One of the things they do in these documents is like misspelling things on purpose.
+[00:25:51.039 --> 00:25:52.480]  So you can't search it.
+[00:25:52.720 --> 00:26:01.199]  If you try to search, you know, whatever, Little St. James, you know, you notice that, well, they sell it, they spell it St. Jones for some reason.
+[00:26:01.440 --> 00:26:02.559]  Wow, he's really bad at spelling.
+[00:26:02.720 --> 00:26:04.720]  Or is it a way to try to avoid discovery?
+[00:26:04.960 --> 00:26:10.639]  So we need as many eyes on this as possible, scouring these documents with a fine-tooth comb, discovering things.
+[00:26:10.799 --> 00:26:12.159]  I'm going to explain how to do that.
+[00:26:12.319 --> 00:26:18.399]  I'm going to try to give you some background on how this whole thing developed and where we got, you know, how we got to where we are now.
+[00:26:18.720 --> 00:26:29.359]  And then we'll get into some of the more outrageous, insane, I don't even know how to put it, horrifying revelations from this document tranche.
+[00:26:30.960 --> 00:26:56.799]  And also try to explain how it folds into everything else going on in the world today, including a frankly hilarious attempt by the Daily Mail to claim that Jeffrey Epstein was a member of the KGB, that this was all the doing of Putin and the big bad Russians, despite the fact that the actual documents themselves show that Putin is a number one enemy of this mafia that we're talking about.
+[00:26:57.119 --> 00:26:58.480]  So we're going to get into all of this.
+[00:26:58.799 --> 00:27:00.079]  Just a gigantic show ahead.
+[00:27:00.159 --> 00:27:02.879]  I do want to remind you to go to the alexjonesstore.com.
+[00:27:03.519 --> 00:27:07.679]  And if you can't support us for being right about this, I mean, what do we have to do?
+[00:27:07.919 --> 00:27:10.720]  We were 20 years ahead of the curve on this.
+[00:27:11.039 --> 00:27:14.319]  Alex Jones was covering this back in the early 2000s.
+[00:27:14.480 --> 00:27:15.839]  It's finally all come to fruition.
+[00:27:16.000 --> 00:27:17.919]  It's finally all coming to light.
+[00:27:18.559 --> 00:27:23.440]  And what I hope people can understand now is we have known this the whole time.
+[00:27:23.759 --> 00:27:28.319]  We have strategized with all of this stuff in mind.
+[00:27:29.519 --> 00:27:35.039]  And it's in large part because of the InfoWars activity that Donald Trump got elected that this came out at all.
+[00:27:35.119 --> 00:27:37.039]  So this is a major victory for us.
+[00:27:37.359 --> 00:27:39.679]  Celebrate at thealexjonesstore.com.
+[00:27:39.839 --> 00:27:40.799]  We'll be right back.
+[00:27:42.399 --> 00:27:43.759]  Welcome back, ladies and gentlemen.
+[00:27:43.839 --> 00:27:45.039]  This is the Alex Jones Show.
+[00:27:45.119 --> 00:27:48.720]  I'm your host, Harrison Smith, coming to you live this Sunday evening.
+[00:27:49.039 --> 00:27:50.159]  Glad you're here with us.
+[00:27:50.319 --> 00:27:52.319]  It's the 1st of February.
+[00:27:52.959 --> 00:27:56.559]  And it's the second day of a new age, it feels.
+[00:27:56.879 --> 00:27:58.639]  The age of revelation.
+[00:27:59.279 --> 00:28:20.240]  Truly shocking information coming out of the Jeffrey Epstein document dump that was compelled by the Epstein Transparency Act passed earlier last year by Thomas Massey, Rokana, and others, who were not satisfied with the fake out false releases of the Epstein files, like the Big Binder celebration.
+[00:28:20.399 --> 00:28:36.879]  Now, interestingly, not a lot of the people who were there at the White House receiving the fake Epstein, you know, part one documents that were all stuff that had been out for years and it was a total fake out.
+[00:28:37.119 --> 00:28:40.079]  This whole saga has been so bizarre, hasn't it?
+[00:28:40.399 --> 00:28:41.919]  The whole thing has been so weird.
+[00:28:42.159 --> 00:28:51.119]  For like 20 years almost, 15 years or so, Alex Jones, InfoWars, people like us are the only ones talking about Jeffrey Epstein.
+[00:28:51.439 --> 00:28:58.559]  Then he gets arrested in 2019, dies in his jail cell in circumstances impossible to be legitimate.
+[00:28:58.719 --> 00:29:02.240]  The suicide physically can't happen the way that they said it did.
+[00:29:02.399 --> 00:29:03.519]  And we know that it didn't.
+[00:29:03.599 --> 00:29:07.199]  And I've got some documents that prove that from this latest release.
+[00:29:07.519 --> 00:29:10.079]  But then it really blows up and goes mainstream.
+[00:29:10.399 --> 00:29:18.639]  And the meme, Epstein didn't kill himself, becomes sort of the watchword for what everybody discovers, you know, and 15 years after we did.
+[00:29:18.960 --> 00:29:31.119]  And of course, there was Pizzagate before that in 2016, which has been basically proven absolutely true across the board because of these documents that are just filled with references to pizza.
+[00:29:31.279 --> 00:29:41.199]  In fact, there are 911, curiously enough, references to pizza in ways that, you know, you think using code words, you'd actually put some effort into it, right?
+[00:29:41.359 --> 00:29:46.159]  You'd actually pick words that could feasibly be what is being discussed.
+[00:29:46.799 --> 00:29:58.000]  Like, you know, during the WikiLeaks 2016 Pizzagate scandal, you had people going, hey, you dropped a pizza-related map, and I need to return it to you.
+[00:29:58.319 --> 00:30:05.599]  And it's like, all right, that's kind of suspicious, but I guess he could be giving him a map to his favorite pizza places, like ostensibly, I guess so.
+[00:30:05.759 --> 00:30:14.480]  But then when you're like, hey, we have a delicious, succulent two-year-old slice for the seven adults to share, it's like, you're not even trying.
+[00:30:14.719 --> 00:30:17.839]  You're not even trying to get away with this.
+[00:30:18.159 --> 00:30:26.240]  You're using code words sort of as a thing to do, but you're not actually scared of being caught because it's obvious what this code word means.
+[00:30:26.559 --> 00:30:29.279]  At least it's certainly obvious it is a code word.
+[00:30:30.240 --> 00:30:34.879]  So they really weren't all that worried about this type of stuff being discovered.
+[00:30:35.039 --> 00:30:38.000]  They would have gone through, you know, more effort to hide it.
+[00:30:38.319 --> 00:30:47.279]  And in fact, there are emails in this tranche that expose that there is a lot of stuff going on behind the scenes that they thought was too sensitive for email.
+[00:30:47.519 --> 00:30:52.399]  So everything that we have now ostensibly is the stuff that they thought wasn't that big of a deal.
+[00:30:52.639 --> 00:30:52.879]  Okay.
+[00:30:53.039 --> 00:30:58.639]  And there's stuff about forced abortions and kidnapping babies and selling babies and murder parties.
+[00:30:58.719 --> 00:31:06.399]  And I mean, it's crazy stuff, but apparently not enough to warrant moving off of easily accessible email servers.
+[00:31:07.279 --> 00:31:17.759]  But there are emails in this where people say, one example would be somebody asks Epstein, do you know anybody who has influence over Assad, Bashir al-Assad, president of Syria?
+[00:31:17.919 --> 00:31:21.839]  And Jeffrey Epstein responds, not for email, not for email.
+[00:31:22.159 --> 00:31:28.960]  Okay, so there are certain things that they were doing and involved in certain discussions they were having that were too sensitive for email.
+[00:31:29.359 --> 00:31:41.759]  Everything we're seeing here, they apparently thought wasn't that big of a deal, which really showed you where their mindset is and maybe a hint into what else happened that they didn't happily discuss over email.
+[00:31:43.599 --> 00:31:49.119]  And let me do this first because I had trouble with this, and I found this post extremely helpful myself.
+[00:31:49.439 --> 00:31:53.679]  And Alex Jones retweeted it on his at RealAlex Jones, if you want to follow it there.
+[00:31:53.759 --> 00:32:01.519]  It's from Black Sheep Rise on X. For those serious about helping, here are the locations of the official documents, justice.gov/slash Epstein.
+[00:32:01.759 --> 00:32:04.799]  So you go to that website, justice.gov slash Epstein.
+[00:32:05.039 --> 00:32:08.399]  You navigate to the DOJ Disclosures section.
+[00:32:08.639 --> 00:32:09.279]  There's a big button.
+[00:32:09.439 --> 00:32:11.279]  I think it's the top one or maybe the second down.
+[00:32:11.519 --> 00:32:13.439]  Just says DOJ Disclosures.
+[00:32:13.599 --> 00:32:16.159]  And I think it has a number like 4482, something like that.
+[00:32:16.479 --> 00:32:20.319]  And data sets 9 through 12 are the ones that have just been released.
+[00:32:20.639 --> 00:32:25.359]  Okay, this is the primary Epstein library at justice.gov slash Epstein hosting all the material.
+[00:32:25.679 --> 00:32:28.479]  Navigate to the DOJ's disclosure section.
+[00:32:28.799 --> 00:32:35.439]  The most recent batches are data sets 9 through 12 or higher, depending on updates, which contain the January 2026 releases.
+[00:32:35.519 --> 00:32:40.799]  Files are organized into downloadable data sets, including core records, investigative materials, photos, videos, and more.
+[00:32:40.959 --> 00:32:46.399]  Some content like victim identities is redacted, and there are warnings about sensitive or graphic material.
+[00:32:46.719 --> 00:32:47.839]  All right, so that's how you do it.
+[00:32:48.000 --> 00:32:55.839]  You can access these files directly from the .gov server site and look into it yourself and share what you find.
+[00:32:56.079 --> 00:33:02.159]  We need as many eyes on this as humanly possible, even though it seems like everybody and their mom is digging through this stuff.
+[00:33:02.479 --> 00:33:03.839]  There can always be things that are missed.
+[00:33:04.319 --> 00:33:08.159]  There can always be connections made because you have certain knowledge nobody else has.
+[00:33:08.399 --> 00:33:10.719]  So we need as many eyes on this as possible.
+[00:33:10.879 --> 00:33:14.159]  And again, just the fact that this is the way this is going.
+[00:33:14.399 --> 00:33:15.519]  I remember Pizzagate.
+[00:33:15.759 --> 00:33:26.319]  I remember trying desperately to get people to care about the bombshell revelations that came out in WikiLeaks from John Podesta and Hillary Clinton and sacrifices to Moloch being discussed with the Rothschilds.
+[00:33:26.799 --> 00:33:27.359]  Y'all remember that?
+[00:33:27.439 --> 00:33:30.399]  Everybody knows the sacrificing chickens to Moloch line.
+[00:33:30.479 --> 00:33:33.919]  Do you remember it was Hillary Clinton talking to Linda Rothschild?
+[00:33:34.079 --> 00:33:34.479]  I'm pretty sure.
+[00:33:34.639 --> 00:33:35.119]  I'm pretty sure.
+[00:33:35.199 --> 00:33:37.279]  Maybe double check that, but I'm fairly certain.
+[00:33:37.359 --> 00:33:43.199]  And the Rothschilds are all over this, and Epstein admits to being a Rothschild agent in these documents.
+[00:33:44.159 --> 00:33:49.359]  Again, in case you're new here, I think I can explain this quickly.
+[00:33:50.879 --> 00:34:09.440]  This has been going on for a very long time, and most intelligence agencies, in fact, came out of the banking system of the Rothschilds that they developed in Europe in the 1700s and 1800s that eventually got itself its own country called Israel that they now operate as a headquarters of this international spy ring.
+[00:34:09.759 --> 00:34:11.759]  Now, with that, I want to go to a report from Alex Jones.
+[00:34:11.839 --> 00:34:17.519]  We got lots of reports from Alex Jones coming on today's show, so don't go anywhere, but be sure to share this on his ex, Ad RealAlex Jones.
+[00:34:17.679 --> 00:34:22.159]  Here's Alex Jones with another report about Jeffrey Epstein, this time with transgenderism.
+[00:34:22.239 --> 00:34:23.119]  Let's watch.
+[00:34:24.000 --> 00:34:48.799]  Robert Trevers, the head evolutionary research scientist at Harvard, is in scores of messages with Epstein going back over a decade before they launched the whole transgenderism mass rollout, talking about how they would use this to prepare people for transhumanism and to give up their humanity, that we would accept little girls becoming boys and vice versa.
+[00:34:48.960 --> 00:34:54.719]  We would accept human cloning, designer, babies, genetic engineering, which I've told you for 25 years was a plan.
+[00:34:55.119 --> 00:35:00.960]  I was reading the Tavistock Institute MI6 documents from the 80s that first engineered and planned this.
+[00:35:01.119 --> 00:35:02.319]  That's what the corporate media pushes.
+[00:35:02.480 --> 00:35:03.359]  This is why it's force-fed.
+[00:35:03.440 --> 00:35:05.359]  It's about destroying parental rights and so much more.
+[00:35:05.440 --> 00:35:06.400]  It's about pedophilia.
+[00:35:06.559 --> 00:35:15.920]  If they can't rape your child, because there's a social taboo against it because there should be, they can say it's stylish to become sterilized with chemicals or surgeries.
+[00:35:16.239 --> 00:35:18.880]  You can read all the emails that are up on Infowars.com.
+[00:35:18.960 --> 00:35:22.559]  They're in the DOJ data dome of them obsessing over this.
+[00:35:22.639 --> 00:35:27.359]  And they had their weird Zoa ranch medical facility where he supposedly was predicting hundreds of women.
+[00:35:27.839 --> 00:35:30.319]  That's all the true story, the mad scientist angle.
+[00:35:30.559 --> 00:35:36.559]  Yes, the pedophilia is important, but the money laundering, the mossad, the CIA, the MI6, that's why it got covered up.
+[00:35:36.639 --> 00:35:39.119]  That's why the deep state wanted Trump to block it, not because he was involved.
+[00:35:39.359 --> 00:35:42.319]  And now that Trump's seen this all come out, he said, I'm vindicated, see?
+[00:35:42.960 --> 00:35:44.960]  Well, now you got to prosecute him, Trump.
+[00:35:45.279 --> 00:35:47.759]  This whole house of cards is coming down.
+[00:35:48.079 --> 00:35:49.440]  This is so historic.
+[00:35:49.519 --> 00:35:50.960]  This is so powerful.
+[00:35:51.279 --> 00:35:57.919]  And just like the populist movement forced these files out, now we want the prosecutions because Trump is not involved now.
+[00:35:58.239 --> 00:36:05.119]  But if he continues to allow the deep state to office, he becomes an accessory after the fact and signs on to future crimes the deep state commits.
+[00:36:05.199 --> 00:36:06.159]  Trump, we know you're not going to do that.
+[00:36:06.239 --> 00:36:06.960]  You're going to do the right thing.
+[00:36:07.279 --> 00:36:11.279]  Regardless, we, the people, are going to get the truth out one way or another.
+[00:36:11.599 --> 00:36:13.119]  Stay with us and share this report.
+[00:36:13.440 --> 00:36:20.719]  We're live right now at infoce.com forward slash show and video on Rumble at the Alex Show Channel and the Mighty X at Real Alex Shows.
+[00:36:20.879 --> 00:36:22.079]  Share those feeds, Paul Revere's.
+[00:36:22.159 --> 00:36:22.799]  We're winning.
+[00:36:23.119 --> 00:36:24.480]  Share those links, folks.
+[00:36:24.639 --> 00:36:27.440]  And I got to say, feels like winning.
+[00:36:27.599 --> 00:36:29.599]  I mean, it feels like we're winning.
+[00:36:30.239 --> 00:36:35.759]  I'm still kind of blown away that we even got this stuff released and it's such volume.
+[00:36:35.919 --> 00:36:40.480]  Like, that's maybe the craziest part is how much has come out already.
+[00:36:40.799 --> 00:36:42.960]  That is just absolute bombshell stuff.
+[00:36:44.239 --> 00:36:49.839]  I'm like, again, I'm torn where I'm just like, I guess I can just start just talking about all of it because I got Everett.
+[00:36:49.919 --> 00:36:51.279]  It's like tons of crazy stuff.
+[00:36:51.440 --> 00:36:56.879]  It's like the royal family of Norway was asking Epstein for parenting advice.
+[00:36:57.199 --> 00:37:01.599]  The son apparently that he advised about is now being convicted for raping four girls.
+[00:37:01.679 --> 00:37:02.480]  Maybe a coincidence.
+[00:37:02.559 --> 00:37:03.119]  Maybe not.
+[00:37:03.440 --> 00:37:04.639]  Maybe not, actually.
+[00:37:05.199 --> 00:37:07.679]  I mean, international geopolitical discussions.
+[00:37:07.839 --> 00:37:08.879]  They're talking about Putin.
+[00:37:09.039 --> 00:37:11.679]  They do talk about Trump, but not in friendly ways whatsoever.
+[00:37:12.000 --> 00:37:25.119]  I got videos from C. Ben, and I'm like, I don't just want to sound like a crazy person jumping from article to article and topic to topic without, you know, like a through line to provide a narrative structure, but maybe that's what this requires.
+[00:37:25.279 --> 00:37:34.879]  Maybe we just go full schizo mode and just start jumping from story to story with no, you know, semblance of organization because that's how I'm absorbing it.
+[00:37:35.039 --> 00:37:38.799]  And it's frankly a little bit over a little bit overwhelming how much we're learning.
+[00:37:39.119 --> 00:37:55.519]  And then do we go back in the past and look at like how we got here and the Pizzagate scandal and how that was covered up in part by Jeffrey Epstein, how they took over social media outlets, and specifically the more dissident, less controlled ones like 4chan and Reddit, Dislaine Maxwell Power Mod on Reddit.
+[00:37:56.000 --> 00:38:06.639]  Jeffrey Epstein apparently convinced the owner of 4chan to open up the politics board again as a containment zone so they could drive people there and spy on people there.
+[00:38:07.279 --> 00:38:10.639]  I mean, it's just everything about this is just completely insane.
+[00:38:11.279 --> 00:38:27.279]  But I feel like this one I'm about to show you, posted by Lord Bebo at MyLordBebbo on X, is a good place to start to lay the groundwork to establish one thing for absolute certain.
+[00:38:27.920 --> 00:38:31.679]  Jeffrey Epstein was not the boss.
+[00:38:32.239 --> 00:38:34.879]  Jeffrey Epstein had bosses.
+[00:38:35.199 --> 00:38:37.839]  Jeffrey Epstein was not a kingpin.
+[00:38:38.159 --> 00:38:39.599]  He was an operator.
+[00:38:39.920 --> 00:38:42.879]  Just like Darth Vader isn't the emperor, right?
+[00:38:43.039 --> 00:38:46.239]  And in fact, isn't slave to the emperor.
+[00:38:46.319 --> 00:38:58.239]  Jeffrey Epstein, likewise, was an agent of wider, bigger, more powerful forces than him that were controlling him and, of course, giving him access to everything that he had.
+[00:38:58.559 --> 00:39:08.480]  Because to understand Jeffrey Epstein, you have to understand that this was a mafia, but it was a mafia that, to a large degree, controls intelligence agencies.
+[00:39:08.799 --> 00:39:12.079]  So you can really get away with anything and you can create anyone.
+[00:39:12.399 --> 00:39:15.279]  That's how Jeffrey Epstein became a billionaire.
+[00:39:15.439 --> 00:39:16.239]  He wasn't a genius.
+[00:39:16.319 --> 00:39:17.439]  He didn't invent a product.
+[00:39:17.599 --> 00:39:24.239]  He didn't come up with a new novel hedge fund strategy that nobody else had figured out before.
+[00:39:24.559 --> 00:39:41.679]  He was recruited as an agent, given position as a billionaire, given billions of dollars to use at the discretion of his bosses to insinuate himself into high society so that he could fund scientific endeavors in order to get early access to the technology they were developing.
+[00:39:42.000 --> 00:39:46.480]  This was all a gigantic, and still is, by the way, by the way.
+[00:39:47.119 --> 00:39:48.320]  I don't know if you need to know this.
+[00:39:48.480 --> 00:39:50.719]  The network didn't die with Epstein.
+[00:39:51.360 --> 00:39:54.320]  And the way you know this is because the network killed Epstein.
+[00:39:54.639 --> 00:39:54.880]  Okay?
+[00:39:55.440 --> 00:40:08.400]  So clearly, when a man is murdered for, you know, possibly wanting to release information about the criminal network he's involved in, that criminal network still exists and is still unbelievably powerful.
+[00:40:08.719 --> 00:40:16.400]  Able to kill a person inside a high-security federal prison and get away with it scot-free.
+[00:40:16.719 --> 00:40:20.079]  That's the level of power that we're dealing with, still in operation.
+[00:40:20.400 --> 00:40:21.920]  Jeffrey Epstein's dead.
+[00:40:22.239 --> 00:40:23.920]  But he was killed by his bosses.
+[00:40:24.079 --> 00:40:24.880]  So this was an email.
+[00:40:24.960 --> 00:40:28.079]  This is an email from the tranche, confirmed.
+[00:40:29.039 --> 00:40:35.360]  After Jeffrey Epstein died, his brother was threatened with someone saying, I'll choke you like your brother.
+[00:40:36.000 --> 00:40:39.279]  And they say your brother's mistake was that he wanted to tell the court everything.
+[00:40:39.599 --> 00:40:40.960]  The boss wants to meet you.
+[00:40:41.199 --> 00:40:44.000]  He just wants to see if you know him or not.
+[00:40:44.639 --> 00:40:47.840]  So this is the actual email.
+[00:40:48.159 --> 00:40:50.239]  And we can pull it up from my Lord Bebbo.
+[00:40:52.719 --> 00:40:56.719]  And all this is a little bit confusing because it's in backwards order, right?
+[00:40:56.799 --> 00:41:00.719]  Because the way the email list is organized.
+[00:41:01.039 --> 00:41:09.279]  But on Monday, May 25th, 2020, somebody who had an email address called like Kill Pudgy.
+[00:41:09.360 --> 00:41:12.320]  So I guess Pudgy was the nickname of Epstein's brother.
+[00:41:12.639 --> 00:41:19.679]  And so this anonymous person writes to Epstein's brother, quote, Hey, Pudgy, you have two sources.
+[00:41:20.559 --> 00:41:26.079]  You have two choices, or tell the court you partnered with your brother, or we will kill your family like your brother.
+[00:41:26.400 --> 00:41:26.719]  Okay?
+[00:41:26.960 --> 00:41:28.400]  You have two choices.
+[00:41:29.360 --> 00:41:35.119]  Either tell the court that you partnered with your brother or we will kill your family like we killed your brother.
+[00:41:35.440 --> 00:41:37.360]  Later that day, they send another one.
+[00:41:37.679 --> 00:41:41.039]  Hey, Pudgy, your boss, my boss, is a very kind person.
+[00:41:41.360 --> 00:41:42.319]  He loved your brother.
+[00:41:42.639 --> 00:41:46.079]  Your brother's mistake was that he wanted to tell the court everything.
+[00:41:46.400 --> 00:41:47.759]  The boss wants to meet you.
+[00:41:48.079 --> 00:41:50.000]  He just wants to see if you know him or not.
+[00:41:50.319 --> 00:41:52.079]  What's the boss's name?
+[00:41:53.599 --> 00:41:55.440]  Again, you want to talk about spycraft.
+[00:41:55.519 --> 00:41:58.400]  You want to talk about James Bond type stuff.
+[00:41:59.199 --> 00:42:02.000]  This is what we're dealing with here.
+[00:42:03.599 --> 00:42:04.960]  Testing him for a code word.
+[00:42:05.039 --> 00:42:06.639]  Do you even know who the boss is?
+[00:42:06.960 --> 00:42:09.920]  Say the name of the boss as a testing, right?
+[00:42:10.239 --> 00:42:12.719]  If you don't know the answer, the boss will be very upset.
+[00:42:12.960 --> 00:42:14.079]  You don't know my boss.
+[00:42:14.239 --> 00:42:15.519]  It's true.
+[00:42:16.159 --> 00:42:24.639]  So I think what I'm seeing happen here is that they're checking to see whether Epstein's brother was privy to some of the more sensitive information.
+[00:42:24.960 --> 00:42:30.400]  And they're testing him, hoping that he's like, I know who the boss is, so they'll kill him.
+[00:42:30.559 --> 00:42:37.360]  I'm a little bit, you know, unsophisticated, I think, the strategy here, but maybe it's not supposed to be sophisticated.
+[00:42:37.519 --> 00:42:39.039]  It's just a death threat.
+[00:42:39.920 --> 00:42:42.719]  So then the next day, so apparently the brother doesn't respond.
+[00:42:42.880 --> 00:42:44.319]  And the next day he gets another email.
+[00:42:44.639 --> 00:42:46.639]  You don't know our boss's name, I'm sure.
+[00:42:46.960 --> 00:42:48.079]  If you know him, tell us.
+[00:42:48.239 --> 00:42:49.119]  He wants to meet you.
+[00:42:49.440 --> 00:42:52.960]  Just because you don't answer doesn't mean you don't know your brother's killers.
+[00:42:53.279 --> 00:42:54.159]  It's true.
+[00:42:54.480 --> 00:42:58.719]  You know that if you tell the police something, we will kill your children.
+[00:42:59.360 --> 00:43:01.519]  Hey, bitch, don't you want to answer?
+[00:43:01.679 --> 00:43:04.800]  If you don't answer, I'll suffocate you like your brother.
+[00:43:06.079 --> 00:43:10.719]  And then finally, the final email on the 26th of May, you don't know us, I'm sure.
+[00:43:10.880 --> 00:43:12.000]  You have beautiful children.
+[00:43:12.239 --> 00:43:13.199]  F your children.
+[00:43:13.440 --> 00:43:14.719]  Which one should I kill first?
+[00:43:15.039 --> 00:43:16.719]  You know no one knows who we are.
+[00:43:17.039 --> 00:43:20.639]  I want to kill them in such a way that no one can tell how they have died.
+[00:43:20.960 --> 00:43:23.759]  We have documents that show you had a partnership with your brother.
+[00:43:24.079 --> 00:43:27.440]  I want to do something to see the death of your loved ones.
+[00:43:27.680 --> 00:43:30.159]  We will kill one of your children in 72 hours.
+[00:43:30.400 --> 00:43:31.200]  Stupid.
+[00:43:33.760 --> 00:43:34.000]  Okay.
+[00:43:34.800 --> 00:43:55.360]  So that was an email sent to Mark Epstein and his lawyer, Stacey Richmond, from an anonymous account called PudgyKiller at fastmail.com sent to Epstein's brother a couple months after Epstein was killed.
+[00:43:56.320 --> 00:44:03.280]  Now, like everything in this, I guess we have to suggest the fact.
+[00:44:04.159 --> 00:44:05.200]  This sounds pretty real.
+[00:44:05.360 --> 00:44:07.760]  I mean, this sounds pretty messed up and real to me.
+[00:44:08.000 --> 00:44:09.360]  It could be fake.
+[00:44:09.519 --> 00:44:17.119]  It could be an anonymous person just trying to get one over on Epstein's brother, seeing if maybe get something going.
+[00:44:17.440 --> 00:44:20.720]  But that would be a very ballsy thing to do.
+[00:44:20.960 --> 00:44:25.840]  That would be a pretty ballsy thing to do if you're not actually involved in this.
+[00:44:26.480 --> 00:44:33.360]  You'd have to be real confident of your skills as like a hacker or whatever to see that Jeffrey Epstein was just killed.
+[00:44:33.440 --> 00:44:34.720]  And you're like, I know.
+[00:44:35.280 --> 00:44:35.599]  I know.
+[00:44:35.680 --> 00:44:44.960]  I'll inject myself into this international spy drama with people apparently able to kill anybody they want without repercussion.
+[00:44:46.480 --> 00:44:46.960]  I don't know.
+[00:44:47.039 --> 00:44:50.720]  It doesn't seem like the type of thing that somebody would do just for kicks, exactly.
+[00:44:50.880 --> 00:44:52.159]  It seems legit.
+[00:44:52.800 --> 00:44:59.360]  And I think we can derive from this that there probably were bosses for Epstein.
+[00:45:00.880 --> 00:45:02.079]  At least one.
+[00:45:03.039 --> 00:45:08.159]  Who they are, I have my own ideas, but I think that's fairly clear.
+[00:45:08.480 --> 00:45:13.760]  And I think that, to me, is one of the more important emails out of the whole thing.
+[00:45:15.039 --> 00:45:25.039]  Not to say that Jeffrey Epstein wasn't pulling strings and, you know, very high up in a number of really a shockingly wide array of societal things.
+[00:45:25.200 --> 00:45:26.800]  I mean, it really is wild.
+[00:45:28.079 --> 00:45:34.960]  I think in the next, I think at the beginning of the next hour, I'm going to go to the report from Ben Swan about Pizzagate.
+[00:45:35.119 --> 00:45:42.240]  They got him fired from his job in the mainstream media as they really cracked down on Pizzagate.
+[00:45:44.079 --> 00:46:02.480]  Just again, to explain how close we got to uncovering this in 2015, 2016 with the WikiLeaks emails that are basically mirrored in a lot of the Epstein emails and how it was shut down forcibly in really the most insane way ever, as we've described over and over.
+[00:46:02.639 --> 00:46:07.440]  People don't know this because I saw people online saying, why did we ever abandon Pizzagate?
+[00:46:07.760 --> 00:46:09.280]  Like, why did we stop looking into that?
+[00:46:09.440 --> 00:46:11.840]  It seems like now, in retrospect, it was kind of legit.
+[00:46:11.920 --> 00:46:13.280]  Maybe we should have delved down on that.
+[00:46:13.599 --> 00:46:16.159]  To which my response is, of course, nobody abandoned it.
+[00:46:16.480 --> 00:46:28.320]  We were forced to drop it because some dude went into one of the pizza places mentioned, fired a single bullet that happened to hit the computer's hard drive, then surrendered immediately to the police.
+[00:46:28.880 --> 00:46:36.639]  And so it became a violent conspiracy theory that inspires shootings to happen.
+[00:46:36.880 --> 00:46:38.000]  So now we can't talk about it.
+[00:46:38.079 --> 00:46:43.200]  Now we have a reason to censor it because it wasn't just a conspiracy theory about elite pedophilia.
+[00:46:43.280 --> 00:46:45.519]  Now it was something that inspired a dangerous activity.
+[00:46:45.680 --> 00:46:48.880]  That and a lot of the people mentioned in it started suing everybody involved.
+[00:46:49.039 --> 00:46:50.240]  So everybody shut up about it.
+[00:46:50.559 --> 00:46:51.840]  But it was never fake.
+[00:46:52.159 --> 00:46:54.079]  It was never baseless.
+[00:46:55.280 --> 00:46:58.559]  It was never investigated, but it was also never disproven.
+[00:46:58.880 --> 00:47:06.480]  And as Alex Jones notes, and he's tweeted a lot of these, if you want to find them at his X account at RealAlex Jones, Pizzagate is all over the Epstein files.
+[00:47:06.559 --> 00:47:14.880]  In the confirmed as authentic emails below, Jeffrey Epstein talks about a large number of adults sharing a piece of piece of pizza and torturing it.
+[00:47:15.760 --> 00:47:17.840]  Which again, it's like, it does.
+[00:47:18.000 --> 00:47:20.559]  It almost reminds me of like the Sopranos or something.
+[00:47:21.039 --> 00:47:24.720]  When there'd be scenes where they're like in the prison and he's like, Did you get the cake?
+[00:47:25.039 --> 00:47:28.240]  And they're like, You mean the $300,000 cake?
+[00:47:28.559 --> 00:47:31.039]  Or do you mean the real cake with the icing on it?
+[00:47:31.119 --> 00:47:36.079]  And it's like, why even use code words if you're going to be this obvious?
+[00:47:36.400 --> 00:47:43.760]  You know, yeah, we got a shipment of the nice powdery white sugar from the Colombians.
+[00:47:44.079 --> 00:47:44.960]  Wink wink.
+[00:47:45.039 --> 00:47:46.800]  It's like, what are you even doing?
+[00:47:48.000 --> 00:47:48.240]  What?
+[00:47:49.119 --> 00:47:50.000]  That's what this is.
+[00:47:50.240 --> 00:47:53.760]  Okay, we're all going to share and torture a piece of pizza.
+[00:47:54.079 --> 00:47:54.880]  Oh, okay.
+[00:47:55.200 --> 00:47:55.840]  Interesting.
+[00:47:56.160 --> 00:47:58.079]  Remember, walnut sauce and all these.
+[00:47:58.240 --> 00:48:00.400]  We covered all this years ago.
+[00:48:00.720 --> 00:48:01.920]  Now it's being proven.
+[00:48:02.079 --> 00:48:02.400]  Oh, yeah.
+[00:48:02.559 --> 00:48:02.800]  Sorry.
+[00:48:02.960 --> 00:48:04.160]  The crew's showing it right now.
+[00:48:04.400 --> 00:48:09.440]  The shooter of Pizzagate shot one bullet into the computer's hard drive, then surrendered to the police.
+[00:48:09.519 --> 00:48:13.920]  He was then later killed by police in 2021 after a traffic stop.
+[00:48:14.160 --> 00:48:17.440]  So nothing suspicious about that.
+[00:48:17.760 --> 00:48:18.079]  Okay.
+[00:48:19.280 --> 00:48:21.680]  Pizzagate all over the Epstein files.
+[00:48:22.320 --> 00:48:24.720]  Again, just ridiculous.
+[00:48:25.200 --> 00:48:28.480]  Here are more real Epstein Pizzagate files released by the DOJ Friday.
+[00:48:28.559 --> 00:48:32.640]  They mirror WikiLeaks documents released in the fall of 2016, rather.
+[00:48:33.599 --> 00:48:36.800]  Cheese equals little girl, pasta, little boy, ice cream, male prostitute.
+[00:48:36.960 --> 00:48:44.000]  I mean, they switch it up a little bit, but long story short, pizza equals child sex slaves.
+[00:48:45.280 --> 00:49:03.360]  There's this photo that some people are saying is fake, some are real, but it has been confirmed that Zorhan Mamdani, newly elected mayor of New York's mother, was involved in the Epstein files, which would be an awakening if the left was capable of such a thing.
+[00:49:03.680 --> 00:49:16.000]  That the champion, the anti-Zionist, radical left-wing Zorhan Mamdani, was sort of groomed for this position by a bunch of elite Zionists.
+[00:49:16.320 --> 00:49:19.519]  Maybe you want to start asking some questions about that.
+[00:49:22.000 --> 00:49:24.160]  Now, there were pictures of like a baby.
+[00:49:24.320 --> 00:49:26.320]  He wasn't a baby at the time these pictures were taken.
+[00:49:26.640 --> 00:49:27.920]  He would have been a little bit older.
+[00:49:28.240 --> 00:49:31.599]  But his mom was definitely associated with him.
+[00:49:31.760 --> 00:49:34.720]  And, you know, she's an elite, like they're like king.
+[00:49:35.039 --> 00:49:36.320]  They like own Uganda.
+[00:49:36.480 --> 00:49:37.440]  I don't know.
+[00:49:37.760 --> 00:49:44.640]  He's just another total puppet front plant of this cabal, this mafia.
+[00:49:45.840 --> 00:49:48.720]  Talking trash about Donald Trump.
+[00:49:49.039 --> 00:50:04.000]  TMZ founder Harvey Levin Levin is named in the Epstein files, described as a good friend who could help run a global PR effort to defend convicted pedophile Jeffrey Epstein and smear his victims slash accusers, yet TMZ has stayed eerily silent on the entire document dump.
+[00:50:04.480 --> 00:50:11.119]  These are accusations, I'll say allegedly here, but this is what's being discovered by investigators looking into the document dumping.
+[00:50:11.280 --> 00:50:14.640]  Just like TMZ, I don't think I finished this thought.
+[00:50:14.800 --> 00:50:16.880]  I mentioned it at the beginning of the segment.
+[00:50:17.200 --> 00:50:20.880]  You should be noticing right now who is not talking about this.
+[00:50:21.200 --> 00:50:23.599]  Ben Shapiro said there were no Epstein documents.
+[00:50:23.760 --> 00:50:25.920]  I said I didn't think we'd ever get them.
+[00:50:26.480 --> 00:50:27.840]  But there, and there still are.
+[00:50:28.240 --> 00:50:32.880]  They seized 40 terabytes of information from Jeffrey Epstein.
+[00:50:33.039 --> 00:50:36.079]  Everything that's been released now can fit on a thumb drive.
+[00:50:36.400 --> 00:50:41.760]  What they actually have takes like four terabyte or like whatever.
+[00:50:41.840 --> 00:50:45.280]  They have a ton of information, tons of videos that haven't been released.
+[00:50:45.519 --> 00:50:46.480]  All of this still exists.
+[00:50:46.640 --> 00:50:48.000]  Ben Shapiro said it never existed.
+[00:50:48.079 --> 00:50:50.880]  Yeah, they're saying that Zorhan Mamdani could be Epstein's son.
+[00:50:50.960 --> 00:50:52.640]  I don't think that's true.
+[00:50:53.280 --> 00:50:55.119]  I don't think that's true.
+[00:50:57.039 --> 00:51:08.160]  And this may be the thing we need to guard against most at this point, is people taking real revelations, like the fact that Zorhan Mamdani was likely groomed by this pedophile network to be mayor of New York.
+[00:51:08.240 --> 00:51:17.920]  He didn't just come out of nowhere, but he's an elite, he's a member of these exact circles planted here to play a role that he isn't actually in reality.
+[00:51:20.480 --> 00:51:35.440]  Realizing that and realizing how many people are involved in covering this up, including people that were waving around Epstein Part 1 binders that have refused to say word one about this release now that it's actually come out.
+[00:51:35.680 --> 00:51:36.080]  We get back.
+[00:51:36.160 --> 00:51:38.800]  I'm going to go to a video from Ben Swan from all the way back in 2016.
+[00:51:38.960 --> 00:51:41.200]  It got him fired about Pizzagate.
+[00:51:41.280 --> 00:51:42.160]  It's how you know it's real.
+[00:51:42.320 --> 00:51:45.040]  Again, I want to say this is a victory for Infowars.
+[00:51:45.360 --> 00:51:49.200]  This is validation on a level I never thought we'd see.
+[00:51:49.440 --> 00:51:52.400]  I hope you can support us by going to the AlexJonesStore.com.
+[00:51:52.720 --> 00:51:54.400]  Get yourself one of the new incredible knives.
+[00:51:54.480 --> 00:51:56.320]  It's a knife I carry as an everyday carry.
+[00:51:56.400 --> 00:51:56.800]  Incredible stuff.
+[00:51:57.040 --> 00:51:58.240]  The AlexJonesStore.com.
+[00:51:58.320 --> 00:52:02.880]  Keep us on the air and winning against this pedophile network, Satanic Cabal.
+[00:52:05.120 --> 00:52:12.320]  Well, Pizzagate, it became a major story weeks ago when an armed man decided to investigate a DC area pizza place for himself.
+[00:52:12.640 --> 00:52:17.360]  This man right here, he carried a rifle into a pizza parlor and then fired it at the floor.
+[00:52:17.680 --> 00:52:21.680]  Media is telling you the entire story is a hoax or fake news.
+[00:52:22.000 --> 00:52:23.040]  But what does that even mean?
+[00:52:23.360 --> 00:52:25.120]  I spent the last month investigating.
+[00:52:25.280 --> 00:52:27.760]  So what exactly is Pizzagate?
+[00:52:27.920 --> 00:52:30.720]  And are there any actual facts to support the story?
+[00:52:31.040 --> 00:52:38.800]  I've got to warn you, what we're going to talk about tonight will be disturbing to some people, but this is a reality check you won't see anywhere else.
+[00:52:41.040 --> 00:52:47.600]  Pizzagate actually comes from the WikiLeaks release of hacked emails from Clinton campaign chairman John Podesta.
+[00:52:47.840 --> 00:52:57.680]  In all, WikiLeaks dumped around 50,000 email messages, and it was from those emails that the claims that John Podesta may be part of a child sex trafficking ring come from.
+[00:52:58.240 --> 00:53:05.200]  To be clear, not one single email in the Podesta emails discusses child sex trafficking or pedophilia.
+[00:53:05.440 --> 00:53:06.320]  That is a fact.
+[00:53:06.640 --> 00:53:13.360]  But there are dozens of what seem to be strangely worded emails dealing with pizza and handkerchiefs.
+[00:53:13.680 --> 00:53:22.160]  Self-described online investigators say that those words in the emails about pizza and the talk of handkerchiefs is code language used by pedophiles.
+[00:53:22.480 --> 00:53:25.280]  So how did a DC pizza parlor get pulled into the story?
+[00:53:25.520 --> 00:53:34.400]  Well again, read any mainstream report and they indicate that Comet Ping Pong Pizza was somehow linked to this fake story and has no relation to anyone involved.
+[00:53:34.720 --> 00:53:37.040]  But the truth is that's not true either.
+[00:53:37.360 --> 00:53:51.120]  What media is ignoring is that the Comet Ping Pong Pizza Place is actually referenced in the Podesta emails at least a dozen or so times and that the owner of that place, James Alphantis, is a friend of John Podesta.
+[00:53:51.360 --> 00:53:58.480]  He was actually named, this is kind of strange, by GQ Magazine, as one of the top 50 most powerful people in Washington.
+[00:53:58.800 --> 00:54:00.880]  Yes, we're talking about a pizza parlor owner.
+[00:54:01.120 --> 00:54:02.240]  Now let's talk facts here.
+[00:54:02.480 --> 00:54:09.280]  There is no solid evidence that Comet Ping Pong Pizza is being used to run a child sex trafficking ring.
+[00:54:09.600 --> 00:54:18.560]  But there are some very strange connections between Comet Ping Pong Pizza and a second pizza place two doors over, Besta Pizza, and the accusations of pedophilia.
+[00:54:18.800 --> 00:54:22.080]  Now this is where things start to get strange when you research this story.
+[00:54:22.400 --> 00:54:27.360]  Now to begin, I need to show you a 2007 unclassified FBI document.
+[00:54:27.520 --> 00:54:34.720]  That document, according to the FBI, contains commonly used symbols by pedophiles to express their preference in children.
+[00:54:34.960 --> 00:54:36.400]  I want you to see these images here.
+[00:54:36.720 --> 00:54:37.440]  These are the images.
+[00:54:37.520 --> 00:54:39.600]  Notice this one on the end, the triangle.
+[00:54:39.920 --> 00:54:43.120]  That image signifies something called boy love.
+[00:54:43.760 --> 00:54:47.760]  The pizza place next door to Comet Ping Pong Pizza, Besta Pizza.
+[00:54:48.080 --> 00:54:51.360]  Well, this was their logo until only a few weeks ago.
+[00:54:51.600 --> 00:54:59.600]  Clearly, you can see that the Besta logo actually contains the same image, I'm going to show you again, as that boy lover image.
+[00:54:59.920 --> 00:55:06.480]  Interestingly, after Pizzagate investigators pointed this out, Besta Pizza changed their logo, and there it is now.
+[00:55:06.720 --> 00:55:08.640]  They removed the triangle.
+[00:55:08.960 --> 00:55:15.040]  Also, Comet Ping Pong, owned by Alphantis, is the place where a number of performance artists perform regularly.
+[00:55:15.519 --> 00:55:25.519]  Two of the groups that perform there, who you can see advertised, by the way, on this Comet ping pong poster, include a group called Heavy Breathing and another group called Sex Stains.
+[00:55:25.840 --> 00:55:31.200]  Well, if you check out the YouTube videos by these bands, Heavy Breathing has songs that do joke about pedophilia.
+[00:55:31.280 --> 00:55:38.079]  And the band Sex Stains has a video that includes, and you see it right there, that same boy lover symbol.
+[00:55:38.240 --> 00:55:44.480]  It's nearly identical to the one that the FBI does say is a pedophile code symbol for boy love.
+[00:55:45.039 --> 00:55:47.360]  As I said, there are some strange things there.
+[00:55:47.599 --> 00:55:54.240]  As for the owner of the Pizza Place, James Alphantis, well, he was one time in a relationship with David Brock, who ran Media Matters for America.
+[00:55:54.559 --> 00:56:00.880]  Well, since Pizzagate began to blow up online, he has made his Instagram profile, Jimmy Comet, private.
+[00:56:01.200 --> 00:56:11.039]  But an archive search of Instagram reveals a number of strange photographs and words with strange and disturbing images associated with them.
+[00:56:11.360 --> 00:56:14.079]  Look, to the point where we can't show you those pictures.
+[00:56:14.320 --> 00:56:14.880]  We're not even going to show you how to do it.
+[00:56:15.039 --> 00:56:17.840]  So again, folks, this was from all the way back in 2016.
+[00:56:18.000 --> 00:56:33.840]  The great Ben Swan, who was fired for this and actually experienced a lot of upheaval in his own life because of covering that information, which has now been all but confirmed by much of the Jeffrey Epstein release that we have as of Friday.
+[00:56:34.480 --> 00:56:35.599]  We've known this the whole time.
+[00:56:35.760 --> 00:56:36.880]  This has been true the whole time.
+[00:56:37.200 --> 00:56:39.120]  And yes, it's been the Democrats the whole time.
+[00:56:39.280 --> 00:56:49.360]  So the last 10 years, the Democrats have been portraying the very concept of elite pedophilia as a wild-eyed conspiracy theory that was dangerous to even consider.
+[00:56:49.680 --> 00:56:55.120]  They suddenly decided when Trump started balking at Epstein, they're like, oh, let's double down.
+[00:56:55.200 --> 00:56:56.640]  Let's actually pay attention to this now.
+[00:56:56.960 --> 00:57:01.440]  And it's blowing up in their faces because they're still the ones involved in all of it.
+[00:57:01.760 --> 00:57:03.280]  Stay tuned, folks.
+[00:57:05.200 --> 00:57:07.519]  Welcome back, ladies and gentlemen.
+[00:57:08.480 --> 00:57:09.519]  This is Alex Jones Show.
+[00:57:09.680 --> 00:57:10.960]  I'm your host, Harrison Smith.
+[00:57:11.039 --> 00:57:12.160]  I usually host The War Room.
+[00:57:12.480 --> 00:57:15.360]  I'm going to be hosting the Alex Jones show for the next couple of days.
+[00:57:15.680 --> 00:57:17.440]  But of course, Alex cannot stay away.
+[00:57:17.680 --> 00:57:21.920]  We literally are trying to force him to relax for his own health.
+[00:57:22.160 --> 00:57:25.200]  And it just, it just is a fact of reality.
+[00:57:25.360 --> 00:57:26.800]  I don't know why it is.
+[00:57:27.119 --> 00:57:30.559]  The universe pays attention to whether or not I'm hosting the Alex Jones show.
+[00:57:31.039 --> 00:57:33.119]  I swear I think this is true.
+[00:57:33.440 --> 00:57:39.440]  I cannot tell you the number of major world-changing events have occurred while I happen to be sitting behind this desk.
+[00:57:39.760 --> 00:57:41.600]  It's like Alex Jones never goes on vacation.
+[00:57:41.680 --> 00:57:42.880]  He never takes a break.
+[00:57:43.200 --> 00:57:46.800]  Whenever it finally gets to the point where we're like, Alex, you got to take a couple days off.
+[00:57:47.039 --> 00:57:49.519]  It's like January 6th happens.
+[00:57:49.680 --> 00:57:50.400]  It's crazy.
+[00:57:50.720 --> 00:57:51.360]  It's crazy.
+[00:57:51.680 --> 00:57:53.360]  January 6th, I was here.
+[00:57:53.519 --> 00:57:54.880]  Of course, they were all in DC.
+[00:57:55.200 --> 00:57:56.880]  Yeah, the assassination of Charlie Kirk.
+[00:57:56.960 --> 00:57:59.519]  I happened to be sitting behind the desk when that news came in.
+[00:57:59.840 --> 00:58:04.000]  And now I happen to be scheduled to host the show for the next couple of days.
+[00:58:04.160 --> 00:58:09.360]  And the Jeffrey Epstein documents get released in a real powerful, full-fledged kind of way.
+[00:58:09.920 --> 00:58:13.360]  I don't know what that means, but the universe wants it.
+[00:58:13.680 --> 00:58:16.880]  Who are we to deny the universe its prize?
+[00:58:17.200 --> 00:58:20.880]  But obviously, Alex Jones is not sitting on a beach somewhere.
+[00:58:20.960 --> 00:58:25.680]  He's still very much involved in looking into this and doing research and has been filing reports on a continual basis.
+[00:58:25.840 --> 00:58:27.039]  And we'll continue to file reports.
+[00:58:27.119 --> 00:58:31.760]  So make sure you're following him at RealAlex Jones and we'll play them as they come in.
+[00:58:32.079 --> 00:58:36.400]  Because this is the Super Bowl for conspiracy theorists.
+[00:58:36.640 --> 00:58:50.880]  This is Toto the dog pulling back the curtain and we get to see all of the disturbing machinations behind the scenes that we always knew were going on but hadn't put names or faces or times to precisely yet.
+[00:58:51.039 --> 00:58:59.440]  So I'm just going to go through some of the more incredible pieces of information that have been discovered, although it really is a continual thing.
+[00:58:59.760 --> 00:59:06.400]  Every time I refresh X, there's like 10 more samples of things that this guy was involved in.
+[00:59:07.039 --> 00:59:23.519]  And so again, you might be thinking, like, how is this guy giving parenting advice to the Norwegian royal family while he's conspiring with the Rothschilds to overthrow Ukraine, while he's helping Israel do weapons deals in Moscow?
+[00:59:23.679 --> 00:59:24.800]  It's like, who is this guy?
+[00:59:25.119 --> 00:59:27.199]  How did he get all these positions?
+[00:59:27.519 --> 00:59:30.320]  And it's like, well, he's a spy, right?
+[00:59:31.759 --> 00:59:34.559]  You know, James Bond holds a bunch of different positions too.
+[00:59:34.880 --> 00:59:36.239]  He really has one position.
+[00:59:36.320 --> 00:59:36.880]  He's a spy.
+[00:59:36.960 --> 00:59:40.000]  But every time he goes on a new mission, he's given some new cover story.
+[00:59:40.320 --> 00:59:43.360]  So if you followed James Bond's emails, you'd be like, what the hell?
+[00:59:43.519 --> 00:59:46.559]  This guy's a climate change guy.
+[00:59:46.719 --> 00:59:48.159]  He's a poker player.
+[00:59:48.320 --> 00:59:48.960]  Who is this guy?
+[00:59:49.119 --> 00:59:49.759]  He's a spy.
+[00:59:50.079 --> 00:59:54.480]  He's a spy that wears whatever hat necessary to manipulate whoever his target is.
+[00:59:54.719 --> 00:59:55.759]  That's who this guy is.
+[00:59:56.079 --> 00:59:58.800]  He's a spy and he's a mafia member.
+[00:59:59.119 --> 01:00:06.239]  And I went through this like a month ago when something else about Epstein had come out, where again, people were asking who was this guy.
+[01:00:06.559 --> 01:00:08.480]  Well, who's Tony Soprano?
+[01:00:08.800 --> 01:00:15.440]  Is Tony Soprano really a waste management specialist?
+[01:00:16.320 --> 01:00:17.440]  No, not really.
+[01:00:18.480 --> 01:00:22.639]  How do you get a mansion in the hills as a waste management specialist?
+[01:00:22.960 --> 01:00:23.360]  You don't.
+[01:00:23.679 --> 01:00:25.360]  That's the way that people treat Epstein.
+[01:00:25.679 --> 01:00:26.639]  It's actually kind of funny.
+[01:00:26.719 --> 01:00:29.360]  When people are like, well, you're a genius financier.
+[01:00:29.679 --> 01:00:32.320]  You're this big genius mathematical numbers guy.
+[01:00:32.639 --> 01:00:33.519]  You know, what's the answer?
+[01:00:33.599 --> 01:00:35.039]  And he's like, well, I don't really know.
+[01:00:35.199 --> 01:00:36.000]  And it's like, he's not.
+[01:00:36.320 --> 01:00:36.800]  He's not.
+[01:00:36.880 --> 01:00:37.599]  He's not a genius.
+[01:00:37.679 --> 01:00:40.000]  He didn't become a billionaire because of how smart he is.
+[01:00:40.320 --> 01:00:47.519]  He was placed in that position because of who his family is, because of the connections that he had, because he had a certain set of skills that they could make use of.
+[01:00:47.759 --> 01:01:00.559]  By the way, he was recruited by Bill Barr's father, Donald Barr, while he was working in a school, hired him with no experience, fed him into the pipeline of the international spy ring community.
+[01:01:00.880 --> 01:01:10.800]  And then decades later, the recruiter's son, Bill Barr, is in charge of prosecuting the guy who ends up being murdered while in custody.
+[01:01:14.000 --> 01:01:14.880]  Yeah, this is the way it works.
+[01:01:15.039 --> 01:01:15.920]  This is just the way it works.
+[01:01:16.079 --> 01:01:20.079]  So again, if you were to ask, like, what does Tony Soprano do?
+[01:01:20.400 --> 01:01:25.440]  What does whatever, you know, a member of the Corleone family do?
+[01:01:26.079 --> 01:01:40.159]  It's like, well, they go around setting things up, making deals, getting agreements, threatening people, blackmailing people, collecting blackmail, serving, you know, delivering payments, collecting payments, transferring money.
+[01:01:40.480 --> 01:01:41.360]  That's what he does.
+[01:01:41.519 --> 01:01:46.239]  What he does is whatever he needs to do for his cabal, for his mafia.
+[01:01:47.519 --> 01:01:48.639]  That's the way to understand this.
+[01:01:48.800 --> 01:01:52.159]  So it's not confusing that, you know, all of these things are happening.
+[01:01:52.320 --> 01:02:09.920]  The whole point of his existence was to be a social manager, was to go out and meet as many people as possible and to ingratiate himself with them by A, providing them money, B, providing them girls, or C, playing the role that they want him to play.
+[01:02:10.239 --> 01:02:15.360]  So really is not that confusing, but it explains why he's got his fingers in all these different pies.
+[01:02:15.519 --> 01:02:31.519]  And this is also one of the things that makes intelligence operate is access to secrets and the desire and the thrill that comes with that and the power that people feel when they have secrets and they share it with each other.
+[01:02:31.840 --> 01:02:39.199]  And in doing so, they bolster their position as superior to everybody who's blind to the secrets that they know.
+[01:02:39.519 --> 01:03:02.320]  And I say that because there's one example in these emails of something that I can't exactly say why they're discussing this other than wanting to know the inside story of the resignation of Pope Benedict from Carlos E. Perez at Intuit Machine on X.
+[01:03:03.199 --> 01:03:07.279]  The Epstein files have a lot more behind-the-scenes scandals than just what happened on the island.
+[01:03:07.519 --> 01:03:13.679]  Here's the former U.S. Secretary of the Treasury revealing to Epstein why Pope Benedict may have vacated his papacy.
+[01:03:13.839 --> 01:03:14.960]  Now, he's got that wrong, actually.
+[01:03:15.119 --> 01:03:17.359]  This is from Jeffrey Epstein to Larry Summers.
+[01:03:17.599 --> 01:03:29.839]  So, this is apparently Epstein with a subject response to your question last week, sending this to Larry Summers, the guy who, by the way, is now at the head of ChatGPT.
+[01:03:30.480 --> 01:03:40.239]  The most important change in the Vatican may not be Pope Benedict the 16th's sudden retirement, but the change in leadership at the Institute for Works of Religion, the Vatican's Bank.
+[01:03:40.559 --> 01:03:46.399]  Because of the Vatican's status as a sovereign country, it's exempt from transparency rules of not only Italy, but of the European Union.
+[01:03:46.719 --> 01:03:50.719]  This status allows elite clients to evade any scrutiny in their money transfers.
+[01:03:50.960 --> 01:04:01.439]  Last May, Vatican Bank President Ettori Gotti Tadeschi was fired after Italian authorities opened an investigation into far-flung bribery schemes in which he allegedly was involved.
+[01:04:01.759 --> 01:04:08.399]  Then, 47 dossiers, including compromising material about internal enemies of his in the Vatican, were found in the search of his home.
+[01:04:08.639 --> 01:04:12.159]  They had instructions how they were to be used in case something happened to him.
+[01:04:12.319 --> 01:04:19.679]  Tadeschi's intercepted calls further reveal that his concern was that he would be assassinated because he knew the Vatican secrets.
+[01:04:20.000 --> 01:04:23.439]  By late 2012, he was cooperating with ongoing Italian investigation.
+[01:04:23.679 --> 01:04:34.480]  It was at this point that the all-powerful College of Cardinals, in one of the last acts of the Benedict Papacy, appointed German lawyer Ernst van Freyberg as the president of the bank.
+[01:04:34.719 --> 01:04:37.199]  Then came the extraordinary resignation of Pope Benedict.
+[01:04:37.439 --> 01:04:51.039]  So it seems to hint that it was this scandal and the possibility of secret money transfers through the Vatican that were the reason that he resigned in the first place.
+[01:04:51.359 --> 01:04:57.679]  Yeah, former Treasury Secretary and economist Larry Summers resigned from the board of directors of ChatGPT Maker OpenAI in November 2025.
+[01:04:57.759 --> 01:05:04.239]  His resignation followed the release of emails linking him to financier Jeffrey Epstein, which also prompted a review by Harvard University.
+[01:05:04.559 --> 01:05:20.000]  But we said at the time, I did a big report at the time that the OpenAI takeover happened, that it was clearly orchestrated by much larger forces and that Larry Summers, who has been a well-known kingpin in this mafia for a long time, happened to be the one to benefit the most at the end of it all.
+[01:05:20.319 --> 01:05:24.239]  Not exactly a surprise, and of course, Epstein was tied in with him.
+[01:05:27.599 --> 01:05:30.079]  Just also utterly insane.
+[01:05:30.639 --> 01:05:32.799]  Ghislaine Maxwell is an absolute psychopath.
+[01:05:32.960 --> 01:05:45.519]  This from a discussion about how she wanted to make molds of people's breasts, but didn't know how to do it, and accidentally poured like scalding hot material on him and gave him second-degree burns and just like didn't give a damn.
+[01:05:45.839 --> 01:05:47.279]  Just like didn't care.
+[01:05:47.919 --> 01:05:51.759]  Did not notice or pay attention to any scars she had because of this.
+[01:05:53.039 --> 01:05:55.279]  And like, yeah, no, these people are ruthless.
+[01:05:55.519 --> 01:05:56.960]  They're brutal.
+[01:05:59.199 --> 01:06:02.239]  And they genuinely don't care about their victims.
+[01:06:02.559 --> 01:06:03.519]  They are psychopaths.
+[01:06:03.599 --> 01:06:06.079]  That's why they're recruited for this type of thing.
+[01:06:09.599 --> 01:06:15.439]  Jeffrey Epstein, quote, definitely not involved in any state craft negotiations.
+[01:06:15.599 --> 01:06:18.239]  Epstein said sarcastically, of course.
+[01:06:18.559 --> 01:06:21.519]  This is from Epstein to an unknown person.
+[01:06:21.839 --> 01:06:24.239]  Yes, one of the most complex negotiations.
+[01:06:24.559 --> 01:06:25.839]  They are very strange.
+[01:06:26.000 --> 01:06:30.719]  Someone buy fighters, but with the fighter money, some must be used for specific third-party items.
+[01:06:31.039 --> 01:06:35.919]  I will buy your P for 10K, but with two of the 10, you have to buy me food.
+[01:06:36.000 --> 01:06:38.799]  And to make matters worse, I need to borrow the 10 from you.
+[01:06:39.039 --> 01:06:41.679]  This response to, do you understand offset agreements?
+[01:06:41.759 --> 01:06:47.839]  I got asked to be involved in negotiating some of the deals between Brazil and other countries in regards to the purchase of new fighter jets.
+[01:06:48.159 --> 01:06:55.199]  So he's involved in the purchase of fighter jets and I guess negotiating sex in exchange.
+[01:06:55.599 --> 01:06:55.839]  I don't know.
+[01:06:56.000 --> 01:06:58.399]  I mean, this whole thing is just sorted.
+[01:06:58.559 --> 01:07:03.360]  I think sorted would be the word that I'd put on everything we were finding out.
+[01:07:03.679 --> 01:07:07.840]  Epstein to Peter Thiel, as you probably know, I represent the Rothschilds.
+[01:07:08.159 --> 01:07:11.199]  Meanwhile, conservative influencers, stop blaming the Rothschilds.
+[01:07:11.279 --> 01:07:12.000]  Epstein has aura.
+[01:07:12.079 --> 01:07:12.559]  I don't know.
+[01:07:13.199 --> 01:07:15.599]  I guess it's talking about Nick Fuente.
+[01:07:15.679 --> 01:07:15.920]  I don't know.
+[01:07:16.000 --> 01:07:18.000]  I don't get Nick's take on Epstein.
+[01:07:18.079 --> 01:07:19.039]  It's kind of weird.
+[01:07:19.360 --> 01:07:20.239]  It's kind of weird.
+[01:07:21.199 --> 01:07:21.840]  I don't know.
+[01:07:22.159 --> 01:07:22.639]  I don't get it.
+[01:07:22.799 --> 01:07:27.519]  I'm not going to defend it, but I don't know.
+[01:07:28.000 --> 01:07:28.719]  The whole thing's weird.
+[01:07:32.000 --> 01:07:35.199]  There's a podcast we'll call Sea Town.
+[01:07:35.759 --> 01:07:41.519]  It was hosted by Stavros Halkius and Nick Mullen.
+[01:07:42.159 --> 01:07:47.759]  And when the Epstein scandal first happened and Epstein didn't kill himself, you know, they went on and on about this.
+[01:07:48.079 --> 01:07:50.480]  And for some reason, there's a quote from there.
+[01:07:50.799 --> 01:07:52.400]  I need to find the actual thing.
+[01:07:53.039 --> 01:07:54.799]  But Nick Mullen, he's a comedian.
+[01:07:54.880 --> 01:07:55.440]  It's a comedy show.
+[01:07:55.519 --> 01:08:13.119]  And he's saying, you know, I just can't wait for the day when not only do we accept that the Jeffrey Epstein pedophile network exists, but that the wider American public understands it as a good thing and that it's something that's needed to maintain control.
+[01:08:13.440 --> 01:08:38.079]  And obviously it was a joke that he was saying, but in a way, it's almost like we're going there, where it's like this weird, you know, it's kind of like how people look at movies now and they go, gee, maybe Harvey Weinstein, you know, running a full-fledged sex ring, you know, rape, whatever, assembly line out of his studios.
+[01:08:38.720 --> 01:08:40.079]  At least they made good movies.
+[01:08:40.319 --> 01:08:42.640]  You know, at least the girls were good to look at in the movies.
+[01:08:42.800 --> 01:08:47.600]  At least we weren't, you know, seeing the people that we're seeing now in movies.
+[01:08:48.559 --> 01:08:55.119]  And it's like, okay, so you think the rapist was a good thing, was a necessary thing then.
+[01:08:55.680 --> 01:09:00.880]  It's obviously not, but there's this weird kind of like acceptance of this.
+[01:09:01.119 --> 01:09:01.519]  I don't know.
+[01:09:01.680 --> 01:09:03.199]  The whole thing is weird.
+[01:09:05.119 --> 01:09:11.680]  So as he, so he says, from Jeffrey to Peter Thiel, as you probably know, I represent the Rothschilds.
+[01:09:11.920 --> 01:09:22.559]  I was hoping to figure out a way for the bank that has $160 billion in it in management to do something in tech, but client list in the world, best client list in the world, prehistoric products.
+[01:09:22.640 --> 01:09:23.119]  It can wait.
+[01:09:23.279 --> 01:09:24.079]  Good luck in China.
+[01:09:24.319 --> 01:09:27.760]  I'll be back in Europe again 20 through 28, then Island.
+[01:09:27.840 --> 01:09:33.680]  So if you want to come around the world going west, come to the island or if you'd like to meet in Saudi at the end of the month.
+[01:09:34.319 --> 01:09:36.159]  Teal responds: certainly not in Saudi.
+[01:09:36.239 --> 01:09:38.720]  Just think I will avoid the Middle East for the next decade or so.
+[01:09:38.960 --> 01:09:44.319]  Should be back in the East Coast late April, May, sometime in NYC or on Island then.
+[01:09:46.239 --> 01:09:50.559]  But there you have Epstein admitting, I represent the Rothschilds.
+[01:09:50.880 --> 01:09:52.640]  I represent the Rothschilds.
+[01:09:52.960 --> 01:09:54.720]  So that's probably who his boss was.
+[01:09:55.039 --> 01:09:56.960]  That was referenced in the other email.
+[01:09:58.640 --> 01:10:04.960]  Jeffrey Epstein and Peter Thiel were discussing a plan that would destabilize Iraq, Iran, Libya, Syria, Palestine, Lebanon, and Egypt.
+[01:10:05.279 --> 01:10:10.000]  Quote, the more of a mess with just lots of bad guys on different sides, the less we will do.
+[01:10:10.319 --> 01:10:12.960]  I keep hearing your, quote, intentionality argument.
+[01:10:13.199 --> 01:10:15.439]  Imagine if this mess is what Obama really wanted.
+[01:10:15.600 --> 01:10:22.239]  Iraq, Iran, Libya, Syria, Palestine, Lebanon, Egypt, we would have to admit a strategy brilliantly executed.
+[01:10:22.880 --> 01:10:30.079]  To which Thiel responds, the intentionality argument would center on making sure the U.S. gets less involved with the rest of the world.
+[01:10:30.319 --> 01:10:35.680]  I think that's the quote plan, but more of a mess, just lots of bad guys on different sides, the less we will do.
+[01:10:37.519 --> 01:10:38.000]  When was this?
+[01:10:38.479 --> 01:10:39.519]  2014.
+[01:10:41.119 --> 01:10:46.000]  Epstein apparently had a hand in picking a Supreme Court justice in a message to Steve Bannon.
+[01:10:46.159 --> 01:10:49.039]  He said, Star talked to Cruz and Cotton for Kavanaugh.
+[01:10:49.199 --> 01:10:54.640]  It's safe to assume he was talking about Ted Cruz and Tom Cotton, and that he was referring to Brett Kavanaugh, Supreme Court Justice.
+[01:10:54.800 --> 01:10:59.039]  I'm assuming star is maybe Kinstar, lawyer and former Solicitor General of the United States.
+[01:10:59.199 --> 01:11:01.279]  The message is dated July 4th, 2018.
+[01:11:01.440 --> 01:11:05.920]  President Trump formally announced and nominated Kavanaugh on July 9th, 2018, several days later.
+[01:11:06.239 --> 01:11:13.520]  It sounds like Epstein had direct involvement with picking a Supreme Court justice, and Bannon knew, did Cruz and Cotton push Kavanaugh on Trump?
+[01:11:14.480 --> 01:11:16.000]  It's an interesting question.
+[01:11:16.640 --> 01:11:39.520]  And of course, we've seen from other emails from other people associated with this cabal, things like Larry Ellison emailing Ehud Barak about how Tony Blair and Marco Rubio should be teamed up together because they were both such good friends of theirs.
+[01:11:39.840 --> 01:11:42.079]  They both worked so hard for their shared interests.
+[01:11:42.320 --> 01:11:52.400]  And there's a lot in the Epstein files about Marco Rubio, including claims that he was the original funder of the Steele dossier, which I find very interesting.
+[01:11:53.039 --> 01:11:55.520]  We may be able to get into that a little bit later.
+[01:11:56.159 --> 01:12:06.640]  There's also a very bizarre claim about providing Jeffrey Epstein pints of Mormon blood, which is absolutely crazy.
+[01:12:07.760 --> 01:12:19.440]  With some very scandalous pictures there, this highlighted by at LDS abuse, as it appears the Mormon church was involved in Epstein to no small degree.
+[01:12:20.079 --> 01:12:26.400]  Epstein and Joshua Fink, that's BlackRock CEO, Larry Fink's sons, emailed each other.
+[01:12:29.600 --> 01:12:30.560]  And there are these weird emails.
+[01:12:30.720 --> 01:12:38.480]  I mean, some of these emails, I sure hope they came from like pre-teen girls because that's how they're written.
+[01:12:38.800 --> 01:12:45.600]  I mean, they're just these creepy emails that are just like, I gave you my whole body and you, you know, whatever.
+[01:12:45.760 --> 01:12:55.199]  And, you know, if it's a teenage girl, then it's just like heartbreaking that this like poor girl was, you know, genuinely believed the lies of this billionaire that was like, oh, I love you.
+[01:12:55.279 --> 01:12:55.840]  You're amazing.
+[01:12:56.079 --> 01:12:56.880]  You're going to be my wife.
+[01:12:57.119 --> 01:12:58.000]  You know, like all this stuff.
+[01:12:58.159 --> 01:13:03.520]  And she was just being strung along, literally pimped out, turned into a whore.
+[01:13:03.600 --> 01:13:06.159]  And she like thought it was something, you know, real.
+[01:13:06.480 --> 01:13:08.720]  And that's sort of just like devastating and heartbreaking.
+[01:13:08.880 --> 01:13:13.440]  But then if it's the same stuff being said by like adult men to each other, the whole thing is creepy as hell.
+[01:13:13.760 --> 01:13:16.000]  That seems to be what this is suggesting.
+[01:13:16.320 --> 01:13:18.239]  Just bizarre.
+[01:13:21.760 --> 01:13:27.039]  But in this is one of the mentions of Goyam.
+[01:13:27.920 --> 01:13:32.079]  You asked me to violate a basic conviction of mine and have an abortion.
+[01:13:32.400 --> 01:13:36.640]  Your mother said it would be in your best interest if I did.
+[01:13:37.279 --> 01:13:39.600]  You now ask why you should be ashamed.
+[01:13:39.840 --> 01:13:43.119]  Now that it is the high holy days, it's simple.
+[01:13:44.320 --> 01:13:47.520]  You behaved just like the Goyam you do not respect.
+[01:13:47.840 --> 01:13:50.480]  After the holiday, I will be willing to share a meal.
+[01:13:50.800 --> 01:13:51.680]  No sex, none.
+[01:13:51.840 --> 01:13:52.159]  I love you.
+[01:13:52.320 --> 01:13:55.119]  My Jewish studies say that at 13, you should become a man.
+[01:13:55.279 --> 01:13:56.640]  It's not too late.
+[01:13:57.279 --> 01:14:06.159]  Like, to me, that sounds like a sounds like a 16-year-old Jewish girl writing that.
+[01:14:06.800 --> 01:14:09.760]  But then there's this like exchange between Joshua Fink.
+[01:14:12.400 --> 01:14:14.320]  It seems to be suggesting he's the one saying this.
+[01:14:14.480 --> 01:14:14.800]  I don't know.
+[01:14:15.199 --> 01:14:20.000]  Some of this is just like beyond figuring out exactly.
+[01:14:20.880 --> 01:14:23.039]  But this does remind me of a couple things.
+[01:14:23.199 --> 01:14:38.800]  One, I want to talk about sort of the racial, religious, you know, Jewish supremacy aspect of this, which thankfully, you know, because of the hatred of white people that's been mainstreamed over the last 10 years, you know, we know how to talk about this.
+[01:14:39.039 --> 01:14:48.400]  You know, we can find articles placed like the ADL that are like, how to talk to white people about the uncomfortable topic of white supremacy.
+[01:14:48.880 --> 01:14:59.920]  Basically, being like, you know, it might be a little uncomfortable for you to hear that we want to eradicate your race, but you need to accept this and learn to understand to be okay with it, okay?
+[01:15:00.400 --> 01:15:06.880]  And it's like, all right, well, we'll take that same strategy here and we'll just talk to the Jews and say, look, this might be uncomfortable.
+[01:15:07.199 --> 01:15:09.440]  This might make you feel like you're being attacked.
+[01:15:09.520 --> 01:15:10.560]  You're not, though.
+[01:15:11.199 --> 01:15:13.440]  Only unlike the ADL, I actually mean it.
+[01:15:13.680 --> 01:15:18.720]  Only unlike the ADL, I actually don't hate entire races of people.
+[01:15:19.680 --> 01:15:40.000]  But I do see the way that anti-Semitism is played up and is propagandized in order to convince the average Jewish person that they should step in the line of fire for these elite billionaires who don't give a damn about them and will use them just as soon as they'll use anybody else, despite their claims of, you know, genetic superiority or whatever else.
+[01:15:40.320 --> 01:15:43.199]  These people are scum with a capital S.
+[01:15:44.159 --> 01:15:53.520]  So don't fall for it and don't think that you have to protect the Jewish people by standing up and stopping the slander against innocent Jeffrey Epstein.
+[01:15:53.600 --> 01:15:54.560]  I mean, that's how it comes across.
+[01:15:54.800 --> 01:15:56.640]  So just why would you do that?
+[01:15:56.960 --> 01:15:58.320]  It's crazy.
+[01:15:58.640 --> 01:16:00.159]  That is crazy.
+[01:16:01.680 --> 01:16:05.440]  But there's a game that I like to play and we haven't played in a while.
+[01:16:06.400 --> 01:16:08.480]  It's called Wikipedia Hopscotch.
+[01:16:09.119 --> 01:16:15.840]  You go to Wikipedia, you start with a name like Jeffrey Epstein, and you just hop around and you just click on blue links and you see where it goes.
+[01:16:16.000 --> 01:16:28.720]  Because what you find very rapidly is that just about everybody in a position of power in the American government are the sons or daughters of people who were powerful in the American government.
+[01:16:29.039 --> 01:16:35.039]  And that they all are closely related to a whole bunch of other extremely important and powerful people.
+[01:16:35.199 --> 01:16:36.320]  And it's not a coincidence.
+[01:16:36.480 --> 01:16:38.480]  It shouldn't be a surprise.
+[01:16:38.800 --> 01:16:41.920]  Because what we're dealing with here is, yes, it's a mafia.
+[01:16:42.079 --> 01:16:57.440]  Yes, it's a ethnic superiority group of people that feel they have the right to impose control on other groups because of their genetic or divine superiority, whatever it is.
+[01:16:58.079 --> 01:17:01.039]  And so you do have that aspect of it.
+[01:17:03.520 --> 01:17:04.960]  And we need to talk about that.
+[01:17:05.119 --> 01:17:07.760]  We need to figure out how to deal with that.
+[01:17:10.880 --> 01:17:22.320]  Well, at the same time, we need the average Jewish person to understand we need them on our side and being against this.
+[01:17:25.119 --> 01:17:38.320]  But, I mean, look up, especially, I mean, start with something maybe like the Ukraine war that we have documents in here where Jeffrey Epstein is telling the Rothschilds, hey, if we overthrow the Ukraine government, there's a lot of opportunity for us.
+[01:17:38.640 --> 01:17:40.079]  You know, start with Ukraine.
+[01:17:40.400 --> 01:17:43.920]  You can look at like Victoria Newland, see who her husband is.
+[01:17:44.240 --> 01:17:51.199]  You know, go check out Anthony Blinken, see who his stepdad was and who he maybe represented as a lawyer.
+[01:17:51.520 --> 01:18:09.200]  You know, you'll very quickly arrive at names like Ghislaine Maxwell, and you can go to her dad and find out who he was, known as the super spy, a triple agent between the UK, Mossad, and MI6, or rather, Russia, KGB, MI6, and Mossad.
+[01:18:11.360 --> 01:18:13.840]  Because this is in part a mafia.
+[01:18:14.159 --> 01:18:16.720]  It's in part an ethnic supremacy type of thing.
+[01:18:17.039 --> 01:18:23.360]  And it's in part a form of meritocratic nobility, is how I'd put it.
+[01:18:23.680 --> 01:18:31.840]  In that the position's going to go to the son or daughter of somebody established in this network.
+[01:18:32.480 --> 01:18:34.400]  You don't inherit it automatically all the time.
+[01:18:34.560 --> 01:18:35.440]  Sometimes you do.
+[01:18:35.760 --> 01:18:39.600]  The Soros family is doing a direct inheritance sort of thing, right?
+[01:18:39.760 --> 01:18:42.079]  George Soros hands the baton to his son.
+[01:18:42.240 --> 01:18:56.160]  The son assumes the role as the new prince, and all loyalty and fealty is transferred to him, and all of the subjects go and pay respect to him and kiss his feet and take pictures of him with him.
+[01:18:56.720 --> 01:19:14.320]  So sometimes it is just direct lineage, but usually it's more of a, here's a group of people with a lot of kids and a lot of positions of power, and they go to the best universities and they get, and so you have a big pool of people to choose from, and you slot them into the positions where they're needed at any certain time.
+[01:19:14.960 --> 01:19:28.160]  So it's a form of like shadow black nobility, but it has a meritocratic element to it that you're not automatically given the position, but you are a candidate that they'll choose from to put in a position.
+[01:19:28.480 --> 01:19:29.680]  That's the way this operates.
+[01:19:29.840 --> 01:19:37.680]  And you can play a little Wikipedia hopscotch, hop around, figure out who's related to who, and this all becomes rather unavoidable.
+[01:19:38.000 --> 01:19:39.200]  More on the other side.
+[01:19:39.520 --> 01:19:44.080]  We're going to finish out getting into all of the most offensive and horrifying stuff.
+[01:19:44.240 --> 01:19:45.200]  So don't go anywhere, folks.
+[01:19:45.280 --> 01:19:46.240]  It's Yax Jones Show.
+[01:19:46.320 --> 01:19:47.280]  I'm your host, Harrison Smith.
+[01:19:47.440 --> 01:19:48.560]  Return in just a few minutes.
+[01:19:48.640 --> 01:19:49.760]  Don't go anywhere.
+[01:19:52.000 --> 01:19:53.520]  Welcome back, ladies and gentlemen.
+[01:19:53.600 --> 01:19:54.720]  This is the Alex Jones Show.
+[01:19:54.960 --> 01:20:00.080]  I'm Harrison Smith singing for Alex today, although he has just filed another report that we'll go to in just a minute.
+[01:20:01.840 --> 01:20:07.600]  And we do have some more videos to go to, but I mean, there's just so much.
+[01:20:07.760 --> 01:20:11.120]  There's just so much from the Epstein files.
+[01:20:14.880 --> 01:20:15.520]  We'll just keep going.
+[01:20:15.600 --> 01:20:18.240]  We'll just keep trudging along here.
+[01:20:18.880 --> 01:20:21.840]  Again, the more sordid, disgusting stuff.
+[01:20:21.920 --> 01:20:23.120]  I mean, there's talk of torture.
+[01:20:23.280 --> 01:20:25.040]  There's talk of torture videos.
+[01:20:25.360 --> 01:20:42.880]  In fact, maybe I will go to some of these videos because people have looked into, cross-referenced the dates on some of these emails and found who they think they know who Jeffrey Epstein was communicating about torture videos with.
+[01:20:43.840 --> 01:20:52.320]  And, well, it's exactly who you would expect it to be if you're me, I guess you could say.
+[01:20:56.160 --> 01:20:56.960]  But let's talk about this.
+[01:20:57.120 --> 01:21:00.240]  This is from Amber Woods, Amber Woods100 on X.
+[01:21:00.640 --> 01:21:01.760]  I feel like this needs to be clarified.
+[01:21:01.840 --> 01:21:04.720]  The Epstein files are not about Judaism or Jewish people.
+[01:21:05.040 --> 01:21:09.760]  It's about a specific elite power network tied together by money, institution, and influence.
+[01:21:10.000 --> 01:21:14.320]  That network is mostly Jewish in background, but it's not about faith or religion.
+[01:21:14.640 --> 01:21:20.800]  Communities are not responsible for the crimes of powerful men, and it's important to remember that, and women, by the way.
+[01:21:21.040 --> 01:21:26.000]  Accountability requires naming power clearly, not blurring it to protect abusers or silent survivors.
+[01:21:26.160 --> 01:21:28.240]  It's not the Jews, it's the elites.
+[01:21:28.560 --> 01:21:29.920]  Well, it's the elite Jews.
+[01:21:30.240 --> 01:21:30.480]  Yeah.
+[01:21:31.440 --> 01:21:39.920]  Again, I don't disagree with that at all because it's exactly how you would treat any ethnic mafia.
+[01:21:40.240 --> 01:21:47.920]  Replace Jewish with Italian or Catholic, and it makes perfect sense as well, right?
+[01:21:48.240 --> 01:21:49.680]  No, it's not the entire community.
+[01:21:49.840 --> 01:21:55.600]  It's the elite of the community, and they victimize the community just as much as they victimize people outside the community.
+[01:21:55.920 --> 01:22:00.480]  That doesn't mean it's not ethnically organized, because it obviously is.
+[01:22:00.720 --> 01:22:11.840]  And it doesn't mean that the motivations of the people in these groups aren't ethnic supremacist in nature, which they are, in their own words.
+[01:22:12.160 --> 01:22:16.800]  I don't have to speculate or project thoughts onto them.
+[01:22:17.120 --> 01:22:19.840]  It's throughout all of these emails the way that they use.
+[01:22:20.160 --> 01:22:21.920]  Can we start saying the G word?
+[01:22:22.240 --> 01:22:24.640]  Because it really is the N-word for non-Jews.
+[01:22:24.800 --> 01:22:29.680]  It's a slur that is meant to dehumanize anybody that's not Jewish.
+[01:22:30.000 --> 01:22:33.280]  It would be used the same way that a white racist would use the N-word.
+[01:22:33.680 --> 01:22:35.920]  We'll call it the G-word from now on.
+[01:22:37.520 --> 01:22:38.960]  So she's right, obviously.
+[01:22:39.280 --> 01:22:54.880]  This doesn't land on all Jewish people, but I will say the onus and the most pressure should be on the Jewish community, just like the pressures on the white community to disavow white supremacists.
+[01:22:55.120 --> 01:23:01.920]  It's on the Jewish community to disavow this Jewish supremacy, to call it out and to denounce it.
+[01:23:02.880 --> 01:23:04.400]  Why wouldn't you, right?
+[01:23:05.360 --> 01:23:15.760]  Because what the Jewish community has been trained to respond in this way is that any of these claims have to be anti-Semitic.
+[01:23:16.000 --> 01:23:17.440]  And so you have to fight back against them.
+[01:23:17.520 --> 01:23:30.560]  Not that these are real and that these are real concerns that people really have, but that this is some sort of anti-Semitic canard and that, you know, by talking about Jeffrey Epstein, we are somehow attacking the average Jewish person.
+[01:23:30.640 --> 01:23:33.680]  So the average Jewish person is told you have to stand up for yourself.
+[01:23:34.000 --> 01:23:38.560]  When in reality, you're being tricked into standing up for a bunch of criminal rapists.
+[01:23:38.880 --> 01:23:41.120]  Okay, so don't fall for that, please.
+[01:23:41.760 --> 01:23:57.120]  But this to me has been almost the biggest thing out of all of this is the number of people sort of realizing that this is an aspect of the modern Jewish diaspora.
+[01:23:57.760 --> 01:24:02.320]  People are posting the trend of the search trend for the word gom.
+[01:24:02.480 --> 01:24:03.920]  And it just goes straight up.
+[01:24:04.000 --> 01:24:09.120]  So a lot of people are like finding out about this word for the first time and about the mindset that it represents.
+[01:24:10.400 --> 01:24:11.840]  But it's not a new thing.
+[01:24:12.080 --> 01:24:16.160]  And it's not even necessarily like a well-kept secret exactly.
+[01:24:16.480 --> 01:24:19.920]  There was a reality TV show with the lead singer of KISS.
+[01:24:21.040 --> 01:24:27.600]  And in that DV show that, you know, broadcasts on cable TV, there's a scene where his car breaks down.
+[01:24:27.680 --> 01:24:29.680]  He's looking at the engine with his son.
+[01:24:30.000 --> 01:24:31.280]  And the son is asking him questions.
+[01:24:31.360 --> 01:24:32.720]  He's like, do you know how to do this?
+[01:24:33.040 --> 01:24:38.240]  And the lead singer of KISS, what's his name, Gene, whatever?
+[01:24:39.520 --> 01:24:43.600]  Gene Simmons, he says in this video, he says, no, I don't know how to do any of this.
+[01:24:43.680 --> 01:24:45.040]  That's what the Goyem are for.
+[01:24:45.600 --> 01:24:47.440]  And right, that was published on TV.
+[01:24:47.520 --> 01:24:48.720]  It was like a natural thing.
+[01:24:48.800 --> 01:24:51.760]  And it's like, that's kind of a weird mindset, though.
+[01:24:52.080 --> 01:24:53.440]  We don't work on cars.
+[01:24:53.760 --> 01:24:55.040]  That's what everybody else is for.
+[01:24:55.200 --> 01:24:55.920]  We drive the cars.
+[01:24:56.000 --> 01:24:56.640]  We own the cars.
+[01:24:56.720 --> 01:24:57.360]  We buy the cars.
+[01:24:57.600 --> 01:24:59.200]  We know how to work on them.
+[01:24:59.840 --> 01:25:01.440]  We're above such work.
+[01:25:01.760 --> 01:25:03.840]  And that's the mindset that comes across.
+[01:25:04.160 --> 01:25:11.600]  And it's a mindset that comes across quite a bit in the emails that are sent that we'll go to in just a second.
+[01:25:11.680 --> 01:25:30.000]  But I do want to go to a new report from Alex Jones, again, about the Epstein files as we continue to dig into this and find out the real detail, the real skin and bones of what we'd previously seen just as sort of a shadow in the distance.
+[01:25:30.880 --> 01:25:42.800]  And that really is how I feel about it, that it's like we're coloring in or the other way I often put it is we can see the stars, but now we need to draw the lines between them to build the constellation.
+[01:25:43.120 --> 01:25:54.400]  We can always see the independent data points, but these emails are helping us to draw the lines that connect them to give us a full fleshed out picture, not just the scatter plot of information.
+[01:25:54.640 --> 01:26:00.080]  Here's Alex Jones talking about some of what's been discovered in the Epstein document release.
+[01:26:01.920 --> 01:26:03.600]  I've been watching Harrison Live tonight.
+[01:26:03.680 --> 01:26:07.440]  He's doing a great job getting through all these incredible Epstein files.
+[01:26:07.760 --> 01:26:15.600]  And I saw him at the start of the show make the point that out of everything this really is devastating to the British crown and to Israel.
+[01:26:15.920 --> 01:26:18.160]  That Epstein was definitely an opera for both groups.
+[01:26:18.240 --> 01:26:19.040]  We know that.
+[01:26:19.360 --> 01:26:24.000]  I mean, if you look at Ehud Barack, if you look at Larry Summers, all these people, these are Israeli operatives.
+[01:26:24.240 --> 01:26:25.920]  And they've had undue influence over our country.
+[01:26:26.000 --> 01:26:28.240]  And they've been using these black bell rings for control.
+[01:26:28.480 --> 01:26:30.160]  So is the CIA, so is MI6.
+[01:26:30.720 --> 01:26:32.480]  But this is a big deal.
+[01:26:33.120 --> 01:26:36.640]  Some of them said, oh, this is coming out because Trump didn't strike Iran.
+[01:26:37.280 --> 01:26:38.640]  And so Israel's blackmailing him.
+[01:26:38.800 --> 01:26:43.760]  No, this exonerates Trump and exposed the CIA Mossad MI6.
+[01:26:44.720 --> 01:26:48.800]  So this is a huge, huge, huge, huge deal.
+[01:26:49.120 --> 01:26:51.760]  And you see the raid on Georgia and you see all this other action.
+[01:26:51.840 --> 01:26:52.880]  Trump's really hitting traction.
+[01:26:52.960 --> 01:26:54.480]  He's really taking action now.
+[01:26:54.800 --> 01:26:57.760]  And he came out yesterday and said, yes, it exonerates me because it does.
+[01:26:58.080 --> 01:26:59.200]  And it's all Democrats.
+[01:26:59.520 --> 01:27:00.320]  It's so crazy.
+[01:27:00.480 --> 01:27:01.920]  And don't forget we post the reports.
+[01:27:02.160 --> 01:27:03.920]  Well, there's like, yeah, there's seven of us.
+[01:27:04.080 --> 01:27:05.120]  One piece of pizza's coming.
+[01:27:05.200 --> 01:27:05.680]  It's really great.
+[01:27:05.760 --> 01:27:08.000]  It's really going to have a lot of fun with this piece of pizza.
+[01:27:08.160 --> 01:27:09.920]  And it's the FBI follows its kids.
+[01:27:10.240 --> 01:27:12.880]  I mean, just do not let them distract away from that.
+[01:27:12.960 --> 01:27:15.120]  This is so mega massive.
+[01:27:15.280 --> 01:27:23.360]  And take this show tonight and share the live feed, Relic Shows on X, the Rumble feed at the Alex Jones show, InfoWars.com forward slash show.
+[01:27:23.600 --> 01:27:24.560]  Take these clips and share them.
+[01:27:24.640 --> 01:27:25.680]  This broadcast belongs to you.
+[01:27:26.000 --> 01:27:28.240]  The power of this broadcast all depends on you.
+[01:27:28.560 --> 01:27:29.520]  So take action now.
+[01:27:29.760 --> 01:27:31.120]  Their house of cards is coming down.
+[01:27:31.200 --> 01:27:32.320]  They fought to suppress this.
+[01:27:32.640 --> 01:27:34.720]  It's totally backfront of the Democrats.
+[01:27:35.040 --> 01:27:37.360]  You know, the Q folks said Trump's acting like he doesn't want it out.
+[01:27:37.440 --> 01:27:38.400]  So they pushed for it to come out.
+[01:27:38.560 --> 01:27:40.000]  I was like, oh, that sounds crazy.
+[01:27:40.080 --> 01:27:42.800]  But I got to say, they were right about that.
+[01:27:42.880 --> 01:27:44.480]  I mean, this is just nuts.
+[01:27:44.800 --> 01:27:45.760]  This is crazy.
+[01:27:46.080 --> 01:27:47.520]  They are so dangerous right now, though.
+[01:27:47.600 --> 01:27:48.160]  They're going to strike back.
+[01:27:48.240 --> 01:27:55.840]  So if you're talking about what's their next move, that's so funny that it ends with that because that's exactly what I was just thinking as you talk about this.
+[01:27:57.040 --> 01:28:02.720]  But the fact that this stuff is so explosive and there's so much to get through.
+[01:28:03.040 --> 01:28:04.720]  I mean, that may have been their strategy at the end of it.
+[01:28:04.800 --> 01:28:06.000]  It's like, look, we have to release this.
+[01:28:06.160 --> 01:28:08.800]  Just dump it all because it's so overwhelming.
+[01:28:09.120 --> 01:28:14.320]  It might have even been worse if we'd just gotten this in little chunks because then we could really delve in and like examine each.
+[01:28:14.720 --> 01:28:16.400]  They just blasted everything.
+[01:28:16.720 --> 01:28:19.760]  And so, right, part of me wants to like delve in and talk about all this.
+[01:28:19.840 --> 01:28:21.440]  The other part of me goes, all right, what am I missing?
+[01:28:21.520 --> 01:28:23.040]  What is this distracting from?
+[01:28:23.360 --> 01:28:25.840]  And there are some funny possibilities.
+[01:28:25.920 --> 01:28:32.720]  Like I saw a thing today going, Donald Trump is preparing to, you know, do the disclosure about aliens that visit us.
+[01:28:32.880 --> 01:28:34.320]  And it's like, guys, not right now.
+[01:28:34.640 --> 01:28:36.880]  Guys, just no, not right now.
+[01:28:37.200 --> 01:28:38.640]  Save it for a little while.
+[01:28:39.520 --> 01:28:44.720]  If it's a real disclosure, if they really do want to disclose aliens, don't do it right now.
+[01:28:44.960 --> 01:28:54.960]  If you do it right now, no one's going to believe you because it's obvious that you're just trying to distract from the wealth of information about the giant New World Order control structure dumped on our laps.
+[01:28:55.200 --> 01:28:56.080]  Now's not the time.
+[01:28:56.320 --> 01:28:57.840]  So maybe they'll try to distract from that.
+[01:28:58.000 --> 01:29:02.960]  But it's like, this is so much information and it's all come out at once.
+[01:29:03.120 --> 01:29:06.800]  And like I said, there have been some pretty crazy results from this already.
+[01:29:07.040 --> 01:29:12.720]  Already, there are national politicians in places like Slovakia who have resigned because they're in this.
+[01:29:12.880 --> 01:29:13.440]  They're in these.
+[01:29:13.600 --> 01:29:21.120]  Larry Summers, of course, had to resign from OpenAI and Harvard because of an earlier release of the Epstein documents.
+[01:29:21.440 --> 01:29:29.040]  Apparently, Jay-Z has fled the U.S. because he's mentioned very extensively in the Epstein documents.
+[01:29:29.680 --> 01:29:40.000]  So while typically I would be concerned about some major false flag attack to prevent this release, now that it's been released, I think the bad guys are on their back foot.
+[01:29:40.160 --> 01:29:45.600]  I think they don't know what to do at this point and are scrambling behind the scenes.
+[01:29:45.760 --> 01:29:52.080]  And probably each one individually is trying to cover their own butt and wondering who they need to throw under the bus to survive.
+[01:29:53.040 --> 01:29:58.160]  So I think this has been a major offensive blow against the New World Order.
+[01:29:58.320 --> 01:29:59.600]  I mean, it has been.
+[01:29:59.920 --> 01:30:00.480]  It has been.
+[01:30:00.640 --> 01:30:08.960]  Because while we've known a lot of this stuff in general for a decade or more, multiple decades at this point, since he was first arrested in 2005, I believe.
+[01:30:09.280 --> 01:30:15.600]  And InfoWars now, because we're reporting on it at 2005.
+[01:30:17.520 --> 01:30:20.640]  We've known about this forever, but a lot of people are waking up to this for the first time.
+[01:30:20.960 --> 01:30:23.520]  And don't go crazy.
+[01:30:23.680 --> 01:30:25.680]  Don't really go insane.
+[01:30:26.000 --> 01:30:29.360]  Just because you're learning all of this for the first time doesn't mean it's all happening for the first time.
+[01:30:29.440 --> 01:30:34.000]  And I feel like that's how a lot of people respond: as if all of this is happening right now and they're like tearing their hair out.
+[01:30:34.080 --> 01:30:34.560]  Like, how did we?
+[01:30:35.040 --> 01:30:42.160]  Like, absorb it, internalize it, understand that our world is run by satanic pedophiles.
+[01:30:42.480 --> 01:30:45.040]  This has been the case forever, and we've been telling you this forever.
+[01:30:45.360 --> 01:30:47.040]  Now, I still am able to live my life.
+[01:30:47.200 --> 01:30:49.040]  I'm still able to have a wife and children.
+[01:30:49.120 --> 01:30:50.240]  I go out and have fun.
+[01:30:50.560 --> 01:30:53.280]  This has not blackpilled me into depression.
+[01:30:53.440 --> 01:30:55.120]  Don't let it blackpill you into depression.
+[01:30:55.440 --> 01:31:00.240]  Follow me, understand that we have blazed the trail, that we have made this path safe.
+[01:31:00.480 --> 01:31:05.120]  You can understand this and accept this, and then join the team fighting back against this.
+[01:31:06.000 --> 01:31:11.120]  This revelation is only possible because of the work that Alex Jones and InfoWars did.
+[01:31:11.440 --> 01:31:13.280]  And I'm not just saying that to pump ourselves up.
+[01:31:13.440 --> 01:31:15.200]  I'm saying that because our enemies say that.
+[01:31:15.440 --> 01:31:17.040]  Why did they come after us like they did?
+[01:31:17.280 --> 01:31:17.840]  Don't listen to me.
+[01:31:18.000 --> 01:31:41.840]  Listen to the people that testified under oath in the trial against us, who said over and over again that it was our impact, our influence, the fact that we, above and beyond anybody else, the exact thing they said was: you know, Glenn Beck and Rush Limbaugh combined didn't have nearly the amount of influence that Alex Jones did in 2016 getting Trump elected.
+[01:31:42.160 --> 01:31:50.320]  We got Trump elected, which kicked off the domino effect of that eventually resulted in this Jeffrey Epstein release.
+[01:31:51.280 --> 01:31:57.840]  So if you're learning about this stuff for the first time, if the scales have now been lifted from your eyes, thank God.
+[01:31:58.000 --> 01:31:59.040]  Welcome to the party.
+[01:31:59.360 --> 01:32:04.000]  We understand the world is run by the most sickeningly evil people that you've ever seen.
+[01:32:04.320 --> 01:32:08.240]  Don't let that defeat you.
+[01:32:09.440 --> 01:32:10.960]  That may be another part of this.
+[01:32:11.280 --> 01:32:21.040]  This may very well be a deliberate revelation of the method to inure people to it, to make people accept it, to make people think, wow, they control everything.
+[01:32:21.200 --> 01:32:21.920]  What could we ever do?
+[01:32:22.000 --> 01:32:23.200]  We better submit.
+[01:32:24.800 --> 01:32:33.440]  Whatever the purpose of this release is, whether the outcome is intended or not, you know that they want you demoralized.
+[01:32:33.600 --> 01:32:35.920]  You know that they want you feeling helpless and hopeless.
+[01:32:36.240 --> 01:32:39.040]  So don't let this information contribute to that feeling.
+[01:32:39.360 --> 01:32:41.040]  Understand, this is a victory.
+[01:32:41.200 --> 01:32:42.240]  They have been exposed.
+[01:32:42.560 --> 01:32:44.000]  They are on the run.
+[01:32:44.640 --> 01:32:45.520]  They are scrambling.
+[01:32:45.840 --> 01:32:47.440]  In some cases, they're literally on the run.
+[01:32:47.600 --> 01:32:49.280]  They're fleeing the country.
+[01:32:50.160 --> 01:32:51.600]  So we have now the initiative.
+[01:32:51.760 --> 01:32:53.120]  We are on the offense.
+[01:32:53.440 --> 01:33:00.720]  Don't let the revelation of all of this make you feel like you've lost, because that is a very dangerous mindset to be in.
+[01:33:04.480 --> 01:33:05.600]  So this is from AF Post.
+[01:33:05.680 --> 01:33:10.080]  This is probably one of the most popular examples of this type of post.
+[01:33:10.320 --> 01:33:20.240]  From AF Post, the Epstein emails include numerous derogatory remarks against Goyam, which is used as an insult by Epstein to Josh, an unnamed Jew, in a 2012 email.
+[01:33:20.560 --> 01:33:23.600]  Quote, you behave just like the Goyam you do not respect, said Epstein.
+[01:33:23.680 --> 01:33:27.120]  Again, I don't, if that's Epstein writing that, that's weird as hell.
+[01:33:27.680 --> 01:33:31.600]  He's like, I learned in my Jewish study classes, you're supposed to be a man by 13.
+[01:33:32.080 --> 01:33:32.960]  It's never too late.
+[01:33:33.040 --> 01:33:42.320]  And it's like, all right, either this is a teenage Jewish princess that wrote this, in which case I feel bad for her.
+[01:33:42.880 --> 01:33:43.920]  And I'm not laughing at her.
+[01:33:44.000 --> 01:33:48.080]  But if that was Jeffrey Epstein saying that, then he's more messed up than we even knew.
+[01:33:49.040 --> 01:33:51.520]  Regardless, this was the sentiment being shared.
+[01:33:51.840 --> 01:34:06.560]  An edition of the Shimon Post also appears in the files, quoting former Sephardic Chief Rabbi Ovedia Yosef as saying, Goyam were only born to serve us, Jews, and the Israeli prime minister David Ben-Gurion remarking that it does not matter what, quote, the Goyam say.
+[01:34:06.640 --> 01:34:07.840]  What matters is what the Jews do.
+[01:34:08.160 --> 01:34:14.000]  The document also includes a discussion of the halakhic rulings concerning the killing of Gentiles by Jews.
+[01:34:14.400 --> 01:34:21.920]  And again, this was in the files and informs a lot of the usage of those words that you hear in these files.
+[01:34:22.240 --> 01:34:29.520]  And again, we're seeing people that have sort of avoided this topic for a long time actually address it here, which is, I think, a good thing.
+[01:34:29.760 --> 01:34:36.800]  Cernovich, Mike Cernovich, one of the best followers on Twitter ever, says the racism Jeffrey Epstein had for white people is evident throughout his emails.
+[01:34:37.040 --> 01:34:39.520]  That won't get reported on much, but search Goy.
+[01:34:40.000 --> 01:34:43.680]  It is not used to, it is not used to denote a non-Jewish person.
+[01:34:43.760 --> 01:34:44.480]  It's a slur.
+[01:34:44.720 --> 01:34:47.520]  Ethnic and racial hatred of all forms should be called out.
+[01:34:47.680 --> 01:34:48.080]  Absolutely.
+[01:34:48.320 --> 01:34:52.000]  Jack Bisobic, there's tons of anti-white hatred for whites in these emails.
+[01:34:52.240 --> 01:34:53.360]  Goy, Goyam, all over.
+[01:34:53.600 --> 01:34:58.560]  Clear that Epstein had no qualm with fleecing whites financially as well as grooming young girls.
+[01:34:58.880 --> 01:35:15.200]  Now, the reason this I think is more prominent and pertinent when it comes to the Jewish mafia is because things like the Italian mafia were operating in total contradiction to basic Catholic teachings.
+[01:35:16.400 --> 01:35:31.360]  However, depending on which sect of Judaism you're talking about, a lot of rabbis will tell you this is exactly what the Old Testament or the Talmud tells Jews how to behave.
+[01:35:31.520 --> 01:35:33.760]  Because remember, that book's from the Bronze Age.
+[01:35:34.640 --> 01:35:46.640]  It was instructions for Jews at a time period where they were surrounded by barbarians and had to survive for long enough to deliver the Messiah, Jesus Christ.
+[01:35:50.800 --> 01:35:53.600]  Yeah, this is we can go to that video.
+[01:35:53.840 --> 01:35:54.480]  Let's go to that video.
+[01:35:55.040 --> 01:36:00.160]  This is one of, if not the most popular, political streamer on Twitch.
+[01:36:00.480 --> 01:36:03.200]  Probably the most popular now that, oh man, I didn't even think about that.
+[01:36:03.520 --> 01:36:08.480]  Hassan Chenk's nephew just got banned on Twitch.
+[01:36:09.120 --> 01:36:10.880]  What a terrible time to be banned on Twitch.
+[01:36:11.040 --> 01:36:15.360]  But now this is Asmongold, probably the number one streamer on Twitch.
+[01:36:15.840 --> 01:36:18.720]  Here's what he had to say after reading some of this stuff.
+[01:36:19.920 --> 01:36:20.720]  Oh, here we go.
+[01:36:21.040 --> 01:36:24.720]  Goyam were born to only serve us.
+[01:36:25.040 --> 01:36:33.680]  He said in a 2010 sermon, without that, they have no place in the world, only to serve the people of Israel.
+[01:36:34.000 --> 01:36:38.000]  Guys, this is insane.
+[01:36:39.840 --> 01:36:41.120]  Yeah, I mean, it is.
+[01:36:41.280 --> 01:36:42.720]  It is insane.
+[01:36:44.000 --> 01:36:45.680]  I mean, not that insane.
+[01:36:46.640 --> 01:36:53.920]  But how do you get people who are going along with like torture sessions and kidnapping people and raping them?
+[01:36:54.400 --> 01:36:59.520]  Well, how do you get soldiers to burn villages?
+[01:36:59.840 --> 01:37:03.440]  You dehumanize the people there, usually on the basis of race.
+[01:37:03.760 --> 01:37:04.640]  So it's not really confusing.
+[01:37:04.800 --> 01:37:06.560]  In a way, it's like a coping mechanism.
+[01:37:06.880 --> 01:37:09.280]  These people are doing incredibly evil things to people.
+[01:37:09.440 --> 01:37:14.240]  They have to justify it by saying, well, we're the superior race and they were, you know, born to serve us.
+[01:37:14.320 --> 01:37:15.840]  So it's not actually bad what we're doing.
+[01:37:16.160 --> 01:37:21.040]  Just like you wouldn't, you know, feel bad about killing a cow that you raised to eat.
+[01:37:21.360 --> 01:37:22.720]  That's their purpose, right?
+[01:37:24.560 --> 01:37:34.400]  Jewish NBA commissioner David Stern is in the Epstein emails begging Jeffrey to get him into a conference for free, refusing to wait in the conference lobby because, quote, that's for the Goyam.
+[01:37:35.680 --> 01:37:42.640]  So, again, it's like this just, you understand, this just informs their mindset.
+[01:37:43.920 --> 01:37:45.920]  This is the way they think about stuff.
+[01:37:46.240 --> 01:37:47.280]  Wait in a lobby?
+[01:37:47.520 --> 01:37:48.000]  I don't do that.
+[01:37:48.160 --> 01:37:49.040]  I'm Jewish.
+[01:37:49.360 --> 01:37:52.160]  I don't wait like these other people.
+[01:37:52.960 --> 01:37:53.840]  I'm the chosen.
+[01:37:53.920 --> 01:37:55.440]  Like, that's their mindset.
+[01:37:55.920 --> 01:37:57.200]  I'm not projecting that onto them.
+[01:37:57.280 --> 01:37:58.160]  That's what they're saying.
+[01:37:58.480 --> 01:38:01.600]  And do you think if that's how they feel about waiting in line at a conference?
+[01:38:01.760 --> 01:38:04.240]  Like, how do you think they make business decisions?
+[01:38:04.560 --> 01:38:07.200]  How do you think they operate in their own life?
+[01:38:07.840 --> 01:38:12.720]  I mean, this should be like one of the biggest scandals out there.
+[01:38:14.320 --> 01:38:35.600]  And it should be the Jewish community that is most vociferously condemning this mindset and ousting these people from polite society in the exact same way that it would happen if it was suddenly discovered, a giant tranche of emails of, I don't know, JD Vance and Donald Trump saying the N-word a bunch.
+[01:38:35.760 --> 01:38:37.680]  Wait in the lobby, I'm not a blank.
+[01:38:38.000 --> 01:38:40.800]  It's like, whoa, dude, no, that's not okay.
+[01:38:40.960 --> 01:38:42.080]  Like, we aren't okay with that.
+[01:38:42.320 --> 01:38:46.880]  We aren't okay with you talking like that in private because that just means it's how your mindset is.
+[01:38:47.040 --> 01:38:50.960]  And you're lying to us the rest of the time and you're pretending not to be like that.
+[01:38:52.640 --> 01:38:53.200]  It's not confusing.
+[01:38:53.360 --> 01:38:54.160]  This isn't difficult.
+[01:38:54.480 --> 01:38:57.680]  We've been through this before with white people.
+[01:38:58.960 --> 01:39:05.360]  A woman named Masha tells Epstein that he should only work with genetically tested Jews, claiming it correlates to being smart.
+[01:39:05.520 --> 01:39:08.240]  She told Epstein, you're 98% Jew, you're very smart.
+[01:39:08.800 --> 01:39:15.760]  Victim Maria Farmer said Epstein and Ghillane would often talk of their superiority to quote-unquote Gentiles.
+[01:39:16.080 --> 01:39:20.240]  And here they're talking about doing 23andMe genetic tests to determine who's Jewish.
+[01:39:20.400 --> 01:39:23.600]  So, you know, it's not a matter of religion, right?
+[01:39:23.680 --> 01:39:25.760]  It's not a matter of conversion.
+[01:39:25.920 --> 01:39:26.960]  It's not a matter of belief.
+[01:39:27.120 --> 01:39:28.400]  It's a matter of genetics.
+[01:39:28.720 --> 01:39:30.720]  So it is racism at its purest form.
+[01:39:31.040 --> 01:39:34.880]  But then you've got non-Jewish people like Madonna in the file.
+[01:39:35.040 --> 01:39:44.720]  She apparently was on TV talking about Kabbalah, Jewish mysticism, and Jeffrey Epstein and others are mocking her, basically being like, she thinks she's Jewish.
+[01:39:44.800 --> 01:39:45.120]  She's not.
+[01:39:45.280 --> 01:39:46.240]  She's still a gom.
+[01:39:48.480 --> 01:39:52.160]  So it doesn't matter if you like convert or you don't want to believe it's a genetic thing.
+[01:39:52.240 --> 01:39:53.120]  It's a bloodline thing.
+[01:39:53.280 --> 01:39:57.760]  It's a familial thing, just like the mafia, just like nobility.
+[01:39:58.400 --> 01:40:00.720]  Just so we understand what we're dealing with here.
+[01:40:01.040 --> 01:40:10.160]  And once again, I say if you are a Jewish person that is sort of feeling the hairs of the back of your neck, prick up because you're sensing anti-Semitism.
+[01:40:10.320 --> 01:40:11.280]  Calm down.
+[01:40:11.600 --> 01:40:12.560]  Calm down.
+[01:40:13.200 --> 01:40:20.320]  The only thing that inspires anti-Semitism from this is if you have a bunch of Jewish people defending this stuff because they think they have to.
+[01:40:20.480 --> 01:40:23.520]  You don't have to defend any of this and you damn well shouldn't.
+[01:40:23.840 --> 01:40:24.960]  Just like Mike Cernovich.
+[01:40:25.120 --> 01:40:25.600]  He's Jewish.
+[01:40:25.760 --> 01:40:29.120]  He doesn't hesitate for a second to say this is wrong and I denounce it.
+[01:40:29.440 --> 01:40:29.920]  It's easy.
+[01:40:30.000 --> 01:40:31.440]  It's actually not that hard to denounce.
+[01:40:31.520 --> 01:40:33.600]  I denounce white supremacy.
+[01:40:33.840 --> 01:40:38.240]  You can denounce Jewish supremacy and we can come together as Americans.
+[01:40:38.560 --> 01:40:42.720]  Don't think that this reflects on you unless you make it reflect on you.
+[01:40:42.960 --> 01:40:43.200]  Okay?
+[01:40:43.760 --> 01:40:46.000]  Just want to clarify that.
+[01:40:46.960 --> 01:40:54.800]  Now, folks, I wasn't able to get to like a tenth of what I got to today, of what I have today to get to.
+[01:40:55.120 --> 01:40:56.560]  I'm going to bring all this back tomorrow.
+[01:40:56.720 --> 01:41:00.000]  I've got videos that you're not going to believe.
+[01:41:00.160 --> 01:41:01.440]  I got, I mean, it's just crazy.
+[01:41:01.600 --> 01:41:07.360]  And we're going to just hit the ground running with this tomorrow and probably the next day and probably the day after that.
+[01:41:07.920 --> 01:41:09.280]  Still a lot more to reveal.
+[01:41:09.440 --> 01:41:13.040]  Hopefully I've given you an overview of how we can think about this.
+[01:41:13.600 --> 01:41:20.560]  But I once again want to re-emphasize that none of this is new to any of us here at InfoWars.
+[01:41:20.880 --> 01:41:24.320]  None of this is really all that surprising.
+[01:41:26.240 --> 01:41:28.960]  None of it has made me change the way I think about any of this.
+[01:41:29.120 --> 01:41:36.160]  And I can play videos from five years ago talking about Jeffrey Epstein showing that we understood all of this already.
+[01:41:36.480 --> 01:41:43.280]  And we've been behaving with this knowledge as a part of our data bank for the last 20 years.
+[01:41:43.600 --> 01:41:52.640]  So people that are just understanding this and just coming to terms with what is being revealed and who think that we, oh my God, we need to come up with a plan to solve this.
+[01:41:52.800 --> 01:41:53.520]  No, no, no.
+[01:41:53.680 --> 01:42:08.560]  The revelation of these documents is proof that our plan is working, is proof that our strategy is the right one and has tangible, effective, monumental, and devastating results against the new world order.
+[01:42:09.040 --> 01:42:15.840]  So if you want to know how to fight this, InfoWars has shown you the blueprint and we will continue to fight this with absolutely everything we've got.
+[01:42:16.080 --> 01:42:27.120]  All you have to do is go to thealxjonesstore.com, support us, get yourself a new knife, get yourself some of the energy drinks, the mind fuel from Optimal Human, one of my favorites.
+[01:42:27.440 --> 01:42:31.040]  We have to hide it in the office because everybody tries to drink it because they're so good and powerful.
+[01:42:31.280 --> 01:42:33.520]  It's a mind fuel, thealxjonesstore.com.
+[01:42:33.680 --> 01:42:35.520]  We've got the new smelling salts.
+[01:42:35.600 --> 01:42:38.880]  We've got a variety of new knives on massive discount.
+[01:42:39.200 --> 01:42:39.920]  Make great gifts.
+[01:42:40.000 --> 01:42:44.720]  Go to thealxjonesstore.com today, and I leave you with a final word from Alex Jones.
+[01:42:46.320 --> 01:42:54.240]  I was one of the first to start covering the Epstein Mossade MS6 CIA honeypot blackmailing operation 18 years ago.
+[01:42:54.560 --> 01:42:56.320]  And yet again, we're vindicated, folks.
+[01:42:56.640 --> 01:42:59.040]  Yet again, exactly what we said is dead on target.
+[01:42:59.360 --> 01:43:05.920]  Human trafficking, sex slavery, pedophilia, the occult, torture of children, mass blackmail.
+[01:43:06.160 --> 01:43:11.040]  These are sociopathic predators who hate humanity.
+[01:43:11.680 --> 01:43:13.200]  And now it's all come out.
+[01:43:14.320 --> 01:43:18.160]  And it's a huge victory that the populist movement forced us to come out.
+[01:43:18.800 --> 01:43:20.080]  Now we need prosecutions.
+[01:43:20.240 --> 01:43:23.520]  But even if the system doesn't prosecute, they're convicted in public opinion.
+[01:43:23.840 --> 01:43:25.360]  They can run, they can't hide.
+[01:43:25.680 --> 01:43:28.160]  They can only operate in the secret before in the shadows.
+[01:43:28.480 --> 01:43:30.320]  That was their power, and now they've lost it.
+[01:43:30.640 --> 01:43:37.600]  That's why all of you that have supported, all of you that have supported the info over the years, this victory is your victory.
+[01:43:37.680 --> 01:43:38.880]  This is our victory.
+[01:43:39.200 --> 01:43:41.440]  This victory belongs to the people of humanity.
+[01:43:41.680 --> 01:43:42.960]  Not just Americans, but around the world.
+[01:43:43.040 --> 01:43:44.000]  So I salute you all.
+[01:43:44.320 --> 01:43:44.960]  Thanks for your support.
+[01:43:45.040 --> 01:43:45.840]  We're in this together.
+[01:43:46.240 --> 01:43:47.360]  Got more big news to break.
+[01:43:47.520 --> 01:43:49.360]  We'll always be ahead of the curve.
+[01:43:49.440 --> 01:43:50.240]  Tomorrow's news today.
+[01:43:50.400 --> 01:43:51.360]  We'll always tell the truth.
+[01:43:51.600 --> 01:43:53.200]  As long as you back us, we'll be here.
+[01:43:53.520 --> 01:43:54.720]  I'll never sell out.
+[01:43:54.800 --> 01:43:58.000]  I'll never give in, never back down, but I could give out without your support.
+[01:43:58.320 --> 01:43:59.200]  I salute you all.
+[01:43:59.520 --> 01:44:02.120]  The Astrodite 84 is 1776.
+[01:44:02.419 --> 01:44:10.939]  Lie to you about what's happening now.
+[01:44:11.400 --> 01:44:14.139]  Infowars tells you the truth about what's happening next.
+[01:44:19.040 --> 01:44:22.720]  Energy shots have been all the rage for decades because they really were.
+[01:44:23.040 --> 01:44:27.280]  But most of them are full of dyes and toxic stimulants and have huge crashes.
+[01:44:27.520 --> 01:44:38.800]  We set out to develop a product at thealxstore.com that has all the very best adaptogens, nootropics to biohack your body and not just help your brain, but every cell in your entire body.
+[01:44:39.040 --> 01:44:40.160]  We've done it, ladies and gentlemen.
+[01:44:40.320 --> 01:44:44.320]  Mind fuel is next level with no letdown, no crash.
+[01:44:44.480 --> 01:44:45.120]  It is very strong.
+[01:44:45.360 --> 01:44:49.040]  So I take half the shot in the morning, half in the afternoon, and it's just amazing.
+[01:44:49.200 --> 01:44:54.640]  And again, the effects go on for days and days and days because these are super nutrients that are in mind fuel.
+[01:44:54.800 --> 01:44:57.280]  In the time I have here, I can't tell you all the incredible ingredients.
+[01:44:57.520 --> 01:45:01.440]  So go to thealixjonstore.com and look at what is in it.
+[01:45:01.680 --> 01:45:04.560]  And of course, proprietary herbal ingredients as well.
+[01:45:04.880 --> 01:45:12.000]  Go now to thealxjonesstore.com and secure your mind fuel and be the reason we'll always be on the air.
+[01:45:12.160 --> 01:45:13.280]  Thank you so much for your support.
